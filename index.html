@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market News — financial headlines by source</title>
+  <meta name="description" content="Financial market headlines aggregated from major outlets, grouped by source. Updated automatically via RSS." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark">📈</span>
+        <div>
+          <h1>Market News</h1>
+          <p class="tagline">Financial headlines, grouped by source</p>
+        </div>
+      </div>
+      <div class="header-tools">
+        <input id="filter" type="search" placeholder="Filter headlines…" autocomplete="off" />
+        <button id="theme-toggle" type="button" title="Toggle theme" aria-label="Toggle theme">🌙</button>
+      </div>
+    </div>
+    <div class="header-meta">
+      <span id="status">Loading…</span>
+    </div>
+  </header>
+
+  <main id="board" class="board" aria-live="polite"></main>
+
+  <footer class="site-footer">
+    <p>
+      Headlines link to their original publishers. Data aggregated from public RSS feeds and refreshed automatically.
+      Built with <a href="https://claude.com/claude-code" target="_blank" rel="noopener">Claude</a>.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

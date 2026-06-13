@@ -1,0 +1,86 @@
+{
+  "_comment": "Each source: name shown in the UI, domain used for the favicon, and one or more RSS feed URLs. Add or remove sources freely — the scraper skips any feed that fails. Keep it to financial-market-focused feeds.",
+  "max_items_per_source": 12,
+  "sources": [
+    {
+      "name": "CNBC Markets",
+      "domain": "cnbc.com",
+      "feeds": ["https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"]
+    },
+    {
+      "name": "CNBC Finance",
+      "domain": "cnbc.com",
+      "feeds": ["https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"]
+    },
+    {
+      "name": "MarketWatch",
+      "domain": "marketwatch.com",
+      "feeds": ["http://feeds.marketwatch.com/marketwatch/topstories/"]
+    },
+    {
+      "name": "MarketWatch Markets",
+      "domain": "marketwatch.com",
+      "feeds": ["http://feeds.marketwatch.com/marketwatch/marketpulse/"]
+    },
+    {
+      "name": "WSJ Markets",
+      "domain": "wsj.com",
+      "feeds": ["https://news.google.com/rss/search?q=when:1d+site:wsj.com+markets&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "name": "Yahoo Finance",
+      "domain": "finance.yahoo.com",
+      "feeds": ["https://finance.yahoo.com/news/rssindex"]
+    },
+    {
+      "name": "Financial Times",
+      "domain": "ft.com",
+      "feeds": ["https://www.ft.com/rss/home"]
+    },
+    {
+      "name": "Investing.com",
+      "domain": "investing.com",
+      "feeds": ["https://www.investing.com/rss/news_25.rss"]
+    },
+    {
+      "name": "Business Insider Markets",
+      "domain": "businessinsider.com",
+      "feeds": ["https://markets.businessinsider.com/rss/news"]
+    },
+    {
+      "name": "The Economist Finance",
+      "domain": "economist.com",
+      "feeds": ["https://www.economist.com/finance-and-economics/rss.xml"]
+    },
+    {
+      "name": "Forbes Markets",
+      "domain": "forbes.com",
+      "feeds": ["https://news.google.com/rss/search?q=when:1d+site:forbes.com+markets&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "name": "BBC Business",
+      "domain": "bbc.com",
+      "feeds": ["https://feeds.bbci.co.uk/news/business/rss.xml"]
+    },
+    {
+      "name": "The Guardian Business",
+      "domain": "theguardian.com",
+      "feeds": ["https://www.theguardian.com/uk/business/rss"]
+    },
+    {
+      "name": "NYT Business",
+      "domain": "nytimes.com",
+      "feeds": ["https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"]
+    },
+    {
+      "name": "Reuters Business (via Google News)",
+      "domain": "reuters.com",
+      "feeds": ["https://news.google.com/rss/search?q=when:1d+site:reuters.com+business&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "name": "Bloomberg (via Google News)",
+      "domain": "bloomberg.com",
+      "feeds": ["https://news.google.com/rss/search?q=when:1d+site:bloomberg.com+markets&hl=en-US&gl=US&ceid=US:en"]
+    }
+  ]
+}
