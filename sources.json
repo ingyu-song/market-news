@@ -1,5 +1,5 @@
 {
-  "_comment": "Each source: name shown in the UI, domain used for the favicon, and one or more RSS feed URLs. Add or remove sources freely — the scraper skips any feed that fails. Set \"filter\": true on a source to keep ONLY headlines that look financial (uses finance_keywords + the company watchlist). Dedicated markets feeds are left unfiltered; general feeds (BBC/Guardian/NYT/Reuters/Bloomberg/Forbes business) are filtered so off-topic stories are dropped.",
+  "_comment": "Each source: display name, domain (for favicon), and one or more RSS feeds. The scraper skips feeds that fail. ALL sources are filtered to financial-market news by default: a headline is dropped if it hits an exclude_keyword (crime/accident/sport/celebrity), and is kept only if it carries a finance signal (a finance_keyword, a watched company from companies.json, or a $/£/€/¥/% symbol). Set \"filter\": false on a source to disable filtering for it.",
   "max_items_per_source": 12,
   "finance_keywords": [
     "stock", "stocks", "share", "shares", "shareholder", "equity", "equities",
@@ -28,7 +28,20 @@
     "bank", "banks", "banking", "lender", "loan", "loans", "credit", "mortgage",
     "insurer", "insurance", "investment bank", "regulator", "sec", "securities",
     "fintech", "billion", "million", "trillion", "quarterly", "fiscal",
-    "investor", "investors", "investment", "investing"
+    "investor", "investors", "investment", "investing", "deal", "deals"
+  ],
+  "exclude_keywords": [
+    "killed", "killing", "murder", "murdered", "manslaughter", "homicide",
+    "shooting", "gunman", "gunfire", "stabbed", "stabbing", "assault", "rape",
+    "raped", "kidnap", "kidnapped", "hostage", "manhunt", "massacre", "wounded",
+    "fatal", "fatally", "arrested", "jailed", "injured", "injury", "injuries",
+    "car crash", "plane crash", "train crash", "bus crash", "wildfire",
+    "wildfires", "hurricane", "earthquake", "tornado", "landslide", "drowned",
+    "evacuated", "nfl", "nba", "mlb", "nhl", "world cup", "olympics", "olympic",
+    "super bowl", "premier league", "champions league", "touchdown",
+    "quarterback", "kardashian", "taylor swift", "beyonce", "red carpet",
+    "box office", "grammy", "grammys", "oscars", "golden globes", "horoscope",
+    "recipe", "royal family", "prince harry", "meghan", "wedding", "divorce"
   ],
   "sources": [
     {
@@ -40,16 +53,6 @@
       "name": "CNBC Finance",
       "domain": "cnbc.com",
       "feeds": ["https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"]
-    },
-    {
-      "name": "MarketWatch",
-      "domain": "marketwatch.com",
-      "feeds": ["http://feeds.marketwatch.com/marketwatch/topstories/"]
-    },
-    {
-      "name": "MarketWatch Markets",
-      "domain": "marketwatch.com",
-      "feeds": ["http://feeds.marketwatch.com/marketwatch/marketpulse/"]
     },
     {
       "name": "WSJ Markets",
@@ -65,6 +68,11 @@
       "name": "Financial Times",
       "domain": "ft.com",
       "feeds": ["https://www.ft.com/rss/home"]
+    },
+    {
+      "name": "The Information",
+      "domain": "theinformation.com",
+      "feeds": ["https://news.google.com/rss/search?q=when:3d+site:theinformation.com&hl=en-US&gl=US&ceid=US:en"]
     },
     {
       "name": "Investing.com",
@@ -84,37 +92,31 @@
     {
       "name": "Forbes Markets",
       "domain": "forbes.com",
-      "filter": true,
       "feeds": ["https://news.google.com/rss/search?q=when:1d+site:forbes.com+markets&hl=en-US&gl=US&ceid=US:en"]
     },
     {
       "name": "BBC Business",
       "domain": "bbc.com",
-      "filter": true,
       "feeds": ["https://feeds.bbci.co.uk/news/business/rss.xml"]
     },
     {
       "name": "The Guardian Business",
       "domain": "theguardian.com",
-      "filter": true,
       "feeds": ["https://www.theguardian.com/uk/business/rss"]
     },
     {
       "name": "NYT Business",
       "domain": "nytimes.com",
-      "filter": true,
       "feeds": ["https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"]
     },
     {
       "name": "Reuters Business (via Google News)",
       "domain": "reuters.com",
-      "filter": true,
       "feeds": ["https://news.google.com/rss/search?q=when:1d+site:reuters.com+business&hl=en-US&gl=US&ceid=US:en"]
     },
     {
       "name": "Bloomberg (via Google News)",
       "domain": "bloomberg.com",
-      "filter": true,
       "feeds": ["https://news.google.com/rss/search?q=when:1d+site:bloomberg.com+markets&hl=en-US&gl=US&ceid=US:en"]
     }
   ]

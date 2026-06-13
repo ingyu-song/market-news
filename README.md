@@ -11,7 +11,7 @@ a static site renders them as cards **grouped by source**, in the style of
 - **Top 3 per source** with a "View more" toggle to expand the rest
 - **16 sources** out of the box (CNBC, MarketWatch, WSJ, FT, Yahoo Finance,
   Reuters, Bloomberg, BBC, Guardian, NYT, The Economist, and more)
-- **Live filter** box, light/dark theme, fully responsive
+- **Live filter** box, clean light theme (Geist + DM Mono), fully responsive
 - **No server** — a static page plus a JSON file, auto-refreshed by GitHub Actions
   and served from GitHub Pages
 

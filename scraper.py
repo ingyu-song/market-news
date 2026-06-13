@@ -91,31 +91,57 @@ def entry_timestamp(entry) -> float:
     return 0.0
 
 
-def build_finance_filter(keywords: list[str], patterns: dict) -> re.Pattern | None:
-    """One regex that matches a finance keyword OR any watched company name."""
-    terms = [re.escape(k) for k in keywords if k]
-    # Reuse the company aliases so e.g. "Tesla recalls cars" still counts.
-    for pat in patterns.values():
-        terms.append(pat.pattern)
-    if not terms:
+def build_word_regex(terms: list[str]) -> re.Pattern | None:
+    """A whole-word, case-insensitive alternation over the given terms."""
+    escaped = [re.escape(t) for t in terms if t]
+    if not escaped:
         return None
-    return re.compile(r"(?<![\w])(?:" + "|".join(terms) + r")(?![\w])", re.IGNORECASE)
+    return re.compile(
+        r"(?<![\w])(?:" + "|".join(escaped) + r")(?![\w])", re.IGNORECASE
+    )
 
 
-def is_financial(title: str, finance_re: re.Pattern | None) -> bool:
-    if finance_re is None:
-        return True
+def build_finance_filter(keywords: list[str], patterns: dict) -> re.Pattern | None:
+    """One regex matching a finance keyword OR any watched company name.
+
+    Company patterns already carry their own word-boundary lookarounds, so they
+    are OR'd in as-is alongside the keyword alternation.
+    """
+    alts = []
+    if keywords:
+        kw = "|".join(re.escape(k) for k in keywords)
+        alts.append(r"(?<![\w])(?:" + kw + r")(?![\w])")
+    for pat in patterns.values():
+        alts.append(pat.pattern)
+    if not alts:
+        return None
+    return re.compile("|".join(alts), re.IGNORECASE)
+
+
+def keep_article(title: str, finance_re: re.Pattern | None,
+                 exclude_re: re.Pattern | None) -> bool:
+    """True if the headline looks like financial-market news.
+
+    Two gates: a denylist (crime/accident/sport/celebrity terms) drops a story
+    outright; otherwise it must carry a finance signal — a keyword, a watched
+    company, or a currency/percent symbol.
+    """
+    if exclude_re is not None and exclude_re.search(title):
+        return False
     if any(sym in title for sym in "$£€¥%"):
+        return True
+    if finance_re is None:
         return True
     return bool(finance_re.search(title))
 
 
 def fetch_source(source: dict, max_items: int,
-                 finance_re: re.Pattern | None = None) -> dict | None:
+                 finance_re: re.Pattern | None = None,
+                 exclude_re: re.Pattern | None = None) -> dict | None:
     """Return a rendered source dict, or None if nothing could be fetched."""
     name = source["name"]
     domain = source["domain"]
-    do_filter = bool(source.get("filter", False))
+    do_filter = bool(source.get("filter", True))
     items: list[dict] = []
     seen_links: set[str] = set()
     seen_titles: set[str] = set()
@@ -139,7 +165,7 @@ def fetch_source(source: dict, max_items: int,
             link = (entry.get("link") or "").strip()
             if not title or not link:
                 continue
-            if do_filter and not is_financial(title, finance_re):
+            if do_filter and not keep_article(title, finance_re, exclude_re):
                 continue
             title_key = title.lower()
             if link in seen_links or title_key in seen_titles:
@@ -253,11 +279,12 @@ def main() -> int:
     max_items = int(config.get("max_items_per_source", 12))
     patterns, min_sources, top_n = load_watchlist()
     finance_re = build_finance_filter(config.get("finance_keywords", []), patterns)
+    exclude_re = build_word_regex(config.get("exclude_keywords", []))
 
     rendered: list[dict] = []
     for source in config.get("sources", []):
         print(f"Fetching {source['name']} ...")
-        result = fetch_source(source, max_items, finance_re)
+        result = fetch_source(source, max_items, finance_re, exclude_re)
         if result:
             print(f"  -> {len(result['items'])} items")
             rendered.append(result)
