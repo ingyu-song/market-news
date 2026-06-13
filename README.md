@@ -5,7 +5,10 @@ from major financial outlets via their RSS feeds and writes them to a JSON file;
 a static site renders them as cards **grouped by source**, in the style of
 [news.coroke.net](https://news.coroke.net/).
 
+- **🔥 Highlights** at the top: the 3 companies named across the most sources
+  right now, each with a short summary and links to the coverage
 - **Title-only headlines**, grouped by publisher, freshest sources first
+- **Top 3 per source** with a "View more" toggle to expand the rest
 - **16 sources** out of the box (CNBC, MarketWatch, WSJ, FT, Yahoo Finance,
   Reuters, Bloomberg, BBC, Guardian, NYT, The Economist, and more)
 - **Live filter** box, light/dark theme, fully responsive
@@ -65,7 +68,25 @@ For sites without a usable public feed, you can proxy through Google News:
 https://news.google.com/rss/search?q=when:1d+site:example.com+markets&hl=en-US&gl=US&ceid=US:en
 ```
 
-`max_items_per_source` caps how many headlines each source shows.
+`max_items_per_source` caps how many headlines each source stores (the page
+shows 3 and reveals the rest on "View more").
+
+## Customizing the Highlights
+
+`companies.json` is the watchlist that powers the 🔥 Highlights section. A company
+is highlighted when its name appears in headlines from at least `min_sources`
+different sources; the `top_n` companies with the widest coverage are shown, each
+with a one-line summary pulled from the freshest article. Add entries as
+`"Display Name": ["alias", "other alias"]` — aliases are matched as whole words,
+case-insensitively, in the headlines:
+
+```json
+"Nvidia": ["nvidia"],
+"Alphabet": ["alphabet", "google"]
+```
+
+Deliberately ambiguous words (Target, Block, Visa, Shell…) are left out so a
+phrase like "price target" doesn't get mistaken for a company.
 
 ## Notes
 

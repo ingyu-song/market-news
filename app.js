@@ -1,7 +1,10 @@
 "use strict";
 
 const board = document.getElementById("board");
+const highlightsEl = document.getElementById("highlights");
 const statusEl = document.getElementById("status");
+
+const ITEMS_COLLAPSED = 3; // headlines shown per source before "view more"
 const filterEl = document.getElementById("filter");
 const themeToggle = document.getElementById("theme-toggle");
 
@@ -71,11 +74,17 @@ function renderSource(source, query) {
   head.appendChild(el("span", "source-time", relativeTime(source.latest_ts)));
   group.appendChild(head);
 
+  const matches = query
+    ? source.items.filter((i) => i.title.toLowerCase().includes(query))
+    : source.items;
+
+  if (matches.length === 0) return null; // hide sources with no matching headlines
+
   const list = el("ul", "news-list");
-  let shown = 0;
-  for (const item of source.items) {
-    if (query && !item.title.toLowerCase().includes(query)) continue;
+  matches.forEach((item, idx) => {
     const li = el("li", "news-item");
+    // When not searching, hide everything past the first 3 until expanded.
+    if (!query && idx >= ITEMS_COLLAPSED) li.classList.add("extra");
     const a = el("a", "news-link");
     a.href = item.link;
     a.target = "_blank";
@@ -84,12 +93,76 @@ function renderSource(source, query) {
     a.appendChild(el("span", "news-time", relativeTime(item.ts)));
     li.appendChild(a);
     list.appendChild(li);
-    shown++;
-  }
-
-  if (shown === 0) return null; // hide sources with no matching headlines
+  });
   group.appendChild(list);
+
+  // "View more" toggle — only when collapsed items exist (i.e. not searching).
+  const hiddenCount = query ? 0 : matches.length - ITEMS_COLLAPSED;
+  if (hiddenCount > 0) {
+    const btn = el("button", "more-btn");
+    btn.type = "button";
+    const labelMore = `View ${hiddenCount} more from ${source.name}`;
+    btn.textContent = labelMore;
+    btn.addEventListener("click", () => {
+      const expanded = group.classList.toggle("expanded");
+      btn.textContent = expanded ? "Show less" : labelMore;
+    });
+    group.appendChild(btn);
+  }
   return group;
+}
+
+function renderHighlights(highlights) {
+  highlightsEl.innerHTML = "";
+  if (!highlights || highlights.length === 0) return;
+
+  const head = el("div", "highlights-head");
+  head.appendChild(el("span", "highlights-title", "🔥 Highlights"));
+  head.appendChild(
+    el("span", "highlights-sub", "Most-covered companies right now")
+  );
+  highlightsEl.appendChild(head);
+
+  const grid = el("div", "highlights-grid");
+  highlights.forEach((h, i) => {
+    const card = el("article", "highlight-card");
+
+    const top = el("div", "highlight-top");
+    top.appendChild(el("span", "highlight-rank", "#" + (i + 1)));
+    top.appendChild(el("span", "highlight-name", h.name));
+    card.appendChild(top);
+
+    const stat = el(
+      "div",
+      "highlight-stat",
+      `${h.source_count} sources · ${h.mentions} articles`
+    );
+    card.appendChild(stat);
+
+    if (h.blurb) card.appendChild(el("p", "highlight-blurb", h.blurb));
+
+    const list = el("ul", "highlight-list");
+    for (const art of h.articles.slice(0, 3)) {
+      const li = el("li");
+      const a = el("a", "highlight-link");
+      a.href = art.link;
+      a.target = "_blank";
+      a.rel = "noopener";
+      const fav = el("img", "favicon-sm");
+      fav.src = art.favicon;
+      fav.alt = "";
+      fav.loading = "lazy";
+      fav.referrerPolicy = "no-referrer";
+      fav.addEventListener("error", () => { fav.style.visibility = "hidden"; });
+      a.appendChild(fav);
+      a.appendChild(el("span", "highlight-link-title", art.title));
+      li.appendChild(a);
+      list.appendChild(li);
+    }
+    card.appendChild(list);
+    grid.appendChild(card);
+  });
+  highlightsEl.appendChild(grid);
 }
 
 function render() {
@@ -131,6 +204,7 @@ fetch("data/news.json", { cache: "no-cache" })
   })
   .then((data) => {
     DATA = data;
+    renderHighlights(data.highlights);
     render();
   })
   .catch((err) => {

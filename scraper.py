@@ -19,7 +19,17 @@ import feedparser
 
 ROOT = Path(__file__).resolve().parent
 SOURCES_FILE = ROOT / "sources.json"
+COMPANIES_FILE = ROOT / "companies.json"
 OUT_FILE = ROOT / "data" / "news.json"
+
+JUNK_SNIPPETS = (
+    "view full coverage",
+    "full coverage",
+    "read more",
+    "continue reading",
+    "appeared first on",
+    "the post ",
+)
 
 # A real browser UA — some feeds (FT, Investing.com) reject the default one.
 USER_AGENT = (
@@ -41,6 +51,24 @@ def clean_title(raw: str, source_title: str | None = None) -> str:
         suffix = f" - {source_title.strip()}"
         if text.endswith(suffix):
             text = text[: -len(suffix)].strip()
+    return text
+
+
+def clean_summary(raw: str) -> str:
+    """Turn an RSS description/summary into a short, clean blurb (or '')."""
+    text = html.unescape(raw or "")
+    text = TAG_RE.sub(" ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return ""
+    low = text.lower()
+    for junk in JUNK_SNIPPETS:
+        idx = low.find(junk)
+        if idx > 0:
+            text = text[:idx].strip(" .-–—")
+            low = text.lower()
+    if len(text) > 240:
+        text = text[:240].rsplit(" ", 1)[0].rstrip(" ,.;:") + "…"
     return text
 
 
@@ -100,6 +128,9 @@ def fetch_source(source: dict, max_items: int) -> dict | None:
                     "title": title,
                     "link": link,
                     "ts": entry_timestamp(entry),
+                    "summary": clean_summary(
+                        entry.get("summary") or entry.get("description") or ""
+                    ),
                 }
             )
 
@@ -119,9 +150,85 @@ def fetch_source(source: dict, max_items: int) -> dict | None:
     }
 
 
+def load_watchlist() -> tuple[dict, int, int]:
+    """Compile the company watchlist into {display_name: regex}."""
+    if not COMPANIES_FILE.exists():
+        return {}, 4, 3
+    cfg = json.loads(COMPANIES_FILE.read_text(encoding="utf-8"))
+    patterns: dict[str, re.Pattern] = {}
+    for name, aliases in cfg.get("companies", {}).items():
+        escaped = [re.escape(a) for a in aliases if a]
+        if not escaped:
+            continue
+        # Whole-word, case-insensitive: matches "Tesla", "Tesla's", "(Tesla)".
+        patterns[name] = re.compile(
+            r"(?<![\w])(?:" + "|".join(escaped) + r")(?![\w])", re.IGNORECASE
+        )
+    return patterns, int(cfg.get("min_sources", 4)), int(cfg.get("top_n", 3))
+
+
+def detect_highlights(sources: list[dict], patterns: dict, min_sources: int,
+                      top_n: int) -> list[dict]:
+    """Find companies named across >= min_sources sources; return the top_n."""
+    hits: dict[str, dict] = {}
+    for source in sources:
+        for item in source["items"]:
+            text = item["title"]
+            for name, pattern in patterns.items():
+                if pattern.search(text):
+                    bucket = hits.setdefault(name, {"sources": {}, "articles": []})
+                    bucket["sources"].setdefault(source["name"], source["favicon"])
+                    bucket["articles"].append(
+                        {
+                            "title": item["title"],
+                            "link": item["link"],
+                            "ts": item["ts"],
+                            "summary": item.get("summary", ""),
+                            "source": source["name"],
+                            "favicon": source["favicon"],
+                        }
+                    )
+
+    highlights = []
+    for name, bucket in hits.items():
+        source_count = len(bucket["sources"])
+        if source_count < min_sources:
+            continue
+        articles = sorted(bucket["articles"], key=lambda a: a["ts"], reverse=True)
+        # A one-line blurb: the freshest real summary. Skip Google-News-style
+        # "summaries" that merely repeat the headline (title contained in text).
+        blurb = ""
+        for art in articles:
+            summary = art["summary"]
+            if len(summary) < 50:
+                continue
+            head = art["title"][:40].lower()
+            if head and head in summary.lower():
+                continue
+            blurb = summary
+            break
+        highlights.append(
+            {
+                "name": name,
+                "source_count": source_count,
+                "mentions": len(articles),
+                "sources": [
+                    {"name": n, "favicon": f} for n, f in bucket["sources"].items()
+                ],
+                "blurb": blurb,
+                "articles": articles[:5],
+            }
+        )
+
+    # Rank by how many distinct sources picked it up, then total mentions.
+    highlights.sort(key=lambda h: (h["source_count"], h["mentions"]), reverse=True)
+    return highlights[:top_n]
+
+
 def main() -> int:
     config = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
     max_items = int(config.get("max_items_per_source", 12))
+    patterns, min_sources, top_n = load_watchlist()
 
     rendered: list[dict] = []
     for source in config.get("sources", []):
@@ -136,10 +243,23 @@ def main() -> int:
     # Sources with the freshest news float to the top.
     rendered.sort(key=lambda s: s["latest_ts"], reverse=True)
 
+    highlights = detect_highlights(rendered, patterns, min_sources, top_n)
+    print(
+        f"\nHighlights: {', '.join(h['name'] for h in highlights) or 'none'} "
+        f"(>= {min_sources} sources)"
+    )
+
+    # Drop the per-item summary from the source lists — the cards are title-only,
+    # so it would just bloat the JSON. Summaries are kept inside `highlights`.
+    for source in rendered:
+        for item in source["items"]:
+            item.pop("summary", None)
+
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source_count": len(rendered),
         "item_count": sum(len(s["items"]) for s in rendered),
+        "highlights": highlights,
         "sources": rendered,
     }
 

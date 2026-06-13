@@ -1,82 +1,264 @@
 {
-  "generated_at": "2026-06-13T07:12:27+00:00",
+  "generated_at": "2026-06-13T07:20:51+00:00",
   "source_count": 16,
   "item_count": 184,
-  "sources": [
+  "highlights": [
     {
-      "name": "Forbes Markets",
-      "domain": "forbes.com",
-      "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64",
-      "latest_ts": 1781305440.0,
-      "items": [
+      "name": "SpaceX",
+      "source_count": 11,
+      "mentions": 32,
+      "sources": [
         {
-          "title": "Forbes Real Time Billionaires List - The World's Richest People",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tWGpuSWp1NnhPS1p2YXlkcUpaSFA1ZmszSWFySnk5dnVSTE5uQm5VU3VJN1dJamZYV21mcGVKU2pKeEJfUXF1NFNxNUlzYzNqU2ZpZjQ5bFJyUQ?oc=5",
-          "ts": 1781305440.0
+          "name": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
         },
         {
-          "title": "Latest ETF Investing Trends News Today | Trends, Predictions, & Analysis",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQ2hKY0RJUmdWbkZPeGJRaDF1S3RkMVdPRXBYYV9FRng0eUx4dDNMamJJLURkVERpWjA3NmM3U3o3UG12U04wdUVaUFRYZTNMLUpaaElCUmJDR0hPQ3Qzdw?oc=5",
-          "ts": 1781299408.0
+          "name": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
         },
         {
-          "title": "Wonder Boss NFT Latest Floor Price, Charts, and Market Cap Data",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GdV91aGhhRktqalNfSXp1czBxR0NwQ1RObk45aENwX3dKZENqZUllc1NHNXZhb1hVNlM4YzJiNjFQcWxtNkFZVHQydXd6N1JPMjlUVVBnWTkyUUthbDBUZ04ya2dIc3ZObFJaSHRqUnNfdEJG?oc=5",
-          "ts": 1781295346.0
+          "name": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
-          "title": "‘Disclosure Day’ Eyes $42.5 Million Opening As Spielberg Film Defies Pre-Release Projections",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc19zTXZEV3V3RUFfdFd5bUxBcG9qeHZGdEE2czllblIyYXdjeURJeEl2QUNLYjlLdUZkQXIxV2RYWG1XRUtDRHFRN1c0NzI0V3dxbHJudzlfajNiWVN1amlKMnprNmliTmVydWEzcnA3U0xqajhhVkE4MGxRdFZscVJyLU8zZzRsZlhEVEY0Rnd1YV9RTE0zZVhMcE1ZcHRmbVpWTnJpR01TMFFxREZETTVuRDdRTlR5ZTA1TDRVTjRfVnZPa3NXQW0yaXdYSGNQZ1Fpa1R4dw?oc=5",
-          "ts": 1781288588.0
+          "name": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         },
         {
-          "title": "Paramount-Warner Bros. Merger Receives DOJ Approval",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX25WZ1F5YXdTd3F0TmNhVkF3dU00RExOdVFqM19COHJWRjhoRGptRkF5MlltZU9UMlBxOEFobWsxWkVYUHFhUWVDWTJlZ3FQTkhOWVdFbllyazBVMzMxc0FWNE1oVTJoWjhtZGpMdjl6TjIzbDhRUGNvNERwLWVlaDNXRkFrRFFJWTM5YUItQlIxcjhRQ1FzNFNEdnRlWHM5SlROQ3dudDc1NzJfMlN0MURVZDk1TTJtZFBrRUF4RE1OUl9jT09mOE5Ga2hJS3RMb3c?oc=5",
-          "ts": 1781276624.0
+          "name": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         },
         {
-          "title": "Forbes 250: America’s Most Successful Living Immigrants",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjctVGExZExtNV9vUUo2Q053dTZzWklIVFJwbE9GcENxNUloTmpMbEFpVFBRcXBZdWxuZWZfUlZCbjRXeFZPWl9QTHpETWFWaUczLW5uWXAtVEVCTkZ1ZF85SzlvbXNJU3VYOThoajM2M0RkVFBma2JDQzE5Qm8yd2luZ0RHZ3BpZGROb1hodVdiNDBubVJFRjA3QnJnOUtSWXdPcG44UQ?oc=5",
-          "ts": 1781275440.0
+          "name": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         },
         {
-          "title": "How Elon Musk Just Became The World's First Trillionaire",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYnR1UGo4ODZhX2JOWGFsQml3UGZPUU00ME1fdmNtV0J3ZG51WVp5NnBjSmZSVWZuX1pVZEZIZlFkOWlockVkSWtRQTZIWGM5UUZWemg0ZVI3THJGMW5tczJuUmRqMGdJa0dDeXlaZU5VT3ZVcEZ5YjlJVkdTdzFfTFliYlJHSnhQUTFoeDIwMjdQT1o4YkhYaXk1ZGlvM0JXMENWanVpQTk?oc=5",
-          "ts": 1781274264.0
+          "name": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "Trump Might Lift Sanctions On Iran—After Blasting Obama For Doing It",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG9hUWtQTkxORUY5WG13ejNkV3dxdVVGeGo1TEJ4RlZESUtsWFdKQXREN1lXWUFtR0VqLUVWWVdYTnpzSS1xMjY2VTg1MU5xMHJFamtUVG5aUXdjWGZmRzBzb2MzTnhJSWdrVG5YWEJuQXFsX1FpT1hCQXlwOWhQUUpFVWJxbG1aeEttVzZ0VVpXUzNXMDUxMnZsaTF1dFdteUtsb1NBZjhvUlRJc2NySEZNZVNIcDNDMVE?oc=5",
-          "ts": 1781267650.0
+          "name": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         },
         {
-          "title": "El Niño Is Here. It Could Be A Strong One",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1ZYVmR4R0RBb1BGTnFOZ2t5LXowMm0tZ0tXZHpFWkdjVV9McG1wMERCYVZTdGtzQ3ZuTmxhNEZtN1lVcnI5Ni00MTRkaVowMC1sZVQ0OFBRWXB4TXFGQUZxa0dIbllVUWhzeDhKdzl0N3FTQ29Sb1RSeFRYWGRONGc1YVkxa1NBckpoTEtLQkZBTVVCTmRhRkxfTXB6TS1YVEtv?oc=5",
-          "ts": 1781267509.0
+          "name": "MarketWatch",
+          "favicon": "https://www.google.com/s2/favicons?domain=marketwatch.com&sz=64"
         },
         {
-          "title": "SpaceX Wraps First Day On Stock Market Up 19% After Historic IPO",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObDhTdzVmOFdQQlZ4eDlQTVYwdkdCWEpPVEQzcUt5S0VkX0Q3cUFrNnMzb01mM2E0MnAzZEdBbTI4eEZoQjM3UUhjWnBjSkpuY2xLdzM3Q3QyNi1rZmFuZndsVk44b0VMRVlrU2RPOEJpMUJSTVc0WkJGU1dmQ19vdmR0NU5zUk5xVTJRT0JFdG90WFZJUzJhOVRzZTFDNnBPalFtVjQ4LWNZNzc1WVR3Szhyd1kweGpmUy1kTWtoZVRUSHNJdjRLajRFbVYtUXBhTVRvOG9B?oc=5",
-          "ts": 1781266263.0
+          "name": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
         },
         {
-          "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZjYwWDVuSWxQMEc0eER3V21oUEdGczdkdWZ0NjM3NXNWOVk2eXNrZVZ1aUxjVElNcXhmRkFacFdob0RWN0JLQW9BbUlVWmE0MTZOdFlJRjhkYlp0QzJ1Mnp3ZExUbloxU3pxVjBUOThNZVhfZ1l2X3FZSk00LWNzXzZ4OWJKeW5HV2Z1Zm5RcVNWVW00V3lLVmsyeC1GMEVwcFh2VWowWUtja3VRbWM2TGNIczQ2OVZKUENkYmpuSmNUanBaSmkzNUhiV2N2Z2w4UHMxZ21fNU9EVG82bkMwTVhQLWpOSktC?oc=5",
-          "ts": 1781265617.0
+          "name": "The Economist Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
+        }
+      ],
+      "blurb": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+      "articles": [
+        {
+          "title": "Retail investors build big dreams on small slices of SpaceX",
+          "link": "https://www.investing.com/news/stock-market-news/retail-investors-build-big-dreams-on-small-slices-of-spacex-4740857",
+          "ts": 1781286521.0,
+          "summary": "",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         },
         {
-          "title": "World Cup Player Denied Entry To Canada Over Rape Charges",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnVFSXktWE54T2RKVFE1dml5RU9vUkU3VEZJX1NhN2tBQmJQMWNsYWw5bFk0WC1iTkkzcHZNMGEwb3VTSmQxT2dHQVQzZm1iOEZIbklpMlA2UHhKTWVuNkpYNzFFeFJCeGptakc3SGpGVHV5WXNhdnZoek5xTW01RVd3YlBmc3U1dXE3Uk84ZU1YRkNXeUduekFNcXhjVTJ1eFQ4RGY3OF9fNGhFNGpFYi1hOVRzUXpKdlhzLS1CTG10dkpObjNxTjJBbEFXTFR1ZUxDcQ?oc=5",
-          "ts": 1781258544.0
+          "title": "Retail investors build big dreams on small slices of SpaceX",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHJhTnJxQUpQczFaRzJhR2lEcjRpU0h2NWF2QnpJWVA4SG9XS1p0WklEN0JfTlhQbWhQckhCdExvUHBJWWRWdXB6dWF1YnEtRHBsRXFhUUxqWVhfd2lweVJYTXF2cllLbjY2RkRzWTd0SmM1MVVkVnk3aW5jc3ZTaFZTTkplb3NVcHZ3TjFLX1B3eE5BQkhfcm9pbXZQd3VwRURaZDNtVjhkVFpZZmFMQ3Fn?oc=5",
+          "ts": 1781286420.0,
+          "summary": "Retail investors build big dreams on small slices of SpaceX Reuters",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaG9rYjczWFFjRmZGd3c3M0t2RlNRSWx0NEI3ZUdQYjBSa3pYM3ltb2swbmlHX1NWemhxMk1Kd21PaFJIU2pBRjl6UGRWU3lIbm9UbjVfM0ZOMWFZTGI4ZjZsd19tTGlzNVA1Yk5tWUpjTnhvblBzemM0blNYU0VfRjVBcjdPdGptS3RlaUJFVlc2Y3N1eU5rOV9iLWg3N215QTg4Q2NUSFNYclVxRV91dDF1bVM?oc=5",
+          "ts": 1781286360.0,
+          "summary": "Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO Bloomberg.com",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Watch Inside SpaceX and Elon Musk’s $75 Billion IPO",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTQ2WE9LUC1tZ3laN09UZ00tT1JmMnpwU0NKU05KT1RLbHd2SkhmODBLZjBVaTdSUnA3ODItOEtqcFdCb2xvWXZWUnFQaFEwN1RsQ3FRai1oN0N6U3NuWTdtQWhTR3Q3d0s4Q0tZNUlHTGFzWGlqTlRkRlRjaHk4TXJORlBFVDdEenk1WGxscWNHTFZIeVJWQXJyYnh5V3JS?oc=5",
+          "ts": 1781278517.0,
+          "summary": "Watch Inside SpaceX and Elon Musk’s $75 Billion IPO Bloomberg.com",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Wall Street ends higher as SpaceX's market debut dominates",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXNKNzNQRjdTSU90RjJ6d0JSM1FNVHRUQ1Q3VTM1VTlRSWZfVkoxcU9DRzQxRkE5R2JNdk9QelpoS3RoS29rNGVJTzNpWnVydDdweHhlcEVpd2hWNFVKcV9JUWNpODNzdGVSVlRTUVNKenhMdWpIZGd2RlRwWlBSNS1lWkNfRkRUdFBlUzNYemNtclNFcTdRR2Q4eWMyaERXV3dLc1VMQWQwdVAyUzVvNQ?oc=5",
+          "ts": 1781276507.0,
+          "summary": "Wall Street ends higher as SpaceX's market debut dominates Reuters",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
       ]
     },
     {
+      "name": "Anthropic",
+      "source_count": 6,
+      "mentions": 6,
+      "sources": [
+        {
+          "name": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "name": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "name": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "name": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "name": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "name": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "blurb": "Trump administration directs company to limit access to foreign nationals on national security grounds",
+      "articles": [
+        {
+          "title": "Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTZaMEVPXzdZczdjYm92RU9RR2Y0WmpvNXd3RGk3ZnV2bXJyaU9JRlJteFRnQjlrcVp2dDV5TkpXVXF0dWhKQ0ttVjlESWU4N0l5UXNfeVpUZWd1ZmY1REQ5emNCVGZOVFZvZG4waG1WTUhlOVVRYW4taWxVWTF1QU5QVnJnX280aDhmWC05N1Utc3g1OTZHUUJFbVdMN2tINTVDQ2oyNE8?oc=5",
+          "ts": 1781296440.0,
+          "summary": "Anthropic Halts Access to Top AI Models After U.S. Ban on Foreign Use WSJ",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Anthropic disables top-tier AI models after US order limiting foreign access",
+          "link": "https://www.investing.com/news/stock-market-news/us-blocks-foreign-access-to-anthropics-most-advanced-ai-models-axios-reports-4740798",
+          "ts": 1781293781.0,
+          "summary": "",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWhndUpLTDF1SHZkeElEYTJUbzZ4Szh1UFl0aG1rdlNUd2ZvWTN6ckZOY3UtZmdzN3RPZTVTQXh4Rkh4MGR1MFpNSzlQQlRlaU52dm45cDIwb0ljYTMwdHhpLUNmSklteThCZG1YdE1OQnpoaWgwMU43b2phSzNKTjY3aVhyZ1l3Wm5xeEhKbGhiTkpCQWhiRGpEbEdSUUVUM290RWtxM0xzV0xZSHhF?oc=5",
+          "ts": 1781289780.0,
+          "summary": "Anthropic Says US Limits Foreign Access to Fable 5, Mythos 5 Bloomberg.com",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Anthropic suspends latest AI models after US blocks access to foreigners",
+          "link": "https://www.ft.com/content/2a27300a-b90d-4649-8c09-f7e7cd426dbb",
+          "ts": 1781287315.0,
+          "summary": "Trump administration directs company to limit access to foreign nationals on national security grounds",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Anthropic disables top-tier AI models after US order limiting foreign access",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzRyRDNxVmtPaENsR1pja0NuWUNDSklfUXRRemdJREJlWGpHM01PbTVwSWFZdThLT0p4S3J3aEJ0UDNoM2FXYTJPV3pkSGY3TXJsNVVkejFjbWlhUDNISkoxRk1wWGpwb09Jc0QxWFl5czVtYkd4Z3R2dmFmT2dGQ0Z3UjZ0UXJXdThXVDdtamt0aWwzc3FPdXhMX21iTVpkeHVPWjJSSE80MDZKWHdGUmdCN2hXVWlvNkgwUA?oc=5",
+          "ts": 1781280060.0,
+          "summary": "Anthropic disables top-tier AI models after US order limiting foreign access Reuters",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "source_count": 5,
+      "mentions": 5,
+      "sources": [
+        {
+          "name": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "name": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        },
+        {
+          "name": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "name": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "name": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "blurb": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
+      "articles": [
+        {
+          "title": "OpenAI under investigation by coalition of state attorneys general, WSJ reports",
+          "link": "https://www.investing.com/news/stock-market-news/openai-under-investigation-by-coalition-of-state-attorneys-general-wsj-reports-4740777",
+          "ts": 1781278605.0,
+          "summary": "",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Exclusive | OpenAI Investigated by Coalition of State Attorneys General",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOczJveU92ekJOZXdhUktDVEd2SU1iR0lFT3FlNjhCYndBZ1dBTzdOLWZlT0p5SFZUV3l3SFBKZ21kSVJhenBVMVpBZURVTlMtZTl4cU53d3NVVzBvZ0k3RF9NSUlvWGFBVXhUenNvVG04RGs3X3pnWmIzcTJ6djVySmotMU0zNnJnLXpYelhrV2tDT2JuWXQ3dw?oc=5",
+          "ts": 1781278320.0,
+          "summary": "Exclusive | OpenAI Investigated by Coalition of State Attorneys General WSJ",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "OpenAI under investigation by group of state attorneys general, source says",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0VNSkhmX3pnRzR1NWdCaW1iS3lCQ0dOdDREb3BSV2pNV2tTUVRBbGdMcjVtcW96Nm9rN1lkdkhQQmo1ZEgtU042TklUUUI1STFxS1F1LWE5RHVjdFJyRlRZcmU1eVl0UGxGWjJyX2dkNDlaWFlTYW50TEl5dWt0ZTA5YnozZlZva2JPOXcwREtXeU9RbE1JMUM5TEdDYWpSVlBLdTd6UVEwZ1p0X0FFS1k3eWdwRnpIRGM5UA?oc=5",
+          "ts": 1781278200.0,
+          "summary": "OpenAI under investigation by group of state attorneys general, source says Reuters",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Behind the scenes at OpenAI HQ: the Stephen Collins cartoon",
+          "link": "https://www.theguardian.com/lifeandstyle/picture/2026/jun/12/behind-the-scenes-at-openai-hq-the-stephen-collins-cartoon",
+          "ts": 1781227840.0,
+          "summary": "Continue reading...",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        },
+        {
+          "title": "North Carolina treasurer passes on SpaceX citing valuation concerns; favors OpenAI, Anthropic",
+          "link": "https://www.cnbc.com/2026/06/10/north-carolina-treasurer-passes-on-spacex-citing-valuation-concerns-favors-openai-anthropic.html",
+          "ts": 1781084792.0,
+          "summary": "North Carolina has invested heavily in AI startups OpenAI and Anthropic while avoiding a direct stake in SpaceX.",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
       "name": "WSJ Markets",
       "domain": "wsj.com",
       "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64",
-      "latest_ts": 1781302140.0,
+      "latest_ts": 1781306384.0,
       "items": [
+        {
+          "title": "Print Edition | Wall Street Journal",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtZk9TZTJ6NF9MQjBtYkFwWWV5c0x5NzRxTldhRDFOLXJRbnNXNUtzcHhqRjRjS3B1YUQ4QUEwdEtmeDYtNGg4M3o2VEw2X2xVQjJDYkc0SW5nZlFld29zWTdR?oc=5",
+          "ts": 1781306384.0
+        },
+        {
+          "title": "The Rise of the ‘Dude-Bro’ Candidate",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXNrLUFCRXhkQVNKYklfWGlnbE5oVWZ1NVhlLW9MdmF6UGJWZzd1Q0RxSzJCTjlFbXlfNVdWcjRoOXg4dnZqWFVXVzBPS2J5ZDZzWjRoZ2hoR1F4VndmOVI4MzVNeUJwYUx3dzdsdjlWRkNsMThGanZqMWxhZWQzOS1Ja0ZLZ3AwdTNYNQ?oc=5",
+          "ts": 1781306384.0
+        },
         {
           "title": "Kennedy Center Misses Deadline, Wants More Time to Remove Trump’s Name",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS09qY0lrTXhVSzU3eWkzTXhPVkp6WGxkbkFNMGNBdVdnZWNCMzNLZnZMUVNVNGRobUUzdHFKak9UNUNxMXdsNjhGZ0dUal9DSEg2TFI1RzJfSFB2SVhUcExZSjVVUnlwUnVHWHlRNzZ3NEs1QWNYb2lybXFpT0I1MWVZTmhNX3hPak9jSFptT0hXXzhvM2dFT0M1M1U2dFhRaHhQelhEeW52SUJaUTFNS2NkYw?oc=5",
@@ -113,11 +295,6 @@
           "ts": 1781289071.0
         },
         {
-          "title": "Why Oil Prices Haven’t Shot Through the Roof—Yet",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1NvNVpJU29xQjk0RVNqRGVkZzh0TlNGSWo0ODNzT1JwSFJFY1liQVoySU5hN2NVbUNMcWR3Mmh5X2pwWnBIM1ZDaHhtRmV3b1hDcFR1VDhFWVF3emZ5OGQzRG9xbzAwZTJtQ253RmN0SVVBZWx6ai1BZUNmbENrV1dWZ3gxSkFsb196bFNUWG9rNUhqRkxsVGY4cw?oc=5",
-          "ts": 1781287200.0
-        },
-        {
           "title": "Exclusive | OpenAI Investigated by Coalition of State Attorneys General",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOczJveU92ekJOZXdhUktDVEd2SU1iR0lFT3FlNjhCYndBZ1dBTzdOLWZlT0p5SFZUV3l3SFBKZ21kSVJhenBVMVpBZURVTlMtZTl4cU53d3NVVzBvZ0k3RF9NSUlvWGFBVXhUenNvVG04RGs3X3pnWmIzcTJ6djVySmotMU0zNnJnLXpYelhrV2tDT2JuWXQ3dw?oc=5",
           "ts": 1781278320.0
@@ -131,11 +308,6 @@
           "title": "Europe Has Learned Silence Can Be Golden in Trump Trade Spats, Top EU Legislator Says",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1Z1VWRVOElnVXdBT1k4bDRtc0VJZXEtQWU2QkV2VURHNi0yZnRmZHdLeUY4b0FLSTg0VWdPd052eU5rMFBXS09nYnNtbjZnTk1oTlVpQWEzc1B4WXZ2bzBPQ0NKbkJ1eUQxMTI4TjAwRWZSV0NuMzNuWjlWR1pIelNBSlRjaDZYcjM3NWFheDZjNVhoNVMxQkdsRERXbW40T2lCSUdhOTZTWXN3bGxQcG1QcTMxRjFvMUg1T1V6YTRxYUtw?oc=5",
           "ts": 1781276646.0
-        },
-        {
-          "title": "Justice Department Clears Paramount-Warner Bros. Discovery Deal",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVFhZjc1cTRsc194ZWJramVOMUVTbDRFN0VmaE5xTTlPcjlPUjlNVTBYeHl4akYycnQ4Z3BvU05IR0FTSjg0MGhhUnUwbmVJZjNEeFRiaFcyQnlaZTN1ekpmZFZjNE1Geno4S3oyenJNeGozZDhjbUs5eXhMNXlXLU5zejd0TDhmbVNkRHhoNTJ1SE5VdUR5M3dicUJ6T3JXS3JTbTZuSHFXdw?oc=5",
-          "ts": 1781273880.0
         }
       ]
     },
@@ -279,12 +451,17 @@
       "name": "Bloomberg (via Google News)",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64",
-      "latest_ts": 1781297519.0,
+      "latest_ts": 1781300051.0,
       "items": [
         {
-          "title": "Kim Ji-Hyung, Ontide: Profile and Biography",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RRVB2TkRUMUJBTFdVUTZhcFZ1S1VySjRIRmN2Y05jTExNbmlDZGZSRjg1MUIySkhzQ05ack5LYjFZRFVEXzJaTTlKTFUzalpzNmhMU3NFeUxtMDFXZEE?oc=5",
-          "ts": 1781297519.0
+          "title": "Hector Martin Mandarano, YPF Energia Electrica SA: Profile and Biography",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NNmhNQ2QzTEp0ZW1TemlHbWRwME5VdmloRU9hRWV5S1daQnpPdFNlSDVrdmtCOXlXTUFpeUtTbXcwbHVfYVpfaHNkNm42QWJJVWdGemdTNFVBdXBkWVE?oc=5",
+          "ts": 1781300051.0
+        },
+        {
+          "title": "Markets",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
+          "ts": 1781294226.0
         },
         {
           "title": "Trump Says US Killed Tren de Aragua Leader Niño Guerrero",
@@ -297,11 +474,6 @@
           "ts": 1781289780.0
         },
         {
-          "title": "Markets",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
-          "ts": 1781289289.0
-        },
-        {
           "title": "Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaG9rYjczWFFjRmZGd3c3M0t2RlNRSWx0NEI3ZUdQYjBSa3pYM3ltb2swbmlHX1NWemhxMk1Kd21PaFJIU2pBRjl6UGRWU3lIbm9UbjVfM0ZOMWFZTGI4ZjZsd19tTGlzNVA1Yk5tWUpjTnhvblBzemM0blNYU0VfRjVBcjdPdGptS3RlaUJFVlc2Y3N1eU5rOV9iLWg3N215QTg4Q2NUSFNYclVxRV91dDF1bVM?oc=5",
           "ts": 1781286360.0
@@ -312,6 +484,11 @@
           "ts": 1781278517.0
         },
         {
+          "title": "Paramount Purchase of Warner Bros. Cleared by Justice Department",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3FPOWJ0OURoUTVtbHg0VUs0S1R1MlRoUS1ENzZoU1VnZVhCZWx4VEpBV0lEbVJYZ0tta3JqWHpXcDRWOXg2N1RfLVNyNlVFcU9VeFMyX2dtRnhQUUdUc1dYbXJvQU1QRmE2WEJmN3ZoNldnNW42aWZ5OENvd0VOTEhIRkU0elZNTDU1RGtsWUpVc1JYVUtDUWg2azFoWXFFdWV4c1g4Rm94bjNySUlCU01XalQ?oc=5",
+          "ts": 1781273641.0
+        },
+        {
           "title": "Proposed US-Iran Deal Hinges on Risky Plan of Sequenced Rewards",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV25Gajl4T0FBOEJYM2piOGtJNzVRQzRwMFZTbTRDNHlacFdvX0xuaHJmdjBROVRGSGZLcmVseFl4RURPV0ZuX2NJdkhlajItYlNQejRMRjVNVkxSY25NcV9LSVdkMzhDWlFNUy0zYkVyNWZ0YVBEWm5UdlpVdWJINjI3eUFSdWItZDJfRlhFcFJZUG1TS3J2b3FnbWREanlDajNiTnNWVm1iQ0g4ckdteHU1Snk?oc=5",
           "ts": 1781273515.0
@@ -320,11 +497,6 @@
           "title": "'Knicks in Five' Is Crashing New York City Weddings This Weekend",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOWRZZFd4TWhMQnAyNmpQWWNiMng3dHVyZHFnMHBFU0hRc3doQU1HRGF0Ul9KN0tuR3FvUE1iTzdzOHROSDBDcThrRDdqMVZCallqREdlU3E3QUhfZzQ0OTFNMXRWNnhrNGs4aGZCUTBENEhMZ2N3ZUc1T0FHb2ZIN1R5UE80MUcwcjRmR2JUZ1M5bkM3eUtxZDZwcWktS0NXcnF4bXNUYWhqSEVOWHNKaEdxeHc0MHRQUVZoag?oc=5",
           "ts": 1781270601.0
-        },
-        {
-          "title": "Guitar Center Profit Gets Boost From Expected Tariff Refund",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRExFWkMtSjF2cFgyVmJpYUlfX3Q0eWZHM3NObkNwU0t0M2dBcDVQd1VvcXN1SkQycUpVNEU0dVJvckpQeU9jTnU2RkRIbHRiZS1GODY1RkhXajNxaEw0Q0ZpdGRSZDh5STd6OXZYRlVlRk1ZRHJ6MFpZbFp0QjJhdkNvMThDUHBYZ2VFYmk0bDNRMllWSEZoaHJGQjE0eWRqS3FpVzRRTVRnLTdtOGxvbWdrUXN2OGRMMFZOekRwZ2pxRDJ1QW9jbTlGMEFkQQ?oc=5",
-          "ts": 1781268287.0
         },
         {
           "title": "Elon Musk Becomes World’s First Trillionaire After SpaceX IPO",
@@ -340,6 +512,74 @@
           "title": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONE9SaVFZX3BwVkV1ZFF6eHVXSV9sWTJnR2ZGVXpEWTRkbVV4YzdYZXdUcVo4QS00dXNWdWxXemJXdVUtRjZpM1JKSTJaUE5HeWw4ZUpmVHp3TGJmRFZMRm9QenJpRWNNVk1CU0U4b3FaRWczVWN4aHRCSzJVYUt2WmZoajQ5R012UGtzeDRubFFYYVN0VHd2bTY2X3ZkQmJHMmlvUy1QZ2ZMTWx0SXBEejRYZ1pvZw?oc=5",
           "ts": 1781266771.0
+        }
+      ]
+    },
+    {
+      "name": "Forbes Markets",
+      "domain": "forbes.com",
+      "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64",
+      "latest_ts": 1781298750.0,
+      "items": [
+        {
+          "title": "Latest ETF Investing Trends News Today | Trends, Predictions, & Analysis",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQ2hKY0RJUmdWbkZPeGJRaDF1S3RkMVdPRXBYYV9FRng0eUx4dDNMamJJLURkVERpWjA3NmM3U3o3UG12U04wdUVaUFRYZTNMLUpaaElCUmJDR0hPQ3Qzdw?oc=5",
+          "ts": 1781298750.0
+        },
+        {
+          "title": "Wonder Boss NFT Latest Floor Price, Charts, and Market Cap Data",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GdV91aGhhRktqalNfSXp1czBxR0NwQ1RObk45aENwX3dKZENqZUllc1NHNXZhb1hVNlM4YzJiNjFQcWxtNkFZVHQydXd6N1JPMjlUVVBnWTkyUUthbDBUZ04ya2dIc3ZObFJaSHRqUnNfdEJG?oc=5",
+          "ts": 1781295346.0
+        },
+        {
+          "title": "‘Disclosure Day’ Eyes $42.5 Million Opening As Spielberg Film Defies Pre-Release Projections",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc19zTXZEV3V3RUFfdFd5bUxBcG9qeHZGdEE2czllblIyYXdjeURJeEl2QUNLYjlLdUZkQXIxV2RYWG1XRUtDRHFRN1c0NzI0V3dxbHJudzlfajNiWVN1amlKMnprNmliTmVydWEzcnA3U0xqajhhVkE4MGxRdFZscVJyLU8zZzRsZlhEVEY0Rnd1YV9RTE0zZVhMcE1ZcHRmbVpWTnJpR01TMFFxREZETTVuRDdRTlR5ZTA1TDRVTjRfVnZPa3NXQW0yaXdYSGNQZ1Fpa1R4dw?oc=5",
+          "ts": 1781288588.0
+        },
+        {
+          "title": "Paramount-Warner Bros. Merger Receives DOJ Approval",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX25WZ1F5YXdTd3F0TmNhVkF3dU00RExOdVFqM19COHJWRjhoRGptRkF5MlltZU9UMlBxOEFobWsxWkVYUHFhUWVDWTJlZ3FQTkhOWVdFbllyazBVMzMxc0FWNE1oVTJoWjhtZGpMdjl6TjIzbDhRUGNvNERwLWVlaDNXRkFrRFFJWTM5YUItQlIxcjhRQ1FzNFNEdnRlWHM5SlROQ3dudDc1NzJfMlN0MURVZDk1TTJtZFBrRUF4RE1OUl9jT09mOE5Ga2hJS3RMb3c?oc=5",
+          "ts": 1781276624.0
+        },
+        {
+          "title": "Forbes 250: America’s Most Successful Living Immigrants",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNjctVGExZExtNV9vUUo2Q053dTZzWklIVFJwbE9GcENxNUloTmpMbEFpVFBRcXBZdWxuZWZfUlZCbjRXeFZPWl9QTHpETWFWaUczLW5uWXAtVEVCTkZ1ZF85SzlvbXNJU3VYOThoajM2M0RkVFBma2JDQzE5Qm8yd2luZ0RHZ3BpZGROb1hodVdiNDBubVJFRjA3QnJnOUtSWXdPcG44UQ?oc=5",
+          "ts": 1781275440.0
+        },
+        {
+          "title": "How Elon Musk Just Became The World's First Trillionaire",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYnR1UGo4ODZhX2JOWGFsQml3UGZPUU00ME1fdmNtV0J3ZG51WVp5NnBjSmZSVWZuX1pVZEZIZlFkOWlockVkSWtRQTZIWGM5UUZWemg0ZVI3THJGMW5tczJuUmRqMGdJa0dDeXlaZU5VT3ZVcEZ5YjlJVkdTdzFfTFliYlJHSnhQUTFoeDIwMjdQT1o4YkhYaXk1ZGlvM0JXMENWanVpQTk?oc=5",
+          "ts": 1781274264.0
+        },
+        {
+          "title": "Trump Might Lift Sanctions On Iran—After Blasting Obama For Doing It",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTG9hUWtQTkxORUY5WG13ejNkV3dxdVVGeGo1TEJ4RlZESUtsWFdKQXREN1lXWUFtR0VqLUVWWVdYTnpzSS1xMjY2VTg1MU5xMHJFamtUVG5aUXdjWGZmRzBzb2MzTnhJSWdrVG5YWEJuQXFsX1FpT1hCQXlwOWhQUUpFVWJxbG1aeEttVzZ0VVpXUzNXMDUxMnZsaTF1dFdteUtsb1NBZjhvUlRJc2NySEZNZVNIcDNDMVE?oc=5",
+          "ts": 1781267650.0
+        },
+        {
+          "title": "El Niño Is Here. It Could Be A Strong One",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1ZYVmR4R0RBb1BGTnFOZ2t5LXowMm0tZ0tXZHpFWkdjVV9McG1wMERCYVZTdGtzQ3ZuTmxhNEZtN1lVcnI5Ni00MTRkaVowMC1sZVQ0OFBRWXB4TXFGQUZxa0dIbllVUWhzeDhKdzl0N3FTQ29Sb1RSeFRYWGRONGc1YVkxa1NBckpoTEtLQkZBTVVCTmRhRkxfTXB6TS1YVEtv?oc=5",
+          "ts": 1781267509.0
+        },
+        {
+          "title": "SpaceX Wraps First Day On Stock Market Up 19% After Historic IPO",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObDhTdzVmOFdQQlZ4eDlQTVYwdkdCWEpPVEQzcUt5S0VkX0Q3cUFrNnMzb01mM2E0MnAzZEdBbTI4eEZoQjM3UUhjWnBjSkpuY2xLdzM3Q3QyNi1rZmFuZndsVk44b0VMRVlrU2RPOEJpMUJSTVc0WkJGU1dmQ19vdmR0NU5zUk5xVTJRT0JFdG90WFZJUzJhOVRzZTFDNnBPalFtVjQ4LWNZNzc1WVR3Szhyd1kweGpmUy1kTWtoZVRUSHNJdjRLajRFbVYtUXBhTVRvOG9B?oc=5",
+          "ts": 1781266263.0
+        },
+        {
+          "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZjYwWDVuSWxQMEc0eER3V21oUEdGczdkdWZ0NjM3NXNWOVk2eXNrZVZ1aUxjVElNcXhmRkFacFdob0RWN0JLQW9BbUlVWmE0MTZOdFlJRjhkYlp0QzJ1Mnp3ZExUbloxU3pxVjBUOThNZVhfZ1l2X3FZSk00LWNzXzZ4OWJKeW5HV2Z1Zm5RcVNWVW00V3lLVmsyeC1GMEVwcFh2VWowWUtja3VRbWM2TGNIczQ2OVZKUENkYmpuSmNUanBaSmkzNUhiV2N2Z2w4UHMxZ21fNU9EVG82bkMwTVhQLWpOSktC?oc=5",
+          "ts": 1781265617.0
+        },
+        {
+          "title": "World Cup Player Denied Entry To Canada Over Rape Charges",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTnVFSXktWE54T2RKVFE1dml5RU9vUkU3VEZJX1NhN2tBQmJQMWNsYWw5bFk0WC1iTkkzcHZNMGEwb3VTSmQxT2dHQVQzZm1iOEZIbklpMlA2UHhKTWVuNkpYNzFFeFJCeGptakc3SGpGVHV5WXNhdnZoek5xTW01RVd3YlBmc3U1dXE3Uk84ZU1YRkNXeUduekFNcXhjVTJ1eFQ4RGY3OF9fNGhFNGpFYi1hOVRzUXpKdlhzLS1CTG10dkpObjNxTjJBbEFXTFR1ZUxDcQ?oc=5",
+          "ts": 1781258544.0
+        },
+        {
+          "title": "Bernie Sanders And More Blast Musk’s Trillionaire Status After SpaceX IPO",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3ZYUlJ0M25WWGlkcXIyQlBXUkJkNF8tVXA0Q0xjM3RHbF9OejR6VVduN25LTXVncW1hdzNqZXJ2THhFUWltdHhONUt2YjJJRTNWYktzMnFZTWtscEpxN2l1R2ZhTWdncEZuTlAzM3g3a2JrdmE4SEVWaTlDSkhLS095a2tKUXU5VWl0LTFfZWZVMDM4eEVsczhMbDRmNTcxLXlaZEZNZ2tFZ3kyMUNMcWlodGV1QTBRR2dWbF9KMEc3RjM3Nkh5M0pSN0E2Tk4xZXc?oc=5",
+          "ts": 1781258534.0
         }
       ]
     },
@@ -670,14 +910,44 @@
           "ts": 1781264580.0
         },
         {
-          "title": "HELOC and home equity loan rates today, June 12, 2026: With rates rising, understand how equity rates work",
-          "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-friday-june-12-2026-100000455.html",
-          "ts": 1781229600.0
+          "title": "Amazon.com, Inc. (AMZN) Plots €10B Investment To Bolster Growth in Europe",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-plots-032530521.html",
+          "ts": 1781205930.0
+        },
+        {
+          "title": "Guidance Hike Asserts Why Covista Inc. (CVSA) is One of the Best Defensive Stocks to Buy",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/guidance-hike-asserts-why-covista-032522241.html",
+          "ts": 1781205922.0
+        },
+        {
+          "title": "Darling Ingredients Inc. (DAR) A Top Defensive Stock Amid Margin Expansion and Debt Reduction",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/darling-ingredients-inc-dar-top-032515502.html",
+          "ts": 1781205915.0
+        },
+        {
+          "title": "Here’s Why The Kroger Co. (KR) is a Defensive Stock to Buy Amid Geopolitical Tensions",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-defensive-032508395.html",
+          "ts": 1781205908.0
+        },
+        {
+          "title": "Laureate Education, Inc. (LAUR) Strengthens Leadership Team amid Soaring Enrollments",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/laureate-education-inc-laur-strengthens-032452555.html",
+          "ts": 1781205892.0
         },
         {
           "title": "This is Why Dollar General Corporation (DG) is a Top Defensive Stock to Buy",
           "link": "https://finance.yahoo.com/markets/stocks/articles/why-dollar-general-corporation-dg-032445572.html",
           "ts": 1781205885.0
+        },
+        {
+          "title": "Is US Foods Holding Corp. (USFD) One of The Best Defensive Stocks to Buy on Strong Financials?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/us-foods-holding-corp-usfd-032437214.html",
+          "ts": 1781205877.0
+        },
+        {
+          "title": "Walmart Inc. (WMT) Focused on Enhancing Supply Chain Efficiency with New Service",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-focused-enhancing-032427988.html",
+          "ts": 1781205867.0
         },
         {
           "title": "NRG Energy Inc (NRG) Stock Price Target Raised. Get the Bigger Picture",
@@ -690,39 +960,9 @@
           "ts": 1781205829.0
         },
         {
-          "title": "Tom Lee Says Bitmine To Slow Ethereum Purchases",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-says-bitmine-slow-011200864.html",
-          "ts": 1781197920.0
-        },
-        {
-          "title": "Is James River Group Holdings, Inc. (JRVR) among the Best Insurance Stocks to Buy Following Q1 Earnings?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/james-river-group-holdings-inc-003913253.html",
-          "ts": 1781195953.0
-        },
-        {
-          "title": "Here is why Abacus Global Management, Inc. (ABX) is among the Best Insurance Stocks to Buy Following Q1 Earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-abacus-global-management-inc-003907133.html",
-          "ts": 1781195947.0
-        },
-        {
-          "title": "Exzeo Group, Inc. (XZO): 10 Best Insurance Stocks to Buy Following Q1 Earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/exzeo-group-inc-xzo-10-003901257.html",
-          "ts": 1781195941.0
-        },
-        {
-          "title": "Ryan Specialty (RYAN) Was Downgraded—So Why Are Investors Still Paying Attention?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ryan-specialty-ryan-downgraded-why-003854411.html",
-          "ts": 1781195934.0
-        },
-        {
-          "title": "Fidelity National Financial (FNF) Faces Housing Headwinds But Analysts Still See Upside",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-national-financial-fnf-faces-003847147.html",
-          "ts": 1781195927.0
-        },
-        {
-          "title": "Why UBS Just Turned Bullish on Assured Guaranty (AGO)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-ubs-just-turned-bullish-003840858.html",
-          "ts": 1781195920.0
+          "title": "Kalshi Tightens Compliance Screws After Military Spouses Reportedly Bet On Maduro's Capture",
+          "link": "https://finance.yahoo.com/markets/options/articles/kalshi-tightens-compliance-screws-military-023120955.html",
+          "ts": 1781202680.0
         }
       ]
     },
