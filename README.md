@@ -62,6 +62,15 @@ the favicon), and one or more RSS `feeds`:
 }
 ```
 
+### Keeping it financial
+
+General-business feeds (BBC, Guardian, NYT, Reuters, Bloomberg, Forbes) sometimes
+carry off-topic stories. Those sources have `"filter": true`, which keeps only
+headlines that match a finance term (`finance_keywords` in `sources.json`) or a
+watched company — so a story like "Woman seriously injured in crash" is dropped
+while "Tesla shares jump 8%" is kept. Dedicated markets feeds are left unfiltered.
+Add `"filter": true` to any source to apply it, or extend `finance_keywords`.
+
 For sites without a usable public feed, you can proxy through Google News:
 
 ```

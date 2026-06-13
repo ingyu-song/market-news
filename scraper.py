@@ -91,10 +91,31 @@ def entry_timestamp(entry) -> float:
     return 0.0
 
 
-def fetch_source(source: dict, max_items: int) -> dict | None:
+def build_finance_filter(keywords: list[str], patterns: dict) -> re.Pattern | None:
+    """One regex that matches a finance keyword OR any watched company name."""
+    terms = [re.escape(k) for k in keywords if k]
+    # Reuse the company aliases so e.g. "Tesla recalls cars" still counts.
+    for pat in patterns.values():
+        terms.append(pat.pattern)
+    if not terms:
+        return None
+    return re.compile(r"(?<![\w])(?:" + "|".join(terms) + r")(?![\w])", re.IGNORECASE)
+
+
+def is_financial(title: str, finance_re: re.Pattern | None) -> bool:
+    if finance_re is None:
+        return True
+    if any(sym in title for sym in "$£€¥%"):
+        return True
+    return bool(finance_re.search(title))
+
+
+def fetch_source(source: dict, max_items: int,
+                 finance_re: re.Pattern | None = None) -> dict | None:
     """Return a rendered source dict, or None if nothing could be fetched."""
     name = source["name"]
     domain = source["domain"]
+    do_filter = bool(source.get("filter", False))
     items: list[dict] = []
     seen_links: set[str] = set()
     seen_titles: set[str] = set()
@@ -117,6 +138,8 @@ def fetch_source(source: dict, max_items: int) -> dict | None:
             title = clean_title(entry.get("title", ""), source_title)
             link = (entry.get("link") or "").strip()
             if not title or not link:
+                continue
+            if do_filter and not is_financial(title, finance_re):
                 continue
             title_key = title.lower()
             if link in seen_links or title_key in seen_titles:
@@ -229,11 +252,12 @@ def main() -> int:
     config = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
     max_items = int(config.get("max_items_per_source", 12))
     patterns, min_sources, top_n = load_watchlist()
+    finance_re = build_finance_filter(config.get("finance_keywords", []), patterns)
 
     rendered: list[dict] = []
     for source in config.get("sources", []):
         print(f"Fetching {source['name']} ...")
-        result = fetch_source(source, max_items)
+        result = fetch_source(source, max_items, finance_re)
         if result:
             print(f"  -> {len(result['items'])} items")
             rendered.append(result)

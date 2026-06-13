@@ -1,6 +1,35 @@
 {
-  "_comment": "Each source: name shown in the UI, domain used for the favicon, and one or more RSS feed URLs. Add or remove sources freely — the scraper skips any feed that fails. Keep it to financial-market-focused feeds.",
+  "_comment": "Each source: name shown in the UI, domain used for the favicon, and one or more RSS feed URLs. Add or remove sources freely — the scraper skips any feed that fails. Set \"filter\": true on a source to keep ONLY headlines that look financial (uses finance_keywords + the company watchlist). Dedicated markets feeds are left unfiltered; general feeds (BBC/Guardian/NYT/Reuters/Bloomberg/Forbes business) are filtered so off-topic stories are dropped.",
   "max_items_per_source": 12,
+  "finance_keywords": [
+    "stock", "stocks", "share", "shares", "shareholder", "equity", "equities",
+    "market", "markets", "nasdaq", "dow jones", "s&p", "ftse", "nikkei",
+    "hang seng", "index", "indices", "futures", "options", "etf", "wall street",
+    "rally", "sell-off", "selloff", "bull market", "bear market", "short seller",
+    "volatility", "vix", "premarket", "pre-market", "after-hours",
+    "earnings", "revenue", "profit", "profits", "loss", "losses", "margin",
+    "guidance", "forecast", "outlook", "dividend", "buyback", "valuation",
+    "ipo", "listing", "merger", "acquisition", "acquire", "takeover", "buyout",
+    "leveraged buyout", "lbo", "spin-off", "spinoff", "stake", "divestiture",
+    "private equity", "venture capital", "hedge fund", "mutual fund", "fund",
+    "portfolio", "asset management", "market cap", "capital", "funding",
+    "financing", "restructuring", "bankruptcy", "default", "layoffs", "layoff",
+    "ceo", "cfo", "chief executive", "startup",
+    "economy", "economic", "gdp", "inflation", "deflation", "cpi", "ppi",
+    "interest rate", "interest rates", "rate cut", "rate hike", "federal reserve",
+    "the fed", "fomc", "central bank", "ecb", "bank of england", "treasury",
+    "treasuries", "bond", "bonds", "yield", "yields", "jobs report", "nonfarm",
+    "unemployment", "jobless", "trade deal", "tariff", "tariffs", "sanctions",
+    "recession", "stimulus", "bailout", "debt", "deficit", "surplus",
+    "currency", "currencies", "dollar", "euro", "yen", "exchange rate", "forex",
+    "oil", "crude", "brent", "natural gas", "gold", "silver", "copper",
+    "commodity", "commodities", "opec", "bitcoin", "ethereum", "crypto",
+    "cryptocurrency", "stablecoin", "blockchain",
+    "bank", "banks", "banking", "lender", "loan", "loans", "credit", "mortgage",
+    "insurer", "insurance", "investment bank", "regulator", "sec", "securities",
+    "fintech", "billion", "million", "trillion", "quarterly", "fiscal",
+    "investor", "investors", "investment", "investing"
+  ],
   "sources": [
     {
       "name": "CNBC Markets",
@@ -55,31 +84,37 @@
     {
       "name": "Forbes Markets",
       "domain": "forbes.com",
+      "filter": true,
       "feeds": ["https://news.google.com/rss/search?q=when:1d+site:forbes.com+markets&hl=en-US&gl=US&ceid=US:en"]
     },
     {
       "name": "BBC Business",
       "domain": "bbc.com",
+      "filter": true,
       "feeds": ["https://feeds.bbci.co.uk/news/business/rss.xml"]
     },
     {
       "name": "The Guardian Business",
       "domain": "theguardian.com",
+      "filter": true,
       "feeds": ["https://www.theguardian.com/uk/business/rss"]
     },
     {
       "name": "NYT Business",
       "domain": "nytimes.com",
+      "filter": true,
       "feeds": ["https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"]
     },
     {
       "name": "Reuters Business (via Google News)",
       "domain": "reuters.com",
+      "filter": true,
       "feeds": ["https://news.google.com/rss/search?q=when:1d+site:reuters.com+business&hl=en-US&gl=US&ceid=US:en"]
     },
     {
       "name": "Bloomberg (via Google News)",
       "domain": "bloomberg.com",
+      "filter": true,
       "feeds": ["https://news.google.com/rss/search?q=when:1d+site:bloomberg.com+markets&hl=en-US&gl=US&ceid=US:en"]
     }
   ]
