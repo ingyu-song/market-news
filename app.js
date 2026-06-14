@@ -1,6 +1,7 @@
 "use strict";
 
 const board = document.getElementById("board");
+const xsumEl = document.getElementById("x-summary");
 const highlightsEl = document.getElementById("highlights");
 const statusEl = document.getElementById("status");
 const filterEl = document.getElementById("filter");
@@ -91,6 +92,59 @@ function renderSource(source, query) {
     group.appendChild(btn);
   }
   return group;
+}
+
+function renderXTheme(theme, primary) {
+  const card = el("div", primary ? "xsum-card" : "xsum-card xsum-card-sm");
+  card.appendChild(el("div", "xsum-topic", theme.topic));
+  if (theme.summary) card.appendChild(el("p", "xsum-text", theme.summary));
+  if (theme.mentions && theme.mentions.length) {
+    const mentions = el("div", "xsum-mentions");
+    theme.mentions.slice(0, 8).forEach((h) => {
+      const handle = h.startsWith("@") ? h : "@" + h;
+      const a = el("a", "xsum-handle", handle);
+      a.href = "https://x.com/" + handle.replace(/^@/, "");
+      a.target = "_blank";
+      a.rel = "noopener";
+      mentions.appendChild(a);
+    });
+    card.appendChild(mentions);
+  }
+  return card;
+}
+
+function renderXSummary(data) {
+  xsumEl.innerHTML = "";
+  if (!data || !Array.isArray(data.top_3) || data.top_3.length === 0) return;
+
+  const head = el("div", "xsum-head");
+  head.appendChild(el("span", "xsum-title", "What X is talking about"));
+  const sub = [];
+  if (data.account_count) sub.push(`${data.account_count} accounts`);
+  if (data.generated_at) sub.push("updated " + formatUpdated(data.generated_at));
+  head.appendChild(el("span", "xsum-sub", sub.join(" · ")));
+  xsumEl.appendChild(head);
+
+  const grid = el("div", "xsum-grid");
+  data.top_3.forEach((t) => grid.appendChild(renderXTheme(t, true)));
+  xsumEl.appendChild(grid);
+
+  const others = Array.isArray(data.others) ? data.others : [];
+  if (others.length) {
+    const wrap = el("div", "xsum-others");
+    others.forEach((t) => wrap.appendChild(renderXTheme(t, false)));
+    xsumEl.appendChild(wrap);
+
+    const btn = el("button", "xsum-more");
+    btn.type = "button";
+    const labelMore = `More themes (${others.length})`;
+    btn.textContent = labelMore;
+    btn.addEventListener("click", () => {
+      const open = xsumEl.classList.toggle("xsum-open");
+      btn.textContent = open ? "Show less" : labelMore;
+    });
+    xsumEl.appendChild(btn);
+  }
 }
 
 function renderHighlights(highlights) {
@@ -184,6 +238,12 @@ function render() {
 filterEl.addEventListener("input", render);
 
 /* ---------- Load ---------- */
+// X summary loads independently — any failure must not affect the news feed.
+fetch("data/x_summary.json", { cache: "no-cache" })
+  .then((r) => (r.ok ? r.json() : null))
+  .then((data) => { if (data) renderXSummary(data); })
+  .catch(() => {});
+
 fetch("data/news.json", { cache: "no-cache" })
   .then((r) => {
     if (!r.ok) throw new Error(`HTTP ${r.status}`);

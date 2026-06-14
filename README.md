@@ -26,6 +26,38 @@ sources.json   ──►   scraper.py   ──►   data/news.json   ──►  
 fail), de-duplicates and sorts the items, and writes `data/news.json`. The page
 fetches that JSON in the browser and renders it.
 
+## "What X is talking about" (daily X/Twitter summary)
+
+A second pipeline summarizes finance X (Twitter) chatter into the panel at the
+very top of the page:
+
+```
+Apify task (X scrape)  ──►  x_processor.py  ──►  data/x_summary.json  ──►  top panel
+                            (Gemini summarize)
+```
+
+`x_processor.py` pulls the dataset from the Apify task, balances it (max 5
+tweets/account, 200 total — keeps spam accounts from dominating and caps cost),
+asks **Gemini** (`gemini-2.5-flash`, strict-JSON mode) to cluster it into market
+themes, and writes `data/x_summary.json` as `{ top_3, others }`. The frontend
+shows the top 3 themes with a **More** toggle for the rest, and **silently does
+nothing** if the file is missing — the news feed never breaks.
+
+It runs on its own schedule (`.github/workflows/x-update.yml`, daily 07:00 SGT),
+commits `x_summary.json`, then redeploys. Credentials come **only** from env vars
+/ repo secrets — `APIFY_API_TOKEN`, `GEMINI_API_KEY`, optional `GROQ_API_KEY`.
+
+Run it locally (PowerShell):
+
+```powershell
+pip install -r requirements-x.txt
+$env:APIFY_API_TOKEN = "..."; $env:GEMINI_API_KEY = "..."
+python x_processor.py            # writes data/x_summary.json
+```
+
+Set `X_USE_LAST_RUN=1` to reuse Apify's last successful run instead of
+triggering a fresh scrape (cheaper, if the task is already scheduled on Apify).
+
 ## Run it locally
 
 ```bash

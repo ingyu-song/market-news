@@ -6,9 +6,9 @@ on:
   # Redeploy on every push to main
   push:
     branches: [main]
-  # Refresh the headlines on a schedule (hourly, at :17 past the hour, UTC)
+  # Refresh the headlines on a schedule (hourly, on the hour, UTC)
   schedule:
-    - cron: "17 * * * *"
+    - cron: "0 * * * *"
 
 # Allow GITHUB_TOKEN to deploy to GitHub Pages
 permissions:
@@ -16,10 +16,11 @@ permissions:
   pages: write
   id-token: write
 
-# Only one deploy at a time; let scheduled runs supersede each other
+# Only one Pages deploy at a time. Don't cancel an in-progress deploy — the
+# daily X-summary job shares this group and we don't want to kill its deploy.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build-deploy:

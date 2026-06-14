@@ -1,0 +1,68 @@
+name: X summary & deploy
+
+on:
+  # Manual run button in the Actions tab
+  workflow_dispatch:
+  # Daily at 23:00 UTC = 07:00 Singapore time (UTC+8)
+  schedule:
+    - cron: "0 23 * * *"
+
+# contents:write lets the job commit the updated x_summary.json back to the repo
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Share the Pages deploy lane with deploy.yml; never cancel a deploy mid-flight
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  x-summary:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt -r requirements-x.txt
+
+      - name: Generate X summary
+        env:
+          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # optional fallback
+        run: python x_processor.py
+
+      - name: Commit x_summary.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/x_summary.json
+          if git diff --cached --quiet; then
+            echo "No change to x_summary.json."
+          else
+            git commit -m "Update X summary [skip ci]"
+            git pull --rebase --autostash || true
+            git push
+          fi
+
+      # Rebuild the news too and deploy, so the new summary is live immediately.
+      - name: Scrape headlines
+        run: python scraper.py
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
