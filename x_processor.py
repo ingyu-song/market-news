@@ -99,6 +99,15 @@ def log(msg: str) -> None:
     print(msg, file=sys.stderr)
 
 
+def _field(obj, key, default=None):
+    """Read a field from an Apify run whether it's a dict or an object."""
+    if obj is None:
+        return default
+    if isinstance(obj, dict):
+        return obj.get(key, default)
+    return getattr(obj, key, default)
+
+
 # --------------------------------------------------------------------------- #
 # Apify
 # --------------------------------------------------------------------------- #
@@ -120,11 +129,14 @@ def fetch_tweets() -> list[dict]:
             raise SystemExit("No successful previous run found on Apify.")
     else:
         log(f"Triggering Apify task {TASK_ID} and waiting for it to finish ...")
-        run = task.call(timeout_secs=600)  # starts the run and blocks until done
-        if not run or run.get("status") != "SUCCEEDED":
-            raise SystemExit(f"Apify run did not succeed: {run and run.get('status')}")
+        run = task.call()  # starts the run and blocks until it finishes
+        status = _field(run, "status")
+        if not run or status != "SUCCEEDED":
+            raise SystemExit(f"Apify run did not succeed: status={status!r}")
 
-    dataset_id = run["defaultDatasetId"]
+    dataset_id = _field(run, "defaultDatasetId") or _field(run, "default_dataset_id")
+    if not dataset_id:
+        raise SystemExit(f"Apify run has no dataset id; run={run!r}")
     log(f"Reading dataset {dataset_id} ...")
 
     tweets: list[dict] = []
@@ -196,16 +208,31 @@ def summarize_gemini(prompt: str) -> dict:
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY is not set.")
     client = genai.Client(api_key=api_key)
-    resp = client.models.generate_content(
-        model=GEMINI_MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
+
+    # Try strict structured output first; if this SDK build rejects the dict
+    # schema, fall back to plain JSON mode (the prompt already specifies shape).
+    configs = [
+        types.GenerateContentConfig(
             response_mime_type="application/json",
             response_schema=RESPONSE_SCHEMA,
             temperature=0.3,
         ),
-    )
-    return json.loads(_strip_fences(resp.text))
+        types.GenerateContentConfig(
+            response_mime_type="application/json",
+            temperature=0.3,
+        ),
+    ]
+    last_err = None
+    for i, cfg in enumerate(configs, 1):
+        try:
+            resp = client.models.generate_content(
+                model=GEMINI_MODEL, contents=prompt, config=cfg
+            )
+            return json.loads(_strip_fences(resp.text))
+        except Exception as exc:  # noqa: BLE001
+            last_err = exc
+            log(f"  Gemini config {i}/{len(configs)} failed: {type(exc).__name__}: {exc}")
+    raise last_err
 
 
 def summarize_groq(prompt: str) -> dict:
@@ -261,7 +288,23 @@ def normalize(result: dict) -> dict:
 
 
 # --------------------------------------------------------------------------- #
+def _key_hint(name: str) -> str:
+    v = os.environ.get(name) or ""
+    if not v:
+        return f"{name}=MISSING"
+    return f"{name} set (len={len(v)}, starts '{v[:4]}…')"
+
+
 def main() -> int:
+    # Startup diagnostics — visible in the Actions log, no secrets leaked.
+    log("=== x_processor starting ===")
+    log("  " + _key_hint("APIFY_API_TOKEN"))
+    log("  " + _key_hint("GEMINI_API_KEY"))
+    log(f"  task={TASK_ID}  use_last_run={USE_LAST_RUN}  model={GEMINI_MODEL}")
+    if not (os.environ.get("GEMINI_API_KEY") or "").startswith("AIza"):
+        log("  WARNING: a Gemini API key normally starts with 'AIza'. If yours "
+            "doesn't, generate one at https://aistudio.google.com/apikey")
+
     tweets = fetch_tweets()
     if not tweets:
         raise SystemExit("No tweets fetched — leaving existing summary untouched.")
