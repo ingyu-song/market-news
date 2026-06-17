@@ -7,6 +7,7 @@
   --navy-hover: #2a3a5e;
   --gold: #b8914a;
   --gold-soft: #d4af70;
+  --red: #c0392b;
   --link-hover: #378add;
 
   --bg: #ffffff;
@@ -129,28 +130,35 @@ a { color: inherit; text-decoration: none; }
 .xsum-sub { font-family: var(--font-mono); font-size: 11px; color: var(--text-faint); }
 
 .xsum-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 22px;
 }
 
 .xsum-card {
+  flex: 1 1 340px;
+  max-width: 560px;
   background: var(--surface);
   border: 0.5px solid var(--border);
   border-left: 2.5px solid var(--navy);
   border-radius: var(--radius);
-  padding: 15px 18px;
+  padding: 18px 20px 17px;
 }
 .xsum-topic {
-  font-size: 15px;
-  font-weight: 600;
+  font-size: 16.5px;
+  font-weight: 700;
   color: var(--navy);
-  letter-spacing: -0.2px;
+  letter-spacing: -0.3px;
+  line-height: 1.3;
+  padding-bottom: 11px;
+  margin-bottom: 12px;
+  border-bottom: 0.5px solid var(--border-soft);
 }
 .xsum-text {
-  margin: 9px 0 11px;
+  margin: 0 0 13px;
   font-size: 13px;
-  line-height: 1.55;
+  line-height: 1.6;
   color: var(--text-mid);
 }
 .xsum-mentions { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -189,6 +197,54 @@ a { color: inherit; text-decoration: none; }
   transition: color 0.12s, border-color 0.12s;
 }
 .xsum-more:hover { color: var(--link-hover); border-color: var(--navy); }
+
+/* Category grouping */
+.xsum-cat { margin-top: 34px; }
+.xsum-cat-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  font-family: var(--font-sans);
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--navy);
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  text-align: left;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--border);
+  padding: 0 0 8px;
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+.xsum-chev {
+  display: inline-flex;
+  color: var(--text-faint);
+  transition: transform 0.18s ease;
+}
+.xsum-cat.collapsed .xsum-chev { transform: rotate(-90deg); }
+.xsum-cat.collapsed .xsum-cat-body { display: none; }
+.xsum-cat.collapsed .xsum-cat-head { margin-bottom: 0; }
+
+/* New Topic — red emergent category at the top */
+.xsum-cat-new .xsum-cat-head {
+  color: var(--red);
+  border-bottom-color: color-mix(in srgb, var(--red) 45%, var(--border));
+}
+.xsum-cat-new .xsum-chev { color: var(--red); }
+.xsum-cat-new .xsum-card { border-left-color: var(--red); }
+.xsum-subhead {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+  color: var(--text-dim);
+  margin: 20px 0 12px;
+}
+.xsum-cat .xsum-grid + .xsum-subhead { margin-top: 24px; }
 
 /* ---------- Highlights ---------- */
 .highlights {

@@ -118,21 +118,105 @@ function renderXTheme(theme, primary) {
   return card;
 }
 
-function renderXSummary(data) {
-  xsumEl.innerHTML = "";
-  if (!data || !Array.isArray(data.top_3) || data.top_3.length === 0) return;
+// Fixed display order of Tech sub-categories.
+const TECH_SUBCATS = [
+  ["infrastructure", "Infrastructure"],
+  ["cloud", "Cloud"],
+  ["memory", "Memory"],
+  ["space", "Space"],
+  ["software", "Software"],
+];
 
+function xsumHead(data) {
   const head = el("div", "xsum-head");
   head.appendChild(el("span", "xsum-title", "What X is talking about"));
   const sub = [];
   if (data.account_count) sub.push(`${data.account_count} accounts`);
   if (data.generated_at) sub.push("updated " + formatUpdated(data.generated_at));
   head.appendChild(el("span", "xsum-sub", sub.join(" · ")));
-  xsumEl.appendChild(head);
+  return head;
+}
 
+function xsumGrid(themes) {
   const grid = el("div", "xsum-grid");
-  data.top_3.forEach((t) => grid.appendChild(renderXTheme(t, true)));
-  xsumEl.appendChild(grid);
+  themes.forEach((t) => grid.appendChild(renderXTheme(t, true)));
+  return grid;
+}
+
+const CHEVRON =
+  '<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>';
+
+// One collapsible category block: a clickable header + a body (flat grid or
+// sub-sections). Clicking the header toggles the body open/closed.
+function xsumCategory(label, opts) {
+  const sec = el("section", "xsum-cat" + (opts.variant ? " xsum-cat-" + opts.variant : ""));
+
+  const head = el("button", "xsum-cat-head");
+  head.type = "button";
+  head.appendChild(el("span", "xsum-cat-label", label));
+  const chev = el("span", "xsum-chev");
+  chev.innerHTML = CHEVRON;
+  head.appendChild(chev);
+
+  const body = el("div", "xsum-cat-body");
+  if (opts.subsections) {
+    for (const [subLabel, themes] of opts.subsections) {
+      if (!themes.length) continue;
+      body.appendChild(el("div", "xsum-subhead", subLabel));
+      body.appendChild(xsumGrid(themes));
+    }
+  } else {
+    body.appendChild(xsumGrid(opts.themes));
+  }
+
+  head.addEventListener("click", () => sec.classList.toggle("collapsed"));
+  sec.appendChild(head);
+  sec.appendChild(body);
+  return sec;
+}
+
+function renderXGrouped(data) {
+  xsumEl.appendChild(xsumHead(data));
+  const themes = data.themes;
+  const inCat = (c) => themes.filter((t) => (t.category || "").toLowerCase() === c);
+
+  // 1) New Topic — emergent groups (not tech/macro), pinned to the top, red.
+  const other = inCat("other");
+  if (other.length) {
+    const groups = new Map();
+    for (const t of other) {
+      const key = (t.subcategory || "Other").trim() || "Other";
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(t);
+    }
+    xsumEl.appendChild(
+      xsumCategory("New Topic", { subsections: [...groups.entries()], variant: "new" })
+    );
+  }
+
+  // 2) Tech — split into the fixed sub-categories (skip empty ones).
+  const tech = inCat("tech");
+  if (tech.length) {
+    const known = new Set(TECH_SUBCATS.map(([k]) => k));
+    const subsections = TECH_SUBCATS.map(([key, label]) => [
+      label,
+      tech.filter((t) => (t.subcategory || "").toLowerCase() === key),
+    ]);
+    const rest = tech.filter((t) => !known.has((t.subcategory || "").toLowerCase()));
+    if (rest.length) subsections.push(["Other", rest]);
+    xsumEl.appendChild(xsumCategory("Tech", { subsections }));
+  }
+
+  // 3) Macro — flat, no sub-topics.
+  const macro = inCat("macro");
+  if (macro.length) {
+    xsumEl.appendChild(xsumCategory("Macro", { themes: macro }));
+  }
+}
+
+function renderXLegacy(data) {
+  xsumEl.appendChild(xsumHead(data));
+  xsumEl.appendChild(xsumGrid(data.top_3));
 
   const others = Array.isArray(data.others) ? data.others : [];
   if (others.length) {
@@ -149,6 +233,16 @@ function renderXSummary(data) {
       btn.textContent = open ? "Show less" : labelMore;
     });
     xsumEl.appendChild(btn);
+  }
+}
+
+function renderXSummary(data) {
+  xsumEl.innerHTML = "";
+  if (!data) return;
+  if (Array.isArray(data.themes) && data.themes.length) {
+    renderXGrouped(data);
+  } else if (Array.isArray(data.top_3) && data.top_3.length) {
+    renderXLegacy(data);
   }
 }
 

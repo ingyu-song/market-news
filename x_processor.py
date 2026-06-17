@@ -40,12 +40,15 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 RESPONSE_SCHEMA = {
     "type": "object",
     "properties": {
-        "top_3": {
+        "themes": {
             "type": "array",
             "items": {
                 "type": "object",
                 "properties": {
                     "topic": {"type": "string"},
+                    "category": {"type": "string", "enum": ["tech", "macro", "other"]},
+                    "subcategory": {"type": "string"},
+                    "summary": {"type": "string"},
                     "mentions": {
                         "type": "array",
                         "items": {
@@ -57,60 +60,47 @@ RESPONSE_SCHEMA = {
                             "required": ["handle", "tweet_id"],
                         },
                     },
-                    "summary": {"type": "string"},
                 },
-                "required": ["topic", "mentions", "summary"],
-            },
-        },
-        "others": {
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "topic": {"type": "string"},
-                    "mentions": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "handle": {"type": "string"},
-                                "tweet_id": {"type": "integer"},
-                            },
-                            "required": ["handle", "tweet_id"],
-                        },
-                    },
-                    "summary": {"type": "string"},
-                },
-                "required": ["topic", "mentions", "summary"],
+                "required": ["topic", "category", "subcategory", "summary", "mentions"],
             },
         },
     },
-    "required": ["top_3", "others"],
+    "required": ["themes"],
 }
 
 PROMPT_TEMPLATE = """You are a senior macro/markets analyst at a hedge fund. \
 Below is a batch of finance tweets from X. Each line starts with an index in \
-square brackets, then the author handle, then the text: "[12] (@handle) text". \
-Cluster them into the distinct market/macro NARRATIVES being discussed today \
-(e.g. "AI infrastructure / memory pricing", "Fed & rates", "China tech").
+square brackets, then the author handle, then the text: "[12] (@handle) text".
+
+Cluster the tweets into distinct market NARRATIVES (themes), and CATEGORIZE each:
+
+- category "tech": company/industry/technology themes. You MUST set "subcategory" to ONE of:
+    "infrastructure" — datacenters, networking, optics, power-for-AI, chips/foundry/semis capex
+    "cloud"          — hyperscaler capex, cloud platforms, AI inference cost
+    "memory"         — DRAM / HBM / NAND pricing and supply
+    "space"          — SpaceX / Starlink / launch / satellites
+    "software"       — AI models & labs, apps, SaaS, internet platforms
+  If a tech theme fits none well, pick the closest.
+- category "macro": economy, rates, the Fed, inflation, FX, commodities, trade, policy.
+  Set "subcategory" to "".
+- category "other": a clearly distinct cluster that is NOT tech or macro (e.g. crypto,
+  energy/utilities, biotech, geopolitics). Set "subcategory" to a SHORT Title-Case label
+  naming that group, e.g. "Crypto" or "Energy".
 
 Return ONLY a JSON object (no markdown, no code fences) with this exact shape:
 {{
-  "top_3": [
-    {{"topic": "Brief Theme Name", "mentions": [{{"handle": "@Handle1", "tweet_id": 12}}, {{"handle": "@Handle2", "tweet_id": 7}}], "summary": "1-2 sentence explanation of the narrative."}}
-  ],
-  "others": [
-    {{"topic": "Brief Theme Name", "mentions": [{{"handle": "@Handle3", "tweet_id": 31}}], "summary": "1-2 sentence explanation."}}
+  "themes": [
+    {{"topic": "Brief Theme Name", "category": "tech", "subcategory": "memory", "summary": "1-2 sentence explanation.", "mentions": [{{"handle": "@Handle1", "tweet_id": 12}}]}}
   ]
 }}
 
 Rules:
-- "top_3": the THREE most significant / most-discussed market themes. Exactly 3 if possible.
-- "others": the remaining noteworthy themes (up to ~7). Omit pure noise/spam/non-finance chatter.
+- Produce up to ~12 themes, ordered by importance (most significant first).
 - "mentions": the accounts that discussed that theme. For EACH, give "handle" (with @)
   and "tweet_id" = the [index] of THAT account's single most relevant tweet for this theme.
 - Every tweet_id MUST be one of the indices shown in the data. Never invent an index.
 - "summary": 1-2 tight sentences, preserve key tickers/numbers/jargon, no filler.
+- Omit pure noise/spam/non-finance chatter.
 
 Raw tweets:
 {data}
@@ -338,24 +328,31 @@ def _build_mentions(raw_mentions, tweets: list[dict]) -> list[dict]:
     return out
 
 
-def finalize(result: dict, tweets: list[dict]) -> dict:
-    """Validate items and resolve each mention to a direct-post link."""
-    def clean(items):
-        out = []
-        for it in (items or []):
-            if not isinstance(it, dict):
-                continue
-            topic = str(it.get("topic", "")).strip()
-            summary = str(it.get("summary", "")).strip()
-            if topic and summary:
-                out.append({
-                    "topic": topic,
-                    "mentions": _build_mentions(it.get("mentions"), tweets),
-                    "summary": summary,
-                })
-        return out
+VALID_CATEGORIES = {"tech", "macro", "other"}
 
-    return {"top_3": clean(result.get("top_3"))[:3], "others": clean(result.get("others"))}
+
+def finalize(result: dict, tweets: list[dict]) -> dict:
+    """Validate themes, normalize category/subcategory, resolve mention links."""
+    out = []
+    for it in (result.get("themes") or []):
+        if not isinstance(it, dict):
+            continue
+        topic = str(it.get("topic", "")).strip()
+        summary = str(it.get("summary", "")).strip()
+        if not (topic and summary):
+            continue
+        category = str(it.get("category", "")).strip().lower()
+        if category not in VALID_CATEGORIES:
+            category = "other"
+        subcategory = str(it.get("subcategory", "")).strip()
+        out.append({
+            "topic": topic,
+            "category": category,
+            "subcategory": subcategory,
+            "summary": summary,
+            "mentions": _build_mentions(it.get("mentions"), tweets),
+        })
+    return {"themes": out[:14]}
 
 
 # --------------------------------------------------------------------------- #
@@ -385,20 +382,21 @@ def main() -> int:
     log(f"Summarizing {len(selected)} tweets from {accounts} accounts ...")
 
     result = finalize(summarize(selected), selected)
-    if not result["top_3"]:
+    if not result["themes"]:
         raise SystemExit("Model returned no themes — leaving existing summary untouched.")
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "tweet_count": len(selected),
         "account_count": accounts,
-        "top_3": result["top_3"],
-        "others": result["others"],
+        "themes": result["themes"],
     }
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    log(f"Wrote {OUT_FILE.relative_to(ROOT)}: "
-        f"{len(payload['top_3'])} top themes, {len(payload['others'])} others.")
+    cats = {}
+    for t in payload["themes"]:
+        cats[t["category"]] = cats.get(t["category"], 0) + 1
+    log(f"Wrote {OUT_FILE.relative_to(ROOT)}: {len(payload['themes'])} themes {cats}.")
     return 0
 
 
