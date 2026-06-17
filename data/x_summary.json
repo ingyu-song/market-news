@@ -1,189 +1,103 @@
 {
-  "generated_at": "2026-06-17T06:58:54+00:00",
+  "generated_at": "2026-06-17T07:19:55+00:00",
   "tweet_count": 88,
   "account_count": 25,
-  "top_3": [
+  "themes": [
     {
       "topic": "AI Infrastructure & Optical Networking",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The AI infrastructure buildout is driving significant demand for advanced optical networking components and systems across scale-up, scale-out, and scale-across layers. Companies are expanding capacity and developing technologies like PICs, 800G/1.6T transceivers, and CPO solutions, with InP DFB lasers being a key component.",
       "mentions": [
         {
           "handle": "@KawzInvests",
           "url": "https://x.com/KawzInvests/status/2066672855983554676"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2067094790492364905"
-        },
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/KawzInvests/status/2066956573377798564"
-        },
-        {
-          "handle": "@MRVL",
-          "url": "https://x.com/KawzInvests/status/2066612577103118686"
-        },
-        {
-          "handle": "@CIEN",
-          "url": "https://x.com/KawzInvests/status/2066898048299470925"
-        },
-        {
-          "handle": "@AAOI",
-          "url": "https://x.com/aleabitoreddit/status/2067071462360666165"
-        },
-        {
-          "handle": "@SIVE",
-          "url": "https://x.com/ParadisLabs/status/2066855950527479949"
-        },
-        {
-          "handle": "@LITE",
-          "url": "https://x.com/ParadisLabs/status/2066950108584063220"
-        },
-        {
-          "handle": "@COHR",
-          "url": "https://x.com/crux_capital_/status/2067045715596247273"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2067033934194696469"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2066821880036958591"
         }
-      ],
-      "summary": "The AI infrastructure buildout is driving massive demand for optical networking components and systems across scale-up, scale-out, and scale-across layers, including advanced transceivers (800G/1.6T), CPO, LPO, NPO, and Data Center Interconnect (DCI). Companies like Nokia, Ciena, Marvell, and AAOI are expanding capacity and innovating to meet this demand, with a focus on US supply chain resilience."
+      ]
     },
     {
-      "topic": "Advanced Semiconductor Manufacturing & Memory",
+      "topic": "Memory Market Dynamics & HBM Prioritization",
+      "category": "tech",
+      "subcategory": "memory",
+      "summary": "Contract prices for NOR Flash and SLC NAND have surged over 100% in 1H26 and are expected to continue rising, driven by suppliers like Samsung and Micron prioritizing HBM and advanced 3D NAND production. This shift is creating shortages in mature-node products, while Samsung is also preparing mass production of 1d DRAM for future HBM5E.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2067143229745827862"
+        }
+      ]
+    },
+    {
+      "topic": "Semiconductor Foundry & Packaging Capacity",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "TSMC's advanced chipmaking capacity constraints are leading major customers like BYD, Google, AMD, and Tesla to increasingly seek contract chipmaking services from Samsung, driving a dual-sourcing strategy. This is coupled with strategic agreements for advanced packaging and testing in the US (TSMC/Amkor) and supply chain pressures for key materials like Ajinomoto ABF.",
       "mentions": [
         {
           "handle": "@jukan05",
           "url": "https://x.com/jukan05/status/2067092746364748272"
-        },
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2067026684130603201"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2067135306260959302"
-        },
-        {
-          "handle": "@pcbanalysis",
-          "url": "https://x.com/pcbanalysis/status/2066929978940498319"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2066821880036958591"
         }
-      ],
-      "summary": "Surging AI demand is straining advanced chipmaking capacity, leading to increased inquiries for Samsung's foundry services from major players like BYD, Google, and AMD, and a push for dual-sourcing strategies. The memory market is seeing significant price increases for NOR Flash and SLC NAND due to suppliers prioritizing high-value HBM production, while companies like Ajinomoto are expanding capacity for critical packaging materials."
+      ]
     },
     {
-      "topic": "SpaceX IPO & Space Sector Dynamics",
+      "topic": "Space Industry & SpaceX Dominance",
+      "category": "tech",
+      "subcategory": "space",
+      "summary": "SpaceX's valuation has surged, with reports of it surpassing major tech giants in market cap, leading to discussions about market euphoria. Meanwhile, AST SpaceMobile is preparing a critical launch of three Block 2 satellites, aiming to maintain its lead in direct-to-device connectivity against SpaceX, with investors debating liquidity rotation between the two.",
       "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2067133659921166741"
-        },
         {
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2066885645994213764"
-        },
-        {
-          "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2066952697648124228"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2066561965267226813"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2066884846937403728"
-        },
-        {
-          "handle": "@investingluc",
-          "url": "https://x.com/investingluc/status/2066860012308156684"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2066821319862390859"
         }
-      ],
-      "summary": "The recent SpaceX IPO has created significant market buzz, with its valuation rapidly climbing to become one of the largest companies globally, attracting substantial trading volume and leveraged ETFs. This event is influencing the broader space sector, with investors potentially rotating liquidity and other players like AST SpaceMobile facing critical launch milestones and market re-evaluation."
-    }
-  ],
-  "others": [
+      ]
+    },
     {
-      "topic": "Financial Services & AI Financing",
+      "topic": "AI Infrastructure Financing & Financial Services",
+      "category": "macro",
+      "subcategory": "",
+      "summary": "The generative AI infrastructure buildout is creating significant downstream profit opportunities for financial services firms, particularly large alternative asset managers with direct ownership in data centers, digital infrastructure, and power. Investment banks are also benefiting from advisory, capital markets, and private credit origination related to AI.",
       "mentions": [
         {
           "handle": "@TheValueist",
           "url": "https://x.com/TheValueist/status/2067094874826928205"
         }
-      ],
-      "summary": "US financial services, particularly large alternative-asset managers and investment banks, are positioned to benefit significantly from the generative AI infrastructure buildout through direct ownership of digital infrastructure, private credit origination, advisory, and capital markets activities."
+      ]
     },
     {
-      "topic": "Macro Outlook & Fed Policy",
+      "topic": "Macro Outlook & US-Iran Deal",
+      "category": "macro",
+      "subcategory": "",
+      "summary": "A potential US-Iran peace deal, including the reopening of the Strait of Hormuz, is seen as a significant macro catalyst. It could remove inflation pressures from energy, relieve Fed hike expectations, and lead to a broader risk-on environment for equities, though details of the deal remain contested between the US and Iran.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2066950108584063220"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2067118898403737721"
-        },
-        {
-          "handle": "@GavinSBaker",
-          "url": "https://x.com/GavinSBaker/status/2066911759659565364"
         }
-      ],
-      "summary": "The market is focused on upcoming FOMC decisions, including potential rate hikes and inflation commentary, and key economic data like retail sales. Geopolitical developments, such as a potential US/Iran peace deal and the reopening of the Strait of Hormuz, are seen as risk-on catalysts that could alleviate inflation pressures and influence Fed policy."
+      ]
     },
     {
-      "topic": "AI Software & Frontier Model Economics",
+      "topic": "AI Software & Model Commercialization",
+      "category": "tech",
+      "subcategory": "software",
+      "summary": "The AI software market is characterized by rapid model depreciation, lack of lock-in, and non-existent switching costs, posing challenges for frontier models. Companies like Microsoft are adapting by moving to usage-based pricing for products like CoPilot and exploring cheaper model options from providers like DeepSeek.",
       "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2066922385169600823"
-        },
         {
           "handle": "@AlmaCap114204",
           "url": "https://x.com/AlmaCap114204/status/2066964943153312227"
-        },
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2067093666792136855"
         }
-      ],
-      "summary": "Discussions around AI software focus on pricing models, with Microsoft reportedly moving CoPilot to usage-based pricing and considering cheaper model options. There's also skepticism about the long-term lock-in and sustainability of frontier models due to rapid depreciation, low switching costs, and potential government intervention."
+      ]
     },
     {
-      "topic": "Cloud Infrastructure & Enterprise IT Security",
+      "topic": "Cloud Infrastructure & Hyperscaler Procurement",
+      "category": "tech",
+      "subcategory": "cloud",
+      "summary": "Hyperscalers are navigating complex procurement decisions, as exemplified by Microsoft reportedly walking away from a $3B Oracle cloud capacity deal due to security and compliance issues (FedRAMP requirements). Meanwhile, AI server manufacturers like Quanta Computer are expanding US factory capacity to meet demand.",
       "mentions": [
         {
           "handle": "@wallstengine",
           "url": "https://x.com/wallstengine/status/2067138278722314691"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2066972956375318719"
         }
-      ],
-      "summary": "Microsoft reportedly withdrew from a significant cloud leasing deal with Oracle due to security and compliance issues, specifically Oracle's lack of FedRAMP certification required for U.S. government data, highlighting the importance of specialized security frameworks in enterprise cloud adoption."
-    },
-    {
-      "topic": "AI Server Manufacturing & US Expansion",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2067026581051310184"
-        }
-      ],
-      "summary": "AI server manufacturer Quanta Computer plans to raise $2.2 billion via GDRs to fund factory building and component purchases, with intentions to establish three new plants in the US by end-2026, signaling a trend towards expanding US-based AI hardware production capacity."
+      ]
     }
   ]
 }
