@@ -353,12 +353,15 @@ def main() -> int:
             result = fetch_source(source, max_items, finance_re, exclude_re)
         if result:
             print(f"  -> {len(result['items'])} items")
+            result["_pin_bottom"] = bool(source.get("pin_bottom"))
             rendered.append(result)
         else:
             print(f"  -> skipped (no items)")
 
-    # Sources with the freshest news float to the top.
-    rendered.sort(key=lambda s: s["latest_ts"], reverse=True)
+    # Freshest sources float to the top, but pin_bottom sources always sink last.
+    rendered.sort(key=lambda s: (s["_pin_bottom"], -s["latest_ts"]))
+    for s in rendered:
+        s.pop("_pin_bottom", None)
 
     highlights = detect_highlights(rendered, patterns, min_sources, top_n)
     print(

@@ -162,7 +162,16 @@ def fetch_tweets() -> list[dict]:
     log(f"Reading dataset {dataset_id} ...")
 
     tweets: list[dict] = []
+    first = True
     for item in client.dataset(dataset_id).iterate_items():
+        if first and isinstance(item, dict):
+            first = False
+            # One-time schema peek so we can see what URL/id fields exist.
+            log(f"  raw item keys: {sorted(item.keys())}")
+            for k in ("url", "twitterUrl", "tweetUrl", "statusUrl", "id",
+                      "id_str", "tweetId", "conversationId"):
+                if k in item:
+                    log(f"    {k} = {item[k]!r}")
         text = (item.get("text") or item.get("fullText")
                 or item.get("full_text") or "").strip()
         author = ""

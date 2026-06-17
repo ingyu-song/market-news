@@ -134,16 +134,18 @@
     {
       "name": "Commercial Times 工商時報",
       "domain": "ctee.com.tw",
-      "_note": "Taiwanese financial daily — Chinese language. filter:false (the English finance filter would drop all of it).",
+      "_note": "Taiwanese financial daily — Chinese language. filter:false (the English finance filter would drop all of it). pin_bottom keeps it at the end of the board.",
       "filter": false,
+      "pin_bottom": true,
       "feeds": ["https://news.google.com/rss/search?q=when:3d+site:ctee.com.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"]
     },
     {
       "name": "Naver 뉴스 · 반도체",
       "domain": "naver.com",
       "type": "naver",
-      "_note": "Korean news via the Naver Search API. Needs NAVER_CLIENT_ID / NAVER_CLIENT_SECRET env vars. filter:false (Korean text). Change `query` to retarget.",
+      "_note": "Korean news via the Naver Search API. Needs NAVER_CLIENT_ID / NAVER_CLIENT_SECRET env vars. filter:false (Korean text). Change `query` to retarget. pin_bottom keeps it at the end.",
       "filter": false,
+      "pin_bottom": true,
       "query": "반도체"
     }
   ]
