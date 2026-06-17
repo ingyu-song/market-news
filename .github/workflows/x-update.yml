@@ -56,6 +56,9 @@ jobs:
 
       # Rebuild the news too and deploy, so the new summary is live immediately.
       - name: Scrape headlines
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python scraper.py
 
       - name: Upload site

@@ -46,7 +46,17 @@ RESPONSE_SCHEMA = {
                 "type": "object",
                 "properties": {
                     "topic": {"type": "string"},
-                    "mentions": {"type": "array", "items": {"type": "string"}},
+                    "mentions": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "handle": {"type": "string"},
+                                "tweet_id": {"type": "integer"},
+                            },
+                            "required": ["handle", "tweet_id"],
+                        },
+                    },
                     "summary": {"type": "string"},
                 },
                 "required": ["topic", "mentions", "summary"],
@@ -58,7 +68,17 @@ RESPONSE_SCHEMA = {
                 "type": "object",
                 "properties": {
                     "topic": {"type": "string"},
-                    "mentions": {"type": "array", "items": {"type": "string"}},
+                    "mentions": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "handle": {"type": "string"},
+                                "tweet_id": {"type": "integer"},
+                            },
+                            "required": ["handle", "tweet_id"],
+                        },
+                    },
                     "summary": {"type": "string"},
                 },
                 "required": ["topic", "mentions", "summary"],
@@ -69,26 +89,28 @@ RESPONSE_SCHEMA = {
 }
 
 PROMPT_TEMPLATE = """You are a senior macro/markets analyst at a hedge fund. \
-Below is a batch of finance-focused tweets from X, each tagged with its author \
-handle. Cluster them into the distinct market/macro NARRATIVES being discussed \
-today (e.g. "AI infrastructure / memory pricing", "Fed & rates", "China tech").
+Below is a batch of finance tweets from X. Each line starts with an index in \
+square brackets, then the author handle, then the text: "[12] (@handle) text". \
+Cluster them into the distinct market/macro NARRATIVES being discussed today \
+(e.g. "AI infrastructure / memory pricing", "Fed & rates", "China tech").
 
 Return ONLY a JSON object (no markdown, no code fences) with this exact shape:
 {{
   "top_3": [
-    {{"topic": "Brief Theme Name", "mentions": ["@Handle1", "@Handle2"], "summary": "1-2 sentence explanation of the narrative."}}
+    {{"topic": "Brief Theme Name", "mentions": [{{"handle": "@Handle1", "tweet_id": 12}}, {{"handle": "@Handle2", "tweet_id": 7}}], "summary": "1-2 sentence explanation of the narrative."}}
   ],
   "others": [
-    {{"topic": "Brief Theme Name", "mentions": ["@Handle3"], "summary": "1-2 sentence explanation."}}
+    {{"topic": "Brief Theme Name", "mentions": [{{"handle": "@Handle3", "tweet_id": 31}}], "summary": "1-2 sentence explanation."}}
   ]
 }}
 
 Rules:
 - "top_3": the THREE most significant / most-discussed market themes. Exactly 3 if possible.
 - "others": the remaining noteworthy themes (up to ~7). Omit pure noise/spam/non-finance chatter.
-- "mentions": the @handles (with the @) that discussed that theme. Keep it to the relevant ones.
+- "mentions": the accounts that discussed that theme. For EACH, give "handle" (with @)
+  and "tweet_id" = the [index] of THAT account's single most relevant tweet for this theme.
+- Every tweet_id MUST be one of the indices shown in the data. Never invent an index.
 - "summary": 1-2 tight sentences, preserve key tickers/numbers/jargon, no filler.
-- Every handle in "mentions" must start with "@".
 
 Raw tweets:
 {data}
@@ -151,12 +173,22 @@ def fetch_tweets() -> list[dict]:
                   or item.get("handle") or "").lstrip("@").strip()
         if not text or not author:
             continue
+        # Direct-post URL: use the dataset's url, else build one from the tweet id.
+        url = (item.get("url") or item.get("twitterUrl") or item.get("tweetUrl")
+               or item.get("statusUrl") or "").strip()
+        if not url:
+            tid = (item.get("id") or item.get("id_str") or item.get("tweetId")
+                   or item.get("conversationId") or "")
+            if tid:
+                url = f"https://x.com/{author}/status/{tid}"
         tweets.append({
             "text": text,
             "author": author,
             "created_at": item.get("createdAt") or item.get("created_at") or "",
+            "url": url,
         })
-    log(f"Fetched {len(tweets)} tweets.")
+    with_url = sum(1 for t in tweets if t["url"])
+    log(f"Fetched {len(tweets)} tweets ({with_url} with a direct URL).")
     return tweets
 
 
@@ -253,7 +285,9 @@ def summarize_groq(prompt: str) -> dict:
 
 
 def summarize(tweets: list[dict]) -> dict:
-    data_block = "\n".join(f"- {t['text']} (@{t['author']})" for t in tweets)
+    data_block = "\n".join(
+        f"[{i}] (@{t['author']}) {t['text']}" for i, t in enumerate(tweets)
+    )
     prompt = PROMPT_TEMPLATE.format(data=data_block)
 
     try:
@@ -266,8 +300,37 @@ def summarize(tweets: list[dict]) -> dict:
         raise
 
 
-def normalize(result: dict) -> dict:
-    """Defensive: ensure the two arrays exist and items have the right keys."""
+def _build_mentions(raw_mentions, tweets: list[dict]) -> list[dict]:
+    """Turn the model's mentions into [{handle, url}], resolving tweet_id -> the
+    real post URL. Falls back to the account's profile if no URL is available."""
+    out, seen = [], set()
+    for m in raw_mentions or []:
+        handle, tid = "", None
+        if isinstance(m, dict):
+            handle = str(m.get("handle", "")).lstrip("@").strip()
+            tid = m.get("tweet_id")
+        elif isinstance(m, str):  # tolerate the old handle-only format
+            handle = m.lstrip("@").strip()
+
+        url = ""
+        if isinstance(tid, int) and 0 <= tid < len(tweets):
+            tw = tweets[tid]
+            handle = handle or tw["author"]
+            url = tw.get("url") or ""
+        if not handle:
+            continue
+        if not url:
+            url = f"https://x.com/{handle}"
+        key = handle.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append({"handle": "@" + handle, "url": url})
+    return out
+
+
+def finalize(result: dict, tweets: list[dict]) -> dict:
+    """Validate items and resolve each mention to a direct-post link."""
     def clean(items):
         out = []
         for it in (items or []):
@@ -275,13 +338,12 @@ def normalize(result: dict) -> dict:
                 continue
             topic = str(it.get("topic", "")).strip()
             summary = str(it.get("summary", "")).strip()
-            mentions = it.get("mentions") or []
-            mentions = [
-                ("@" + m.lstrip("@")).strip()
-                for m in mentions if isinstance(m, str) and m.strip()
-            ]
             if topic and summary:
-                out.append({"topic": topic, "mentions": mentions, "summary": summary})
+                out.append({
+                    "topic": topic,
+                    "mentions": _build_mentions(it.get("mentions"), tweets),
+                    "summary": summary,
+                })
         return out
 
     return {"top_3": clean(result.get("top_3"))[:3], "others": clean(result.get("others"))}
@@ -313,7 +375,7 @@ def main() -> int:
     accounts = len({t["author"] for t in selected})
     log(f"Summarizing {len(selected)} tweets from {accounts} accounts ...")
 
-    result = normalize(summarize(selected))
+    result = finalize(summarize(selected), selected)
     if not result["top_3"]:
         raise SystemExit("Model returned no themes — leaving existing summary untouched.")
 

@@ -118,6 +118,33 @@
       "name": "Bloomberg (via Google News)",
       "domain": "bloomberg.com",
       "feeds": ["https://news.google.com/rss/search?q=when:1d+site:bloomberg.com+markets&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "name": "Axios",
+      "domain": "axios.com",
+      "feeds": ["https://api.axios.com/feed/"]
+    },
+    {
+      "name": "DigiTimes",
+      "domain": "digitimes.com",
+      "_note": "Taiwan semiconductor/tech trade press. filter:false — focused industry source, partly Chinese.",
+      "filter": false,
+      "feeds": ["https://news.google.com/rss/search?q=when:3d+site:digitimes.com&hl=en-US&gl=US&ceid=US:en"]
+    },
+    {
+      "name": "Commercial Times 工商時報",
+      "domain": "ctee.com.tw",
+      "_note": "Taiwanese financial daily — Chinese language. filter:false (the English finance filter would drop all of it).",
+      "filter": false,
+      "feeds": ["https://news.google.com/rss/search?q=when:3d+site:ctee.com.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"]
+    },
+    {
+      "name": "Naver 뉴스 · 반도체",
+      "domain": "naver.com",
+      "type": "naver",
+      "_note": "Korean news via the Naver Search API. Needs NAVER_CLIENT_ID / NAVER_CLIENT_SECRET env vars. filter:false (Korean text). Change `query` to retarget.",
+      "filter": false,
+      "query": "반도체"
     }
   ]
 }

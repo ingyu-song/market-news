@@ -100,10 +100,15 @@ function renderXTheme(theme, primary) {
   if (theme.summary) card.appendChild(el("p", "xsum-text", theme.summary));
   if (theme.mentions && theme.mentions.length) {
     const mentions = el("div", "xsum-mentions");
-    theme.mentions.slice(0, 8).forEach((h) => {
-      const handle = h.startsWith("@") ? h : "@" + h;
+    theme.mentions.slice(0, 8).forEach((m) => {
+      // m is {handle, url}; tolerate the old plain-string format too.
+      const raw = typeof m === "string" ? m : m.handle || "";
+      const handle = raw.startsWith("@") ? raw : "@" + raw;
+      const url = (typeof m === "object" && m.url)
+        ? m.url
+        : "https://x.com/" + handle.replace(/^@/, "");
       const a = el("a", "xsum-handle", handle);
-      a.href = "https://x.com/" + handle.replace(/^@/, "");
+      a.href = url;
       a.target = "_blank";
       a.rel = "noopener";
       mentions.appendChild(a);

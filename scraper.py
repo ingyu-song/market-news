@@ -8,12 +8,15 @@ GitHub Action run it on a schedule.
 
 import html
 import json
+import os
 import re
 import sys
 import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
 
 import feedparser
 
@@ -199,6 +202,66 @@ def fetch_source(source: dict, max_items: int,
     }
 
 
+def fetch_naver(source: dict, max_items: int) -> dict | None:
+    """Fetch a Korean-news source via the Naver News Search API.
+
+    Needs NAVER_CLIENT_ID / NAVER_CLIENT_SECRET in the environment; without them
+    the source is skipped (returns None) so the rest of the run is unaffected.
+    """
+    name = source["name"]
+    domain = source.get("domain", "naver.com")
+    query = source.get("query", "").strip()
+    cid = os.environ.get("NAVER_CLIENT_ID")
+    secret = os.environ.get("NAVER_CLIENT_SECRET")
+    if not (cid and secret):
+        print(f"  ! {name}: NAVER_CLIENT_ID/SECRET not set — skipping", file=sys.stderr)
+        return None
+    if not query:
+        print(f"  ! {name}: no query configured — skipping", file=sys.stderr)
+        return None
+
+    url = "https://openapi.naver.com/v1/search/news.json?" + urlencode(
+        {"query": query, "display": min(max(max_items * 2, 10), 100), "sort": "date"}
+    )
+    req = Request(url, headers={
+        "X-Naver-Client-Id": cid,
+        "X-Naver-Client-Secret": secret,
+    })
+    try:
+        with urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+    except Exception as exc:  # noqa: BLE001
+        print(f"  ! {name}: Naver API error: {exc}", file=sys.stderr)
+        return None
+
+    items: list[dict] = []
+    seen: set[str] = set()
+    for entry in data.get("items", []):
+        title = clean_title(html.unescape(entry.get("title", "")))
+        link = (entry.get("link") or entry.get("originallink") or "").strip()
+        if not title or not link or link in seen:
+            continue
+        seen.add(link)
+        ts = 0.0
+        try:
+            ts = parsedate_to_datetime(entry.get("pubDate", "")).timestamp()
+        except (TypeError, ValueError):
+            pass
+        items.append({"title": title, "link": link, "ts": ts})
+
+    if not items:
+        return None
+    items.sort(key=lambda i: i["ts"], reverse=True)
+    items = items[:max_items]
+    return {
+        "name": name,
+        "domain": domain,
+        "favicon": f"https://www.google.com/s2/favicons?domain={domain}&sz=64",
+        "latest_ts": max((i["ts"] for i in items), default=0.0),
+        "items": items,
+    }
+
+
 def load_watchlist() -> tuple[dict, int, int]:
     """Compile the company watchlist into {display_name: regex}."""
     if not COMPANIES_FILE.exists():
@@ -284,7 +347,10 @@ def main() -> int:
     rendered: list[dict] = []
     for source in config.get("sources", []):
         print(f"Fetching {source['name']} ...")
-        result = fetch_source(source, max_items, finance_re, exclude_re)
+        if source.get("type") == "naver":
+            result = fetch_naver(source, max_items)
+        else:
+            result = fetch_source(source, max_items, finance_re, exclude_re)
         if result:
             print(f"  -> {len(result['items'])} items")
             rendered.append(result)

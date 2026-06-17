@@ -12,3 +12,6 @@ Thumbs.db
 
 # Claude Code preview config
 .claude/
+
+# Reference docs (not part of the site)
+*.pdf
