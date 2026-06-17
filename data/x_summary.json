@@ -1,92 +1,189 @@
 {
-  "generated_at": "2026-06-17T00:24:54+00:00",
-  "tweet_count": 93,
-  "account_count": 27,
+  "generated_at": "2026-06-17T06:58:54+00:00",
+  "tweet_count": 88,
+  "account_count": 25,
   "top_3": [
     {
-      "topic": "AI Compute Infrastructure & Optical Networking",
+      "topic": "AI Infrastructure & Optical Networking",
       "mentions": [
-        "@aleabitoreddit",
-        "@dnystedt",
-        "@jukan05",
-        "@KawzInvests",
-        "@negligible_cap",
-        "@wallstengine",
-        "@TheValueist",
-        "@ParadisLabs",
-        "@PhotonCap",
-        "@vlmkapital",
-        "@crux_capital_",
-        "@damnang2",
-        "@pcbanalysis"
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2066672855983554676"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2067094790492364905"
+        },
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/KawzInvests/status/2066956573377798564"
+        },
+        {
+          "handle": "@MRVL",
+          "url": "https://x.com/KawzInvests/status/2066612577103118686"
+        },
+        {
+          "handle": "@CIEN",
+          "url": "https://x.com/KawzInvests/status/2066898048299470925"
+        },
+        {
+          "handle": "@AAOI",
+          "url": "https://x.com/aleabitoreddit/status/2067071462360666165"
+        },
+        {
+          "handle": "@SIVE",
+          "url": "https://x.com/ParadisLabs/status/2066855950527479949"
+        },
+        {
+          "handle": "@LITE",
+          "url": "https://x.com/ParadisLabs/status/2066950108584063220"
+        },
+        {
+          "handle": "@COHR",
+          "url": "https://x.com/crux_capital_/status/2067045715596247273"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2067033934194696469"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2066821880036958591"
+        }
       ],
-      "summary": "The AI infrastructure buildout is accelerating, with discussions on CPO, 800VDC, advanced packaging (TSMC/Amkor, K&S), liquid cooling (Google Brazos), and optical networking (Nokia, CIEN, Marvell, LITE, COHR, AAOI). Neoclouds are seeing better pricing, and there's a focus on critical components like InP lasers and TGV/CoPoS technologies across networking layers."
+      "summary": "The AI infrastructure buildout is driving massive demand for optical networking components and systems across scale-up, scale-out, and scale-across layers, including advanced transceivers (800G/1.6T), CPO, LPO, NPO, and Data Center Interconnect (DCI). Companies like Nokia, Ciena, Marvell, and AAOI are expanding capacity and innovating to meet this demand, with a focus on US supply chain resilience."
     },
     {
-      "topic": "Memory Market Dynamics & Pricing",
+      "topic": "Advanced Semiconductor Manufacturing & Memory",
       "mentions": [
-        "@jukan05",
-        "@dnystedt",
-        "@rwang07",
-        "@aleabitoreddit",
-        "@PhotonCap",
-        "@AlmaCap114204",
-        "@citrini"
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2067092746364748272"
+        },
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2067026684130603201"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2067135306260959302"
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2066929978940498319"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2066821880036958591"
+        }
       ],
-      "summary": "NOR Flash and SLC NAND contract prices are surging 100-150% in H1 2026, with further rises expected due to suppliers prioritizing high-value HBM. SK Hynix realized significant gains from Kioxia, while Micron's stock reacted to LPDDR5X capacity cuts for NVIDIA Rubin, attributed to supply/power/heat constraints rather than demand destruction."
+      "summary": "Surging AI demand is straining advanced chipmaking capacity, leading to increased inquiries for Samsung's foundry services from major players like BYD, Google, and AMD, and a push for dual-sourcing strategies. The memory market is seeing significant price increases for NOR Flash and SLC NAND due to suppliers prioritizing high-value HBM production, while companies like Ajinomoto are expanding capacity for critical packaging materials."
     },
     {
-      "topic": "SpaceX Dominance & Space Sector Volatility",
+      "topic": "SpaceX IPO & Space Sector Dynamics",
       "mentions": [
-        "@Yeah_Dave",
-        "@AlmaCap114204",
-        "@ParadisLabs",
-        "@negligible_cap",
-        "@PhotonCap",
-        "@citrini"
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2067133659921166741"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2066885645994213764"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2066952697648124228"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2066561965267226813"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2066884846937403728"
+        },
+        {
+          "handle": "@investingluc",
+          "url": "https://x.com/investingluc/status/2066860012308156684"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2066821319862390859"
+        }
       ],
-      "summary": "SpaceX ($SPCX) has seen an astronomical rise, surpassing major tech giants in market cap and acquiring Cursor for $60B, leading to discussions about its valuation and potential bubble. This dominance is impacting other space stocks like $ASTS and $RKLB, with investors rotating liquidity and creating volatility ahead of key launches."
+      "summary": "The recent SpaceX IPO has created significant market buzz, with its valuation rapidly climbing to become one of the largest companies globally, attracting substantial trading volume and leveraged ETFs. This event is influencing the broader space sector, with investors potentially rotating liquidity and other players like AST SpaceMobile facing critical launch milestones and market re-evaluation."
     }
   ],
   "others": [
     {
-      "topic": "US-China Tech & Trade Policy",
+      "topic": "Financial Services & AI Financing",
       "mentions": [
-        "@jukan05",
-        "@aleabitoreddit",
-        "@wallstengine",
-        "@negligible_cap"
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2067094874826928205"
+        }
       ],
-      "summary": "US plans to designate over 100 companies (DeepSeek, CXMT) as national security risks were put on hold, while Han's Laser established a US subsidiary to navigate geopolitical constraints. Microsoft's consideration of DeepSeek for Copilot highlights the complex interplay of US policy and enterprise AI adoption."
+      "summary": "US financial services, particularly large alternative-asset managers and investment banks, are positioned to benefit significantly from the generative AI infrastructure buildout through direct ownership of digital infrastructure, private credit origination, advisory, and capital markets activities."
     },
     {
-      "topic": "Macroeconomic & Geopolitical Catalysts",
+      "topic": "Macro Outlook & Fed Policy",
       "mentions": [
-        "@ParadisLabs",
-        "@GavinSBaker",
-        "@wallstengine"
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2066950108584063220"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2067118898403737721"
+        },
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2066911759659565364"
+        }
       ],
-      "summary": "Markets are focused on upcoming FOMC decisions, with expectations for a hold but potential for hawkish surprises impacting long-duration AI-semis. A US-Iran peace deal, including a $300B private investment fund, is driving risk-on sentiment due to potential Strait of Hormuz reopening, easing inflation concerns."
+      "summary": "The market is focused on upcoming FOMC decisions, including potential rate hikes and inflation commentary, and key economic data like retail sales. Geopolitical developments, such as a potential US/Iran peace deal and the reopening of the Strait of Hormuz, are seen as risk-on catalysts that could alleviate inflation pressures and influence Fed policy."
     },
     {
-      "topic": "AI Software & Monetization Models",
+      "topic": "AI Software & Frontier Model Economics",
       "mentions": [
-        "@ParadisLabs",
-        "@AlmaCap114204",
-        "@wallstengine",
-        "@negligible_cap",
-        "@FundaAI"
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2066922385169600823"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2066964943153312227"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2067093666792136855"
+        }
       ],
-      "summary": "Frontier AI models face challenges with rapid depreciation, lack of lock-in, and non-existent switching costs. Microsoft is shifting Copilot Cowork to usage-based pricing and exploring cheaper models like DeepSeek, while independent estimates track Anthropic's rapidly growing ARR as a key signal for the AI infrastructure trade."
+      "summary": "Discussions around AI software focus on pricing models, with Microsoft reportedly moving CoPilot to usage-based pricing and considering cheaper model options. There's also skepticism about the long-term lock-in and sustainability of frontier models due to rapid depreciation, low switching costs, and potential government intervention."
     },
     {
-      "topic": "Neoclouds & AI Compute Provider Economics",
+      "topic": "Cloud Infrastructure & Enterprise IT Security",
       "mentions": [
-        "@jukan05",
-        "@ParadisLabs",
-        "@aleabitoreddit"
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2067138278722314691"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2066972956375318719"
+        }
       ],
-      "summary": "Neocloud providers are reportedly achieving better rental pricing for AI compute, leading to the formation of an equal-weight ETF ($GLXY, $WULF, $CIFR, $APLD) based on counterparty quality and balance sheet. Concerns exist regarding potential bubbles from debt-reliant models and circular valuations in the neocloud sector."
+      "summary": "Microsoft reportedly withdrew from a significant cloud leasing deal with Oracle due to security and compliance issues, specifically Oracle's lack of FedRAMP certification required for U.S. government data, highlighting the importance of specialized security frameworks in enterprise cloud adoption."
+    },
+    {
+      "topic": "AI Server Manufacturing & US Expansion",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2067026581051310184"
+        }
+      ],
+      "summary": "AI server manufacturer Quanta Computer plans to raise $2.2 billion via GDRs to fund factory building and component purchases, with intentions to establish three new plants in the US by end-2026, signaling a trend towards expanding US-based AI hardware production capacity."
     }
   ]
 }
