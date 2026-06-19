@@ -14,12 +14,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OUT_FILE = ROOT / "data" / "indices.json"
 
-# name shown in the UI, Yahoo Finance symbol
+# name shown in the UI, Yahoo Finance symbol, row group
 INDICES = [
-    ("S&P 500", "^GSPC"),
-    ("Nasdaq", "^IXIC"),
-    ("Dow Jones", "^DJI"),
-    ("Russell 2000", "^RUT"),
+    ("S&P 500", "^GSPC", "US"),
+    ("Nasdaq", "^IXIC", "US"),
+    ("Dow Jones", "^DJI", "US"),
+    ("Russell 2000", "^RUT", "US"),
+    ("Nikkei 225", "^N225", "Asia"),
+    ("Hang Seng", "^HSI", "Asia"),
+    ("KOSPI", "^KS11", "Asia"),
+    ("TAIEX", "^TWII", "Asia"),
 ]
 
 
@@ -58,7 +62,7 @@ def main() -> int:
     import yfinance as yf
 
     out = []
-    for name, symbol in INDICES:
+    for name, symbol, group in INDICES:
         print(f"Fetching {name} ({symbol}) ...", file=sys.stderr)
         try:
             data = fetch_one(yf.Ticker(symbol))
@@ -66,7 +70,7 @@ def main() -> int:
             print(f"  ! {name}: {exc}", file=sys.stderr)
             data = None
         if data:
-            out.append({"name": name, "symbol": symbol, **data})
+            out.append({"name": name, "symbol": symbol, "group": group, **data})
             print(f"  -> {data['price']} ({data['change_pct']:+.2f}%)", file=sys.stderr)
         else:
             print(f"  ! {name}: no data", file=sys.stderr)

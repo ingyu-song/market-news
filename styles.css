@@ -112,13 +112,18 @@ a { color: inherit; text-decoration: none; }
   margin: 0 auto;
   padding: 13px 1.5rem;
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 8px 30px;
+  flex-direction: column;
+  gap: 9px;
   border-bottom: 0.5px solid var(--border);
   font-family: var(--font-mono);
 }
 .ticker:empty { display: none; }
+.ticker-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 30px;
+}
 .ticker-item { display: flex; align-items: baseline; gap: 8px; }
 .ticker-name {
   font-size: 11px;

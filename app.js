@@ -95,25 +95,38 @@ function renderSource(source, query) {
   return group;
 }
 
+function tickerItem(ix) {
+  const up = (ix.change ?? 0) >= 0;
+  const sign = up ? "+" : "";
+  const item = el("div", "ticker-item");
+  item.appendChild(el("span", "ticker-name", ix.name));
+  item.appendChild(
+    el("span", "ticker-val",
+      Number(ix.price).toLocaleString(undefined, {
+        minimumFractionDigits: 2, maximumFractionDigits: 2,
+      }))
+  );
+  item.appendChild(
+    el("span", "ticker-chg " + (up ? "up" : "down"),
+      `${sign}${Number(ix.change).toFixed(2)} (${sign}${Number(ix.change_pct).toFixed(2)}%)`)
+  );
+  return item;
+}
+
 function renderIndices(data) {
   indicesEl.innerHTML = "";
   if (!data || !Array.isArray(data.indices) || !data.indices.length) return;
+  // Group into rows by `group` (e.g. US, Asia), preserving first-seen order.
+  const rows = new Map();
   for (const ix of data.indices) {
-    const up = (ix.change ?? 0) >= 0;
-    const sign = up ? "+" : "";
-    const item = el("div", "ticker-item");
-    item.appendChild(el("span", "ticker-name", ix.name));
-    item.appendChild(
-      el("span", "ticker-val",
-        Number(ix.price).toLocaleString(undefined, {
-          minimumFractionDigits: 2, maximumFractionDigits: 2,
-        }))
-    );
-    item.appendChild(
-      el("span", "ticker-chg " + (up ? "up" : "down"),
-        `${sign}${Number(ix.change).toFixed(2)} (${sign}${Number(ix.change_pct).toFixed(2)}%)`)
-    );
-    indicesEl.appendChild(item);
+    const g = ix.group || "";
+    if (!rows.has(g)) rows.set(g, []);
+    rows.get(g).push(ix);
+  }
+  for (const items of rows.values()) {
+    const row = el("div", "ticker-row");
+    items.forEach((ix) => row.appendChild(tickerItem(ix)));
+    indicesEl.appendChild(row);
   }
 }
 
