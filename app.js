@@ -1,6 +1,7 @@
 "use strict";
 
 const board = document.getElementById("board");
+const indicesEl = document.getElementById("indices");
 const xsumEl = document.getElementById("x-summary");
 const highlightsEl = document.getElementById("highlights");
 const statusEl = document.getElementById("status");
@@ -92,6 +93,28 @@ function renderSource(source, query) {
     group.appendChild(btn);
   }
   return group;
+}
+
+function renderIndices(data) {
+  indicesEl.innerHTML = "";
+  if (!data || !Array.isArray(data.indices) || !data.indices.length) return;
+  for (const ix of data.indices) {
+    const up = (ix.change ?? 0) >= 0;
+    const sign = up ? "+" : "";
+    const item = el("div", "ticker-item");
+    item.appendChild(el("span", "ticker-name", ix.name));
+    item.appendChild(
+      el("span", "ticker-val",
+        Number(ix.price).toLocaleString(undefined, {
+          minimumFractionDigits: 2, maximumFractionDigits: 2,
+        }))
+    );
+    item.appendChild(
+      el("span", "ticker-chg " + (up ? "up" : "down"),
+        `${sign}${Number(ix.change).toFixed(2)} (${sign}${Number(ix.change_pct).toFixed(2)}%)`)
+    );
+    indicesEl.appendChild(item);
+  }
 }
 
 function renderXTheme(theme, primary) {
@@ -337,6 +360,12 @@ function render() {
 filterEl.addEventListener("input", render);
 
 /* ---------- Load ---------- */
+// Indices ticker loads independently and silently fails.
+fetch("data/indices.json", { cache: "no-cache" })
+  .then((r) => (r.ok ? r.json() : null))
+  .then((data) => { if (data) renderIndices(data); })
+  .catch(() => {});
+
 // X summary loads independently — any failure must not affect the news feed.
 fetch("data/x_summary.json", { cache: "no-cache" })
   .then((r) => (r.ok ? r.json() : null))

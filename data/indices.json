@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-06-19T00:47:03+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7500.58,
+      "change": 80.48,
+      "change_pct": 1.08
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "price": 26517.93,
+      "change": 496.28,
+      "change_pct": 1.91
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "price": 51564.7,
+      "change": 72.15,
+      "change_pct": 0.14
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "price": 2979.77,
+      "change": 61.78,
+      "change_pct": 2.12
+    }
+  ]
+}

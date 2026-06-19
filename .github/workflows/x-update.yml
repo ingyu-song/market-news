@@ -61,6 +61,9 @@ jobs:
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python scraper.py
 
+      - name: Fetch indices
+        run: python indices.py
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
