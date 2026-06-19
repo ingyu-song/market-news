@@ -72,20 +72,25 @@ PROMPT_TEMPLATE = """You are a senior macro/markets analyst at a hedge fund. \
 Below is a batch of finance tweets from X. Each line starts with an index in \
 square brackets, then the author handle, then the text: "[12] (@handle) text".
 
-Cluster the tweets into distinct market NARRATIVES (themes), and CATEGORIZE each:
+Cluster the tweets into distinct market NARRATIVES (themes). Assign EVERY theme to
+exactly one category, strongly preferring "tech" or "macro". Use "other" only as a
+last resort, per the rules below.
 
-- category "tech": company/industry/technology themes. You MUST set "subcategory" to ONE of:
-    "infrastructure" — datacenters, networking, optics, power-for-AI, chips/foundry/semis capex
-    "cloud"          — hyperscaler capex, cloud platforms, AI inference cost
+- category "tech": any company / industry / technology theme. You MUST set "subcategory"
+  to the best-fitting ONE of:
+    "infrastructure" — datacenters, networking, optics, advanced packaging, power-for-AI, chips/foundry/semis capex
+    "cloud"          — hyperscaler capex, cloud platforms, AI inference cost/economics
     "memory"         — DRAM / HBM / NAND pricing and supply
-    "space"          — SpaceX / Starlink / launch / satellites
+    "space"          — SpaceX, Starlink, AST SpaceMobile, Rocket Lab, launch, satellites — ANY space company goes HERE
     "software"       — AI models & labs, apps, SaaS, internet platforms
-  If a tech theme fits none well, pick the closest.
-- category "macro": economy, rates, the Fed, inflation, FX, commodities, trade, policy.
-  Set "subcategory" to "".
-- category "other": a clearly distinct cluster that is NOT tech or macro (e.g. crypto,
-  energy/utilities, biotech, geopolitics). Set "subcategory" to a SHORT Title-Case label
-  naming that group, e.g. "Crypto" or "Energy".
+  Every tech theme MUST use one of these five; if none fits cleanly, pick the closest.
+- category "macro": economy, rates, the Fed, inflation, FX, commodities, trade/tariffs,
+  policy — AND broad market behavior such as positioning, retail activity / flows,
+  market breadth, risk-on/off, and volatility. Set "subcategory" to "".
+- category "other": ONLY a genuinely distinct SECTOR that is neither tech nor macro —
+  e.g. Crypto, Energy/Utilities, Biotech/Pharma, Defense, Geopolitics. Set "subcategory"
+  to a SHORT Title-Case sector label (e.g. "Crypto", "Energy"). Do NOT use "other" for
+  generic trading/"market dynamics" chatter (that is macro), and do NOT invent vague labels.
 
 Return ONLY a JSON object (no markdown, no code fences) with this exact shape:
 {{
