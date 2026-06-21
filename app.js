@@ -474,9 +474,12 @@ function watchMatchesQuery(w, q) {
 
 function themeMatchesQuery(t, q) {
   if (!q) return true;
+  const sources = Array.isArray(t.sources)
+    ? t.sources.map((s) => s.source || "").join(" ")
+    : "";
   return (
     (t.label || "") + " " + (t.narrative || "") + " " +
-    (Array.isArray(t.movers) ? t.movers.join(" ") : "")
+    (Array.isArray(t.movers) ? t.movers.join(" ") : "") + " " + sources
   ).toLowerCase().includes(q);
 }
 
@@ -615,10 +618,16 @@ function renderRecapWeekly(data) {
     const h = el("div", "recap-section-head");
     h.appendChild(el("span", "recap-section-label", t.label || ""));
     block.appendChild(h);
-    if (t.narrative) {
+    if (t.narrative || (Array.isArray(t.sources) && t.sources.length)) {
       const wrap = el("ul", "recap-bullets");
       const li = el("li", "recap-bullet");
-      li.appendChild(el("p", "recap-bullet-text", t.narrative));
+      // Same shape as daily bullets: text first, every source chip inline at
+      // the end with no +N collapse. Reuse renderRecapBulletText so styling
+      // and dedup behavior stay in sync.
+      li.appendChild(renderRecapBulletText({
+        text: t.narrative || "",
+        sources: Array.isArray(t.sources) ? t.sources : [],
+      }));
       wrap.appendChild(li);
       block.appendChild(wrap);
     }

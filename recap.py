@@ -514,6 +514,61 @@ def source_chip_label(name: str) -> str:
     return s.strip()
 
 
+def attach_weekly_sources(themes: list[dict], history: list[dict],
+                          max_per_theme: int = 8) -> list[dict]:
+    """For each weekly theme, gather a deduped sources list collected from
+    daily-recap bullets whose section label matches the theme. The weekly
+    LLM doesn't see the underlying article links — those live on the daily
+    snapshots — so we attach them here rather than asking the model to."""
+    by_label: dict[str, list[dict]] = {}
+    for day in history:
+        for sec in day.get("sections", []) or []:
+            label = (sec.get("label") or "").strip()
+            if not label:
+                continue
+            collected = []
+            for b in sec.get("bullets", []) or []:
+                for s in b.get("sources", []) or []:
+                    collected.append(s)
+            if collected:
+                by_label.setdefault(label, []).extend(collected)
+
+    for theme in themes:
+        label = (theme.get("label") or "").strip()
+        ll = label.lower()
+        candidates = list(by_label.get(label, []))
+        if not candidates and ll:
+            # Fuzzy: if exact label doesn't match (e.g. weekly model rephrased
+            # the section), pull from labels that share a substring.
+            for k, v in by_label.items():
+                kl = k.lower()
+                if ll in kl or kl in ll:
+                    candidates.extend(v)
+
+        deduped, seen_labels, seen_links = [], set(), set()
+        for s in candidates:
+            cl = source_chip_label(s.get("source", ""))
+            lk = s.get("link", "")
+            if cl and cl in seen_labels:
+                continue
+            if lk and lk in seen_links:
+                continue
+            if cl:
+                seen_labels.add(cl)
+            if lk:
+                seen_links.add(lk)
+            deduped.append({
+                "title": s.get("title", ""),
+                "link": s.get("link", ""),
+                "source": s.get("source", ""),
+                "favicon": s.get("favicon", ""),
+            })
+            if len(deduped) >= max_per_theme:
+                break
+        theme["sources"] = deduped
+    return themes
+
+
 def hydrate_story_refs(recap: dict, id_lookup: list[dict]) -> dict:
     """Replace story_ids -> embedded story objects so the frontend doesn't
     need to know about the index. Within each bullet we dedupe by display
@@ -677,6 +732,9 @@ def build_weekly(profile: dict) -> dict:
     else:
         log(f"Calling LLM for weekly recap on {len(history)} day(s) ...")
         recap = call_llm(prompt, WEEKLY_SCHEMA)
+
+    # Source chips: post-collected from the underlying daily bullets, by label.
+    attach_weekly_sources(recap.get("themes") or [], history)
 
     today = datetime.now(timezone.utc)
     week_end = today.strftime("%Y-%m-%d")
