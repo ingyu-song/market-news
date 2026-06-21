@@ -1,91 +1,87 @@
 {
-  "generated_at": "2026-06-21T14:57:59+00:00",
+  "generated_at": "2026-06-21T15:12:26+00:00",
   "mode": "weekly",
   "for_week_start": "2026-06-15",
   "for_week_ending": "2026-06-21",
   "days_covered": 1,
-  "headline": "Fed hawkish; Geopolitical shifts on Iran, AI; SpaceX IPO; AI chip supply/demand in focus.",
-  "summary": "Global markets experienced a mixed week, with early gains driven by easing Middle East tensions and a strong tech rebound, tempered by a hawkish shift from the Fed. Kevin Warsh's debut as Fed Chair signaled a focus on inflation, hinting at potential policy adjustments. Geopolitics remained central, with a US-Iran peace agreement initially boosting sentiment before facing scrutiny, alongside new US export controls on advanced AI models. The AI chip sector saw significant developments, including Google exploring Samsung for next-gen TPU production amid TSMC capacity constraints. SpaceX's historic IPO dominated market attention, drawing massive investor interest.",
+  "headline": "AI Chip Demand Surges, Fed Signals Hawkish Shift, Geopolitical Tensions Drive Volatility",
+  "summary": "The week saw robust demand in the AI chip sector, with Taiwan memory designers projecting significant revenue growth. However, market sentiment was tempered by a new Fed Chair signaling a potentially hawkish stance on monetary policy. Geopolitical developments, particularly conflicting reports on the US-Iran deal, introduced volatility into oil markets. Meanwhile, major AI players like OpenAI and Anthropic faced both strategic shifts and export controls, highlighting the evolving landscape of advanced technology.",
   "themes": [
     {
-      "label": "Fed / Rates / Macro",
-      "narrative": "Kevin Warsh's debut as Fed Chair introduced a hawkish tone, emphasizing Trimmed Mean PCE as a key inflation metric and hinting at potential policy shifts. Despite some market relief from falling oil prices, the prospect of rate hikes remains a concern, especially with the BOJ also hiking rates to 1.0%.",
+      "label": "US Semis / AI Chips",
+      "narrative": "Demand for AI chips remained robust, with Taiwan memory designers projecting significant revenue growth. Google is reportedly considering Samsung for its next-gen TPU 'Icefish' due to TSMC capacity constraints, while Qualcomm is in talks to acquire Tenstorrent to expand its AI chip capabilities. China's efforts for AI infrastructure self-reliance face bottlenecks in domestic chip production and HBM supply.",
       "movers": [
-        "Kevin Warsh",
-        "BOJ",
-        "WTI Oil",
-        "Nvidia",
-        "US Treasury Yields"
+        "TSMC",
+        "Samsung",
+        "Qualcomm",
+        "Tenstorrent",
+        "Google"
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "narrative": "The new Fed Chair, Kevin Warsh, signaled a potentially hawkish stance ahead of his first FOMC, with focus on Trimmed Mean PCE. Despite some data suggesting stable inflation ex-oil, the impact of oil prices makes rate cuts challenging. The Bank of Japan is expected to hike rates to 1.0%, while Nvidia issued $25 billion in corporate bonds to fund AI investments.",
+      "movers": [
+        "Federal Reserve",
+        "Bank of Japan",
+        "Nvidia"
       ]
     },
     {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical developments were highly dynamic. An initial US-Iran peace agreement eased Middle East tensions and lowered oil prices, though scrutiny intensified later in the week. Concurrently, the US imposed export controls on Anthropic's advanced AI models, signaling a strategic asset classification, while China pushed for NEV heavy truck adoption and AI chip self-reliance amidst supply bottlenecks.",
+      "narrative": "Conflicting reports on the US-Iran deal introduced volatility, though earlier expectations of a peace agreement had eased oil prices. The US government imposed export controls on Anthropic's advanced AI models (Mythos 5, Fable 5) for national security reasons, marking a significant intervention. China also outlined aggressive plans to boost NEV heavy truck adoption to 40% by 2030.",
       "movers": [
-        "Iran",
         "Anthropic",
-        "US Commerce Department",
+        "SpaceX",
+        "Iran",
         "China",
-        "Lockheed Martin"
-      ]
-    },
-    {
-      "label": "US Semis / AI Chips",
-      "narrative": "The AI chip supply chain faced re-evaluation as TSMC's capacity constraints led Google to consider Samsung for its next-gen TPU production. This highlights the strategic importance of diversified foundry capabilities. China's ambitious AI infrastructure plans, however, face challenges from domestic AI chip and HBM supply shortages, limiting its self-reliance goals.",
-      "movers": [
-        "Google",
-        "Samsung",
-        "TSMC",
-        "Qualcomm",
         "SMIC"
       ]
     },
     {
+      "label": "Trump 2.0 / US Policy",
+      "narrative": "President Trump indicated an Iran deal was in final stages, potentially leading to a signing in Europe, though reports remained conflicting. The US Strategic Petroleum Reserve is near a 43-year low, suggesting future replenishment demand. Lockheed Martin's PAC-3 missile production increase faces uncertainty for allied supply due to US government allocation priorities.",
+      "movers": [
+        "Trump Administration",
+        "Iran",
+        "Lockheed Martin"
+      ]
+    },
+    {
       "label": "Earnings / Guidance",
-      "narrative": "SpaceX's historic IPO was a major market event, attracting significant investor capital and setting a high valuation, though its unique lock-up schedule poses future liquidity considerations. Oracle's strong earnings were overshadowed by plans for substantial additional funding for AI infrastructure, while OpenAI and Anthropic prepared for a potential AI model price war, impacting profitability outlooks.",
+      "narrative": "SpaceX successfully debuted on the market, quickly becoming a top-tier company by market cap, with strong investor interest and unique, shorter lock-up periods. Oracle announced plans to raise $40 billion for AI infrastructure investments, while OpenAI is reportedly considering significant token price cuts to compete with Anthropic and is preparing for a \"superapp\" transformation ahead of a potential IPO next year.",
       "movers": [
         "SpaceX",
         "Oracle",
         "OpenAI",
-        "Anthropic",
-        "Broadcom"
-      ]
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "narrative": "Trump's administration actively shaped policy, from brokering an initial peace agreement with Iran to considering rapid arms production demands from defense contractors. The US strategic petroleum reserve hit a 43-year low, indicating future refilling demand, while the administration's stance on AI export controls underscored a national security focus.",
-      "movers": [
-        "Donald Trump",
-        "Iran",
-        "Lockheed Martin",
-        "US Strategic Petroleum Reserve"
+        "Anthropic"
       ]
     }
   ],
   "watchlist": [
     {
       "name": "SpaceX",
-      "note": "Monitor post-IPO price action, ETF inclusions, and upcoming lock-up expirations."
+      "note": "Monitor post-IPO price action, especially with unique lock-up schedule and ETF inclusions."
     },
     {
       "name": "Anthropic",
-      "note": "Watch for further developments on US export controls and competitive pricing strategies with OpenAI."
+      "note": "Watch for impact of US export controls and competitive pricing strategies against OpenAI."
     },
     {
-      "name": "Samsung Electronics",
-      "note": "Observe progress on Google's next-gen TPU contract and its broader AI foundry ambitions."
+      "name": "Samsung",
+      "note": "Track progress on Google's next-gen TPU 'Icefish' production and overall AI chip foundry expansion."
     },
     {
-      "name": "Oracle",
-      "note": "Track the impact of its $40B funding plan on stock performance and AI infrastructure buildout."
+      "name": "Nvidia",
+      "note": "Observe deployment of $25B bond proceeds and continued AI investment strategy."
     },
     {
-      "name": "WTI Crude Oil",
-      "note": "Monitor for continued volatility given the evolving US-Iran situation and SPR levels."
+      "name": "Federal Reserve",
+      "note": "Anticipate new Fed Chair Kevin Warsh's communication and stance on inflation at upcoming FOMC."
     },
     {
-      "name": "Qualcomm",
-      "note": "Follow acquisition talks with Tenstorrent and its strategy to expand AI chip capabilities."
+      "name": "Oil Futures",
+      "note": "Monitor volatility driven by US-Iran deal developments and strategic reserve replenishment."
     }
   ]
 }

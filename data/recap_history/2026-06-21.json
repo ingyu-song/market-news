@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-06-21T14:57:33+00:00",
+  "generated_at": "2026-06-21T15:12:09+00:00",
   "mode": "daily",
   "for_date": "2026-06-21",
-  "headline": "Warsh Fed Signals Hawkish Shift; China EUV Alarm; Iran Deal Scrutiny Intensifies",
-  "summary": "Kevin Warsh's initial Fed meeting indicates a hawkish shift, with markets anticipating policy changes. Geopolitical tensions rise as the US flags concerns over EUV tech in China and scrutinizes Trump's Iran deal. Taiwan memory chip designers project a 245% revenue surge on AI storage demand.",
+  "headline": "AI Chip Demand Surges, Fed Signals Hawkish Shift, Iran Deal Creates Oil Volatility",
+  "summary": "AI chip sector sees robust demand, with Taiwan memory designers projecting 245% revenue growth. The new Fed Chair signals a potentially hawkish stance, while conflicting reports on the US-Iran deal create oil market volatility.",
   "sections": [
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "US raises alarm over EUV machine in China.",
-          "body": "Concerns are mounting in the US regarding the potential presence of EUV machines in China, putting ASML on the defensive regarding export controls. This highlights ongoing geopolitical tensions in the semiconductor supply chain.",
+          "lead": "ARM stock sees significant price target increases.",
+          "body": "Bernstein raised its price target on ARM stock by nearly 70%, reflecting strong market confidence in the semiconductor design firm.",
+          "sources": [
+            {
+              "title": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
+              "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-just-raised-price-134501918.html",
+              "source": "Yahoo Finance",
+              "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+            }
+          ]
+        },
+        {
+          "lead": "US raises alarm over EUV technology in China.",
+          "body": "Concerns are mounting in the US regarding the potential presence of EUV machines in China, putting ASML on the defensive amidst efforts to control advanced chip technology exports.",
           "sources": [
             {
               "title": "US raises alarm over possible EUV machine in China, putting ASML on the defensive",
@@ -21,8 +33,119 @@
           ]
         },
         {
-          "lead": "Trump's Iran deal faces scrutiny.",
-          "body": "The recently brokered Iran deal is being evaluated for its economic impact and geopolitical implications, with some analysts suggesting Iran outmaneuvered the US. The deal's long-term shadow over the global economy and oil markets remains a concern.",
+          "lead": "FPGA firm Efinix expands edge AI business.",
+          "body": "Efinix is lining up TSMC Japan fab for its growing edge AI business, indicating continued expansion in specialized AI hardware manufacturing.",
+          "sources": [
+            {
+              "title": "FPGA firm Efinix lines up TSMC Japan fab as edge AI business grows",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanhBMmFSUFJKVjNiR3NWVXFaVEFSQUZ3dlcwUXhZbm95X2laYTRIdVdUcE9JSDFQd1AxbUtYeWxBRE16d0MyZUpfZndmWkhqUmtldnRwNjVRbFQzb3VjcTkwazlNd1VQck9sTHNfOXF0bUlXczFHa3QtZFJxckY0bzJ6YmZpbUVQemc?oc=5",
+              "source": "DigiTimes",
+              "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
+        {
+          "lead": "Taiwan memory chip designers project substantial revenue growth.",
+          "body": "Taiwan's memory chip designers anticipate a 245% revenue jump driven by surging AI storage demand, signaling a strong market supercycle.",
+          "sources": [
+            {
+              "title": "Taiwan memory chip designers set for 245% revenue jump on AI storage demand",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNi1RWHA4Y2UyQUtNLXp1MGxKOE90bjRnM19CaEo4bTdOZG9WbXlndGIyREplZlJvM2pGUjgzcGlxM0NQSTlrWlhVSWJFcF80RjNBeXlaOVAzeGdFMTNPMHZtMTBZSGVyTjRzZjMybktLZzYyZnJEakpFUEVNai1RT0xpR3lYUXJUUV96bDF6dU9RdE9ZcGlUX1M1QTJmQ0hUemd3LVFZa0dEb1JobGFn?oc=5",
+              "source": "DigiTimes",
+              "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+            }
+          ]
+        },
+        {
+          "lead": "SK Hynix discusses HBM supply and US investment.",
+          "body": "SK Hynix reportedly held talks in the U.S. regarding HBM supply and potential local investment plans, highlighting the critical role of HBM in AI infrastructure.",
+          "sources": [
+            {
+              "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXVzbDZ6blprenZqM1JfaEFtcW8yVVlHbG42QWNlN0tnNjgwZHlSRTc3TXZtTTB1Y3kyeEgxWEFNSlBGaHhHMzdYYkxwcVc5R0xicHNQS1dGcFk0YmZxV0RrSmxQanRqTjZnNzZuZ0s4c2hYSmE3azBDYzUtUFdTTXNSRnJRNVpDX0VYY2hxcmJ1OVRXSjh1RnFjWFo3dw?oc=5",
+              "source": "DigiTimes",
+              "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+            }
+          ]
+        },
+        {
+          "lead": "High memory costs impact smartphone market estimates.",
+          "body": "Goldman Sachs has trimmed global smartphone market estimates, citing the impact of high memory costs on the industry's profitability.",
+          "sources": [
+            {
+              "title": "Goldman Sachs trims global smartphone market estimates on high memory costs",
+              "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-trims-global-smartphone-market-estimates-on-high-memory-costs-4751615",
+              "source": "Investing.com",
+              "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Kevin Warsh is set to reshape the Federal Reserve.",
+          "body": "The new Fed Chair, Kevin Warsh, is expected to implement significant changes, with markets anticipating a more hawkish stance and a review of Fed operations.",
+          "sources": [
+            {
+              "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
+              "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+              "source": "CNBC Finance",
+              "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+            },
+            {
+              "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
+              "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
+              "source": "BBC Business",
+              "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+            }
+          ]
+        },
+        {
+          "lead": "Fed's preferred inflation gauge shows acceleration.",
+          "body": "The Fed's favorite inflation gauge is projected to indicate faster inflation, despite some initial relief in the overall outlook.",
+          "sources": [
+            {
+              "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW50NU0zYlVEVWNPbGFxQXJVbVRLa0h5U21oUnVVaHFCbnJCSVRYbWMzMFNyZGRxX3RpYW81Xzg0QXpKMjdVa0Z2YVk4Vzl0WW5RRk93Ull3U2lzSmJUN1VKdUhSZHFMcWNaS1h0OE41TkRyNjhjYS01b0VZSnhfYmNseWtnZjZIR0dwLUNPQmdMWU44Q05mWDRhRzVUZlJkYU9DNm83TQ?oc=5",
+              "source": "Bloomberg (via Google News)",
+              "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+            },
+            {
+              "title": "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief in Months",
+              "link": "https://finance.yahoo.com/economy/policy/articles/feds-latest-inflation-outlook-offers-133600184.html",
+              "source": "Yahoo Finance",
+              "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+            }
+          ]
+        },
+        {
+          "lead": "Warsh may withhold the 'dot plot' from outlook.",
+          "body": "Fed Chair Warsh is expected to potentially withhold the 'dot' from the central bank's interest rate outlook, altering communication with markets.",
+          "sources": [
+            {
+              "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+              "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+              "source": "CNBC Finance",
+              "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "Trump's Iran deal draws mixed international reactions.",
+          "body": "The US-Iran deal is hailed by some but criticized by others, with concerns that conflict continues to cast a long shadow over the global economy.",
           "sources": [
             {
               "title": "Sizing Up Trump’s Iran Deal",
@@ -45,20 +168,20 @@
           ]
         },
         {
-          "lead": "China's domestic hardtech investment is shifting.",
-          "body": "CXMT's potential IPO is expected to reshape China's hardtech investment landscape, signaling increased domestic capital allocation.",
+          "lead": "China's 'red supply chain' is a growing focus.",
+          "body": "Discussions around China's 'red supply chain' highlight ongoing geopolitical shifts in global manufacturing and technology dependencies.",
           "sources": [
             {
-              "title": "[중국·신흥국 마켓 레이더 ] CXMT 상장이 바꿀 중국 하드테크 투자 ...",
-              "link": "https://economychosun.com/site/data/html_dir/2026/06/15/2026061500020.html",
+              "title": "[한우덕의 중국 읽기] 홍색 공급망",
+              "link": "https://n.news.naver.com/mnews/article/025/0003531998?sid=110",
               "source": "Naver 뉴스 · 반도체",
               "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
             }
           ]
         },
         {
-          "lead": "India seeks US tariff advantage.",
-          "body": "India is actively pursuing a US tariff edge over rival nations ahead of enacting a new trade pact, aiming to secure favorable trade conditions.",
+          "lead": "India seeks tariff advantages over rivals.",
+          "body": "India is pursuing a US tariff edge over competitors before enacting a new trade pact, indicating strategic trade negotiations.",
           "sources": [
             {
               "title": "India Seeks US Tariff Edge Over Rivals Before Enacting Trade Pact",
@@ -71,123 +194,11 @@
       ]
     },
     {
-      "label": "US Semis / AI Chips",
-      "bullets": [
-        {
-          "lead": "Taiwan memory chip designers project significant revenue growth.",
-          "body": "Taiwan's memory chip designers anticipate a 245% revenue jump driven by surging demand for AI storage solutions.",
-          "sources": [
-            {
-              "title": "Taiwan memory chip designers set for 245% revenue jump on AI storage demand",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNi1RWHA4Y2UyQUtNLXp1MGxKOE90bjRnM19CaEo4bTdOZG9WbXlndGIyREplZlJvM2pGUjgzcGlxM0NQSTlrWlhVSWJFcF80RjNBeXlaOVAzeGdFMTNPMHZtMTBZSGVyTjRzZjMybktLZzYyZnJEakpFUEVNai1RT0xpR3lYUXJUUV96bDF6dU9RdE9ZcGlUX1M1QTJmQ0hUemd3LVFZa0dEb1JobGFn?oc=5",
-              "source": "DigiTimes",
-              "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "SK Hynix discusses HBM supply and US investment.",
-          "body": "SK Hynix reportedly held talks in the US concerning HBM supply and potential local investment plans, indicating strategic expansion in the critical AI memory sector.",
-          "sources": [
-            {
-              "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXVzbDZ6blprenZqM1JfaEFtcW8yVVlHbG42QWNlN0tnNjgwZHlSRTc3TXZtTTB1Y3kyeEgxWEFNSlBGaHhHMzdYYkxwcVc5R0xicHNQS1dGcFk0YmZxV0RrSmxQanRqTjZnNzZuZ0s4c2hYSmE3azBDYzUtUFdTTXNSRnJRNVpDX0VYY2hxcmJ1OVRXSjh1RnFjWFo3dw?oc=5",
-              "source": "DigiTimes",
-              "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "Google considers Samsung for next-gen AI chip production.",
-          "body": "Google is reportedly exploring Samsung's 2nm process for partial production of its next-generation AI chips, diversifying its supply chain beyond TSMC due to capacity constraints.",
-          "sources": [
-            {
-              "title": "Why Google Star AI Researcher Joined OpenAI, New OpenClaw Competitor, Amazon’s AI Chip Advantage",
-              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTW9WNmVQMTh6WmNCNUZxdldvSy1OalRKOTBtYkZEX2cyNnQ0T0hEZkZIam9yYUp5UDJRbm5RRzYyQTNNSWtxeWo2MlRMT1hNTmRJ?oc=5",
-              "source": "The Information",
-              "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "Arm stock price target raised significantly.",
-          "body": "Bernstein increased its price target on Arm stock by nearly 70%, reflecting strong market confidence in its long-term growth prospects, particularly in AI.",
-          "sources": [
-            {
-              "title": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
-              "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-just-raised-price-134501918.html",
-              "source": "Yahoo Finance",
-              "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "Kevin Warsh is set to remake the Fed.",
-          "body": "Kevin Warsh's initial FOMC meeting signals a potential 'regime change' for the Fed, with markets bracing for a more hawkish stance and a review of existing communication methods like the dot plot.",
-          "sources": [
-            {
-              "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-              "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-              "source": "CNBC Finance",
-              "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-            },
-            {
-              "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
-              "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
-              "source": "BBC Business",
-              "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "Fed's preferred inflation gauge shows acceleration.",
-          "body": "The Fed's favored inflation metric is projected to indicate faster inflation, though some analysts suggest the latest outlook offers initial relief.",
-          "sources": [
-            {
-              "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW50NU0zYlVEVWNPbGFxQXJVbVRLa0h5U21oUnVVaHFCbnJCSVRYbWMzMFNyZGRxX3RpYW81Xzg0QXpKMjdVa0Z2YVk4Vzl0WW5RRk93Ull3U2lzSmJUN1VKdUhSZHFMcWNaS1h0OE41TkRyNjhjYS01b0VZSnhfYmNseWtnZjZIR0dwLUNPQmdMWU44Q05mWDRhRzVUZlJkYU9DNm83TQ?oc=5",
-              "source": "Bloomberg (via Google News)",
-              "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-            },
-            {
-              "title": "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief in Months",
-              "link": "https://finance.yahoo.com/economy/policy/articles/feds-latest-inflation-outlook-offers-133600184.html",
-              "source": "Yahoo Finance",
-              "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "Swiss National Bank holds rates amidst inflation.",
-          "body": "The Swiss Central Bank maintained interest rates, citing war-driven inflation forecasts, while British officials warn of lingering inflation despite the US-Iran deal.",
-          "sources": [
-            {
-              "title": "Swiss Central Bank Holds Rates as War Pushes Up Inflation Forecast",
-              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1p1TzNzMFN6TVpIREdTR0RDWDlwSWRHbi1DQ3p3WnZrbDU0QWJERE9jVU1qOG9VWTFtTlRoR0cxQ1RaV3JYbDlkdDRwczUtXzVUcjVMbHpnSWpGRFpPckM0d1U4M0xLdHYzbkRJc2kzbVE0LXdwV3BYWkV0dmNYMmpmY1FJSVBQN09EeUg2MGlybkNXQ0lsWmdqcVMySWViV1k3ODQyWXY1cHlKcU1Wd1NjVVdrQQ?oc=5",
-              "source": "WSJ Markets",
-              "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-            },
-            {
-              "title": "Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn",
-              "link": "https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html",
-              "source": "NYT Business",
-              "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump confirms Iran deal, but details remain fluid.",
-          "body": "President Trump has confirmed an Iran deal is in its final stages, with a potential signing ceremony this weekend, though the specifics and long-term implications are still being assessed.",
+          "lead": "Trump's Iran deal faces scrutiny and criticism.",
+          "body": "The Iran deal is seen by some as a potential failure, with critics suggesting Trump was 'schooled' by Iran and that his legacy could be tied to Tehran's actions.",
           "sources": [
             {
               "title": "Sizing Up Trump’s Iran Deal",
@@ -200,12 +211,18 @@
               "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
               "source": "The Guardian Business",
               "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+            },
+            {
+              "title": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
+              "link": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
+              "source": "Financial Times",
+              "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
             }
           ]
         },
         {
-          "lead": "Anthropic labeled a national security threat.",
-          "body": "Trump stated that Anthropic posed a national security threat, following reports of the US government restricting access to its advanced AI models.",
+          "lead": "Anthropic labeled a national security threat by Trump.",
+          "body": "Former President Trump has stated that Anthropic poses a national security threat, indicating potential future policy implications for AI companies.",
           "sources": [
             {
               "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
@@ -216,8 +233,8 @@
           ]
         },
         {
-          "lead": "EU fast-tracks US tariff deal with safeguards.",
-          "body": "The EU is expediting a US tariff deal, incorporating three Trump-era safeguards, indicating ongoing trade policy adjustments.",
+          "lead": "EU fast-tracks US tariff deal with Trump safeguards.",
+          "body": "The EU is expediting a US tariff deal and implementing three Trump safeguards, reflecting ongoing adjustments to transatlantic trade relations.",
           "sources": [
             {
               "title": "EU fast-tracks US tariff deal, adds three Trump safeguards",
@@ -230,88 +247,41 @@
       ]
     },
     {
-      "label": "Earnings / Guidance",
-      "bullets": [
-        {
-          "lead": "Accenture stock falls on lower revenue projection.",
-          "body": "Accenture's stock dropped 18% after the company issued a lower revenue projection, fueling concerns about AI's impact on consulting demand.",
-          "sources": [
-            {
-              "title": "Accenture Stock Falls 18% as Lower Revenue Projection Feeds AI Fears",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXJuRGRfOXVxQW5jWXpkRk5EUFhqdjdpYWxiWFpJTHpsZ0NzVnNGa1RJdElPQ0hIOENidXNsY2NaVEgwN3lfcGV1cHJsMkZMV1JROTFZOV91N2ZrVmV1NHhUZFJBd2tRNXRMdTh4bTF2VUlCU2lyc3FBYUtQMHVWck03NEJ6WDJsOWRpa3RjWENkb0x6QkZEYmZjU0J5YlFOQVJRMTF4MGk?oc=5",
-              "source": "The Information",
-              "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "Kalshi reports significant annualized revenue.",
-          "body": "Kalshi has surpassed $2 billion in annualized revenue and is reportedly holding informal IPO discussions, signaling strong growth in prediction markets.",
-          "sources": [
-            {
-              "title": "Kalshi Passes $2 Billion in Annualized Revenue, Holds Informal IPO Talks",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWi1HT0x4dlN3WDcyN3BSRWZ3b1dpTWtIWmhQMUZIMnkwZ3Yya2JYZFFkNzNybEJwcWxGaGFrc1Y2ZElEZmNUdFhSb0JqT2dpZ1dNd1J3ai1JMy1qR3FjM3AwQlJxdUtoV0dQZ3otdS0zcURiZURnNEVMSTlmejY1TWp2WXFpQWZuQUQ2THZQWk5mME9ZOXlJajVQaThDMXM?oc=5",
-              "source": "The Information",
-              "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "Manus revenue soars, Meta deal reversal sought.",
-          "body": "Manus is experiencing soaring revenue as original investors look to reverse a deal with Meta, highlighting dynamic shifts in tech investments.",
-          "sources": [
-            {
-              "title": "Manus’ Revenue Soars as Original Investors Move to Reverse Meta Deal",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWxyV2MzREU3c2trLW1Pd3B4dVcwRUxuVmNpaWtReGJoc2pwSnhRbExJS09XdDZRclliMGlJUmVUY0RyemFrMEU5VERtd2piSnM0dTN1OXpnd2lHR294anJrX1NTaWwwQUx2dlp4VFhMMEVXVXJqWXhUVlBZaWZtNFphOHB4c3JGc3FCYW5xck1zT3VGdTlVVzZ0VGJhN0UzOVdLTw?oc=5",
-              "source": "The Information",
-              "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Amazon abandons OpenAI film project.",
-          "body": "Amazon's movie arm has dropped a film about OpenAI, following the company's announcement of a partnership with OpenAI.",
-          "sources": [
-            {
-              "title": "Amazon’s Movie Arm Abandons Film About OpenAI",
-              "link": "https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html",
-              "source": "NYT Business",
-              "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-            },
-            {
-              "title": "Amazon MGM Studio Drops Altman Movie",
-              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHV6cnZ3NU0xR1R0WXdtOE5UMzRna01YbmZwVzFZWUR0bmZHVG5leHh6R203bU5IdEpRSmR4ZHM0QTg3b1ZIY2ljcnpTRlhzTVJyQV83bWV5X2xXSTBBYkVKODlsTXlfblJBQWJBeUw1cEtvZkktZDFXV0J5RUhjQjg1WQ?oc=5",
-              "source": "The Information",
-              "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-            },
-            {
-              "title": "Luca Guadagnino’s Sam Altman movie dropped by Amazon after it announces OpenAI partnership",
-              "link": "https://www.theguardian.com/film/2026/jun/19/luca-guadagnino-sam-altman-movie-dropped-amazon-openai-artificial",
-              "source": "The Guardian Business",
-              "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-            }
-          ]
-        },
-        {
-          "lead": "Meta CEO promises superintelligence.",
-          "body": "Meta's CEO has pledged the development of superintelligence, believing it will become universally accessible, while Google DeepMind outlines paths from AGI to ASI.",
+          "lead": "Meta CEO projects superintelligence for all.",
+          "body": "Meta's CEO has promised the advent of superintelligence, believing it will become universally accessible, aligning with broader industry discussions on AGI.",
           "sources": [
             {
               "title": "Meta’s CEO Just Promised Superintelligence. He Thinks Everyone Will Have It",
               "link": "https://finance.yahoo.com/technology/ai/articles/meta-ceo-just-promised-superintelligence-133049868.html",
               "source": "Yahoo Finance",
               "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-            },
+            }
+          ]
+        },
+        {
+          "lead": "Google DeepMind outlines paths to advanced AI.",
+          "body": "Google DeepMind has mapped four distinct paths from Artificial General Intelligence (AGI) to Artificial Superintelligence (ASI), detailing the future trajectory of AI development.",
+          "sources": [
             {
               "title": "Google DeepMind maps four paths from AGI to ASI",
               "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDVBbGFMcUl4aFh5cG9aOTRMS0xTbHc4Z1NYeTNYWFN0MHhLWWY3SmFmSmhQa1Jxa1BWTi15V0VHVUM4SFRKc2Z3OW5BWUpNZ09PdFdDWjRuNGN1Y21qYzN1Tmh6SDVaNUpLYkNaTW55bV9KTExSbHhJek1kYXhVbkRud3dkQy1HV1h2OG9aR1U?oc=5",
               "source": "DigiTimes",
               "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+            }
+          ]
+        },
+        {
+          "lead": "Amazon's AI chip efforts gain advantage.",
+          "body": "Amazon is reportedly gaining an advantage in AI chip development, with its internal efforts and new competitors like OpenClaw emerging.",
+          "sources": [
+            {
+              "title": "Why Google Star AI Researcher Joined OpenAI, New OpenClaw Competitor, Amazon’s AI Chip Advantage",
+              "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTW9WNmVQMTh6WmNCNUZxdldvSy1OalRKOTBtYkZEX2cyNnQ0T0hEZkZIam9yYUp5UDJRbm5RRzYyQTNNSWtxeWo2MlRMT1hNTmRJ?oc=5",
+              "source": "The Information",
+              "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
             }
           ]
         }
@@ -321,7 +291,7 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "Watch Kevin Warsh's first FOMC and potential shifts in monetary policy communication.",
+      "note": "New Chair Warsh's first meeting and communication style on inflation and rates will be key.",
       "sources": [
         {
           "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
@@ -339,7 +309,7 @@
     },
     {
       "name": "ASML",
-      "note": "Monitor US pressure on EUV exports to China and its impact on ASML's operations and geopolitical standing.",
+      "note": "Under pressure regarding US concerns over EUV technology access in China.",
       "sources": [
         {
           "title": "US raises alarm over possible EUV machine in China, putting ASML on the defensive",
@@ -351,7 +321,7 @@
     },
     {
       "name": "SK Hynix",
-      "note": "Track developments in HBM supply discussions and potential US investment plans amid surging AI demand.",
+      "note": "HBM supply discussions and potential US investment plans signal future capacity and market share.",
       "sources": [
         {
           "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
@@ -363,7 +333,7 @@
     },
     {
       "name": "Anthropic",
-      "note": "Observe US government's national security concerns and any further restrictions on access to its advanced AI models.",
+      "note": "Labeled a national security threat by Trump, indicating potential future policy scrutiny for AI firms.",
       "sources": [
         {
           "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
@@ -374,18 +344,36 @@
       ]
     },
     {
-      "name": "Taiwan Memory Designers",
-      "note": "Watch for continued revenue growth and market dynamics driven by strong AI storage demand.",
+      "name": "Oil Prices",
+      "note": "Continued volatility expected due to conflicting reports and interpretations of the US-Iran deal.",
       "sources": [
         {
-          "title": "Taiwan memory chip designers set for 245% revenue jump on AI storage demand",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNi1RWHA4Y2UyQUtNLXp1MGxKOE90bjRnM19CaEo4bTdOZG9WbXlndGIyREplZlJvM2pGUjgzcGlxM0NQSTlrWlhVSWJFcF80RjNBeXlaOVAzeGdFMTNPMHZtMTBZSGVyTjRzZjMybktLZzYyZnJEakpFUEVNai1RT0xpR3lYUXJUUV96bDF6dU9RdE9ZcGlUX1M1QTJmQ0hUemd3LVFZa0dEb1JobGFn?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+          "title": "Oil Glut Bets Are Back in Play as Crude Sinks After US-Iran Deal",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUU9BclVjaUpGbENJNlFGaWhKd2M1SzE2czZRcGJza0RBZ2FQOHJ6LXdtejRDV25Ed1lkWTMwMzhQZlhVYm1reS1TcUoxenJQSHhHck15OHpiOUY2ZGlVVTl6Q0c4TXdYNFlpUVFndm5YQW9SX3NPaTI2UkEyejVpX3dFMWhTQ0wtWEhzQTBHVFBrTTRTNWloaFRRV0d1NDZOcXp6OHZPQ2lKcnExNjFVd1VESzZmZw?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa005aHFiRnFPT0lhdUYwazVqbHV2cEhrTWJHWFVEZDhBWlpzNEtzRFptdVZsRkpwcnQ0ZVVfNXh5aE1JR202NGpWX3liaE1aeE4ybk5oRUhwLUJFWTNPOTdfMHRxMkM5bllwRDdVcXBLbUVCSDhKTEpCQS1rcERlUW9YLTBHZEQzYVRPanVKUFlpMHo1M1hpOTdvYlp6b0lUVk5OT2FXT196RjEwZ2dBRGxpNERROG5QOFVVVGlzWGcwMU1NNWE2X1FR?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Oil Prices Rise as U.S.-Iran Deal Faces Tests",
+          "link": "https://www.nytimes.com/2026/06/19/business/oil-gas-prices-iran.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Deal or no deal, oil prices will stay volatile for months",
+          "link": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-volatile-for-months",
+          "source": "The Economist Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
         }
       ]
     }
   ],
-  "story_count": 62,
-  "bucket_count": 11
+  "story_count": 61,
+  "bucket_count": 10
 }
