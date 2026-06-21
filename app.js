@@ -382,7 +382,10 @@ function render() {
   }
 }
 
-filterEl.addEventListener("input", render);
+filterEl.addEventListener("input", () => {
+  if (currentView() === "recap") renderRecap();
+  else render();
+});
 
 /* ---------- Recap view ---------- */
 let RECAP_DAILY = null;
@@ -455,8 +458,31 @@ function renderRecapBulletText(b) {
   return p;
 }
 
+function bulletMatchesQuery(b, q) {
+  if (!q) return true;
+  const hay = (
+    (b.lead || "") + " " + (b.body || "") + " " + (b.text || "") + " " +
+    (Array.isArray(b.sources) ? b.sources.map((s) => s.source || "").join(" ") : "")
+  ).toLowerCase();
+  return hay.includes(q);
+}
+
+function watchMatchesQuery(w, q) {
+  if (!q) return true;
+  return ((w.name || "") + " " + (w.note || "")).toLowerCase().includes(q);
+}
+
+function themeMatchesQuery(t, q) {
+  if (!q) return true;
+  return (
+    (t.label || "") + " " + (t.narrative || "") + " " +
+    (Array.isArray(t.movers) ? t.movers.join(" ") : "")
+  ).toLowerCase().includes(q);
+}
+
 function renderRecapDaily(data) {
   recapViewEl.innerHTML = "";
+  const query = (filterEl.value || "").trim().toLowerCase();
 
   const head = el("div", "recap-head");
   head.appendChild(el("span", "recap-title", "Daily recap"));
@@ -469,7 +495,7 @@ function renderRecapDaily(data) {
   head.appendChild(renderRecapModes());
   recapViewEl.appendChild(head);
 
-  if (data.headline || data.summary) {
+  if (!query && (data.headline || data.summary)) {
     const hero = el("div", "recap-hero");
     if (data.headline) hero.appendChild(el("h2", "recap-headline", data.headline));
     if (data.summary) hero.appendChild(el("p", "recap-summary", data.summary));
@@ -480,14 +506,18 @@ function renderRecapDaily(data) {
 
   const sections = el("div", "recap-sections");
   const sectionList = Array.isArray(data.sections) ? data.sections : [];
-  if (sectionList.length === 0) {
-    sections.appendChild(el("div", "recap-empty", "No bucketed headlines yet today."));
-  }
+  let visibleBullets = 0;
+  let visibleSections = 0;
   sectionList.forEach((sec) => {
+    const bullets = (Array.isArray(sec.bullets) ? sec.bullets : [])
+      .filter((b) => bulletMatchesQuery(b, query));
+    if (bullets.length === 0) return;
+    visibleSections++;
+    visibleBullets += bullets.length;
+
     const block = el("section", "recap-section");
     const h = el("div", "recap-section-head");
     h.appendChild(el("span", "recap-section-label", sec.label || ""));
-    const bullets = Array.isArray(sec.bullets) ? sec.bullets : [];
     h.appendChild(el("span", "recap-section-meta",
       `${bullets.length} item${bullets.length === 1 ? "" : "s"}`));
     block.appendChild(h);
@@ -501,15 +531,24 @@ function renderRecapDaily(data) {
     block.appendChild(list);
     sections.appendChild(block);
   });
+
+  if (visibleSections === 0) {
+    sections.appendChild(el("div", "recap-empty",
+      query
+        ? `No bullets match "${query}".`
+        : "No bucketed headlines yet today."));
+  }
   grid.appendChild(sections);
 
   const side = el("aside", "recap-side");
   const watch = el("div", "recap-watch");
   watch.appendChild(el("h3", "recap-watch-head", "Watchlist"));
   const ul = el("ul", "recap-watch-list");
-  const watchlist = Array.isArray(data.watchlist) ? data.watchlist : [];
+  const watchlist = (Array.isArray(data.watchlist) ? data.watchlist : [])
+    .filter((w) => watchMatchesQuery(w, query));
   if (watchlist.length === 0) {
-    ul.appendChild(el("li", "recap-watch-note", "Watchlist is empty."));
+    ul.appendChild(el("li", "recap-watch-note",
+      query ? `No watchlist match.` : "Watchlist is empty."));
   }
   watchlist.forEach((w) => {
     const li = el("li", "recap-watch-item");
@@ -522,10 +561,22 @@ function renderRecapDaily(data) {
   grid.appendChild(side);
 
   recapViewEl.appendChild(grid);
+
+  if (query) {
+    statusEl.textContent =
+      `${visibleBullets} bullet${visibleBullets === 1 ? "" : "s"} matching “${query}”`;
+  } else {
+    const parts = [];
+    if (data.bucket_count) parts.push(`${data.bucket_count} themes`);
+    if (data.story_count) parts.push(`${data.story_count} headlines`);
+    if (data.generated_at) parts.push("updated " + formatUpdated(data.generated_at));
+    statusEl.textContent = "Daily recap · " + parts.join(" · ");
+  }
 }
 
 function renderRecapWeekly(data) {
   recapViewEl.innerHTML = "";
+  const query = (filterEl.value || "").trim().toLowerCase();
 
   const head = el("div", "recap-head");
   head.appendChild(el("span", "recap-title", "Weekly recap"));
@@ -541,7 +592,7 @@ function renderRecapWeekly(data) {
   head.appendChild(renderRecapModes());
   recapViewEl.appendChild(head);
 
-  if (data.headline || data.summary) {
+  if (!query && (data.headline || data.summary)) {
     const hero = el("div", "recap-hero");
     if (data.headline) hero.appendChild(el("h2", "recap-headline", data.headline));
     if (data.summary) hero.appendChild(el("p", "recap-summary", data.summary));
@@ -551,10 +602,13 @@ function renderRecapWeekly(data) {
   const grid = el("div", "recap-grid");
 
   const sections = el("div", "recap-sections");
-  const themes = Array.isArray(data.themes) ? data.themes : [];
+  const themes = (Array.isArray(data.themes) ? data.themes : [])
+    .filter((t) => themeMatchesQuery(t, query));
   if (themes.length === 0) {
     sections.appendChild(el("div", "recap-empty",
-      "Weekly recap will populate once daily recaps accumulate."));
+      query
+        ? `No themes match "${query}".`
+        : "Weekly recap will populate once daily recaps accumulate."));
   }
   themes.forEach((t) => {
     const block = el("section", "recap-section");
@@ -582,9 +636,11 @@ function renderRecapWeekly(data) {
   const watch = el("div", "recap-watch");
   watch.appendChild(el("h3", "recap-watch-head", "Next week"));
   const ul = el("ul", "recap-watch-list");
-  const watchlist = Array.isArray(data.watchlist) ? data.watchlist : [];
+  const watchlist = (Array.isArray(data.watchlist) ? data.watchlist : [])
+    .filter((w) => watchMatchesQuery(w, query));
   if (watchlist.length === 0) {
-    ul.appendChild(el("li", "recap-watch-note", "Nothing flagged."));
+    ul.appendChild(el("li", "recap-watch-note",
+      query ? `No watchlist match.` : "Nothing flagged."));
   }
   watchlist.forEach((w) => {
     const li = el("li", "recap-watch-item");
@@ -597,6 +653,16 @@ function renderRecapWeekly(data) {
   grid.appendChild(side);
 
   recapViewEl.appendChild(grid);
+
+  if (query) {
+    statusEl.textContent =
+      `${themes.length} theme${themes.length === 1 ? "" : "s"} matching “${query}”`;
+  } else {
+    const parts = [];
+    if (data.days_covered != null) parts.push(`${data.days_covered} day${data.days_covered === 1 ? "" : "s"} of history`);
+    if (data.generated_at) parts.push("updated " + formatUpdated(data.generated_at));
+    statusEl.textContent = "Weekly recap · " + parts.join(" · ");
+  }
 }
 
 function renderRecapModes() {
@@ -643,16 +709,19 @@ function applyView() {
   const isRecap = v === "recap";
   homeViewEl.hidden = isRecap;
   recapViewEl.hidden = !isRecap;
-  if (filterEl) filterEl.style.display = isRecap ? "none" : "";
+  // Filter input stays visible across views; the placeholder hints which
+  // dataset it currently filters.
+  if (filterEl) {
+    filterEl.placeholder = isRecap ? "Filter recap…" : "Filter headlines…";
+  }
   viewTabEls.forEach((t) => {
     t.classList.toggle("active", t.dataset.view === v);
   });
   if (isRecap) {
     renderRecap();
-    statusEl.textContent = "Editorial recap — daily & weekly digest";
-  } else {
+  } else if (DATA) {
     // Re-render headlines so the status line is correct.
-    if (DATA) render();
+    render();
   }
 }
 
