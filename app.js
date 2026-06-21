@@ -487,34 +487,21 @@ function themeMatchesQuery(t, q) {
   ).toLowerCase().includes(q);
 }
 
-function renderRecapDaily(data) {
-  recapViewEl.innerHTML = "";
-  const query = (filterEl.value || "").trim().toLowerCase();
-
-  const head = el("div", "recap-head");
-  head.appendChild(el("span", "recap-title", "Daily recap"));
-  const sub = [];
-  if (data.for_date) sub.push(formatRecapDate(data.for_date));
-  if (data.story_count) sub.push(`${data.story_count} headlines`);
-  if (data.bucket_count) sub.push(`${data.bucket_count} themes`);
-  if (data.generated_at) sub.push("updated " + formatUpdated(data.generated_at));
-  head.appendChild(el("span", "recap-sub", sub.join(" · ")));
-  head.appendChild(renderRecapModes());
-  recapViewEl.appendChild(head);
-
-  const backBar = renderRecapBackBar();
-  if (backBar) recapViewEl.appendChild(backBar);
-
+// Append the daily recap body (hero + indices + sections + watchlist + X
+// themes) into `container`. Used both for the top-of-page (today's data)
+// and inside the History pane for the selected past snapshot. Returns
+// {visibleBullets, visibleSections} so the caller can update the status line.
+function appendRecapDailyBody(data, query, container) {
   if (!query && (data.headline || data.summary)) {
     const hero = el("div", "recap-hero");
     if (data.headline) hero.appendChild(el("h2", "recap-headline", data.headline));
     if (data.summary) hero.appendChild(el("p", "recap-summary", data.summary));
-    recapViewEl.appendChild(hero);
+    container.appendChild(hero);
   }
 
   if (!query) {
     const idxRow = renderRecapIndices(data.indices);
-    if (idxRow) recapViewEl.appendChild(idxRow);
+    if (idxRow) container.appendChild(idxRow);
   }
 
   const grid = el("div", "recap-grid");
@@ -551,7 +538,7 @@ function renderRecapDaily(data) {
     sections.appendChild(el("div", "recap-empty",
       query
         ? `No bullets match "${query}".`
-        : "No bucketed headlines yet today."));
+        : "No bucketed headlines."));
   }
   grid.appendChild(sections);
 
@@ -575,53 +562,51 @@ function renderRecapDaily(data) {
   side.appendChild(watch);
   grid.appendChild(side);
 
-  recapViewEl.appendChild(grid);
+  container.appendChild(grid);
 
   const xSec = renderRecapXThemes(data.x_themes);
-  if (xSec) recapViewEl.appendChild(xSec);
+  if (xSec) container.appendChild(xSec);
 
-  recapViewEl.appendChild(renderRecapHistoryPane());
-
-  if (query) {
-    statusEl.textContent =
-      `${visibleBullets} bullet${visibleBullets === 1 ? "" : "s"} matching “${query}”`;
-  } else {
-    const parts = [];
-    if (data.bucket_count) parts.push(`${data.bucket_count} themes`);
-    if (data.story_count) parts.push(`${data.story_count} headlines`);
-    if (data.generated_at) parts.push("updated " + formatUpdated(data.generated_at));
-    statusEl.textContent = (
-      RECAP_HISTORY_DATE ? `Daily recap (${RECAP_HISTORY_DATE})` : "Daily recap"
-    ) + " · " + parts.join(" · ");
-  }
+  return { visibleBullets, visibleSections };
 }
 
-function renderRecapWeekly(data) {
+function renderRecapDaily(data) {
   recapViewEl.innerHTML = "";
   const query = (filterEl.value || "").trim().toLowerCase();
 
   const head = el("div", "recap-head");
-  head.appendChild(el("span", "recap-title", "Weekly recap"));
+  head.appendChild(el("span", "recap-title", "Daily recap"));
   const sub = [];
-  if (data.for_week_start && data.for_week_ending) {
-    sub.push(`${formatRecapDate(data.for_week_start)} – ${formatRecapDate(data.for_week_ending)}`);
-  } else if (data.for_week_ending) {
-    sub.push(`week ending ${formatRecapDate(data.for_week_ending)}`);
-  }
-  if (data.days_covered != null) sub.push(`${data.days_covered} day${data.days_covered === 1 ? "" : "s"} of history`);
+  if (data.for_date) sub.push(formatRecapDate(data.for_date));
+  if (data.story_count) sub.push(`${data.story_count} headlines`);
+  if (data.bucket_count) sub.push(`${data.bucket_count} themes`);
   if (data.generated_at) sub.push("updated " + formatUpdated(data.generated_at));
   head.appendChild(el("span", "recap-sub", sub.join(" · ")));
   head.appendChild(renderRecapModes());
   recapViewEl.appendChild(head);
 
-  const backBar = renderRecapBackBar();
-  if (backBar) recapViewEl.appendChild(backBar);
+  const stats = appendRecapDailyBody(data, query, recapViewEl);
 
+  recapViewEl.appendChild(renderRecapHistoryPane());
+
+  if (query) {
+    statusEl.textContent =
+      `${stats.visibleBullets} bullet${stats.visibleBullets === 1 ? "" : "s"} matching “${query}”`;
+  } else {
+    const parts = [];
+    if (data.bucket_count) parts.push(`${data.bucket_count} themes`);
+    if (data.story_count) parts.push(`${data.story_count} headlines`);
+    if (data.generated_at) parts.push("updated " + formatUpdated(data.generated_at));
+    statusEl.textContent = "Daily recap · " + parts.join(" · ");
+  }
+}
+
+function appendRecapWeeklyBody(data, query, container) {
   if (!query && (data.headline || data.summary)) {
     const hero = el("div", "recap-hero");
     if (data.headline) hero.appendChild(el("h2", "recap-headline", data.headline));
     if (data.summary) hero.appendChild(el("p", "recap-summary", data.summary));
-    recapViewEl.appendChild(hero);
+    container.appendChild(hero);
   }
 
   const grid = el("div", "recap-grid");
@@ -683,23 +668,44 @@ function renderRecapWeekly(data) {
   side.appendChild(watch);
   grid.appendChild(side);
 
-  recapViewEl.appendChild(grid);
+  container.appendChild(grid);
 
   const xSec = renderRecapXThemes(data.x_themes);
-  if (xSec) recapViewEl.appendChild(xSec);
+  if (xSec) container.appendChild(xSec);
+
+  return { visibleThemes: themes.length };
+}
+
+function renderRecapWeekly(data) {
+  recapViewEl.innerHTML = "";
+  const query = (filterEl.value || "").trim().toLowerCase();
+
+  const head = el("div", "recap-head");
+  head.appendChild(el("span", "recap-title", "Weekly recap"));
+  const sub = [];
+  if (data.for_week_start && data.for_week_ending) {
+    sub.push(`${formatRecapDate(data.for_week_start)} – ${formatRecapDate(data.for_week_ending)}`);
+  } else if (data.for_week_ending) {
+    sub.push(`week ending ${formatRecapDate(data.for_week_ending)}`);
+  }
+  if (data.days_covered != null) sub.push(`${data.days_covered} day${data.days_covered === 1 ? "" : "s"} of history`);
+  if (data.generated_at) sub.push("updated " + formatUpdated(data.generated_at));
+  head.appendChild(el("span", "recap-sub", sub.join(" · ")));
+  head.appendChild(renderRecapModes());
+  recapViewEl.appendChild(head);
+
+  const stats = appendRecapWeeklyBody(data, query, recapViewEl);
 
   recapViewEl.appendChild(renderRecapHistoryPane());
 
   if (query) {
     statusEl.textContent =
-      `${themes.length} theme${themes.length === 1 ? "" : "s"} matching “${query}”`;
+      `${stats.visibleThemes} theme${stats.visibleThemes === 1 ? "" : "s"} matching “${query}”`;
   } else {
     const parts = [];
     if (data.days_covered != null) parts.push(`${data.days_covered} day${data.days_covered === 1 ? "" : "s"} of history`);
     if (data.generated_at) parts.push("updated " + formatUpdated(data.generated_at));
-    statusEl.textContent = (
-      RECAP_HISTORY_DATE ? `Weekly recap (${RECAP_HISTORY_DATE})` : "Weekly recap"
-    ) + " · " + parts.join(" · ");
+    statusEl.textContent = "Weekly recap · " + parts.join(" · ");
   }
 }
 
@@ -911,18 +917,36 @@ function renderHistoryList() {
 }
 
 function renderRecapHistoryPane() {
-  return RECAP_MODE === "weekly" ? renderHistoryList() : renderHistoryCalendar();
-}
+  const pane = RECAP_MODE === "weekly" ? renderHistoryList() : renderHistoryCalendar();
+  // If a date is currently selected, embed that snapshot inside the pane
+  // — directly below the calendar/list — so today's recap stays on top.
+  if (RECAP_HISTORY_DATE) {
+    const key = RECAP_MODE + ":" + RECAP_HISTORY_DATE;
+    const snap = RECAP_HISTORY_CACHE[key];
 
-function renderRecapBackBar() {
-  if (!RECAP_HISTORY_DATE) return null;
-  const bar = el("div", "recap-back-bar");
-  const a = el("a", "recap-back-link", "← Back to current");
-  a.href = "#/recap";
-  bar.appendChild(a);
-  bar.appendChild(el("span", "recap-back-meta",
-    `Viewing snapshot from ${RECAP_HISTORY_DATE}`));
-  return bar;
+    const head = el("div", "recap-history-snap-head");
+    head.appendChild(el("span", "recap-history-snap-title",
+      `Snapshot · ${RECAP_HISTORY_DATE}`));
+    const close = el("a", "recap-history-snap-close", "Close");
+    close.href = "#/recap";
+    head.appendChild(close);
+    pane.appendChild(head);
+
+    const wrap = el("div", "recap-history-snap");
+    if (snap) {
+      if (RECAP_MODE === "weekly") {
+        appendRecapWeeklyBody(snap, "", wrap);
+      } else {
+        appendRecapDailyBody(snap, "", wrap);
+      }
+    } else {
+      wrap.appendChild(el("div", "recap-empty",
+        `Loading snapshot for ${RECAP_HISTORY_DATE}…`));
+      loadRecapHistory(RECAP_HISTORY_DATE, RECAP_MODE);
+    }
+    pane.appendChild(wrap);
+  }
+  return pane;
 }
 
 function recapEmpty(msg) {
@@ -935,22 +959,11 @@ function recapEmpty(msg) {
   recapViewEl.appendChild(el("div", "recap-empty", msg));
 }
 
-function activeRecapData() {
-  if (RECAP_HISTORY_DATE) {
-    const key = RECAP_MODE + ":" + RECAP_HISTORY_DATE;
-    return RECAP_HISTORY_CACHE[key] || null;
-  }
-  return RECAP_MODE === "weekly" ? RECAP_WEEKLY : RECAP_DAILY;
-}
-
 function renderRecap() {
-  const data = activeRecapData();
+  // Main view always renders TODAY's recap. The History pane handles its
+  // own selected-date snapshot inline (see renderRecapHistoryPane).
+  const data = RECAP_MODE === "weekly" ? RECAP_WEEKLY : RECAP_DAILY;
   if (!data) {
-    if (RECAP_HISTORY_DATE) {
-      recapEmpty(`Loading snapshot for ${RECAP_HISTORY_DATE}…`);
-      loadRecapHistory(RECAP_HISTORY_DATE, RECAP_MODE);
-      return;
-    }
     recapEmpty(RECAP_MODE === "weekly"
       ? "Weekly recap not yet generated."
       : "Daily recap not yet generated.");
