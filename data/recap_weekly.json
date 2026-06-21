@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-06-21T14:46:59+00:00",
+  "mode": "weekly",
+  "for_week_start": "2026-06-15",
+  "for_week_ending": "2026-06-21",
+  "days_covered": 1,
+  "headline": "Weekly tape, by editorial weight",
+  "summary": "Compiled from 1 daily recap(s). Themes ordered by coverage volume across the week.",
+  "themes": [
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "narrative": "China / Tariffs / Geopolitics accounted for 3 bullets across the week's daily recaps.",
+      "movers": []
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "narrative": "Fed / Rates / Macro accounted for 3 bullets across the week's daily recaps.",
+      "movers": []
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "narrative": "Trump 2.0 / US Policy accounted for 3 bullets across the week's daily recaps.",
+      "movers": []
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "narrative": "US Semis / AI Chips accounted for 3 bullets across the week's daily recaps.",
+      "movers": []
+    },
+    {
+      "label": "Earnings / Guidance",
+      "narrative": "Earnings / Guidance accounted for 3 bullets across the week's daily recaps.",
+      "movers": []
+    }
+  ],
+  "watchlist": []
+}

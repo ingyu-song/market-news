@@ -58,6 +58,53 @@ python x_processor.py            # writes data/x_summary.json
 Set `X_USE_LAST_RUN=1` to reuse Apify's last successful run instead of
 triggering a fresh scrape (cheaper, if the task is already scheduled on Apify).
 
+## Daily & weekly Recap (the "Recap" tab)
+
+A second view, reachable from the **Recap** tab in the header, summarizes the
+day's and week's news using the same editorial voice as a set of finance
+Telegram channels the project was modeled on:
+
+```
+Telegram channel exports  ──►  build_profile.py  ──►  data/editorial_profile.json
+                                                              │
+data/news.json + data/x_summary.json + profile  ──►  recap.py  ──►  data/recap_daily.json
+                                                              ╰──►  data/recap_weekly.json
+                                                              ╰──►  data/recap_history/*.json
+```
+
+`build_profile.py` parses one or more Telegram Desktop `result.json` exports
+(extract them via *Settings → Advanced → Export Telegram data* on Desktop) and
+writes a heuristic editorial profile: topic share, top tickers, trusted source
+domains, posting-time histogram, and a short style fingerprint. It is pure
+Python and reproducible from the corpus alone.
+
+```bash
+python build_profile.py PATH/TO/result.json [PATH/TO/another_result.json ...]
+```
+
+`recap.py` reads `data/news.json`, `data/x_summary.json`, and the profile, then
+asks **Gemini** to produce an English daily or weekly recap that imitates the
+profile's editorial focus. Without an API key it falls back to a deterministic
+heuristic recap so the tab is never empty:
+
+```bash
+python recap.py --mode daily      # writes data/recap_daily.json
+python recap.py --mode weekly     # writes data/recap_weekly.json
+python recap.py --mode both       # runs both
+```
+
+The daily run also drops a copy under `data/recap_history/YYYY-MM-DD.json`;
+the weekly run reads the most recent seven and synthesizes the week from them
+(folder is auto-pruned to the last 60 days).
+
+The whole thing runs on its own schedule
+(`.github/workflows/recap.yml`, daily 22:00 UTC and an extra weekly pass
+Saturday 23:00 UTC), commits the recap JSONs, then redeploys. Secrets reused
+from the X-summary job: `GEMINI_API_KEY`, optional `GROQ_API_KEY`.
+
+The `Recap` tab is a client-side toggle (`#/recap`); the existing Headlines
+view is untouched.
+
 ## Run it locally
 
 ```bash

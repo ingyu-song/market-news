@@ -18,6 +18,10 @@
         <h1>Market News</h1>
         <p class="tagline">Financial headlines, grouped by source</p>
       </div>
+      <nav class="view-nav" aria-label="Sections">
+        <a href="#/" class="view-tab" data-view="home">Headlines</a>
+        <a href="#/recap" class="view-tab" data-view="recap">Recap</a>
+      </nav>
       <div class="header-tools">
         <input id="filter" type="search" placeholder="Filter headlines…" autocomplete="off" />
       </div>
@@ -27,13 +31,17 @@
     </div>
   </header>
 
-  <div id="indices" class="ticker" aria-label="Market indices"></div>
+  <div id="home-view">
+    <div id="indices" class="ticker" aria-label="Market indices"></div>
 
-  <section id="x-summary" class="xsum" aria-label="What X is talking about"></section>
+    <section id="x-summary" class="xsum" aria-label="What X is talking about"></section>
 
-  <section id="highlights" class="highlights" aria-label="Highlights"></section>
+    <section id="highlights" class="highlights" aria-label="Highlights"></section>
 
-  <main id="board" class="board" aria-live="polite"></main>
+    <main id="board" class="board" aria-live="polite"></main>
+  </div>
+
+  <section id="recap-view" class="recap" aria-label="Daily and weekly recap" hidden></section>
 
   <footer class="site-footer">
     <p>

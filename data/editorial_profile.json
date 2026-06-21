@@ -1,0 +1,860 @@
+{
+  "generated_at": "2026-06-21T14:45:01+00:00",
+  "channels": [
+    {
+      "name": "맹구맹구의 주식공방",
+      "post_count": 4027,
+      "first_date": "2024-12-15T19:50:53",
+      "last_date": "2026-06-17T14:56:48"
+    },
+    {
+      "name": "TIME ACT!VE ETF",
+      "post_count": 707,
+      "first_date": "2025-01-03T09:46:13",
+      "last_date": "2026-06-17T14:43:02"
+    }
+  ],
+  "post_count": 4734,
+  "topic_share": [
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "posts": 1202,
+      "share": 0.2539
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "posts": 1105,
+      "share": 0.2334
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "posts": 753,
+      "share": 0.1591
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "posts": 639,
+      "share": 0.135
+    },
+    {
+      "label": "Earnings / Guidance",
+      "posts": 588,
+      "share": 0.1242
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "posts": 580,
+      "share": 0.1225
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "posts": 375,
+      "share": 0.0792
+    },
+    {
+      "label": "AI Infrastructure / Hyperscaler Capex",
+      "posts": 303,
+      "share": 0.064
+    },
+    {
+      "label": "Autos / EVs",
+      "posts": 285,
+      "share": 0.0602
+    },
+    {
+      "label": "Energy / Commodities",
+      "posts": 261,
+      "share": 0.0551
+    },
+    {
+      "label": "Korean Equities",
+      "posts": 184,
+      "share": 0.0389
+    },
+    {
+      "label": "Crypto",
+      "posts": 175,
+      "share": 0.037
+    },
+    {
+      "label": "Defense / Aerospace",
+      "posts": 112,
+      "share": 0.0237
+    },
+    {
+      "label": "Biotech / Pharma",
+      "posts": 111,
+      "share": 0.0234
+    }
+  ],
+  "top_entities": [
+    {
+      "name": "Nvidia",
+      "mentions": 343
+    },
+    {
+      "name": "Samsung",
+      "mentions": 210
+    },
+    {
+      "name": "Alphabet",
+      "mentions": 187
+    },
+    {
+      "name": "Apple",
+      "mentions": 179
+    },
+    {
+      "name": "Meta",
+      "mentions": 147
+    },
+    {
+      "name": "Tesla",
+      "mentions": 131
+    },
+    {
+      "name": "TSMC",
+      "mentions": 120
+    },
+    {
+      "name": "SK Hynix",
+      "mentions": 109
+    },
+    {
+      "name": "OpenAI",
+      "mentions": 105
+    },
+    {
+      "name": "Samsung Electronics",
+      "mentions": 103
+    },
+    {
+      "name": "Intel",
+      "mentions": 100
+    },
+    {
+      "name": "Amazon",
+      "mentions": 99
+    },
+    {
+      "name": "Bitcoin",
+      "mentions": 98
+    },
+    {
+      "name": "AMD",
+      "mentions": 91
+    },
+    {
+      "name": "Anthropic",
+      "mentions": 79
+    },
+    {
+      "name": "Micron",
+      "mentions": 63
+    },
+    {
+      "name": "Microsoft",
+      "mentions": 60
+    },
+    {
+      "name": "Oracle",
+      "mentions": 59
+    },
+    {
+      "name": "Netflix",
+      "mentions": 43
+    },
+    {
+      "name": "Broadcom",
+      "mentions": 42
+    },
+    {
+      "name": "Naver",
+      "mentions": 35
+    },
+    {
+      "name": "Hyundai Motor",
+      "mentions": 34
+    },
+    {
+      "name": "Kakao",
+      "mentions": 24
+    },
+    {
+      "name": "Palantir",
+      "mentions": 22
+    },
+    {
+      "name": "Qualcomm",
+      "mentions": 22
+    },
+    {
+      "name": "Walmart",
+      "mentions": 20
+    },
+    {
+      "name": "ASML",
+      "mentions": 16
+    },
+    {
+      "name": "Boeing",
+      "mentions": 13
+    },
+    {
+      "name": "Disney",
+      "mentions": 13
+    },
+    {
+      "name": "Ford",
+      "mentions": 10
+    },
+    {
+      "name": "Coinbase",
+      "mentions": 8
+    },
+    {
+      "name": "Ethereum",
+      "mentions": 7
+    },
+    {
+      "name": "Kia",
+      "mentions": 6
+    },
+    {
+      "name": "LG Energy Solution",
+      "mentions": 6
+    },
+    {
+      "name": "Adobe",
+      "mentions": 4
+    },
+    {
+      "name": "BYD",
+      "mentions": 3
+    },
+    {
+      "name": "Rivian",
+      "mentions": 3
+    },
+    {
+      "name": "Celltrion",
+      "mentions": 2
+    },
+    {
+      "name": "LG Electronics",
+      "mentions": 2
+    },
+    {
+      "name": "MicroStrategy",
+      "mentions": 2
+    },
+    {
+      "name": "Hanmi Semiconductor",
+      "mentions": 2
+    },
+    {
+      "name": "LG Chem",
+      "mentions": 2
+    },
+    {
+      "name": "POSCO",
+      "mentions": 1
+    },
+    {
+      "name": "TRUMP",
+      "mentions": 1
+    },
+    {
+      "name": "IBKR",
+      "mentions": 1
+    }
+  ],
+  "top_kr_codes": [
+    {
+      "code": "456600",
+      "mentions": 6
+    },
+    {
+      "code": "005930",
+      "mentions": 5
+    },
+    {
+      "code": "441800",
+      "mentions": 4
+    },
+    {
+      "code": "410870",
+      "mentions": 3
+    },
+    {
+      "code": "463050",
+      "mentions": 3
+    },
+    {
+      "code": "426030",
+      "mentions": 3
+    },
+    {
+      "code": "352820",
+      "mentions": 2
+    },
+    {
+      "code": "200690",
+      "mentions": 2
+    },
+    {
+      "code": "385720",
+      "mentions": 2
+    },
+    {
+      "code": "478150",
+      "mentions": 2
+    },
+    {
+      "code": "376926",
+      "mentions": 1
+    },
+    {
+      "code": "525945",
+      "mentions": 1
+    },
+    {
+      "code": "218503",
+      "mentions": 1
+    },
+    {
+      "code": "277839",
+      "mentions": 1
+    },
+    {
+      "code": "547374",
+      "mentions": 1
+    },
+    {
+      "code": "526186",
+      "mentions": 1
+    },
+    {
+      "code": "373220",
+      "mentions": 1
+    },
+    {
+      "code": "874530",
+      "mentions": 1
+    },
+    {
+      "code": "549391",
+      "mentions": 1
+    },
+    {
+      "code": "172377",
+      "mentions": 1
+    },
+    {
+      "code": "250121",
+      "mentions": 1
+    },
+    {
+      "code": "000660",
+      "mentions": 1
+    },
+    {
+      "code": "167546",
+      "mentions": 1
+    },
+    {
+      "code": "003230",
+      "mentions": 1
+    },
+    {
+      "code": "326030",
+      "mentions": 1
+    }
+  ],
+  "top_domains": [
+    {
+      "domain": "n.news.naver.com",
+      "mentions": 6375
+    },
+    {
+      "domain": "bloomberg.com",
+      "mentions": 728
+    },
+    {
+      "domain": "reuters.com",
+      "mentions": 364
+    },
+    {
+      "domain": "theinformation.com",
+      "mentions": 328
+    },
+    {
+      "domain": "blog.naver.com",
+      "mentions": 272
+    },
+    {
+      "domain": "yna.co.kr",
+      "mentions": 171
+    },
+    {
+      "domain": "news.einfomax.co.kr",
+      "mentions": 155
+    },
+    {
+      "domain": "hankyung.com",
+      "mentions": 153
+    },
+    {
+      "domain": "cnbc.com",
+      "mentions": 149
+    },
+    {
+      "domain": "wsj.com",
+      "mentions": 147
+    },
+    {
+      "domain": "m.entertain.naver.com",
+      "mentions": 113
+    },
+    {
+      "domain": "notion.so",
+      "mentions": 108
+    },
+    {
+      "domain": "youtu.be",
+      "mentions": 106
+    },
+    {
+      "domain": "ft.com",
+      "mentions": 104
+    },
+    {
+      "domain": "trendforce.com",
+      "mentions": 102
+    },
+    {
+      "domain": "naver.me",
+      "mentions": 81
+    },
+    {
+      "domain": "digitimes.com",
+      "mentions": 81
+    },
+    {
+      "domain": "v.daum.net",
+      "mentions": 71
+    },
+    {
+      "domain": "m.g-enews.com",
+      "mentions": 57
+    },
+    {
+      "domain": "tomshardware.com",
+      "mentions": 52
+    },
+    {
+      "domain": "m.newspim.com",
+      "mentions": 51
+    },
+    {
+      "domain": "timeetf.co.kr",
+      "mentions": 50
+    },
+    {
+      "domain": "digitaltoday.co.kr",
+      "mentions": 48
+    },
+    {
+      "domain": "dart.fss.or.kr",
+      "mentions": 48
+    },
+    {
+      "domain": "news1.kr",
+      "mentions": 48
+    }
+  ],
+  "timing": {
+    "by_hour_kst": [
+      {
+        "hour": 0,
+        "posts": 28
+      },
+      {
+        "hour": 1,
+        "posts": 23
+      },
+      {
+        "hour": 2,
+        "posts": 20
+      },
+      {
+        "hour": 3,
+        "posts": 5
+      },
+      {
+        "hour": 4,
+        "posts": 0
+      },
+      {
+        "hour": 5,
+        "posts": 16
+      },
+      {
+        "hour": 6,
+        "posts": 238
+      },
+      {
+        "hour": 7,
+        "posts": 421
+      },
+      {
+        "hour": 8,
+        "posts": 351
+      },
+      {
+        "hour": 9,
+        "posts": 661
+      },
+      {
+        "hour": 10,
+        "posts": 715
+      },
+      {
+        "hour": 11,
+        "posts": 445
+      },
+      {
+        "hour": 12,
+        "posts": 239
+      },
+      {
+        "hour": 13,
+        "posts": 179
+      },
+      {
+        "hour": 14,
+        "posts": 234
+      },
+      {
+        "hour": 15,
+        "posts": 202
+      },
+      {
+        "hour": 16,
+        "posts": 145
+      },
+      {
+        "hour": 17,
+        "posts": 139
+      },
+      {
+        "hour": 18,
+        "posts": 77
+      },
+      {
+        "hour": 19,
+        "posts": 67
+      },
+      {
+        "hour": 20,
+        "posts": 132
+      },
+      {
+        "hour": 21,
+        "posts": 189
+      },
+      {
+        "hour": 22,
+        "posts": 122
+      },
+      {
+        "hour": 23,
+        "posts": 86
+      }
+    ],
+    "by_weekday": [
+      {
+        "weekday": "Mon",
+        "posts": 906
+      },
+      {
+        "weekday": "Tue",
+        "posts": 837
+      },
+      {
+        "weekday": "Wed",
+        "posts": 943
+      },
+      {
+        "weekday": "Thu",
+        "posts": 963
+      },
+      {
+        "weekday": "Fri",
+        "posts": 860
+      },
+      {
+        "weekday": "Sat",
+        "posts": 103
+      },
+      {
+        "weekday": "Sun",
+        "posts": 122
+      }
+    ],
+    "by_us_session": [
+      {
+        "session": "us_premarket",
+        "posts": 251
+      },
+      {
+        "session": "us_regular",
+        "posts": 222
+      },
+      {
+        "session": "us_postmarket",
+        "posts": 53
+      },
+      {
+        "session": "asia_session",
+        "posts": 4208
+      }
+    ]
+  },
+  "style": {
+    "avg_text_length_chars": 265.3,
+    "bold_share": 0.234,
+    "link_share": 0.48,
+    "fingerprint": "Short-form market briefs translated to English. Posts open with index or sector moves, use bolded topic markers, and cite outside sources by link when relevant. Tone is analyst-curt: numbers first, jargon preserved (HBM, CoWoS, capex), no filler. Editorial focus skews to China / Tariffs / Geopolitics, Fed / Rates / Macro, Trump 2.0 / US Policy, US Semis / AI Chips, Earnings / Guidance."
+  },
+  "voice_examples": [
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-17T06:30:52",
+      "topic": "China / Tariffs / Geopolitics",
+      "domains": [],
+      "text": "[TIME ETF Morning Brief 2026.06.17]\nDOW +0.6%, S&P500 -0.6%, NASDAQ -1.2%\n\n■ 스페이스X, 아마존 제치고 시가총액 5위\n스페이스X가 상장 3일만에 아마존을 제치고 미국증시 시가총액 5위로 등극, 장중 한때 마이크로소프트를 제치고 4위까지 올랐다가 5위로 마감. 스페이스X로 쏠리는 투자자들의 자금과 FOMC 경계감에 나머지 기술주들은 전반적인 하락. 필라델피아 반도체 지수는 5% 이상 하락. 10조달러 이상 규모의 역대 IPO에서 상장 초기 3일간 상승률 2위를 기록하며 투자자들의 높은 관심을 반영\n\n■ 18일 새벽, 케빈 워시 새 연준의장 첫 데뷔\n18일 새벽 3시(한국시간) FOMC에서 케빈 워시 새 연준의장이 첫 FOMC회의를 주관. 과거 신규 연준의장의 취임 이후 이른바 '연준 길들이기'로 몇개월내 하락를 기록한 적이 있어 투자자들의 우려가 일부 시장에 반영. 트럼프 대통령은 금리 인하를 원하고 있어 과연 연준의 독립성과 백악관의 압박 사이에서 고민. 또한, 과연 기존의 'dot plot'을 통한 시장과의 소통이 계속 이루어질지도 포인트. 케빈 위시 연준의장은 과거의 '포워드 가이던스' 및 'dot plot'에 부정적인 입장.\n\n■ 미정부, 종전합의 서명후 이란산 원유 제재 면제 \nWSJ이 미국정부가 이란의 초기 재정적 인센티브를 위해 종전 합의 이후 이란산 원유에…"
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-15T10:24:33",
+      "topic": "China / Tariffs / Geopolitics",
+      "domains": [
+        "theinformation.com",
+        "theinformation.com",
+        "theinformation.com"
+      ],
+      "text": "주말동안 엄중한 뉴스가 2개 있어서 따로 빼서 설명해봄.\n\n지난주 공개됐어 앤트로픽의 최상위 모델 페이블과 미토스5가 미국정부에 의해 차단됨. 국가안보를 이유로 정부가 AI모델에 개입한 첫 사례인데 해당 조치로 외국인은 해당모델에 접근할 수 없게 됐음. 물론 앤트로픽입장에서 고객들이 외국인인지 미국인인지 구분할 수 없기에 그냥 서비스를 막은 것으로 보임.\n\n여기서 문제는 3가지임. \n1) 앤트로픽 직원들중 외국인은 해당 모델을 사용할 수 없음. 이는 개발 과정에서도 문제가 발생될 가능성이 높아짐.\n2) 미국정부가 다른 AI회사들에게는 해당 조치를 취할 가능성이 낮다는것.\n3) 미국정부와 앤트로픽이 충돌한 지점은 보안. 페이블의 탈옥가능성에 대해 이견을 보였다는것. (앤트로픽의 주장은 발견된 취약점은 상대적으로 단순하고 다른 ai모델들에서도 확인할 수 있다는 것)\n\n아마존의 앤디 제시 CEO가 정부에게 우려된다는 의견을 전달한걸로 알려졌는데 일각에서는 페이블의 엄청난 토큰 소모량이 우려(페이블은 미토스의 2배 이상의 토큰을 소모)되어 해당 언급이 나온 가능성도 제기됨.\n\n개인적으로 앤트로픽과 미국정부가 부딪쳤던 적이 이번이 처음이 아닌만큼. 미국정부의 뒷끝일 가능성도 높다고…"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-15T07:03:16",
+      "topic": "China / Tariffs / Geopolitics",
+      "domains": [],
+      "text": "[TIME ETF Morning Brief 2026.06.15]\nDOW +0.7%, S&P500 +0.5%, NASDAQ +0.3%\n\n■ SPACE X 데뷔!\n전세계의 관심을 모았던 SPACE X의 상장이 성공적으로 마무리. 종가 160.1$ 기준 미증시 시가총액 순위 6위에 안착. 향후 1)러셀1000, 2)MSCI, 3)NASDAQ100 등 지수에 6월 말~7월초까지 편입으로 수급 기대.\n\n■ 미국-이란 종전 협약\n머스크의 SPACE-X의 상장과 트럼프 미국 대통령의  생일인 6월 14일을 앞두고 휴전 분위기가 형성되기 시작하더니, 결국 19일 스위스에서 종전 평화협정. 유가가 4%넘게 하락하며 글로벌 금융시장에 훈풍\n\n■ 미국 정부 AI 수출통제\n미국 정부가 앤트로픽의 '미토스5', '페이블5' 등 최상위 AI모델에 수출통제 실시. 최첨단 AI 모델을 전략자산으로 간주에 통제하겠다는 움직임. 소버린 AI의 필요성이 시급한 과제로 부상\n\n———————-\n\n■ 주요 종목\n\n» Space X(+19.2%) / RKLB(-10.8%), ASTS(-15.5%)\n공모가 135달러 기준 19.2% 상승 마감. 세기의 IPO로 주목을 받으며 Peer 였던 우주기업들은 수급이 빠지면서 급락\n\n» AMD(+4.7%)\nCiti에서 투자의견 및 목표주가 상향. CPU가 AI 산업내에서 영역을 확장. 향후 AI 관련 매출 증가 기대. \n\n»…"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-13T15:47:00",
+      "topic": "China / Tariffs / Geopolitics",
+      "domains": [
+        "bloomberg.com",
+        "bloomberg.com"
+      ],
+      "text": "중국, NEV 대형트럭 보급 확대, ‘30년 침투율 40% 목표\n\n중국 당국이 전기트럭을 중심으로 한 NEV 대형트럭 보급 확대에 속도를 낸다.\n\n중국 교통운수부는 2025년 약 29%였던 NEV 대형트럭 침투율을 2030년 40%까지 끌어올리고, 운행 대수를 160만 대 이상으로 늘리겠다는 목표를 제시했다.\n\n주요 지역의 고정 단거리 운송 노선은 전동화 비율을 80% 이상으로 높이고, 고속도로 화물 운송량의 18%를 NEV 대형트럭이 담당하도록 할 계획이다.\n\n이를 위해 약 3천개의 대형트럭 충전·배터리 교환소와 총 3만㎞ 규모의 친환경 화물 운송망을 구축한다.\n\n당국은 차량 구매와 인프라 구축에 대한 재정 지원, 특수목적채권 활용, 신용 지원 등을 병행한다. 또 전기트럭 구매 부담을 낮추기 위해 배터리 리스 등 신규 사업모델도 장려할 방침이다.\n\n- 출처: Bloomberg"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-13T09:24:47",
+      "topic": "China / Tariffs / Geopolitics",
+      "domains": [
+        "reuters.com",
+        "reuters.com"
+      ],
+      "text": "Anthropic 최첨단 AI 모델, 해외 접근 제한 보도\n\n트럼프 행정부가 외국 정부와 기업, 개인의 Anthropic 최첨단 AI 모델 접근을 차단하고 있다는 Axios의 보도.\n\nAxios에 따르면 러트닉 미 상무장관은 금요일 Anthropic에 서한을 보내, Mythos 5와 Fable 5 모델을 미국 외 지역 및 미국 내 외국인에게 제공하는 것을 수출통제 대상으로 지정하겠다고 밝힘.\n\n이번 조치는 한 기업이 Mythos 모델의 안전장치를 jailbreak(탈옥)할 수 있었다고 주장한 뒤 나온 것으로 전해짐.\n\n트럼프는 이달 초 주요 AI 개발사들이 가장 강력한 모델을 일반에 공개하기 전, 정부의 사이버보안 테스트에 자발적으로 제출하도록 요청하는 행정명령에 서명한 바 있음.\n\n-출처: reuters"
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-17T10:35:05",
+      "topic": "Fed / Rates / Macro",
+      "domains": [],
+      "text": "댈러스 연준의 4월 기준 자료를 보면 해당 지표는 갑작스럽게 튄 유가를 제외하고 계산하면 2~2.5% 사이에서 안정적인 움직임을 보여주고 있음.\n\n이는 워시가 추후 금리인하를 주장할 근거가 될 예정. 하지만 이 지표가 튀는걸 제외한다고 해도, 유가가 물가 전반에 미치는 영향을 생각하면 연준의원들이 쉽게 인하로 방향을 틀기는 어렵다고 생각."
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-17T10:32:29",
+      "topic": "Fed / Rates / Macro",
+      "domains": [],
+      "text": "퐁퐁형님의 첫 FOMC에서 유의깊게 봐야될건. 역시나 물가에 대한 관점이라고 생각함. 특히 청문회때 예시로 든, 절사평균PCE(Trimmed Mean PCE)를 강조할거라고 생각.\n\n이게 뭐냐면 쉽게말해, 이번 달에 가격이 너무 비정상적으로 많이 올랐거나 많이 떨어진 품목들을 양쪽에서 잘라내고 남은 품목들로만 계산한 이번 달 물가.\n\n일시적인 이유로 가격이 잠시 튀는걸 제외하고 계산하기에 실제 물가 흐름을 파악하는 용도로 쓰이긴 하는데 초기 인플레이션 포착이 지연된다는 단점이 있음."
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-16T11:58:05",
+      "topic": "Fed / Rates / Macro",
+      "domains": [],
+      "text": "이는 양적완화 확대가 아닌, 양적완화를 줄여가는 단계에서 일시정지한다고 생각하시면 됨. 금리인상을 하면서 시장 충격을 완화하는 과정이니 저거 중단으로 일본이 양적완화로 풀악셀 밟을 가능성은 없음.\n\n자료를 보면 추후 다시 양적완화를 축소하는 과정으로 갈 여지도 남겨놨고, 국채매입을 늘릴정도면 그건 이미 일본 장기채가 쇼크가 났을 경우임."
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-16T08:21:00",
+      "topic": "Fed / Rates / Macro",
+      "domains": [
+        "theinformation.com",
+        "n.news.naver.com",
+        "n.news.naver.com"
+      ],
+      "text": "• 퀄컴, AI 칩 기능 확장 위해 텐스토렌트 인수 협상 중\n반도체의 전설, 짐켈러가 세운 스타트업을 퀄컴이 인수협상중이라는 보도.  이 회사는 RISC-V 설계를 기본으로 하며 이는 인텔과 arm의 그늘에서 벗어날수 있음.\nhttps://www.theinformation.com/articles/qualcomm-talks-buy-tenstorrent-expand-ai-chip-capabilities?rc=5x9erh\n\n• LIG D&A, 라인메탈과 합작사 추진…유럽 다층 방공체계 구축\n한국기업이 유럽을 뚫는걸 넘어 합작사까지 한다는게 약간 새로운 지평을 연듯. 이 합작사는 나토의 무기 수급을 맡을 가능성이 높다고 생각함.\nhttps://n.news.naver.com/mnews/article/008/0005372375?sid=101\n\n• 최태원·노소영 '세기의 재산분할' 조정 무산…26일 변론 재개(종합)\n결국 조정이 무산되어 다시 재판으로 돌아가게 됨. SK입장에서는 이 재산분할으로 지배권이 흔들릴수도 있는 이슈인 만큼. 계속 체크해야될 부분\nhttps://n.news.naver.com/mnews/article/001/0016139888?sid=102\n\n• 머독의 폭스, 스트리밍 플랫폼 '로쿠' 30조원대 인수\n로쿠가 결국 인수당하는 엔딩. 한때 성장주로 많은 주목을 받았으나 인수 대상이 됐네요. 결국 시장에서 성장을 증명하지…"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-16T07:44:59",
+      "topic": "Fed / Rates / Macro",
+      "domains": [],
+      "text": "[TIME ETF Morning Brief 2026.06.16]\nDOW +0.9%, S&P500 +1.7%, NASDAQ +3.1%\n\n■ 호르무즈 해협 Reopen 기대로 미증시 상승!\n미국과 이란이 오는 19일 종전 양해각서(MOU)에 서명을 한다는 소식이 전해지면서 호르무즈 해협의 재개방 기대로 WTI 유가가 81달러로 하락. 미증시는 유가 하락에 환호하며 3대 증시가 모두 상승. WSJ에서는 호르무즈 해협의 개방으로 미증시가 추가 상승 가능성이 있다고 언급\n\n■ 16일 BOJ 금리 인상 전망\n금일 16일 일본 중앙은행은 기준금리를 0.75%에서 1.0%로 인상할 것으로 전망. 일본이 1%대 금리로 복귀하는 것은 1995년 이후 처음. 우에다 가즈오 BOJ 총재가 입원중이라 총재 없이 열리는 이번회의는 만장일치로 금리 인상이 예상되고 있음. 이코노미스트들은 향후 10월이나 12월 추가 인상으로 연말에는 1.25%에 이를것으로 추정중. \n\n■ 엔비디아 회사채 발행 소식\n엔비디아가 AI투자를 위해 250억달러(약 37.8조원)에 달하는 회사채를 발행한다고 발표. 투자자들 주문이 850억달러가 몰리면서 인기. 엔비디아는 최근 인텔, 앤트로픽, 마벨 등에 투자를 집행하며 AI 투자를 이어가고 있어 이번 자금조달 역시 AI관련 투자열기가 식지 않고 있음을 반증. \n\n———————-\n\n■ 주요 종목\n\n» Space X(+19.6%)\nIPO…"
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-12T15:00:48",
+      "topic": "Trump 2.0 / US Policy",
+      "domains": [
+        "n.news.naver.com",
+        "n.news.naver.com",
+        "n.news.naver.com"
+      ],
+      "text": "이거 관련해서 오전에 이란은 합의문 부정했다 뭐시기 이런 뉴스가 많이 나왔었는데 싸움 끝이 임박했다면 우위에 있는 쪽 말 들으면 됨. 트럼프가 말만 떠든게 아니라 공격까지 직전에 멈춘거라면 이유가 있겠지 정도.\n예) 미중 무역협정 2시간 전까지도 공식적으론 서로 합의 없다 그랬었음.\n\nhttps://n.news.naver.com/mnews/article/003/0014003804?rc=N&ntype=RANKING&sid=104"
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-12T09:18:25",
+      "topic": "Trump 2.0 / US Policy",
+      "domains": [
+        "yna.co.kr",
+        "n.news.naver.com",
+        "n.news.naver.com"
+      ],
+      "text": "• 트럼프 \"이란과 문서 최종조율 단계…아마 주말 유럽서 서명식\"\n합의에 이르렀다는 내용. 하지만 단계적 협의일 가능성이 높다고 개인적으로 판단. 주말에 서명식이 있다면 우라늄 합의까지 이뤄냈는지 여부를 확인해보면 될듯.\nhttps://www.yna.co.kr/view/AKR20260612009300071\n\n• 트럼프 이란전 길어지자…美 전략비축유, 43년 만에 최저 눈앞\n이 물량은 언젠가 다시 채워야될 물량. 그래서 유가의 하방이 어느정도 막혀있지 않나 싶음.\nhttps://n.news.naver.com/article/003/0014001709?sid=104\n\n• \"달러 즉시 환전해달라\"…정부, 삼성·SK 등 만나 SOS\n미국에 투자를 진행해야되는 기업들 특성상 쉽지 않은 요구인데. 기업들이 이걸 해주기는 쉽지 않음 + 그만큼 지금 정부가 환율에 대해 조금 불안한듯\nhttps://n.news.naver.com/mnews/article/018/0006303709?sid=101\n\n• 서울 아파트 전세 상승률 10년 만에 최대...동탄 집값 1.98%↑\n이로써 정부의 부동산 대책 전 가격으로 돌아갔습니다. 그리고 이건 전세만의 문제가 아님.\nhttps://n.news.naver.com/mnews/article/052/0002365200?sid=101"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-12T06:58:45",
+      "topic": "Trump 2.0 / US Policy",
+      "domains": [],
+      "text": "[TIME ETF Morning Brief 2026.06.12]\nDOW +1.86%, S&P500 +1.75%, NASDAQ +2.54%\n\n■ 중동 리스크 완화 기대에 강한 반등\n미 증시는 미국의 이란 추가 공습 보류와 협상 진전 기대가 부각되며 강한 반등. 트럼프가 조만간 이란과의 협상 관련 서명이 가능하다고 언급하면서 확전 우려가 완화. 호르무즈 봉쇄 리스크가 낮아지고 국제유가가 급락하며 투심 회복. 기술주와 반도체, 산업재, 소재 업종 중심으로 매수세가 유입, SOX +7.9%\n\n■ PPI 부담에도 국채금리 하락\n5월 생산자물가는 에너지 가격 영향으로 예상치를 상회. 다만 음식과 에너지를 제외한 근원 지표는 예상보다 낮게 나오며 물가 압력이 전방위로 확산됐다는 우려는 제한. 시장은 물가 지표보다 유가 하락과 중동 리스크 완화 가능성에 더 크게 반응했고, 이에 국채금리는 전 구간에서 하락.\n\n■ SpaceX를 기다리며\nSpaceX는 주당 135달러에 공모가를 확정하며 역대 최대 규모 IPO에 성공. 공모가 기준 기업가치는 약 1.77조 달러 수준으로 평가됐고, 개인투자자 수요도 강했던 것으로 알려짐. 상장 이후 지수 편입 및 패시브 자금 유입 기대가 더해지며 우주항공·위성통신 관련주 전반의 투자심리 개선으로 연결. 다만 유통 가능 물량이 제한적인 만큼 초기 주가 변동성은 클 수 있음.\n\n———————-\n\n■ 주요 종목\n\n»…"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-11T07:14:52",
+      "topic": "Trump 2.0 / US Policy",
+      "domains": [
+        "ft.com",
+        "ft.com"
+      ],
+      "text": "록히드마틴, PAC-3 증산에도 동맹국 공급 불확실\n\n록히드마틴 고위 임원이 PAC-3 요격미사일 생산능력 확대에도 불구하고, 미국 동맹국들이 실제 물량을 언제 받을 수 있을지는 확답하기 어렵다고 밝혔다.\n\n록히드마틴은 공급 부족이 심화되는 가운데 PAC-3 생산 확대를 추진하고 있다. 회사 측은 추가 생산능력이 여러 사용자들의 수요를 더 빠르게 충족하는 데 도움이 될 것이라고 설명했다.\n\n다만 미사일 배분은 록히드마틴이 통제하지 않는다는 입장이다. 회사 측은 “어느 국가가 우선순위 명단의 어디에 위치하게 될지 말해줄 수 없다”며, 현재 미 국방부 내에서 누가 먼저 받을지를 두고 우선순위 재조정 논의가 오가고 있다고 전했다. 결국 PAC-3 공급 시점은 생산업체가 아니라 미국 정부의 배분 판단과 해외 판매 통제에 좌우될 수 있다는 의미다.\n\nPAC-3는 걸프 지역 분쟁 이전부터 수요가 높았던 핵심 방공 미사일이다. 우크라이나에도 필수적인 무기로 평가되며, 고속 탄도미사일과 순항미사일 방어에 효과적인 것으로 입증됐다.\n\n한편 트럼프 대통령의 백악관 복귀 이후 많은 유럽 국가들은 미국 방산 기술 의존도를 낮추려는 움직임을 보이고 있다.\n\n- 출처: FT"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-11T06:53:38",
+      "topic": "Trump 2.0 / US Policy",
+      "domains": [
+        "n.news.naver.com",
+        "n.news.naver.com"
+      ],
+      "text": "\"트럼프, 방산업체 대표들 주중 소집해 신속 무기증산 요구할듯\"\n\nNBC는 \"약 7개 방산업체 대표는 국방부를 위한 무기 생산을 신속히 늘릴 방안을 마련하라는 압박을 받을 것으로 보인다\"고 전했다.\n\nNBC는 백악관 관계자가 \"현재로선 대통령 일정에 방산업체 대표들과 회의가 없다\"고 밝힌 점으로 미뤄 회의 일정이 변경되거나 취소될 가능성도 있다고 전했다."
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-11T21:10:17",
+      "topic": "US Semis / AI Chips",
+      "domains": [
+        "theinformation.com",
+        "theinformation.com",
+        "theinformation.com"
+      ],
+      "text": "구글, 생산 능력 부족에 직면해 차세대 AI 칩 공급업체로 삼성 고려중 - 더인포메이션\n\n이 칩은 28년 양산될 구글의 차세대 칩인데 TSMC가 지금 생산 여력이 빡빡하니 삼전과 트슴에게 생산 물량을 분배하는 걸 고려중. 즉, 핵심 부분은 트슴이 1.4나노로 제작. 메인 프로세서와 메모리를 연결하는 메모리 입출력 다이를 삼전이 2나노로 제작하는 방식.\n\nhttps://www.theinformation.com/articles/google-turns-samsung-future-ai-chip-capacity-tightens?rc=5x9erh"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-11T21:06:22",
+      "topic": "US Semis / AI Chips",
+      "domains": [],
+      "text": "구글 차세대 TPU, 삼성 2나노 공정 활용 검토\n\nThe information에 따르면 구글이 차세대 AI 칩인 10세대 TPU ‘Icefish’ 일부 생산을 삼성전자에 맡기는 방안을 검토 중.\n\n핵심 연산 엔진은 TSMC의 1.4나노 공정으로 생산하고, 삼성은 메모리와 프로세서를 연결하는 메모리 I/O 다이를 2나노 공정으로 맡을 가능성.\n\n구글은 기존 TPU를 주로 TSMC에 맡겨왔지만, 엔비디아 AI 칩 수요로 TSMC 생산능력이 부족해지면서 공급처 다변화를 추진하는 모습.\n\nIcefish는 이르면 2028년 양산될 수 있으며, 아직 설계 단계라 계획은 변경 가능. 구글은 미디어텍과 설계를 진행 중.\n\n삼성 입장에서는 첨단 파운드리 경쟁력을 입증할 기회. 테슬라 AI6, 엔비디아 차세대 LPU에 이어 구글 TPU 일부까지 맡게 될 경우 AI 칩 파운드리 레퍼런스가 크게 강화될 수 있음.\n\n이번 사례는 AI 반도체 병목이 TSMC 단독 의존 구조를 흔들고 있으며, 메모리와 첨단 제조 역량을 가진 한국 반도체 기업들의 전략적 중요성이 커지고 있음을 보여줌.\n\n- 출처: The information"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-11T12:47:30",
+      "topic": "US Semis / AI Chips",
+      "domains": [
+        "tomshardware.com",
+        "tomshardware.com"
+      ],
+      "text": "다만 Tom's Hardware의 후속 보도에서는 국산 AI 칩과 HBM 공급 부족이 핵심 병목으로 지적됨. \n\n① 국산 AI 칩 \n80% 국산 조달 요건은 사실상 엔비디아·AMD 사용을 제한하는 만큼, 중국 AI 인프라 확장 속도는 SMIC의 칩 생산능력에 좌우될 가능성. SMIC의 7나노급 N+2 공정은 이미 93% 이상의 높은 가동률을 보이고 있어 추가 여력이 제한적.\n\n② HBM\n중국 내 HBM 공급이 부족해 화웨이 Ascend급 가속기 생산량이 제한될 수 있으며, 중국 업체들이 2030년에도 자국 AI 칩 수요를 모두 충족하지 못할 가능성이 언급됨.\n\n중국은 이미 데이터센터 국산 칩 조달 요건을 강화하고 국가 자금 투입 프로젝트에서 외국산 AI 가속기 사용을 제한하고 있음.\n\n이번 계획은 중국의 AI 인프라 자립 의지를 보여주지만, 2028년 완공 목표는 SMIC 생산능력, HBM 공급 부족, 국산 AI 칩 성능 한계에 따라 지연되거나 속도 조절이 불가피할 수 있다는 평가도.\n\n- 출처: Tom's Hardware"
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-11T11:01:13",
+      "topic": "US Semis / AI Chips",
+      "domains": [
+        "n.news.naver.com",
+        "n.news.naver.com",
+        "theinformation.com"
+      ],
+      "text": "• SK, 日에 차세대 AI 데이터센터 짓는다…반도체 공장도 검토\n엔비디아 협력보다 더 중요한건 ai팩토리이고, 최태원 회장이 직접 일본에 반도체 공장도 검토하겠다고 한게 주요 포인트.\nhttps://n.news.naver.com/mnews/article/014/0005533480?sid=104\n\n• 오라클, AI인프라에 30조원 추가 조달…주가 급락\n생각보다 훨씬 좋은 실적이였음. 확실히 개선시점이라는건 확인했으나 문제는 추가로 400억 달러를 조달한다고 밝힘. 이는 채권과 200억 달러 규모의 신주발행. \nhttps://n.news.naver.com/mnews/article/374/0000515352?sid=104\n\n• 오픈AI, 새로운 AI 모델 개발 중. 내년 안에 기업공개(IPO) 예상\n올해안이 아니라 내년까지 타임프레임을 제시한건 꽤 의외. 너네 돈 없잖아. 뭐 필요시 상장 시점이 앞당겨질수도 있다는 전제조건을 달긴했음. 하지만 이러면 소뱅이 오픈ai 상장시 일부 차익실현을 계획했던게 꼬여버리는 만큼 소뱅이 상장을 요구할수도?\nhttps://www.theinformation.com/briefings/exclusive-openai-preps-new-ai-model-expects-go-public-within-next-year?rc=5x9erh\n\n• '챗GPT' 오픈AI, 대폭 가격 인하 검토‥이용자 확보 경쟁 대비\n사용자…"
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-10T11:19:58",
+      "topic": "US Semis / AI Chips",
+      "domains": [],
+      "text": "아직 올해꺼가 안나와서 작년꺼로 보자면 소뱅의 장부에서 가장 가치있는 자산이자, 유동성이 높은 자산은 ARM.\n\n이게 지금 작년 5월 말대비 3배 정도 뛰었다가 조정중임. 소뱅 입장에서 돈이 급하면 이거를 활용할 방법을 고민할 것임.\n\nARM 지분을 담보로 현금조달한것도 있긴한데 이렇게 고점에서 다시 지분담보 대출받으면 주가하락시 강제매도가 나올수도 있으니 일부 차익실현방식을 택할 수도 있음."
+    },
+    {
+      "channel": "맹구맹구의 주식공방",
+      "date": "2026-06-15T10:07:33",
+      "topic": "Earnings / Guidance",
+      "domains": [],
+      "text": "스페이스X가 지난 금요일에 상장함 이와 관련해서 잠깐 이야기해보자면,\n\n• 시총 2T가 넘는만큼 (편입하지 않겠다고 밝힌 S&P500을 제외하고) 대부분의 ETF에서 스페이스x를 편입해야됨. 나스닥의 경우 15 거래일 이후에 편입될 예정인 만큼 저때까지 etf 운용사들의 강제매수가 진행될 예정\n• 또한 대부분의 개인투자자들도 15~30일전에 주식 매도시 추후 IPO에서 불이익 조항이 있음. 그리고 이들은 1주 정도 받은만큼 주가 상승시 추가매수를 할 가능성이 높음\n• 스페이스X의 유통물량이 적은만큼 이러한 etf 강제매수와 개인투자자들의 FOMO 매수는 주가 하락을 방지 또는 상승 여력이 있다고 보임.\n• 하지만 스페이스X는 다른 기업들과 다르게 내부자 보호예수가 업계 표준인 180일보다 훨씬 짧음. 자세한건 아래 조항 5개\n1) 2분기 실적 직후 보호예수 대상자는 보호주식의 20%를 매각 가능\n2) 분기 실적 발표 뒤 10거래일중 최소 5일동안 IPO 가격대비 30% 이상 상승헀을 경우 보유주식의 10%를 추가매도할 수 있음.\n3) IPO이후 70일, 90일, 105일, 120일, 135일이 지나면 각각 추가로 보유주식의 7%를 매도할 수 있음.\n4) 3분기 실적발표 직후 보유주식의 28%를 추가로 매도할 수 있음\n5) 상장후 180일 이후엔 모든 보호주식 매도가능\n• 대부분의 물량이 3분기에 집중되어 있고 S&P500의 편입은…"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-11T12:15:54",
+      "topic": "Earnings / Guidance",
+      "domains": [
+        "wsj.com",
+        "wsj.com"
+      ],
+      "text": "OpenAI, Anthropic과의 경쟁 속 토큰 가격 인하 검토\n\nOpenAI가 Anthropic과의 기업 고객 확보 경쟁에 대비해 토큰 가격을 대폭 낮추는 방안을 검토 중이라는 WSJ의 보도.\n\nAnthropic 또한 유사한 가격 인하에 나설 가능성이 있다고 보고 선제 대응을 준비하는 모습.\n\n샘 알트먼은 최근 AI 비용이 “큰 문제”가 됐다고 언급했으며, 일부 기업들은 Anthropic 제품 사용 비용을 통제하려는 움직임을 보이고 있음.\n\n이번 가격 인하는 양사 모두에 부담. OpenAI와 Anthropic은 막대한 컴퓨팅 비용으로 이미 수십억달러의 손실을 내고 있어, 토큰 가격 인하는 수익성 압박을 더 키울 수 있다는 분석.\n\n가격 경쟁은 상장을 앞둔 OpenAI와 Anthropic의 비즈니스 모델을 시험하는 초기 변수가 될 수 있음.\n\n두 회사는 신규 AI 서비스 시장의 매출 상당 부분을 차지하며 성장해왔지만, 투자자들은 양사 제품이 서로 대체 가능하고 고객들이 한 회사에서 다른 회사로 쉽게 옮겨갈 수 있다는 점을 근본적 리스크로 보고 있음.\n\n- 출처: WSJ"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-08T06:52:49",
+      "topic": "Earnings / Guidance",
+      "domains": [
+        "barrons.com",
+        "t.co",
+        "barrons.com"
+      ],
+      "text": "금주 주목할 일정(Barron's)\n\n미 증시는 지난주 강한 고용지표로 금리 상승 압력이 재부각되며 급락. 특히 나스닥은 주간 4.7% 하락했고, S&P500도 9주 연속 상승세를 마감. 반도체 등 고성장 기술주에서는 차익실현이 나타났고, 일부 자금은 헬스케어·에너지로 이동.\n\n이번 주 가장 중요한 이벤트는 수요일 CPI와 목요일 PPI 발표. 고용이 견조한 상황에서 물가까지 예상보다 높게 나오면, 연준의 금리 인상 가능성이 더 커질 수 있음. 시장은 이제 AI·기술주 성장 기대보다 금리, 인플레이션, 밸류에이션 부담에 더 민감하게 반응하는 구간.\n\n기업 이벤트로는 오라클 실적이 중요. 최근 AI 인프라와 클라우드 투자 기대가 주가에 많이 반영된 만큼, 실적과 가이던스가 기술주 투자심리에 영향을 줄 수 있음. 어도비 실적도 소프트웨어 업종 분위기를 확인하는 이벤트.\n\n또 하나의 대형 이벤트는 스페이스X IPO. 목요일 공모가 확정, 금요일 나스닥 거래 개시가 예상되며, 조달 규모는 750억 달러, 기업가치는 약 1.8조 달러로 거론. 역사상 최대급 IPO인 만큼 성장주 시장의 수급 부담 요인으로 작용할 수 있음.\n\n- 출처: Barron's, Earnings Whispers"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-07T19:37:29",
+      "topic": "Earnings / Guidance",
+      "domains": [
+        "ft.com",
+        "ft.com"
+      ],
+      "text": "(FT)오픈AI, 챗GPT ‘슈퍼앱’ 전환 추진\n\n오픈AI가 올해 IPO를 앞두고 ChatGPT 출시 이후 최대 규모의 개편을 준비 중. 핵심은 기존 챗봇 중심에서 벗어나, 코딩 도구·AI 에이전트·이미지 생성·외부 앱을 결합한 슈퍼앱으로 전환하는 것.\n\n변화의 배경은 수익성 압박. \n약 10억 명의 사용자를 확보했지만, 대다수는 무료 이용자. 오픈AI는 챗GPT를 고부가가치 제품으로 연결하는 관문으로 활용하고, 유료 전환율이 높은 Codex와 기업용 제품에 더 많은 자원을 투입하려는 전략.\n\n특히 회사 내부에서는 AI의 미래가 단순 질의응답형 챗봇이 아니라, 여행 예약·일정 관리·업무 처리 등을 대신 수행하는 AI 에이전트에 있다고 보고 있음. 한 고위 직원은 “채팅은 죽었다”고 표현.\n\n이번 전략은 기업용 AI 제품에 집중하며 빠르게 성장한 앤트로픽과 유사한 방향. 현재 오픈AI 제품을 쓰는 기업은 약 200만 곳, 기업 고객 매출 비중 약 40%.\n\n- 출처: FT"
+    },
+    {
+      "channel": "TIME ACT!VE ETF",
+      "date": "2026-06-05T07:29:20",
+      "topic": "Earnings / Guidance",
+      "domains": [
+        "reuters.com",
+        "wsj.com",
+        "reuters.com"
+      ],
+      "text": "브로드컴 급락, 문제는 AI 수요보다 높아진 기대치\n\nWSJ는 이번 브로드컴 조정의 핵심이 AI 수요 둔화라기보다, AI 매출의 가시성에 대한 의문이 커진 데 있다고 분석했습니다.\n\n① Anthropic이 기존에 기대됐던 서버 랙 단위 구매보다 칩 중심 구매로 선호를 바꾸면서, 브로드컴이 인식할 수 있는 매출 규모와 시점에 대한 불확실성이 부각됐습니다.\n\n② 여기에 최대 고객인 Google 관련 변수도 더해졌습니다. 브로드컴은 Google 자체 AI 칩인 TPU 생산의 핵심 파트너지만, Google이 MediaTek과도 협력하고 있다는 보도가 나오면서 향후 Google 내 점유율을 기존 수준으로 유지할 수 있을지에 대한 우려가 제기됐습니다. 컨콜에서도 CEO는 Google과의 계약 규모가 “매우 상당한 금액”이라고 강조하면서도, “Google이 일부 공급원을 다변화할 것으로 충분히 예상한다”고 언급했습니다.\n\n③ 다만 Morgan Stanley는 브로드컴이 여전히 Google 관련 AI 칩 물량의 최소 80%는 확보할 것으로 전망하고 있어, 이번 이슈를 AI 수요 둔화나 고객 관계의 구조적 훼손으로 단정하기는 이르다는 평가입니다.\n\n- 출처: WSJ"
+    }
+  ]
+}

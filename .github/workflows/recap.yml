@@ -1,0 +1,94 @@
+name: Recap (daily & weekly)
+
+on:
+  # Manual trigger from the Actions tab
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Which recap to run"
+        type: choice
+        options: [daily, weekly, both]
+        default: both
+  # Daily after the US close — 22:00 UTC ≈ 06:00 SGT next day, 07:00 KST
+  schedule:
+    - cron: "0 22 * * *"
+    # Weekly: Saturday 23:00 UTC ≈ 07:00 SGT Sunday — runs in addition to the
+    # daily cron (both jobs guarded by inputs / a day-of-week check below).
+    - cron: "0 23 * * 6"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Share the Pages deploy lane with deploy.yml; never cancel a deploy mid-flight.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  recap:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt -r requirements-x.txt
+
+      # Pick which mode to run. Manual runs use the input; scheduled runs are
+      # 'daily' on weekdays and 'both' on Saturday (when the weekly cron fires).
+      - name: Decide mode
+        id: decide
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> "$GITHUB_OUTPUT"
+          elif [ "$(date -u +%u)" = "6" ]; then
+            echo "mode=both" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=daily" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Make sure we have today's news + indices before writing the recap.
+      - name: Scrape headlines
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: python scraper.py
+
+      - name: Fetch indices
+        run: python indices.py
+
+      - name: Generate recap
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python recap.py --mode "${{ steps.decide.outputs.mode }}"
+
+      - name: Commit recap artifacts
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/recap_daily.json data/recap_weekly.json data/recap_history/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No recap changes to commit."
+          else
+            git commit -m "Update recap [skip ci]"
+            git pull --rebase --autostash || true
+            git push
+          fi
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
