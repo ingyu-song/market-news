@@ -497,20 +497,52 @@ def heuristic_weekly(history: list[dict]) -> dict:
 
 
 # ----------------------------------------------------------------- writers
+_CHIP_VIA_RE = re.compile(r"\s*\(via [^)]+\)\s*", re.IGNORECASE)
+_CHIP_TRAIL_RE = re.compile(r"\s*(markets|finance|business|news)\s*$", re.IGNORECASE)
+_CHIP_TAIL_SEP_RE = re.compile(r"\s*[·.,—]\s.+$")
+
+
+def source_chip_label(name: str) -> str:
+    """Same publisher-name normalization the frontend uses. Mirrors
+    sourceChipLabel() in app.js so we can dedupe at write time."""
+    if not name:
+        return ""
+    s = name.lower()
+    s = _CHIP_VIA_RE.sub("", s)
+    s = _CHIP_TRAIL_RE.sub("", s)
+    s = _CHIP_TAIL_SEP_RE.sub("", s)
+    return s.strip()
+
+
 def hydrate_story_refs(recap: dict, id_lookup: list[dict]) -> dict:
     """Replace story_ids -> embedded story objects so the frontend doesn't
-    need to know about the index. story_ids that don't resolve are dropped."""
+    need to know about the index. Within each bullet we dedupe by display
+    label (so "CNBC Markets" + "CNBC Finance" collapse to a single `cnbc`
+    chip) and by link (so the same article cited twice never repeats)."""
     def fetch(ids):
         out = []
+        seen_labels: set[str] = set()
+        seen_links: set[str] = set()
         for i in (ids or []):
-            if isinstance(i, int) and 0 <= i < len(id_lookup):
-                s = id_lookup[i]
-                out.append({
-                    "title": s["title"],
-                    "link": s["link"],
-                    "source": s["source"],
-                    "favicon": s["favicon"],
-                })
+            if not (isinstance(i, int) and 0 <= i < len(id_lookup)):
+                continue
+            s = id_lookup[i]
+            label = source_chip_label(s.get("source", ""))
+            link = s.get("link", "")
+            if label and label in seen_labels:
+                continue
+            if link and link in seen_links:
+                continue
+            if label:
+                seen_labels.add(label)
+            if link:
+                seen_links.add(link)
+            out.append({
+                "title": s["title"],
+                "link": s["link"],
+                "source": s["source"],
+                "favicon": s["favicon"],
+            })
         return out
 
     for sec in recap.get("sections", []) or []:
