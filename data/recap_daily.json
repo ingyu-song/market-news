@@ -1,276 +1,65 @@
 {
-  "generated_at": "2026-06-21T15:43:43+00:00",
+  "generated_at": "2026-06-21T23:09:27+00:00",
   "mode": "daily",
   "for_date": "2026-06-21",
-  "headline": "Markets Mixed as Warsh Era Begins, Iran Deal Progresses, and AI Chip Dynamics Shift",
-  "summary": "US indices saw mixed performance with NASDAQ down 1.2% as FOMC caution weighed on tech, while DOW gained 0.6%. Geopolitical tensions eased with progress on a US-Iran peace deal, impacting oil prices. Key developments in AI chips included Google's potential partnership with Samsung and new US export controls on advanced AI models.",
+  "headline": "SpaceX Debuts Strong; Fed Eyes Trimmed Mean PCE; US Curbs Anthropic AI Exports",
+  "summary": "SpaceX IPO saw strong demand, briefly becoming the 4th largest US-listed company by market cap, though broader tech indices declined. The Fed's new Chair, Kevin Warsh, is set to debut at FOMC, with focus on Trimmed Mean PCE and potential rate cut arguments. US imposed export controls on Anthropic's top AI models, citing national security.",
   "sections": [
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "US-Iran peace deal progress eased Middle East tensions and impacted oil markets.",
-          "segments": [
-            {
-              "text": "The US government is reportedly set to waive sanctions on Iranian oil following a peace agreement, with President Trump indicating a signing ceremony could occur in Europe this weekend.",
-              "sources": [
-                {
-                  "title": "Sizing Up Trump’s Iran Deal",
-                  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzJWczlmYktDaW5JYkxLcUh4LVVFN2FFLUxBODROd3AwUGF4NUFGcUhfME04WEwzclpsR1llYVd2TFF4WklFbVNqX2R6MWdlYmJkUGRqajBoZTVlWFBSX2xiQ0lKZkhuX19Da1BBWTl6TWd0SmQySF96ZS14UDU4Mzl0MDd2MzVEMjBpSndnSWpIdkVOUUV5S3lQTDFZMjgtWWoyMHdrSjd4bVNfLUZLaEEwUzlFMVZkNFZoLU1LSmVjazRlZ2F5M1FvdS1EQQ?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
-                  "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "Trump Says U.S. May Impose Tolls In Strait Of Hormuz If Peace Deal Fails",
-                  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaDF2T2JoTlpVSUYxWUFsc25QRmIzX3c2djdZU05nanpMRl9WcGRzX2RzV3hCcVN5UDBYZDA1YUFaMjJZMHRzNFVBRHhaMzNsSk5ySVpYNWE3T0xUZUd6NEVYTzE3eEdKREVFUGY5dXRHVmxsRkNuNC1rUHoyM0xseFZMMnNoRS1MLWMxU3BtVlF1RnIyWEVncUdtdXg0Vy1iSGRleFo5NEhObVZMLXBHd0ZMM19VYnoycUN6VkpRV3BsWUxxcVlz?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
-                  "link": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "This de-escalation led to a drop in WTI crude to $81 and a broad market rally on expectations of Hormuz Strait reopening.",
-              "sources": [
-                {
-                  "title": "Oil Glut Bets Are Back in Play as Crude Sinks After US-Iran Deal",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUU9BclVjaUpGbENJNlFGaWhKd2M1SzE2czZRcGJza0RBZ2FQOHJ6LXdtejRDV25Ed1lkWTMwMzhQZlhVYm1reS1TcUoxenJQSHhHck15OHpiOUY2ZGlVVTl6Q0c4TXdYNFlpUVFndm5YQW9SX3NPaTI2UkEyejVpX3dFMWhTQ0wtWEhzQTBHVFBrTTRTNWloaFRRV0d1NDZOcXp6OHZPQ2lKcnExNjFVd1VESzZmZw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
-                  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa005aHFiRnFPT0lhdUYwazVqbHV2cEhrTWJHWFVEZDhBWlpzNEtzRFptdVZsRkpwcnQ0ZVVfNXh5aE1JR202NGpWX3liaE1aeE4ybk5oRUhwLUJFWTNPOTdfMHRxMkM5bllwRDdVcXBLbUVCSDhKTEpCQS1rcERlUW9YLTBHZEQzYVRPanVKUFlpMHo1M1hpOTdvYlp6b0lUVk5OT2FXT196RjEwZ2dBRGxpNERROG5QOFVVVGlzWGcwMU1NNWE2X1FR?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound",
-                  "link": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "Deal or no deal, oil prices will stay volatile for months",
-                  "link": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-volatile-for-months",
-                  "source": "The Economist Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The US government has initiated export controls on Anthropic's advanced AI models.",
-          "segments": [
-            {
-              "text": "Anthropic's top-tier AI models, Mythos 5 and Fable 5, have been blocked from access by foreign governments, companies, and individuals due to national security concerns, marking the first such intervention by the US government.",
-              "sources": [
-                {
-                  "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
-                  "link": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "This action follows claims of jailbreaking the Mythos model's safeguards, with Amazon CEO Andy Jassy reportedly expressing concerns over the implications.",
-              "sources": [],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "China is aggressively pushing for wider adoption of New Energy Vehicle (NEV) heavy trucks.",
-          "segments": [
-            {
-              "text": "The Chinese Ministry of Transport aims to increase NEV heavy truck penetration to 40% by 2030, up from 29% in 2025, targeting over 1.6 million units in operation.",
-              "sources": [],
-              "x_mentions": []
-            },
-            {
-              "text": "Plans include electrifying over 80% of fixed short-distance transport routes and building 3,000 charging/battery swap stations and 30,000 km of green freight networks, supported by financial incentives and new business models like battery leasing.",
-              "sources": [],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "New Fed Chair Kevin Warsh debuts amid rate cut speculation.",
-          "segments": [
-            {
-              "text": "The new Fed Chair will oversee the FOMC meeting on June 18th (3 AM KST), with market participants anticipating his stance on inflation and potential rate cuts, particularly given President Trump's desire for lower rates.",
-              "sources": [
-                {
-                  "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-                  "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                },
-                {
-                  "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
-                  "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Warsh is expected to emphasize the Trimmed Mean PCE, which excludes volatile price changes, as a key inflation metric, though the broader impact of oil prices may complicate immediate rate cut decisions.",
-              "sources": [
-                {
-                  "title": "Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn",
-                  "link": "https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
-                  "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                },
-                {
-                  "title": "Inflation unexpectedly steady as food price rises slow",
-                  "link": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The Bank of Japan is expected to raise its benchmark interest rate.",
-          "segments": [
-            {
-              "text": "The BOJ is projected to increase rates from 0.75% to 1.0% today, marking the first time Japan's rates have reached 1% since 1995, with economists forecasting further hikes to 1.25% by year-end.",
-              "sources": [],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "May Producer Price Index (PPI) data showed mixed signals for inflation.",
-          "segments": [
-            {
-              "text": "While headline PPI surpassed forecasts due to energy prices, the core measure, excluding food and energy, came in lower than expected, alleviating concerns of widespread inflationary pressures.",
-              "sources": [
-                {
-                  "title": "Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn",
-                  "link": "https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "Inflation unexpectedly steady as food price rises slow",
-                  "link": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Markets reacted positively to the contained core inflation and easing Middle East risks, leading to a decline in Treasury yields across all maturities.",
-              "sources": [],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
     {
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Google is exploring Samsung's 2nm process for its future AI chips.",
+          "lead": "Google diversifies TPU production amid TSMC capacity constraints.",
           "segments": [
             {
-              "text": "The Information reports Google is considering Samsung Electronics for partial production of its 10th-generation TPU 'Icefish,' specifically for the 2nm memory I/O die, while TSMC would handle the 1.4nm core.",
-              "sources": [
-                {
-                  "title": "Why Google Star AI Researcher Joined OpenAI, New OpenClaw Competitor, Amazon’s AI Chip Advantage",
-                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTW9WNmVQMTh6WmNCNUZxdldvSy1OalRKOTBtYkZEX2cyNnQ0T0hEZkZIam9yYUp5UDJRbm5RRzYyQTNNSWtxeWo2MlRMT1hNTmRJ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
+              "text": "Google is reportedly considering Samsung for partial production of its 10th-gen TPU 'Icefish', leveraging Samsung's 2nm process for memory I/O dies, while TSMC handles the 1.4nm core engine, driven by TSMC's capacity constraints from Nvidia AI chip demand.",
+              "sources": [],
               "x_mentions": []
             },
             {
-              "text": "This potential diversification stems from TSMC's tight production capacity, driven by high demand for Nvidia's AI chips, offering Samsung a significant opportunity to strengthen its advanced foundry references.",
+              "text": "This move could significantly strengthen Samsung's AI chip foundry references, following Tesla AI6 and Nvidia's next-gen LPU.",
               "sources": [
                 {
-                  "title": "What Will Nvidia Stock's Price Be in 1 Year?",
-                  "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-price-1-152000444.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Qualcomm is reportedly negotiating to acquire AI chip startup Tenstorrent.",
-          "segments": [
-            {
-              "text": "The potential acquisition of Jim Keller's RISC-V based Tenstorrent would allow Qualcomm to expand its AI chip capabilities and reduce reliance on Intel and ARM architectures.",
-              "sources": [],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "China's ambitious AI infrastructure self-reliance plan faces significant hurdles.",
-          "segments": [
-            {
-              "text": "Tom's Hardware highlights critical bottlenecks, including the 80% domestic sourcing requirement for AI chips, which strains SMIC's 7nm N+2 process already operating at over 93% utilization.",
-              "sources": [
-                {
-                  "title": "US raises alarm over possible EUV machine in China, putting ASML on the defensive",
-                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTBPM09Fc1dldzU2LWNFdE5sQWpWTldzeTRfd21jUDhmTFJqMklaNlNINGY3MmNUU1JzRlJnX0cxZ0I3Qk1fRWhYcE15OU4tc0tUUEZyS1gtS0JRandKS2NGNkRLcld1RDBkZVhjTWU5ZXdRejFXN2xSMVVOdGVpTVVOMXdsNWkzbnVz?oc=5",
+                  "title": "FPGA firm Efinix lines up TSMC Japan fab as edge AI business grows",
+                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanhBMmFSUFJKVjNiR3NWVXFaVEFSQUZ3dlcwUXhZbm95X2laYTRIdVdUcE9JSDFQd1AxbUtYeWxBRE16d0MyZUpfZndmWkhqUmtldnRwNjVRbFQzb3VjcTkwazlNd1VQck9sTHNfOXF0bUlXczFHa3QtZFJxckY0bzJ6YmZpbUVQemc?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "Qualcomm is in talks to acquire Tenstorrent.",
+          "segments": [
             {
-              "text": "A shortage of HBM supply within China and limitations in domestic AI chip performance suggest the country may not meet its AI chip demand by 2030, potentially delaying its 2028 infrastructure completion target.",
+              "text": "Qualcomm is reportedly negotiating to acquire Tenstorrent, a RISC-V startup founded by Jim Keller, to expand its AI chip capabilities, potentially offering an alternative to Intel and ARM architectures.",
               "sources": [],
               "x_mentions": []
             }
           ]
         },
         {
-          "lead": "The AI sector is driving a supercycle in memory and advanced interconnect technologies.",
+          "lead": "China's AI chip self-sufficiency faces significant hurdles.",
           "segments": [
             {
-              "text": "The market is seeing strong demand for 1.6T optical transceivers, Co-Packaged Optics (CPO), and Electro-optic Light Source (ELSFP) technologies, essential for overcoming bandwidth bottlenecks in high-performance computing.",
+              "text": "China's mandate for 80% domestic AI chip procurement effectively limits Nvidia and AMD usage, making its AI infrastructure expansion dependent on SMIC's 7nm N+2 process, which already operates at over 93% utilization.",
+              "sources": [],
+              "x_mentions": []
+            },
+            {
+              "text": "Furthermore, a shortage of HBM supply within China could constrain Huawei Ascend accelerator production, with Chinese firms potentially unable to meet domestic AI chip demand by 2030.",
+              "sources": [],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AI optical interconnects and advanced packaging gain traction.",
+          "segments": [
+            {
+              "text": "The market is seeing significant advancements and demand in optical transceivers, including 1.6T, Co-Packaged Optics (CPO), and Electro-optic Light Source (ELSFP) technologies, while advanced packaging, including glass substrates and Through-Glass Via (TGV) technology, is becoming critical for overcoming bandwidth bottlenecks and yield issues in high-performance computing.",
               "sources": [],
               "x_mentions": [
                 {
@@ -296,11 +85,294 @@
                 {
                   "handle": "@vlmkapital",
                   "url": "https://x.com/vlmkapital/status/2068053772304031850"
+                },
+                {
+                  "handle": "@ParadisLabs",
+                  "url": "https://x.com/ParadisLabs/status/2068288936405848557"
+                },
+                {
+                  "handle": "@latent_value7",
+                  "url": "https://x.com/latent_value7/status/2067984810421739531"
+                },
+                {
+                  "handle": "@rwang07",
+                  "url": "https://x.com/rwang07/status/2068534947766509620"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "New Fed Chair Kevin Warsh is set to debut amid rate cut pressure.",
+          "segments": [
+            {
+              "text": "Kevin Warsh will chair his first FOMC meeting on June 18, facing pressure from President Trump for rate cuts and market concerns about a potential \"Fed taming\" period post-inauguration.",
+              "sources": [
+                {
+                  "title": "Opinion | Kevin Warsh Returns the Fed to a More Disciplined Model",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2xpU09Hdy1aTlB4THRLam1ZSDBaTGN5WUpSTDFmQmg1MkNKZG5uMFRlOGJtSWwtQ0k4WXpTU3lTakxPTXdqUkJLaTVFSFI2UDEyRGhWN0lRSzBvTmNjNDhEMFdCVzBOeFB6MWVSSXVxWkdlb1VvVFJteUJ5dWpxMzdLNUlycThLYzZsbGUzdWNGSFdsSFZJ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Warsh Fed Era Heralds a New Trial for Asian Currencies",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzNVWnZYc3NFQ2ZUam1fUE5FMzFMYUJlYWdxM1Zmb3NfZ0tpdHM1bUVlRWNwc1JsZlJ3dmRZRUZKam9nYUZTNllaTXh6TXZuV240dFZyVE1BejNEMlRFN0xGN3A4MmtXYlMxY0NWOWRHU0xKMXRKWDdRZDgyeDNSVzFzb3NMbkRfbmRhQ3ZpQkYzRXFZTTlraW5HUlBobVBkUm0tZER4dkZaREpH?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn",
+                  "link": "https://www.ft.com/content/6a9330ad-a2db-494b-bf61-7dd417ab9c9a",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
+                  "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             },
             {
-              "text": "This demand, coupled with undersupply, is fueling significant year-over-year price increases for DRAM, Flash, and HBM, indicating a robust memory market supercycle.",
+              "text": "Warsh is expected to emphasize the Trimmed Mean PCE, which excludes volatile price movements, as a basis for advocating rate reductions, despite the broader impact of oil prices on overall inflation.",
+              "sources": [
+                {
+                  "title": "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFBTYUJfM1ZMQ2t0aURxTm5RNjRTVUhWdUEwRmxLVUVEUXlHU19VYVdfSWxTd19ZSllheXZvd1J5TE9JMFByQ3d4YV90cEZfS21MMjFhY2pxcmtGQW93bXBraVlCMkU1WVN3cE0tbVdNSEctczF5UHFZTHViS2ZYeE9EZHotMC1BRVR3a3dkdU1QejhvakNZbFkyUVhDM2Q3enllcGtITUZQNU5rQXA4?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "BOJ hikes rates to 1.0%.",
+          "segments": [
+            {
+              "text": "The Bank of Japan is expected to raise its benchmark interest rate from 0.75% to 1.0% today, marking the first time it has reached 1% since 1995, with economists anticipating further increases to 1.25% by year-end.",
+              "sources": [],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Oil prices drop on Hormuz reopening hopes.",
+          "segments": [
+            {
+              "text": "WTI crude prices fell to $81 following news of a US-Iran Memorandum of Understanding (MOU) signing on June 19, raising expectations for the reopening of the Strait of Hormuz and boosting global financial markets.",
+              "sources": [
+                {
+                  "title": "Stock market today: S&P 500, Nasdaq, Dow futures slide with US-Iran peace and inflation in focus",
+                  "link": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-22-225817825.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFBTYUJfM1ZMQ2t0aURxTm5RNjRTVUhWdUEwRmxLVUVEUXlHU19VYVdfSWxTd19ZSllheXZvd1J5TE9JMFByQ3d4YV90cEZfS21MMjFhY2pxcmtGQW93bXBraVlCMkU1WVN3cE0tbVdNSEctczF5UHFZTHViS2ZYeE9EZHotMC1BRVR3a3dkdU1QejhvakNZbFkyUVhDM2Q3enllcGtITUZQNU5rQXA4?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Brent oil rises more than $1/bbl after bumpy start to US-Iran peace talks",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDktZEMyRnJ6ZUlaRUlUT3U2c0ZhTFluQm5kWHI3YkdBRTc0QVM0XzVYUHJmdGhzZUJMZ2pHTVdhclpUVVdBdUZ0dktUVUZ0SHpnS0UxY3BTMnJDUW10dnlKZEtiYjZvSkRoR3h1NTUyU2xUZ3NXTUlxTFNKemlyd3BLbUhEOGRmYUpfSnFvQ0R0c2tIMUowUDFRdXJyc2E3bXU1QTEwa3pKUldDRDlVXzR6QkxmNmpoQVk1Sw?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
+                  "link": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Despite May Producer Price Index (PPI) exceeding expectations due to energy costs, core PPI came in lower, mitigating concerns about widespread inflationary pressures.",
+              "sources": [],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "US imposes AI export controls on Anthropic models.",
+          "segments": [
+            {
+              "text": "The US government has implemented export controls on Anthropic's top-tier AI models, Mythos 5 and Fable 5, restricting foreign access due to national security concerns, marking the first instance of government intervention on AI models.",
+              "sources": [
+                {
+                  "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
+                  "link": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "This action follows claims that a company was able to \"jailbreak\" the Mythos model's safeguards, prompting the Commerce Secretary to issue a letter to Anthropic.",
+              "sources": [],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China accelerates NEV heavy truck adoption.",
+          "segments": [
+            {
+              "text": "China's Ministry of Transport aims to increase NEV heavy truck penetration to 40% by 2030, up from 29% in 2025, targeting over 1.6 million units in operation.",
+              "sources": [],
+              "x_mentions": []
+            },
+            {
+              "text": "The plan includes establishing 3,000 charging/battery swap stations and a 30,000 km green freight network, supported by financial incentives and new business models like battery leasing.",
+              "sources": [],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US-Iran peace talks progress, causing oil price volatility.",
+          "segments": [
+            {
+              "text": "President Trump indicated that an agreement with Iran is in its final stages, with a signing ceremony possibly occurring in Europe this weekend, leading to initial drops in oil prices.",
+              "sources": [
+                {
+                  "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2FiMFU4dlRLcmFxWjNReTI2SlJKSk01c01TVkZJd0ZnaTFmeEhOVkZDUVhtb1FVMXZUYWF3QW0tbnVyRHJIdlFlNFEzS2s5XzNTdkYtdU5NbktJRTdnVHIyLUdodm9pdDNWcmVic3hOTDYzWi1nWEhIVG9KemJ0VUNCS3NKRk90SktMZVYzSEU4R1E5UU5fWVVpU0t2OTA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Sizing Up Trump’s Iran Deal",
+                  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzJWczlmYktDaW5JYkxLcUh4LVVFN2FFLUxBODROd3AwUGF4NUFGcUhfME04WEwzclpsR1llYVd2TFF4WklFbVNqX2R6MWdlYmJkUGRqajBoZTVlWFBSX2xiQ0lKZkhuX19Da1BBWTl6TWd0SmQySF96ZS14UDU4Mzl0MDd2MzVEMjBpSndnSWpIdkVOUUV5S3lQTDFZMjgtWWoyMHdrSjd4bVNfLUZLaEEwUzlFMVZkNFZoLU1LSmVjazRlZ2F5M1FvdS1EQQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
+                  "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "However, oil prices later climbed amid renewed threats from Trump and uncertainty over the Strait of Hormuz, with US strategic oil reserves nearing a 43-year low.",
+              "sources": [
+                {
+                  "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2FiMFU4dlRLcmFxWjNReTI2SlJKSk01c01TVkZJd0ZnaTFmeEhOVkZDUVhtb1FVMXZUYWF3QW0tbnVyRHJIdlFlNFEzS2s5XzNTdkYtdU5NbktJRTdnVHIyLUdodm9pdDNWcmVic3hOTDYzWi1nWEhIVG9KemJ0VUNCS3NKRk90SktMZVYzSEU4R1E5UU5fWVVpU0t2OTA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Brent oil rises more than $1/bbl after bumpy start to US-Iran peace talks",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDktZEMyRnJ6ZUlaRUlUT3U2c0ZhTFluQm5kWHI3YkdBRTc0QVM0XzVYUHJmdGhzZUJMZ2pHTVdhclpUVVdBdUZ0dktUVUZ0SHpnS0UxY3BTMnJDUW10dnlKZEtiYjZvSkRoR3h1NTUyU2xUZ3NXTUlxTFNKemlyd3BLbUhEOGRmYUpfSnFvQ0R0c2tIMUowUDFRdXJyc2E3bXU1QTEwa3pKUldDRDlVXzR6QkxmNmpoQVk1Sw?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
+                  "link": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "SpaceX IPO debuts strong, but lock-up concerns emerge.",
+          "segments": [
+            {
+              "text": "SpaceX successfully debuted at $160.1, becoming the 6th largest US-listed company by market cap, with expectations for index inclusion (Russell 1000, MSCI, NASDAQ100) by June-July driving passive fund inflows.",
+              "sources": [
+                {
+                  "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+                  "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                },
+                {
+                  "title": "Stocks making the biggest moves premarket: Intel, SpaceX, Micron, Carnival & more",
+                  "link": "https://www.cnbc.com/2026/06/18/stocks-making-the-biggest-moves-premarket-.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "However, the company's lock-up period is shorter than industry standards, with significant portions of protected shares becoming eligible for sale after Q2 earnings, and further unlocks at 70, 90, 105, 120, and 135 days post-IPO, concentrating a large volume of potential sales in Q3.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@wallstengine",
+                  "url": "https://x.com/wallstengine/status/2068025890299322852"
+                },
+                {
+                  "handle": "@Yeah_Dave",
+                  "url": "https://x.com/Yeah_Dave/status/2067693860340609530"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "OpenAI and Anthropic face price war pressures.",
+          "segments": [
+            {
+              "text": "OpenAI is reportedly considering substantial token price reductions to compete with Anthropic for enterprise clients, a move that could further strain profitability for both companies given their already significant compute costs and billions in losses.",
+              "sources": [
+                {
+                  "title": "Accenture Stock Falls 18% as Lower Revenue Projection Feeds AI Fears",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXJuRGRfOXVxQW5jWXpkRk5EUFhqdjdpYWxiWFpJTHpsZ0NzVnNGa1RJdElPQ0hIOENidXNsY2NaVEgwN3lfcGV1cHJsMkZMV1JROTFZOV91N2ZrVmV1NHhUZFJBd2tRNXRMdTh4bTF2VUlCU2lyc3FBYUtQMHVWck03NEJ6WDJsOWRpa3RjWENkb0x6QkZEYmZjU0J5YlFOQVJRMTF4MGk?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The impending price competition will test the business models of both OpenAI and Anthropic as they approach potential IPOs, with investors viewing the substitutability of their products as a fundamental risk.",
+              "sources": [],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
+        {
+          "lead": "The memory market enters a supercycle.",
+          "segments": [
+            {
+              "text": "The memory market is experiencing a supercycle with significant year-over-year price increases for DRAM, Flash, and HBM, driven by strong AI demand and undersupply, with hyperscalers being key drivers.",
               "sources": [],
               "x_mentions": [
                 {
@@ -332,56 +404,65 @@
                   "url": "https://x.com/citrini/status/2068542531042709996"
                 }
               ]
+            },
+            {
+              "text": "Taiwan memory chip designers are poised for a 245% revenue jump due to surging AI storage demand.",
+              "sources": [
+                {
+                  "title": "Taiwan memory chip designers set for 245% revenue jump on AI storage demand",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNi1RWHA4Y2UyQUtNLXp1MGxKOE90bjRnM19CaEo4bTdOZG9WbXlndGIyREplZlJvM2pGUjgzcGlxM0NQSTlrWlhVSWJFcF80RjNBeXlaOVAzeGdFMTNPMHZtMTBZSGVyTjRzZjMybktLZzYyZnJEakpFUEVNai1RT0xpR3lYUXJUUV96bDF6dU9RdE9ZcGlUX1M1QTJmQ0hUemd3LVFZa0dEb1JobGFn?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "SK Hynix discusses US HBM supply and investment.",
+          "segments": [
+            {
+              "text": "SK Hynix reportedly held discussions in the US regarding HBM supply and potential local investment plans, as the company navigates the high demand for advanced memory solutions.",
+              "sources": [
+                {
+                  "title": "SK Hynix reportedly held U.S. talks on HBM supply and local investment plans",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXVzbDZ6blprenZqM1JfaEFtcW8yVVlHbG42QWNlN0tnNjgwZHlSRTc3TXZtTTB1Y3kyeEgxWEFNSlBGaHhHMzdYYkxwcVc5R0xicHNQS1dGcFk0YmZxV0RrSmxQanRqTjZnNzZuZ0s4c2hYSmE3azBDYzUtUFdTTXNSRnJRNVpDX0VYY2hxcmJ1OVRXSjh1RnFjWFo3dw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
       ]
     },
     {
-      "label": "Earnings / Guidance",
+      "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "SpaceX successfully completed its IPO, attracting significant investor attention.",
+          "lead": "OpenAI pivots to a superapp strategy.",
           "segments": [
             {
-              "text": "The company debuted at $160.1 per share, achieving a market capitalization that places it as the 6th largest in the US, with expectations for inclusion in major indices like Russell 1000 and NASDAQ 100 by early July.",
-              "sources": [
-                {
-                  "title": "‘It’s Going To Be Glorious’—SpaceX And Tesla Suddenly Braced For A Game Changer",
-                  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVhNOXQ4SXVsc3h1TUdiUk9MSWNaZ0hpbXdwMU5NOEVGVFhVWUZfdU1jZEtjT3QyQ0Nwb0p2aWN6OFRyUE5wRUZTUjNsNWxaRGlrRXpKQi1vMUFQSmttWE9VUGpLZEJPUlE3clk1ajhPVG9aTGFzdlYxcVNGZmRtQ1RzSUphbkNVV1pDT1RvSWs2SVZxUlNIbnQzYXgwYm4wZFlGdzRVb0NWR0hVOElfZFBPOUlpY2tpNUVKNDUyaVNSMVd4MTlkYTFoY3VDbk5tTVVfR3hCSQ?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
+              "text": "OpenAI is preparing its largest overhaul since ChatGPT's launch, aiming to transform the chatbot into a \"superapp\" that integrates coding tools, AI agents, image generation, and external applications to boost profitability and shift focus from simple Q&A to high-value enterprise products.",
+              "sources": [],
               "x_mentions": []
             },
             {
-              "text": "Despite a shorter-than-standard lock-up period with staggered releases, limited float and anticipated ETF inflows are expected to support the stock, though most insider selling is concentrated in Q3.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2068025890299322852"
-                },
-                {
-                  "handle": "@Yeah_Dave",
-                  "url": "https://x.com/Yeah_Dave/status/2067693860340609530"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia successfully issued $25 billion in corporate bonds to fund AI investments.",
-          "segments": [
-            {
-              "text": "The bond offering saw overwhelming demand, with orders totaling $85 billion, underscoring continued investor confidence in Nvidia's AI-driven growth strategy and its ongoing investments in companies like Intel and Anthropic.",
+              "text": "This strategic shift reflects a belief that the future of AI lies in agents performing complex tasks, aligning with Anthropic's focus on enterprise AI.",
               "sources": [
                 {
-                  "title": "What Will Nvidia Stock's Price Be in 1 Year?",
-                  "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-price-1-152000444.html",
+                  "title": "EXCLUSIVE: Google And Meta May Have The Most To Lose In The AI‑Agent Era, Says Founder Who Rejected OpenAI",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-google-meta-may-most-213229588.html",
                   "source": "Yahoo Finance",
                   "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "Google DeepMind maps four paths from AGI to ASI",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDVBbGFMcUl4aFh5cG9aOTRMS0xTbHc4Z1NYeTNYWFN0MHhLWWY3SmFmSmhQa1Jxa1BWTi15V0VHVUM4SFRKc2Z3OW5BWUpNZ09PdFdDWjRuNGN1Y21qYzN1Tmh6SDVaNUpLYkNaTW55bV9KTExSbHhJek1kYXhVbkRud3dkQy1HV1h2OG9aR1U?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -389,15 +470,10 @@
           ]
         },
         {
-          "lead": "OpenAI is evaluating significant token price reductions to maintain competitiveness.",
+          "lead": "Amazon drops Sam Altman movie amid OpenAI partnership.",
           "segments": [
             {
-              "text": "To counter competition from Anthropic and address high computing costs, OpenAI is considering substantial price cuts for its enterprise customers, a move that could further pressure profitability for both companies.",
-              "sources": [],
-              "x_mentions": []
-            },
-            {
-              "text": "The company is also pivoting from a chatbot-centric model to a \"superapp\" strategy, integrating coding tools, AI agents, and external applications to enhance its value proposition and drive higher-margin enterprise revenue.",
+              "text": "Amazon MGM Studio has reportedly dropped a movie about OpenAI CEO Sam Altman, a decision that comes after Amazon announced a partnership with OpenAI, raising questions about potential conflicts of interest or strategic alignment.",
               "sources": [
                 {
                   "title": "Amazon’s Movie Arm Abandons Film About OpenAI",
@@ -406,8 +482,8 @@
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 },
                 {
-                  "title": "Why Google Star AI Researcher Joined OpenAI, New OpenClaw Competitor, Amazon’s AI Chip Advantage",
-                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTW9WNmVQMTh6WmNCNUZxdldvSy1OalRKOTBtYkZEX2cyNnQ0T0hEZkZIam9yYUp5UDJRbm5RRzYyQTNNSWtxeWo2MlRMT1hNTmRJ?oc=5",
+                  "title": "Amazon MGM Studio Drops Altman Movie",
+                  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHV6cnZ3NU0xR1R0WXdtOE5UMzRna01YbmZwVzFZWUR0bmZHVG5leHh6R203bU5IdEpRSmR4ZHM0QTg3b1ZIY2ljcnpTRlhzTVJyQV83bWV5X2xXSTBBYkVKODlsTXlfblJBQWJBeUw1cEtvZkktZDFXV0J5RUhjQjg1WQ?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 },
@@ -421,16 +497,6 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "Oracle's stock declined following an announcement of a substantial capital raise.",
-          "segments": [
-            {
-              "text": "The company plans to raise an additional $40 billion through bonds and $20 billion in new share issuance to fund its AI infrastructure and cloud investments, despite reporting strong earnings that confirmed an improvement cycle.",
-              "sources": [],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     }
@@ -438,32 +504,50 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "Watch for new Chair Kevin Warsh's communication style and stance on inflation, particularly his emphasis on Trimmed Mean PCE, at his inaugural FOMC meeting.",
+      "note": "Kevin Warsh's first FOMC on June 18 will be key for future rate policy and communication, especially regarding Trimmed Mean PCE.",
       "sources": [
+        {
+          "title": "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFBTYUJfM1ZMQ2t0aURxTm5RNjRTVUhWdUEwRmxLVUVEUXlHU19VYVdfSWxTd19ZSllheXZvd1J5TE9JMFByQ3d4YV90cEZfS21MMjFhY2pxcmtGQW93bXBraVlCMkU1WVN3cE0tbVdNSEctczF5UHFZTHViS2ZYeE9EZHotMC1BRVR3a3dkdU1QejhvakNZbFkyUVhDM2Q3enllcGtITUZQNU5rQXA4?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Opinion | Kevin Warsh Returns the Fed to a More Disciplined Model",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2xpU09Hdy1aTlB4THRLam1ZSDBaTGN5WUpSTDFmQmg1MkNKZG5uMFRlOGJtSWwtQ0k4WXpTU3lTakxPTXdqUkJLaTVFSFI2UDEyRGhWN0lRSzBvTmNjNDhEMFdCVzBOeFB6MWVSSXVxWkdlb1VvVFJteUJ5dWpxMzdLNUlycThLYzZsbGUzdWNGSFdsSFZJ?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Warsh’s push to axe Fed guidance may lift US borrowing costs, investors warn",
+          "link": "https://www.ft.com/content/6a9330ad-a2db-494b-bf61-7dd417ab9c9a",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
         {
           "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
           "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
           "source": "CNBC Finance",
           "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        },
-        {
-          "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
-          "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "SpaceX",
-      "note": "Monitor for post-IPO volatility and the impact of index inclusions and staggered lock-up expirations on its stock performance.",
+      "note": "Monitor post-IPO price action, especially with upcoming index inclusions and shorter lock-up periods that could increase supply.",
       "sources": [
         {
-          "title": "‘It’s Going To Be Glorious’—SpaceX And Tesla Suddenly Braced For A Game Changer",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSVhNOXQ4SXVsc3h1TUdiUk9MSWNaZ0hpbXdwMU5NOEVGVFhVWUZfdU1jZEtjT3QyQ0Nwb0p2aWN6OFRyUE5wRUZTUjNsNWxaRGlrRXpKQi1vMUFQSmttWE9VUGpLZEJPUlE3clk1ajhPVG9aTGFzdlYxcVNGZmRtQ1RzSUphbkNVV1pDT1RvSWs2SVZxUlNIbnQzYXgwYm4wZFlGdzRVb0NWR0hVOElfZFBPOUlpY2tpNUVKNDUyaVNSMVd4MTlkYTFoY3VDbk5tTVVfR3hCSQ?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+          "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Intel, SpaceX, Micron, Carnival & more",
+          "link": "https://www.cnbc.com/2026/06/18/stocks-making-the-biggest-moves-premarket-.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
         }
       ],
       "x_mentions": [
@@ -478,58 +562,58 @@
       ]
     },
     {
-      "name": "Oil Prices",
-      "note": "Keep an eye on WTI crude as the US-Iran peace deal progresses and the potential reopening of the Strait of Hormuz could further influence global supply.",
+      "name": "Samsung Electronics",
+      "note": "Watch for further developments on Google TPU partnership and its implications for advanced foundry market share.",
       "sources": [
         {
-          "title": "Oil Glut Bets Are Back in Play as Crude Sinks After US-Iran Deal",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUU9BclVjaUpGbENJNlFGaWhKd2M1SzE2czZRcGJza0RBZ2FQOHJ6LXdtejRDV25Ed1lkWTMwMzhQZlhVYm1reS1TcUoxenJQSHhHck15OHpiOUY2ZGlVVTl6Q0c4TXdYNFlpUVFndm5YQW9SX3NPaTI2UkEyejVpX3dFMWhTQ0wtWEhzQTBHVFBrTTRTNWloaFRRV0d1NDZOcXp6OHZPQ2lKcnExNjFVd1VESzZmZw?oc=5",
+          "title": "FPGA firm Efinix lines up TSMC Japan fab as edge AI business grows",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanhBMmFSUFJKVjNiR3NWVXFaVEFSQUZ3dlcwUXhZbm95X2laYTRIdVdUcE9JSDFQd1AxbUtYeWxBRE16d0MyZUpfZndmWkhqUmtldnRwNjVRbFQzb3VjcTkwazlNd1VQck9sTHNfOXF0bUlXczFHa3QtZFJxckY0bzJ6YmZpbUVQemc?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil (WTI/Brent)",
+      "note": "Geopolitical developments around the US-Iran deal and Hormuz Strait remain key drivers for price volatility.",
+      "sources": [
+        {
+          "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2FiMFU4dlRLcmFxWjNReTI2SlJKSk01c01TVkZJd0ZnaTFmeEhOVkZDUVhtb1FVMXZUYWF3QW0tbnVyRHJIdlFlNFEzS2s5XzNTdkYtdU5NbktJRTdnVHIyLUdodm9pdDNWcmVic3hOTDYzWi1nWEhIVG9KemJ0VUNCS3NKRk90SktMZVYzSEU4R1E5UU5fWVVpU0t2OTA?oc=5",
           "source": "Bloomberg (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
-          "title": "Iran's Tasnim news agency says Hormuz will not reopen until Lebanon ceasefire holds, oil waivers issued",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa005aHFiRnFPT0lhdUYwazVqbHV2cEhrTWJHWFVEZDhBWlpzNEtzRFptdVZsRkpwcnQ0ZVVfNXh5aE1JR202NGpWX3liaE1aeE4ybk5oRUhwLUJFWTNPOTdfMHRxMkM5bllwRDdVcXBLbUVCSDhKTEpCQS1rcERlUW9YLTBHZEQzYVRPanVKUFlpMHo1M1hpOTdvYlp6b0lUVk5OT2FXT196RjEwZ2dBRGxpNERROG5QOFVVVGlzWGcwMU1NNWE2X1FR?oc=5",
+          "title": "Brent oil rises more than $1/bbl after bumpy start to US-Iran peace talks",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWDktZEMyRnJ6ZUlaRUlUT3U2c0ZhTFluQm5kWHI3YkdBRTc0QVM0XzVYUHJmdGhzZUJMZ2pHTVdhclpUVVdBdUZ0dktUVUZ0SHpnS0UxY3BTMnJDUW10dnlKZEtiYjZvSkRoR3h1NTUyU2xUZ3NXTUlxTFNKemlyd3BLbUhEOGRmYUpfSnFvQ0R0c2tIMUowUDFRdXJyc2E3bXU1QTEwa3pKUldDRDlVXzR6QkxmNmpoQVk1Sw?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound",
-          "link": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html",
+          "title": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
+          "link": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        },
-        {
-          "title": "Deal or no deal, oil prices will stay volatile for months",
-          "link": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-volatile-for-months",
-          "source": "The Economist Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Samsung Electronics",
-      "note": "Watch for further developments on its potential partnership with Google for next-gen TPU production, which could significantly boost its advanced foundry references.",
-      "sources": [
-        {
-          "title": "Why Google Star AI Researcher Joined OpenAI, New OpenClaw Competitor, Amazon’s AI Chip Advantage",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTW9WNmVQMTh6WmNCNUZxdldvSy1OalRKOTBtYkZEX2cyNnQ0T0hEZkZIam9yYUp5UDJRbm5RRzYyQTNNSWtxeWo2MlRMT1hNTmRJ?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Anthropic",
-      "note": "Monitor the impact of US government export controls on its advanced AI models and its competitive response to OpenAI's potential token price reductions.",
+      "name": "Anthropic / OpenAI",
+      "note": "Monitor for further news on AI model export controls and potential token price reductions impacting profitability.",
       "sources": [
         {
           "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
           "link": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
           "source": "Axios",
           "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+        },
+        {
+          "title": "Accenture Stock Falls 18% as Lower Revenue Projection Feeds AI Fears",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXJuRGRfOXVxQW5jWXpkRk5EUFhqdjdpYWxiWFpJTHpsZ0NzVnNGa1RJdElPQ0hIOENidXNsY2NaVEgwN3lfcGV1cHJsMkZMV1JROTFZOV91N2ZrVmV1NHhUZFJBd2tRNXRMdTh4bTF2VUlCU2lyc3FBYUtQMHVWck03NEJ6WDJsOWRpa3RjWENkb0x6QkZEYmZjU0J5YlFOQVJRMTF4MGk?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -819,6 +903,6 @@
       "change_pct": 1.64
     }
   ],
-  "story_count": 59,
-  "bucket_count": 10
+  "story_count": 66,
+  "bucket_count": 12
 }
