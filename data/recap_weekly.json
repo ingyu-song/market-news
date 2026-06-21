@@ -1,37 +1,91 @@
 {
-  "generated_at": "2026-06-21T14:46:59+00:00",
+  "generated_at": "2026-06-21T14:57:59+00:00",
   "mode": "weekly",
   "for_week_start": "2026-06-15",
   "for_week_ending": "2026-06-21",
   "days_covered": 1,
-  "headline": "Weekly tape, by editorial weight",
-  "summary": "Compiled from 1 daily recap(s). Themes ordered by coverage volume across the week.",
+  "headline": "Fed hawkish; Geopolitical shifts on Iran, AI; SpaceX IPO; AI chip supply/demand in focus.",
+  "summary": "Global markets experienced a mixed week, with early gains driven by easing Middle East tensions and a strong tech rebound, tempered by a hawkish shift from the Fed. Kevin Warsh's debut as Fed Chair signaled a focus on inflation, hinting at potential policy adjustments. Geopolitics remained central, with a US-Iran peace agreement initially boosting sentiment before facing scrutiny, alongside new US export controls on advanced AI models. The AI chip sector saw significant developments, including Google exploring Samsung for next-gen TPU production amid TSMC capacity constraints. SpaceX's historic IPO dominated market attention, drawing massive investor interest.",
   "themes": [
     {
-      "label": "China / Tariffs / Geopolitics",
-      "narrative": "China / Tariffs / Geopolitics accounted for 3 bullets across the week's daily recaps.",
-      "movers": []
-    },
-    {
       "label": "Fed / Rates / Macro",
-      "narrative": "Fed / Rates / Macro accounted for 3 bullets across the week's daily recaps.",
-      "movers": []
+      "narrative": "Kevin Warsh's debut as Fed Chair introduced a hawkish tone, emphasizing Trimmed Mean PCE as a key inflation metric and hinting at potential policy shifts. Despite some market relief from falling oil prices, the prospect of rate hikes remains a concern, especially with the BOJ also hiking rates to 1.0%.",
+      "movers": [
+        "Kevin Warsh",
+        "BOJ",
+        "WTI Oil",
+        "Nvidia",
+        "US Treasury Yields"
+      ]
     },
     {
-      "label": "Trump 2.0 / US Policy",
-      "narrative": "Trump 2.0 / US Policy accounted for 3 bullets across the week's daily recaps.",
-      "movers": []
+      "label": "China / Tariffs / Geopolitics",
+      "narrative": "Geopolitical developments were highly dynamic. An initial US-Iran peace agreement eased Middle East tensions and lowered oil prices, though scrutiny intensified later in the week. Concurrently, the US imposed export controls on Anthropic's advanced AI models, signaling a strategic asset classification, while China pushed for NEV heavy truck adoption and AI chip self-reliance amidst supply bottlenecks.",
+      "movers": [
+        "Iran",
+        "Anthropic",
+        "US Commerce Department",
+        "China",
+        "Lockheed Martin"
+      ]
     },
     {
       "label": "US Semis / AI Chips",
-      "narrative": "US Semis / AI Chips accounted for 3 bullets across the week's daily recaps.",
-      "movers": []
+      "narrative": "The AI chip supply chain faced re-evaluation as TSMC's capacity constraints led Google to consider Samsung for its next-gen TPU production. This highlights the strategic importance of diversified foundry capabilities. China's ambitious AI infrastructure plans, however, face challenges from domestic AI chip and HBM supply shortages, limiting its self-reliance goals.",
+      "movers": [
+        "Google",
+        "Samsung",
+        "TSMC",
+        "Qualcomm",
+        "SMIC"
+      ]
     },
     {
       "label": "Earnings / Guidance",
-      "narrative": "Earnings / Guidance accounted for 3 bullets across the week's daily recaps.",
-      "movers": []
+      "narrative": "SpaceX's historic IPO was a major market event, attracting significant investor capital and setting a high valuation, though its unique lock-up schedule poses future liquidity considerations. Oracle's strong earnings were overshadowed by plans for substantial additional funding for AI infrastructure, while OpenAI and Anthropic prepared for a potential AI model price war, impacting profitability outlooks.",
+      "movers": [
+        "SpaceX",
+        "Oracle",
+        "OpenAI",
+        "Anthropic",
+        "Broadcom"
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "narrative": "Trump's administration actively shaped policy, from brokering an initial peace agreement with Iran to considering rapid arms production demands from defense contractors. The US strategic petroleum reserve hit a 43-year low, indicating future refilling demand, while the administration's stance on AI export controls underscored a national security focus.",
+      "movers": [
+        "Donald Trump",
+        "Iran",
+        "Lockheed Martin",
+        "US Strategic Petroleum Reserve"
+      ]
     }
   ],
-  "watchlist": []
+  "watchlist": [
+    {
+      "name": "SpaceX",
+      "note": "Monitor post-IPO price action, ETF inclusions, and upcoming lock-up expirations."
+    },
+    {
+      "name": "Anthropic",
+      "note": "Watch for further developments on US export controls and competitive pricing strategies with OpenAI."
+    },
+    {
+      "name": "Samsung Electronics",
+      "note": "Observe progress on Google's next-gen TPU contract and its broader AI foundry ambitions."
+    },
+    {
+      "name": "Oracle",
+      "note": "Track the impact of its $40B funding plan on stock performance and AI infrastructure buildout."
+    },
+    {
+      "name": "WTI Crude Oil",
+      "note": "Monitor for continued volatility given the evolving US-Iran situation and SPR levels."
+    },
+    {
+      "name": "Qualcomm",
+      "note": "Follow acquisition talks with Tenstorrent and its strategy to expand AI chip capabilities."
+    }
+  ]
 }
