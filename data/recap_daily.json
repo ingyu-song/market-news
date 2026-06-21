@@ -375,5 +375,289 @@
     }
   ],
   "story_count": 61,
-  "bucket_count": 10
+  "bucket_count": 10,
+  "x_themes": [
+    {
+      "topic": "AI Optical Interconnects & CPO",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The market is seeing significant advancements and demand in optical transceivers, including 1.6T, Co-Packaged Optics (CPO), and Electro-optic Light Source (ELSFP) technologies, driven by AI data center needs. Companies like Sivers, OE Solutions, Marvell, and Jabil are key players in developing and supplying these next-gen optical architectures, with some concerns about potential oversupply being dismissed.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2068651355422814294"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2068624382449295735"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2068568610772238486"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2068539805009613105"
+        },
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2068076956156035455"
+        },
+        {
+          "handle": "@vlmkapital",
+          "url": "https://x.com/vlmkapital/status/2068053772304031850"
+        }
+      ]
+    },
+    {
+      "topic": "Memory Market Supercycle & Pricing",
+      "category": "tech",
+      "subcategory": "memory",
+      "summary": "The memory market is experiencing a supercycle with significant year-over-year price increases for DRAM, Flash, and HBM, driven by strong AI demand and undersupply. Hyperscalers are projected to dramatically increase their capex allocation to memory, leading to potential upside surprises for companies like Micron and Kioxia, whose valuations are still considered low.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2068515104103285190"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2068479958679441561"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2068463438473445706"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2068417443836436575"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2068338300721807366"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2068130407112155432"
+        },
+        {
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2068542531042709996"
+        }
+      ]
+    },
+    {
+      "topic": "Advanced Packaging & Glass Substrates",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "Advanced packaging, including glass substrates and Through-Glass Via (TGV) technology, is becoming critical for overcoming bandwidth bottlenecks and yield issues in high-performance AI chips by enabling tighter integration of smaller chiplets. Companies like LPKF and JNTC are developing key equipment and processes for glass-based advanced packaging, with major semiconductor clients and foundries like TSMC and Intel exploring these solutions.",
+      "mentions": [
+        {
+          "handle": "@vlmkapital",
+          "url": "https://x.com/vlmkapital/status/2068318125745938821"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2068288936405848557"
+        },
+        {
+          "handle": "@latent_value7",
+          "url": "https://x.com/latent_value7/status/2067984810421739531"
+        },
+        {
+          "handle": "@rwang07",
+          "url": "https://x.com/rwang07/status/2068534947766509620"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2068540369474814286"
+        }
+      ]
+    },
+    {
+      "topic": "AI Software & LLM Valuations",
+      "category": "tech",
+      "subcategory": "software",
+      "summary": "The valuation of AI Large Language Model (LLM) companies, particularly Chinese frontier labs like Zhipu (Knowledge Atlas) and Minimax, is drawing attention, with some reaching high ARR figures. There are discussions around the competitive landscape with US players like Anthropic and OpenAI, and regulatory scrutiny on AI models and prediction markets.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2068468107543445888"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2068492116075131134"
+        },
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2068076956156035455"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2068123426771104075"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2067818010325266634"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2067610323062821154"
+        }
+      ]
+    },
+    {
+      "topic": "Semiconductor Manufacturing & Supply Chain Bottlenecks",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The semiconductor industry is facing various supply chain bottlenecks and geopolitical pressures, including a shortage of E-glass fabric for PCBs (impacting Nvidia suppliers), a halt in tungsten material flow for PCB tools, and Taiwan's surging electricity demand driven by AI data centers and semiconductor manufacturing. US concerns about China's access to top chip tools also highlight geopolitical tensions in the supply chain.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2067786864376119468"
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2067938233225462003"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2067769336740147507"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2068537478131118438"
+        },
+        {
+          "handle": "@rwang07",
+          "url": "https://x.com/rwang07/status/2068534947766509620"
+        }
+      ]
+    },
+    {
+      "topic": "AI Compute Commoditization & Infrastructure Evolution",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The concept of AI compute becoming a commodity is emerging, with CME and ICE considering listing compute as a futures commodity, shifting focus to production bottlenecks in specialized tools and testing. Nvidia's Vera Rubin-based AI data centers are highlighted for their massive cost and power demands, driving the evolution of data center architecture and the need for efficient cooling solutions like microfluidics.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2068662721340485663"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2067826777444200862"
+        },
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2067782024606413031"
+        },
+        {
+          "handle": "@vlmkapital",
+          "url": "https://x.com/vlmkapital/status/2067958593811308552"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2068378569600864696"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2068568610772238486"
+        }
+      ]
+    },
+    {
+      "topic": "Space Industry Developments & IPOs",
+      "category": "tech",
+      "subcategory": "space",
+      "summary": "The space sector is seeing significant activity, including the anticipated float unlock timeline for SpaceX's IPO, and trading opportunities in companies like AST SpaceMobile ($ASTS) and Rocket Lab ($RKLB) based on batch deployment success and sector-specific influences.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2068025890299322852"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2067693860340609530"
+        }
+      ]
+    },
+    {
+      "topic": "GLP-1s and Behavioral Finance",
+      "category": "other",
+      "subcategory": "Biotech/Pharma",
+      "summary": "GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists ($LLY, $NVO) are being explored for their potential to reduce impulsivity and addictive behaviors, including gambling and compulsive trading. While direct clinical evidence for gambling disorder is early, mechanistic neuroscience and alcohol-use-disorder trials suggest these drugs could make investors more measured by dampening cue-triggered urges and loss-chasing.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2068034605542977675"
+        }
+      ]
+    }
+  ],
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7500.58,
+      "change": 80.48,
+      "change_pct": 1.08
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 26517.93,
+      "change": 496.28,
+      "change_pct": 1.91
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 51564.7,
+      "change": 72.15,
+      "change_pct": 0.14
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2979.77,
+      "change": 61.78,
+      "change_pct": 2.12
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 71500.22,
+      "change": 358.01,
+      "change_pct": 0.5
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23924.81,
+      "change": -387.35,
+      "change_pct": -1.59
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 9322.27,
+      "change": 238.74,
+      "change_pct": 2.63
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 46465.2,
+      "change": 749.14,
+      "change_pct": 1.64
+    }
+  ]
 }

@@ -45,8 +45,10 @@ XSUM_FILE = DATA / "x_summary.json"
 INDICES_FILE = DATA / "indices.json"
 PROFILE_FILE = DATA / "editorial_profile.json"
 HISTORY_DIR = DATA / "recap_history"
+HISTORY_DIR_WEEKLY = DATA / "recap_history_weekly"
 DAILY_OUT = DATA / "recap_daily.json"
 WEEKLY_OUT = DATA / "recap_weekly.json"
+RECAP_INDEX = DATA / "recap_index.json"
 
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 MAX_ITEMS_PER_BUCKET = int(os.environ.get("RECAP_MAX_PER_BUCKET", "8"))
@@ -276,7 +278,9 @@ Rules:
   Include EVERY story that supports the bullet (do not collapse to one — the
   frontend renders each as its own source chip). Never invent an id.
 - "watchlist" = 3-5 single names (companies, tickers, or macro entities like
-  "Fed" / "10Y yield") relevant tomorrow. One-line note each.
+  "Fed" / "10Y yield") relevant tomorrow. One-line note each. If a name is
+  also being heavily discussed in the X themes above, mention that in the
+  note so the reader knows where the chatter is.
 - No filler, no editorial throat-clearing, no "in summary".
 """
 
@@ -624,6 +628,42 @@ def write_history_copy(daily: dict) -> Path:
     return out
 
 
+def write_weekly_history_copy(weekly: dict) -> Path:
+    HISTORY_DIR_WEEKLY.mkdir(parents=True, exist_ok=True)
+    stamp = weekly.get("for_week_ending") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    out = HISTORY_DIR_WEEKLY / f"{stamp}.json"
+    out.write_text(json.dumps(weekly, ensure_ascii=False, indent=2),
+                   encoding="utf-8")
+    # Keep ~6 months of weekly snapshots.
+    files = sorted(HISTORY_DIR_WEEKLY.glob("*.json"))
+    for old in files[:-26]:
+        try:
+            old.unlink()
+        except OSError:
+            pass
+    return out
+
+
+def write_recap_index() -> None:
+    """Compact index of available history dates so the frontend can build
+    the History calendar / list without having to probe every file."""
+    daily = sorted(
+        p.stem for p in HISTORY_DIR.glob("*.json")
+    ) if HISTORY_DIR.exists() else []
+    weekly = sorted(
+        p.stem for p in HISTORY_DIR_WEEKLY.glob("*.json")
+    ) if HISTORY_DIR_WEEKLY.exists() else []
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "daily": list(reversed(daily)),       # newest first
+        "weekly": list(reversed(weekly)),     # newest first
+    }
+    DATA.mkdir(parents=True, exist_ok=True)
+    RECAP_INDEX.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
 def load_history(days: int = 7) -> list[dict]:
     if not HISTORY_DIR.exists():
         return []
@@ -638,12 +678,40 @@ def load_history(days: int = 7) -> list[dict]:
 
 
 # ---------------------------------------------------------------- modes
+def extract_x_themes(x_summary, max_themes: int = 8) -> list[dict]:
+    """Pass-through X themes for the frontend. Each theme keeps its topic,
+    summary, and the {handle,url} mention list so chips can link to the
+    actual tweet."""
+    if not x_summary:
+        return []
+    out = []
+    for t in (x_summary.get("themes") or [])[:max_themes]:
+        if not isinstance(t, dict):
+            continue
+        mentions = []
+        for m in t.get("mentions") or []:
+            if isinstance(m, dict):
+                handle = str(m.get("handle", "")).lstrip("@").strip()
+                url = m.get("url") or (f"https://x.com/{handle}" if handle else "")
+                if handle:
+                    mentions.append({"handle": "@" + handle, "url": url})
+        out.append({
+            "topic": t.get("topic", ""),
+            "category": t.get("category", ""),
+            "subcategory": t.get("subcategory", ""),
+            "summary": t.get("summary", ""),
+            "mentions": mentions,
+        })
+    return out
+
+
 def build_daily(profile: dict) -> dict:
     news = load_json(NEWS_FILE, default={}) or {}
     items = flatten_news_items(news)
     if not items:
         raise SystemExit("No news items found — run scraper.py first.")
     x_summary = load_json(XSUM_FILE)
+    indices_snapshot = load_json(INDICES_FILE)
 
     buckets = bucket_items(items)
     ordered = order_buckets_by_profile(profile, buckets)
@@ -666,14 +734,20 @@ def build_daily(profile: dict) -> dict:
         sections_for_prompt.append("")
     data_block = "\n".join(sections_for_prompt)
 
-    x_block = ""
+    x_block = "(none)"
     if x_summary and x_summary.get("themes"):
-        x_block = "\n".join(
-            f"- {t.get('topic','')}: {t.get('summary','')}"
-            for t in x_summary["themes"][:8]
-        ) or "(none)"
-    else:
-        x_block = "(none)"
+        lines = []
+        for t in x_summary["themes"][:8]:
+            handles = ", ".join(
+                str((m or {}).get("handle", ""))
+                for m in (t.get("mentions") or [])
+                if (m or {}).get("handle")
+            )
+            lines.append(
+                f"- {t.get('topic','')}: {t.get('summary','')}"
+                + (f"  ({handles})" if handles else "")
+            )
+        x_block = "\n".join(lines) or "(none)"
 
     prompt = DAILY_PROMPT.format(
         style=style_block(profile), data=data_block, x_block=x_block
@@ -688,6 +762,7 @@ def build_daily(profile: dict) -> dict:
 
     recap = hydrate_story_refs(recap, flat_lookup)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    x_themes = extract_x_themes(x_summary)
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "mode": "daily",
@@ -696,14 +771,18 @@ def build_daily(profile: dict) -> dict:
         "summary": recap.get("summary", ""),
         "sections": recap.get("sections", []),
         "watchlist": recap.get("watchlist", []),
+        "x_themes": x_themes,
+        "indices": (indices_snapshot or {}).get("indices") or [],
         "story_count": len(flat),
         "bucket_count": sum(1 for _, a in ordered if a),
     }
     DAILY_OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2),
                          encoding="utf-8")
     write_history_copy(payload)
+    write_recap_index()
     log(f"Wrote {DAILY_OUT.relative_to(ROOT)}: "
-        f"{len(payload['sections'])} sections, {len(payload['watchlist'])} watchlist.")
+        f"{len(payload['sections'])} sections, {len(payload['watchlist'])} watchlist, "
+        f"{len(x_themes)} x_themes, {len(payload['indices'])} indices.")
     return payload
 
 
@@ -736,6 +815,19 @@ def build_weekly(profile: dict) -> dict:
     # Source chips: post-collected from the underlying daily bullets, by label.
     attach_weekly_sources(recap.get("themes") or [], history)
 
+    # Aggregate X themes across the week (most recent day wins on dupes).
+    seen_topics: set[str] = set()
+    weekly_x: list[dict] = []
+    for day in history:
+        for t in day.get("x_themes") or []:
+            key = (t.get("topic", "") or "").lower().strip()
+            if not key or key in seen_topics:
+                continue
+            seen_topics.add(key)
+            weekly_x.append(t)
+        if len(weekly_x) >= 10:
+            break
+
     today = datetime.now(timezone.utc)
     week_end = today.strftime("%Y-%m-%d")
     week_start = (today - timedelta(days=6)).strftime("%Y-%m-%d")
@@ -749,11 +841,15 @@ def build_weekly(profile: dict) -> dict:
         "summary": recap.get("summary", ""),
         "themes": recap.get("themes", []),
         "watchlist": recap.get("watchlist", []),
+        "x_themes": weekly_x,
     }
     WEEKLY_OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2),
                           encoding="utf-8")
+    write_weekly_history_copy(payload)
+    write_recap_index()
     log(f"Wrote {WEEKLY_OUT.relative_to(ROOT)}: "
-        f"{len(payload['themes'])} themes, {payload['days_covered']} day(s) of history.")
+        f"{len(payload['themes'])} themes, {payload['days_covered']} day(s) of history, "
+        f"{len(payload['x_themes'])} x_themes.")
     return payload
 
 
