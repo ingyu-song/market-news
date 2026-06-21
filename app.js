@@ -435,15 +435,61 @@ function recapSourceChip(src) {
   return a;
 }
 
-// Build a bullet body: bold "lead", then "body" text, then every source chip
-// inline at the end. Falls back to `text` if the model didn't emit lead/body.
+// X mention chip — same pill shape as a source chip, with an X glyph instead
+// of a favicon. Used inline at the end of a segment when that sentence was
+// driven by chatter on X rather than a news story.
+function recapXChip(m) {
+  const handle = (m.handle || "").replace(/^@/, "");
+  const a = el("a", "recap-source-chip recap-source-chip-x");
+  a.href = m.url || `https://x.com/${handle}`;
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.title = "@" + handle;
+  a.appendChild(el("span", "recap-x-glyph", "𝕏"));
+  a.appendChild(document.createTextNode(handle.toLowerCase()));
+  return a;
+}
+
+// Appends every chip (news source first, then X) inline with single-space
+// separators. Shared so daily segments and legacy bullets behave identically.
+function appendInlineChips(p, sources, xMentions) {
+  const srcs = Array.isArray(sources) ? sources : [];
+  const xs = Array.isArray(xMentions) ? xMentions : [];
+  if (!srcs.length && !xs.length) return;
+  p.appendChild(document.createTextNode(" "));
+  srcs.forEach((s, i) => {
+    p.appendChild(recapSourceChip(s));
+    if (i < srcs.length - 1 || xs.length) p.appendChild(document.createTextNode(" "));
+  });
+  xs.forEach((m, i) => {
+    p.appendChild(recapXChip(m));
+    if (i < xs.length - 1) p.appendChild(document.createTextNode(" "));
+  });
+}
+
+// Build a bullet body. Three shapes supported, in priority order:
+//   1) NEW — lead + segments[]: each segment is one sentence with its own
+//      news source chips and X handle chips inline at the end.
+//   2) LEGACY — lead + body + sources at the bullet level (older LLM output).
+//   3) MIN — text + sources (heuristic / weekly themes passed through).
 function renderRecapBulletText(b) {
   const p = el("p", "recap-bullet-text");
   const lead = (b.lead || "").trim();
-  const body = (b.body || "").trim();
-  if (lead) {
-    p.appendChild(el("strong", "recap-bullet-lead", lead));
+  if (lead) p.appendChild(el("strong", "recap-bullet-lead", lead));
+
+  if (Array.isArray(b.segments) && b.segments.length) {
+    b.segments.forEach((seg) => {
+      const txt = (seg.text || "").trim();
+      if (txt) {
+        p.appendChild(document.createTextNode(" "));
+        p.appendChild(document.createTextNode(txt));
+      }
+      appendInlineChips(p, seg.sources, seg.x_mentions);
+    });
+    return p;
   }
+
+  const body = (b.body || "").trim();
   if (body) {
     if (lead) p.appendChild(document.createTextNode(" "));
     p.appendChild(document.createTextNode(body));
@@ -451,22 +497,22 @@ function renderRecapBulletText(b) {
   if (!lead && !body && b.text) {
     p.appendChild(document.createTextNode(String(b.text)));
   }
-  const sources = Array.isArray(b.sources) ? b.sources : [];
-  if (sources.length) {
-    p.appendChild(document.createTextNode(" "));
-    sources.forEach((s, i) => {
-      p.appendChild(recapSourceChip(s));
-      if (i < sources.length - 1) p.appendChild(document.createTextNode(" "));
-    });
-  }
+  appendInlineChips(p, b.sources, b.x_mentions);
   return p;
 }
 
 function bulletMatchesQuery(b, q) {
   if (!q) return true;
+  const segParts = (Array.isArray(b.segments) ? b.segments : []).map((s) =>
+    (s.text || "") + " " +
+    (Array.isArray(s.sources) ? s.sources.map((x) => x.source || "").join(" ") : "") + " " +
+    (Array.isArray(s.x_mentions) ? s.x_mentions.map((x) => x.handle || "").join(" ") : "")
+  ).join(" ");
   const hay = (
     (b.lead || "") + " " + (b.body || "") + " " + (b.text || "") + " " +
-    (Array.isArray(b.sources) ? b.sources.map((s) => s.source || "").join(" ") : "")
+    (Array.isArray(b.sources) ? b.sources.map((s) => s.source || "").join(" ") : "") + " " +
+    (Array.isArray(b.x_mentions) ? b.x_mentions.map((s) => s.handle || "").join(" ") : "") + " " +
+    segParts
   ).toLowerCase();
   return hay.includes(q);
 }
@@ -564,8 +610,8 @@ function appendRecapDailyBody(data, query, container) {
 
   container.appendChild(grid);
 
-  const xSec = renderRecapXThemes(data.x_themes);
-  if (xSec) container.appendChild(xSec);
+  // X chatter is folded into the bullets above as inline chips per sentence,
+  // so the daily view no longer renders a standalone X NARRATIVES section.
 
   return { visibleBullets, visibleSections };
 }

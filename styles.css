@@ -698,6 +698,25 @@ a { color: inherit; text-decoration: none; }
   flex: 0 0 auto;
 }
 
+/* X mention chip — same pill shape but signaled by a small X glyph instead
+   of a publisher favicon, so the reader can tell at a glance which sentences
+   were driven by X chatter. */
+.recap-source-chip-x {
+  color: var(--text);
+  background: color-mix(in srgb, #1d9bf0 10%, var(--chip));
+}
+.recap-source-chip-x:hover {
+  color: #1d9bf0;
+  background: color-mix(in srgb, #1d9bf0 18%, var(--chip));
+}
+.recap-x-glyph {
+  font-family: 'Geist', -apple-system, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1;
+  color: #1d9bf0;
+}
+
 .recap-side {
   display: flex;
   flex-direction: column;

@@ -165,13 +165,26 @@ DAILY_SCHEMA = {
                             "type": "object",
                             "properties": {
                                 "lead": {"type": "string"},
-                                "body": {"type": "string"},
-                                "story_ids": {
+                                "segments": {
                                     "type": "array",
-                                    "items": {"type": "integer"},
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "text": {"type": "string"},
+                                            "story_ids": {
+                                                "type": "array",
+                                                "items": {"type": "integer"},
+                                            },
+                                            "x_ids": {
+                                                "type": "array",
+                                                "items": {"type": "integer"},
+                                            },
+                                        },
+                                        "required": ["text", "story_ids", "x_ids"],
+                                    },
                                 },
                             },
-                            "required": ["lead", "body", "story_ids"],
+                            "required": ["lead", "segments"],
                         },
                     },
                 },
@@ -189,8 +202,12 @@ DAILY_SCHEMA = {
                         "type": "array",
                         "items": {"type": "integer"},
                     },
+                    "x_ids": {
+                        "type": "array",
+                        "items": {"type": "integer"},
+                    },
                 },
-                "required": ["name", "note", "story_ids"],
+                "required": ["name", "note", "story_ids", "x_ids"],
             },
         },
     },
@@ -237,15 +254,18 @@ priorities and writing pattern, not generic news priorities.
 
 {style}
 
-INPUT: today's headlines, bucketed into the same topic taxonomy the channels
-use. Each story has an integer id in square brackets, then the title and source:
-    [3] (CNBC Markets) Nvidia rallies on guidance beat
+You have TWO indexed inputs:
 
-Bucketed stories:
+1) BUCKETED NEWS STORIES — cite via story_ids. Format:
+   [3] (CNBC Markets) Nvidia rallies on guidance beat
+
 {data}
 
-X (Twitter) themes today:
-{x_block}
+2) X CHATTER — cite via x_ids. Each entry is a tweet's author plus the theme
+that tweet was discussing on X today. Format:
+   [12] (@VinceVentures) AI infra capex — "$400B spend cycle through 2027"
+
+{x_data}
 
 Write a JSON object with this exact shape:
 {{
@@ -254,15 +274,19 @@ Write a JSON object with this exact shape:
   "sections": [
     {{"label": "<topic label, must match one of the input buckets>",
       "bullets": [
-        {{"lead": "<short bold leader phrase, declarative, ending with a period. e.g. 'Middle East tensions are intensifying.'>",
-          "body": "<1-2 sentences expanding on the leader, preserve tickers/numbers/jargon, no filler>",
-          "story_ids": [<int>, <int>, <int>]}}
+        {{"lead": "<short bold leader sentence, ending with a period>",
+          "segments": [
+            {{"text": "<one full sentence expanding on the lead, ends with period>",
+              "story_ids": [<int>, ...],
+              "x_ids": [<int>, ...]}}
+          ]}}
       ]}}
   ],
   "watchlist": [
     {{"name": "<entity name, e.g. Nvidia / TSMC / Fed>",
       "note": "<one-line read, what to watch tomorrow>",
-      "story_ids": [<int>]}}
+      "story_ids": [<int>, ...],
+      "x_ids": [<int>, ...]}}
   ]
 }}
 
@@ -270,17 +294,21 @@ Rules:
 - 4-6 sections. Order them by importance for THIS DAY, but bias toward the
   channels' topic share when day-priority is unclear.
 - Within a section, 2-4 bullets, freshest / highest-signal first.
-- "lead" must be a complete short sentence (~6-12 words), ending with a period.
-  It will be rendered in bold. Example: "Middle East tensions are intensifying."
-- "body" expands on the lead in 1-2 tight sentences. Numbers and tickers stay
-  intact. No "according to reports", no "experts say" — just the substance.
-- "story_ids" must reference ids that appear in the bucketed stories above.
-  Include EVERY story that supports the bullet (do not collapse to one — the
-  frontend renders each as its own source chip). Never invent an id.
+- "lead" is a complete short sentence (~6-12 words). Rendered in bold.
+- Each bullet has 1-3 "segments". Each segment is ONE FULL SENTENCE that
+  expands the bullet. The frontend renders the segment's chips inline at the
+  end of that sentence — so put news sources (story_ids) and X mentions
+  (x_ids) on the sentence they actually support.
+- A segment can mix story_ids and x_ids (news + X both back it up), be
+  news-only (story_ids), or be X-only (x_ids — for chatter / takes that are
+  not in mainstream news).
+- Include EVERY supporting id — do not collapse to one. Frontend renders each
+  chip distinctly. Never invent an id.
+- Numbers, tickers, jargon stay intact. No "according to reports", no
+  "experts say" — just substance.
 - "watchlist" = 3-5 single names (companies, tickers, or macro entities like
-  "Fed" / "10Y yield") relevant tomorrow. One-line note each. If a name is
-  also being heavily discussed in the X themes above, mention that in the
-  note so the reader knows where the chatter is.
+  "Fed" / "10Y yield") relevant tomorrow. One-line note each, citing
+  story_ids and x_ids that support the call.
 - No filler, no editorial throat-clearing, no "in summary".
 """
 
@@ -403,15 +431,18 @@ def heuristic_daily(profile: dict, ordered: list,
         bullets = []
         for it in items[:3]:
             sid = title_to_id.get(it["title"])
-            # No-LLM mode can't actually rewrite into lead+body, so we hand
-            # the title to `lead` and leave `body` empty. The frontend handles
-            # the empty body gracefully.
+            # No-LLM mode can't actually rewrite into segments, so it hands
+            # the title to `lead` and emits one empty-text segment carrying
+            # the source chip.
             title = it["title"]
             lead = title if title.endswith((".", "!", "?")) else title + "."
             bullets.append({
                 "lead": lead,
-                "body": "",
-                "story_ids": [sid] if sid is not None else [],
+                "segments": [{
+                    "text": "",
+                    "story_ids": [sid] if sid is not None else [],
+                    "x_ids": [],
+                }],
             })
         sections.append({"label": label, "bullets": bullets})
 
@@ -436,6 +467,7 @@ def heuristic_daily(profile: dict, ordered: list,
             "name": n,
             "note": title,
             "story_ids": [sid] if sid is not None else [],
+            "x_ids": [],
         })
     headline = (
         f"{sections[0]['label']} leads today's tape" if sections
@@ -573,42 +605,72 @@ def attach_weekly_sources(themes: list[dict], history: list[dict],
     return themes
 
 
-def hydrate_story_refs(recap: dict, id_lookup: list[dict]) -> dict:
-    """Replace story_ids -> embedded story objects so the frontend doesn't
-    need to know about the index. Within each bullet we dedupe by display
-    label (so "CNBC Markets" + "CNBC Finance" collapse to a single `cnbc`
-    chip) and by link (so the same article cited twice never repeats)."""
-    def fetch(ids):
-        out = []
-        seen_labels: set[str] = set()
-        seen_links: set[str] = set()
-        for i in (ids or []):
-            if not (isinstance(i, int) and 0 <= i < len(id_lookup)):
-                continue
-            s = id_lookup[i]
-            label = source_chip_label(s.get("source", ""))
-            link = s.get("link", "")
-            if label and label in seen_labels:
-                continue
-            if link and link in seen_links:
-                continue
-            if label:
-                seen_labels.add(label)
-            if link:
-                seen_links.add(link)
-            out.append({
-                "title": s["title"],
-                "link": s["link"],
-                "source": s["source"],
-                "favicon": s["favicon"],
-            })
-        return out
+def _fetch_sources(ids, id_lookup):
+    """Resolve story_ids → source dicts, deduped per call by chip label and
+    by link (so "CNBC Markets" + "CNBC Finance" collapse to one `cnbc`)."""
+    out, seen_labels, seen_links = [], set(), set()
+    for i in (ids or []):
+        if not (isinstance(i, int) and 0 <= i < len(id_lookup)):
+            continue
+        s = id_lookup[i]
+        label = source_chip_label(s.get("source", ""))
+        link = s.get("link", "")
+        if label and label in seen_labels:
+            continue
+        if link and link in seen_links:
+            continue
+        if label:
+            seen_labels.add(label)
+        if link:
+            seen_links.add(link)
+        out.append({
+            "title": s["title"],
+            "link": s["link"],
+            "source": s["source"],
+            "favicon": s["favicon"],
+        })
+    return out
 
+
+def _fetch_x_mentions(ids, x_lookup):
+    """Resolve x_ids → {handle,url} chips, deduped by handle within a call."""
+    out, seen = [], set()
+    for i in (ids or []):
+        if not (isinstance(i, int) and 0 <= i < len(x_lookup)):
+            continue
+        m = x_lookup[i]
+        h = (m.get("handle", "") or "").lstrip("@").lower()
+        if not h or h in seen:
+            continue
+        seen.add(h)
+        out.append({"handle": m["handle"], "url": m["url"]})
+    return out
+
+
+def hydrate_refs(recap: dict, story_lookup: list[dict],
+                 x_lookup: list[dict]) -> dict:
+    """Resolve story_ids / x_ids on segments and watchlist into the
+    embedded sources / x_mentions arrays the frontend expects. Tolerates
+    old-shape bullets (lead + body + story_ids on the bullet itself)
+    for backwards compatibility."""
     for sec in recap.get("sections", []) or []:
         for b in sec.get("bullets", []) or []:
-            b["sources"] = fetch(b.pop("story_ids", []))
+            segments = b.get("segments")
+            if isinstance(segments, list) and segments:
+                for seg in segments:
+                    seg["sources"] = _fetch_sources(seg.pop("story_ids", []),
+                                                   story_lookup)
+                    seg["x_mentions"] = _fetch_x_mentions(seg.pop("x_ids", []),
+                                                         x_lookup)
+            else:
+                # legacy: chips at the bullet level
+                b["sources"] = _fetch_sources(b.pop("story_ids", []),
+                                              story_lookup)
+                b["x_mentions"] = _fetch_x_mentions(b.pop("x_ids", []),
+                                                   x_lookup)
     for w in recap.get("watchlist", []) or []:
-        w["sources"] = fetch(w.pop("story_ids", []))
+        w["sources"] = _fetch_sources(w.pop("story_ids", []), story_lookup)
+        w["x_mentions"] = _fetch_x_mentions(w.pop("x_ids", []), x_lookup)
     return recap
 
 
@@ -678,6 +740,36 @@ def load_history(days: int = 7) -> list[dict]:
 
 
 # ---------------------------------------------------------------- modes
+def flatten_x_mentions(x_themes: list[dict], max_items: int = 40) -> list[dict]:
+    """Flatten X themes into a flat indexed list of unique (handle,url)
+    mentions for the daily prompt. Each entry keeps the parent theme's
+    topic + short summary so the LLM has context for what the tweet is
+    about, even though it never sees the raw tweet text."""
+    flat: list[dict] = []
+    seen: set[tuple[str, str]] = set()
+    for t in x_themes or []:
+        topic = (t.get("topic") or "").strip()
+        summary = (t.get("summary") or "").strip()
+        for m in t.get("mentions") or []:
+            handle = (m.get("handle") or "").lstrip("@").strip()
+            url = m.get("url") or ""
+            if not handle:
+                continue
+            key = (handle.lower(), url)
+            if key in seen:
+                continue
+            seen.add(key)
+            flat.append({
+                "handle": "@" + handle,
+                "url": url or f"https://x.com/{handle}",
+                "topic": topic,
+                "summary": summary[:180],
+            })
+            if len(flat) >= max_items:
+                return flat
+    return flat
+
+
 def extract_x_themes(x_summary, max_themes: int = 8) -> list[dict]:
     """Pass-through X themes for the frontend. Each theme keeps its topic,
     summary, and the {handle,url} mention list so chips can link to the
@@ -734,35 +826,31 @@ def build_daily(profile: dict) -> dict:
         sections_for_prompt.append("")
     data_block = "\n".join(sections_for_prompt)
 
-    x_block = "(none)"
-    if x_summary and x_summary.get("themes"):
-        lines = []
-        for t in x_summary["themes"][:8]:
-            handles = ", ".join(
-                str((m or {}).get("handle", ""))
-                for m in (t.get("mentions") or [])
-                if (m or {}).get("handle")
-            )
-            lines.append(
-                f"- {t.get('topic','')}: {t.get('summary','')}"
-                + (f"  ({handles})" if handles else "")
-            )
-        x_block = "\n".join(lines) or "(none)"
+    x_themes_pass = extract_x_themes(x_summary)
+    x_flat = flatten_x_mentions(x_themes_pass)
+    if x_flat:
+        x_data_block = "\n".join(
+            f"[{i}] ({m['handle']}) {m['topic']} — \"{m['summary']}\""
+            for i, m in enumerate(x_flat)
+        )
+    else:
+        x_data_block = "(none)"
 
     prompt = DAILY_PROMPT.format(
-        style=style_block(profile), data=data_block, x_block=x_block
+        style=style_block(profile), data=data_block, x_data=x_data_block
     )
 
     if not (os.environ.get("GEMINI_API_KEY") or os.environ.get("GROQ_API_KEY")):
         log("No LLM key set — writing heuristic daily recap.")
         recap = heuristic_daily(profile, ordered, x_summary, flat_lookup)
     else:
-        log(f"Calling LLM for daily recap on {len(flat)} stories ...")
+        log(f"Calling LLM for daily recap on {len(flat)} stories, "
+            f"{len(x_flat)} x_mentions ...")
         recap = call_llm(prompt, DAILY_SCHEMA)
 
-    recap = hydrate_story_refs(recap, flat_lookup)
+    recap = hydrate_refs(recap, flat_lookup, x_flat)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    x_themes = extract_x_themes(x_summary)
+    x_themes = x_themes_pass
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "mode": "daily",
