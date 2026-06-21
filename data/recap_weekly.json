@@ -1,122 +1,52 @@
 {
-  "generated_at": "2026-06-21T14:57:59+00:00",
+  "generated_at": "2026-06-21T15:44:06+00:00",
   "mode": "weekly",
   "for_week_start": "2026-06-15",
   "for_week_ending": "2026-06-21",
   "days_covered": 1,
-  "headline": "Fed hawkish; Geopolitical shifts on Iran, AI; SpaceX IPO; AI chip supply/demand in focus.",
-  "summary": "Global markets experienced a mixed week, with early gains driven by easing Middle East tensions and a strong tech rebound, tempered by a hawkish shift from the Fed. Kevin Warsh's debut as Fed Chair signaled a focus on inflation, hinting at potential policy adjustments. Geopolitics remained central, with a US-Iran peace agreement initially boosting sentiment before facing scrutiny, alongside new US export controls on advanced AI models. The AI chip sector saw significant developments, including Google exploring Samsung for next-gen TPU production amid TSMC capacity constraints. SpaceX's historic IPO dominated market attention, drawing massive investor interest.",
+  "headline": "Geopolitical Easing, AI Chip Shifts, and Central Bank Actions Shape Mixed Week",
+  "summary": "The week saw markets react to a blend of geopolitical developments, significant shifts in the AI chip landscape, and central bank signals. Easing tensions in the Middle East, driven by progress on a US-Iran deal, provided some tailwinds, while the US government's new AI export controls underscored strategic competition. In the tech sector, Google's potential partnership with Samsung for AI chip production highlighted supply chain diversification, and the highly anticipated SpaceX IPO introduced a new major player. Central banks, including the Fed and BOJ, continued to signal their monetary policy paths amid ongoing inflation concerns.",
   "themes": [
     {
-      "label": "Fed / Rates / Macro",
-      "narrative": "Kevin Warsh's debut as Fed Chair introduced a hawkish tone, emphasizing Trimmed Mean PCE as a key inflation metric and hinting at potential policy shifts. Despite some market relief from falling oil prices, the prospect of rate hikes remains a concern, especially with the BOJ also hiking rates to 1.0%.",
-      "movers": [
-        "Kevin Warsh",
-        "BOJ",
-        "WTI Oil",
-        "Nvidia",
-        "US Treasury Yields"
-      ],
-      "sources": [
-        {
-          "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-          "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-          "source": "CNBC Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        },
-        {
-          "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
-          "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        },
-        {
-          "title": "Fed’s Favorite Gauge Is Seen Showing Faster Inflation",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYW50NU0zYlVEVWNPbGFxQXJVbVRLa0h5U21oUnVVaHFCbnJCSVRYbWMzMFNyZGRxX3RpYW81Xzg0QXpKMjdVa0Z2YVk4Vzl0WW5RRk93Ull3U2lzSmJUN1VKdUhSZHFMcWNaS1h0OE41TkRyNjhjYS01b0VZSnhfYmNseWtnZjZIR0dwLUNPQmdMWU44Q05mWDRhRzVUZlJkYU9DNm83TQ?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "The Fed's Latest Inflation Outlook Offers Wall Street Its First Relief in Months",
-          "link": "https://finance.yahoo.com/economy/policy/articles/feds-latest-inflation-outlook-offers-133600184.html",
-          "source": "Yahoo Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-        }
-      ]
-    },
-    {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical developments were highly dynamic. An initial US-Iran peace agreement eased Middle East tensions and lowered oil prices, though scrutiny intensified later in the week. Concurrently, the US imposed export controls on Anthropic's advanced AI models, signaling a strategic asset classification, while China pushed for NEV heavy truck adoption and AI chip self-reliance amidst supply bottlenecks.",
+      "narrative": "Geopolitical developments presented a mixed picture this week. Progress on a US-Iran peace deal eased Middle East tensions, leading to a drop in WTI Crude Oil prices. However, the US government's imposition of export controls on Anthropic's advanced AI models signaled escalating strategic competition in AI, emphasizing \"sovereign AI\" needs. China also unveiled ambitious plans to boost NEV heavy truck adoption, backed by significant infrastructure and financial support.",
       "movers": [
-        "Iran",
         "Anthropic",
-        "US Commerce Department",
-        "China",
-        "Lockheed Martin"
+        "WTI Crude Oil",
+        "Space X",
+        "RKLB",
+        "ASTS"
       ],
-      "sources": [
-        {
-          "title": "Sizing Up Trump’s Iran Deal",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzJWczlmYktDaW5JYkxLcUh4LVVFN2FFLUxBODROd3AwUGF4NUFGcUhfME04WEwzclpsR1llYVd2TFF4WklFbVNqX2R6MWdlYmJkUGRqajBoZTVlWFBSX2xiQ0lKZkhuX19Da1BBWTl6TWd0SmQySF96ZS14UDU4Mzl0MDd2MzVEMjBpSndnSWpIdkVOUUV5S3lQTDFZMjgtWWoyMHdrSjd4bVNfLUZLaEEwUzlFMVZkNFZoLU1LSmVjazRlZ2F5M1FvdS1EQQ?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
-          "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
-          "link": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "[한우덕의 중국 읽기] 홍색 공급망",
-          "link": "https://n.news.naver.com/mnews/article/025/0003531998?sid=110",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "India Seeks US Tariff Edge Over Rivals Before Enacting Trade Pact",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2JMZUVveTgtbGNBdnZxWUhGbXA3dTJ1OGxhQ3JNNVJRM1VZajdfQm1zUmlNMDdndTluWWlpdHhGeXI3Y2Z0SGFhanQwMkxERHh1ZUw4S0NFcVdaQU1wbVRZUUsyU0puTnRTQ3I1clAtRVZHZ0RQMGZUNFhTaE9Gd1lDRUdUMXJ4OXV3d1NUcEJCMVhBZVI2VGtIelpIdTZoMlhfd25rMzdNRWp0bUpxNjBFeDdfaUE?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        }
-      ]
+      "sources": []
     },
     {
       "label": "US Semis / AI Chips",
-      "narrative": "The AI chip supply chain faced re-evaluation as TSMC's capacity constraints led Google to consider Samsung for its next-gen TPU production. This highlights the strategic importance of diversified foundry capabilities. China's ambitious AI infrastructure plans, however, face challenges from domestic AI chip and HBM supply shortages, limiting its self-reliance goals.",
+      "narrative": "The AI chip sector saw significant strategic moves. Google is reportedly considering Samsung for partial production of its next-gen TPU 'Icefish' due to TSMC capacity constraints, highlighting a push for advanced foundry diversification. Qualcomm's reported talks to acquire Tenstorrent indicate further expansion in AI chip capabilities. Meanwhile, China's ambitious AI infrastructure self-reliance goals face bottlenecks in domestic chip production and HBM supply.",
       "movers": [
+        "Samsung Electronics",
         "Google",
-        "Samsung",
         "TSMC",
         "Qualcomm",
+        "Tenstorrent",
         "SMIC"
       ],
-      "sources": [
-        {
-          "title": "Why Bernstein Just Raised Its Price Target on Arm Stock by Nearly 70%",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-just-raised-price-134501918.html",
-          "source": "Yahoo Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-        },
-        {
-          "title": "US raises alarm over possible EUV machine in China, putting ASML on the defensive",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTBPM09Fc1dldzU2LWNFdE5sQWpWTldzeTRfd21jUDhmTFJqMklaNlNINGY3MmNUU1JzRlJnX0cxZ0I3Qk1fRWhYcE15OU4tc0tUUEZyS1gtS0JRandKS2NGNkRLcld1RDBkZVhjTWU5ZXdRejFXN2xSMVVOdGVpTVVOMXdsNWkzbnVz?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        }
-      ]
+      "sources": []
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "narrative": "Central bank actions and inflation data were key macro drivers. The incoming Fed Chair's first FOMC is anticipated to focus on \"Trimmed Mean PCE\" as a potential argument for future rate cuts, though oil price impacts on inflation remain a concern. Japan's BOJ is expected to raise rates to 1.0%, marking a significant monetary policy shift. US PPI data, while higher due to energy, showed core inflation easing, mitigating broad price pressure worries.",
+      "movers": [
+        "WTI Crude Oil",
+        "Yen",
+        "US Treasuries"
+      ],
+      "sources": []
     },
     {
       "label": "Earnings / Guidance",
-      "narrative": "SpaceX's historic IPO was a major market event, attracting significant investor capital and setting a high valuation, though its unique lock-up schedule poses future liquidity considerations. Oracle's strong earnings were overshadowed by plans for substantial additional funding for AI infrastructure, while OpenAI and Anthropic prepared for a potential AI model price war, impacting profitability outlooks.",
+      "narrative": "Corporate news was dominated by the highly anticipated SpaceX IPO, which successfully listed but faces unique lock-up dynamics. Oracle's strong earnings were tempered by a substantial capital raise for AI infrastructure, impacting its stock. In the AI software space, OpenAI and Anthropic are reportedly preparing for a price war, while OpenAI also outlined a strategic shift towards a \"superapp\" model and an an IPO timeline for next year.",
       "movers": [
-        "SpaceX",
+        "Space X",
         "Oracle",
         "OpenAI",
         "Anthropic",
@@ -126,71 +56,38 @@
     },
     {
       "label": "Trump 2.0 / US Policy",
-      "narrative": "Trump's administration actively shaped policy, from brokering an initial peace agreement with Iran to considering rapid arms production demands from defense contractors. The US strategic petroleum reserve hit a 43-year low, indicating future refilling demand, while the administration's stance on AI export controls underscored a national security focus.",
+      "narrative": "US policy under Trump 2.0 continued to shape geopolitical and defense landscapes. Reports of an imminent Iran peace deal eased Middle East tensions, contributing to market optimism. Concurrently, the administration's focus on defense readiness was highlighted by potential demands for accelerated weapons production, though the allocation of critical assets like PAC-3 missiles remains under government control, creating supply uncertainty for allies.",
       "movers": [
-        "Donald Trump",
-        "Iran",
         "Lockheed Martin",
-        "US Strategic Petroleum Reserve"
+        "WTI Crude Oil"
       ],
-      "sources": [
-        {
-          "title": "Sizing Up Trump’s Iran Deal",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzJWczlmYktDaW5JYkxLcUh4LVVFN2FFLUxBODROd3AwUGF4NUFGcUhfME04WEwzclpsR1llYVd2TFF4WklFbVNqX2R6MWdlYmJkUGRqajBoZTVlWFBSX2xiQ0lKZkhuX19Da1BBWTl6TWd0SmQySF96ZS14UDU4Mzl0MDd2MzVEMjBpSndnSWpIdkVOUUV5S3lQTDFZMjgtWWoyMHdrSjd4bVNfLUZLaEEwUzlFMVZkNFZoLU1LSmVjazRlZ2F5M1FvdS1EQQ?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
-          "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
-          "link": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
-          "link": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-        },
-        {
-          "title": "EU fast-tracks US tariff deal, adds three Trump safeguards",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjdOalpab1AxYkpwSkM2R2p6Q3pPNXZqOXpyTzdDdExITXVqM2RFQjVhaFBOX3Itak9Oa3BXRW40VldqNm9kWlJYUFM1Zjk0Yl9MaFk2c21BUUduVTQ1TG03SF9qWkNrV0RhRGdPN1BiVTRuckFBaTdZd2h3VUdhZ3U1dEg4dE5hVXBLNEpQM3p0aGc?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        }
-      ]
+      "sources": []
     }
   ],
   "watchlist": [
     {
-      "name": "SpaceX",
-      "note": "Monitor post-IPO price action, ETF inclusions, and upcoming lock-up expirations."
-    },
-    {
       "name": "Anthropic",
-      "note": "Watch for further developments on US export controls and competitive pricing strategies with OpenAI."
+      "note": "Monitor impact of US export controls and ongoing price competition in AI models."
     },
     {
       "name": "Samsung Electronics",
-      "note": "Observe progress on Google's next-gen TPU contract and its broader AI foundry ambitions."
+      "note": "Watch for confirmation and details of Google's TPU production deal and its broader advanced foundry ramp."
+    },
+    {
+      "name": "SpaceX",
+      "note": "Observe post-IPO price action, especially as lock-up periods approach and ETF inclusions finalize."
     },
     {
       "name": "Oracle",
-      "note": "Track the impact of its $40B funding plan on stock performance and AI infrastructure buildout."
+      "note": "Track the deployment of its AI infrastructure investments and the market's reaction to its capital raise."
     },
     {
       "name": "WTI Crude Oil",
-      "note": "Monitor for continued volatility given the evolving US-Iran situation and SPR levels."
+      "note": "Monitor for further geopolitical developments in the Middle East and any US SPR refill announcements."
     },
     {
-      "name": "Qualcomm",
-      "note": "Follow acquisition talks with Tenstorrent and its strategy to expand AI chip capabilities."
+      "name": "TSMC",
+      "note": "Assess continued capacity constraints and client diversification strategies in the advanced node foundry market."
     }
   ],
   "x_themes": [
