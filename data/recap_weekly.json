@@ -1,96 +1,278 @@
 {
-  "generated_at": "2026-06-21T15:44:06+00:00",
+  "generated_at": "2026-06-22T00:50:50+00:00",
   "mode": "weekly",
-  "for_week_start": "2026-06-15",
-  "for_week_ending": "2026-06-21",
-  "days_covered": 1,
-  "headline": "Geopolitical Easing, AI Chip Shifts, and Central Bank Actions Shape Mixed Week",
-  "summary": "The week saw markets react to a blend of geopolitical developments, significant shifts in the AI chip landscape, and central bank signals. Easing tensions in the Middle East, driven by progress on a US-Iran deal, provided some tailwinds, while the US government's new AI export controls underscored strategic competition. In the tech sector, Google's potential partnership with Samsung for AI chip production highlighted supply chain diversification, and the highly anticipated SpaceX IPO introduced a new major player. Central banks, including the Fed and BOJ, continued to signal their monetary policy paths amid ongoing inflation concerns.",
+  "for_week_start": "2026-06-16",
+  "for_week_ending": "2026-06-22",
+  "days_covered": 2,
+  "headline": "SpaceX IPO Dominates; Fed Chair Debuts Amid AI Export Controls & Geopolitical Easing",
+  "summary": "The week was marked by the highly anticipated SpaceX IPO, which saw significant market interest and briefly propelled the company to a top-tier valuation. Geopolitical tensions eased as the US and Iran moved towards a potential agreement, driving oil prices lower and boosting broader market sentiment. However, US export controls on advanced AI models and the upcoming debut of the new Fed Chair at FOMC introduced caution, particularly for tech and AI sectors. Earnings reports from Oracle and Broadcom also highlighted evolving dynamics in AI infrastructure investment.",
   "themes": [
     {
+      "label": "SpaceX IPO / Earnings / Guidance",
+      "narrative": "SpaceX's IPO was a major market event, with the stock debuting strongly and briefly reaching a top-5 US market cap. While strong demand and anticipated ETF inclusions supported the stock, unique lock-up structures allow for phased insider sales. Oracle's earnings beat was overshadowed by a significant capital raise for AI infrastructure, while Broadcom faced scrutiny over AI revenue visibility and customer diversification. OpenAI is considering token price cuts amid competition and plans a \"superapp\" transformation ahead of its IPO.",
+      "movers": [
+        "SpaceX",
+        "Oracle",
+        "Broadcom",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "sources": []
+    },
+    {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical developments presented a mixed picture this week. Progress on a US-Iran peace deal eased Middle East tensions, leading to a drop in WTI Crude Oil prices. However, the US government's imposition of export controls on Anthropic's advanced AI models signaled escalating strategic competition in AI, emphasizing \"sovereign AI\" needs. China also unveiled ambitious plans to boost NEV heavy truck adoption, backed by significant infrastructure and financial support.",
+      "narrative": "Geopolitical tensions eased as the US and Iran progressed towards a potential peace agreement, driving oil prices down and boosting market sentiment. Concurrently, the US government imposed export controls on Anthropic's advanced AI models (Mythos 5, Fable 5) for foreign access, citing national security concerns and marking a significant intervention in the AI sector. China outlined ambitious plans to expand NEV heavy truck adoption, targeting 40% penetration by 2030.",
       "movers": [
         "Anthropic",
-        "WTI Crude Oil",
-        "Space X",
-        "RKLB",
-        "ASTS"
+        "Iran",
+        "US Government",
+        "Lockheed Martin"
       ],
       "sources": []
     },
     {
       "label": "US Semis / AI Chips",
-      "narrative": "The AI chip sector saw significant strategic moves. Google is reportedly considering Samsung for partial production of its next-gen TPU 'Icefish' due to TSMC capacity constraints, highlighting a push for advanced foundry diversification. Qualcomm's reported talks to acquire Tenstorrent indicate further expansion in AI chip capabilities. Meanwhile, China's ambitious AI infrastructure self-reliance goals face bottlenecks in domestic chip production and HBM supply.",
+      "narrative": "The AI chip landscape saw significant developments, with Google reportedly considering Samsung for parts of its next-gen TPU 'Icefish' production, diversifying from TSMC due to capacity constraints. Qualcomm is in talks to acquire Tenstorrent to bolster its AI chip capabilities. China's push for domestic AI infrastructure faces bottlenecks in SMIC's 7nm capacity and HBM supply, potentially delaying its 2028 completion target. SK is also exploring AI data center and semiconductor factory investments in Japan.",
       "movers": [
-        "Samsung Electronics",
+        "Samsung",
         "Google",
-        "TSMC",
         "Qualcomm",
         "Tenstorrent",
-        "SMIC"
+        "SK"
       ],
       "sources": []
     },
     {
       "label": "Fed / Rates / Macro",
-      "narrative": "Central bank actions and inflation data were key macro drivers. The incoming Fed Chair's first FOMC is anticipated to focus on \"Trimmed Mean PCE\" as a potential argument for future rate cuts, though oil price impacts on inflation remain a concern. Japan's BOJ is expected to raise rates to 1.0%, marking a significant monetary policy shift. US PPI data, while higher due to energy, showed core inflation easing, mitigating broad price pressure worries.",
+      "narrative": "The market anticipated the debut of new Fed Chair Kevin Warsh at the FOMC, with focus on his preferred \"Trimmed Mean PCE\" inflation metric, which could inform future rate decisions. The Bank of Japan was expected to raise its benchmark rate to 1.0%, marking its first return to that level since 1995. Despite higher-than-expected May PPI driven by energy, core inflation figures were lower, alleviating broader inflation concerns.",
       "movers": [
-        "WTI Crude Oil",
-        "Yen",
-        "US Treasuries"
-      ],
-      "sources": []
-    },
-    {
-      "label": "Earnings / Guidance",
-      "narrative": "Corporate news was dominated by the highly anticipated SpaceX IPO, which successfully listed but faces unique lock-up dynamics. Oracle's strong earnings were tempered by a substantial capital raise for AI infrastructure, impacting its stock. In the AI software space, OpenAI and Anthropic are reportedly preparing for a price war, while OpenAI also outlined a strategic shift towards a \"superapp\" model and an an IPO timeline for next year.",
-      "movers": [
-        "Space X",
-        "Oracle",
-        "OpenAI",
-        "Anthropic",
-        "Broadcom"
+        "Fed",
+        "BOJ"
       ],
       "sources": []
     },
     {
       "label": "Trump 2.0 / US Policy",
-      "narrative": "US policy under Trump 2.0 continued to shape geopolitical and defense landscapes. Reports of an imminent Iran peace deal eased Middle East tensions, contributing to market optimism. Concurrently, the administration's focus on defense readiness was highlighted by potential demands for accelerated weapons production, though the allocation of critical assets like PAC-3 missiles remains under government control, creating supply uncertainty for allies.",
+      "narrative": "Trump's statements regarding a nearing agreement with Iran significantly eased Middle East risk, contributing to a market rebound and lower oil prices. The administration's focus on defense was evident, with reports of Trump convening defense contractors to demand faster weapon production. The US government's imposition of AI export controls on Anthropic's models also reflected a broader policy push to secure advanced AI as a strategic asset.",
       "movers": [
-        "Lockheed Martin",
-        "WTI Crude Oil"
+        "Trump",
+        "US Government",
+        "Iran"
       ],
       "sources": []
     }
   ],
   "watchlist": [
     {
-      "name": "Anthropic",
-      "note": "Monitor impact of US export controls and ongoing price competition in AI models."
-    },
-    {
-      "name": "Samsung Electronics",
-      "note": "Watch for confirmation and details of Google's TPU production deal and its broader advanced foundry ramp."
-    },
-    {
       "name": "SpaceX",
-      "note": "Observe post-IPO price action, especially as lock-up periods approach and ETF inclusions finalize."
+      "note": "Monitor post-IPO trading, ETF inclusions, and impact of phased lock-up expirations."
     },
     {
-      "name": "Oracle",
-      "note": "Track the deployment of its AI infrastructure investments and the market's reaction to its capital raise."
+      "name": "Anthropic",
+      "note": "Watch for further developments on US export controls and competitive pricing strategies with OpenAI."
     },
     {
-      "name": "WTI Crude Oil",
-      "note": "Monitor for further geopolitical developments in the Middle East and any US SPR refill announcements."
+      "name": "Samsung",
+      "note": "Track progress on Google TPU production deal and its implications for advanced foundry competitiveness."
     },
     {
-      "name": "TSMC",
-      "note": "Assess continued capacity constraints and client diversification strategies in the advanced node foundry market."
+      "name": "Fed",
+      "note": "Await new Chair Kevin Warsh's first FOMC meeting and commentary on inflation metrics and future rate path."
+    },
+    {
+      "name": "Oil Futures",
+      "note": "Observe price movements as US-Iran de-escalation progresses and Strategic Petroleum Reserve refill needs emerge."
+    },
+    {
+      "name": "Qualcomm",
+      "note": "Monitor potential acquisition of Tenstorrent and its strategy to expand AI chip capabilities."
     }
   ],
   "x_themes": [
+    {
+      "topic": "AI Data Center Interconnect & Optical Supercycle",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The optical networking sector is experiencing a supercycle, driven by increasing demand for high-speed interconnects like CXL and CPO in AI data centers. Companies like Sivers and OE Solutions are emerging as key suppliers for 1.6T transceivers and advanced laser technologies, while Marvell and Tower are shipping coherent PICs for scale-across data center architectures.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2068844291020255623"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2068777078909268273"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2068754953380983202"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2068651355422814294"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2068539805009613105"
+        }
+      ]
+    },
+    {
+      "topic": "Memory Market Supercycle & AI Demand",
+      "category": "tech",
+      "subcategory": "memory",
+      "summary": "A supercycle in the memory market is underway, fueled by surging AI demand for HBM, DRAM, and NAND, leading to massive capital expenditure by manufacturers like Samsung. Hyperscalers are projected to significantly increase memory spending, driving ASP increases and undersupply, with companies like Micron and Kioxia poised for strong performance.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2068833982037565498"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2068821671201665105"
+        },
+        {
+          "handle": "@investingluc",
+          "url": "https://x.com/investingluc/status/2068818155879772261"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2068463438473445706"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2068417443836436575"
+        }
+      ]
+    },
+    {
+      "topic": "Advanced Packaging & Glass Substrates for AI Chips",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "Innovations in advanced packaging, particularly glass-based substrates, are critical for next-gen AI chips, with companies like LPKF developing LIDE technology and JNTC advancing TGV glass substrates. Packaging and testing giants like ASE are significantly increasing capex to meet booming demand for advanced packaging from AI clients like Nvidia.",
+      "mentions": [
+        {
+          "handle": "@vlmkapital",
+          "url": "https://x.com/vlmkapital/status/2068318125745938821"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2068288936405848557"
+        },
+        {
+          "handle": "@latent_value7",
+          "url": "https://x.com/latent_value7/status/2067984810421739531"
+        },
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2067795195685659096"
+        }
+      ]
+    },
+    {
+      "topic": "AI Model Competition & Open-Weight Systems",
+      "category": "tech",
+      "subcategory": "software",
+      "summary": "The AI model landscape is intensifying, with Anthropic's valuation surpassing OpenAI and open-weight models like GLM-5.2 closing the performance gap with proprietary systems, potentially pressuring pricing power. Agentic LLM processes are driving exponentially higher GPU and CPU compute requirements, while Nvidia is also pushing into AI PCs.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2068823077190799841"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2068811290592911808"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2068641466961072259"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2068492116075131134"
+        }
+      ]
+    },
+    {
+      "topic": "Power & Cooling for AI Data Centers",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The immense power demands of AI data centers and semiconductor manufacturing are causing significant electricity demand growth in regions like Taiwan, with Nvidia CEO Jensen Huang highlighting the need for more power. The construction of Nvidia Rubin-based AI data centers involves substantial costs, including high hardware depreciation and electricity bills, driving interest in advanced cooling solutions like microfluidics.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2067786864376119468"
+        },
+        {
+          "handle": "@vlmkapital",
+          "url": "https://x.com/vlmkapital/status/2067958593811308552"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2067769813204877491"
+        }
+      ]
+    },
+    {
+      "topic": "Geopolitics & Critical Tech Supply Chains",
+      "category": "other",
+      "subcategory": "Geopolitics",
+      "summary": "Geopolitical tensions, such as US-Iran talks impacting oil prices and the Strait of Hormuz, continue to influence global markets. Trade wars are increasingly focused on frontier tech supply chains like Quantum, AI, and Robotics, where non-US countries hold critical chokepoints, highlighting the need for strategic partnerships over tariffs.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2068828244510482574"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2068735011881198072"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2068537478131118438"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2068628109226918029"
+        }
+      ]
+    },
+    {
+      "topic": "Foundry Market Dynamics & Mature Node Recovery",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The mature process node market is recovering, with UMC seeing utilization climbing and ASP hikes, driven by rebounding demand for consumer electronics, AI server peripheral chips, and geopolitical 'China-Plus-One' strategies. This recovery is also influenced by TSMC's focus on advanced nodes, creating opportunities for mature node foundries and SiPho manufacturing.",
+      "mentions": [
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2068076956156035455"
+        }
+      ]
+    },
+    {
+      "topic": "Semiconductor Manufacturing Materials & Tooling Supply",
+      "category": "tech",
+      "subcategory": "infrastructure",
+      "summary": "The semiconductor manufacturing supply chain faces disruptions, including shortages and price hikes in critical raw materials like E-glass fabric for PCBs, impacting Nvidia suppliers. There are also concerns over tungsten rod supply disruptions affecting PCB tools and corporate governance issues at key semiconductor tool parts suppliers like Worldex.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2067795577409262038"
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2067938233225462003"
+        },
+        {
+          "handle": "@Blinklebloop",
+          "url": "https://x.com/Blinklebloop/status/2067877428186247207"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2068649199265308989"
+        }
+      ]
+    },
     {
       "topic": "AI Optical Interconnects & CPO",
       "category": "tech",
