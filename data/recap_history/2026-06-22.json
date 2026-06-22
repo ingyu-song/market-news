@@ -1,22 +1,28 @@
 {
-  "generated_at": "2026-06-22T00:50:32+00:00",
+  "generated_at": "2026-06-22T23:16:12+00:00",
   "mode": "daily",
   "for_date": "2026-06-22",
-  "headline": "US Indices Mixed; SpaceX Soars, Fed Chair Debuts, AI Export Controls Imposed",
-  "summary": "US indices saw mixed performance with DOW +0.6%, S&P500 -0.6%, and NASDAQ -1.2%. SpaceX's market debut captured attention, while concerns over the new Fed Chair's stance on inflation and US AI export controls on advanced models weighed on tech. Geopolitical developments regarding US-Iran talks also remained a key market driver.",
+  "headline": "Tech Drag Weighs on S&P, Nasdaq; AI Chip Competition Heats Up",
+  "summary": "DOW +0.6%, S&P500 -0.6%, NASDAQ -1.2%. Tech sector weakness, particularly in semis, offset DOW gains. Focus remains on AI chip supply chain dynamics, Fed policy signals, and geopolitical developments in the Middle East.",
   "sections": [
     {
-      "label": "Fed / Rates / Macro",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Inflation outlook remains a key focus.",
+          "lead": "Qualcomm is reportedly in talks to acquire AI chip startup Modular.",
           "segments": [
             {
-              "text": "However, the broader impact of oil prices on overall inflation makes it challenging for the Fed to easily pivot to rate cuts.",
+              "text": "This acquisition would expand Qualcomm's AI chip capabilities, leveraging RISC-V designs to reduce reliance on Intel and ARM architectures.",
               "sources": [
                 {
-                  "title": "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFBTYUJfM1ZMQ2t0aURxTm5RNjRTVUhWdUEwRmxLVUVEUXlHU19VYVdfSWxTd19ZSllheXZvd1J5TE9JMFByQ3d4YV90cEZfS21MMjFhY2pxcmtGQW93bXBraVlCMkU1WVN3cE0tbVdNSEctczF5UHFZTHViS2ZYeE9EZHotMC1BRVR3a3dkdU1QejhvakNZbFkyUVhDM2Q3enllcGtITUZQNU5rQXA4?oc=5",
+                  "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports",
+                  "link": "https://www.investing.com/news/stock-market-news/qualcomm-nearing-deal-for-ai-chip-startup-modular-bloomberg-news-reports-4754243",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Qualcomm Nears Deal for AI Chip Startup Modular",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTURWQnBYRW1BNnVCcVlhTDBPTWhwQ0ZxWlh5ZGtEa2lrN0JCUUowRDdFckYtSXZPcko3bXJGTnZ4VmQ3OWpMYm1nN1M3TUFmSDhBLVFDWnBRRGRPLUhvNlY0NkZUalFQdjI3MTluQVgteGI0TDIzQjYyb1lsb2liNTNjZlNDN2cyNWZpSVo2cmpwYTl1QTFrREVacVRwMjhXam5RWVRxS0xsWkc5?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -24,69 +30,22 @@
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
+        },
         {
-          "lead": "US-Iran peace talks progress, easing Middle East tensions.",
+          "lead": "Google is considering Samsung for partial production of its next-gen AI chip, Icefish.",
           "segments": [
             {
-              "text": "Reports indicated a potential peace agreement between the US and Iran, with President Trump suggesting a signing ceremony in Europe over the weekend, which initially led to a drop in oil prices and a market rally.",
+              "text": "The 10th-gen TPU's core compute engine would still be produced by TSMC on 1.4nm, while Samsung could handle the 2nm memory I/O die, diversifying supply due to TSMC's tight capacity from Nvidia AI chip demand.",
               "sources": [
                 {
-                  "title": "US stock futures slide after Trump threatens more Iran strikes despite peace talks",
-                  "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-after-trump-threatens-more-iran-strikes-despite-peace-talks-4751694",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2FiMFU4dlRLcmFxWjNReTI2SlJKSk01c01TVkZJd0ZnaTFmeEhOVkZDUVhtb1FVMXZUYWF3QW0tbnVyRHJIdlFlNFEzS2s5XzNTdkYtdU5NbktJRTdnVHIyLUdodm9pdDNWcmVic3hOTDYzWi1nWEhIVG9KemJ0VUNCS3NKRk90SktMZVYzSEU4R1E5UU5fWVVpU0t2OTA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Sizing Up Trump’s Iran Deal",
-                  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzJWczlmYktDaW5JYkxLcUh4LVVFN2FFLUxBODROd3AwUGF4NUFGcUhfME04WEwzclpsR1llYVd2TFF4WklFbVNqX2R6MWdlYmJkUGRqajBoZTVlWFBSX2xiQ0lKZkhuX19Da1BBWTl6TWd0SmQySF96ZS14UDU4Mzl0MDd2MzVEMjBpSndnSWpIdkVOUUV5S3lQTDFZMjgtWWoyMHdrSjd4bVNfLUZLaEEwUzlFMVZkNFZoLU1LSmVjazRlZ2F5M1FvdS1EQQ?oc=5",
+                  "title": "ECB’s Chief Economist Sees Prolonged Period Of High Inflation",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZlVWR3lOY2xsU1hNeU90R2FUSkxmWGFSVm41SkFqSUhGX3pPTGZlRlpsUGVNbk85N3hKM2k1T0YwdmFzajA2ZXJaNHM5ekEyb0F4Z1lQaFJSd0NTd3VjWWFxcC1vWHBGbUUxRWkxMi1UQ0J3TnRmRmdaTlVUSWx1R1U2ZFlwTFhhY1A3bnpaNjBreXpub0w1eEVkZjBvbkszbEZUVVJaVWFhNmJzVGc?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
-                  "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
-                  "link": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "However, renewed threats from Trump later caused oil to climb, highlighting persistent uncertainty.",
-              "sources": [
-                {
-                  "title": "US stock futures slide after Trump threatens more Iran strikes despite peace talks",
-                  "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-after-trump-threatens-more-iran-strikes-despite-peace-talks-4751694",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2FiMFU4dlRLcmFxWjNReTI2SlJKSk01c01TVkZJd0ZnaTFmeEhOVkZDUVhtb1FVMXZUYWF3QW0tbnVyRHJIdlFlNFEzS2s5XzNTdkYtdU5NbktJRTdnVHIyLUdodm9pdDNWcmVic3hOTDYzWi1nWEhIVG9KemJ0VUNCS3NKRk90SktMZVYzSEU4R1E5UU5fWVVpU0t2OTA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Stocks slip in Asia, oil up on peace doubts",
-                  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
-                  "link": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
+                  "title": "Amazon’s Movie Arm Abandons Film About OpenAI",
+                  "link": "https://www.nytimes.com/2026/06/19/business/media/amazon-openai-artificial-movie-sam-altman.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
@@ -96,11 +55,116 @@
           ]
         },
         {
-          "lead": "Geopolitical tensions impact critical tech supply chains.",
+          "lead": "Advanced packaging and glass substrates are critical for future AI chips.",
           "segments": [
             {
-              "text": "Broader geopolitical tensions, including US-Iran talks and trade wars, are increasingly focusing on frontier technologies, influencing global markets and highlighting the strategic importance of tech supply chains.",
+              "text": "Innovations like LIDE technology and advancements in T-glass are being developed by companies such as LPKF and JNTC to meet the demands of next-generation AI architectures.",
               "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@vlmkapital",
+                  "url": "https://x.com/vlmkapital/status/2068318125745938821"
+                },
+                {
+                  "handle": "@ParadisLabs",
+                  "url": "https://x.com/ParadisLabs/status/2068288936405848557"
+                },
+                {
+                  "handle": "@latent_value7",
+                  "url": "https://x.com/latent_value7/status/2067984810421739531"
+                },
+                {
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2067795195685659096"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "The optical networking sector is experiencing a supercycle driven by AI data center demand.",
+          "segments": [
+            {
+              "text": "High-speed interconnects like CXL and CPO are seeing increased adoption, benefiting companies like Sivers.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@damnang2",
+                  "url": "https://x.com/damnang2/status/2068844291020255623"
+                },
+                {
+                  "handle": "@crux_capital_",
+                  "url": "https://x.com/crux_capital_/status/2068777078909268273"
+                },
+                {
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2068754953380983202"
+                },
+                {
+                  "handle": "@aleabitoreddit",
+                  "url": "https://x.com/aleabitoreddit/status/2068651355422814294"
+                },
+                {
+                  "handle": "@PhotonCap",
+                  "url": "https://x.com/PhotonCap/status/2068539805009613105"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "The US government has imposed export controls on Anthropic's top-tier AI models, Mythos 5 and Fable 5.",
+          "segments": [
+            {
+              "text": "This move, citing national security concerns, restricts foreign access to advanced AI models and follows reports of a jailbreak vulnerability in Mythos.",
+              "sources": [
+                {
+                  "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
+                  "link": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US and Iran are nearing a peace agreement, easing Middle East tensions and lowering oil prices.",
+          "segments": [
+            {
+              "text": "This development, including the potential reopening of the Strait of Hormuz, has led to a 4% drop in WTI crude to $81 and a positive market reaction.",
+              "sources": [
+                {
+                  "title": "Gold Holds Decline After Trump Warns Iran During Peace Talks",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVEtNmJ2RFd1QjVFaXZ4WUlMdFpPVFMxNl9iZmkxdWM5WTUtSHJmM19JRUR0amotLS1vZzZlSkNpS1BxY0Vjai1DdENGaG56Q3Y3T2J3RU80amFpWFRPU0IzWG5ScmFUNloxbTBpVTJSTVhVZEFUdnhnRnhjUkRzREFzaWtEVkF3ZE43WllTRE5leTFCOFVmdENCZjh6SVRxMEtETVJlSzgzZjVhQjhGTg?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+                  "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                },
+                {
+                  "title": "U.S. Allows Iran to Sell Oil in Dollars for First Time in Decades",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGFya3RELVpqdFpZZVNITE9SS1N2aUVjM1NMYkxzNTBJY0ZvcEYzajcwaTZKQkp0ZmZoZGlWQk1tU1N3UGZyS1BqX1pYTE9ialIyNVlxZVNZZnJoVGhscW4yZjZfc0tlV0tjNmVzZmpXVml2bmd5b1lRTW9FOEhneGZvOGdSRVdxYldmWnR4VTBNWlN5MEpjcEN4emYteGt4RGQ4RzdPX1A?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
+                  "link": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
               "x_mentions": [
                 {
                   "handle": "@TheValueist",
@@ -121,23 +185,18 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "US Semis / AI Chips",
-      "bullets": [
+        },
         {
-          "lead": "US government imposed AI export controls on Anthropic's top models.",
+          "lead": "China is accelerating the adoption of NEV heavy-duty trucks, targeting 40% penetration by 2030.",
           "segments": [
             {
-              "text": "The Trump administration reportedly blocked foreign access to Anthropic's Mythos 5 and Fable 5 models, citing national security concerns and marking the first government intervention into AI models for security reasons.",
+              "text": "The plan includes increasing NEV heavy-duty truck operations to over 1.6 million units, electrifying 80% of fixed short-haul routes, and building extensive charging infrastructure.",
               "sources": [
                 {
-                  "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
-                  "link": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "China launches 2026 NEV rural promotion campaign to accelerate EV expansion into county-level markets",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXhzQzZwZ0NXbkZ1c3pwSnl0VFp2bXNPaEFuWVpaX3VkVHZObGFIeE5xOXd1MmNTZHdxNkZVMkJ1eXIwZlZGXy1fajZHRHZweFhubmYxZ0RHZTVnSnczMklmV1NsZkZuZVYzOW1aekZvSjdNT0lSX1dUWndpVEExZlFRajBXYVpZMXNrblN0WQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -147,25 +206,65 @@
       ]
     },
     {
-      "label": "Software / Internet / Platforms",
+      "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "SpaceX surpassed Amazon in market capitalization.",
+          "lead": "Oracle's workforce has shrunk by approximately 21,000 employees in 2026, with AI replacing some roles.",
           "segments": [
             {
-              "text": "Just three days after its listing, SpaceX overtook Amazon to become the 5th largest company by market cap in the US, briefly reaching 4th before closing at 5th.",
+              "text": "Despite strong performance, the company announced plans to raise an additional $40 billion for AI infrastructure, including $20 billion in new share issuance, which led to a stock decline.",
               "sources": [
                 {
-                  "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-                  "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                  "title": "Oracle Cut 21,000 Employees in 2026, Says AI Replaced Some Jobs",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm9CblE0Rkl2MFBzUVZKSjV2RnpSdU5wYTBJelpaUjBUbVpEN2p3QlhjRl95UmY2U3FMaEZuWV94cllGcElDT0RBWUVWREdLeUhQUG5UTV9kWElvcjRlVzVjZDdKaDBIWWxtWDRVQzQxbHFfVndHOFBqZW56NzhNRDBnNjRDalJVOC1TRUtHOEJfQnhOQ1hPVkhvbmYtZS10VGFBV0V6MGF1UQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 },
                 {
-                  "title": "SpaceX soars above Amazon in market cap",
-                  "link": "https://www.axios.com/2026/06/16/spacex-amazon-market-cap",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+                  "link": "https://www.investing.com/news/stock-market-news/oracle-workforce-shrinks-by-about-13-4753911",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Oracle workforce shrinks by about 13%",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump announced that a final agreement with Iran is in its concluding stages, with a signing ceremony possibly this weekend.",
+          "segments": [
+            {
+              "text": "This progress on a peace deal has eased concerns about Middle East escalation and led to a sharp rebound in US equities, particularly tech and semiconductor sectors.",
+              "sources": [
+                {
+                  "title": "Gold Holds Decline After Trump Warns Iran During Peace Talks",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVEtNmJ2RFd1QjVFaXZ4WUlMdFpPVFMxNl9iZmkxdWM5WTUtSHJmM19JRUR0amotLS1vZzZlSkNpS1BxY0Vjai1DdENGaG56Q3Y3T2J3RU80amFpWFRPU0IzWG5ScmFUNloxbTBpVTJSTVhVZEFUdnhnRnhjUkRzREFzaWtEVkF3ZE43WllTRE5leTFCOFVmdENCZjh6SVRxMEtETVJlSzgzZjVhQjhGTg?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Trump allies defend him to Israelis anxious over Iran deal",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDBYQjhCNzJZUDdMSjk1SGZiZ1lZbnhGYllrWEVMMUFibEFKNS1FVEpPZGxfU2pBLWxMcGdNenpyM1Vsc0Y2cmpDc1huZVhuN1VtX2VSWk01VnAtMGFnRVhFcGNXNndSUWlGNTltN1lJTmJ0VjhxODFsZWtmdXVxZ0g3MTBfTnQ3Nnl6QV9adTJ0Q3lRNF9SOFdYTHMzdDNGOUdhRVo0a1FQM05ITnEtQ2pZUm8?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Is Trump's Iran deal a failure? - video explainer",
+                  "link": "https://www.theguardian.com/us-news/video/2026/jun/19/trump-iran-deal-failure-video-explainer",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -178,80 +277,66 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "New Chair Kevin Warsh's initial FOMC and inflation commentary will set the tone for future rate policy.",
+      "note": "Watch for signals from new Chair Kevin Warsh's first FOMC regarding rate policy and communication strategy, especially on inflation metrics like Trimmed Mean PCE.",
+      "sources": [],
+      "x_mentions": []
+    },
+    {
+      "name": "AI Chipmakers",
+      "note": "Monitor M&A activity like Qualcomm's potential acquisition of Modular and strategic partnerships such as Google's consideration of Samsung for TPU production, indicating shifts in the AI chip supply chain.",
       "sources": [
         {
-          "title": "Opinion | Kevin Warsh Returns the Fed to a More Disciplined Model",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2xpU09Hdy1aTlB4THRLam1ZSDBaTGN5WUpSTDFmQmg1MkNKZG5uMFRlOGJtSWwtQ0k4WXpTU3lTakxPTXdqUkJLaTVFSFI2UDEyRGhWN0lRSzBvTmNjNDhEMFdCVzBOeFB6MWVSSXVxWkdlb1VvVFJteUJ5dWpxMzdLNUlycThLYzZsbGUzdWNGSFdsSFZJ?oc=5",
+          "title": "ECB’s Chief Economist Sees Prolonged Period Of High Inflation",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZlVWR3lOY2xsU1hNeU90R2FUSkxmWGFSVm41SkFqSUhGX3pPTGZlRlpsUGVNbk85N3hKM2k1T0YwdmFzajA2ZXJaNHM5ekEyb0F4Z1lQaFJSd0NTd3VjWWFxcC1vWHBGbUUxRWkxMi1UQ0J3TnRmRmdaTlVUSWx1R1U2ZFlwTFhhY1A3bnpaNjBreXpub0w1eEVkZjBvbkszbEZUVVJaVWFhNmJzVGc?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-          "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-          "source": "CNBC Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Anthropic",
-      "note": "US export controls on its top AI models raise questions about market access and development for foreign entities.",
-      "sources": [
+          "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports",
+          "link": "https://www.investing.com/news/stock-market-news/qualcomm-nearing-deal-for-ai-chip-startup-modular-bloomberg-news-reports-4754243",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
         {
-          "title": "Exclusive: Trump tells \"The Axios Show\" that Anthropic was a national security threat",
-          "link": "https://www.axios.com/2026/06/19/trump-anthropic-national-security-the-axios-show",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+          "title": "Qualcomm Nears Deal for AI Chip Startup Modular",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTURWQnBYRW1BNnVCcVlhTDBPTWhwQ0ZxWlh5ZGtEa2lrN0JCUUowRDdFckYtSXZPcko3bXJGTnZ4VmQ3OWpMYm1nN1M3TUFmSDhBLVFDWnBRRGRPLUhvNlY0NkZUalFQdjI3MTluQVgteGI0TDIzQjYyb1lsb2liNTNjZlNDN2cyNWZpSVo2cmpwYTl1QTFrREVacVRwMjhXam5RWVRxS0xsWkc5?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "SpaceX",
-      "note": "Post-IPO trading dynamics and upcoming index inclusions will influence its valuation and peer space companies.",
-      "sources": [
-        {
-          "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-          "link": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        },
-        {
-          "title": "SpaceX soars above Amazon in market cap",
-          "link": "https://www.axios.com/2026/06/16/spacex-amazon-market-cap",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-        }
-      ],
+      "note": "Observe post-IPO trading dynamics, including ETF inclusion flows and the impact of its unique, staggered lock-up release schedule on price stability.",
+      "sources": [],
       "x_mentions": []
     },
     {
-      "name": "Oil",
-      "note": "Geopolitical developments in the Middle East, particularly US-Iran talks, will continue to drive price volatility.",
+      "name": "Oil Prices",
+      "note": "Continue to track developments in US-Iran peace talks and their potential impact on the Strait of Hormuz and global crude supply, which has already driven WTI down to $81.",
       "sources": [
         {
-          "title": "US stock futures slide after Trump threatens more Iran strikes despite peace talks",
-          "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-after-trump-threatens-more-iran-strikes-despite-peace-talks-4751694",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2FiMFU4dlRLcmFxWjNReTI2SlJKSk01c01TVkZJd0ZnaTFmeEhOVkZDUVhtb1FVMXZUYWF3QW0tbnVyRHJIdlFlNFEzS2s5XzNTdkYtdU5NbktJRTdnVHIyLUdodm9pdDNWcmVic3hOTDYzWi1nWEhIVG9KemJ0VUNCS3NKRk90SktMZVYzSEU4R1E5UU5fWVVpU0t2OTA?oc=5",
+          "title": "Gold Holds Decline After Trump Warns Iran During Peace Talks",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVEtNmJ2RFd1QjVFaXZ4WUlMdFpPVFMxNl9iZmkxdWM5WTUtSHJmM19JRUR0amotLS1vZzZlSkNpS1BxY0Vjai1DdENGaG56Q3Y3T2J3RU80amFpWFRPU0IzWG5ScmFUNloxbTBpVTJSTVhVZEFUdnhnRnhjUkRzREFzaWtEVkF3ZE43WllTRE5leTFCOFVmdENCZjh6SVRxMEtETVJlSzgzZjVhQjhGTg?oc=5",
           "source": "Bloomberg (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
-          "title": "Stocks slip in Asia, oil up on peace doubts",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUJKVXNjdDQ1Qk4wVGUxU0VYY2FROHplR3N5UW0zT0JjZUgyQnN5MDltTHRxVWtwQktOdUdEcXh1YUY3OTNOUnNWMmNoMXNnRmZTNlI4NzFMeHRoR2Zmd1dwTlJSUldqUkVQcXJfVThwYnhSR0tPMnBUbm5jTW8tQTU3cmtmdw?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+          "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+          "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
         },
         {
-          "title": "Oil Rises Amid Uncertainty Over Strait of Hormuz",
-          "link": "https://www.nytimes.com/2026/06/21/business/oil-rises-amid-uncertainty-over-strait-of-hormuz.html",
+          "title": "U.S. Allows Iran to Sell Oil in Dollars for First Time in Decades",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGFya3RELVpqdFpZZVNITE9SS1N2aUVjM1NMYkxzNTBJY0ZvcEYzajcwaTZKQkp0ZmZoZGlWQk1tU1N3UGZyS1BqX1pYTE9ialIyNVlxZVNZZnJoVGhscW4yZjZfc0tlV0tjNmVzZmpXVml2bmd5b1lRTW9FOEhneGZvOGdSRVdxYldmWnR4VTBNWlN5MEpjcEN4emYteGt4RGQ4RzdPX1A?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
+          "link": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
@@ -274,12 +359,6 @@
           "url": "https://x.com/jukan05/status/2068628109226918029"
         }
       ]
-    },
-    {
-      "name": "Samsung Electronics",
-      "note": "Potential Google TPU partnership could significantly boost its advanced foundry references amid TSMC capacity constraints.",
-      "sources": [],
-      "x_mentions": []
     }
   ],
   "x_themes": [
@@ -473,67 +552,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7500.58,
-      "change": 80.48,
-      "change_pct": 1.08
+      "price": 7472.79,
+      "change": -27.79,
+      "change_pct": -0.37
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 26517.93,
-      "change": 496.27,
-      "change_pct": 1.91
+      "price": 26166.6,
+      "change": -351.33,
+      "change_pct": -1.32
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 51564.7,
-      "change": 72.15,
-      "change_pct": 0.14
+      "price": 51712.71,
+      "change": 148.01,
+      "change_pct": 0.29
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2979.77,
-      "change": 61.79,
-      "change_pct": 2.12
+      "price": 3004.4,
+      "change": 24.64,
+      "change_pct": 0.83
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 71954.37,
-      "change": 1000.05,
-      "change_pct": 1.41
+      "price": 72353.96,
+      "change": 1399.65,
+      "change_pct": 1.97
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 23924.81,
-      "change": -387.35,
-      "change_pct": -1.59
+      "price": 23768.52,
+      "change": -156.29,
+      "change_pct": -0.65
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 9009.55,
-      "change": -51.28,
-      "change_pct": -0.57
+      "price": 9114.55,
+      "change": 62.13,
+      "change_pct": 0.69
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 46465.2,
-      "change": 749.14,
-      "change_pct": 1.64
+      "price": 47741.51,
+      "change": 1315.99,
+      "change_pct": 2.83
     }
   ],
-  "story_count": 66,
-  "bucket_count": 13
+  "story_count": 71,
+  "bucket_count": 12
 }
