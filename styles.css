@@ -665,6 +665,16 @@ a { color: inherit; text-decoration: none; }
   color: var(--text);
   margin: 0;
 }
+/* Per-segment line within a bullet. Each segment ends with its own chips,
+   so a small bottom margin keeps the chips visually attached to the
+   sentence they support and away from the next sentence's text. */
+.recap-bullet-line {
+  font-size: 14px;
+  line-height: 1.65;
+  color: var(--text);
+  margin: 0 0 6px;
+}
+.recap-bullet-line:last-child { margin-bottom: 0; }
 .recap-bullet-lead {
   font-weight: 700;
   color: var(--text);

@@ -468,27 +468,33 @@ function appendInlineChips(p, sources, xMentions) {
 }
 
 // Build a bullet body. Three shapes supported, in priority order:
-//   1) NEW — lead + segments[]: each segment is one sentence with its own
-//      news source chips and X handle chips inline at the end.
+//   1) NEW — lead + segments[]: each segment renders as its own line within
+//      the bullet, with the lead bolded inline at the start of segment 1.
+//      Chips sit at the end of each line so they don't visually merge into
+//      the next sentence's text.
 //   2) LEGACY — lead + body + sources at the bullet level (older LLM output).
 //   3) MIN — text + sources (heuristic / weekly themes passed through).
 function renderRecapBulletText(b) {
-  const p = el("p", "recap-bullet-text");
   const lead = (b.lead || "").trim();
-  if (lead) p.appendChild(el("strong", "recap-bullet-lead", lead));
 
   if (Array.isArray(b.segments) && b.segments.length) {
-    b.segments.forEach((seg) => {
-      const txt = (seg.text || "").trim();
-      if (txt) {
-        p.appendChild(document.createTextNode(" "));
-        p.appendChild(document.createTextNode(txt));
+    const wrap = el("div", "recap-bullet-text");
+    b.segments.forEach((seg, i) => {
+      const line = el("p", "recap-bullet-line");
+      if (i === 0 && lead) {
+        line.appendChild(el("strong", "recap-bullet-lead", lead));
+        if (seg.text) line.appendChild(document.createTextNode(" "));
       }
-      appendInlineChips(p, seg.sources, seg.x_mentions);
+      const txt = (seg.text || "").trim();
+      if (txt) line.appendChild(document.createTextNode(txt));
+      appendInlineChips(line, seg.sources, seg.x_mentions);
+      wrap.appendChild(line);
     });
-    return p;
+    return wrap;
   }
 
+  const p = el("p", "recap-bullet-text");
+  if (lead) p.appendChild(el("strong", "recap-bullet-lead", lead));
   const body = (b.body || "").trim();
   if (body) {
     if (lead) p.appendChild(document.createTextNode(" "));

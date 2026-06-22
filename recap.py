@@ -302,6 +302,13 @@ Rules:
 - A segment can mix story_ids and x_ids (news + X both back it up), be
   news-only (story_ids), or be X-only (x_ids — for chatter / takes that are
   not in mainstream news).
+- **EVERY segment MUST carry at least one supporting id.** No uncited
+  segments. If a sentence has no story_id or x_id that genuinely backs it
+  up, drop it — don't write claims you can't source. Same rule for "lead":
+  the bullet's first segment must carry the citations that back the lead.
+- **EVERY bullet you emit must thus reference at least one input id.** If a
+  topic isn't represented in the inputs, do NOT write a bullet about it —
+  it's hallucination. Better to ship fewer bullets than uncited ones.
 - Include EVERY supporting id — do not collapse to one. Frontend renders each
   chip distinctly. Never invent an id.
 - Numbers, tickers, jargon stay intact. No "according to reports", no
@@ -647,6 +654,32 @@ def _fetch_x_mentions(ids, x_lookup):
     return out
 
 
+def prune_uncited(recap: dict) -> dict:
+    """Drop segments with zero citations and bullets that end up with zero
+    cited segments. Belt-and-braces with the prompt rule — if the model
+    slips, we don't render uncited claims on the page."""
+    for sec in recap.get("sections", []) or []:
+        keep_bullets = []
+        for b in sec.get("bullets", []) or []:
+            segs = b.get("segments")
+            if isinstance(segs, list) and segs:
+                kept = [
+                    s for s in segs
+                    if (s.get("story_ids") or s.get("x_ids"))
+                ]
+                if not kept:
+                    continue
+                b["segments"] = kept
+                keep_bullets.append(b)
+            else:
+                # legacy shape — keep if it has any citation
+                if b.get("story_ids") or b.get("x_ids"):
+                    keep_bullets.append(b)
+        sec["bullets"] = keep_bullets
+    recap["sections"] = [s for s in recap.get("sections", []) if s.get("bullets")]
+    return recap
+
+
 def hydrate_refs(recap: dict, story_lookup: list[dict],
                  x_lookup: list[dict]) -> dict:
     """Resolve story_ids / x_ids on segments and watchlist into the
@@ -848,6 +881,7 @@ def build_daily(profile: dict) -> dict:
             f"{len(x_flat)} x_mentions ...")
         recap = call_llm(prompt, DAILY_SCHEMA)
 
+    recap = prune_uncited(recap)
     recap = hydrate_refs(recap, flat_lookup, x_flat)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     x_themes = x_themes_pass
