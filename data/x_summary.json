@@ -1,73 +1,41 @@
 {
-  "generated_at": "2026-06-23T02:19:23+00:00",
-  "tweet_count": 84,
-  "account_count": 23,
+  "generated_at": "2026-06-23T12:52:36+00:00",
+  "tweet_count": 81,
+  "account_count": 22,
   "themes": [
     {
-      "topic": "AI Advanced Packaging & Silicon Photonics",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "The advanced packaging supply chain, including CoPoS and silicon photonics, is experiencing significant re-rating and investment, driven by TSMC's accelerated development and foundry capacity reservations. Challenges include glass substrate manufacturing and the need for new production lines and specialized equipment.",
+      "topic": "Korean Market Volatility & AI/Memory Sell-off",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Korean markets experienced a significant sell-off, with KOSPI down ~10%, driven by high leverage, profit-taking in AI/memory names (SK Hynix, Samsung), fears of a bubble, and concerns over potential rate hikes. This is seen as a momentum unwind rather than a fundamental shift, with Micron earnings as a key test.",
       "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-        },
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069230221388333366"
+          "url": "https://x.com/aleabitoreddit/status/2069399639154213281"
         },
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069170485414269130"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2069022333621428542"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-        },
-        {
-          "handle": "@pcbanalysis",
-          "url": "https://x.com/pcbanalysis/status/2068981267941757241"
-        },
-        {
-          "handle": "@vlmkapital",
-          "url": "https://x.com/vlmkapital/status/2068318125745938821"
-        }
-      ]
-    },
-    {
-      "topic": "Memory Market Strength & HBM/DRAM Dynamics",
-      "category": "tech",
-      "subcategory": "memory",
-      "summary": "The memory market is experiencing strong growth with record Korean exports, driven by AI demand and supply shortages. SK Hynix is strategically throttling HBM4 production to capitalize on higher-margin commodity DRAM, while Samsung's HBM4 revenue has surpassed $1 billion, intensifying the competitive landscape.",
-      "mentions": [
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2069125667237883941"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2069210108467593623"
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2069350347156361622"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2068961529484193930"
+          "url": "https://x.com/jukan05/status/2069368311146815885"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2069343369470644627"
         },
         {
           "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2069172124452073698"
+          "url": "https://x.com/Yeah_Dave/status/2069308152789803423"
         },
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069130488048951644"
+          "url": "https://x.com/TheValueist/status/2069386115413352769"
         },
         {
-          "handle": "@investingluc",
-          "url": "https://x.com/investingluc/status/2068853705135337797"
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2069382637651661130"
         },
         {
           "handle": "@AlmaCap114204",
@@ -76,42 +44,150 @@
       ]
     },
     {
-      "topic": "AI Chip Development & Foundry Capacity",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "Google's TPU v9 orders are going to MediaTek due to Broadcom's production delays, highlighting challenges in advanced SerDes solutions. Chinese companies are expected to deploy their AI accelerators overseas, while Qualcomm is in talks to acquire AI chip startup Modular, and SpaceX plans its own datacenter ASIC with Intel's 14A process.",
+      "topic": "Memory Market Dynamics & CXL Adoption",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "The memory market is experiencing significant volatility, with profit-taking ahead of Micron earnings and concerns about future price corrections, yet HBM contract prices are expected to rise. CXL memory technology is emerging as a key architecture for AI data centers, with Type 3 expansion gaining traction for CPU workloads and AI inference, involving players like Micron, Samsung, and SK Hynix.",
       "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2069268199871279208"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069278356193919073"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2069172124452073698"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2069350347156361622"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2069210108467593623"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2068417443836436575"
+        }
+      ]
+    },
+    {
+      "topic": "Silicon Photonics & Optical Device Production",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Demand for silicon photonics and optical devices is surging, driven by AI/HPC workloads and co-packaged optics (CPO), leading to significant investments in manufacturing expansion and high-volume testing solutions. Companies like AAOI are scaling 6-inch InP wafer production, while Advantest is partnering for SiPh device testing, and foundries are seeing strong demand and prepayments for SiPh capacity.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2069390514278015074"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2069388279355756826"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2069393857763221950"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2069343955624567086"
+        },
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2069232665539346775"
+        }
+      ]
+    },
+    {
+      "topic": "TSMC Advanced Packaging & Foundry Expansion",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "TSMC is reportedly seeking 5-10% price increases across advanced nodes and is investing heavily in new advanced chip packaging plants, including CoWoS-L, and potentially acquiring existing facilities to accelerate capacity expansion. Foundries like Tower are securing significant silicon photonics contracts with upfront payments, indicating a tight market for fabrication and packaging capacity.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2069205589117579656"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069388829841363242"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2069022333621428542"
+        }
+      ]
+    },
+    {
+      "topic": "AI Software & Model Development",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "AI is being integrated into various applications, from investing platforms like SoFi's Composer to telecom network management with Nokia's partnership with Google Cloud's Gemini agents. There's ongoing debate about the long-term value and competitive moats of AI labs and models, with some questioning their durability due to rapid depreciation and low switching costs, while others see value in strategic partnerships.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2069391971396002288"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2069134707732648033"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069278356193919073"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2069134713357267148"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2069161018161311953"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2068879467473510462"
+        }
+      ]
+    },
+    {
+      "topic": "Google TPU Development & ASIC Supply Chain",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "Google's TPU development is progressing with raised volume expectations for Humufish and Triggerfish, despite substrate bottlenecks. MediaTek secured primary orders for TPU v9 chips by providing a custom 336G SerDes solution, as Broadcom's more ambitious 448G SerDes faced production delays due to technical challenges requiring 2nm process technology.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069266963965350136"
+        },
         {
           "handle": "@dnystedt",
           "url": "https://x.com/dnystedt/status/2069232665539346775"
         },
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2069226465812713682"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069166919572496884"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2069159460694823375"
-        },
-        {
           "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2068988513090191476"
+          "url": "https://x.com/Aaronwei3n/status/2069397204494905823"
         },
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069188398825566318"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2069181208412721377"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2069029628858019886"
         }
       ]
     },
     {
-      "topic": "AI Data Center Power Infrastructure",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "AI data centers face a critical power bottleneck, with NVIDIA's 2027 racks requiring 600 kilowatts, far exceeding existing infrastructure. The solution involves 800V DC 'sidecars' utilizing silicon carbide and gallium nitride chips, with former EV suppliers now pivoting to serve hyperscalers like Amazon and Microsoft.",
+      "topic": "800V DC Architecture for AI Datacenters",
+      "category": "out_of_ai",
+      "subcategory": "800vdc",
+      "summary": "AI data centers face power infrastructure challenges with 600kW racks exceeding current wiring capabilities. The solution is 800V DC architecture using 'sidecar' power cabinets, which require advanced silicon carbide and gallium nitride chips. Companies producing these materials, initially for EVs, are now seeing strong demand from hyperscalers.",
       "mentions": [
         {
           "handle": "@KawzInvests",
@@ -120,86 +196,74 @@
       ]
     },
     {
-      "topic": "Space Sector & Orbital Data Centers",
-      "category": "tech",
+      "topic": "Advanced PCB & Interconnect for AI/Defense",
+      "category": "sectors",
+      "subcategory": "pcb",
+      "summary": "TTM Technologies is strategically repositioning as a provider of advanced interconnect solutions for AI server infrastructure and defense electronics, leveraging technical complexity and a substantial defense backlog. The company faces high capital expenditure intensity for specialized facilities, while the market also notes increasing difficulty in securing glass fabric for PCBs.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2069170485414269130"
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2068981267941757241"
+        }
+      ]
+    },
+    {
+      "topic": "Space Sector Investment & Orbital Data Centers",
+      "category": "out_of_ai",
       "subcategory": "space",
-      "summary": "The space sector is seeing increased investment interest despite recent volatility in SpaceX's valuation and a tiny tradable float. Discussions around orbital data centers highlight terrestrial constraints and the potential for Starship and reusable launch vehicles to make large orbital infrastructure more viable.",
+      "summary": "Investor interest in the space sector is growing, with some rotating profits into names like ASTS, RKLB, and PL, despite recent pullbacks. SpaceX (SPCX) is seen as a potential long-term holding, though current float and upcoming earnings present short-term considerations. The concept of orbital data centers is gaining discussion due to terrestrial constraints and improving launch costs, but large-scale commercial viability remains a challenge.",
       "mentions": [
         {
           "handle": "@Yeah_Dave",
           "url": "https://x.com/Yeah_Dave/status/2069193540312367235"
         },
         {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2069153850024398987"
-        },
-        {
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2069107183992578339"
         },
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069068801329774691"
-        },
-        {
           "handle": "@FundaAI",
           "url": "https://x.com/FundaAI/status/2069061321761665439"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2068988513090191476"
         }
       ]
     },
     {
-      "topic": "Optical Networking & AI Integration",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "The optical networking sector is showing strength, with companies like AAOI projecting significant growth driven by AI demand and industry bottlenecks. Nokia has partnered with Google Cloud to embed Gemini AI agents into its Assurance Center, automating telecom network tasks from the optical layer to RAN.",
+      "topic": "Semiconductor Testing for Photonics",
+      "category": "sectors",
+      "subcategory": "testing",
+      "summary": "The growing demand for silicon photonics and co-packaged optics in AI/HPC workloads is creating a bottleneck in high-volume manufacturing (HVM) testing of electro-optical devices. Advantest is partnering with OpenLight to develop scalable test solutions, directly competing with Teradyne in this specialized area, highlighting the scarcity of fabrication, packaging, and testing capacity.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069062745308254434"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2069148669077553589"
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2069390514278015074"
         },
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2069134707732648033"
+          "url": "https://x.com/KawzInvests/status/2069049869835075940"
         }
       ]
     },
     {
-      "topic": "AI Software & Models Evolution",
-      "category": "tech",
-      "subcategory": "software",
-      "summary": "AI models like Grok are undergoing upgrades, and memory is increasingly seen as a critical 'moat' for managing token costs in the GAI ecosystem. The talent landscape for AI labs is dynamic, with top scientists joining firms like Anthropic, prompting re-evaluation of previous bearish theses on AI model depreciation.",
+      "topic": "Hydrogen-Based Stationary Power",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "Ballard Power Systems is acquiring GeoPura, a UK-based hydrogen-based stationary power provider, for approximately £301M. GeoPura supplies Hydrogen Power Units to major customers including Microsoft and Equinix, with Ballard anticipating significant EBITDA synergies and a path to profitability by 2028 from this acquisition.",
       "mentions": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2069161018161311953"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2069143406392086825"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069142169374642336"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2069134713357267148"
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2069394545931108561"
         }
       ]
     },
     {
-      "topic": "Microcontroller (MCU) Supply & Pricing",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "STMicro has notified clients of a new round of price hikes on microcontrollers (MCU) effective from June 28. This report has positively impacted shares of Taiwan-based MCU manufacturers, signaling ongoing supply and pricing dynamics in the broader semiconductor market.",
+      "topic": "Microcontroller Price Hikes",
+      "category": "sectors",
+      "subcategory": "analog",
+      "summary": "STMicroelectronics has announced a new round of price hikes for microcontrollers (MCUs) starting June 28, leading to a rally in shares of Taiwanese MCU manufacturers like Holtek, Weltrend, and Sonix.",
       "mentions": [
         {
           "handle": "@dnystedt",
@@ -208,54 +272,14 @@
       ]
     },
     {
-      "topic": "Private Credit Market Redemptions",
-      "category": "macro",
-      "subcategory": "",
-      "summary": "An Apollo private credit fund, Apollo Debt Solutions, received approximately 16.8% in redemption requests from investors. In response, the fund has capped investor redemptions at 5%, indicating potential liquidity management challenges within the private credit market.",
+      "topic": "Lasers for Robotics & Physical AI",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "Sivers lasers are being utilized to power robotics and physical AI applications, including Boston Dynamics' Atlas robot through LG Innotek and within Nvidia's Hyperion ecosystem, indicating a growing integration of advanced optical components in autonomous systems.",
       "mentions": [
         {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2069165366190784997"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069165057641230494"
-        }
-      ]
-    },
-    {
-      "topic": "US Housing Policy & Supply",
-      "category": "macro",
-      "subcategory": "",
-      "summary": "The Senate passed the '21st Century ROAD to Housing Act' with strong bipartisan support, sending a major housing supply bill to the House. The legislation aims to limit large institutional investors in single-family homes, streamline permitting, expand federal grant financing, and create a pilot program for small-dollar mortgages.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069201657171517733"
-        }
-      ]
-    },
-    {
-      "topic": "Quantum Computing Investment",
-      "category": "other",
-      "subcategory": "Quantum Computing",
-      "summary": "There is growing market interest and potential for investment in quantum computing stocks, with discussions around whether companies like IONQ, INFQ, and RGTK will start to attract significant bids.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2069192164136141082"
-        }
-      ]
-    },
-    {
-      "topic": "Biotech/Pharma Drug Development Setbacks",
-      "category": "other",
-      "subcategory": "Biotech/Pharma",
-      "summary": "Pfizer announced that its antibody-drug conjugate, sigvotatug vedotin, failed to significantly improve overall survival compared to docetaxel in a late-stage study for advanced non-small cell lung cancer. Despite this setback, acquired through the $43 billion Seagen deal, Pfizer plans to continue developing the drug.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069178053042000150"
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2069388279355756826"
         }
       ]
     }
