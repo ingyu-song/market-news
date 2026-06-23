@@ -210,14 +210,135 @@ const TECH_SUBCATS = [
   ["software", "Software"],
 ];
 
-function xsumHead(data) {
+const CAL_ICON =
+  '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="17" rx="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="16" y1="2" x2="16" y2="6"/></svg>';
+
+function xsumHead(data, opts) {
+  opts = opts || {};
   const head = el("div", "xsum-head");
   head.appendChild(el("span", "xsum-title", "What X is talking about"));
   const sub = [];
-  if (data.account_count) sub.push(`${data.account_count} accounts`);
-  if (data.generated_at) sub.push("updated " + formatUpdated(data.generated_at));
+  if (opts.mode === "calendar") {
+    sub.push("Pick a past date");
+  } else if (opts.mode === "past") {
+    sub.push("Snapshot · " + (opts.date || ""));
+    if (data && data.account_count) sub.push(`${data.account_count} accounts`);
+  } else {
+    if (data && data.account_count) sub.push(`${data.account_count} accounts`);
+    if (data && data.generated_at) sub.push("updated " + formatUpdated(data.generated_at));
+  }
   head.appendChild(el("span", "xsum-sub", sub.join(" · ")));
+
+  const tools = el("div", "xsum-tools");
+  if (opts.mode === "calendar" || opts.mode === "past") {
+    const back = el("button", "xsum-back", "← Back to today");
+    back.type = "button";
+    back.addEventListener("click", () => {
+      X_HISTORY_DATE = null;
+      renderXSummary();
+    });
+    tools.appendChild(back);
+  }
+  if (opts.mode !== "calendar") {
+    const cal = el("button", "xsum-cal-btn");
+    cal.type = "button";
+    cal.title = "Browse past days";
+    cal.setAttribute("aria-label", "Browse past days");
+    cal.innerHTML = CAL_ICON;
+    cal.addEventListener("click", () => {
+      X_HISTORY_DATE = "__calendar__";
+      renderXSummary();
+    });
+    tools.appendChild(cal);
+  }
+  head.appendChild(tools);
   return head;
+}
+
+/* ---------- X-summary history (Headlines tab) ---------- */
+let X_SUMMARY_TODAY = null;            // latest live x_summary.json
+let X_HISTORY_DATE = null;             // null = today, "__calendar__" = calendar, "YYYY-MM-DD" = past
+let X_HISTORY_CACHE = {};              // date -> synthesized {themes, account_count, generated_at, for_date}
+let X_CAL_MONTH = null;                // {year, month0}
+
+function loadXHistory(date) {
+  fetch(`data/recap_history/${date}.json`, { cache: "no-cache" })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((data) => {
+      if (!data) return;
+      // Synthesize the x_summary shape from the recap history snapshot.
+      X_HISTORY_CACHE[date] = {
+        themes: Array.isArray(data.x_themes) ? data.x_themes : [],
+        account_count: data.x_account_count || 0,
+        generated_at: data.x_generated_at || data.generated_at || "",
+        for_date: data.for_date || date,
+      };
+      if (X_HISTORY_DATE === date) renderXSummary();
+    })
+    .catch(() => {});
+}
+
+function buildXCalendar() {
+  const available = new Set(((RECAP_INDEX && RECAP_INDEX.daily) || []));
+  if (!X_CAL_MONTH) {
+    const newest = [...available].sort().reverse()[0];
+    const seed = parseDateString(newest) || new Date();
+    X_CAL_MONTH = { year: seed.getFullYear(), month0: seed.getMonth() };
+  }
+  const { year, month0 } = X_CAL_MONTH;
+
+  const cal = el("div", "xsum-cal");
+  const nav = el("div", "xsum-cal-nav");
+  const prev = el("button", "xsum-cal-step", "‹");
+  prev.type = "button";
+  prev.addEventListener("click", () => {
+    let m = month0 - 1, y = year;
+    if (m < 0) { m = 11; y -= 1; }
+    X_CAL_MONTH = { year: y, month0: m };
+    renderXSummary();
+  });
+  const label = el("span", "xsum-cal-month",
+    `${MONTH_LABELS[month0]} ${year}`);
+  const next = el("button", "xsum-cal-step", "›");
+  next.type = "button";
+  next.addEventListener("click", () => {
+    let m = month0 + 1, y = year;
+    if (m > 11) { m = 0; y += 1; }
+    X_CAL_MONTH = { year: y, month0: m };
+    renderXSummary();
+  });
+  nav.appendChild(prev);
+  nav.appendChild(label);
+  nav.appendChild(next);
+  cal.appendChild(nav);
+
+  const grid = el("div", "xsum-cal-grid");
+  WEEKDAY_LABELS.forEach((w) => grid.appendChild(el("div", "xsum-cal-wd", w)));
+  const firstWd = new Date(year, month0, 1).getDay();
+  const daysInMonth = new Date(year, month0 + 1, 0).getDate();
+  for (let i = 0; i < firstWd; i++) {
+    grid.appendChild(el("div", "xsum-cal-cell empty"));
+  }
+  for (let d = 1; d <= daysInMonth; d++) {
+    const ds = formatDateString(new Date(year, month0, d, 12));
+    const isAvail = available.has(ds);
+    const cell = el(
+      isAvail ? "button" : "div",
+      "xsum-cal-cell" + (isAvail ? " avail" : ""),
+      String(d)
+    );
+    if (isAvail) {
+      cell.type = "button";
+      cell.title = ds;
+      cell.addEventListener("click", () => {
+        X_HISTORY_DATE = ds;
+        renderXSummary();
+      });
+    }
+    grid.appendChild(cell);
+  }
+  cal.appendChild(grid);
+  return cal;
 }
 
 function xsumGrid(themes) {
@@ -282,7 +403,13 @@ function buildSubcatSubsections(themesArr, subcatsList) {
 }
 
 function renderXGrouped(data) {
-  xsumEl.appendChild(xsumHead(data));
+  // Kept for any callers that still expect head+body; new code paths build
+  // the head separately so renderXGroupedBody can be reused for past snapshots.
+  xsumEl.appendChild(xsumHead(data, { mode: "today" }));
+  renderXGroupedBody(data);
+}
+
+function renderXGroupedBody(data) {
   const themes = data.themes;
   const inCat = (c) => themes.filter((t) => (t.category || "").toLowerCase() === c);
 
@@ -351,12 +478,41 @@ function renderXLegacy(data) {
 }
 
 function renderXSummary(data) {
+  // The first call from the fetch passes today's data; subsequent calls (from
+  // calendar/back-to-today buttons) re-render the cached state with no arg.
+  if (data) X_SUMMARY_TODAY = data;
   xsumEl.innerHTML = "";
-  if (!data) return;
-  if (Array.isArray(data.themes) && data.themes.length) {
-    renderXGrouped(data);
-  } else if (Array.isArray(data.top_3) && data.top_3.length) {
-    renderXLegacy(data);
+
+  if (X_HISTORY_DATE === "__calendar__") {
+    xsumEl.appendChild(xsumHead(X_SUMMARY_TODAY || {}, { mode: "calendar" }));
+    xsumEl.appendChild(buildXCalendar());
+    return;
+  }
+  if (X_HISTORY_DATE) {
+    const snap = X_HISTORY_CACHE[X_HISTORY_DATE];
+    xsumEl.appendChild(xsumHead(snap || {}, { mode: "past", date: X_HISTORY_DATE }));
+    if (!snap) {
+      xsumEl.appendChild(el("div", "xsum-loading",
+        `Loading snapshot for ${X_HISTORY_DATE}…`));
+      loadXHistory(X_HISTORY_DATE);
+      return;
+    }
+    if (Array.isArray(snap.themes) && snap.themes.length) {
+      renderXGroupedBody(snap);
+    } else {
+      xsumEl.appendChild(el("div", "xsum-loading",
+        `No X chatter archived for ${X_HISTORY_DATE}.`));
+    }
+    return;
+  }
+
+  // today (default)
+  if (!X_SUMMARY_TODAY) return;
+  if (Array.isArray(X_SUMMARY_TODAY.themes) && X_SUMMARY_TODAY.themes.length) {
+    xsumEl.appendChild(xsumHead(X_SUMMARY_TODAY, { mode: "today" }));
+    renderXGroupedBody(X_SUMMARY_TODAY);
+  } else if (Array.isArray(X_SUMMARY_TODAY.top_3) && X_SUMMARY_TODAY.top_3.length) {
+    renderXLegacy(X_SUMMARY_TODAY);  // legacy schema includes its own head
   }
 }
 

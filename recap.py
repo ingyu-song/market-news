@@ -125,17 +125,28 @@ def style_block(profile: dict) -> str:
     # output that copies their structure, density, and citation cadence.
     examples = profile.get("voice_examples", []) or []
     if examples:
+        # Voice examples used to be wrapped in "--- [topic] channel · date"
+        # headers, which the model started copying inline as bracketed
+        # citations ("[맹구맹구 2026-06-11, TIME ETF 2026-06-11, ...]"). The
+        # new format strips brackets, hides channel + date entirely, and
+        # frames each example as a style reference — so there's nothing
+        # citation-shaped left to imitate.
         rendered = "\n\n".join(
-            f"--- [{ex.get('topic','')}] {ex.get('channel','')} · {ex.get('date','')[:10]}\n"
-            f"{ex.get('text','')}"
+            f"### STYLE SAMPLE (Korean — DO NOT QUOTE OR CITE) ###\n"
+            f"Topic: {ex.get('topic','')}\n"
+            f"Body: {ex.get('text','')}\n"
+            f"### END SAMPLE ###"
             for ex in examples
         )
         voice_block = (
-            "VOICE REFERENCE — real posts from the Korean source channels. "
-            "Imitate their structure (short bolded leader, one expansion "
-            "sentence, dense numbers, jargon preserved), their density, and "
-            "how they cite outside sources. WRITE YOUR OWN OUTPUT IN ENGLISH. "
-            "Do NOT translate these examples verbatim; learn the pattern.\n\n"
+            "VOICE REFERENCE — examples of the Korean source channels'\n"
+            "writing pattern. Imitate STRUCTURE only: short bolded leader,\n"
+            "one tight expansion sentence, dense numbers, jargon preserved.\n"
+            "WRITE YOUR OUTPUT IN ENGLISH.\n"
+            "These samples are NOT data sources. Never quote them, never\n"
+            "reference their channel name, never write their dates, never\n"
+            "carry their topic strings into your output. Treat them like a\n"
+            "tone guide that lives in your head, not text to be cited.\n\n"
             f"{rendered}\n"
         )
     else:
@@ -307,6 +318,12 @@ Rules:
   segments. If a sentence has no story_id or x_id that genuinely backs it
   up, drop it — don't write claims you can't source. Same rule for "lead":
   the bullet's first segment must carry the citations that back the lead.
+- **NEVER write inline citations inside the segment text.** Citations live
+  only in the structured story_ids / x_ids arrays — the frontend renders
+  them as chips. Do not write "[14, 15, 26]", do not write source names,
+  channel names, dates, "맹구맹구", "TIMEFOLIO" or "TIME ETF" inside the
+  text. Brackets that contain numbers, dates, or channel names are
+  forbidden in segment.text and lead.
 - **EVERY bullet you emit must thus reference at least one input id.** If a
   topic isn't represented in the inputs, do NOT write a bullet about it —
   it's hallucination. Better to ship fewer bullets than uncited ones.
@@ -684,6 +701,55 @@ def _fetch_x_mentions(ids, x_lookup):
     return out
 
 
+# Inline-citation patterns the model sometimes still leaks into prose:
+#   "[맹구맹구 2026-06-11, TIME ETF 2026-06-11, 14, 15, 16]"
+#   "[WSJ 2026-06-12, 1, 26, 52]"
+#   "[14, 15, 16]"
+# These collide with the chip-rendering system, so strip them after
+# generation. We only match brackets that clearly look like citations
+# (channel name, ISO date, or pure number list) to avoid removing
+# legitimate bracketed text like "[$1.77 trillion]".
+_INLINE_CITATION_RE = re.compile(
+    r"\s*\["
+    r"(?:"
+    r"[^\[\]]*\d{4}-\d{2}-\d{2}[^\[\]]*"             # contains an ISO date
+    r"|[^\[\]]*(?:맹구|TIMEFOLIO|TIME[\s_]?ETF|WSJ|CNBC|Bloomberg|Reuters)[^\[\]]*"
+    r"|\d+(?:\s*,\s*\d+){1,}\s*"                     # pure number list (>=2)
+    r")"
+    r"\]"
+)
+
+
+def _scrub_text(s):
+    if not isinstance(s, str):
+        return s
+    cleaned = _INLINE_CITATION_RE.sub("", s)
+    # Tidy any spaces left in front of punctuation.
+    cleaned = re.sub(r"\s+([.,;:!?])", r"\1", cleaned)
+    return cleaned.strip()
+
+
+def scrub_inline_citations(recap: dict) -> dict:
+    """Strip the bracketed inline citations the model occasionally bleeds
+    into the prose. Belt-and-braces with the prompt rule."""
+    for sec in recap.get("sections", []) or []:
+        for b in sec.get("bullets", []) or []:
+            if "lead" in b:
+                b["lead"] = _scrub_text(b["lead"])
+            for seg in (b.get("segments") or []):
+                seg["text"] = _scrub_text(seg.get("text", ""))
+            if "body" in b:
+                b["body"] = _scrub_text(b["body"])
+    for t in recap.get("themes", []) or []:
+        if "narrative" in t:
+            t["narrative"] = _scrub_text(t["narrative"])
+    if "summary" in recap:
+        recap["summary"] = _scrub_text(recap["summary"])
+    if "headline" in recap:
+        recap["headline"] = _scrub_text(recap["headline"])
+    return recap
+
+
 def prune_uncited(recap: dict) -> dict:
     """Drop segments with zero citations and bullets that end up with zero
     cited segments. Belt-and-braces with the prompt rule — if the model
@@ -833,7 +899,7 @@ def flatten_x_mentions(x_themes: list[dict], max_items: int = 40) -> list[dict]:
     return flat
 
 
-def extract_x_themes(x_summary, max_themes: int = 8) -> list[dict]:
+def extract_x_themes(x_summary, max_themes: int = 16) -> list[dict]:
     """Pass-through X themes for the frontend. Each theme keeps its topic,
     summary, and the {handle,url} mention list so chips can link to the
     actual tweet."""
@@ -935,6 +1001,7 @@ def build_daily(profile: dict) -> dict:
                 f"history snapshot still archives.")
             recap = heuristic_daily(profile, ordered, x_summary, flat_lookup)
 
+    recap = scrub_inline_citations(recap)
     recap = prune_uncited(recap)
     recap = hydrate_refs(recap, flat_lookup, x_flat)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -948,6 +1015,8 @@ def build_daily(profile: dict) -> dict:
         "sections": recap.get("sections", []),
         "watchlist": recap.get("watchlist", []),
         "x_themes": x_themes,
+        "x_account_count": (x_summary or {}).get("account_count", 0),
+        "x_generated_at": (x_summary or {}).get("generated_at", ""),
         "indices": (indices_snapshot or {}).get("indices") or [],
         "story_count": len(flat),
         "bucket_count": sum(1 for _, a in ordered if a),
@@ -993,6 +1062,7 @@ def build_weekly(profile: dict) -> dict:
                 f"{str(exc)[:140]}); falling back to heuristic weekly.")
             recap = heuristic_weekly(history)
 
+    recap = scrub_inline_citations(recap)
     # Source chips: post-collected from the underlying daily bullets, by label.
     attach_weekly_sources(recap.get("themes") or [], history)
 

@@ -12,7 +12,7 @@
           "lead": "US-Iran peace talks progressed, easing Middle East tensions and impacting oil markets.",
           "segments": [
             {
-              "text": "Reports indicate a peace agreement is nearing, with potential signing in Switzerland, leading to a 4% drop in WTI crude prices on expectations of Hormuz Strait reopening [TIME ETF 2026-06-15, TIME ETF 2026-06-16, 3, 49].",
+              "text": "Reports indicate a peace agreement is nearing, with potential signing in Switzerland, leading to a 4% drop in WTI crude prices on expectations of Hormuz Strait reopening.",
               "sources": [
                 {
                   "title": "Oil Slides on Signs of Progress After U.S. Sanction Waiver on Tehran",
@@ -24,7 +24,7 @@
               "x_mentions": []
             },
             {
-              "text": "The US government issued sweeping sanctions waivers on Iranian oil, unlocking billions in revenue for Tehran and prompting Iran to woo Asian importers [WSJ 2026-06-12, 1, 26, 52, 53].",
+              "text": "The US government issued sweeping sanctions waivers on Iranian oil, unlocking billions in revenue for Tehran and prompting Iran to woo Asian importers.",
               "sources": [
                 {
                   "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
@@ -58,7 +58,7 @@
           "lead": "Google is reportedly considering Samsung for its next-gen AI chip production.",
           "segments": [
             {
-              "text": "Google is exploring Samsung for partial production of its 10th-gen TPU 'Icefish', with TSMC handling the core 1.4nm compute engine and Samsung potentially producing the 2nm memory I/O die [맹구맹구 2026-06-11, TIME ETF 2026-06-11, 14, 15, 16, 17, 18, 19].",
+              "text": "Google is exploring Samsung for partial production of its 10th-gen TPU 'Icefish', with TSMC handling the core 1.4nm compute engine and Samsung potentially producing the 2nm memory I/O die.",
               "sources": [],
               "x_mentions": [
                 {
@@ -98,7 +98,7 @@
           "lead": "SpaceX successfully debuted on the market with a valuation of $1.77 trillion.",
           "segments": [
             {
-              "text": "The limited float and anticipated inclusion in indices like Russell 1000 and NASDAQ 100 are expected to drive forced buying by ETFs, while peer space companies saw declines due to capital outflow [맹구맹구 2026-06-15, TIME ETF 2026-06-15, 21, 22, 23, 24, 25].",
+              "text": "The limited float and anticipated inclusion in indices like Russell 1000 and NASDAQ 100 are expected to drive forced buying by ETFs, while peer space companies saw declines due to capital outflow.",
               "sources": [],
               "x_mentions": [
                 {
@@ -134,7 +134,7 @@
           "lead": "Oracle has cut approximately 21,000 jobs as part of its AI-focused streamlining.",
           "segments": [
             {
-              "text": "Oracle's workforce has shrunk by about 21,000 employees, shedding jobs as it continues an AI-focused streamlining effort [15, 30, 31, 34].",
+              "text": "Oracle's workforce has shrunk by about 21,000 employees, shedding jobs as it continues an AI-focused streamlining effort.",
               "sources": [
                 {
                   "title": "Oracle Sheds 21,000 Jobs as It Continues AI-Focused Streamlining",
