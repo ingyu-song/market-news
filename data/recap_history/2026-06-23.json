@@ -1,104 +1,30 @@
 {
-  "generated_at": "2026-06-23T12:46:05+00:00",
+  "generated_at": "2026-06-23T23:06:15+00:00",
   "mode": "daily",
   "for_date": "2026-06-23",
-  "headline": "Tech stocks decline on Fed rate outlook; AI chip and memory markets see dynamic shifts.",
-  "summary": "Major tech indices fell today, with Nasdaq futures down over 2% amid concerns over AI buildout costs and the Federal Reserve's rate outlook. Treasury yields declined ahead of an expected Fed hold. The AI chip sector saw significant developments in advanced packaging and foundry capacity, while the memory market experienced strong growth driven by AI demand.",
+  "headline": "Nasdaq Drops on Rate Hike Fears; AI Chips & Memory See Sell-off",
+  "summary": "US equities saw declines, with the Nasdaq falling 2.2% on renewed Fed rate hike concerns as the dollar strengthened to November highs. AI chip and memory sectors experienced a sell-off, particularly impacting Korean markets, while oil prices eased on progress in Iran talks.",
   "sections": [
     {
-      "label": "US Semis / AI Chips",
+      "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "AI advanced packaging and silicon photonics are undergoing significant re-rating and investment.",
+          "lead": "Nasdaq declined significantly amid renewed concerns over potential Fed rate hikes.",
           "segments": [
             {
-              "text": "This trend is driven by TSMC's accelerated development and foundries, impacting the entire supply chain including CoPoS and silicon photonics.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-                },
-                {
-                  "handle": "@aleabitoreddit",
-                  "url": "https://x.com/aleabitoreddit/status/2069230221388333366"
-                },
-                {
-                  "handle": "@TheValueist",
-                  "url": "https://x.com/TheValueist/status/2069170485414269130"
-                },
-                {
-                  "handle": "@PhotonCap",
-                  "url": "https://x.com/PhotonCap/status/2069022333621428542"
-                },
-                {
-                  "handle": "@Aaronwei3n",
-                  "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-                },
-                {
-                  "handle": "@pcbanalysis",
-                  "url": "https://x.com/pcbanalysis/status/2068981267941757241"
-                },
-                {
-                  "handle": "@vlmkapital",
-                  "url": "https://x.com/vlmkapital/status/2068318125745938821"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Google is exploring Samsung for future AI chip production due to TSMC capacity constraints.",
-          "segments": [
-            {
-              "text": "Google's TPU v9 orders are reportedly going to MediaTek due to Broadcom's production delays, highlighting challenges in advanced SerDes solutions and the need for diversified foundry capacity.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2069232665539346775"
-                },
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2069226465812713682"
-                },
-                {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2069166919572496884"
-                },
-                {
-                  "handle": "@damnang2",
-                  "url": "https://x.com/damnang2/status/2069159460694823375"
-                },
-                {
-                  "handle": "@Aaronwei3n",
-                  "url": "https://x.com/Aaronwei3n/status/2068988513090191476"
-                },
-                {
-                  "handle": "@aleabitoreddit",
-                  "url": "https://x.com/aleabitoreddit/status/2069188398825566318"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia is focusing on robot safety as humanoid robots approach factory deployment.",
-          "segments": [
-            {
-              "text": "The company also stated that AI's water challenge is largely solved, addressing environmental concerns related to AI infrastructure.",
+              "text": "The Nasdaq Composite dropped 2.2% as the dollar jumped to its highest level since November, driven by increased bets on Federal Reserve rate increases.",
               "sources": [
                 {
-                  "title": "Nvidia targets robot safety as humanoids edge toward factory floors",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmxmT0Ztb3VKZDkxRUI2MDY2NVpwdDdCZXVSY3pmWVY4UnlRN3RyMkxGWC1QZm1QNWdXaFFEU3p6OGtQR0Q1aTV3X1YtVXpmSDJJeVJ6b1JEaTByM3BHTlVubTFIdmdOcUdJU1NXVjhDOHlEN3FpZWxGam5jcDh1VzJPbHlpSFV6Y2FTMU9SRldsWmd3OFRVcQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "[속보] 연준 금리인상 우려에 美나스닥 2.2% 폭락했지만 … 삼전·하닉 ...",
+                  "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/24/2026062400015.html",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 },
                 {
-                  "title": "Nvidia says AI's water challenge is largely solved",
-                  "link": "https://www.axios.com/2026/06/22/nvidia-data-center-water-solution",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0xYUFRzcGVxMGFYc1ZKWEJva1cyczJQVEY2Sk9SeU5fdVJza01MM0x0eURtOVhtNlFKbGFXRDVRNl92TmVsQmx5amZEZVBGUHh4bVZWbjRkYVpkS1dfeHZxVGtkLTdDcm5WeXhKbGtiM0lwZjJRVFFfaWE3Z2x1bEc1VmVQRi1ueGVWVDdXdnc1LThJaXEwR2xoaFlwRmZqY2ZVNUpqTnNNU1NzREtDRA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -106,42 +32,78 @@
           ]
         },
         {
-          "lead": "Microcontroller (MCU) pricing is seeing upward adjustments.",
+          "lead": "SpaceX is pitching investors for a substantial bond deal.",
           "segments": [
             {
-              "text": "STMicro has informed clients of new price hikes on MCUs, effective June 28, which has positively impacted shares of Taiwan-based MCU manufacturers.",
-              "sources": [],
-              "x_mentions": [
+              "text": "SpaceX is reportedly seeking to raise $25 billion through a bond deal, offering attractive yields to investors.",
+              "sources": [
                 {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2069220016005030297"
+                  "title": "SpaceX pitches investors juicy yields in $25bn bond deal",
+                  "link": "https://www.ft.com/content/7ea76b60-ea21-4e50-b0e2-bbcc842af289",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
-              ]
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Oracle announced significant job reductions as it focuses on AI initiatives.",
+          "segments": [
+            {
+              "text": "Tech giant Oracle cut 21,000 jobs globally as part of its strategic shift towards AI integration and cloud services.",
+              "sources": [
+                {
+                  "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
+                  "link": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
       ]
     },
     {
-      "label": "Fed / Rates / Macro",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Stocks declined as Federal Reserve rate hike bets impacted tech.",
+          "lead": "Asian markets extended a sell-off fueled by AI chip sector weakness.",
           "segments": [
             {
-              "text": "Nasdaq futures dropped over 2% due to concerns regarding AI buildout costs and the Fed's rate outlook, while the dollar gained.",
+              "text": "Asian stocks are poised to continue their decline, reflecting a broader sell-off in AI chip-related equities.",
               "sources": [
                 {
-                  "title": "Stocks drop as Fed rate bets hit tech royalty; dollar gains",
-                  "link": "https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                  "title": "Asian Stocks Set to Extend AI Chip-Fueled Selloff: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHhfdklnb3R1SFphTHdDcjVHNVZjb3M5bWx1elZLUVBJRHhCVzFiWFIyWVd1azFNUGE4bWNGWUtRWFFZTU1aX2JNaFdKOTJFTW9SbkxkTHhKOUlXcnJERjU1US1Yb3k3SnVBUUYyWWU3U041eDVOOUVpUFRWRGhLSXBsOVg0WGNHUGxVSEpfRG5peGZLTnJVWWdFUTc3bE9ESjdZdnpiQ0pmWmRsaFV1YTdabw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia is expanding its software offerings and focusing on robot safety.",
+          "segments": [
+            {
+              "text": "Nvidia launched new open-source software specifically for life sciences applications and is targeting robot safety as humanoid robots advance towards factory deployment.",
+              "sources": [
+                {
+                  "title": "Nvidia Launches Open-Source Software For Life Sciences",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1oxa1Zmc1M3Ukpqd3JLMHdhVFlwTi00ajFsdS1RNlRrd1NaTWNsaWJNbVVSNkRxdHQ3aWVqTGZBNDJXeHVxcnhDOUtXZ1NhZjNUVkV6ZVp1ZURUQ0hKdW1RRlNqVWpmSVNvWG5FdnNzeDctMUhWZWpscHctUVczUkwyaXN5bnlhcGpDX082M3NEa2p1SFE?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 },
                 {
-                  "title": "Nasdaq futures drop over 2% on concerns over AI buildout costs, Fed rate outlook",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2t3ZXZzXzl6MTZCNnY4U09lU2l4ZWZENmdOZVZuNVF2VzFjYlFleVlLR1FHNlFwbjlvRnZVVjFsOGo1RXBsOGUzVk1xVERVal9SbVFxeG1CdVhSaHZtajFlUDRRZFllalVYdVRGY1J5ZGN1bVFfN2xmRHB0aTdxQjJBRVhIMFI0NWI3SjlXeTdRWUQxaU9rRA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Nvidia targets robot safety as humanoids edge toward factory floors",
+                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmxmT0Ztb3VKZDkxRUI2MDY2NVpwdDdCZXVSY3pmWVY4UnlRN3RyMkxGWC1QZm1QNWdXaFFEU3p6OGtQR0Q1aTV3X1YtVXpmSDJJeVJ6b1JEaTByM3BHTlVubTFIdmdOcUdJU1NXVjhDOHlEN3FpZWxGam5jcDh1VzJPbHlpSFV6Y2FTMU9SRldsWmd3OFRVcQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -149,36 +111,50 @@
           ]
         },
         {
-          "lead": "U.S. Treasury yields fell across the curve.",
+          "lead": "TSMC is reportedly seeking price increases and expanding advanced packaging capacity.",
           "segments": [
             {
-              "text": "Yields declined ahead of an expected Federal Reserve hold on interest rates, reflecting market anticipation.",
-              "sources": [
-                {
-                  "title": "U.S. Treasury Yields Decline",
-                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmZrVlV0bWI2Z2NnalRvenB4RTJaSGNHcTJwSEE5cExrTkNKNTlTb3hnR1hrMl9aTnRTZktpMnJ1dXM1aFZjU1QzQ1o2SmRhY1NZVEp3UEZVTW5BNncwUkwyYXR4elF6SVozZGZfSXZRSVF6MWdyZ2d2YzE4eDF6OV9qcnIxaXNSMko4cDhCLTFXNjgxcGhvRW1B?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Private credit markets are experiencing redemption requests.",
-          "segments": [
-            {
-              "text": "An Apollo private credit fund, Apollo Debt Solutions, received approximately 16.8% in redemption requests and has capped investor redemptions at 5%.",
+              "text": "TSMC is reportedly pursuing 5-10% price hikes across its advanced nodes and is heavily investing in new advanced chip packaging plants, including CoWoS-L.",
               "sources": [],
               "x_mentions": [
                 {
-                  "handle": "@negligible_cap",
-                  "url": "https://x.com/negligible_cap/status/2069165366190784997"
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2069205589117579656"
                 },
                 {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2069165057641230494"
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2069388829841363242"
+                },
+                {
+                  "handle": "@PhotonCap",
+                  "url": "https://x.com/PhotonCap/status/2069022333621428542"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Google is progressing with its TPU development, with MediaTek securing orders.",
+          "segments": [
+            {
+              "text": "Google's TPU development is advancing, with increased volume expectations for Humufish and Triggerfish, and MediaTek has secured primary orders for TPU v9 chips despite substrate bottlenecks.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2069266963965350136"
+                },
+                {
+                  "handle": "@Aaronwei3n",
+                  "url": "https://x.com/Aaronwei3n/status/2069397204494905823"
+                },
+                {
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2069181208412721377"
+                },
+                {
+                  "handle": "@KawzInvests",
+                  "url": "https://x.com/KawzInvests/status/2069029628858019886"
                 }
               ]
             }
@@ -190,35 +166,46 @@
       "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "The memory market is experiencing strong growth, driven by AI demand and supply shortages.",
+          "lead": "Korean markets experienced a significant sell-off, driven by AI/memory names.",
           "segments": [
             {
-              "text": "Record Korean exports are contributing to this growth, with SK Hynix strategically managing HBM4 production to capitalize on market dynamics.",
-              "sources": [],
+              "text": "The KOSPI index saw a substantial decline, with profit-taking in AI and memory stocks like SK Hynix and Samsung, alongside fears of a bubble and high leverage.",
+              "sources": [
+                {
+                  "title": "“SK하이닉스 팔지 마세요” 1조 자산운용가가 뼈저리게 후회한 이유",
+                  "link": "https://n.news.naver.com/mnews/article/021/0002799863?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
               "x_mentions": [
                 {
-                  "handle": "@damnang2",
-                  "url": "https://x.com/damnang2/status/2069125667237883941"
+                  "handle": "@aleabitoreddit",
+                  "url": "https://x.com/aleabitoreddit/status/2069399639154213281"
                 },
                 {
-                  "handle": "@zephyr_z9",
-                  "url": "https://x.com/zephyr_z9/status/2069210108467593623"
+                  "handle": "@ParadisLabs",
+                  "url": "https://x.com/ParadisLabs/status/2069350347156361622"
                 },
                 {
                   "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2068961529484193930"
+                  "url": "https://x.com/jukan05/status/2069368311146815885"
+                },
+                {
+                  "handle": "@damnang2",
+                  "url": "https://x.com/damnang2/status/2069343369470644627"
                 },
                 {
                   "handle": "@Yeah_Dave",
-                  "url": "https://x.com/Yeah_Dave/status/2069172124452073698"
+                  "url": "https://x.com/Yeah_Dave/status/2069308152789803423"
                 },
                 {
                   "handle": "@TheValueist",
-                  "url": "https://x.com/TheValueist/status/2069130488048951644"
+                  "url": "https://x.com/TheValueist/status/2069386115413352769"
                 },
                 {
-                  "handle": "@investingluc",
-                  "url": "https://x.com/investingluc/status/2068853705135337797"
+                  "handle": "@negligible_cap",
+                  "url": "https://x.com/negligible_cap/status/2069382637651661130"
                 },
                 {
                   "handle": "@AlmaCap114204",
@@ -229,129 +216,46 @@
           ]
         },
         {
-          "lead": "Tech futures plunged, with memory stocks seeing significant declines.",
+          "lead": "Micron shares fell sharply amidst market volatility.",
           "segments": [
             {
-              "text": "Micron, Nvidia, and Sandisk shares dove, contributing to a global rout led by South Korea.",
+              "text": "Micron Technology (MU) shares dropped 13% as the memory market experienced significant volatility and profit-taking ahead of its earnings report.",
               "sources": [
                 {
-                  "title": "Stock Market Today: Tech Futures Plunge As Micron, Nvidia, Sandisk Dive (Live Coverage)",
-                  "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Samsung has been dethroned as the market cap leader after 26 years.",
-          "segments": [
-            {
-              "text": "This shift is generating anticipation around ADRs, reflecting broader changes in market leadership.",
-              "sources": [
-                {
-                  "title": "‘무려 26년 만’ 삼성전자 제치고 ‘시총 1위’…ADR까지 기대 쏠린다",
-                  "link": "https://n.news.naver.com/mnews/article/016/0002660525?sid=101",
+                  "title": "\"마이크론(MU)·인텔(INTC)도 동반 붕괴\"...기술주 버블, 붕괴 시작인가...",
+                  "link": "http://coinreaders.com/244103",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Software / Internet / Platforms",
-      "bullets": [
-        {
-          "lead": "Oracle is undergoing significant restructuring, including job cuts, to sharpen its focus on AI.",
-          "segments": [
-            {
-              "text": "The tech giant shed 21,000 jobs as part of its strategy to embrace AI, impacting its workforce.",
-              "sources": [
-                {
-                  "title": "Oracle Sheds 21,000 Jobs as It Sharpens Focus on AI",
-                  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0JFTG9SOEstT0NWbUQwd3BkTmJXQ2FWNjQ3ZGdzQmFXZVU4QnNmX2NuUC1HRkM3VlU2R3k5Sm9mc1BBeDZiNkJwVFdicDdfUjFLQlJuRjhVMzdrd2dodVQ1Nm9rRTExNjVWU0tYLVVOQ0xzRlRyWjlKTzlqVThXZ2ppaXJ3WUxjUWI4TGZoYUxHcWFKbkxIZXFmb0dHSU8wRW9j?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
-                  "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-                  "link": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Google is facing accusations of market power abuse and challenges in the AI talent war.",
-          "segments": [
-            {
-              "text": "The CEO of People Inc. accused Google of abusing its market power with web crawling, while Google also navigates the competitive landscape of AI talent.",
-              "sources": [
+                  "title": "Here’s Why Micron Shares Fell 13% Tuesday",
+                  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdFFiODZFNm5fOFE0d2NSaHlqamhwb3JLd3NoNEgtSG04b1RKcHc0YXJiamRsYnVoeGE2UHBmWW5FQzhBaFR3MHRJTldpdnpkWFN6VTdGODB5LWxMck9aV1JhSkhtam1iQmgyQlVlSl9LMWhsc3FPbDVheEhEeEozay1KWHlzSlBRd1NRLWhheU1wN3ZtQ1NCMXp0Tjg0elgyS0N6aDUtR1U3MGpLQmNrLXUyaFM3Q2ZONXA5Mk14dTQ?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                },
                 {
-                  "title": "People Inc. CEO accuses Google of abusing its market power with web crawling",
-                  "link": "https://www.axios.com/2026/06/23/people-inc-google-ai-search-crawler",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Stocks making the biggest moves midday: Micron Technology, SpaceX, IBM, Flex & more",
+                  "link": "https://www.cnbc.com/2026/06/23/stocks-making-the-biggest-moves-midday-mu-spcx-ibm-flex.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "AI software models are evolving, with memory becoming a critical factor.",
-          "segments": [
-            {
-              "text": "Models like Grok are undergoing upgrades, and memory is increasingly seen as a crucial \"moat\" for managing token costs within the Generative AI ecosystem.",
-              "sources": [],
               "x_mentions": [
-                {
-                  "handle": "@elonmusk",
-                  "url": "https://x.com/elonmusk/status/2069161018161311953"
-                },
-                {
-                  "handle": "@KawzInvests",
-                  "url": "https://x.com/KawzInvests/status/2069143406392086825"
-                },
                 {
                   "handle": "@TheValueist",
-                  "url": "https://x.com/TheValueist/status/2069142169374642336"
+                  "url": "https://x.com/TheValueist/status/2069268199871279208"
                 },
                 {
-                  "handle": "@AlmaCap114204",
-                  "url": "https://x.com/AlmaCap114204/status/2069134713357267148"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "The optical networking sector is showing strength, driven by AI demand.",
-          "segments": [
-            {
-              "text": "Companies like AAOI are projecting significant growth, fueled by AI demand and industry bottlenecks, with Nokia partnering with Google in this space.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@aleabitoreddit",
-                  "url": "https://x.com/aleabitoreddit/status/2069062745308254434"
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2069278356193919073"
                 },
                 {
-                  "handle": "@crux_capital_",
-                  "url": "https://x.com/crux_capital_/status/2069148669077553589"
+                  "handle": "@Yeah_Dave",
+                  "url": "https://x.com/Yeah_Dave/status/2069172124452073698"
                 },
                 {
-                  "handle": "@KawzInvests",
-                  "url": "https://x.com/KawzInvests/status/2069134707732648033"
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2069210108467593623"
                 }
               ]
             }
@@ -363,45 +267,40 @@
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "The U.S. has issued sweeping oil sanctions waivers for Iran, unlocking billions in revenue.",
+          "lead": "The US issued sweeping waivers on Iranian oil sanctions, easing global supply concerns.",
           "segments": [
             {
-              "text": "This move leaves China as a key buyer for Iranian oil, as Asian refiners see little room for it.",
+              "text": "The US government has issued broad waivers on Iranian oil sanctions, unlocking billions in revenue for Tehran and contributing to lower oil prices.",
               "sources": [
-                {
-                  "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
-                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUDBQMXczT0RrZnpKMXNZaTg5ekFvaW5jQ3NnTFFGWkVRZTBuUF9QU3RVTVVyR1h2LUh5SGZpZi1sbjdYMjdhQmpXakZGdmpnUEpBeVllSzFId0dEYWFLYy14WlFfLU9idFdqM0gxWEFWd0hwS1c1M0JzdE1qQVZwZkR4YW5wcEdneUViTDEtY2xSOHQ3eU11NWhUUHRvalBJTEZjNGxQbmNEWU1OWUFKbWQxVVVtOV9DaDNSQU43TDFqTGxXcWc?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
                 {
                   "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
                   "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
                   "source": "CNBC Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                },
+                {
+                  "title": "Waiving sanctions on Iranian oil is a huge concession by America",
+                  "link": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+                  "source": "The Economist Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Oil prices remained steady as investors focused on Hormuz Strait flows after peace talks.",
-          "segments": [
+            },
             {
-              "text": "U.S.-Iran talks showing signs of progress led to falling oil prices and eased concerns over the Strait of Hormuz.",
+              "text": "Oil prices finished 1% lower as investors focused on the potential for increased Hormuz Strait flows following peace talks and signs of progress in US-Iran discussions.",
               "sources": [
                 {
-                  "title": "Iranian Oil Is Moving Again, but Getting Through the Strait Is Complicated",
-                  "link": "https://www.nytimes.com/2026/06/23/business/iran-strait-hormuz-oil-shipping-traffic.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "Oil steady as investors focus on Hormuz flows after peace talks",
+                  "title": "Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks",
                   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Strait Reopens and Iranian Oil Flows, But the Path Through Is Complicated",
+                  "link": "https://www.nytimes.com/2026/06/23/business/iran-strait-hormuz-oil-shipping-traffic.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -409,10 +308,39 @@
           ]
         },
         {
-          "lead": "China is advancing its manufacturing agenda and expanding its LEO satellite network.",
+          "lead": "Trump is campaigning in the Rust Belt, addressing Iran and inflation.",
           "segments": [
             {
-              "text": "Chinese Premier Li Qiang showcased the country's advanced manufacturing agenda, while China's Starlink challenger Qianfan is seeking $740M for LEO satellite expansion.",
+              "text": "Donald Trump is testing his Rust Belt pitch in Pennsylvania, focusing on pressures related to Iran and inflation.",
+              "sources": [
+                {
+                  "title": "Trump tests Rust Belt pitch in Pennsylvania amid Iran, inflation pressures",
+                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTFQbHY4R0tUM1NTb0ZIY1RsUmtWWjdvOGRtQ2tRd1ZrOHlONG1UREo0ZzNVTkNjS0dhalBIWXg5eC1sSUswT3ZFM0RHcnFKTkdCcUJjRF9yT3c1SHl3SEx3eGdES2JLTWlKRnAxNGsyUEJCQjJDRnRCSlhMRlpCQjNLX3ppSzhVVHhEUXhNNVg3aDdqVlhkaTJFUUVydlJjbkdMczdDWEVpUjVtRkd3bXprTm5BVUY0V04xMHdPNmZRYWREampaMw?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Trump tests Rust Belt pitch in Pennsylvania amid Iran, inflation pressures",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-to-pay-visit-to-closely-divided-pennsylvania-in-return-to-campaigning-4754911",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Paul Krugman says Trump's hope for economic relief from the Iran war faces 3 major pain points",
+                  "link": "https://www.businessinsider.com/paul-krugman-trump-iran-peace-deal-economy-gas-prices-inflation-2026-6",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China's Starlink competitor, Qianfan, is seeking significant investment.",
+          "segments": [
+            {
+              "text": "China's low-Earth orbit (LEO) satellite constellation project, Qianfan, is reportedly seeking $740 million from backers to expand its operations, challenging Starlink.",
               "sources": [
                 {
                   "title": "China's Starlink challenger Qianfan seeks US$740M backers for LEO satellite expansion",
@@ -428,25 +356,25 @@
       ]
     },
     {
-      "label": "Autos / EVs",
+      "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Tesla stockholders are betting on a SpaceX merger as Elon Musk's real endgame.",
+          "lead": "Google's YouTube settled a case regarding social media harm to children.",
           "segments": [
             {
-              "text": "This speculation comes as Musk's net worth plummeted $350 billion, with SpaceX falling 30% from its high.",
+              "text": "Google's YouTube reached a settlement in a case concerning the alleged harm of social media to children, according to plaintiff's lawyers.",
               "sources": [
                 {
-                  "title": "Tesla Stockholders Bet on SpaceX Merger as Musk’s Real Endgame",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNNR2VtTGxLeFR6MmNacXpKNEFWbkhEQWlBUkRvTzBUU2twNkdyTllQZzJIaHZKTTRSSmtOVUdaZWlMNHJjWms1c3pwa25vT0J6ZXg4aEgyazJ4cWNjWU96TXZwVVZHRWdUMUNlcFNFU1pnS3BIY0VKQWpiZDYyT2Fvbjh5eXdXeXpCWFZTNUJuRGVPWkRLR2FoS1NJZko2bERrdU5RLU9OTXZJVWdnR3EwOA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Google’s YouTube settles case over social media harm to children, plaintiff’s lawyers say",
+                  "link": "https://www.investing.com/news/stock-market-news/googles-youtube-settles-with-plaintiff-ahead-of-second-california-trial-over-social-media-harm-to-children-attorneys-say-4756887",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 },
                 {
-                  "title": "Musk’s Net Worth Plummets $350 Billion As SpaceX Falls 30% From High",
-                  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHJyMGxDWXFBRTdsM0NUYlpXZC1zWmZsUEZXc1U2dVJKRFRWVDgxdHhobHZ3Y01mZDdRZHpKNHpFeURfcEpfdTBuQ2I3LUxnenpPMDZKQ3UyTlBTODdCLWk4VmNNWVVtaXljeURRWFRENF9uX3h4b3l0QVlVZ0l0aVZvLWNhMDRxaGpxU1IxYm1SM0hETkFBUHQ4dVFpdklxdGNoTFIyaGZKbEpWVGltb3EwbEFiV1MtMk1pdFp1alRVbkdBbDlTRERhelktU1NVLV8zWFpYazhrQ2ZkMFE?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "Google's YouTube settles social media addiction case with teen",
+                  "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -454,33 +382,65 @@
           ]
         },
         {
-          "lead": "The space sector is seeing increased investment interest despite recent volatility.",
+          "lead": "Microsoft's CEO Satya Nadella expressed concerns about AI giants' economic dominance.",
           "segments": [
             {
-              "text": "Discussions around orbital data centers highlight the long-term potential, even with SpaceX's valuation fluctuations and limited tradable float.",
-              "sources": [],
-              "x_mentions": [
+              "text": "Satya Nadella, CEO of Microsoft, stated that the economy cannot allow AI giants to consume it, highlighting potential concerns about market concentration.",
+              "sources": [
                 {
-                  "handle": "@Yeah_Dave",
-                  "url": "https://x.com/Yeah_Dave/status/2069193540312367235"
-                },
-                {
-                  "handle": "@negligible_cap",
-                  "url": "https://x.com/negligible_cap/status/2069153850024398987"
-                },
-                {
-                  "handle": "@ParadisLabs",
-                  "url": "https://x.com/ParadisLabs/status/2069107183992578339"
-                },
-                {
-                  "handle": "@aleabitoreddit",
-                  "url": "https://x.com/aleabitoreddit/status/2069068801329774691"
-                },
-                {
-                  "handle": "@FundaAI",
-                  "url": "https://x.com/FundaAI/status/2069061321761665439"
+                  "title": "Exclusive | Microsoft’s Satya Nadella: We Can’t Let AI Giants Eat the Economy",
+                  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZW1mUi1WMDBVS2RxVVp1bEpLSmcwWnZoWU9qS1FqY3lGRXBmQjhwZElGNlk2T3lEVEREbFdUNWpBYkdvTDlyaXIwdnhCVXVyaFplVlFzMFZqQVRtVTFlMmo5V0V2VFlSQVBpSnpqdmlnQy1qUG5KY1J0RjZ3ODdDQ05wVnFDQnZtb1F6Y3pzS0dxcGhQZzBuamVGa1F6cGps?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
-              ]
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The US government is pressing Meta Platforms for AI reviews due to security concerns.",
+          "segments": [
+            {
+              "text": "The United States is urging Meta Platforms to agree to AI reviews as security concerns surrounding artificial intelligence models rise.",
+              "sources": [
+                {
+                  "title": "U.S. Presses Meta to Agree to A.I. Reviews",
+                  "link": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1BkQ0VuVVRQS1dyNXlUd19NMEtTTTNhYVoxT2ZGUm9CMmx6NVIwVVp4d1RKQ2pJclpJM3E5aXVPQm5jMVNJSG5mYWNuRU5ZNU5fTEV4Z2h0T3Q1MGZYbW9ZemRRZ0hTblpwOVJaRnpMNWdoa3QwMlpYVmFHQjEzQ055dk90Q0VmZmEwckJGa09DRnlYR1NqTU9zZjVNS29fRlVwMXlPV1NTNFlLOENpSzRR?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Meta is developing a prediction markets application.",
+          "segments": [
+            {
+              "text": "Meta is building a prediction market app, though it is not expected to involve wagering money.",
+              "sources": [
+                {
+                  "title": "Meta is building a prediction markets app. These stocks fell in response",
+                  "link": "https://www.cnbc.com/2026/06/23/nyt-says-meta-builds-prediction-market-these-stocks-are-falling.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                },
+                {
+                  "title": "Meta Building Prediction Market App That Wouldn’t Wager Money",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3dzdVJYbWF4VzYzdnM1Y1Azb0g0d0p0T3BmME9BTUxGa3F0TVJ4VDl1RXEzSGxWdTQ0Y1dqcHJ6VGw5bnIwUW9aQUlhQ0d0RDdBeVJxNWZWN2M1dlZyaDhMRExSQWpqT0l2ZURyV0xuOE1YYzZ6RkRjamxSUmcwVExpU0p4bm5ub2tuOXhtUk1QWHZWQlE4ejRyMi1XZGxaQTdfZlY1VU1ENnZuaGZhd0pn?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -489,270 +449,203 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Watch for continued AI chip demand and advanced packaging developments.",
+      "name": "Fed",
+      "note": "Watch for further commentary on inflation and rate hike expectations, as the dollar strengthened on bets for higher rates.",
       "sources": [
         {
-          "title": "엔비디아는 내렸는데 AMD만 올랐다…무슨 이유?",
-          "link": "http://coinreaders.com/244021",
+          "title": "[속보] 연준 금리인상 우려에 美나스닥 2.2% 폭락했지만 … 삼전·하닉 ...",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/24/2026062400015.html",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "Stock Market Today: Tech Futures Plunge As Micron, Nvidia, Sandisk Dive (Live Coverage)",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-nvidia-sandisk/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+          "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0xYUFRzcGVxMGFYc1ZKWEJva1cyczJQVEY2Sk9SeU5fdVJza01MM0x0eURtOVhtNlFKbGFXRDVRNl92TmVsQmx5amZEZVBGUHh4bVZWbjRkYVpkS1dfeHZxVGtkLTdDcm5WeXhKbGtiM0lwZjJRVFFfaWE3Z2x1bEc1VmVQRi1ueGVWVDdXdnc1LThJaXEwR2xoaFlwRmZqY2ZVNUpqTnNNU1NzREtDRA?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "SK Hynix / Samsung",
+      "note": "Monitor for continued volatility and profit-taking in AI/memory names, especially in Korean markets.",
+      "sources": [
+        {
+          "title": "“SK하이닉스 팔지 마세요” 1조 자산운용가가 뼈저리게 후회한 이유",
+          "link": "https://n.news.naver.com/mnews/article/021/0002799863?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        }
+      ],
+      "x_mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2069399639154213281"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2069350347156361622"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069368311146815885"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2069343369470644627"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2069308152789803423"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2069386115413352769"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2069382637651661130"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2068417443836436575"
+        }
+      ]
+    },
+    {
+      "name": "Nvidia",
+      "note": "Observe AI chip sector performance and any further news on its software expansion or robot safety initiatives.",
+      "sources": [
+        {
+          "title": "Asian Stocks Set to Extend AI Chip-Fueled Selloff: Markets Wrap",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSHhfdklnb3R1SFphTHdDcjVHNVZjb3M5bWx1elZLUVBJRHhCVzFiWFIyWVd1azFNUGE4bWNGWUtRWFFZTU1aX2JNaFdKOTJFTW9SbkxkTHhKOUlXcnJERjU1US1Yb3k3SnVBUUYyWWU3U041eDVOOUVpUFRWRGhLSXBsOVg0WGNHUGxVSEpfRG5peGZLTnJVWWdFUTc3bE9ESjdZdnpiQ0pmWmRsaFV1YTdabw?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Nvidia Launches Open-Source Software For Life Sciences",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1oxa1Zmc1M3Ukpqd3JLMHdhVFlwTi00ajFsdS1RNlRrd1NaTWNsaWJNbVVSNkRxdHQ3aWVqTGZBNDJXeHVxcnhDOUtXZ1NhZjNUVkV6ZVp1ZURUQ0hKdW1RRlNqVWpmSVNvWG5FdnNzeDctMUhWZWpscHctUVczUkwyaXN5bnlhcGpDX082M3NEa2p1SFE?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         },
         {
           "title": "Nvidia targets robot safety as humanoids edge toward factory floors",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmxmT0Ztb3VKZDkxRUI2MDY2NVpwdDdCZXVSY3pmWVY4UnlRN3RyMkxGWC1QZm1QNWdXaFFEU3p6OGtQR0Q1aTV3X1YtVXpmSDJJeVJ6b1JEaTByM3BHTlVubTFIdmdOcUdJU1NXVjhDOHlEN3FpZWxGam5jcDh1VzJPbHlpSFV6Y2FTMU9SRldsWmd3OFRVcQ?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        },
-        {
-          "title": "Nvidia says AI's water challenge is largely solved",
-          "link": "https://www.axios.com/2026/06/22/nvidia-data-center-water-solution",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
         }
       ],
-      "x_mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069230221388333366"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069170485414269130"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2069022333621428542"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-        },
-        {
-          "handle": "@pcbanalysis",
-          "url": "https://x.com/pcbanalysis/status/2068981267941757241"
-        },
-        {
-          "handle": "@vlmkapital",
-          "url": "https://x.com/vlmkapital/status/2068318125745938821"
-        }
-      ]
+      "x_mentions": []
     },
     {
-      "name": "Fed",
-      "note": "Monitor upcoming statements for clarity on rate outlook and inflation commentary.",
+      "name": "Oil",
+      "note": "Track developments in US-Iran talks and their impact on Hormuz Strait flows and global oil prices.",
       "sources": [
         {
-          "title": "Stocks drop as Fed rate bets hit tech royalty; dollar gains",
-          "link": "https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html",
-          "source": "Yahoo Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+          "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+          "link": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html",
+          "source": "CNBC Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
         },
         {
-          "title": "Nasdaq futures drop over 2% on concerns over AI buildout costs, Fed rate outlook",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2t3ZXZzXzl6MTZCNnY4U09lU2l4ZWZENmdOZVZuNVF2VzFjYlFleVlLR1FHNlFwbjlvRnZVVjFsOGo1RXBsOGUzVk1xVERVal9SbVFxeG1CdVhSaHZtajFlUDRRZFllalVYdVRGY1J5ZGN1bVFfN2xmRHB0aTdxQjJBRVhIMFI0NWI3SjlXeTdRWUQxaU9rRA?oc=5",
+          "title": "Waiving sanctions on Iranian oil is a huge concession by America",
+          "link": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+          "source": "The Economist Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
+        },
+        {
+          "title": "Oil prices finish 1% lower as investors focus on Hormuz flows after peace talks",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGVfZjVpeWcwVGgyVzhLV2tRWk5MS25BWWFual9TakpqRHJIQWtpNjFjVFVVS0U1ckYyOWg0QWJuQm5aLU5xV0ZXQ0dfOExaN0cwQWk5cWZzSXdoUkdybTE4VlZnZjJuS3NrTHM5Q01IUjVwSzNGYUstWmlxZTJpNUNGcll6WEpLR2FoMGVoLXZaVml1QV81QlZ0YXVRdHRKVkxGN24yckhoTUdtbGpqQg?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "U.S. Treasury Yields Decline",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmZrVlV0bWI2Z2NnalRvenB4RTJaSGNHcTJwSEE5cExrTkNKNTlTb3hnR1hrMl9aTnRTZktpMnJ1dXM1aFZjU1QzQ1o2SmRhY1NZVEp3UEZVTW5BNncwUkwyYXR4elF6SVozZGZfSXZRSVF6MWdyZ2d2YzE4eDF6OV9qcnIxaXNSMko4cDhCLTFXNjgxcGhvRW1B?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "Strait Reopens and Iranian Oil Flows, But the Path Through Is Complicated",
+          "link": "https://www.nytimes.com/2026/06/23/business/iran-strait-hormuz-oil-shipping-traffic.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Oracle",
-      "note": "Observe further restructuring impacts and AI strategy execution.",
+      "name": "Google (Alphabet)",
+      "note": "Watch for further news on its TPU development and the impact of its YouTube settlement and DJIA inclusion.",
       "sources": [
         {
-          "title": "Oracle Sheds 21,000 Jobs as It Sharpens Focus on AI",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0JFTG9SOEstT0NWbUQwd3BkTmJXQ2FWNjQ3ZGdzQmFXZVU4QnNmX2NuUC1HRkM3VlU2R3k5Sm9mc1BBeDZiNkJwVFdicDdfUjFLQlJuRjhVMzdrd2dodVQ1Nm9rRTExNjVWU0tYLVVOQ0xzRlRyWjlKTzlqVThXZ2ppaXJ3WUxjUWI4TGZoYUxHcWFKbkxIZXFmb0dHSU8wRW9j?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "Google’s YouTube settles case over social media harm to children, plaintiff’s lawyers say",
+          "link": "https://www.investing.com/news/stock-market-news/googles-youtube-settles-with-plaintiff-ahead-of-second-california-trial-over-social-media-harm-to-children-attorneys-say-4756887",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         },
         {
-          "title": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-          "link": "https://www.bbc.co.uk/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
+          "title": "Google's YouTube settles social media addiction case with teen",
+          "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
           "source": "BBC Business",
           "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
         },
         {
-          "title": "Stocks making the biggest moves premarket: IBM, Qualcomm, Oracle, Energy Fuels & more",
-          "link": "https://www.cnbc.com/2026/06/23/stocks-making-the-biggest-moves-premarket-ibm-qcom-orcl-uuuu.html",
-          "source": "CNBC Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "SK Hynix",
-      "note": "Track HBM production strategy and memory market pricing.",
-      "sources": [
-        {
-          "title": "‘무려 26년 만’ 삼성전자 제치고 ‘시총 1위’…ADR까지 기대 쏠린다",
-          "link": "https://n.news.naver.com/mnews/article/016/0002660525?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Google-Parent Alphabet to Replace Verizon in Dow Jones Industrial Average",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFo5VWdHcTlwM29HRFg0QnRZU01jdXJQSEdWNDNGVVk2ekxONE1xU0VfRnhwV2NYa3cxTVpsNTNmS2IzajI4a1BwdlJySTM0ZzBZdzNfZkF3aWx2X2lTQUx6R29JZ2l3OTJuRDllc1RuZ1BLdmg2QlFuYkFlVXlBV3BKZUN6STJ0RE1iNDROUHpWT19tdGFFV25sdHA1QnhaVlYtLUpIWXFFcjJBN243YXZRNVRNazZ2?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2069125667237883941"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069266963965350136"
+        },
+        {
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2069397204494905823"
         },
         {
           "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2069210108467593623"
+          "url": "https://x.com/zephyr_z9/status/2069181208412721377"
         },
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2068961529484193930"
-        },
-        {
-          "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2069172124452073698"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069130488048951644"
-        },
-        {
-          "handle": "@investingluc",
-          "url": "https://x.com/investingluc/status/2068853705135337797"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2068417443836436575"
-        }
-      ]
-    },
-    {
-      "name": "SpaceX",
-      "note": "Monitor valuation and any further news on potential mergers or IPO developments.",
-      "sources": [
-        {
-          "title": "Tesla Stockholders Bet on SpaceX Merger as Musk’s Real Endgame",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUNNR2VtTGxLeFR6MmNacXpKNEFWbkhEQWlBUkRvTzBUU2twNkdyTllQZzJIaHZKTTRSSmtOVUdaZWlMNHJjWms1c3pwa25vT0J6ZXg4aEgyazJ4cWNjWU96TXZwVVZHRWdUMUNlcFNFU1pnS3BIY0VKQWpiZDYyT2Fvbjh5eXdXeXpCWFZTNUJuRGVPWkRLR2FoS1NJZko2bERrdU5RLU9OTXZJVWdnR3EwOA?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Musk’s Net Worth Plummets $350 Billion As SpaceX Falls 30% From High",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSHJyMGxDWXFBRTdsM0NUYlpXZC1zWmZsUEZXc1U2dVJKRFRWVDgxdHhobHZ3Y01mZDdRZHpKNHpFeURfcEpfdTBuQ2I3LUxnenpPMDZKQ3UyTlBTODdCLWk4VmNNWVVtaXljeURRWFRENF9uX3h4b3l0QVlVZ0l0aVZvLWNhMDRxaGpxU1IxYm1SM0hETkFBUHQ4dVFpdklxdGNoTFIyaGZKbEpWVGltb3EwbEFiV1MtMk1pdFp1alRVbkdBbDlTRERhelktU1NVLV8zWFpYazhrQ2ZkMFE?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        },
-        {
-          "title": "Sell SpaceX, Buy Tesla?",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1FJUkZYeDlxWU9xMEZjMlhudFJVRjRjTGhxZGRlR0RfTWQyc09MNVUtWHZ5cTZkVzJBZENVTmROV00yajFnLVVkSWRXLXhJcU9NWUVDWGlhdi1wNmRtellLbjBIMlNjcVpMVTVXQVowcGx1bE05TG1hd29ETV9iekthcw?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2069193540312367235"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2069153850024398987"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2069107183992578339"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069068801329774691"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2069061321761665439"
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2069029628858019886"
         }
       ]
     }
   ],
   "x_themes": [
     {
-      "topic": "AI Advanced Packaging & Silicon Photonics",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "The advanced packaging supply chain, including CoPoS and silicon photonics, is experiencing significant re-rating and investment, driven by TSMC's accelerated development and foundry capacity reservations. Challenges include glass substrate manufacturing and the need for new production lines and specialized equipment.",
+      "topic": "Korean Market Volatility & AI/Memory Sell-off",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Korean markets experienced a significant sell-off, with KOSPI down ~10%, driven by high leverage, profit-taking in AI/memory names (SK Hynix, Samsung), fears of a bubble, and concerns over potential rate hikes. This is seen as a momentum unwind rather than a fundamental shift, with Micron earnings as a key test.",
       "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-        },
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069230221388333366"
+          "url": "https://x.com/aleabitoreddit/status/2069399639154213281"
         },
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069170485414269130"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2069022333621428542"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2068871611428827480"
-        },
-        {
-          "handle": "@pcbanalysis",
-          "url": "https://x.com/pcbanalysis/status/2068981267941757241"
-        },
-        {
-          "handle": "@vlmkapital",
-          "url": "https://x.com/vlmkapital/status/2068318125745938821"
-        }
-      ]
-    },
-    {
-      "topic": "Memory Market Strength & HBM/DRAM Dynamics",
-      "category": "tech",
-      "subcategory": "memory",
-      "summary": "The memory market is experiencing strong growth with record Korean exports, driven by AI demand and supply shortages. SK Hynix is strategically throttling HBM4 production to capitalize on higher-margin commodity DRAM, while Samsung's HBM4 revenue has surpassed $1 billion, intensifying the competitive landscape.",
-      "mentions": [
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2069125667237883941"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2069210108467593623"
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2069350347156361622"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2068961529484193930"
+          "url": "https://x.com/jukan05/status/2069368311146815885"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2069343369470644627"
         },
         {
           "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2069172124452073698"
+          "url": "https://x.com/Yeah_Dave/status/2069308152789803423"
         },
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069130488048951644"
+          "url": "https://x.com/TheValueist/status/2069386115413352769"
         },
         {
-          "handle": "@investingluc",
-          "url": "https://x.com/investingluc/status/2068853705135337797"
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2069382637651661130"
         },
         {
           "handle": "@AlmaCap114204",
@@ -761,42 +654,150 @@
       ]
     },
     {
-      "topic": "AI Chip Development & Foundry Capacity",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "Google's TPU v9 orders are going to MediaTek due to Broadcom's production delays, highlighting challenges in advanced SerDes solutions. Chinese companies are expected to deploy their AI accelerators overseas, while Qualcomm is in talks to acquire AI chip startup Modular, and SpaceX plans its own datacenter ASIC with Intel's 14A process.",
+      "topic": "Memory Market Dynamics & CXL Adoption",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "The memory market is experiencing significant volatility, with profit-taking ahead of Micron earnings and concerns about future price corrections, yet HBM contract prices are expected to rise. CXL memory technology is emerging as a key architecture for AI data centers, with Type 3 expansion gaining traction for CPU workloads and AI inference, involving players like Micron, Samsung, and SK Hynix.",
       "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2069268199871279208"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069278356193919073"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2069172124452073698"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2069350347156361622"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2069210108467593623"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2068417443836436575"
+        }
+      ]
+    },
+    {
+      "topic": "Silicon Photonics & Optical Device Production",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Demand for silicon photonics and optical devices is surging, driven by AI/HPC workloads and co-packaged optics (CPO), leading to significant investments in manufacturing expansion and high-volume testing solutions. Companies like AAOI are scaling 6-inch InP wafer production, while Advantest is partnering for SiPh device testing, and foundries are seeing strong demand and prepayments for SiPh capacity.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2069390514278015074"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2069388279355756826"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2069393857763221950"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2069343955624567086"
+        },
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2069232665539346775"
+        }
+      ]
+    },
+    {
+      "topic": "TSMC Advanced Packaging & Foundry Expansion",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "TSMC is reportedly seeking 5-10% price increases across advanced nodes and is investing heavily in new advanced chip packaging plants, including CoWoS-L, and potentially acquiring existing facilities to accelerate capacity expansion. Foundries like Tower are securing significant silicon photonics contracts with upfront payments, indicating a tight market for fabrication and packaging capacity.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2069205589117579656"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069388829841363242"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2069022333621428542"
+        }
+      ]
+    },
+    {
+      "topic": "AI Software & Model Development",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "AI is being integrated into various applications, from investing platforms like SoFi's Composer to telecom network management with Nokia's partnership with Google Cloud's Gemini agents. There's ongoing debate about the long-term value and competitive moats of AI labs and models, with some questioning their durability due to rapid depreciation and low switching costs, while others see value in strategic partnerships.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2069391971396002288"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2069134707732648033"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069278356193919073"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2069134713357267148"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2069161018161311953"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2068879467473510462"
+        }
+      ]
+    },
+    {
+      "topic": "Google TPU Development & ASIC Supply Chain",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "Google's TPU development is progressing with raised volume expectations for Humufish and Triggerfish, despite substrate bottlenecks. MediaTek secured primary orders for TPU v9 chips by providing a custom 336G SerDes solution, as Broadcom's more ambitious 448G SerDes faced production delays due to technical challenges requiring 2nm process technology.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2069266963965350136"
+        },
         {
           "handle": "@dnystedt",
           "url": "https://x.com/dnystedt/status/2069232665539346775"
         },
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2069226465812713682"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069166919572496884"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2069159460694823375"
-        },
-        {
           "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2068988513090191476"
+          "url": "https://x.com/Aaronwei3n/status/2069397204494905823"
         },
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069188398825566318"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2069181208412721377"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2069029628858019886"
         }
       ]
     },
     {
-      "topic": "AI Data Center Power Infrastructure",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "AI data centers face a critical power bottleneck, with NVIDIA's 2027 racks requiring 600 kilowatts, far exceeding existing infrastructure. The solution involves 800V DC 'sidecars' utilizing silicon carbide and gallium nitride chips, with former EV suppliers now pivoting to serve hyperscalers like Amazon and Microsoft.",
+      "topic": "800V DC Architecture for AI Datacenters",
+      "category": "out_of_ai",
+      "subcategory": "800vdc",
+      "summary": "AI data centers face power infrastructure challenges with 600kW racks exceeding current wiring capabilities. The solution is 800V DC architecture using 'sidecar' power cabinets, which require advanced silicon carbide and gallium nitride chips. Companies producing these materials, initially for EVs, are now seeing strong demand from hyperscalers.",
       "mentions": [
         {
           "handle": "@KawzInvests",
@@ -805,86 +806,74 @@
       ]
     },
     {
-      "topic": "Space Sector & Orbital Data Centers",
-      "category": "tech",
+      "topic": "Advanced PCB & Interconnect for AI/Defense",
+      "category": "sectors",
+      "subcategory": "pcb",
+      "summary": "TTM Technologies is strategically repositioning as a provider of advanced interconnect solutions for AI server infrastructure and defense electronics, leveraging technical complexity and a substantial defense backlog. The company faces high capital expenditure intensity for specialized facilities, while the market also notes increasing difficulty in securing glass fabric for PCBs.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2069170485414269130"
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2068981267941757241"
+        }
+      ]
+    },
+    {
+      "topic": "Space Sector Investment & Orbital Data Centers",
+      "category": "out_of_ai",
       "subcategory": "space",
-      "summary": "The space sector is seeing increased investment interest despite recent volatility in SpaceX's valuation and a tiny tradable float. Discussions around orbital data centers highlight terrestrial constraints and the potential for Starship and reusable launch vehicles to make large orbital infrastructure more viable.",
+      "summary": "Investor interest in the space sector is growing, with some rotating profits into names like ASTS, RKLB, and PL, despite recent pullbacks. SpaceX (SPCX) is seen as a potential long-term holding, though current float and upcoming earnings present short-term considerations. The concept of orbital data centers is gaining discussion due to terrestrial constraints and improving launch costs, but large-scale commercial viability remains a challenge.",
       "mentions": [
         {
           "handle": "@Yeah_Dave",
           "url": "https://x.com/Yeah_Dave/status/2069193540312367235"
         },
         {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2069153850024398987"
-        },
-        {
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2069107183992578339"
         },
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069068801329774691"
-        },
-        {
           "handle": "@FundaAI",
           "url": "https://x.com/FundaAI/status/2069061321761665439"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2068988513090191476"
         }
       ]
     },
     {
-      "topic": "Optical Networking & AI Integration",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "The optical networking sector is showing strength, with companies like AAOI projecting significant growth driven by AI demand and industry bottlenecks. Nokia has partnered with Google Cloud to embed Gemini AI agents into its Assurance Center, automating telecom network tasks from the optical layer to RAN.",
+      "topic": "Semiconductor Testing for Photonics",
+      "category": "sectors",
+      "subcategory": "testing",
+      "summary": "The growing demand for silicon photonics and co-packaged optics in AI/HPC workloads is creating a bottleneck in high-volume manufacturing (HVM) testing of electro-optical devices. Advantest is partnering with OpenLight to develop scalable test solutions, directly competing with Teradyne in this specialized area, highlighting the scarcity of fabrication, packaging, and testing capacity.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2069062745308254434"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2069148669077553589"
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2069390514278015074"
         },
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2069134707732648033"
+          "url": "https://x.com/KawzInvests/status/2069049869835075940"
         }
       ]
     },
     {
-      "topic": "AI Software & Models Evolution",
-      "category": "tech",
-      "subcategory": "software",
-      "summary": "AI models like Grok are undergoing upgrades, and memory is increasingly seen as a critical 'moat' for managing token costs in the GAI ecosystem. The talent landscape for AI labs is dynamic, with top scientists joining firms like Anthropic, prompting re-evaluation of previous bearish theses on AI model depreciation.",
+      "topic": "Hydrogen-Based Stationary Power",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "Ballard Power Systems is acquiring GeoPura, a UK-based hydrogen-based stationary power provider, for approximately £301M. GeoPura supplies Hydrogen Power Units to major customers including Microsoft and Equinix, with Ballard anticipating significant EBITDA synergies and a path to profitability by 2028 from this acquisition.",
       "mentions": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2069161018161311953"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2069143406392086825"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2069142169374642336"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2069134713357267148"
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2069394545931108561"
         }
       ]
     },
     {
-      "topic": "Microcontroller (MCU) Supply & Pricing",
-      "category": "tech",
-      "subcategory": "infrastructure",
-      "summary": "STMicro has notified clients of a new round of price hikes on microcontrollers (MCU) effective from June 28. This report has positively impacted shares of Taiwan-based MCU manufacturers, signaling ongoing supply and pricing dynamics in the broader semiconductor market.",
+      "topic": "Microcontroller Price Hikes",
+      "category": "sectors",
+      "subcategory": "analog",
+      "summary": "STMicroelectronics has announced a new round of price hikes for microcontrollers (MCUs) starting June 28, leading to a rally in shares of Taiwanese MCU manufacturers like Holtek, Weltrend, and Sonix.",
       "mentions": [
         {
           "handle": "@dnystedt",
@@ -893,92 +882,52 @@
       ]
     },
     {
-      "topic": "Private Credit Market Redemptions",
-      "category": "macro",
-      "subcategory": "",
-      "summary": "An Apollo private credit fund, Apollo Debt Solutions, received approximately 16.8% in redemption requests from investors. In response, the fund has capped investor redemptions at 5%, indicating potential liquidity management challenges within the private credit market.",
+      "topic": "Lasers for Robotics & Physical AI",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "Sivers lasers are being utilized to power robotics and physical AI applications, including Boston Dynamics' Atlas robot through LG Innotek and within Nvidia's Hyperion ecosystem, indicating a growing integration of advanced optical components in autonomous systems.",
       "mentions": [
         {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2069165366190784997"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069165057641230494"
-        }
-      ]
-    },
-    {
-      "topic": "US Housing Policy & Supply",
-      "category": "macro",
-      "subcategory": "",
-      "summary": "The Senate passed the '21st Century ROAD to Housing Act' with strong bipartisan support, sending a major housing supply bill to the House. The legislation aims to limit large institutional investors in single-family homes, streamline permitting, expand federal grant financing, and create a pilot program for small-dollar mortgages.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069201657171517733"
-        }
-      ]
-    },
-    {
-      "topic": "Quantum Computing Investment",
-      "category": "other",
-      "subcategory": "Quantum Computing",
-      "summary": "There is growing market interest and potential for investment in quantum computing stocks, with discussions around whether companies like IONQ, INFQ, and RGTK will start to attract significant bids.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2069192164136141082"
-        }
-      ]
-    },
-    {
-      "topic": "Biotech/Pharma Drug Development Setbacks",
-      "category": "other",
-      "subcategory": "Biotech/Pharma",
-      "summary": "Pfizer announced that its antibody-drug conjugate, sigvotatug vedotin, failed to significantly improve overall survival compared to docetaxel in a late-stage study for advanced non-small cell lung cancer. Despite this setback, acquired through the $43 billion Seagen deal, Pfizer plans to continue developing the drug.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2069178053042000150"
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2069388279355756826"
         }
       ]
     }
   ],
-  "x_account_count": 23,
-  "x_generated_at": "2026-06-23T02:19:23+00:00",
+  "x_account_count": 22,
+  "x_generated_at": "2026-06-23T12:52:36+00:00",
   "indices": [
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7472.79,
-      "change": -27.79,
-      "change_pct": -0.37
+      "price": 7365.46,
+      "change": -107.33,
+      "change_pct": -1.44
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 26166.6,
-      "change": -351.33,
-      "change_pct": -1.32
+      "price": 25587.04,
+      "change": -579.56,
+      "change_pct": -2.21
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 51712.71,
-      "change": 148.01,
-      "change_pct": 0.29
+      "price": 51666.84,
+      "change": -45.87,
+      "change_pct": -0.09
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 3004.4,
-      "change": 24.63,
-      "change_pct": 0.83
+      "price": 2975.48,
+      "change": -28.92,
+      "change_pct": -0.96
     },
     {
       "name": "Nikkei 225",
@@ -1013,6 +962,6 @@
       "change_pct": -1.43
     }
   ],
-  "story_count": 57,
-  "bucket_count": 13
+  "story_count": 60,
+  "bucket_count": 14
 }
