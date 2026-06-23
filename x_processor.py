@@ -23,6 +23,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -236,7 +237,17 @@ def _strip_fences(text: str) -> str:
     return text.strip()
 
 
-def summarize_gemini(prompt: str) -> dict:
+_TRANSIENT_MARKERS = ("503", "UNAVAILABLE", "429", "RATE_LIMIT",
+                      "RESOURCE_EXHAUSTED", "timeout", "deadline",
+                      "INTERNAL", "DEADLINE_EXCEEDED")
+
+
+def _is_transient(exc: Exception) -> bool:
+    msg = str(exc)
+    return any(m in msg for m in _TRANSIENT_MARKERS)
+
+
+def summarize_gemini(prompt: str, max_attempts: int = 4) -> dict:
     from google import genai
     from google.genai import types
 
@@ -258,16 +269,29 @@ def summarize_gemini(prompt: str) -> dict:
             temperature=0.3,
         ),
     ]
-    last_err = None
-    for i, cfg in enumerate(configs, 1):
-        try:
-            resp = client.models.generate_content(
-                model=GEMINI_MODEL, contents=prompt, config=cfg
-            )
-            return json.loads(_strip_fences(resp.text))
-        except Exception as exc:  # noqa: BLE001
-            last_err = exc
-            log(f"  Gemini config {i}/{len(configs)} failed: {type(exc).__name__}: {exc}")
+    last_err: Exception | None = None
+    for attempt in range(1, max_attempts + 1):
+        transient = False
+        for i, cfg in enumerate(configs, 1):
+            try:
+                resp = client.models.generate_content(
+                    model=GEMINI_MODEL, contents=prompt, config=cfg
+                )
+                return json.loads(_strip_fences(resp.text))
+            except Exception as exc:  # noqa: BLE001
+                last_err = exc
+                log(f"  Gemini attempt {attempt}/{max_attempts} cfg {i}: "
+                    f"{type(exc).__name__}: {str(exc)[:160]}")
+                if _is_transient(exc):
+                    transient = True
+                    break
+        if not transient:
+            break
+        if attempt < max_attempts:
+            wait = 5 * (2 ** (attempt - 1))  # 5, 10, 20, 40s
+            log(f"  Gemini transient; backing off {wait}s ...")
+            time.sleep(wait)
+    assert last_err is not None
     raise last_err
 
 
@@ -378,17 +402,29 @@ def main() -> int:
         log("  WARNING: a Gemini API key normally starts with 'AIza'. If yours "
             "doesn't, generate one at https://aistudio.google.com/apikey")
 
-    tweets = fetch_tweets()
+    try:
+        tweets = fetch_tweets()
+    except Exception as exc:  # noqa: BLE001
+        log(f"Apify fetch failed: {type(exc).__name__}: {exc}")
+        log("Leaving existing x_summary.json untouched; downstream steps continue.")
+        return 0
     if not tweets:
-        raise SystemExit("No tweets fetched — leaving existing summary untouched.")
+        log("No tweets fetched — leaving existing summary untouched.")
+        return 0
 
     selected = balance(tweets)
     accounts = len({t["author"] for t in selected})
     log(f"Summarizing {len(selected)} tweets from {accounts} accounts ...")
 
-    result = finalize(summarize(selected), selected)
+    try:
+        result = finalize(summarize(selected), selected)
+    except Exception as exc:  # noqa: BLE001
+        log(f"LLM unavailable after retries: {type(exc).__name__}: {str(exc)[:160]}")
+        log("Leaving existing x_summary.json untouched; downstream steps continue.")
+        return 0
     if not result["themes"]:
-        raise SystemExit("Model returned no themes — leaving existing summary untouched.")
+        log("Model returned no themes — leaving existing summary untouched.")
+        return 0
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),

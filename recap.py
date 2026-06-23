@@ -29,6 +29,7 @@ import json
 import os
 import re
 import sys
+import time
 from collections import Counter, defaultdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -362,7 +363,21 @@ def _strip_fences(text: str) -> str:
     return text.strip()
 
 
-def gemini_complete(prompt: str, schema: dict) -> dict:
+_TRANSIENT_MARKERS = ("503", "UNAVAILABLE", "429", "RATE_LIMIT",
+                      "RESOURCE_EXHAUSTED", "timeout", "deadline",
+                      "INTERNAL", "DEADLINE_EXCEEDED")
+
+
+def _is_transient(exc: Exception) -> bool:
+    msg = str(exc)
+    return any(m in msg for m in _TRANSIENT_MARKERS)
+
+
+def gemini_complete(prompt: str, schema: dict,
+                    max_attempts: int = 4) -> dict:
+    """Call Gemini with structured output. Retries transient errors
+    (503 / 429 / timeout) with exponential backoff. Non-transient errors
+    bubble immediately."""
     from google import genai
     from google.genai import types
 
@@ -381,18 +396,33 @@ def gemini_complete(prompt: str, schema: dict) -> dict:
             temperature=0.3,
         ),
     ]
-    last_err = None
-    for i, cfg in enumerate(configs, 1):
-        try:
-            resp = client.models.generate_content(
-                model=GEMINI_MODEL, contents=prompt, config=cfg
-            )
-            return json.loads(_strip_fences(resp.text))
-        except Exception as exc:  # noqa: BLE001
-            last_err = exc
-            log(f"  Gemini config {i}/{len(configs)} failed: "
-                f"{type(exc).__name__}: {exc}")
-    raise last_err  # type: ignore[misc]
+    last_err: Exception | None = None
+    for attempt in range(1, max_attempts + 1):
+        transient_this_attempt = False
+        for i, cfg in enumerate(configs, 1):
+            try:
+                resp = client.models.generate_content(
+                    model=GEMINI_MODEL, contents=prompt, config=cfg
+                )
+                return json.loads(_strip_fences(resp.text))
+            except Exception as exc:  # noqa: BLE001
+                last_err = exc
+                msg = str(exc)[:160]
+                log(f"  Gemini attempt {attempt}/{max_attempts} cfg {i}: "
+                    f"{type(exc).__name__}: {msg}")
+                if _is_transient(exc):
+                    transient_this_attempt = True
+                    # No point trying the second config on a transient
+                    # provider error — back off and retry the whole call.
+                    break
+        if not transient_this_attempt:
+            break
+        if attempt < max_attempts:
+            wait = 5 * (2 ** (attempt - 1))  # 5, 10, 20, 40s
+            log(f"  Gemini transient; backing off {wait}s before retry ...")
+            time.sleep(wait)
+    assert last_err is not None
+    raise last_err
 
 
 def groq_complete(prompt: str) -> dict:
@@ -879,7 +909,13 @@ def build_daily(profile: dict) -> dict:
     else:
         log(f"Calling LLM for daily recap on {len(flat)} stories, "
             f"{len(x_flat)} x_mentions ...")
-        recap = call_llm(prompt, DAILY_SCHEMA)
+        try:
+            recap = call_llm(prompt, DAILY_SCHEMA)
+        except Exception as exc:  # noqa: BLE001
+            log(f"LLM unavailable after retries ({type(exc).__name__}: "
+                f"{str(exc)[:140]}); falling back to heuristic recap so the "
+                f"history snapshot still archives.")
+            recap = heuristic_daily(profile, ordered, x_summary, flat_lookup)
 
     recap = prune_uncited(recap)
     recap = hydrate_refs(recap, flat_lookup, x_flat)
@@ -932,7 +968,12 @@ def build_weekly(profile: dict) -> dict:
         recap = heuristic_weekly([])
     else:
         log(f"Calling LLM for weekly recap on {len(history)} day(s) ...")
-        recap = call_llm(prompt, WEEKLY_SCHEMA)
+        try:
+            recap = call_llm(prompt, WEEKLY_SCHEMA)
+        except Exception as exc:  # noqa: BLE001
+            log(f"LLM unavailable after retries ({type(exc).__name__}: "
+                f"{str(exc)[:140]}); falling back to heuristic weekly.")
+            recap = heuristic_weekly(history)
 
     # Source chips: post-collected from the underlying daily bullets, by label.
     attach_weekly_sources(recap.get("themes") or [], history)
