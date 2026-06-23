@@ -160,7 +160,48 @@ function renderXTheme(theme, primary) {
   return card;
 }
 
-// Fixed display order of Tech sub-categories.
+// AI-related industries / supply chain. Order = the order they're displayed.
+const SECTORS_SUBCATS = [
+  ["abf_substrate", "ABF Substrate"],
+  ["optical", "Optical"],
+  ["pcb", "PCB"],
+  ["ccl", "CCL"],
+  ["copper_foils", "Copper Foils"],
+  ["glass", "Glass"],
+  ["cpu", "CPU"],
+  ["gpu", "GPU"],
+  ["asic", "ASIC"],
+  ["memory", "Memory"],
+  ["hdd", "HDD"],
+  ["analog", "Analog"],
+  ["advanced_packaging", "Advanced Packaging"],
+  ["semicap", "Semicap"],
+  ["testing", "Testing"],
+  ["foundry", "Foundry"],
+  ["power_front", "Power Gen (FoM)"],
+  ["power_behind", "Power Gen (BTM)"],
+  ["liquid_cooling", "Liquid Cooling"],
+  ["psu_bbu", "PSU / BBU"],
+  ["mlcc", "MLCC"],
+  ["ess", "ESS"],
+  ["sst", "SST"],
+  ["software", "Software"],
+  ["t_and_d", "T&D"],
+];
+
+// Out-of-AI themes — macro, geopolitics, robotics, space, crypto, etc.
+const OUT_OF_AI_SUBCATS = [
+  ["800vdc", "800VDC"],
+  ["robotics", "Robotics"],
+  ["space", "Space"],
+  ["geopolitics", "Geopolitics"],
+  ["macro", "Macro"],
+  ["crypto", "Crypto"],
+];
+
+// Legacy display order from the previous taxonomy — still rendered as a
+// fallback so a stale x_summary.json (from before the migration) keeps
+// showing something instead of going blank for one cycle.
 const TECH_SUBCATS = [
   ["infrastructure", "Infrastructure"],
   ["cloud", "Cloud"],
@@ -223,12 +264,45 @@ function xsumCategory(label, opts) {
   return sec;
 }
 
+// Build a category block from a list of subcategory definitions. Each
+// subcategory becomes a sub-tag on its themes' cards; empty subcategories
+// are skipped so a category with only a few hot topics today stays compact.
+function buildSubcatSubsections(themesArr, subcatsList) {
+  const known = new Set(subcatsList.map(([k]) => k));
+  const subsections = subcatsList
+    .map(([key, label]) => [
+      label,
+      themesArr.filter((t) => (t.subcategory || "").toLowerCase() === key),
+    ])
+    .filter(([, arr]) => arr.length > 0);
+  const rest = themesArr.filter((t) =>
+    !known.has((t.subcategory || "").toLowerCase()));
+  if (rest.length) subsections.push(["Other", rest]);
+  return subsections;
+}
+
 function renderXGrouped(data) {
   xsumEl.appendChild(xsumHead(data));
   const themes = data.themes;
   const inCat = (c) => themes.filter((t) => (t.category || "").toLowerCase() === c);
 
-  // 1) New Topic — emergent groups (not tech/macro), pinned to the top, red.
+  const sectors = inCat("sectors");
+  if (sectors.length) {
+    const subsections = buildSubcatSubsections(sectors, SECTORS_SUBCATS);
+    if (subsections.length) {
+      xsumEl.appendChild(xsumCategory("Sectors", { subsections }));
+    }
+  }
+
+  const outOfAI = inCat("out_of_ai");
+  if (outOfAI.length) {
+    const subsections = buildSubcatSubsections(outOfAI, OUT_OF_AI_SUBCATS);
+    if (subsections.length) {
+      xsumEl.appendChild(xsumCategory("Out of AI", { subsections }));
+    }
+  }
+
+  // --- Legacy fallback for stale x_summary.json (pre-migration) ---
   const other = inCat("other");
   if (other.length) {
     const groups = new Map();
@@ -241,21 +315,13 @@ function renderXGrouped(data) {
       xsumCategory("New Topic", { subsections: [...groups.entries()], variant: "new" })
     );
   }
-
-  // 2) Tech — split into the fixed sub-categories (skip empty ones).
   const tech = inCat("tech");
   if (tech.length) {
-    const known = new Set(TECH_SUBCATS.map(([k]) => k));
-    const subsections = TECH_SUBCATS.map(([key, label]) => [
-      label,
-      tech.filter((t) => (t.subcategory || "").toLowerCase() === key),
-    ]);
-    const rest = tech.filter((t) => !known.has((t.subcategory || "").toLowerCase()));
-    if (rest.length) subsections.push(["Other", rest]);
-    xsumEl.appendChild(xsumCategory("Tech", { subsections }));
+    const subsections = buildSubcatSubsections(tech, TECH_SUBCATS);
+    if (subsections.length) {
+      xsumEl.appendChild(xsumCategory("Tech", { subsections }));
+    }
   }
-
-  // 3) Macro — flat, no sub-topics.
   const macro = inCat("macro");
   if (macro.length) {
     xsumEl.appendChild(xsumCategory("Macro", { themes: macro }));

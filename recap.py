@@ -860,11 +860,29 @@ def extract_x_themes(x_summary, max_themes: int = 8) -> list[dict]:
     return out
 
 
+RECAP_FRESHNESS_HOURS = int(os.environ.get("RECAP_FRESHNESS_HOURS", "30"))
+
+
 def build_daily(profile: dict) -> dict:
     news = load_json(NEWS_FILE, default={}) or {}
     items = flatten_news_items(news)
     if not items:
         raise SystemExit("No news items found — run scraper.py first.")
+
+    # Only consider TODAY's news. RSS feeds can keep emitting items that are
+    # days (sometimes weeks) old; without a cutoff those leak into the daily
+    # recap and dilute the "today's tape" framing. Items missing a publish
+    # time (ts == 0) are dropped too — we can't trust their age.
+    cutoff = time.time() - RECAP_FRESHNESS_HOURS * 3600
+    fresh = [i for i in items if i.get("ts", 0) >= cutoff]
+    if fresh:
+        log(f"Freshness filter: kept {len(fresh)}/{len(items)} items "
+            f"within {RECAP_FRESHNESS_HOURS}h.")
+        items = fresh
+    else:
+        log(f"Freshness filter would empty the recap (0/{len(items)} fresh); "
+            f"keeping all items as a safety net.")
+
     x_summary = load_json(XSUM_FILE)
     indices_snapshot = load_json(INDICES_FILE)
 

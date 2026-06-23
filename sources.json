@@ -134,10 +134,10 @@
     {
       "name": "Commercial Times 工商時報",
       "domain": "ctee.com.tw",
-      "_note": "Taiwanese financial daily — Chinese language. filter:false (the English finance filter would drop all of it). pin_bottom keeps it at the end of the board.",
+      "_note": "Taiwanese financial daily — Chinese language. Narrowed to industrial / semiconductor coverage via Google News keywords (半導體 / AI / 晶圓 / 封測 / 記憶體), mirroring the Naver semiconductor-only pattern. filter:false (the English finance filter would drop all of it). pin_bottom keeps it at the end of the board.",
       "filter": false,
       "pin_bottom": true,
-      "feeds": ["https://news.google.com/rss/search?q=when:3d+site:ctee.com.tw&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"]
+      "feeds": ["https://news.google.com/rss/search?q=when:3d+site:ctee.com.tw+(半導體+OR+AI+OR+晶圓+OR+封測+OR+記憶體)&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"]
     },
     {
       "name": "Naver 뉴스 · 반도체",

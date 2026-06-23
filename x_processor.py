@@ -47,7 +47,7 @@ RESPONSE_SCHEMA = {
                 "type": "object",
                 "properties": {
                     "topic": {"type": "string"},
-                    "category": {"type": "string", "enum": ["tech", "macro", "other"]},
+                    "category": {"type": "string", "enum": ["sectors", "out_of_ai"]},
                     "subcategory": {"type": "string"},
                     "summary": {"type": "string"},
                     "mentions": {
@@ -73,40 +73,68 @@ PROMPT_TEMPLATE = """You are a senior macro/markets analyst at a hedge fund. \
 Below is a batch of finance tweets from X. Each line starts with an index in \
 square brackets, then the author handle, then the text: "[12] (@handle) text".
 
-Cluster the tweets into distinct market NARRATIVES (themes). Assign EVERY theme to
-exactly one category, strongly preferring "tech" or "macro". Use "other" only as a
-last resort, per the rules below.
+Cluster the tweets into distinct market NARRATIVES (themes). Every theme MUST
+be assigned exactly ONE category + subcategory from the lists below. A theme
+that doesn't fit ANY subcategory below should be SKIPPED — do not invent new
+buckets and do not force a fit.
 
-- category "tech": any company / industry / technology theme. You MUST set "subcategory"
-  to the best-fitting ONE of:
-    "infrastructure" — datacenters, networking, optics, advanced packaging, power-for-AI, chips/foundry/semis capex
-    "cloud"          — hyperscaler capex, cloud platforms, AI inference cost/economics
-    "memory"         — DRAM / HBM / NAND pricing and supply
-    "space"          — SpaceX, Starlink, AST SpaceMobile, Rocket Lab, launch, satellites — ANY space company goes HERE
-    "software"       — AI models & labs, apps, SaaS, internet platforms
-  Every tech theme MUST use one of these five; if none fits cleanly, pick the closest.
-- category "macro": economy, rates, the Fed, inflation, FX, commodities, trade/tariffs,
-  policy — AND broad market behavior such as positioning, retail activity / flows,
-  market breadth, risk-on/off, and volatility. Set "subcategory" to "".
-- category "other": ONLY a genuinely distinct SECTOR that is neither tech nor macro —
-  e.g. Crypto, Energy/Utilities, Biotech/Pharma, Defense, Geopolitics. Set "subcategory"
-  to a SHORT Title-Case sector label (e.g. "Crypto", "Energy"). Do NOT use "other" for
-  generic trading/"market dynamics" chatter (that is macro), and do NOT invent vague labels.
+================== CATEGORY "sectors" ==================
+For AI-related industries / supply chain. Subcategory MUST be exactly one of:
+    "abf_substrate"      — ABF substrate, IC carrier
+    "optical"            — optical transceivers, CPO, ELSFP, lasers
+    "pcb"                — printed circuit boards
+    "ccl"                — copper-clad laminate
+    "copper_foils"       — copper foils for PCB / CCL
+    "glass"              — glass substrate, TGV
+    "cpu"                — x86 / ARM CPUs (Intel, AMD CPU, Qualcomm Snapdragon)
+    "gpu"                — Nvidia / AMD MI / consumer GPU
+    "asic"               — custom AI ASICs (Broadcom AVGO, Marvell, Astera)
+    "memory"             — HBM / DRAM / NAND (Hynix, Micron, Samsung memory)
+    "hdd"                — hard disk drives (Seagate STX, Western Digital WDC)
+    "analog"             — analog / mixed-signal (TI, ADI, NXP, ON)
+    "advanced_packaging" — CoWoS, FOPLP, hybrid bonding
+    "semicap"            — front-end equipment (ASML, AMAT, LRCX, KLAC, TEL)
+    "testing"            — back-end test (Advantest, Teradyne, COHU)
+    "foundry"            — TSMC, Samsung Foundry, SMIC, Intel Foundry, GFS
+    "power_front"        — utility-scale generation FRONT of the meter
+    "power_behind"       — on-site generation BEHIND the meter for datacenters
+    "liquid_cooling"     — datacenter liquid / immersion cooling (Vertiv etc.)
+    "psu_bbu"            — server power supplies / battery backup units
+    "mlcc"               — multi-layer ceramic capacitors (Murata, Yageo)
+    "ess"                — energy storage systems
+    "sst"                — solid-state transformers
+    "software"           — AI models / labs / apps / SaaS / internet platforms
+    "t_and_d"            — electrical transmission & distribution equipment
+
+================== CATEGORY "out_of_ai" ==================
+For themes NOT primarily AI-driven. Subcategory MUST be exactly one of:
+    "800vdc"      — 800V DC architecture
+    "robotics"    — humanoids, industrial robotics
+    "space"       — SpaceX, Starlink, AST SpaceMobile, Rocket Lab, satellites
+    "geopolitics" — trade wars, tariffs, sanctions, conflicts
+    "macro"       — Fed, rates, inflation, FX, commodities, broad market
+    "crypto"      — Bitcoin, Ethereum, stablecoins, MSTR, Coinbase
 
 Return ONLY a JSON object (no markdown, no code fences) with this exact shape:
 {{
   "themes": [
-    {{"topic": "Brief Theme Name", "category": "tech", "subcategory": "memory", "summary": "1-2 sentence explanation.", "mentions": [{{"handle": "@Handle1", "tweet_id": 12}}]}}
+    {{"topic": "Brief Theme Name",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "1-2 sentence explanation.",
+      "mentions": [{{"handle": "@Handle1", "tweet_id": 12}}]}}
   ]
 }}
 
 Rules:
-- Produce up to ~12 themes, ordered by importance (most significant first).
-- "mentions": the accounts that discussed that theme. For EACH, give "handle" (with @)
-  and "tweet_id" = the [index] of THAT account's single most relevant tweet for this theme.
-- Every tweet_id MUST be one of the indices shown in the data. Never invent an index.
-- "summary": 1-2 tight sentences, preserve key tickers/numbers/jargon, no filler.
-- Omit pure noise/spam/non-finance chatter.
+- Up to ~14 themes, ordered by how much they're being discussed today.
+- "mentions": every account that discussed the theme. For EACH, "handle" with
+  @ and "tweet_id" = the [index] of THAT account's single most relevant tweet.
+- tweet_id MUST be one of the input indices. Never invent.
+- "summary": 1-2 tight sentences, preserve tickers / numbers / jargon, no filler.
+- Skip pure noise / spam / off-finance chatter.
+- Skip themes that don't fit ANY listed subcategory — better to ship fewer
+  themes than miscategorized ones.
 
 Raw tweets:
 {data}
@@ -357,7 +385,7 @@ def _build_mentions(raw_mentions, tweets: list[dict]) -> list[dict]:
     return out
 
 
-VALID_CATEGORIES = {"tech", "macro", "other"}
+VALID_CATEGORIES = {"sectors", "out_of_ai"}
 
 
 def finalize(result: dict, tweets: list[dict]) -> dict:
@@ -372,7 +400,7 @@ def finalize(result: dict, tweets: list[dict]) -> dict:
             continue
         category = str(it.get("category", "")).strip().lower()
         if category not in VALID_CATEGORIES:
-            category = "other"
+            continue  # drop themes that didn't fit any allowed category
         subcategory = str(it.get("subcategory", "")).strip()
         out.append({
             "topic": topic,
