@@ -218,9 +218,7 @@ function xsumHead(data, opts) {
   const head = el("div", "xsum-head");
   head.appendChild(el("span", "xsum-title", "What X is talking about"));
   const sub = [];
-  if (opts.mode === "calendar") {
-    sub.push("Pick a past date");
-  } else if (opts.mode === "past") {
+  if (opts.mode === "past") {
     sub.push("Snapshot · " + (opts.date || ""));
     if (data && data.account_count) sub.push(`${data.account_count} accounts`);
   } else {
@@ -230,36 +228,47 @@ function xsumHead(data, opts) {
   head.appendChild(el("span", "xsum-sub", sub.join(" · ")));
 
   const tools = el("div", "xsum-tools");
-  if (opts.mode === "calendar" || opts.mode === "past") {
+  if (opts.mode === "past") {
     const back = el("button", "xsum-back", "← Back to today");
     back.type = "button";
     back.addEventListener("click", () => {
       X_HISTORY_DATE = null;
+      X_CAL_OPEN = false;
       renderXSummary();
     });
     tools.appendChild(back);
   }
-  if (opts.mode !== "calendar") {
-    const cal = el("button", "xsum-cal-btn");
-    cal.type = "button";
-    cal.title = "Browse past days";
-    cal.setAttribute("aria-label", "Browse past days");
-    cal.innerHTML = CAL_ICON;
-    cal.addEventListener("click", () => {
-      X_HISTORY_DATE = "__calendar__";
-      renderXSummary();
-    });
-    tools.appendChild(cal);
-  }
+  const cal = el("button", "xsum-cal-btn" + (X_CAL_OPEN ? " active" : ""));
+  cal.type = "button";
+  cal.title = X_CAL_OPEN ? "Close calendar" : "Browse past days";
+  cal.setAttribute("aria-label", "Browse past days");
+  cal.setAttribute("aria-expanded", X_CAL_OPEN ? "true" : "false");
+  cal.innerHTML = CAL_ICON;
+  cal.addEventListener("click", (e) => {
+    e.stopPropagation();        // don't trigger the outside-click closer
+    X_CAL_OPEN = !X_CAL_OPEN;
+    renderXSummary();
+  });
+  tools.appendChild(cal);
   head.appendChild(tools);
   return head;
 }
 
 /* ---------- X-summary history (Headlines tab) ---------- */
 let X_SUMMARY_TODAY = null;            // latest live x_summary.json
-let X_HISTORY_DATE = null;             // null = today, "__calendar__" = calendar, "YYYY-MM-DD" = past
+let X_HISTORY_DATE = null;             // null = today, "YYYY-MM-DD" = past
+let X_CAL_OPEN = false;                // calendar popover visibility
 let X_HISTORY_CACHE = {};              // date -> synthesized {themes, account_count, generated_at, for_date}
 let X_CAL_MONTH = null;                // {year, month0}
+
+// Close the popover on any click outside the popover or the toggle button.
+document.addEventListener("click", (e) => {
+  if (!X_CAL_OPEN) return;
+  if (e.target.closest(".xsum-cal-popover")) return;
+  if (e.target.closest(".xsum-cal-btn")) return;
+  X_CAL_OPEN = false;
+  renderXSummary();
+});
 
 function loadXHistory(date) {
   fetch(`data/recap_history/${date}.json`, { cache: "no-cache" })
@@ -332,6 +341,7 @@ function buildXCalendar() {
       cell.title = ds;
       cell.addEventListener("click", () => {
         X_HISTORY_DATE = ds;
+        X_CAL_OPEN = false;   // close popover after selection
         renderXSummary();
       });
     }
@@ -483,11 +493,6 @@ function renderXSummary(data) {
   if (data) X_SUMMARY_TODAY = data;
   xsumEl.innerHTML = "";
 
-  if (X_HISTORY_DATE === "__calendar__") {
-    xsumEl.appendChild(xsumHead(X_SUMMARY_TODAY || {}, { mode: "calendar" }));
-    xsumEl.appendChild(buildXCalendar());
-    return;
-  }
   if (X_HISTORY_DATE) {
     const snap = X_HISTORY_CACHE[X_HISTORY_DATE];
     xsumEl.appendChild(xsumHead(snap || {}, { mode: "past", date: X_HISTORY_DATE }));
@@ -495,24 +500,31 @@ function renderXSummary(data) {
       xsumEl.appendChild(el("div", "xsum-loading",
         `Loading snapshot for ${X_HISTORY_DATE}…`));
       loadXHistory(X_HISTORY_DATE);
-      return;
-    }
-    if (Array.isArray(snap.themes) && snap.themes.length) {
+    } else if (Array.isArray(snap.themes) && snap.themes.length) {
       renderXGroupedBody(snap);
     } else {
       xsumEl.appendChild(el("div", "xsum-loading",
         `No X chatter archived for ${X_HISTORY_DATE}.`));
     }
-    return;
+  } else {
+    if (!X_SUMMARY_TODAY) return;
+    if (Array.isArray(X_SUMMARY_TODAY.themes) && X_SUMMARY_TODAY.themes.length) {
+      xsumEl.appendChild(xsumHead(X_SUMMARY_TODAY, { mode: "today" }));
+      renderXGroupedBody(X_SUMMARY_TODAY);
+    } else if (Array.isArray(X_SUMMARY_TODAY.top_3) && X_SUMMARY_TODAY.top_3.length) {
+      renderXLegacy(X_SUMMARY_TODAY);   // legacy schema includes its own head
+    }
   }
 
-  // today (default)
-  if (!X_SUMMARY_TODAY) return;
-  if (Array.isArray(X_SUMMARY_TODAY.themes) && X_SUMMARY_TODAY.themes.length) {
-    xsumEl.appendChild(xsumHead(X_SUMMARY_TODAY, { mode: "today" }));
-    renderXGroupedBody(X_SUMMARY_TODAY);
-  } else if (Array.isArray(X_SUMMARY_TODAY.top_3) && X_SUMMARY_TODAY.top_3.length) {
-    renderXLegacy(X_SUMMARY_TODAY);  // legacy schema includes its own head
+  // Floating calendar popover, anchored to the icon button. Themes stay
+  // visible behind it — the popover doesn't reflow the rest of the UI.
+  if (X_CAL_OPEN) {
+    const tools = xsumEl.querySelector(".xsum-tools");
+    if (tools) {
+      const pop = el("div", "xsum-cal-popover");
+      pop.appendChild(buildXCalendar());
+      tools.appendChild(pop);
+    }
   }
 }
 
