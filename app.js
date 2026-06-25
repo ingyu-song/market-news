@@ -287,12 +287,28 @@ function loadPrevSubcats(currentDate) {
     .then((d) => {
       if (!d) return;
       const set = new Set();
+      let hasNewTaxonomy = false;
       for (const t of d.x_themes || []) {
+        const cat = (t.category || "").toLowerCase();
+        if (cat === "sectors" || cat === "out_of_ai") hasNewTaxonomy = true;
         const s = (t.subcategory || "").toLowerCase();
         if (s) set.add(s);
       }
-      X_PREV_SUBCATS = set;
-      // Re-render now that we have the "new vs continued" info.
+      if (!hasNewTaxonomy) {
+        // Yesterday's archive predates the taxonomy migration — its
+        // subcat labels (tech/cloud/infrastructure/...) won't line up
+        // with today's (asic, mlcc, foundry, …). Don't flag anything as
+        // NEW in that case; it'd be misleading. Treat every today-known
+        // subcat as "continued" so no badge fires until at least one
+        // post-migration archive lands.
+        const allKnown = [...SECTORS_SUBCATS, ...OUT_OF_AI_SUBCATS].map(
+          ([k]) => k
+        );
+        X_PREV_SUBCATS = new Set(allKnown);
+      } else {
+        X_PREV_SUBCATS = set;
+      }
+      // Re-render with the comparison info filled in.
       renderXSummary();
     })
     .catch(() => {});
@@ -1452,6 +1468,11 @@ fetch("data/recap_index.json", { cache: "no-cache" })
     if (!data) return;
     RECAP_INDEX = data;
     if (currentView() === "recap") renderRecap();
+    // The X-summary on Headlines also relies on RECAP_INDEX to find the
+    // previous archive. If recap_index landed AFTER x_summary, the first
+    // render had no comparison data — re-render so the NEW vs continued
+    // ordering / badges populate now.
+    if (X_SUMMARY_TODAY && currentView() === "home") renderXSummary();
   })
   .catch(() => {});
 

@@ -76,6 +76,66 @@ _HEADLINE_VERB_RE = re.compile(
 )
 
 
+# Patterns for clearly-off-topic items that slip past the finance filter:
+# listicles, SEO churn ("Is X One of the Most Profitable Undervalued Stocks"),
+# how-to / lifestyle pieces, and rhetorical Economist-style headlines. The
+# board's brief is markets / macro / politics / company news — these are not
+# that.
+_OFF_TOPIC_PATTERNS = [
+    # "7 best ...", "10 most ...", "5 reasons why ...", "Top 10 ..."
+    re.compile(
+        r"^\d+\s+(?:best|top|most|worst|hottest|cheapest|profitable|"
+        r"undervalued|reasons|things|ways|tips|signs|secrets)\b",
+        re.IGNORECASE,
+    ),
+    re.compile(r"^Top\s+\d+\s", re.IGNORECASE),
+
+    # SEO listicle insertions inside titles: "X (TICKER) is One of the Most
+    # Profitable Undervalued Stocks to Invest In", "10 Most Profitable
+    # Undervalued Stocks", etc.
+    re.compile(
+        r"\bOne\s+of\s+the\s+(?:Best|Most|Top)\s+"
+        r"(?:Profitable|Undervalued|Cheap(?:est)?|Promising|Popular)\b",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"\b\d+\s+(?:Most|Best|Top)\s+(?:\w+\s+){0,3}"
+        r"(?:Stocks?|Companies|Funds|ETFs|Coins?|Cryptos?)\b",
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r"\b(?:Best|Top|Cheapest)\s+(?:\w+\s+){0,3}"
+        r"(?:stocks?|companies|funds|etfs|insurance|coins?|crypto)\s+to\s+",
+        re.IGNORECASE,
+    ),
+
+    # "Here is Why X is one of ..."
+    re.compile(r"^Here\s+is\s+Why\b", re.IGNORECASE),
+    re.compile(r"^Here'?s\s+Why\b", re.IGNORECASE),
+
+    # Lifestyle / explainer pieces
+    re.compile(r"^How\s+to\s", re.IGNORECASE),
+    re.compile(r"^What\s+is\s", re.IGNORECASE),
+    re.compile(r"^Why\s+You\s+Should\b", re.IGNORECASE),
+
+    # Opinion-column cues
+    re.compile(r"^Stop\s+\w+", re.IGNORECASE),
+
+    # Rhetorical headlines (common with Economist columns). A title ending
+    # in a question mark is overwhelmingly opinion / commentary, not news.
+    re.compile(r"\?\s*$"),
+]
+
+
+def looks_like_off_topic(title: str) -> bool:
+    """True when the title looks like a listicle, SEO churn, how-to,
+    lifestyle piece, or rhetorical opinion column rather than market /
+    macro / politics / company news."""
+    if not title:
+        return False
+    return any(p.search(title) for p in _OFF_TOPIC_PATTERNS)
+
+
 def looks_like_index_page(title: str) -> bool:
     """Heuristic: drop entries that look like a publisher's tag / landing
     page indexed by Google News (e.g. "Instagram - The Information",
@@ -209,6 +269,8 @@ def fetch_source(source: dict, max_items: int,
                 continue
             if looks_like_index_page(title):
                 continue
+            if looks_like_off_topic(title):
+                continue
             if do_filter and not keep_article(title, finance_re, exclude_re):
                 continue
             title_key = title.lower()
@@ -283,6 +345,8 @@ def fetch_naver(source: dict, max_items: int) -> dict | None:
         if not title or not link or link in seen:
             continue
         if looks_like_index_page(title):
+            continue
+        if looks_like_off_topic(title):
             continue
         seen.add(link)
         ts = 0.0
