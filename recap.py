@@ -273,9 +273,12 @@ You have TWO indexed inputs:
 
 {data}
 
-2) X CHATTER — cite via x_ids. Each entry is a tweet's author plus the theme
-that tweet was discussing on X today. Format:
-   [12] (@VinceVentures) AI infra capex — "$400B spend cycle through 2027"
+2) X CHATTER — cite via x_ids. Each entry is a tweet: the author handle
+followed by the ACTUAL TWEET TEXT in plain form. Format:
+   [12] (@VinceVentures) Hyperscaler capex is running $400B through 2027 — TSMC capacity becomes the binding constraint by 2H26.
+
+(If a tweet's text wasn't captured, the entry instead shows
+"[N] (@handle) [theme] summary" — treat that as weaker evidence.)
 
 {x_data}
 
@@ -324,6 +327,13 @@ Rules:
   channel names, dates, "맹구맹구", "TIMEFOLIO" or "TIME ETF" inside the
   text. Brackets that contain numbers, dates, or channel names are
   forbidden in segment.text and lead.
+- **Cite an x_id ONLY when the actual tweet text directly supports the
+  specific claim in your sentence.** A tweet that's about "AI ASICs in
+  general" does NOT back a sentence claiming "Samsung handles the I/O
+  dies for Google's 10th-gen TPU". Match on entities AND substance:
+  if the tweet doesn't name the tickers, products, or numbers you wrote
+  in the segment, don't cite it. Theme topic alone is NOT enough. When
+  in doubt, leave x_ids empty for that segment.
 - **EVERY bullet you emit must thus reference at least one input id.** If a
   topic isn't represented in the inputs, do NOT write a bullet about it —
   it's hallucination. Better to ship fewer bullets than uncited ones.
@@ -870,10 +880,11 @@ def load_history(days: int = 7) -> list[dict]:
 
 # ---------------------------------------------------------------- modes
 def flatten_x_mentions(x_themes: list[dict], max_items: int = 40) -> list[dict]:
-    """Flatten X themes into a flat indexed list of unique (handle,url)
-    mentions for the daily prompt. Each entry keeps the parent theme's
-    topic + short summary so the LLM has context for what the tweet is
-    about, even though it never sees the raw tweet text."""
+    """Flatten X themes into a flat indexed list of unique (handle, url)
+    mentions for the daily prompt. We keep the actual tweet text when
+    available — the LLM cites x_ids based on what the tweet ACTUALLY
+    says, not the parent theme's summary, which can drift away from the
+    individual tweet's claim."""
     flat: list[dict] = []
     seen: set[tuple[str, str]] = set()
     for t in x_themes or []:
@@ -882,6 +893,7 @@ def flatten_x_mentions(x_themes: list[dict], max_items: int = 40) -> list[dict]:
         for m in t.get("mentions") or []:
             handle = (m.get("handle") or "").lstrip("@").strip()
             url = m.get("url") or ""
+            text = (m.get("text") or "").strip()
             if not handle:
                 continue
             key = (handle.lower(), url)
@@ -893,6 +905,7 @@ def flatten_x_mentions(x_themes: list[dict], max_items: int = 40) -> list[dict]:
                 "url": url or f"https://x.com/{handle}",
                 "topic": topic,
                 "summary": summary[:180],
+                "text": text[:280],
             })
             if len(flat) >= max_items:
                 return flat
@@ -976,8 +989,15 @@ def build_daily(profile: dict) -> dict:
     x_themes_pass = extract_x_themes(x_summary)
     x_flat = flatten_x_mentions(x_themes_pass)
     if x_flat:
+        # Show the LLM the actual tweet text when we have it. The parent
+        # theme topic is included as a fallback hint only — never as the
+        # primary basis for a citation.
         x_data_block = "\n".join(
-            f"[{i}] ({m['handle']}) {m['topic']} — \"{m['summary']}\""
+            (
+                f"[{i}] ({m['handle']}) {m['text']}"
+                if m.get("text")
+                else f"[{i}] ({m['handle']}) [{m['topic']}] {m['summary']}"
+            )
             for i, m in enumerate(x_flat)
         )
     else:

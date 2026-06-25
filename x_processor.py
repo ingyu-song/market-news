@@ -357,8 +357,10 @@ def summarize(tweets: list[dict]) -> dict:
 
 
 def _build_mentions(raw_mentions, tweets: list[dict]) -> list[dict]:
-    """Turn the model's mentions into [{handle, url}], resolving tweet_id -> the
-    real post URL. Falls back to the account's profile if no URL is available."""
+    """Turn the model's mentions into [{handle, url, text}], resolving
+    tweet_id -> the real post URL and snapshotting the tweet text so
+    downstream consumers (the daily recap) can verify the citation
+    against the actual tweet rather than the parent theme's summary."""
     out, seen = [], set()
     for m in raw_mentions or []:
         handle, tid = "", None
@@ -368,11 +370,12 @@ def _build_mentions(raw_mentions, tweets: list[dict]) -> list[dict]:
         elif isinstance(m, str):  # tolerate the old handle-only format
             handle = m.lstrip("@").strip()
 
-        url = ""
+        url, text = "", ""
         if isinstance(tid, int) and 0 <= tid < len(tweets):
             tw = tweets[tid]
             handle = handle or tw["author"]
             url = tw.get("url") or ""
+            text = (tw.get("text") or "").strip()[:280]
         if not handle:
             continue
         if not url:
@@ -381,7 +384,7 @@ def _build_mentions(raw_mentions, tweets: list[dict]) -> list[dict]:
         if key in seen:
             continue
         seen.add(key)
-        out.append({"handle": "@" + handle, "url": url})
+        out.append({"handle": "@" + handle, "url": url, "text": text})
     return out
 
 
