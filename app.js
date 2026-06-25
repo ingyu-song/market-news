@@ -135,8 +135,11 @@ function renderIndices(data) {
 
 function renderXTheme(theme, primary) {
   const card = el("div", primary ? "xsum-card" : "xsum-card xsum-card-sm");
-  if (theme._subTag) {
-    card.appendChild(el("div", "xsum-subtag", theme._subTag));
+  if (theme._subTag || theme._isNew) {
+    const row = el("div", "xsum-tagrow");
+    if (theme._subTag) row.appendChild(el("div", "xsum-subtag", theme._subTag));
+    if (theme._isNew) row.appendChild(el("div", "xsum-new-badge", "NEW"));
+    card.appendChild(row);
   }
   card.appendChild(el("div", "xsum-topic", theme.topic));
   if (theme.summary) card.appendChild(el("p", "xsum-text", theme.summary));
@@ -260,6 +263,40 @@ let X_HISTORY_DATE = null;             // null = today, "YYYY-MM-DD" = past
 let X_CAL_OPEN = false;                // calendar popover visibility
 let X_HISTORY_CACHE = {};              // date -> synthesized {themes, account_count, generated_at, for_date}
 let X_CAL_MONTH = null;                // {year, month0}
+let X_PREV_SUBCATS = new Set();        // subcategories seen on the day BEFORE the one currently shown
+let X_PREV_FETCHED_FOR = null;         // which "previous date" we've already loaded
+
+function previousArchiveDate(currentDate) {
+  // RECAP_INDEX.daily is newest-first. For live view (no current date) we
+  // pick the most recent archive; for a past snapshot we pick the most
+  // recent archive strictly before that date.
+  const all = (RECAP_INDEX && RECAP_INDEX.daily) || [];
+  for (const d of all) {
+    if (!currentDate || d < currentDate) return d;
+  }
+  return null;
+}
+
+function loadPrevSubcats(currentDate) {
+  const prev = previousArchiveDate(currentDate);
+  if (!prev) return;
+  if (X_PREV_FETCHED_FOR === prev) return;
+  X_PREV_FETCHED_FOR = prev;
+  fetch(`data/recap_history/${prev}.json`, { cache: "no-cache" })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((d) => {
+      if (!d) return;
+      const set = new Set();
+      for (const t of d.x_themes || []) {
+        const s = (t.subcategory || "").toLowerCase();
+        if (s) set.add(s);
+      }
+      X_PREV_SUBCATS = set;
+      // Re-render now that we have the "new vs continued" info.
+      renderXSummary();
+    })
+    .catch(() => {});
+}
 
 // Close the popover on any click outside the popover or the toggle button.
 document.addEventListener("click", (e) => {
@@ -398,17 +435,44 @@ function xsumCategory(label, opts) {
 // Build a category block from a list of subcategory definitions. Each
 // subcategory becomes a sub-tag on its themes' cards; empty subcategories
 // are skipped so a category with only a few hot topics today stays compact.
+// Subcategories not present in the previous day's archive bubble to the top
+// and get an _isNew flag so the card can render a "NEW" badge — that way the
+// reader can see at a glance which topics are fresh today vs. continued from
+// yesterday.
 function buildSubcatSubsections(themesArr, subcatsList) {
   const known = new Set(subcatsList.map(([k]) => k));
-  const subsections = subcatsList
-    .map(([key, label]) => [
+  const isNew = (key) => !X_PREV_SUBCATS.has((key || "").toLowerCase());
+
+  const populated = subcatsList
+    .map(([key, label]) => ({
+      key,
       label,
-      themesArr.filter((t) => (t.subcategory || "").toLowerCase() === key),
-    ])
-    .filter(([, arr]) => arr.length > 0);
+      themes: themesArr.filter((t) => (t.subcategory || "").toLowerCase() === key),
+    }))
+    .filter((entry) => entry.themes.length > 0);
+
+  // Stable sort: new (not in yesterday) first, continued second.
+  // Within each group the original subcatsList order is preserved.
+  populated.sort((a, b) => {
+    const aNew = isNew(a.key) ? 0 : 1;
+    const bNew = isNew(b.key) ? 0 : 1;
+    return aNew - bNew;
+  });
+
+  const subsections = populated.map((entry) => {
+    const _isNew = isNew(entry.key);
+    entry.themes.forEach((t) => { t._isNew = _isNew; });
+    return [entry.label, entry.themes];
+  });
+
+  // Themes whose subcategory the LLM emitted but isn't in our list land in
+  // "Other"; treat them as new since they're unrecognized buckets.
   const rest = themesArr.filter((t) =>
     !known.has((t.subcategory || "").toLowerCase()));
-  if (rest.length) subsections.push(["Other", rest]);
+  if (rest.length) {
+    rest.forEach((t) => { t._isNew = true; });
+    subsections.unshift(["Other", rest]);
+  }
   return subsections;
 }
 
@@ -494,6 +558,7 @@ function renderXSummary(data) {
   xsumEl.innerHTML = "";
 
   if (X_HISTORY_DATE) {
+    loadPrevSubcats(X_HISTORY_DATE);
     const snap = X_HISTORY_CACHE[X_HISTORY_DATE];
     xsumEl.appendChild(xsumHead(snap || {}, { mode: "past", date: X_HISTORY_DATE }));
     if (!snap) {
@@ -507,6 +572,7 @@ function renderXSummary(data) {
         `No X chatter archived for ${X_HISTORY_DATE}.`));
     }
   } else {
+    loadPrevSubcats(null);
     if (!X_SUMMARY_TODAY) return;
     if (Array.isArray(X_SUMMARY_TODAY.themes) && X_SUMMARY_TODAY.themes.length) {
       xsumEl.appendChild(xsumHead(X_SUMMARY_TODAY, { mode: "today" }));

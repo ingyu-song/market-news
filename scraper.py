@@ -57,6 +57,45 @@ def clean_title(raw: str, source_title: str | None = None) -> str:
     return text
 
 
+# Common verbs / signals that mark a real news headline (vs. a tag / landing
+# page indexed by Google News). The list errs on the side of inclusion — any
+# of these in a short title is enough to keep it.
+_HEADLINE_VERB_RE = re.compile(
+    r"\b("
+    r"is|are|was|were|has|have|had|will|would|may|might|could|should|"
+    r"raises?|raised|sells?|sold|buys?|bought|wins?|won|loses?|lost|"
+    r"says?|said|announce[sd]?|launch(?:es|ed)?|plans?|cuts?|hires?|"
+    r"fires?|signs?|signed|acquires?|acquired|partners?|targets?|"
+    r"forecasts?|guides?|reports?|reported|surges?|jumps?|drops?|"
+    r"falls?|gains?|rallies|adds?|expands?|opens?|closes?|files?|"
+    r"sues?|warns?|considers?|unveils?|introduces?|debuts?|tops?|"
+    r"miss(?:es|ed)?|beats?|hikes?|cuts?|trims?|backs?|leads?|"
+    r"to\s+\w+"
+    r")\b",
+    re.IGNORECASE,
+)
+
+
+def looks_like_index_page(title: str) -> bool:
+    """Heuristic: drop entries that look like a publisher's tag / landing
+    page indexed by Google News (e.g. "Instagram - The Information",
+    "Uber - The Information") rather than an actual article. A real
+    article almost always has a verb, a number, a currency / %, or a
+    colon / question mark; a tag page is a bare company name."""
+    t = (title or "").strip()
+    if not t:
+        return True
+    if len(t.split()) >= 6:
+        return False  # long titles are basically always real articles
+    # Signals that this is a real headline — any one keeps it.
+    if any(ch.isdigit() or ch in "$€£¥%:?\"'‘’" for ch in t):
+        return False
+    if _HEADLINE_VERB_RE.search(t):
+        return False
+    # Short, no number, no punctuation, no verb → it's a tag page.
+    return True
+
+
 def clean_summary(raw: str) -> str:
     """Turn an RSS description/summary into a short, clean blurb (or '')."""
     text = html.unescape(raw or "")
@@ -168,6 +207,8 @@ def fetch_source(source: dict, max_items: int,
             link = (entry.get("link") or "").strip()
             if not title or not link:
                 continue
+            if looks_like_index_page(title):
+                continue
             if do_filter and not keep_article(title, finance_re, exclude_re):
                 continue
             title_key = title.lower()
@@ -240,6 +281,8 @@ def fetch_naver(source: dict, max_items: int) -> dict | None:
         title = clean_title(html.unescape(entry.get("title", "")))
         link = (entry.get("link") or entry.get("originallink") or "").strip()
         if not title or not link or link in seen:
+            continue
+        if looks_like_index_page(title):
             continue
         seen.add(link)
         ts = 0.0
