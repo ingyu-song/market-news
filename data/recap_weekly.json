@@ -1,72 +1,60 @@
 {
-  "generated_at": "2026-06-27T23:00:00+00:00",
+  "generated_at": "2026-06-27T23:59:19+00:00",
   "mode": "weekly",
   "for_week_start": "2026-06-21",
   "for_week_ending": "2026-06-27",
   "days_covered": 7,
-  "headline": "AI Chip Market Navigates Policy, Demand Surges; Fed Hawkish Amid Tariff Threats",
-  "summary": "This week saw robust demand for AI chips and memory, highlighted by Micron's strong earnings and a projected supercycle, despite a mid-week tech sell-off on renewed Fed rate hike fears. Geopolitical tensions escalated with new tariff threats from the Trump administration and export controls on advanced AI models, while progress in US-Iran talks provided some relief to oil markets. SpaceX's strong IPO debut underscored continued investor interest in high-growth sectors.",
+  "headline": "Memory Supercycle Confirmed, Trump Threatens EU Tariffs, AI Chip Roadmaps Advance",
+  "summary": "The week saw a confirmed memory supercycle driven by Micron's strong earnings and rising DRAM/NAND prices. AI chip developments continued with Google exploring Samsung for next-gen production, while the US imposed export controls on Anthropic's AI models. Geopolitical tensions escalated as Trump threatened tariffs on Europe, and Fed officials offered mixed signals on inflation, leading to fluctuating Treasury yields and renewed rate hike concerns.",
   "themes": [
     {
-      "label": "US Semis / AI Chips",
-      "narrative": "AI chip demand remained robust, driving advanced packaging and memory, but the sector also faced policy-driven export controls on Anthropic's models. Google's reported consideration of Samsung for future TPU production due to TSMC capacity constraints signals ongoing supply chain shifts.",
+      "label": "Memory Supercycle / AI Chips",
+      "narrative": "Micron's record FQ3 results confirmed a memory supercycle, driving WFE demand and projecting chip shortages beyond 2027. DRAM and NAND prices saw significant increases. Google is reportedly considering Samsung for next-gen AI chip production due to TSMC capacity constraints, while key AI chip manufacturers detailed advanced packaging roadmaps.",
       "movers": [
         "Micron",
         "Samsung",
         "TSMC",
-        "Anthropic",
+        "SK Hynix",
         "Google"
       ],
       "sources": []
     },
     {
-      "label": "Fed / Rates / Macro",
-      "narrative": "Fed rate hike concerns resurfaced mid-week, strengthening the dollar and leading to a Nasdaq sell-off, despite some easing in oil prices due to Middle East talks. Treasury yields saw mixed movements, with the May PCE topping 4% reinforcing a hawkish Fed stance.",
+      "label": "Trump 2.0 / US Policy",
+      "narrative": "The Trump administration escalated trade tensions, threatening 100% tariffs on European nations over digital services taxes. Concurrently, the US imposed export controls on Anthropic's top AI models, citing national security concerns and targeting OpenAI's model release over security.",
       "movers": [
-        "USD",
-        "Treasury Yields",
-        "Oil",
-        "Nasdaq"
-      ],
-      "sources": []
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical tensions remained high, with Trump threatening new 100% tariffs on European nations over digital services taxes and an Iranian cargo ship attack. The US also enacted export controls on Anthropic's top AI models, citing national security.",
-      "movers": [
-        "Oil",
+        "Trump Administration",
+        "European Union",
         "Anthropic",
-        "European nations"
+        "OpenAI"
       ],
       "sources": []
     },
     {
-      "label": "Earnings / Guidance",
-      "narrative": "Micron's exceptional FQ3 earnings and strong guidance signaled a memory supercycle, driven by AI demand, and sent its shares soaring. SpaceX's IPO also debuted strongly, briefly becoming the 4th largest US-listed company by market cap, reflecting robust investor interest.",
+      "label": "Fed / Rates / Macro",
+      "narrative": "Fed officials delivered mixed signals on inflation, with May PCE topping 4%, reigniting rate hike concerns that saw the Nasdaq decline and the dollar strengthen. Treasury yields fluctuated, rising later in the week amidst ongoing Middle East talks. The new Fed Chair, Kevin Warsh, debuted at FOMC, emphasizing Trimmed Mean PCE.",
+      "movers": [
+        "Federal Reserve",
+        "US Dollar",
+        "Treasury Yields"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Geopolitics / Oil",
+      "narrative": "Geopolitical tensions persisted with an Iranian cargo ship attack, though US-Iran talks progressed, easing oil supply concerns from the Persian Gulf. This contributed to fluctuating oil prices and rising Treasury yields, alongside broader tariff threats.",
+      "movers": [
+        "Iran",
+        "Oil Futures"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Key Earnings / IPOs",
+      "narrative": "Micron's exceptional FQ3 2026 earnings were a major highlight, confirming a robust memory supercycle. SpaceX debuted with strong IPO demand, briefly becoming the 4th largest US-listed company by market cap, though broader tech indices experienced declines on its listing day.",
       "movers": [
         "Micron",
         "SpaceX"
-      ],
-      "sources": []
-    },
-    {
-      "label": "Memory (DRAM/HBM/NAND)",
-      "narrative": "The memory market demonstrated a clear structural upcycle, with Micron's record earnings and strong guidance highlighting robust AI-driven demand. DRAM and NAND prices saw significant increases, despite a mid-week sell-off linked to broader rate hike fears.",
-      "movers": [
-        "Micron",
-        "DRAM",
-        "NAND",
-        "HBM"
-      ],
-      "sources": []
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "narrative": "The Trump administration's policy actions were a significant market driver, with threats of 100% tariffs on European nations and export controls on advanced AI models (Anthropic, OpenAI) due to national security concerns. Progress in US-Iran talks also influenced oil markets.",
-      "movers": [
-        "Anthropic",
-        "OpenAI",
-        "European nations"
       ],
       "sources": []
     }
@@ -74,27 +62,27 @@
   "watchlist": [
     {
       "name": "Micron",
-      "note": "Monitor HBM demand and WFE capex outlook."
+      "note": "Monitor for continued HBM/DRAM pricing strength and capex guidance."
     },
     {
       "name": "Samsung",
-      "note": "Watch for Google's official decision on next-gen AI chip production."
+      "note": "Track progress on 2nm AI chip production for Google and overall foundry utilization."
     },
     {
       "name": "Anthropic",
-      "note": "Observe market reaction to US export controls and competitive positioning."
-    },
-    {
-      "name": "Oil",
-      "note": "Track US-Iran diplomatic progress and Middle East supply dynamics."
-    },
-    {
-      "name": "Treasury Yields",
-      "note": "Monitor upcoming inflation data and Fed officials' commentary."
+      "note": "Observe the impact of US export controls and any further policy actions on AI model access."
     },
     {
       "name": "European Union",
-      "note": "Watch for developments on potential US digital services tariffs."
+      "note": "Watch for developments regarding potential US tariffs and digital services tax responses."
+    },
+    {
+      "name": "Federal Reserve",
+      "note": "Await further clarity on inflation outlook and rate path from FOMC members and economic data."
+    },
+    {
+      "name": "SpaceX",
+      "note": "Monitor post-IPO trading volatility, institutional inflows, and lock-up expiry schedules."
     }
   ],
   "x_themes": [

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-27T22:59:41+00:00",
+  "generated_at": "2026-06-27T23:59:00+00:00",
   "mode": "daily",
   "for_date": "2026-06-27",
-  "headline": "Geopolitical Tensions Rise; AI Chip Market Sees Price Hikes, Policy Influence",
-  "summary": "Markets reacted to renewed tariff threats and Middle East talks, with Treasury yields rising. The AI chip sector experienced pricing adjustments and ongoing policy influence, while memory markets showed signs of a structural upcycle.",
+  "headline": "US Tariff Threats Escalate, AI Chip Roadmaps Advance, Memory Supercycle Confirmed",
+  "summary": "US markets reacted to escalating tariff threats against Europe and ongoing geopolitical developments. Key AI chip manufacturers detailed advanced packaging and process roadmaps, while the memory market showed signs of a sustained structural upcycle driven by AI demand. Treasury yields rose amid Middle East talks.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Trump threatens 100% tariffs on European nations over digital taxes.",
+          "lead": "Trump threatens 100% tariffs on European digital taxes.",
           "segments": [
             {
-              "text": "Former President Trump has threatened to impose a 100% tariff on European countries that implement a digital services tax, escalating trade tensions.",
+              "text": "The US President indicated potential 100% tariffs on European countries implementing digital service taxes, escalating trade tensions.",
               "sources": [
                 {
                   "title": "Trump threatens 100% tariff on European countries that impose digital tax",
@@ -38,16 +38,16 @@
           ]
         },
         {
-          "lead": "Trump is actively promoting an Iran deal, despite low domestic approval.",
+          "lead": "China's Geely to ship Lotus EVs to Canada.",
           "segments": [
             {
-              "text": "Trump is initiating a sales pitch for an Iran deal, which currently garners little support among Americans.",
+              "text": "Geely will begin shipping its first Lotus EVs to Canada in July, following a deal facilitated by a former Bank of England governor.",
               "sources": [
                 {
-                  "title": "Trump Kicks Off Sales Pitch for Iran Deal Few Americans Like",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTBwZ3U2QnNtUnBQMTM0SW9hQVF2SEJ1dnNSYTlqekJraEhvWTlRWHBPQXlQeHNkT0V5NzhxQ2FWQ05LWVI3aHVWUTdKVU94ek10TkVIeW1qQlc1YUZFWXZQbGFjMjRrRGRoSWljQlJVRGJKcmROOExXeDNEV2xvLVVGSnJNYzVSUlBVNUNCLWQ5LVNPQzR2LXRudy1jb2pOMG1pWjNOVDg2cEdwZjJpUw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Exclusive-China’s Geely to ship first Lotus EVs to Canada in July under Carney-Xi deal, ambassador says",
+                  "link": "https://www.investing.com/news/stock-market-news/exclusivechinas-geely-to-ship-first-lotus-evs-to-canada-in-july-under-carneyxi-deal-ambassador-says-4763794",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -55,16 +55,16 @@
           ]
         },
         {
-          "lead": "China's Geely is set to ship its first Lotus EVs to Canada in July.",
+          "lead": "China government advisors call for economic fixes.",
           "segments": [
             {
-              "text": "Geely, a Chinese automaker, plans to ship its initial batch of Lotus electric vehicles to Canada next month, following a deal between Carney and Xi.",
+              "text": "Government advisors in China are advocating for measures to address the nation's two-speed economy.",
               "sources": [
                 {
-                  "title": "Exclusive-China’s Geely to ship first Lotus EVs to Canada in July under Carney-Xi deal, ambassador says",
-                  "link": "https://www.investing.com/news/stock-market-news/exclusivechinas-geely-to-ship-first-lotus-evs-to-canada-in-july-under-carneyxi-deal-ambassador-says-4763794",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "China Government Advisers Call for Fix to Two-Speed Economy",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamVsYXdIM1h0eE1YN0hRTzN0VkRyc2ZIU1RSSjU3ekVfUnc2SWlxSUZGT3JTUGlxT1Y2NnhBUnNSQXlza1RtaU1CMVUzbkJpUHM2ZWNYUUxCWUdWRTZ6YUtHQXNxQThNMXVDME83R2tVUGhCQTlaWUxpdVk4clFzaGR5ME9OemdySER6SGJUM2x6Z2ZXTmVwT1JQbE5XUjY4Nk9TTzVnNVFIa1E3aWww?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -77,10 +77,10 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "The US government has allowed some access to Anthropic's Mythos model.",
+          "lead": "Trump administration allows partial access to Anthropic's Mythos.",
           "segments": [
             {
-              "text": "The Trump administration has permitted some access to Anthropic's Mythos model, a move that comes amidst broader government influence on AI model release protocols and intensifying competition between OpenAI and Anthropic.",
+              "text": "The US government has permitted some access to Anthropic's advanced Mythos AI model, despite earlier restrictions.",
               "sources": [
                 {
                   "title": "Trump administration allows some access to Anthropic’s Mythos",
@@ -127,16 +127,16 @@
           ]
         },
         {
-          "lead": "Trump has requested OpenAI to stagger the release of its new AI model.",
+          "lead": "Trump promotes Iran peace deal.",
           "segments": [
             {
-              "text": "Former President Trump has asked OpenAI to stagger the release of its latest AI model, indicating ongoing governmental interest in AI development timelines.",
+              "text": "The US President is actively campaigning for an Iran peace deal, though public support remains low.",
               "sources": [
                 {
-                  "title": "Trump Asks OpenAI to Stagger Release of New Model, Google Pressures Publishers on AI Licensing — TITV [Video]",
-                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lRFdRRUFyTjZrX3UtUVNrOFJXcFE3LWd1TjE2MmRXWWo5TU1IX2pEaTdjTjhMY0pCOVR5MUJOcWMyRDRCWS1YVDBnZVZWZzhmWHh3?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Trump Kicks Off Sales Pitch for Iran Deal Few Americans Like",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTBwZ3U2QnNtUnBQMTM0SW9hQVF2SEJ1dnNSYTlqekJraEhvWTlRWHBPQXlQeHNkT0V5NzhxQ2FWQ05LWVI3aHVWUTdKVU94ek10TkVIeW1qQlc1YUZFWXZQbGFjMjRrRGRoSWljQlJVRGJKcmROOExXeDNEV2xvLVVGSnJNYzVSUlBVNUNCLWQ5LVNPQzR2LXRudy1jb2pOMG1pWjNOVDg2cEdwZjJpUw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -149,50 +149,69 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Nvidia's market capitalization has fluctuated amid debates on its AI dominance.",
+          "lead": "TSMC outlines aggressive capacity expansion.",
           "segments": [
             {
-              "text": "Nvidia's market cap has fallen below $5 trillion, prompting discussions about the sustainability of its AI market leadership and future growth projections.",
-              "sources": [
+              "text": "TSMC detailed its technology roadmap, including 6T SRAM breakthroughs, 98% yield for CoWoS 5.5x reticle size, and a 70% CAGR for N2/A16 capacity expansion from 2026-2028.",
+              "sources": [],
+              "x_mentions": [
                 {
-                  "title": "\"10조 달러 시대 온다!\" AI가 전망한 엔비디아의 미래",
-                  "link": "http://coinreaders.com/244894",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2070311089141944737"
+                },
+                {
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2070646298525794549"
+                },
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2070643895265018182"
                 }
-              ],
-              "x_mentions": []
+              ]
             }
           ]
         },
         {
-          "lead": "AWS has increased prices for certain Nvidia compute instances by 20%.",
+          "lead": "Nvidia's 800VDC architecture remains on schedule.",
           "segments": [
             {
-              "text": "Amazon Web Services has raised prices for some Nvidia compute offerings, reflecting increased demand and costs within the AI infrastructure sector.",
+              "text": "Episil Technologies confirmed Nvidia's target to introduce its 800VDC architecture in 2027 is still on track.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2070475755759567125"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Qualcomm to integrate High Bandwidth Compute.",
+          "segments": [
+            {
+              "text": "Qualcomm plans to embed its High Bandwidth Compute architecture, which vertically stacks memory and compute, into smartphones, PCs, and cars.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@wallstengine",
+                  "url": "https://x.com/wallstengine/status/2070551508765298720"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "AWS raises prices for Nvidia compute.",
+          "segments": [
+            {
+              "text": "Amazon Web Services has increased prices for some Nvidia compute instances by 20%.",
               "sources": [
                 {
                   "title": "AWS Raises Prices for Some Nvidia Compute by 20%",
                   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLTVOZE1GUF9fRUVVWDZiS3F4QVJSV251NGs5YVZSeXZzZ2JjcnozQmJEeTNQX29MZnJSTU90akZYNTZ5VmkwU1hHUXFqc2JLRThLbENqcDB6b0dZbzRQTUh2Y1lLcGhuS1cyREluMWVlREJncVFodGxTWnFELW42QldB?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Hanmi Semiconductor is targeting the advanced packaging market with its FC Bonder 3.5.",
-          "segments": [
-            {
-              "text": "Hanmi Semiconductor is positioning its FC Bonder 3.5 to capitalize on the growing demand for advanced packaging solutions in the semiconductor industry.",
-              "sources": [
-                {
-                  "title": "Hanmi targets advanced packaging market with FC Bonder 3.5",
-                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0FIdXl4MWxVYWg1Mm80OXZOYWlRanI0YjF2b0dVS2w4UHByWTYyM2dXN3p1c3N2RUtnOEd6eDdDRWd2MmJTZlZOWTd3X1l0T1pOZEIzNnRLQjFwMG5taHB3OTZ0SGs4OWhXR0prMWI5MFhweF9DZjVqR1hIOUtUa1VTSUR0bzlKZE5uRlU5X3A?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -205,10 +224,10 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Treasury yields are rising as Middle East peace talks continue.",
+          "lead": "Treasury yields rise amid Middle East talks.",
           "segments": [
             {
-              "text": "Treasury yields have seen an increase, influenced by ongoing diplomatic efforts in the Middle East.",
+              "text": "US Treasury yields increased as discussions regarding the Middle East continued.",
               "sources": [
                 {
                   "title": "Treasury Yields Rise as Middle East Talks Continue",
@@ -222,10 +241,10 @@
           ]
         },
         {
-          "lead": "ECB's Schnabel identifies upside inflation risks despite a peace deal.",
+          "lead": "ECB's Schnabel sees upside inflation risks.",
           "segments": [
             {
-              "text": "Isabel Schnabel of the European Central Bank noted persistent upside risks to inflation, even with the prospect of a peace agreement.",
+              "text": "ECB board member Isabel Schnabel noted upside risks to inflation despite a recent peace deal.",
               "sources": [
                 {
                   "title": "ECB’s Schnabel Sees Upside Inflation Risks Despite Peace Deal",
@@ -239,14 +258,29 @@
           ]
         },
         {
-          "lead": "The government plans to address '3 high' economic challenges and employment recovery in 2026.",
+          "lead": "Morgan Stanley forecasts Fed rate hold.",
           "segments": [
             {
-              "text": "The government is set to announce its 2026 economic policy, focusing on strategies to counter the '3 high' economic pressures and foster employment recovery.",
+              "text": "Morgan Stanley maintains its prediction that the Federal Reserve will hold interest rates through year-end, with recent data reinforcing this view.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@aleabitoreddit",
+                  "url": "https://x.com/aleabitoreddit/status/2070536700519178493"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Japanese mega-banks face US investment funding issues.",
+          "segments": [
+            {
+              "text": "Major Japanese banks are reportedly facing difficulties securing US investment funds and have sought government assistance.",
               "sources": [
                 {
-                  "title": "정부, 2026년 경제정책 중심 '3고' 대응과 고용 회복 방안 발표 예정",
-                  "link": "https://www.tokenpost.kr/news/economy/373355",
+                  "title": "\"달러가 없다\" 日메가뱅크, 美 투자 자금난에 정부에 SOS",
+                  "link": "https://n.news.naver.com/mnews/article/014/0005540435?sid=101",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -261,18 +295,11 @@
       "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "Micron has seen significant revenue growth driven by AI demand.",
+          "lead": "AI-driven memory market in structural upcycle.",
           "segments": [
             {
-              "text": "Micron's revenue has surged ninefold in a year, reflecting the explosive demand for AI-driven memory solutions and signaling an AI-driven memory supercycle expected to persist beyond 2030.",
-              "sources": [
-                {
-                  "title": "1년 만에 9배 뛰었다! AI 폭발이 가져온 마이크론의 놀라운 수익률!",
-                  "link": "http://coinreaders.com/244893",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
+              "text": "The memory market is experiencing a structural upcycle with rising DRAM and HBM prices, projected to continue beyond 2030 due to AI demand.",
+              "sources": [],
               "x_mentions": [
                 {
                   "handle": "@aleabitoreddit",
@@ -299,14 +326,14 @@
           ]
         },
         {
-          "lead": "A DRAM supply shock is impacting prices for routers and watches.",
+          "lead": "Apple and Microsoft face memory crunch.",
           "segments": [
             {
-              "text": "The memory market is experiencing a DRAM supply shock, leading to price increases for various products, including routers and smartwatches.",
+              "text": "Both Apple and Microsoft are reportedly grappling with a memory crunch, impacting smaller IT firms' survival.",
               "sources": [
                 {
-                  "title": "DRAM 공급 쇼크 현실화… 라우터·워치 가격 어디까지 뛰나",
-                  "link": "https://www.g-enews.com/view.php?ud=202606280716473765fbbec65dfb_1",
+                  "title": "“애플·MS도 ‘메모리 대란’에 흔들…중소 IT업체는 생존 위기”",
+                  "link": "https://n.news.naver.com/mnews/article/029/0003033933?sid=101",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -316,10 +343,10 @@
           ]
         },
         {
-          "lead": "Apple is reportedly seeking memory chips from a blacklisted Chinese company.",
+          "lead": "Apple seeks chips from blacklisted Chinese firm.",
           "segments": [
             {
-              "text": "Apple is reportedly looking to procure memory chips from a Chinese company that is currently on a blacklist, indicating potential supply chain adjustments.",
+              "text": "Apple is reportedly looking to purchase memory chips from a Chinese company that is currently on a US blacklist.",
               "sources": [
                 {
                   "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
@@ -338,10 +365,10 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "OpenAI has unveiled its new GPT-5.6 Sol model.",
+          "lead": "OpenAI releases new GPT-5.6 Sol model.",
           "segments": [
             {
-              "text": "OpenAI's GPT-5.6 Sol model claims state-of-the-art performance on Terminal-Bench 2.1 and superior coding workflow capabilities compared to Anthropic's Mythos 5 and Fable 5.",
+              "text": "OpenAI launched its new GPT-5.6 Sol model, claiming state-of-the-art performance and outperforming Anthropic's Mythos 5 and Fable 5 in coding workflows.",
               "sources": [],
               "x_mentions": [
                 {
@@ -357,10 +384,10 @@
           ]
         },
         {
-          "lead": "Amazon Prime Day offers insights into US consumer spending habits.",
+          "lead": "Amazon Prime Day offers consumer insight.",
           "segments": [
             {
-              "text": "Amazon Prime Day sales provide a crucial glimpse into the spending patterns of US consumers, who are navigating with tighter budgets.",
+              "text": "Amazon Prime Day sales provide a look into US consumer behavior as shoppers manage tight budgets.",
               "sources": [
                 {
                   "title": "Amazon Prime Day offers a glimpse into U.S. consumer as shoppers navigate with pinched wallets",
@@ -378,33 +405,61 @@
               "x_mentions": []
             }
           ]
+        },
+        {
+          "lead": "Oracle and Adobe receive 'Buy' ratings.",
+          "segments": [
+            {
+              "text": "Phillip Securities maintained a Buy rating on Adobe, while Jefferies reiterated a Buy rating on Oracle.",
+              "sources": [
+                {
+                  "title": "Phillip Securities Maintains Buy Rating on Adobe (ADBE) Stock",
+                  "link": "https://finance.yahoo.com/markets/stocks/articles/phillip-securities-maintains-buy-rating-221748344.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "What’s News in Markets: AI Tales, Oracle Woes, Wendy’s Sizzles",
+                  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPenk3TXRVcmV0SEFFNDFmbmRnTXprTjJ3dzNSUzJqVTZjalhzVWltekhNb1ZTQU9RVDlyaF9mWE5jUVNuNnNpOGpBSVJiRmMyMnVBNFBsWkZMWU9MS3p1ZVFzdWhyY1BiTEpqVC12OF94R2p2SEpfVm0yekxzUElkUGYzc3BYVlc2WTJhRDFIX09fOTNYUGt1bEFCcmN0dkw1Q0g5ZEE0dlI3dDVadkN5ZjNlSU5sSm1OZmw3WnFINTQxUTZydlVQLXZJT2JUNkk?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
         }
       ]
     }
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Monitor AI chip demand and pricing, especially after AWS price hikes and market cap fluctuations. ",
+      "name": "Fed",
+      "note": "Watch for further commentary on inflation and rate policy, especially given rising Treasury yields and ECB's inflation outlook.",
       "sources": [
         {
-          "title": "\"10조 달러 시대 온다!\" AI가 전망한 엔비디아의 미래",
-          "link": "http://coinreaders.com/244894",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Treasury Yields Rise as Middle East Talks Continue",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlVDUmZyR3JUS1R6M1JpdWlKaXBwaW5HTFFtSE1uQUUyRTI2VFdmd2R0dDl3YmN6UU05RWk1MmFkc0RfTE5hWUVXcVhmNkJwM1RBdmVYdmxkOTVMWFE1LWE2NkVscWo2NF9vU002OFBwUzNPZ05ZQkhaYmdtRm1XNmZiRHVad3F5eFkxVXd6T2w2SnJ3cDRBdg?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "AWS Raises Prices for Some Nvidia Compute by 20%",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLTVOZE1GUF9fRUVVWDZiS3F4QVJSV251NGs5YVZSeXZzZ2JjcnozQmJEeTNQX29MZnJSTU90akZYNTZ5VmkwU1hHUXFqc2JLRThLbENqcDB6b0dZbzRQTUh2Y1lLcGhuS1cyREluMWVlREJncVFodGxTWnFELW42QldB?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+          "title": "ECB’s Schnabel Sees Upside Inflation Risks Despite Peace Deal",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSlZ2MV9zTFROdTJDektmMDBZT1FqekdzOVNwQkZWN1Z2dUhLQURNTWNXLWdfWFdiTFZpc0p1c2d5STJ2NTVGaWp5VmlvUDhNSkliWkJJV1RQcW5IaXI4SEhsM1hQZ0dWcVo0aE94S2dKTHRjWko2bmlSdTNsM1pseW9hWk5yLTFPMmcwYUozWTF5MkcydFBYenBUNEt4LXNqNFBuQXZyYy1SWXczRVVkSnNR?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
-      "x_mentions": []
+      "x_mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2070536700519178493"
+        }
+      ]
     },
     {
-      "name": "Anthropic",
-      "note": "Watch for further US policy interventions regarding AI model access and intensifying competition with OpenAI. ",
+      "name": "Anthropic / OpenAI",
+      "note": "Monitor competition in AI model performance and any further US government policy regarding model access and export controls.",
       "sources": [
         {
           "title": "Trump administration allows some access to Anthropic’s Mythos",
@@ -449,78 +504,54 @@
       ]
     },
     {
-      "name": "OpenAI",
-      "note": "Track the impact of its new GPT-5.6 Sol model and any further US government requests on model releases. ",
-      "sources": [
-        {
-          "title": "Trump Asks OpenAI to Stagger Release of New Model, Google Pressures Publishers on AI Licensing — TITV [Video]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lRFdRRUFyTjZrX3UtUVNrOFJXcFE3LWd1TjE2MmRXWWo5TU1IX2pEaTdjTjhMY0pCOVR5MUJOcWMyRDRCWS1YVDBnZVZWZzhmWHh3?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
+      "name": "TSMC",
+      "note": "Key updates on advanced process and packaging capacity expansion will be critical for AI chip supply.",
+      "sources": [],
       "x_mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070559154352353724"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2070311089141944737"
         },
         {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2070554292805947523"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2070646298525794549"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2070643895265018182"
         }
       ]
     },
     {
-      "name": "Fed",
-      "note": "Key focus on upcoming macro data and any shifts in the interest rate outlook, especially with rising Treasury yields. ",
+      "name": "Nvidia",
+      "note": "Developments in 800VDC architecture and HBM footprint reduction are important for future AI compute efficiency.",
+      "sources": [],
+      "x_mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2070587465929572568"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2070475755759567125"
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "note": "The company's strategy for memory chip procurement, including from blacklisted firms, warrants attention amidst a memory crunch.",
       "sources": [
         {
-          "title": "정부, 2026년 경제정책 중심 '3고' 대응과 고용 회복 방안 발표 예정",
-          "link": "https://www.tokenpost.kr/news/economy/373355",
+          "title": "“애플·MS도 ‘메모리 대란’에 흔들…중소 IT업체는 생존 위기”",
+          "link": "https://n.news.naver.com/mnews/article/029/0003033933?sid=101",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "Treasury Yields Rise as Middle East Talks Continue",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlVDUmZyR3JUS1R6M1JpdWlKaXBwaW5HTFFtSE1uQUUyRTI2VFdmd2R0dDl3YmN6UU05RWk1MmFkc0RfTE5hWUVXcVhmNkJwM1RBdmVYdmxkOTVMWFE1LWE2NkVscWo2NF9vU002OFBwUzNPZ05ZQkhaYmdtRm1XNmZiRHVad3F5eFkxVXd6T2w2SnJ3cDRBdg?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "ECB’s Schnabel Sees Upside Inflation Risks Despite Peace Deal",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSlZ2MV9zTFROdTJDektmMDBZT1FqekdzOVNwQkZWN1Z2dUhLQURNTWNXLWdfWFdiTFZpc0p1c2d5STJ2NTVGaWp5VmlvUDhNSkliWkJJV1RQcW5IaXI4SEhsM1hQZ0dWcVo0aE94S2dKTHRjWko2bmlSdTNsM1pseW9hWk5yLTFPMmcwYUozWTF5MkcydFBYenBUNEt4LXNqNFBuQXZyYy1SWXczRVVkSnNR?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070536700519178493"
-        }
-      ]
-    },
-    {
-      "name": "EU",
-      "note": "Observe reactions to Trump's tariff threats over digital taxes and potential retaliatory measures. ",
-      "sources": [
-        {
-          "title": "Trump threatens 100% tariff on European countries that impose digital tax",
-          "link": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Trump threatens 100% tariff on European nations over tech tax",
-          "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        },
-        {
-          "title": "Trump Threatens to Impose 100% Tariff on European Countries Over Tech Taxes",
-          "link": "https://www.nytimes.com/2026/06/26/business/economy/trump-tariffs-europe.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
+          "link": "https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -832,6 +863,6 @@
       "change_pct": -4.17
     }
   ],
-  "story_count": 47,
-  "bucket_count": 12
+  "story_count": 37,
+  "bucket_count": 13
 }
