@@ -127,14 +127,36 @@ Return ONLY a JSON object (no markdown, no code fences) with this exact shape:
 }}
 
 Rules:
-- Up to ~14 themes, ordered by how much they're being discussed today.
-- "mentions": every account that discussed the theme. For EACH, "handle" with
-  @ and "tweet_id" = the [index] of THAT account's single most relevant tweet.
+- Up to ~20 themes, ordered by how much they're being discussed today.
+- **ONE THEME = ONE SPECIFIC NARRATIVE.** Subcategory is the bucket; the
+  theme is the actual event. Multiple distinct stories within the same
+  subcategory must each become their OWN theme. Do NOT merge unrelated
+  events under a generic "Memory Market" or "Foundry Dynamics" banner.
+- Concretely, if today you have BOTH "TSMC-Winbond Wafer-on-Wafer
+  collaboration" AND "Apple seeking US clearance for CXMT memory" in the
+  tweet stream, that's TWO themes — both with subcategory: "memory" —
+  not one combined memory theme. Same logic for foundry (TSMC margin
+  beat vs. Intel 3nm utilization vs. Samsung Foundry pricing), ASIC
+  (Cerebras-OpenAI partnership vs. Qualcomm AI300 on TSMC), space
+  (SpaceX IPO vs. AST SpaceMobile launch vs. Starlink mobile),
+  geopolitics (Taiwan tariffs vs. China export controls), etc.
+- Theme TOPIC must name the specific event / company / development.
+  Bad: "Memory Market Dynamics", "Foundry Market Dynamics".
+  Good: "TSMC-Winbond Wafer-on-Wafer collaboration", "Apple eyes CXMT
+  for US clearance", "Intel 3nm utilization concerns".
+- A theme can have just ONE mention if only one author is talking about
+  that specific story — better a single-author theme than a forced
+  merger with an unrelated story.
+- "mentions": every account that discussed THIS theme. For EACH, "handle"
+  with @ and "tweet_id" = the [index] of THAT account's single most
+  relevant tweet for THIS specific event.
 - tweet_id MUST be one of the input indices. Never invent.
-- "summary": 1-2 tight sentences, preserve tickers / numbers / jargon, no filler.
+- "summary": 1-2 tight sentences describing ONLY this specific event.
+  Preserve tickers / numbers / jargon, no filler. Do not lump in
+  adjacent stories.
 - Skip pure noise / spam / off-finance chatter.
-- Skip themes that don't fit ANY listed subcategory — better to ship fewer
-  themes than miscategorized ones.
+- Skip themes that don't fit ANY listed subcategory — better to ship
+  fewer themes than miscategorized ones.
 
 Raw tweets:
 {data}
