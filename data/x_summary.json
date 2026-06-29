@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-06-28T00:08:35+00:00",
-  "tweet_count": 88,
-  "account_count": 25,
+  "generated_at": "2026-06-29T00:14:44+00:00",
+  "tweet_count": 84,
+  "account_count": 24,
   "themes": [
     {
-      "topic": "Memory Market & Geopolitics",
+      "topic": "Memory Market Surge and Supply Chain Diversification",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "The memory market is seeing a resurgence, with discussions around CXMT challenging incumbents and Apple lobbying the Trump administration for clearance to buy CXMT chips despite its blacklist status. Investors are also evaluating Micron's earnings and the broader memory cycle.",
+      "summary": "Memory, particularly HBM and DRAM, is identified as a critical bottleneck and a durable demand driver for AI infrastructure, with supply shortages and yield issues projected to cause significant price surges through 2028. This has prompted TSMC to diversify its supply chain by collaborating with Winbond on Wafer-on-Wafer stacking and led to geopolitical considerations like Apple seeking US clearance for Chinese memory.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2070951439955079462",
-          "text": "https://t.co/nWMR3bAG59\n\n$NVDA $MU $SNDK $LITE This is critical reading and understanding for the GAI infrastructure trade. LiteLLM is a core piece of the router infrastructure that makes OSS LLMs a credible alternative to SOTA frontier models for certain workloads. Consider that"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2070918394220798316",
-          "text": "You know what is funny?\n\nEven one of the famous Big Tech CEOs you all know was still calling the memory business trash until late last year.\n\nI bet he is regretting that now."
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2070895932166807728",
-          "text": "Good point\nCXMT will generate over $130B in gross profit in the next 18 months\n\nHow they spend that money will determine how long the memory cycle lasts and what happens in 28-29"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2070833953532186754",
-          "text": "$AAPL is lobbying the Trump administration for clearance to buy memory chips from China’s CXMT, per FT.\n\nCXMT is on the Pentagon’s Chinese Military Company blacklist, but Apple is seeking relief.\n\nWorth noting: even if Apple gets clearance, it’s unclear how much this helps if CXM"
-        },
-        {
-          "handle": "@rwang07",
-          "url": "https://x.com/rwang07/status/2070802206841045330",
-          "text": "This is why Apple made at $MU.\n\n2 million SGD per 24GB/1TB MacBook https://t.co/GkoWwC6KgH"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2071380238039425477",
+          "text": "TSMC has turned to Winbond Electronics for DRAM memory wafers as shortage continues, media report:\n\n-Winbond to provide DRAM wafers to be stacked on TSMC logic wafers\n\n-Work together on Wafer-on-Wafer (WoW) advanced 3D wafer stacking\n\n-Currently, TSMC WoW uses memory from SK Hyni"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2070800684325179899",
-          "text": "Recommended reads for the week\n\nSemiAnalysis — China’s CXMT Is Set to Challenge DRAM Incumbents\nGoldman Sachs — Americas Technology: Hardware — Expert Network Series: CPU Server Demand Driven by Refresh, Agentic AI\nMorgan Stanley — Old Memory: Better to Buy More\nJ.P. Morgan — Fir"
+          "url": "https://x.com/jukan05/status/2071366174408085902",
+          "text": ">>TSMC Teams Up with Winbond to Build a Homegrown DRAM Supply Chain for AI \n\n• Amid deepening global memory shortages, TSMC has brought Winbond into its AI chip supply chain. The two companies will collaborate on next generation WoW (Wafer on Wafer) 3D stacking technology, with W"
         },
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
-          "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with ph"
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2071261052080148607",
+          "text": "$NVDA $MU $SNDK $LITE If you are investing in the GAI infrastructure trade, the write-ups in this thread are worth reading closely. No other investor on FinX is standing up their own LLM inference stacks, benchmarking them directly, and sharing the operational learnings in real t"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2071266948919255435",
+          "text": "Memory investors receiving a dopamine bomb this weekend. Cheeky DMs from Kawz and BullofBritain today:\n\n> @BULLOFBRITAIN: BLOOMBERG: AI SALES START TO JUSTIFY DATA CENTER SPENDING BOOM\n\n> @KawzInvests: Jefferies Warns Memory Prices Will Surge 50% in Q3 2026 and Another 40% in Q4,"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2071293192058871923",
+          "text": "16 Hi HBM ain't coming anytime soon\nNot enough supply &amp; lots of yield issues"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2071099426719035442",
+          "text": "Wow, this memory article got a lot more attention than I expected. 250K views is insane...!!!\n\nThank you so much for all the interest and support.\n\nFor context, I’ve been continuing to do deep research on the memory space. I’m also actively networking with people I know at Samsun"
+        },
+        {
+          "handle": "@rwang07",
+          "url": "https://x.com/rwang07/status/2071193682603397458",
+          "text": "Funny how two things are happening at the same time. \n\n$AAPL is mad at memory guys due to the memory price hike. \n\n$AAPL gonna gain share globally this year and maybe next year also due to memory price hike.\n\nC'monnnn"
         },
         {
           "handle": "@negligible_cap",
@@ -50,27 +50,126 @@
           "text": "*APPLE SEEKS US CLEARANCE TO BUY MEMORY CHIPS FROM CXMT: FT\n\nTim Cook has spent months buttering up Trump for this very moment https://t.co/jWx5FzwZON"
         },
         {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2070508398643183731",
-          "text": "Bought some Kioxia on the German exchange, sleepy mover!"
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/jukan05/status/2071188353131962740",
+          "text": "Listen to what @GavinSBaker said on All-In at 1:04:06:\n\n“DRAM is the most important bottleneck, and Elon is focusing the Terafab on memory because he believes memory is the most important bottleneck. Not lasers, not capacitors, not power semis, not NAND, not HDDs. DRAM.”\n\nEven El"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
+          "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with ph"
         }
       ]
     },
     {
-      "topic": "Optical Interconnects & Photonics",
+      "topic": "AI Software & Inference Optimization",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "The optical sector is anticipating an intermediate step to 2.4T before 3.2T, signaling important investment implications. SpaceX's acquisition of an optical networking startup and its Starlink optical communication efforts highlight growing demand from LEO and AIDC, while the broader photonics market experiences volatility amid an ongoing supercycle.",
+      "subcategory": "software",
+      "summary": "The AI software landscape is highly competitive, with Chinese open-source models gaining traction due to cost-effectiveness and performance, challenging US hyperscalers and influencing companies like Coinbase to cut AI spending. Optimization of AI inference engines is crucial for efficiency and reliability, with SGLang showing superiority for normal-context serving and vLLM for extreme long-context stability, leading to segmented deployment strategies.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2070957246713045419",
-          "text": "One interesting thing I have been hearing in the market recently is that before moving directly from 1.6T to 3.2T, the industry may take an intermediate step through 2.4T.\n\nIn other words, the market may not immediately push lane speed to 400G.\n\nIf you think carefully about what "
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2071262236119613921",
+          "text": "China might very well be winning the AI race considering intelligence created per dollar of capex spend.\n\nThere’s a huge disparity in capex spending between US hyperscalers and Chinese hyperscalers on both an absolute and relative basis (chart below). \n\nCapex spend as a % of OCF "
         },
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2070951439955079462",
-          "text": "https://t.co/nWMR3bAG59\n\n$NVDA $MU $SNDK $LITE This is critical reading and understanding for the GAI infrastructure trade. LiteLLM is a core piece of the router infrastructure that makes OSS LLMs a credible alternative to SOTA frontier models for certain workloads. Consider that"
+          "url": "https://x.com/TheValueist/status/2071050584933752867",
+          "text": "$NVDA $MU $SNDK $LITE GLM-5.2 NVFP4: VLLM VS SGLANG ENGINE COMPARISON\n\nKEY FINDINGS\n\nThe GLM-5.2 NVFP4 benchmark supports a regime-specific conclusion rather than a universal engine ranking. SGLang was materially stronger across completed 32K-256K serving workloads, while vLLM wa"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2071184354756477041",
+          "text": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in supplemental training, is now in private beta at SpaceX & Tesla. Early evals show performance close to, perhaps exceeding Opus. \n\nRL is continuing to significantly improve the model, and the Grok Build har"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2071135874100990438",
+          "text": "Guess we finally found why $META signed massive agreements with Neoclouds like $NBIS back in March...\n\nAnd why Gemini got super nerfed. \n\n$GOOGL reportedly restricted Meta's capacity in March 2026 because of compute restraints. \n\nGoogle's CEO said from last earnings computing pow"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/aleabitoreddit/status/2071074680253911267",
+          "text": "WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race”\n\nChina’s Zhipu AI, has matched \nAnthropic’s Mythos in certain benchmarks, such as exploiting cybersecurity bugs. \n\nWell, that’s not good.\n\nInstead of blaming the administration which did the correct thing… \n\nA"
+        }
+      ]
+    },
+    {
+      "topic": "Robotics and Physical AI Growth",
+      "category": "sectors",
+      "subcategory": "robotics",
+      "summary": "The robotics and 'Physical AI' sector is experiencing rapid growth, with deal values expected to 10x and significant private capital flowing into manufacturing and customer acquisition. South Korea is emerging as a crucial supplier for humanoid components like actuators, leveraging automotive expertise, while public investment opportunities are anticipated in upstream suppliers and pure-play robotics companies with IPOs projected for H2 2027.",
+      "mentions": [
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2071339622513140129",
+          "text": "Went down a huge robotics rabbit hole over the weekend and came back with the conclusion that I just like memory. \n\nIf you want a short term trade then $CCXI, Churchill SPAC vehicle, will probably pump due to the reverse merger to bring Agility Robotics public - given extremely l"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2071206227111968918",
+          "text": "South Korean humanoid supply chains will be crucial.\n\nFor the upcoming humanoid production ramp.\n\nGS forecasts that 30% of humanoid components will come from South Korea by 2035.\n\nDue to their automotive industry expertise translating over into producing humanoid parts like actua"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2071186856595833199",
+          "text": "What I am doing with Physical AI...\n$OUST $AMBA $CGNX $VPG $SYNA $AEVA \n\nPhotonics has been my main coverage universe for ~10 months\n\nI am now adding Physical AI coverage to my Substack\n\nPractically that means:\n\n1 - An 11 layer investment framework, researching & presenting each "
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2071164721299112316",
+          "text": "Yup, Schaeffler $SHA0 is the ideal example for automotive players.\n\n~ €7.47B MC auto player.\n- but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher)\n- covers bearings, gearboxes, sensors/ECUs, actuators, power electronics.\n-es"
+        }
+      ]
+    },
+    {
+      "topic": "Geopolitics and US-China Tech Race",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "Geopolitical tensions are significantly impacting technology supply chains and global markets, particularly in the US-China AI race where IP theft and export restrictions are prominent. The US-Iran situation, specifically the lifting of the Strait of Hormuz blockade, has direct macro implications for oil prices and related sectors like airlines, while international competition for AI talent and infrastructure is also evident.",
+      "mentions": [
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2071344968342327309",
+          "text": "PS. $CXMT?! \n\nAlmacap gives 0 fucks:\n\n> Fully sold out and will prioritise Chinese market\n> Behind on HBM, doesn’t have access to lithography machines \n> Small proportion of total market supply \n> Trump unlikely to allow Apple to buy from them anyway\n\nMight be used as an excuse f"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2071332668902674934",
+          "text": "US &amp; IRAN TO MEET TUESDAY IN QATAR, FOCUS ON RESOLVING ONGOING DISPUTE OVER THE STRAIT: AXIOS https://t.co/YTvfwcKlTp"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2071329156571468144",
+          "text": "Personally went long on Airlines mid-June.\n\nSpecifically a basket of:\n1. $DAL (Delta)\n2. $UAL (United)\n3. $ALK (Alaska)\n\nIt's a very simple thesis, and based around my Paradis Macro Reports:\n\n- On June 14th Shehbaz Sharif (Pakistan PM) announced that the US + Iran had finalized a"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2071262236119613921",
+          "text": "China might very well be winning the AI race considering intelligence created per dollar of capex spend.\n\nThere’s a huge disparity in capex spending between US hyperscalers and Chinese hyperscalers on both an absolute and relative basis (chart below). \n\nCapex spend as a % of OCF "
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2071074680253911267",
+          "text": "WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race”\n\nChina’s Zhipu AI, has matched \nAnthropic’s Mythos in certain benchmarks, such as exploiting cybersecurity bugs. \n\nWell, that’s not good.\n\nInstead of blaming the administration which did the correct thing… \n\nA"
+        }
+      ]
+    },
+    {
+      "topic": "Optical Transceivers and Photonics",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "The optical sector, including photonics and optical communications, is experiencing growth driven by various applications like AI datacenters, telecommunications, defense, and Low Earth Orbit (LEO) satellites (Starlink). While some stocks like Corning ($GLW) are performing well, the sector, especially upstream components, can exhibit high volatility.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2071372314030293238",
+          "text": "$GLW was the best performing 'optics' stock last week\n\nIt is one of my largest holdings\n\nIf you want to learn more about it, read this article!"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2071241970245390739",
+          "text": "So fun.\nI watched this talk today lol\nPersonally, I love $GLW https://t.co/U6YHR1Zk1g"
         },
         {
           "handle": "@ParadisLabs",
@@ -81,236 +180,106 @@
           "handle": "@aleabitoreddit",
           "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
           "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with ph"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2070723672705581070",
-          "text": "I covered Starlink(SpaceX) Optical Comm and their approach previously based on their public technical presentation and job postings.\n\nLink: https://t.co/ez8fC56zZT\n\nAs per Serenity's finding, $SPCX just acquired an optical networking startup.\n\nOptics sector should grow more and m"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2070622631108448387",
-          "text": "This is a really solid take...\n\nFor photonics specifically, your emotions toward it right now are highly dependent on which companies you are in\n\nFor many months every single name in this batch caught bids indiscriminately. Many of them (in my opinion) didn't deserve to. But mome"
         }
       ]
     },
     {
-      "topic": "AI Software & Inference Optimization",
+      "topic": "Foundry Market Dynamics",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "OpenAI has released its new GPT-5.6 Sol frontier model, with benchmarks showing strong performance. The focus on AI inference efficiency is critical, with DeepSeek's DeepSpec/DSpark offering a serving-stack release to improve unit economics and Cerebras Systems providing a differentiated wafer-scale architecture for latency-sensitive inference workloads, anchored by OpenAI and AWS partnerships.",
+      "subcategory": "foundry",
+      "summary": "TSMC continues to demonstrate strong financial performance with high gross margins and rising revenue forecasts, solidifying its leadership in chip manufacturing. However, Intel and Samsung Foundries face challenges in fully utilizing their 3nm production capacity, while UMC is emerging as a significant beneficiary for Qualcomm's AI platform, leveraging its expertise in power integration components over TSMC.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2070951439955079462",
-          "text": "https://t.co/nWMR3bAG59\n\n$NVDA $MU $SNDK $LITE This is critical reading and understanding for the GAI infrastructure trade. LiteLLM is a core piece of the router infrastructure that makes OSS LLMs a credible alternative to SOTA frontier models for certain workloads. Consider that"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2071380432856473963",
+          "text": "TSMC’s 2nd quarter gross margin is seen nearing 70% – beating guidance – when it reports July 16 at its quarterly conference, media report:\n\nQ3 revenue is expected to rise 10% vs Q2 as TSMC’s string of record-breaking quarterly revenue continues. \n\nTSMC full-year 2026 revenue gui"
         },
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-          "text": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS.\n\nAt up to 750 tokens/sec, which is obscene performance.\n\nAmerican inference go brrr.\n\nI actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after"
-        },
-        {
-          "handle": "@dwarkesh_sp",
-          "url": "https://x.com/dwarkesh_sp/status/2070672008946589922",
-          "text": "Here's a question I find confusing and interesting and which actually tells us a lot about the nature of current AI progress:\n\nWhy has progress on computer use been so slow? Computer use is so clearly verifiable.\n\nI think the answer is that it is not enough for a domain to be ver"
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2071162570359087580",
+          "text": "Memory stocks are simultaneously the best value stocks and the best growth stocks.\n\nYou can buy Samsung preferreds at a NTM PE of c.5.0x and benefit from:\n\n&gt; Highest wafer capacity\n&gt; HBM4\n&gt; Chip fab competing with $TSMC\n\nOr you can buy $ARM at c.400x PE"
         }
       ]
     },
     {
-      "topic": "Robotics & Physical AI",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "Robotics and \"Physical AI\" are emerging as significant themes, with increasing investment and deal activity, and cross-exposure to humanoid development. ON Semiconductor's acquisition of Synaptics aims to build a broader physical AI/edge AI platform by integrating sensing, compute, connectivity, power, and human-machine interface capabilities.",
+      "topic": "Advanced Packaging Technologies",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "Advanced packaging technologies like Wafer-on-Wafer (WoW) 3D stacking, CoWoS, and SoIC are crucial for AI chip development, enabling enhanced bandwidth, latency, and power efficiency by stacking memory on logic wafers. TSMC is actively pursuing these technologies through collaborations with Winbond for DRAM integration and for clients like Qualcomm's next-gen AI accelerators.",
       "mentions": [
         {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2070990557078565122",
-          "text": "If you have been hearing all about robotics this weekend\n\nOr Physical AI\n\nYou need to read this report $OUST\n\nPlease bookmark + share!"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2070978037529866708",
-          "text": "I'll only set up an X subscription when I feel like I can deliver frequent, high-quality research and analysis.\n\nI'd want you guys to get *significant* ROI and value-for-money. \n\nNo trade signals unfortunately. I have strong ethical conflicts with all that. And I already manage e"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070789923108798545",
-          "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with ph"
-        }
-      ]
-    },
-    {
-      "topic": "AI Geopolitics & Regulation",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Geopolitical tensions are evident with Apple lobbying the Trump administration for clearance to buy memory chips from China's blacklisted CXMT. Concurrently, government influence on AI labs is increasing, with concerns that authorities are engineering a \"prisoner's dilemma\" to ensure compliance and control access to advanced AI models.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2070882780125315188",
-          "text": "You thought Tim Cook gave Trump a plaque with a 24-Karat gold base for no reason? https://t.co/j2HbjpyiQU"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2070833953532186754",
-          "text": "$AAPL is lobbying the Trump administration for clearance to buy memory chips from China’s CXMT, per FT.\n\nCXMT is on the Pentagon’s Chinese Military Company blacklist, but Apple is seeking relief.\n\nWorth noting: even if Apple gets clearance, it’s unclear how much this helps if CXM"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2071380238039425477",
+          "text": "TSMC has turned to Winbond Electronics for DRAM memory wafers as shortage continues, media report:\n\n-Winbond to provide DRAM wafers to be stacked on TSMC logic wafers\n\n-Work together on Wafer-on-Wafer (WoW) advanced 3D wafer stacking\n\n-Currently, TSMC WoW uses memory from SK Hyni"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2070693580155556349",
-          "text": "Apple is lobbying the Trump administration to allow it to buy memory from CXMT, according to the FT. https://t.co/dfseSjIFIk"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2070602727420285386",
-          "text": "OpenAI, Anthropic, and the Prisoner's Dilemma:\n\nThe government has the AI labs in a chokehold where it's rigged the payoffs so each one's rational move is to bend over and comply.\n\nCollectively, the labs would be better off refusing the government as a bloc where a unified front "
-        },
-        {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2070565423372747250",
-          "text": "For every SOTA model release going forward, it’s likely the government will decide which companies have access to them.\n\nBelow is from OpenAI to a company that was early access for GPT 5.6 Sol https://t.co/bvfnFHQWbQ"
-        },
-        {
-          "handle": "@Blinklebloop",
-          "url": "https://x.com/Blinklebloop/status/2070499650331627938",
-          "text": "They weren’t focused on model distillation because their revenue has been quintupling every few months.\n\nNow as they mature they will start cracking down on the Chinese. \n\nPhasing model releases.\n\nIt’s generally bad for the business, all that investment needs proper ROI.\n\nThey ne"
+          "url": "https://x.com/jukan05/status/2071366174408085902",
+          "text": ">>TSMC Teams Up with Winbond to Build a Homegrown DRAM Supply Chain for AI \n\n• Amid deepening global memory shortages, TSMC has brought Winbond into its AI chip supply chain. The two companies will collaborate on next generation WoW (Wafer on Wafer) 3D stacking technology, with W"
         }
       ]
     },
     {
-      "topic": "Foundry Capacity & Technology",
+      "topic": "Glass Substrate Demand and Investment",
       "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Foundry capacity and advanced process technologies are key bottlenecks, with Intel and Samsung's 3nm production not fully sold out, while TSMC is expanding N2/A16/N3/N5 capacity significantly. TSMC is expected to manufacture Qualcomm's data center CPUs and AI accelerators, and potentially OpenAI's Jalapeno chip, on leading-edge nodes like 3nm and 2nm.",
+      "subcategory": "glass",
+      "summary": "The glass substrate sector is seeing historic highs in fabric quotes, attracting foreign institutional investment in Taiwanese manufacturers. Samsung Electro-Mechanics is also forming a joint venture with Sumitomo Chemical to establish glass substrate production, indicating growing demand and strategic investments in this area.",
       "mentions": [
         {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2070319287798267933",
-          "text": "How are Intel Foundry and Samsung Foundry not selling out their 3nm production? Huge bottleneck. https://t.co/AGdQINAVux"
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2071239357982519633",
+          "text": "Post-July projections indicate that glass fabric quotes are highly positioned to refresh historic highs, increasingly echoing the classic blueprints of a historic memory supercycle.\n\nRegrettably, the domestic Taiwanese market remains generally indifferent to the glass fabric sect"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2071177572910850097",
+          "text": "Korean media reported that Samsung Electro-Mechanics is expected to sign a formal agreement this week with Sumitomo Chemical to establish a glass substrate JV.\n\nThe two companies will invest KRW 500 billion, or about USD 320 million, to set up the entity. Samsung Electro-Mechanic"
+        },
+        {
+          "handle": "@vlmkapital",
+          "url": "https://x.com/vlmkapital/status/2070805911216509370",
+          "text": "$P4O\n\nPlanOptik completely re-did their website just recently, here's some nice material from their glass substrate section (link in comments): https://t.co/X0yvNtCGUk"
         }
       ]
     },
     {
-      "topic": "Advanced Packaging Innovations",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "Advanced packaging technologies like CoWoS and SoIC are seeing rapid expansion, with TSMC reporting 98% yield for CoWoS 5.5x reticle size in mass production and projecting 80% annual CAGR for CoWoS and SoIC capacity. These technologies are crucial for high-performance chips like Qualcomm's AI accelerators and OpenAI's future chips.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2070311441832550812",
-          "text": "TSMC is expected to manufacture Qualcomm’s Dragonfly C100 data center CPUs and AI300 AI accelerator chips on 3nm/2nm and use CoWoS or SoIC advanced packaging, media report. $TSM $QCOM #semiconductor https://t.co/P0pdqbRnWp"
-        }
-      ]
-    },
-    {
-      "topic": "Space Sector Dynamics",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "The space sector is experiencing significant activity and headwinds, including SpaceX's NASDAQ-100 inclusion and its IPO impacting other space proxies like Rocket Lab. Broader macro factors like hawkish Fed rates, along with specific events like the Blue Origin explosion, are creating volatility for high-beta, long-duration space names.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2070978037529866708",
-          "text": "I'll only set up an X subscription when I feel like I can deliver frequent, high-quality research and analysis.\n\nI'd want you guys to get *significant* ROI and value-for-money. \n\nNo trade signals unfortunately. I have strong ethical conflicts with all that. And I already manage e"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2070723672705581070",
-          "text": "I covered Starlink(SpaceX) Optical Comm and their approach previously based on their public technical presentation and job postings.\n\nLink: https://t.co/ez8fC56zZT\n\nAs per Serenity's finding, $SPCX just acquired an optical networking startup.\n\nOptics sector should grow more and m"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070691462354993543",
-          "text": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE is one of the more startup friendly plaus"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2070670718937833936",
-          "text": "*NASDAQ SAYS SPACEX TO JOIN NASDAQ-100 INDEX BEGINNING JULY 7\n\nAs the prophecy foretold https://t.co/uCpZEcRhak"
-        }
-      ]
-    },
-    {
-      "topic": "Macroeconomic & Market Sentiment",
+      "topic": "Macro Market Sentiment and Rebalancing",
       "category": "out_of_ai",
       "subcategory": "macro",
-      "summary": "Economists warn of significant global economic losses from a strengthening El Niño, while US online spending exceeded estimates during Prime Day. Market sentiment is characterized by rebalancing, \"AI bubble\" discussions, and concerns over potential Fed rate hikes, leading to a choppy environment where traders consider adapting strategies or holding cash.",
+      "summary": "The broader market is experiencing significant rebalancing and mechanical selling, with hedge funds rapidly offloading US equities, particularly in Info Tech and Communication Services. Market sentiment is characterized by anxiety, with ongoing debates about an 'AI bubble' and concerns over potential rate hikes, while geopolitical events impacting oil prices also drive macro-level trades.",
       "mentions": [
         {
-          "handle": "@investingluc",
-          "url": "https://x.com/investingluc/status/2071014966438605082",
-          "text": "My positions need a catalyst.\n\nTwo types:\n1) defined catalyst, 2) undefined catalyst.\n\nDefined catalyst:\n- happens on a known date or within a known window\n- you know what you’re waiting for\n\nexample\n- spacex ipo\n- product launch\n- earnings\n\nUndefined catalyst\n- you know what cou"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2070938524300505496",
-          "text": "Citigroup economists warn a strengthening El Niño could cause $3T-$7T in global economic losses over the next five years.\n\nA “super El Niño” scenario could equal 6.4% of global GDP, with risks to agriculture, infrastructure and productivity as NOAA expects conditions to intensify"
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2071336964746285506",
+          "text": "Last week, hedge funds sold stocks at the fastest pace since the week of Liberation Day in early April last year, per GS:\n\n“HFs net sold US equities for a second straight week and at the fastest pace since the week of Liberation Day (-2.3 SDs 1-year), driven by short-and-long sal"
         },
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2070819256191635789",
-          "text": "Three random themes & analysis:\n\n1. Offshore drilling\n2. Salmon\n3. Airlines\n\nThese aren't multi-year stories like AI, humanoids or space. But are instead catalyst driven, short term trades.\n\nHigh level notes:\n\n1. Offshore drilling \n\nOffshore drilling equities trade like distresse"
+          "url": "https://x.com/ParadisLabs/status/2071329156571468144",
+          "text": "Personally went long on Airlines mid-June.\n\nSpecifically a basket of:\n1. $DAL (Delta)\n2. $UAL (United)\n3. $ALK (Alaska)\n\nIt's a very simple thesis, and based around my Paradis Macro Reports:\n\n- On June 14th Shehbaz Sharif (Pakistan PM) announced that the US + Iran had finalized a"
         },
         {
           "handle": "@Yeah_Dave",
           "url": "https://x.com/Yeah_Dave/status/2070594780921512355",
           "text": "I don't think we're all going to die.\n\nThis selling looks mostly mechanical/rebalancing, plus the usual quarterly \"is AI a bubble\" rehash &amp; boomers freaking out over unlikely hikes. Anxious narratives pile on from there.\n\nSelling into one MA, buying another. Still healthy to "
-        },
+        }
+      ]
+    },
+    {
+      "topic": "ASIC and Custom AI Chip Development",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "The market for custom AI ASICs and high-performance AI accelerators is seeing significant activity, with TSMC manufacturing Qualcomm’s AI300 chips and Cerebras ($CBRS) gaining validation through its partnership with OpenAI for frontier model deployment. Long-term agreements for chips like NVIDIA's Blackwell B300 also indicate strong demand.",
+      "mentions": [
         {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2070561780082888736",
-          "text": "AI is super exciting, but there’s still a whole market out there that’s getting less attention because of it.\n\nWe took a detour from bottlenecks and data centers to find the best setups that have nothing to do with artificial intelligence:\n\nhttps://t.co/TdXJYQ6dDF"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2071323314946236499",
+          "text": "LTAs for B300s are between $1.8-$3/hr"
         },
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070536700519178493",
-          "text": "Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest rates through year-end (no rate hikes). \n\nMichael Gapen said incoming data since the June FOMC meeting has made it \"marginally more comfortable\" in its no-hike baseline. https://t.co/9OL7od94JP"
-        }
-      ]
-    },
-    {
-      "topic": "PCB Supply Chain: Glass Substrate",
-      "category": "sectors",
-      "subcategory": "glass",
-      "summary": "The PCB supply chain is experiencing a supercycle, with critical friction concentrated in upstream components. Specifically, a substantial supply deficit in glass fabric is noted, making it a more severe bottleneck than copper foil.",
-      "mentions": [
-        {
-          "handle": "@vlmkapital",
-          "url": "https://x.com/vlmkapital/status/2070805911216509370",
-          "text": "$P4O\n\nPlanOptik completely re-did their website just recently, here's some nice material from their glass substrate section (link in comments): https://t.co/X0yvNtCGUk"
-        },
-        {
-          "handle": "@pcbanalysis",
-          "url": "https://x.com/pcbanalysis/status/2070300551867478321",
-          "text": "Regarding the segments within the PCB supply chain currently experiencing a Supercycle, the critical friction is heavily concentrated in the upstream ecosystem—specifically across glass fabric, copper foil, and Copper Clad Laminate. Notably, our channel checks indicate that the s"
-        }
-      ]
-    },
-    {
-      "topic": "PCB Supply Chain: ABF Substrate",
-      "category": "sectors",
-      "subcategory": "abf_substrate",
-      "summary": "The IC substrate sector, including ABF substrate, is riding a hyper-cyclical wave driven by relentless capacity constraints. This contributes to the critical friction observed across the broader PCB supply chain.",
-      "mentions": [
-        {
-          "handle": "@pcbanalysis",
-          "url": "https://x.com/pcbanalysis/status/2070300551867478321",
-          "text": "Regarding the segments within the PCB supply chain currently experiencing a Supercycle, the critical friction is heavily concentrated in the upstream ecosystem—specifically across glass fabric, copper foil, and Copper Clad Laminate. Notably, our channel checks indicate that the s"
-        }
-      ]
-    },
-    {
-      "topic": "CPU Market Dynamics",
-      "category": "sectors",
-      "subcategory": "cpu",
-      "summary": "CPU server demand is driven by refresh cycles and agentic AI, with an interesting trend showing MediaTek's market cap nearing Qualcomm's. Qualcomm is also developing Dragonfly C100 data center CPUs and AI300 AI accelerators.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2070800684325179899",
-          "text": "Recommended reads for the week\n\nSemiAnalysis — China’s CXMT Is Set to Challenge DRAM Incumbents\nGoldman Sachs — Americas Technology: Hardware — Expert Network Series: CPU Server Demand Driven by Refresh, Agentic AI\nMorgan Stanley — Old Memory: Better to Buy More\nJ.P. Morgan — Fir"
+          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
+          "text": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS.\n\nAt up to 750 tokens/sec, which is obscene performance.\n\nAmerican inference go brrr.\n\nI actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after"
         },
         {
           "handle": "@dnystedt",
@@ -320,43 +289,15 @@
       ]
     },
     {
-      "topic": "Datacenter Power Infrastructure",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "A significant trend is the increasing construction of behind-the-meter power generation assets for datacenters, driven by the limitations of the US electrical grid, despite the higher associated costs and complexity.",
+      "topic": "Crypto Market Transition",
+      "category": "out_of_ai",
+      "subcategory": "crypto",
+      "summary": "The cryptocurrency market is undergoing a transition from an attention-driven asset to a utility-based infrastructure asset, experiencing 'growing pains' and a shift in its core demographic's focus. Bitcoin is predicted to remain in a frustrating chop phase until mid-2027 before a more sustainable leg up.",
       "mentions": [
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2070800684325179899",
-          "text": "Recommended reads for the week\n\nSemiAnalysis — China’s CXMT Is Set to Challenge DRAM Incumbents\nGoldman Sachs — Americas Technology: Hardware — Expert Network Series: CPU Server Demand Driven by Refresh, Agentic AI\nMorgan Stanley — Old Memory: Better to Buy More\nJ.P. Morgan — Fir"
-        },
-        {
-          "handle": "@dylan522p",
-          "url": "https://x.com/dylan522p/status/2070238284413042875",
-          "text": "People don't quite understand how many behind the meter power generation assets are being built for datacenters because the US Grid sucks, despite the higher cost and complexity."
-        }
-      ]
-    },
-    {
-      "topic": "Custom AI ASICs",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Custom AI ASICs are gaining prominence, exemplified by Cerebras Systems' differentiated wafer-scale architecture for inference workloads. OpenAI is reportedly launching its GPT-5.6 Sol model on Cerebras and is rumored to be developing its own \"Jalapeno\" AI inference chip with TSMC.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2070754658868687086",
-          "text": "Kinda nutty OpenAI’s is launching its heavyweight 5.6 Sol frontier model on $CBRS.\n\nAt up to 750 tokens/sec, which is obscene performance.\n\nAmerican inference go brrr.\n\nI actually picked up starter positions on Cerebras for the first time in the ~170s (below $185 IPO price) after"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2070713893853249835",
-          "text": "$CBRS Cerebras Systems: Wafer-Scale Scaling and OpenAI Execution Strategy. Investment Thesis. New: 6/26/26.\n\nCerebras Systems has built a genuinely differentiated architecture in a market where differentiation is increasingly difficult to claim credibly. Wafer-scale integration p"
-        },
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2070310715555238111",
-          "text": "Rumor: OpenAI’s new Jalapeno AI inference chip will be made by TSMC on 3nm, while the Jalapeno2 will use A16 and CoWoS advanced packaging, media report. $TSM $AVGO #OpenAI #semiconductors https://t.co/wK1f2CBWze"
+          "handle": "@investingluc",
+          "url": "https://x.com/investingluc/status/2071377352030855674",
+          "text": "I wrote this piece 6 months ago. 1M+ impressions.\n\nIt's been spot on. The weakness in $BTC is cultural. Attention has relocated. Its core demographic (at least the early adopters) has options now.\n\nPredication markets. Perps. 24/7 stock trading. Options. Sports. All competing for"
         }
       ]
     }
