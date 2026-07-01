@@ -1,242 +1,192 @@
 {
-  "generated_at": "2026-06-30T00:12:16+00:00",
-  "tweet_count": 85,
-  "account_count": 23,
+  "generated_at": "2026-07-01T00:14:14+00:00",
+  "tweet_count": 70,
+  "account_count": 20,
   "themes": [
     {
-      "topic": "Memory LTAs and Structural Change",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Memory suppliers like Samsung, SK Hynix, Micron, Kioxia, and SanDisk are signing 3-5 year Long Term Agreements (LTAs) with customers, often including price floors, ceilings, and upfront payments, indicating a structural shift towards sustained high margins in the memory business. Bernstein raised SanDisk's PT to $3000 based on these new LTA terms.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2071745275325190339",
-          "text": "KIS: On Memory LTAs\n\nWith suppliers' commodity DRAM operating margins already at 80% and gross margins above 90%, prices cannot be raised endlessly on supply and demand dynamics alone. What matters is that at price levels where supplier operating margins exceed 80%, it was the cu"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2071694396517753220",
-          "text": "Bernstein raises their $SNDK price target to $3000, arguing that the new LTAs are different due to (1) prices fixed or range bound; (2) upfront financial commitments to lock-in customers and protect downside; and (3) long contract terms (3-5 years)\n\n$3000 price target based on 11"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2071559653578756423",
-          "text": "\"Won't $MU be f*cked if CXMT dump cheap DRAM into the market?\"\n\nLol, no.\n\nReuters - \"China's CXMT wins $3B memory supply deal with Tencent\"\n\nCXMT also \"in discussions\" with other companies on similar LTAs e.g. Alibaba, ByteDance, Lenovo and Xiaomi.\n\nAlso, touching on $AAPL quickl"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2071436517881544970",
-          "text": "Weekly|GLM 5.2, Memory Crowding Out Others, LLM Deep Dive, $MU  Super-Cycle, $NBIS  Re-Rating, Optics Moat Intact, Orbital DC Reality Check\n\nOne of the questions that set the tone this week was whether China’s open-source models have started to hollow out frontier pricing power. "
-        }
-      ]
-    },
-    {
-      "topic": "Humanoid Robotics Market and Supply Chain",
+      "topic": "Agility Robotics' Digit Humanoid Commercialization and Supply Chain",
       "category": "out_of_ai",
       "subcategory": "robotics",
-      "summary": "The humanoid robotics sector is gaining validation, with companies like Agility Robotics securing large orders and General Motors replacing workers with robots. While Korea aims to lead the non-China supply chain, investment opportunities are challenging due to private companies or diluted exposure within conglomerates.",
+      "summary": "Agility Robotics' Digit v4 humanoid is gaining commercial traction with deployments at Amazon and others, benefiting from Schaeffler's crucial role as an actuator supplier and investor. The company is set for a NASDAQ listing via $CCXI, with plans for mass production of V5 and a focus on US-sourced components.",
       "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2072056946870653016",
+          "text": "Yeah, I've got positions in $CCXI for exposure to Agility.\n\nI do believe that they're one of the best humanoid producers globally ex-China.\n\nEspecially their current Digit v4 commercial humanoid which has one of the best spec sheets worldwide.\n\nSome important points on Agility's "
+        },
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2071730699363881241",
-          "text": "For robotics companies, I have a favorable view on Unitree and Agility Robotics, two humanoid players. \n\nAnd I have largest concentration in Agility Robotics, since I personally prefer US humanoid players. \n\nFor upstream component exposure, I currently own:\n\n- Harmonic Drive (632"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2071677583393984817",
-          "text": "$CCXI / $AGLT Agility Robotics has massive potential\n\nBut there is so much we need to un pack\nAnd so much we need to watch for\n\nI posted a full deep dive this morning, similar to my $OUST one on Saturday\n\nHere’s what the full report covers:\n\n1 - Why the humanoid theme is hard to "
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2071548585850622265",
-          "text": "Pretty tough to find compelling opportunities across the Korea humanoid supply chain rn.\n\nMany bleeding edge companies are either:\n1. Private\n2. Buried deep within large conglomerates\n\nFor example, Wonik Robotics (030530):\n\n- They make the world's most widely adopted / research-g"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2071510555517768107",
-          "text": "Semiconductors, memory, and optics were much easier for me to build conviction in early because they directly overlap with my professional background, and they are topics constantly discussed within my network of hundreds of industry people.\n\nBut recently, I have also been studyi"
+          "url": "https://x.com/aleabitoreddit/status/2071995924172394695",
+          "text": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating in sites like Amazon. And have V5 slated "
         }
       ]
     },
     {
-      "topic": "CXMT's Role in Memory Market and Impact on Micron",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "China's CXMT secured a $3B memory supply deal with Tencent and is in talks with other Chinese firms. Analysts believe it's unlikely Apple will purchase DRAM from CXMT, as the Chinese government would likely prioritize domestic demand, and CXMT's capacity is insufficient even for local needs, posing no immediate threat to Micron.",
+      "topic": "Harmonic Drive Systems as a Pure Play on Humanoid Actuator Content",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "Harmonic Drive Systems (HDS) is positioned as a pure play on humanoid actuator content, dominating precision strain-wave gears crucial for robot joints. The company is seeing inflecting humanoid orders and a cyclical recovery, despite competitive risks from Chinese suppliers and potential in-house designs by major players like Tesla.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2071559653578756423",
-          "text": "\"Won't $MU be f*cked if CXMT dump cheap DRAM into the market?\"\n\nLol, no.\n\nReuters - \"China's CXMT wins $3B memory supply deal with Tencent\"\n\nCXMT also \"in discussions\" with other companies on similar LTAs e.g. Alibaba, ByteDance, Lenovo and Xiaomi.\n\nAlso, touching on $AAPL quickl"
-        },
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2071505314357375275",
-          "text": "KIS’ comment on Reuters’ report regarding CXMT’s LTA:\n\n“For several reasons, it does not seem easy for Apple to purchase DRAM from CXMT. Regardless of whether the U.S. government removes CXMT from the Entity List, it now seems more likely that the Chinese government could restric"
+          "url": "https://x.com/ParadisLabs/status/2072045619313598820",
+          "text": "Paradis Stock Report: Harmonic Drive Systems (6324)\n\nFor upstream humanoid exposure. (Disclosure: I hold a position).\n\nI have mentioned HDS a few times in my humanoids article and in various comments.\n\n-> Here's my technical research article that I wrote a few months ago for a fe"
         }
       ]
     },
     {
-      "topic": "TSMC's Foundry Performance and Outlook",
+      "topic": "Specialized AI Models Outperform Generalist LLMs in Financial Workflows",
       "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC's Q2 gross margin is expected to near 70%, surpassing guidance, with Q3 revenue projected to rise 10% sequentially. The company's full-year 2026 revenue guidance is also anticipated to be raised from over 30%.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2071380432856473963",
-          "text": "TSMC’s 2nd quarter gross margin is seen nearing 70% – beating guidance – when it reports July 16 at its quarterly conference, media report:\n\nQ3 revenue is expected to rise 10% vs Q2 as TSMC’s string of record-breaking quarterly revenue continues. \n\nTSMC full-year 2026 revenue gui"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC-Winbond Wafer-on-Wafer (WoW) Collaboration",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "Due to ongoing memory shortages, TSMC is collaborating with Winbond Electronics for DRAM memory wafers and Wafer-on-Wafer (WoW) advanced 3D stacking. WoW is a critical AI technology for improving bandwidth, latency, and power efficiency by stacking memory on logic chips.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2071380238039425477",
-          "text": "TSMC has turned to Winbond Electronics for DRAM memory wafers as shortage continues, media report:\n\n-Winbond to provide DRAM wafers to be stacked on TSMC logic wafers\n\n-Work together on Wafer-on-Wafer (WoW) advanced 3D wafer stacking\n\n-Currently, TSMC WoW uses memory from SK Hyni"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC-ShunSin Partnership for Optical Engines",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "TSMC has partnered with ShunSin Technology, a Foxconn subsidiary, for Fiber Array Unit (FAU) and Grating Coupling work on its COUPE optical engine platform. ShunSin anticipates double-digit revenue growth and is developing advanced CPO and NPO solutions.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2071396047046504509",
-          "text": "TSMC has tapped ShunSin Technology, a Foxconn chip packaging & testing subsidiary, for Fiber Array Unit (FAU) and Grating Coupling work as part of its COUPE optical engine platform, media report, citing ShunSin Chairman Shang-Yi Chiang, former head of R&D at TSMC. \n\n-Two former T"
-        }
-      ]
-    },
-    {
-      "topic": "Wafer Fab Equipment (WFE) Sector Strength",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "The Wafer Fab Equipment (WFE) sector is showing strong performance, with demand for DUVi, etch, and deposition tools expected to drive significant growth in WFE sub-systems over the next two years.",
+      "subcategory": "software",
+      "summary": "Research from Thinking Machines and Bridgewater's AIA Labs demonstrates that specialized AI models, fine-tuned on expert financial judgment, significantly outperform generalist LLMs like GPT or Gemini in narrow financial workflow tasks at lower inference costs. The key is capturing tacit pattern recognition through carefully labeled examples and disagreement routing.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2071653561310560485",
-          "text": "$AMAT $KLAC $LRCX $ASML WFE lighting it up again today. https://t.co/YtjnIpc65f"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2071529663936319559",
-          "text": "Everyone is fighting for the same DUVi, etch/deposition tools\n\nWFE sub systems are going to rip hard in the next 2 years"
+          "url": "https://x.com/TheValueist/status/2072086946789134826",
+          "text": "$NVDA $MU $SNDK $LITE Differentiated Intelligence: Scaling Expert Judgment Through Financial Model Customization. Learnings from Bridgewater and Thinking Machines.\n\nResearch from Bridgewater and Thinking Machines demonstrates that specialized AI models trained on expert financial"
         }
       ]
     },
     {
-      "topic": "Corning (GLW) Glass Substrate Thesis",
-      "category": "sectors",
-      "subcategory": "glass",
-      "summary": "Corning (GLW) is showing significant strength, with its glass substrate thesis playing out. The company's performance is being highlighted by analysts, reinforcing confidence in its market position.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2071640840548814923",
-          "text": "$GLW absolutely insane strength\n\nSo glad to see the thesis playing out.\n\nIt took a little bit. But the reward is worth it!"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2071241970245390739",
-          "text": "So fun.\nI watched this talk today lol\nPersonally, I love $GLW https://t.co/U6YHR1Zk1g"
-        }
-      ]
-    },
-    {
-      "topic": "Rising Memory Prices Squeezing Other Semi/Hardware Margins",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Rising memory prices have begun to squeeze the margins of other semiconductor and hardware names, including AI beneficiaries, a trend that has spread beyond consumer electronics to impact the broader AI, semi, and hardware sectors.",
-      "mentions": [
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2071436517881544970",
-          "text": "Weekly|GLM 5.2, Memory Crowding Out Others, LLM Deep Dive, $MU  Super-Cycle, $NBIS  Re-Rating, Optics Moat Intact, Orbital DC Reality Check\n\nOne of the questions that set the tone this week was whether China’s open-source models have started to hollow out frontier pricing power. "
-        }
-      ]
-    },
-    {
-      "topic": "Memory Price Hikes and Impact on Apple",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Apple is reportedly facing challenges due to rising memory prices, but simultaneously, it may gain global market share as a result of these same price hikes, indicating a complex and mixed impact.",
-      "mentions": [
-        {
-          "handle": "@rwang07",
-          "url": "https://x.com/rwang07/status/2071355590757191988",
-          "text": "Next year and maybe now already $AAPL fight their life just to get enough LP against NV 😂"
-        }
-      ]
-    },
-    {
-      "topic": "US Frontier AI Models Maintain Edge over Chinese",
+      "topic": "PENG's Role as NVIDIA AI Factory Partner and Sovereign AI Cluster Deployment",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Leading U.S. frontier AI models maintain a clear edge over their Chinese counterparts in quality and intelligence. Enterprises are unlikely to ditch established models like OpenAI and Anthropic for Chinese alternatives due to scale and compute limitations.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2071571547928838631",
-          "text": "Utter nonsense.\n\nNot all tokens are created equal. The quality and intelligence behind each token vary, and the outputs of leading U.S. frontier models still maintain a clear edge over their Chinese counterparts.\n\nSome people ask, “Why drive a Lamborghini just to go grocery shopp"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2071511133362754018",
-          "text": "\"American and European enterprises will ditch OpenAI and anthropic and adopt Chinese models.\"\nI love fireworks, Nebius et al\nBut they don't have the scale or compute required to support this"
-        }
-      ]
-    },
-    {
-      "topic": "Anthropic-Amazon Deal Renegotiation",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "The relationship between Anthropic and Amazon appears strained, with Anthropic renegotiating Claude usage pricing from compute hours to tokens. This follows Amazon's substantial investment and Anthropic's Trainium commitment, potentially leading Amazon to reduce Claude reliance.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2071642908936065420",
-          "text": "LOL, this Anthropic x Amazon relationship seems toxic af:\n\n1. Amazon -> Anthropic: ~$33B committed investment ($13B + up to $20B in future).\n\n2. Anthropic -> Amazon: $100B+ / 10-yr Trainium commitment.\n\n3. Amazon flag security holes in Fable 5.\n\n4. Anthropic now re-negotiate elem"
-        }
-      ]
-    },
-    {
-      "topic": "GLM 5.2 Performance and Open-Source AI Model Competition",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "GLM 5.2 is performing comparably to frontier models like Opus 4.6-4.8, with the gap compressing as third-party token routers enable open-source labs to acquire RL datasets. This makes GLM 5.2 \"good enough for the agent workload\" for a widening set of tasks.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2071701492667424912",
-          "text": "$NVDA $MU $SNDK $LITE Read our write-ups on deploying GLM 5.2 NVFP4."
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2071436517881544970",
-          "text": "Weekly|GLM 5.2, Memory Crowding Out Others, LLM Deep Dive, $MU  Super-Cycle, $NBIS  Re-Rating, Optics Moat Intact, Orbital DC Reality Check\n\nOne of the questions that set the tone this week was whether China’s open-source models have started to hollow out frontier pricing power. "
-        }
-      ]
-    },
-    {
-      "topic": "BlackBerry QNX Software Model and Expansion",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "BlackBerry's QNX software-only model is benefiting from high margins despite HBM cost pressures, as Nvidia and Qualcomm standardize vehicle compute platforms on QNX. The company is also expanding QNX into robotics, medical devices, and industrial automation.",
+      "summary": "PENG is experiencing a strong rally due to its status as an NVIDIA AI Factory Specialized Partner and its successful deployment of Korea's Haein sovereign AI cluster. The company is also pursuing new sovereign AI contracts in the Middle East, Southeast Asia, and Europe.",
       "mentions": [
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2071617100838293819",
-          "text": "$BB CEO was on Bloomberg this morning \n\nInterviewer asked about memory cost pressures. Apple and Microsoft are raising prices because of HBM. The CEO didn't flinch:\n\n\"The beauty of our model is we sell the software only directly. Now that we're a software and services only play, "
+          "url": "https://x.com/KawzInvests/status/2071982559085363708",
+          "text": "$PENG has been experiencing a strong rally ahead of earnings July 7. Some recent catalysts have been:\n\n> Became an invitation-only NVIDIA AI Factory Specialized Partner. Validates $PENG as one of the few NVIDIA AI factory execution partners globally.\n\n> Brought Korea's Haein sove"
+        }
+      ]
+    },
+    {
+      "topic": "PENG's CXL KV Cache Server and Photonic Memory Appliance Development",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "PENG has launched the industry's first production-ready CXL KV Cache Server for a Tier 1 financial institution and is developing a photonic memory appliance with Marvell, combining photonic interconnects with their CXL KV cache stack for next-gen inference memory architecture.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2071982559085363708",
+          "text": "$PENG has been experiencing a strong rally ahead of earnings July 7. Some recent catalysts have been:\n\n> Became an invitation-only NVIDIA AI Factory Specialized Partner. Validates $PENG as one of the few NVIDIA AI factory execution partners globally.\n\n> Brought Korea's Haein sove"
+        }
+      ]
+    },
+    {
+      "topic": "Samsung Files Patent for Novel Dummy Die Structure in High Stack HBM",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Samsung Electronics has filed a patent for a novel dummy die structure, featuring a three-tier stepped plus curved design and deep groove sawing, aimed at solving reliability problems like delamination, cracking, and warpage in high stack HBM4E and HBM5 packages to improve yield and stability.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2071907884737482807",
+          "text": "Samsung Electronics Pushes Next Generation HBM Structural Change… Files Novel Patent for High Stack Response\n\nSamsung Electronics has been confirmed to have filed a new patent aimed at solving the reliability problems of high bandwidth memory (HBM) packages. As the high stack era"
+        }
+      ]
+    },
+    {
+      "topic": "TrendForce Revises Up Q3 2026 PC and Server DRAM Price Forecasts",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "TrendForce has revised its Q3 2026 PC DRAM contract price growth forecast upwards to 15-20% QoQ (from 8-13%) and its Q3 2026 server DRAM forecast to 13-18% QoQ, indicating stronger-than-expected price increases.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2071875242365157763",
+          "text": "TrendForce:\n\n3Q26 PC DRAM contract price growth has been revised up from the previous forecast of +8–13% QoQ to +15–20% QoQ. The 4Q26 forecast was also revised up from +0–5% to +3–8%.\n\n3Q26 server DRAM contract prices are expected to rise by 13–18% QoQ.\n\n$DRAM $MU"
+        }
+      ]
+    },
+    {
+      "topic": "Micron's Strategic Customer Agreements & Business Model Change",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Micron signed 16 strategic customer agreements for DRAM and NAND, representing roughly 20% of DRAM and 1/3 of NAND volume, with $100B in remaining performance obligations. This signifies a business model change towards longer-term contracts and improved visibility, despite ongoing cyclicality concerns.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2072106224594587883",
+          "text": "$SNDK $MU $INTC $WDC EXECUTIVE OVERVIEW\n\nThe MarketWatch/LSEG dataset describes an H1 2026 U.S. equity market with moderate headline index appreciation, extreme single-stock dispersion, and unusually concentrated leadership in AI infrastructure supply chains. The S&P 500 rose 9.5"
+        }
+      ]
+    },
+    {
+      "topic": "Sandisk Enterprise SSD Earnings Reset and QLC Revenue",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Sandisk's stock surged 858% due to a 987% EPS estimate increase, driven by strong datacenter revenue from TLC-based enterprise SSDs and expected QLC Stargate solutions. The company's valuation reflects a major NAND earnings reset and its position as a scarce enterprise SSD supplier.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2072106224594587883",
+          "text": "$SNDK $MU $INTC $WDC EXECUTIVE OVERVIEW\n\nThe MarketWatch/LSEG dataset describes an H1 2026 U.S. equity market with moderate headline index appreciation, extreme single-stock dispersion, and unusually concentrated leadership in AI infrastructure supply chains. The S&P 500 rose 9.5"
+        }
+      ]
+    },
+    {
+      "topic": "Optical Demand Remains Strong Despite NVIDIA NVL72 Copper Interconnects",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "The market's interpretation of NVIDIA's NVL72 as shrinking optical demand is only partially correct; while copper handles scale-up inside the rack, scale-out optical demand remains strong, tracking GPU count one-for-one. This is reinforced by compute utilization being written into contracts, driving demand for optical modules and test equipment.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2071965106502578671",
+          "text": "The market read NVIDIA's NVL72 as shrinking optical demand. That is only half the story. Copper is a scale-up story inside the rack. Outside the rack, scale-out optical demand still tracks GPU count one for one. And SpaceX just started renting out compute instead of selling it. R"
+        }
+      ]
+    },
+    {
+      "topic": "Rethinking NVIDIA's CUDA Moat Amid AI Agent-Driven Migration Cost Compression",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "A report re-evaluates NVIDIA's CUDA moat, noting its three layers (developer ecosystem, libraries, compiler) and how AI coding agents are compressing migration costs to alternatives like CANN or ROCm. This suggests CUDA's premium may be shifting from structural lock-in to execution speed, as tools like Triton and AI-generated kernels reduce its mandatory nature.",
+      "mentions": [
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2071822556785729865",
+          "text": "Deep| $NVDA : Rethinking NVIDIA's Moat in the AI Stack\nApr 23, 2026\n\nHere’s our in-depth report on CUDA published in April. I think it’s worth reading more carefully now.\n\nMargin premium under scrutiny: NVIDIA’s Data Center business now dominates revenue, with GPU chip-level gros"
+        }
+      ]
+    },
+    {
+      "topic": "NVIDIA's Feynman Platform to Adopt 3D Stacking (SoIC)",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "NVIDIA is reportedly planning to adopt 3D stacking (SoIC) for its Feynman platform, potentially stacking reticle-sized GPU dies on active interposers. This move, if successful, could cement NVIDIA's AI computing dominance and trigger an unprecedented scramble for TSMC's SoIC capacity, despite thermal and yield challenges.",
+      "mentions": [
+        {
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2071879469439365531",
+          "text": "Nomura: at GTC, $NVDA unveiled the plan to adopt 3D stacking starting from the Feynman platform (report ).\n\nCurrently, AMD leads the adoption of SoIC at TSMC (starting from MI300- series), and in the latest MI450, we believe AMD stacks four top dies (four XCD) on two reticle-size"
+        }
+      ]
+    },
+    {
+      "topic": "OpenAI Reserves All Cerebras ASIC Capacity, Limiting Fast Inference Access",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "OpenAI has reportedly reserved all Cerebras ASIC capacity, making it inaccessible for other users seeking fast inference. This highlights the extremely limited capacity and high demand for specialized AI inference hardware.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2071961279380791729",
+          "text": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler.\n\n- Stated alternati"
+        }
+      ]
+    },
+    {
+      "topic": "Brookfield and Bloom Energy Expand AI Infrastructure Power Partnership to $25B",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "Brookfield and Bloom Energy expanded their AI infrastructure partnership fivefold to $25 billion, aiming to finance rapid power projects for AI factories. This collaboration focuses on delivering fast, reliable, and community-friendly onsite power solutions for hyperscalers and AI infrastructure developers.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2072053962010673376",
+          "text": "$BE *BLOOM ENERGY RISES 8% ON EXPANDED PARTNERSHIP WITH BROOKFIELD\n\nI'm long calendar BE -9/18/26 c480 || +1/21/28 c480. Lots more to go and must be willing and able to hold through the drawdowns.\n\nClub Valueist - get involved. It will be the best $1/month you’ll ever spend.\n----"
         }
       ]
     }
