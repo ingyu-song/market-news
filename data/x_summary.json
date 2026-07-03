@@ -1,108 +1,88 @@
 {
-  "generated_at": "2026-07-02T00:16:49+00:00",
-  "tweet_count": 84,
+  "generated_at": "2026-07-03T00:13:34+00:00",
+  "tweet_count": 88,
   "account_count": 26,
   "themes": [
     {
-      "topic": "Meta's Strategy for Excess AI Compute Capacity",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Meta is exploring a cloud business to sell excess older-generation AI compute capacity (Hopper/Blackwell) while simultaneously renting frontier capacity (Vera Rubin) from neoclouds, indicating a financialization of its GPU fleet rather than a peak in AI demand.",
+      "topic": "AI market downturn analysis and bull case",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "The current AI market downturn is attributed to Broadcom's guidance, hawkish Fed sentiment, and 'AI bubble' commentary, but underlying physical demand for wafers, HBM, CoWoS, and optics remains strong and supply-constrained. Hyperscaler capex is projected to rise, and the shift to inference-led demand suggests reliable recurring revenue, indicating the sell-off is a reset rather than a fundamental demand collapse.",
       "mentions": [
         {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2072413195432763813",
-          "text": "Alright, let's hear your takes on the $META news\n\nMostly interested in thoughts around Neoclouds and co\n\n$NBIS $IREN $WYFI $NUAI $CRWV etc."
-        },
-        {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2072364167625834728",
-          "text": "Paradis Research | $META the neocloud\n\nMeta may build a cloud business to sell excess AI compute capacity.\n\nTLDR: \n- $META selling excess compute because they literally have no roadmap to use old gen capacity\n- This is not bearish for neoclouds like $NBIS \n- $META would instead d"
+          "url": "https://x.com/ParadisLabs/status/2072770581225693234",
+          "text": "Need help building some conviction in your AI names during this market downturn?\n\nRead this post. Bookmark it. Come back to it.\n\nLet Paradis guide you:\n\nIn my view, AI names are broadly down for a few reasons:\n1. The market viewed $AVGO earnings + guidance as decelerating growth."
         },
         {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2072328783718412787",
-          "text": "Research| $META : Building a NeoCloud and Continuing to Rent Capacity are not Contradictory\n\nNot a contradiction: Meta considering external commercialization of surplus AI compute does not mean its AI compute demand has peaked. Meta is still locking in major new capacity, includi"
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2072762644181000663",
+          "text": "$NVDA $MU $SNDK $LITE Momentum, especially GAI-related, is getting rocked multiple days in a row. One of the key reasons I have been such a strong advocate for using long-dated calendar spreads to gain long exposure to GAI infrastructure names. I have no doubt that the stock pric"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2072760446617280650",
+          "text": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -13.8%\n$GLW down -11.4%\n$MRVL down -11.2%\n"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2072738063084843421",
+          "text": "I strongly agree with his view.\n\nIn fact, Meta’s cloud ambitions have been discussed since January. Looking back, the market may have simply been looking for a reason to cool off after such a heated run.\n\nThe optical sector has rallied hard over the past year. If it is going to k"
         },
         {
           "handle": "@TMT_Jack_",
           "url": "https://x.com/TMT_Jack_/status/2072321680773460079",
           "text": "$META\n\nGood luck betting on Zuck cutting capex when they report at the end of the month"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2072318987980202376",
-          "text": "Not surprising at all. Once Zuck disbanded the FAIR team, we all knew this outcome was inevitable."
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2072314906729455876",
-          "text": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained that they had to cut allocations to Meta "
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2072304834922061951",
-          "text": "I was modeling much higher rental rates for Blackwells &amp; sustained rental rates for Hoppers\nLooks like they are about to go down"
-        },
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2072298808692834658",
-          "text": "Meta falls out of the AI race."
         }
       ]
     },
     {
-      "topic": "Micron's Structural Shift in AI Memory Economics",
+      "topic": "Samsung Foundry's resurgence and capacity allocation",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Micron is undergoing a structural transformation driven by AI, with HBM and enterprise SSDs becoming technology-specific products with sustained pricing power due to supply constraints. Strategic Customer Agreements and $200 billion investments aim to meet long-term demand, expected to remain tight beyond 2027.",
+      "subcategory": "foundry",
+      "summary": "Samsung Foundry is experiencing a strong comeback, with 4nm capacity sold out through next year and 8nm processes at full utilization, leading to selective order taking for large customers and potential price hikes of 15-20%.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072373261917139371",
-          "text": "$MU Micron and the Structural Transformation of AI Memory Economics. Investment Thesis. New: 7/1/26.\n\nMicron Technology is in the midst of a structural transition that goes beyond the typical memory cycle recovery narrative. Record financial results and exceptional margins reflec"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2072613106237550893",
+          "text": "Samsung Foundry has really made a full comeback. It feels surreal seeing how much things have changed.\n\n- Samsung Foundry is seeing so many customers pile in that Samsung is now screening customers, favoring large ones.\n\n- Samsung's 4nm is already sold out through next year's cap"
         },
         {
           "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2072355530824139126",
-          "text": "Added some $FRMI and $KEEL here, both very cheap on a $ EV per MW basis - thesis is that simple.\n\nMajority of my money remains in memory though, demand due to more than 5.00x by 2030 whilst supply only doubles. I think all memory stocks should comfortably deliver 4.00x+ (more lik"
-        },
-        {
-          "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2072177167824544156",
-          "text": "Pretty inevitable we get a memory efficiency breakthrough. The cartel built a pressure cooker the whole world is now racing to solve so AI can keep scaling.\n\nWith robotics, memory demand only leaps further. Have to stay nimble with the memory names in the meantime\n$DRAM $SNDK $MU"
-        },
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2072165044213916005",
-          "text": "Micron CEO Sanjay Mehrotra sat down with Jim Cramer on CNBC to talk chips. \n\nKey comments:\n\n“Micron is firing on all cylinders.”\n\n“Every AI system, regardless of the device it is in, requires more memory at higher performance in order to really bring out the full potential of AI "
+          "url": "https://x.com/AlmaCap114204/status/2072737771660218804",
+          "text": "No surprises here, I have been calling that Samsung Foundry will make a full comeback for some time now (and that they will execute on HBM4e)\n\nPrice action will eventually follow fundamentals - this dip is a gift!"
         }
       ]
     },
     {
-      "topic": "AI Infrastructure Co-Design & Stack Optimization",
+      "topic": "Coherent (COHR) secures 6-inch InP wafer supply from AXT (AXTI)",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "The AI infrastructure market is shifting towards full-stack co-design, optimizing model architecture, compiler/runtime, accelerator topology, memory, power, and data center design for total system efficiency. This favors entities with control across layers like NVIDIA, Google, and AWS.",
+      "subcategory": "optical",
+      "summary": "Coherent signed a 3-year Master Development and Supply Agreement with AXT-Tongmei for 6-inch indium phosphide (InP) wafer substrates, involving a $22.3M prepayment to secure capacity expansion at AXT's Beijing facility. This de-risks Coherent's AI optical ramp by locking in a critical upstream supply.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072334968940900744",
-          "text": "https://t.co/YP4rcCbEbh\n\n$NVDA $MU $SNDK $LITE As much as I dislike some of the things that @SemiAnalysis_ publishes and provides \"hot takes\" on, this is a damn impressive interview of @dylan522p . His grasp and depth of knowledge of the GAI infrastructure trade is outstanding. H"
+          "url": "https://x.com/TheValueist/status/2072803120984297485",
+          "text": "$AXTI $COHR Do you believe this is last InP prepayment deal that will be cut over the next 5 years? We merely getting started.\n———————-\nBOTTOM LINE: This is incrementally bullish for COHR fundamentals but more strategically important than financially material. It confirms that 6-"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2072800823462232238",
+          "text": "Nice to see $COHR locking up more 6-in supply\n\nNow I would like to know if this is for a U.S. based facility or one of their international sites\n\nWould have significant implications for the entire optics trade and $AXTI in particular"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
+          "text": "$AXTI signs 3-year wafer deal with $COHR.\n\n\"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\" https://t.co/nTkyJSMo96"
         }
       ]
     },
     {
-      "topic": "Persistent GPU Compute Scarcity & Pricing",
+      "topic": "Persistent GPU supply tightness despite misleading spot market signals",
       "category": "sectors",
       "subcategory": "gpu",
-      "summary": "Despite some misleading spot market signals, large-cloud and enterprise demand for scaled GPU compute remains tight, with AWS H100 pricing firm and B300 pricing stable. Neocloud providers report demand at 20x supply, indicating continued scarcity and potential rental price increases.",
+      "summary": "Despite some reports of lower GPU spot prices, large-cloud and enterprise demand for H100 and B300 GPUs remains strong and supply-constrained, with AWS pricing firm and neocloud providers reporting demand significantly exceeding supply.",
       "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072334968940900744",
-          "text": "https://t.co/YP4rcCbEbh\n\n$NVDA $MU $SNDK $LITE As much as I dislike some of the things that @SemiAnalysis_ publishes and provides \"hot takes\" on, this is a damn impressive interview of @dylan522p . His grasp and depth of knowledge of the GAI infrastructure trade is outstanding. H"
-        },
         {
           "handle": "@FundaAI",
           "url": "https://x.com/FundaAI/status/2072148977471164474",
@@ -111,56 +91,23 @@
       ]
     },
     {
-      "topic": "Agility Robotics Commercialization & Cost Reduction",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "Agility Robotics is gaining traction with its Digit v4 humanoid, backed by investors like Amazon and Nvidia, and is deploying robots with customers like GXO, Schaeffler, Toyota, and MercadoLibre. The company is focused on reducing BOM costs, especially for actuators, to achieve mass production scalability.",
+      "topic": "Custom AI chip proliferation and manufacturing bottlenecks",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "The proliferation of custom AI chips from hyperscalers like Meta and Amazon is highlighting persistent manufacturing bottlenecks in areas such as advanced packaging, substrates, and PCB materials, shifting the focus from chip design to the capacity required to build and package these custom silicon solutions.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
-          "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 1"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2072297444142887398",
-          "text": "Super interesting seeing everyone jumping in on the humanoid trade with $CCXI recently!\n\nJust important to remember that it's still extremely early:\n\n- Est. 2026 AI capex = ~$1 trillion\n- Est. 2026 humanoid VC funding = ~$70 billion\n\nPersonally, I'm investing early as a core beli"
+          "handle": "@Blinklebloop",
+          "url": "https://x.com/Blinklebloop/status/2072622360423702853",
+          "text": "AI chip design is becoming more modular. AI chip manufacturing is not.\n\nRecently we have seen:\n\n- Meta / MediaTek: another hyperscaler custom-chip path\n- Amazon / Alchip: ASIC design-service work keeps moving upstream\n- Huawei / Korea: non-US AI stacks are still trying to export "
         }
       ]
     },
     {
-      "topic": "Broader Robotics Market & Humanoid vs. Industrial Robots",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "While humanoids like Agility's Digit are gaining attention, some argue that the real scale in robotics will come from non-humanoid industrial robots (factory arms, warehouse movers) which can scale faster. The humanoid market is still very early, with significant VC funding but far less than overall AI capex.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2072447656883106252",
-          "text": "Physical AI is here. Now. \n$OUST $AMBA $CGNX $AEVA $VPG $CCXI \n\nI am still building out my portfolio\n\nThere are 5 companies that I am very interested in owning for the long term. \n\nThey will take up 40-50% of my Physical AI port\n\nI list them here with my levels I am watching\n\nhtt"
-        },
-        {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2072404998990741640",
-          "text": "Before the ‘29 crash forced consolidations there were hundreds of car companies in the US.\n\nRobotics will follow a similar trend. Still, in the interim, I’m pretty stoked to robot mog. \n\n“Oh you went with the &lt;perceived lower tier robot&gt;? How quaint.”"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2072353680523719167",
-          "text": "everyone’s fixated on humanoids but thats not where the real scale is. \n\nmillions of robots coming that dont look human at all, factory arms, warehouse movers, all the practical stuff. those scale way faster than humanoids ever will. $BB"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2072297444142887398",
-          "text": "Super interesting seeing everyone jumping in on the humanoid trade with $CCXI recently!\n\nJust important to remember that it's still extremely early:\n\n- Est. 2026 AI capex = ~$1 trillion\n- Est. 2026 humanoid VC funding = ~$70 billion\n\nPersonally, I'm investing early as a core beli"
-        }
-      ]
-    },
-    {
-      "topic": "MediaTek's Custom AI ASIC Business Growth",
+      "topic": "MediaTek pursuing Meta AI accelerator deal and expanding custom ASIC business",
       "category": "sectors",
       "subcategory": "asic",
-      "summary": "MediaTek is aggressively expanding its custom AI ASIC business, reportedly securing Meta as a second major client after Google (Zebrafish, Humufish, Triggerfish), with revenue expected to reach $10 billion. Qualcomm also has significant custom chip deals.",
+      "summary": "MediaTek is actively pursuing an AI accelerator chip deal with Meta and is expanding its custom ASIC business, with Google as its primary client for chips like Zebrafish and Humufish, aiming for $10 billion in revenue.",
       "mentions": [
         {
           "handle": "@dnystedt",
@@ -168,135 +115,123 @@
           "text": "MediaTek remains in the hunt for an AI accelerator chip deal with Meta, despite its announcement with Broadcom for one, media report, noting Meta’s work with Arm and Qualcomm focus on CPUs, not AI accelerators.\n-Google is MediaTek’s 1st big custom ASIC client, with Zebrafish and "
         },
         {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2072457892712890715",
-          "text": "MediaTek is going to make so much money in 28 &amp; 29"
-        },
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2072448718633316671",
-          "text": "MediaTek Reportedly Secures Meta as ASIC Customer After TPU\n\nQualcomm has formally unveiled its Dragonfly platform, loudly declaring its entry into the cloud AI market, and by leading with several product lines at once it has captured a sizable base of customers in one stroke. Me"
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2072577717158236518",
+          "text": "Agree\n_\nJPM: A key question on the durability of MediaTek’s ASIC business is $GOOGL  pursuit of a full COT (Customer Owned Tooling) business model, similar to AWS for Trainium. In the very long term, we do believe GOOG will attempt to move towards a full CoT model to take more co"
         }
       ]
     },
     {
-      "topic": "Apple's Discussions to Buy Memory from Chinese Suppliers",
+      "topic": "Micron (MU) CEO on strong, long-term memory demand and supply tightness",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "Apple is reportedly in talks to procure memory chips from Chinese suppliers CXMT and YMTC for devices sold in China, driven by AI-induced memory shortages and rising costs, despite both companies being on a Pentagon warning list.",
+      "summary": "Micron CEO Sanjay Mehrotra highlighted strong, secular long-term demand trends for memory driven by AI, projecting supply tightness beyond 2027, and discussed Micron's significant investments and strategic customer agreements to meet this demand.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2072165044213916005",
+          "text": "Micron CEO Sanjay Mehrotra sat down with Jim Cramer on CNBC to talk chips. \n\nKey comments:\n\n“Micron is firing on all cylinders.”\n\n“Every AI system, regardless of the device it is in, requires more memory at higher performance in order to really bring out the full potential of AI "
+        }
+      ]
+    },
+    {
+      "topic": "Agility Robotics' leading position in humanoid commercialization",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "Agility Robotics, accessible via CCXI, is highlighted as the leading humanoid player in the US by commercialization, with deployments in Amazon and Mercado Libre, and backed by major investors.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
+          "text": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year f"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2072447656883106252",
+          "text": "Physical AI is here. Now. \n$OUST $AMBA $CGNX $AEVA $VPG $CCXI \n\nI am still building out my portfolio\n\nThere are 5 companies that I am very interested in owning for the long term. \n\nThey will take up 40-50% of my Physical AI port\n\nI list them here with my levels I am watching\n\nhtt"
+        }
+      ]
+    },
+    {
+      "topic": "Meta's (META) NeoCloud strategy and tiered AI compute infrastructure",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Meta's NeoCloud initiative and consideration of external compute commercialization do not signal peak AI demand, but rather a shift to a tiered AI infrastructure where older GPUs are repurposed for inference while next-generation systems like GB300 remain scarce for frontier training.",
+      "mentions": [
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2072328783718412787",
+          "text": "Research| $META : Building a NeoCloud and Continuing to Rent Capacity are not Contradictory\n\nNot a contradiction: Meta considering external commercialization of surplus AI compute does not mean its AI compute demand has peaked. Meta is still locking in major new capacity, includi"
+        }
+      ]
+    },
+    {
+      "topic": "Underestimation of Chinese AI capex, ByteDance's $100B spending",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "Chinese AI capex is likely underestimated by focusing solely on big tech, with ByteDance alone projected to spend over $100B next year, and contributions from SOEs and telecom operators needing to be included.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2072642341882720294",
+          "text": "U will always get a wrong number if u try to use only Chinese big tech numbers to size AI CAPEX\nFirst, drop the loser Baidu\nSecond, add the Chinese SOEs &amp; the telecom operators\nAlso, ByteDance is spending over $100B next year"
+        }
+      ]
+    },
+    {
+      "topic": "Tesla (TSLA) caps employee AI spending at $200/week",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Tesla is reportedly implementing a $200 per week cap on AI spending for its employees, with exceptions for xAI beta products, after some software engineers were using thousands of dollars worth of AI tokens weekly.",
       "mentions": [
         {
           "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2072412176170832071",
-          "text": "$AAPL is reportedly in talks to buy memory chips from Chinese suppliers CXMT*and YMTC, per Bloomberg, following FT’s earlier report.\n\nBoth chipmakers are on a Pentagon warning list of Chinese companies believed to support Beijing’s military.\n\nApple is considering the chips for de"
+          "url": "https://x.com/wallstengine/status/2072760803649044571",
+          "text": "$TSLA reportedly told employees it will cap AI spending at $200 per week starting July 6, per The Information.\n\nSome Tesla software engineers were reportedly using thousands of dollars worth of AI tokens per week.\n\nEmployees will need approval to exceed the cap, though beta versi"
         },
         {
           "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2072409121354133970",
-          "text": "*APPLE IN DISCUSSIONS TO BUY MEMORY CHIPS FROM CHINESE COMPANIES\n\n$AAPL in negotiations to buy memory chips from CXMT and YMTC per Bloomberg https://t.co/mbJV42uUPR"
+          "url": "https://x.com/negligible_cap/status/2072760048502051168",
+          "text": "*TESLA CAPS EMPLOYEE AI SPEND AT $200/WEEK: INFORMATION\n\nThat's probably less than their food budget.. yikes"
         }
       ]
     },
     {
-      "topic": "Broad Market Downturn & Momentum Sell-off",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The market experienced a significant downturn, with many AI-related stocks down double-digits and Goldman Sachs' high-beta momentum index closing down nearly 10%, marking one of its worst days in five years.",
+      "topic": "Nvidia's Nemotron development and post-training stack",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Nvidia is actively developing its Nemotron post-training stack, having started serious efforts in Q4 last year and recently releasing Nemotron v4 Ultra, with expectations to match competitor models by Q4.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2072678513690444004",
+          "text": "To elaborate more, the reason why Nvidia can't do it anytime it wants is that they haven't completely built their post-training stack yet\nNvidia started pushing Nemotron seriously around Q4 last year\nThey have hired lots of great talent recently, but it takes time to build and in"
+        }
+      ]
+    },
+    {
+      "topic": "Ams Osram (AMS) pivots to AI photonics via MicroLED after non-optical segment sale",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Ams Osram sold its non-optical segment to Infineon for €570M to de-risk its balance sheet and fund a pivot into AI photonics, specifically MicroLED technology, which could be a beneficiary if adopted in racks.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2072425839937851713",
-          "text": "If you wanna feel more at ease:\n\nMany of my high conviction AI names are down significantly today.\n\n$NBIS: -17.1%\n$GLW: -13.6%\n$AEHR: -12.1%\n$ALAB: -10.8%\n$MU: -10.6%\n$SNDK: -10.6%\n$LRCX: -9.7%\n$INTC: -9.0%\n$MRVL: -8.7%\n\nJust for a small subset of names that I hold, and plan to k"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2072425563063542164",
-          "text": "One of those days. Things could get ugly in Korea tonight https://t.co/NsFQhtYL9i"
-        },
-        {
-          "handle": "@investingluc",
-          "url": "https://x.com/investingluc/status/2072425336424317203",
-          "text": "I've always made massive strides in very brief timeframes because I'm able to lean into bursts of hyperfocus when the markets are hot.\n\nMight be a month, might be 3 months...but there are brief periods of time when conditions are ideal and you must be obsessed.\n\nThat's what it ha"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2072343719874048235",
-          "text": "That is how the market always works.\n\nLook at what happened when Hock Tan made those copper comments. Optical names went on a massive bargain sale, and in hindsight, that was an incredible opportunity.\n\nLook back six months from now. You will remember today."
-        },
-        {
-          "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2072054035520385039",
-          "text": "This is the kind of market where you don't get to sit on your ass and wait for \"confirmation\" like a good little investor 🫠\n\nMirae 025560 https://t.co/SXEtVNoLnF"
+          "url": "https://x.com/ParadisLabs/status/2072642239105245565",
+          "text": "Ams Osram selling their non-optical/sensor segment to Infineon for €570M is a pretty key catalyst.\n\nFor balance sheet de-risking (debt halving).\n\nAnd pretty important to fuel their pivot into AI photonics (e.g. MicroLED) since names like Ayar Labs and Celestial AI all sit on hype"
         }
       ]
     },
     {
-      "topic": "GPU vs. TPU vs. Trainium Architectures & Ecosystems",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Competition among AI accelerators is not a binary GPU vs. TPU win, but rather about which hardware/software/model bundle offers the lowest cost per useful intelligence for specific workloads. NVIDIA benefits from ecosystem breadth, Google from vertical integration with TPUs, and AWS Trainium from anchor tenants like Anthropic.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072334968940900744",
-          "text": "https://t.co/YP4rcCbEbh\n\n$NVDA $MU $SNDK $LITE As much as I dislike some of the things that @SemiAnalysis_ publishes and provides \"hot takes\" on, this is a damn impressive interview of @dylan522p . His grasp and depth of knowledge of the GAI infrastructure trade is outstanding. H"
-        }
-      ]
-    },
-    {
-      "topic": "CUDA Moat Evolution & Ecosystem Gravity",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "NVIDIA's CUDA moat is evolving from a programming language advantage to an ecosystem moat, reinforced by open models, inference frameworks, and deployment defaults optimized for NVIDIA-compatible assumptions, making it harder for competitors to gain traction with superior chips alone.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072334968940900744",
-          "text": "https://t.co/YP4rcCbEbh\n\n$NVDA $MU $SNDK $LITE As much as I dislike some of the things that @SemiAnalysis_ publishes and provides \"hot takes\" on, this is a damn impressive interview of @dylan522p . His grasp and depth of knowledge of the GAI infrastructure trade is outstanding. H"
-        }
-      ]
-    },
-    {
-      "topic": "Inference Economics & Latency-Tiered Pricing",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Inference economics are segmenting into latency classes, with 'fast mode' and 'priority queue' pricing becoming rational for high-value, human-in-the-loop workflows. This means the revenue pool should be analyzed by dollars per economically valuable task, not raw tokens.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072334968940900744",
-          "text": "https://t.co/YP4rcCbEbh\n\n$NVDA $MU $SNDK $LITE As much as I dislike some of the things that @SemiAnalysis_ publishes and provides \"hot takes\" on, this is a damn impressive interview of @dylan522p . His grasp and depth of knowledge of the GAI infrastructure trade is outstanding. H"
-        }
-      ]
-    },
-    {
-      "topic": "US National Robotics Strategy & Supply Chain",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "Boston Dynamics CEO warns that the US needs a national robotics strategy to avoid dependence on foreign technology, similar to semiconductors, as China dominates global robotic deployments. Agility Robotics is highlighted for sourcing 75% of parts from the USA.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2072402687237513576",
-          "text": "Boston Dynamics CEO: \n\nAmerica’s next 250 years will be built by robots.\n\nChina currently accounts for over 54% of all global robotic deployments.\n\nWithout a national robotics strategy, the U.S. risks dependence on foreign technology, exposure to supply-chain shocks, and a perman"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2072367082248040621",
-          "text": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were just looking at the ~$145K cost. \n\n3. 1"
-        }
-      ]
-    },
-    {
-      "topic": "Huawei's Ascend AI NPU Launch in Korea",
+      "topic": "Marvell (MRVL) revenue growth driven by Google CXL business",
       "category": "sectors",
       "subcategory": "asic",
-      "summary": "Huawei is launching its Ascend series AI accelerator chips and Atlas 950 SuperPoD computing system in the Korean market in Q4, positioning itself as a price-competitive alternative to NVIDIA with claims of superior inference performance for its Ascend 950PR.",
+      "summary": "Marvell is projected to see significant revenue growth, reaching $13.0B by 2028, primarily driven by its Google CXL-related business.",
       "mentions": [
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2072446000858579176",
-          "text": "Huawei AI NPU Servers to Land in Korea in Q4, Throwing Down the Gauntlet to NVIDIA\n\nHuawei will launch its artificial intelligence (AI) accelerator chips in the Korean market for the first time in the fourth quarter of this year. Following the completion of a distribution agreeme"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2072621970542538937",
+          "text": "\"GFHK: MRVL is expected to generate $2.8B / $13.0B in revenue in 2027 / 2028, respectively, driven by Google CXL-related business\""
         }
       ]
     }
