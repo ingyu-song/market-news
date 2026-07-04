@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-04T22:55:08+00:00",
+  "generated_at": "2026-07-04T23:57:43+00:00",
   "mode": "daily",
   "for_date": "2026-07-04",
-  "headline": "AI Chip Supply Shifts, HBM Prices Surge, Trump Crypto Losses Noted",
-  "summary": "HBM contract prices are projected to double by 2027, reflecting strong demand, while DRAM and NAND forecasts see significant Q3 price increases. Custom AI chip proliferation is shifting manufacturing bottlenecks. Former President Trump's crypto venture faced substantial investor losses, totaling $3.8 billion.",
+  "headline": "AI Chip Bottlenecks Shift to Manufacturing; HBM Prices Forecast to Surge 2.5x by 2027",
+  "summary": "Custom AI chip proliferation is moving bottlenecks to packaging and substrates, with MediaTek securing key ASIC deals. HBM contract prices are projected to increase 2.00x-2.50x by 2027, driven by demand outpacing supply fivefold by 2030. UBS raised DRAM prices 32% QoQ for Q3.",
   "sections": [
     {
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Custom AI chip proliferation creates new manufacturing bottlenecks.",
+          "lead": "Custom AI chip proliferation is shifting manufacturing bottlenecks.",
           "segments": [
             {
-              "text": "The rise of custom AI chips from hyperscalers like Meta and Amazon is shifting bottlenecks from chip design to physical manufacturing steps such as packaging, substrates, and PCB manufacturing.",
+              "text": "Hyperscalers like Meta and Amazon are driving the rise of custom AI chips, moving bottlenecks from design to physical manufacturing steps such as packaging, substrates, and PCB manufacturing.",
               "sources": [],
               "x_mentions": [
                 {
@@ -24,10 +24,10 @@
           ]
         },
         {
-          "lead": "MediaTek is expanding its custom AI ASIC deals.",
+          "lead": "MediaTek is actively expanding its custom AI ASIC deals.",
           "segments": [
             {
-              "text": "MediaTek is actively pursuing AI accelerator chip deals, including with Meta, and serves as Google's primary custom ASIC client for projects like Zebrafish and Humufish.",
+              "text": "MediaTek is pursuing AI accelerator chip deals, including with Meta, and serves as Google's primary custom ASIC client for projects like Zebrafish and Humufish.",
               "sources": [],
               "x_mentions": [
                 {
@@ -39,102 +39,10 @@
           ]
         },
         {
-          "lead": "Nvidia is advancing \"scale-across\" AI networking.",
+          "lead": "Meta's AI compute capex is projected to accelerate significantly.",
           "segments": [
             {
-              "text": "Nvidia is pushing \"scale-across\" networking to link distributed AI data centers, aiming to overcome power and capacity ceilings and improve GPU utilization.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@crux_capital_",
-                  "url": "https://x.com/crux_capital_/status/2072915801796133204"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Memory (DRAM/HBM/NAND)",
-      "bullets": [
-        {
-          "lead": "HBM contract prices are expected to double by 2027.",
-          "segments": [
-            {
-              "text": "Bernstein forecasts a 2.00x-2.50x price increase for 2027 HBM orders, indicating highly favorable conditions for the three main HBM suppliers.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@AlmaCap114204",
-                  "url": "https://x.com/AlmaCap114204/status/2073068353447395793"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Current HBM price hikes reflect strong demand.",
-          "segments": [
-            {
-              "text": "Reports indicate significant HBM price increases, signaling robust demand and favorable market conditions for HBM suppliers.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@AlmaCap114204",
-                  "url": "https://x.com/AlmaCap114204/status/2073068994634879326"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "DRAM and NAND price forecasts raised significantly for Q3.",
-          "segments": [
-            {
-              "text": "UBS has raised its price forecasts, expecting DRAM prices to increase 32% QoQ in Q3 and 18% QoQ in Q4, with NAND prices projected to rise 30% QoQ in Q3 and 12% QoQ in Q4.",
-              "sources": [
-                {
-                  "title": "記憶體漲價要踩煞車了？1關鍵 DRAM、NAND合約價Q3估漲幅收斂- 日報",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkbWJkSnVCWVVTQ1dXT1ZRa0FmWFQ1SE9OZktpZmhZRnI1c0VrYXVVWmFHXzVMODJXOVc4RGRyYXVMcFoxSDRNMjMxM3VZcnYzbEQ5V1UwcnV1bldfVWww?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-                }
-              ],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2073005976731754920"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "SK Hynix DRAM gross margin is forecast exceptionally high.",
-          "segments": [
-            {
-              "text": "Bernstein estimates SK Hynix's DRAM gross margin will reach an exceptionally high 90.9% in the second quarter, reflecting strong profitability in the memory market.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2073032040451366952"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "bullets": [
-        {
-          "lead": "Meta's datacenter and compute investments are accelerating.",
-          "segments": [
-            {
-              "text": "Meta's capex for datacenters and compute is expected to be \"shockingly high\" in 2027, refuting claims of Meta reducing its AI race participation.",
+              "text": "Meta's datacenter and compute investments are expected to accelerate, with \"shockingly high\" capex in 2027, countering narratives of Meta dropping out of the AI race.",
               "sources": [],
               "x_mentions": [
                 {
@@ -146,14 +54,148 @@
           ]
         },
         {
-          "lead": "Sovereign AI initiatives drive a trillion-dollar infrastructure war.",
+          "lead": "Samsung and Sumitomo have finalized their glass core substrate joint venture.",
           "segments": [
             {
-              "text": "The push for sovereign AI is intensifying a global infrastructure competition, with data centers becoming a key battleground in a market projected to reach 1,000 trillion won.",
+              "text": "Sumitomo Chemical and Samsung Electro-Mechanics (SEMCO) have established their GlaSSEM joint venture in Korea, targeting full-scale commercialization of glass core substrates by H2 2027.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@aleabitoreddit",
+                  "url": "https://x.com/aleabitoreddit/status/2072986020640076052"
+                }
+              ]
+            },
+            {
+              "text": "TSMC's CoPoS advanced packaging technology is anticipated to enter mass production in H1 2029, with Samsung Electro-Mechanics and Toppan evaluating glass-core substrates.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2072982062588662151"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
+        {
+          "lead": "HBM contract prices are expected to see substantial increases in 2027.",
+          "segments": [
+            {
+              "text": "Contract negotiations for 2027 HBM orders are projected to be highly favorable to the three main HBM suppliers, with Bernstein forecasting a 2.00x-2.50x price increase.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@AlmaCap114204",
+                  "url": "https://x.com/AlmaCap114204/status/2073068353447395793"
+                }
+              ]
+            },
+            {
+              "text": "Current reports indicate significant HBM price hikes, reflecting strong demand and favorable market conditions for suppliers.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@AlmaCap114204",
+                  "url": "https://x.com/AlmaCap114204/status/2073068994634879326"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Long-term HBM demand is forecast to significantly outpace supply.",
+          "segments": [
+            {
+              "text": "HBM demand is expected to increase fivefold by 2030, while supply is only projected to double, leading to a growing pool of unserved demand.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@AlmaCap114204",
+                  "url": "https://x.com/AlmaCap114204/status/2073109637629358322"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "UBS has raised its price forecasts for DRAM and NAND.",
+          "segments": [
+            {
+              "text": "UBS significantly increased its price forecasts, expecting DRAM prices to rise 32% QoQ in Q3 and 18% QoQ in Q4, and NAND prices to increase 30% QoQ in Q3 and 12% QoQ in Q4.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2073005976731754920"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "SK Hynix's Q2 DRAM gross margin is estimated to be exceptionally high.",
+          "segments": [
+            {
+              "text": "Bernstein estimates SK Hynix's DRAM gross margin will reach 90.9% in Q2, indicating strong profitability in the memory market.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2073032040451366952"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Samsung and SK Hynix are seeking substrate price reductions.",
+          "segments": [
+            {
+              "text": "Samsung and SK Hynix are reportedly seeking substrate price cuts for the second half of 2026.",
               "sources": [
                 {
-                  "title": "소버린AI 마지막 승부처는 데이터센터…1천조 인프라 전쟁",
-                  "link": "https://n.news.naver.com/mnews/article/001/0016176137?sid=105",
+                  "title": "Samsung and SK Hynix seek substrate price cuts for the second half of 2026",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3MyOVRteXpwZ2Nja1hVc25JZHlmdlc2dzZ0WWZxNHkyd3RDa3NfbmRCYmNrVzYyM3M4a1MxNUw5aG5xZm82UXBxSVM5WXVmd1dNSS0zejBuUTlwUERfdEZGUVIxRnJMVnByNUFXUUNEdXhEcUxEUkE3bE16RXNGTElsS1RFQnBVMUlHOVZDc3o5Vmc?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Despite this, DRAM shortages are leading Samsung to plan a 20% price increase for Q3, potentially impacting iPhone 18.",
+              "sources": [
+                {
+                  "title": "DRAM緊缺 三星Q3擬再漲20％！記憶體漲價壓力燒向蘋果 iPhone 18先中槍？",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BSEVWT09jZURrWW54U3RiTEpIVHdFMUNJNWRzNHdpcGFENVg0SE5ZMTUyTTlZMzZESV9aMmZ4azRTYTRmMDBiRmRWWDhscFZ0SXpZUXh0VnQ4U2E4cEQ0?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Samsung Electronics' upcoming earnings announcement is a key market event.",
+          "segments": [
+            {
+              "text": "Samsung Electronics' earnings release is expected to determine the direction of the KOSPI and the broader semiconductor market.",
+              "sources": [
+                {
+                  "title": "삼성전자 실적 발표, 코스피와 반도체 시장의 향방 결정 짓나",
+                  "link": "https://www.tokenpost.kr/news/market/375089",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -163,14 +205,31 @@
           ]
         },
         {
-          "lead": "AI and heatwaves are increasing electricity price pressure.",
+          "lead": "Machvision reported record June revenue driven by AI demand.",
           "segments": [
             {
-              "text": "The surge in AI demand combined with extreme heat is amplifying pressure for electricity price increases.",
+              "text": "Machvision's June revenue reached another record high, attributed to robust AI demand.",
               "sources": [
                 {
-                  "title": "AI·폭염발 전력 쇼크… 전기료 인상 압력 커진다",
-                  "link": "https://www.g-enews.com/view.php?ud=202607050726044364fbbec65dfb_1",
+                  "title": "Machvision's June revenue hits another record due to AI demand",
+                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVJCUzBhQjdTNERGcU1RRXdqV1dpZExQRVI0N3poa0t5MFB3TW56cm9sQWhqckI3ZDdxdjNDbEppRzJTMy1ydGtDVy1WaWhhRWFJWktiWTk2SnhlRVFuQ09MMWxUTV9PVTlJMnhDX0ZuY1VfWERKTGtIV0VZcS1EaDNiN096X05ucGlQdmJUMUtGaGViVGl2dzFDWGM2bGFoN3BTbg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Q2 earnings season is seen as a critical juncture for the market.",
+          "segments": [
+            {
+              "text": "Despite recent volatility in the AI sector, Q2 earnings reports are anticipated to be a turning point for market sentiment.",
+              "sources": [
+                {
+                  "title": "AI 흔들렸지만 실적이 답한다…2Q 성적표가 분수령 [주간증시]",
+                  "link": "https://www.ekn.kr/web/view.php?key=20260705021189294",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -185,50 +244,67 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Nearly a million investors lost billions on Trump's crypto coin.",
+          "lead": "Former President Trump is set to mark the US 250th anniversary with a campaign-style rally.",
           "segments": [
             {
-              "text": "Approximately 900,000 investors collectively lost $3.8 billion on a Trump-affiliated crypto coin.",
+              "text": "Trump plans to commemorate the US 250th anniversary with a campaign-style rally on the National Mall.",
+              "sources": [
+                {
+                  "title": "Trump to mark US 250th anniversary with campaign-style rally on National Mall",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNel9tck9iS2g3NlptV3paT19nVzU4NWJuMXBFVEh0YnFOR2tRRU41bDM0WlhXc3EtWkktXzhxUDE2cjZaWF9sVlhwc2IwM0N3c2ZOYmc3LVBhRDE4S3ZhdktqT2p4bG44RVltbjQxUWQ2czluNXp0UkVEVmFxaXh6aFBXQ1NGYUNmWEx6X3MwTzYyTlhJbUxFbXVWQXhBbFpXNEItVGpqLS1iZDhhM3ZjSGlIWTNpSms?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Treasury has rolled out currency signed by Trump for the Fourth of July.",
+          "segments": [
+            {
+              "text": "The Treasury Department has released currency featuring Trump's signature in time for the Fourth of July celebrations.",
+              "sources": [
+                {
+                  "title": "Treasury Rolls Out Currency Signed by Trump for Fourth of July",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUZPY2NVUW9wckRyVzFoVXBwTXNHRkZzQVJYbHpMUzRBaVZSQ3ptQ0RoWWtDNVExZXFnV1NPbHlaZ1lpbi1TQW4xSkxTZEJwY2d1MTNsdlBhZERvYzZRcGhoaVYwZVZKMEhjN2RNTkR0bkZVdlJNUThaVThyN2tmeTl1TXVJS0cyQ0lZbmFHeW5FV0tWeW9JMENERVp5VTFObTBLdWRtb1FnemYtam1UTV9RVTU?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Elon Musk has refuted claims about a SpaceX AI handheld device.",
+          "segments": [
+            {
+              "text": "Elon Musk called reports of a SpaceX AI handheld device, rumored to be an iPhone rival, \"utterly false.\"",
+              "sources": [
+                {
+                  "title": "Elon Musk Calls Report on SpaceX AI Handheld Device ‘Utterly False’ After Claims of an iPhone Rival Sparks Online Buzz",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-calls-report-spacex-213349921.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Investors experienced significant losses on a Trump-linked crypto coin.",
+          "segments": [
+            {
+              "text": "Nearly a million investors collectively lost $3.8 billion on a crypto coin associated with Trump.",
               "sources": [
                 {
                   "title": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
                   "link": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Americans express disgust at Trump's crypto earnings.",
-          "segments": [
-            {
-              "text": "Public sentiment indicates strong disapproval of former President Trump reportedly earning $1 billion from crypto while in office, with many viewing it as a \"grift.\"",
-              "sources": [
-                {
-                  "title": "Americans disgusted at Trump earning $1bn from crypto as president: ‘Obviously a grift’",
-                  "link": "https://www.theguardian.com/us-news/2026/jul/03/americans-disgusted-trump-crypto",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Wall Street-backed funds for children linked to Trump are launching.",
-          "segments": [
-            {
-              "text": "Investment funds for children, backed by Wall Street and branded as \"Trump accounts,\" are set to go live.",
-              "sources": [
-                {
-                  "title": "‘Trump accounts’: Wall Street-backed investment funds for children to go live",
-                  "link": "https://www.theguardian.com/us-news/2026/jul/04/trump-accounts-savings",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -241,10 +317,10 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Bitcoin is braced for a critical Fed July price pivot point.",
+          "lead": "Bitcoin is preparing for a critical Fed July price 'pivot point'.",
           "segments": [
             {
-              "text": "Bitcoin's price trajectory is highly sensitive to the upcoming July Fed decisions, which could act as a critical pivot point.",
+              "text": "Bitcoin is positioned for a significant July price 'pivot point' influenced by the Federal Reserve's actions.",
               "sources": [
                 {
                   "title": "Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’",
@@ -258,10 +334,10 @@
           ]
         },
         {
-          "lead": "ECB is in a good position given current inflation data.",
+          "lead": "The ECB is in a favorable position regarding inflation data.",
           "segments": [
             {
-              "text": "The European Central Bank's current stance is considered favorable in light of recent inflation data.",
+              "text": "ECB official Moulin stated that the European Central Bank is in a \"good position\" given current inflation data.",
               "sources": [
                 {
                   "title": "ECB Is in ‘Good Position’ Given Inflation Data, Moulin Says",
@@ -273,77 +349,28 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "AI boom shows employment polarization, especially for youth.",
-          "segments": [
-            {
-              "text": "Despite the AI boom, employment growth remains stagnant in some sectors, with a projected 8-year low in employment elasticity and significant declines in IT, legal, and design jobs, indicating a deepening polarization in the job market.",
-              "sources": [
-                {
-                  "title": "반도체 호황에도 고용은 ‘제자리’…고용탄성치 8년 만에 최저 전망",
-                  "link": "https://n.news.naver.com/mnews/article/016/0002665739?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "China's discretionary InP export controls are shaping contract structures.",
-          "segments": [
-            {
-              "text": "China's export controls on Indium Phosphide (InP) are influencing contract structures, with AXT and Sumitomo dominating InP substrate production.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@TheValueist",
-                  "url": "https://x.com/TheValueist/status/2073046176203501674"
-                }
-              ]
-            }
-          ]
         }
       ]
     }
   ],
   "watchlist": [
     {
-      "name": "HBM Suppliers (SK Hynix, Micron, Samsung)",
-      "note": "Anticipate significant HBM contract price increases and strong demand through 2027, despite some seeking substrate price cuts.",
+      "name": "Samsung Electronics",
+      "note": "Q2 earnings are a major catalyst for KOSPI and the broader semiconductor market.",
       "sources": [
         {
-          "title": "HBM 병목에 美 개입 무력화… 메모리 3사 ‘가격 결정 시대’ 열었다",
-          "link": "https://www.g-enews.com/view.php?ud=202607050657424627fbbec65dfb_1",
+          "title": "삼성전자 실적 발표, 코스피와 반도체 시장의 향방 결정 짓나",
+          "link": "https://www.tokenpost.kr/news/market/375089",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "Micron Breaks Ground on $9 Billion Plant Expansion in Japan",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcU9fNU5GUmlUTmdGdmREcE5rZDgzTURwM1FVMkVpSmp5MTVOSHpiN1NXUFNDUEotY2tkMi14eW5RMjRaTjdjMXVzWVdudE1qUGxoZEwyU0REQkJqVnhqYVZUX3pBaWhxN3VfelBKRXM1MFBacFd1WlFDTFdmZ1FlZmVZTm5kNlNZc0dnQ1QwcHpXV0V4MVZXY19OYzRyUmpiTTFRUXVaaDl0UzVTMWNmUjdXcVk?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Samsung and SK Hynix seek substrate price cuts for the second half of 2026",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc3MyOVRteXpwZ2Nja1hVc25JZHlmdlc2dzZ0WWZxNHkyd3RDa3NfbmRCYmNrVzYyM3M4a1MxNUw5aG5xZm82UXBxSVM5WXVmd1dNSS0zejBuUTlwUERfdEZGUVIxRnJMVnByNUFXUUNEdXhEcUxEUkE3bE16RXNGTElsS1RFQnBVMUlHOVZDc3o5Vmc?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        },
-        {
-          "title": "DRAM緊缺 三星Q3擬再漲20％！記憶體漲價壓力燒向蘋果 iPhone 18先中槍？",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BSEVWT09jZURrWW54U3RiTEpIVHdFMUNJNWRzNHdpcGFENVg0SE5ZMTUyTTlZMzZESV9aMmZ4azRTYTRmMDBiRmRWWDhscFZ0SXpZUXh0VnQ4U2E4cEQ0?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
         }
       ],
+      "x_mentions": []
+    },
+    {
+      "name": "HBM Suppliers",
+      "note": "Anticipated 2027 contract price increases and strong long-term demand suggest continued favorable market conditions.",
+      "sources": [],
       "x_mentions": [
         {
           "handle": "@AlmaCap114204",
@@ -356,8 +383,19 @@
       ]
     },
     {
-      "name": "Fed",
-      "note": "July meeting decisions will be critical for Bitcoin and broader market sentiment.",
+      "name": "MediaTek",
+      "note": "Actively securing custom AI ASIC deals with hyperscalers like Google and Meta, indicating strong positioning in the custom chip market.",
+      "sources": [],
+      "x_mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2072458563893768328"
+        }
+      ]
+    },
+    {
+      "name": "The Fed",
+      "note": "Bitcoin and broader market sentiment are bracing for potential July policy shifts.",
       "sources": [
         {
           "title": "Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’",
@@ -367,51 +405,6 @@
         }
       ],
       "x_mentions": []
-    },
-    {
-      "name": "Trump-related Crypto",
-      "note": "Continued scrutiny on investor losses and ethical concerns surrounding his crypto ventures.",
-      "sources": [
-        {
-          "title": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
-          "link": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        },
-        {
-          "title": "Americans disgusted at Trump earning $1bn from crypto as president: ‘Obviously a grift’",
-          "link": "https://www.theguardian.com/us-news/2026/jul/03/americans-disgusted-trump-crypto",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Meta",
-      "note": "Accelerating datacenter and compute capex signals strong commitment to AI infrastructure.",
-      "sources": [],
-      "x_mentions": [
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2072328783718412787"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2072922974345445511"
-        }
-      ]
-    },
-    {
-      "name": "MediaTek",
-      "note": "Actively pursuing AI accelerator chip deals and serving as Google's primary custom ASIC client.",
-      "sources": [],
-      "x_mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2072458563893768328"
-        }
-      ]
     }
   ],
   "x_themes": [
@@ -652,6 +645,6 @@
       "change_pct": -0.19
     }
   ],
-  "story_count": 48,
+  "story_count": 50,
   "bucket_count": 12
 }
