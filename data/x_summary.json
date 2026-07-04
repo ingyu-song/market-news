@@ -1,100 +1,39 @@
 {
-  "generated_at": "2026-07-03T00:13:34+00:00",
-  "tweet_count": 88,
-  "account_count": 26,
+  "generated_at": "2026-07-04T00:12:43+00:00",
+  "tweet_count": 87,
+  "account_count": 24,
   "themes": [
     {
-      "topic": "AI market downturn analysis and bull case",
+      "topic": "AI Market Downturn & Bull Case Analysis",
       "category": "out_of_ai",
       "subcategory": "macro",
-      "summary": "The current AI market downturn is attributed to Broadcom's guidance, hawkish Fed sentiment, and 'AI bubble' commentary, but underlying physical demand for wafers, HBM, CoWoS, and optics remains strong and supply-constrained. Hyperscaler capex is projected to rise, and the shift to inference-led demand suggests reliable recurring revenue, indicating the sell-off is a reset rather than a fundamental demand collapse.",
+      "summary": "The recent AI market downturn is attributed to Avago earnings, hawkish Fed, and bubble commentary, not fundamental demand issues like hyperscaler capex cuts or HBM oversupply. Demand for AI compute remains supply-constrained, with hyperscalers expected to increase 2026 capex forecasts.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2072770581225693234",
           "text": "Need help building some conviction in your AI names during this market downturn?\n\nRead this post. Bookmark it. Come back to it.\n\nLet Paradis guide you:\n\nIn my view, AI names are broadly down for a few reasons:\n1. The market viewed $AVGO earnings + guidance as decelerating growth."
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072762644181000663",
-          "text": "$NVDA $MU $SNDK $LITE Momentum, especially GAI-related, is getting rocked multiple days in a row. One of the key reasons I have been such a strong advocate for using long-dated calendar spreads to gain long exposure to GAI infrastructure names. I have no doubt that the stock pric"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2072760446617280650",
-          "text": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -13.8%\n$GLW down -11.4%\n$MRVL down -11.2%\n"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2072738063084843421",
-          "text": "I strongly agree with his view.\n\nIn fact, Meta’s cloud ambitions have been discussed since January. Looking back, the market may have simply been looking for a reason to cool off after such a heated run.\n\nThe optical sector has rallied hard over the past year. If it is going to k"
-        },
-        {
-          "handle": "@TMT_Jack_",
-          "url": "https://x.com/TMT_Jack_/status/2072321680773460079",
-          "text": "$META\n\nGood luck betting on Zuck cutting capex when they report at the end of the month"
         }
       ]
     },
     {
-      "topic": "Samsung Foundry's resurgence and capacity allocation",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Samsung Foundry is experiencing a strong comeback, with 4nm capacity sold out through next year and 8nm processes at full utilization, leading to selective order taking for large customers and potential price hikes of 15-20%.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2072613106237550893",
-          "text": "Samsung Foundry has really made a full comeback. It feels surreal seeing how much things have changed.\n\n- Samsung Foundry is seeing so many customers pile in that Samsung is now screening customers, favoring large ones.\n\n- Samsung's 4nm is already sold out through next year's cap"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2072737771660218804",
-          "text": "No surprises here, I have been calling that Samsung Foundry will make a full comeback for some time now (and that they will execute on HBM4e)\n\nPrice action will eventually follow fundamentals - this dip is a gift!"
-        }
-      ]
-    },
-    {
-      "topic": "Coherent (COHR) secures 6-inch InP wafer supply from AXT (AXTI)",
+      "topic": "China InP Export Controls & AXT-Coherent Supply Deal",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "Coherent signed a 3-year Master Development and Supply Agreement with AXT-Tongmei for 6-inch indium phosphide (InP) wafer substrates, involving a $22.3M prepayment to secure capacity expansion at AXT's Beijing facility. This de-risks Coherent's AI optical ramp by locking in a critical upstream supply.",
+      "summary": "China's discretionary InP export controls are shaping contract structures, with AXT and Sumitomo dominating InP substrate production. Coherent prepaid AXT for 6-inch InP substrate capacity, highlighting supply chain constraints and geopolitical complexities despite Coherent's domestic expansion efforts.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2072803120984297485",
-          "text": "$AXTI $COHR Do you believe this is last InP prepayment deal that will be cut over the next 5 years? We merely getting started.\n———————-\nBOTTOM LINE: This is incrementally bullish for COHR fundamentals but more strategically important than financially material. It confirms that 6-"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2072800823462232238",
-          "text": "Nice to see $COHR locking up more 6-in supply\n\nNow I would like to know if this is for a U.S. based facility or one of their international sites\n\nWould have significant implications for the entire optics trade and $AXTI in particular"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2072795186263187831",
-          "text": "$AXTI signs 3-year wafer deal with $COHR.\n\n\"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\" https://t.co/nTkyJSMo96"
+          "url": "https://x.com/TheValueist/status/2073046176203501674",
+          "text": "$AXTI $COHR $LITE $NVDA CURRENT CHINESE INP EXPORT-CONTROL REGIME\n\nChina’s formal InP control is not a blanket embargo; it is a discretionary licensing regime. On February 4, 2025, China’s Ministry of Commerce and General Administration of Customs issued Announcement No. 10, addi"
         }
       ]
     },
     {
-      "topic": "Persistent GPU supply tightness despite misleading spot market signals",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Despite some reports of lower GPU spot prices, large-cloud and enterprise demand for H100 and B300 GPUs remains strong and supply-constrained, with AWS pricing firm and neocloud providers reporting demand significantly exceeding supply.",
-      "mentions": [
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2072148977471164474",
-          "text": "Research|Korea's AI Investment Plan: Short-to-Medium Term Supply Tightness Cannot be Alleviated\n\nSpot market signals may be misleading: Recent Ornn and Silicon Data datasets show lower GPU spot prices, especially for H100, but these sources mainly aggregate fragmented, smaller-sc"
-        }
-      ]
-    },
-    {
-      "topic": "Custom AI chip proliferation and manufacturing bottlenecks",
+      "topic": "Custom AI Chip Proliferation & Manufacturing Bottlenecks",
       "category": "sectors",
       "subcategory": "advanced_packaging",
-      "summary": "The proliferation of custom AI chips from hyperscalers like Meta and Amazon is highlighting persistent manufacturing bottlenecks in areas such as advanced packaging, substrates, and PCB materials, shifting the focus from chip design to the capacity required to build and package these custom silicon solutions.",
+      "summary": "The rise of custom AI chips from hyperscalers like Meta and Amazon is shifting bottlenecks from chip design to physical manufacturing steps such as packaging, substrates, and PCB materials. This creates opportunities for companies like TSMC and high-end substrate suppliers.",
       "mentions": [
         {
           "handle": "@Blinklebloop",
@@ -104,59 +43,49 @@
       ]
     },
     {
-      "topic": "MediaTek pursuing Meta AI accelerator deal and expanding custom ASIC business",
+      "topic": "Nvidia's Scale-Across AI Networking & Long-Haul Telecom Project",
       "category": "sectors",
-      "subcategory": "asic",
-      "summary": "MediaTek is actively pursuing an AI accelerator chip deal with Meta and is expanding its custom ASIC business, with Google as its primary client for chips like Zebrafish and Humufish, aiming for $10 billion in revenue.",
+      "subcategory": "optical",
+      "summary": "Nvidia is pushing \"scale-across\" networking to link distributed AI data centers, aiming to overcome power and capacity ceilings and improve GPU utilization. This strategy, potentially involving a $5B-$10B long-haul telecom project, is expected to benefit coherent transport providers like Ciena and Nokia.",
       "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2072458563893768328",
-          "text": "MediaTek remains in the hunt for an AI accelerator chip deal with Meta, despite its announcement with Broadcom for one, media report, noting Meta’s work with Arm and Qualcomm focus on CPUs, not AI accelerators.\n-Google is MediaTek’s 1st big custom ASIC client, with Zebrafish and "
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2072577717158236518",
-          "text": "Agree\n_\nJPM: A key question on the durability of MediaTek’s ASIC business is $GOOGL  pursuit of a full COT (Customer Owned Tooling) business model, similar to AWS for Trainium. In the very long term, we do believe GOOG will attempt to move towards a full CoT model to take more co"
-        }
-      ]
-    },
-    {
-      "topic": "Micron (MU) CEO on strong, long-term memory demand and supply tightness",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Micron CEO Sanjay Mehrotra highlighted strong, secular long-term demand trends for memory driven by AI, projecting supply tightness beyond 2027, and discussed Micron's significant investments and strategic customer agreements to meet this demand.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2072165044213916005",
-          "text": "Micron CEO Sanjay Mehrotra sat down with Jim Cramer on CNBC to talk chips. \n\nKey comments:\n\n“Micron is firing on all cylinders.”\n\n“Every AI system, regardless of the device it is in, requires more memory at higher performance in order to really bring out the full potential of AI "
-        }
-      ]
-    },
-    {
-      "topic": "Agility Robotics' leading position in humanoid commercialization",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "Agility Robotics, accessible via CCXI, is highlighted as the leading humanoid player in the US by commercialization, with deployments in Amazon and Mercado Libre, and backed by major investors.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2072741541404406008",
-          "text": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWith Tesla likely taking the lead a year f"
-        },
         {
           "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2072447656883106252",
-          "text": "Physical AI is here. Now. \n$OUST $AMBA $CGNX $AEVA $VPG $CCXI \n\nI am still building out my portfolio\n\nThere are 5 companies that I am very interested in owning for the long term. \n\nThey will take up 40-50% of my Physical AI port\n\nI list them here with my levels I am watching\n\nhtt"
+          "url": "https://x.com/crux_capital_/status/2072915801796133204",
+          "text": "I am quite bullish $CIEN at these levels.\n\nWhen I stress test the optical investment universe trying to find durable companies, Ciena is consistently a top 3 for me.\n\nI have posted a lot about Ciena, but for this post let's hone in a bit. \n\nLook at what Nvidia is doing and saying"
         }
       ]
     },
     {
-      "topic": "Meta's (META) NeoCloud strategy and tiered AI compute infrastructure",
+      "topic": "Anticipated 2027 HBM Contract Price Increases",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Contract negotiations for 2027 HBM orders are expected to be highly favorable to the three main HBM suppliers, with Bernstein forecasting a 2.00x-2.50x price increase. This bullish outlook benefits companies like Samsung, Hynix, and Micron.",
+      "mentions": [
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2073068353447395793",
+          "text": "Contract negotiations for 2027 HBM orders are going to be tasty, broker forecasts anticipate negligible price increases except for Bernstein who expects a c.2.00x - 2.50x increase. I am equally as bullish as Bernstein and think terms are going to be extremely favourable to the 3 "
+        }
+      ]
+    },
+    {
+      "topic": "UBS Raises DRAM and NAND Price Forecasts",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "UBS has significantly raised its price forecasts for DRAM and NAND, expecting DRAM prices to increase 32% QoQ in Q3 and 18% QoQ in Q4, and NAND prices to rise 30% QoQ in Q3 and 12% QoQ in Q4.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2073005976731754920",
+          "text": "UBS raises its DRAM and NAND price forecasts\n\nDRAM prices are now expected to rise 32% QoQ in Q3 and 18% QoQ in Q4.\n\nNAND prices are expected to rise 30% QoQ in Q3 and 12% QoQ in Q4."
+        }
+      ]
+    },
+    {
+      "topic": "Meta's NeoCloud Strategy & Tiered GPU Utilization",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Meta's NeoCloud initiative and consideration of external compute commercialization do not signal peak AI demand, but rather a shift to a tiered AI infrastructure where older GPUs are repurposed for inference while next-generation systems like GB300 remain scarce for frontier training.",
+      "summary": "Meta's strategy of building a NeoCloud and renting surplus AI compute is not contradictory to its high demand, as it continues to secure significant new data center capacity. The AI compute market is evolving into tiered usage, with H100/H200 GPUs shifting to inference and next-gen systems like GB200/GB300 for frontier training.",
       "mentions": [
         {
           "handle": "@FundaAI",
@@ -166,72 +95,93 @@
       ]
     },
     {
-      "topic": "Underestimation of Chinese AI capex, ByteDance's $100B spending",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Chinese AI capex is likely underestimated by focusing solely on big tech, with ByteDance alone projected to spend over $100B next year, and contributions from SOEs and telecom operators needing to be included.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2072642341882720294",
-          "text": "U will always get a wrong number if u try to use only Chinese big tech numbers to size AI CAPEX\nFirst, drop the loser Baidu\nSecond, add the Chinese SOEs &amp; the telecom operators\nAlso, ByteDance is spending over $100B next year"
-        }
-      ]
-    },
-    {
-      "topic": "Tesla (TSLA) caps employee AI spending at $200/week",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Tesla is reportedly implementing a $200 per week cap on AI spending for its employees, with exceptions for xAI beta products, after some software engineers were using thousands of dollars worth of AI tokens weekly.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2072760803649044571",
-          "text": "$TSLA reportedly told employees it will cap AI spending at $200 per week starting July 6, per The Information.\n\nSome Tesla software engineers were reportedly using thousands of dollars worth of AI tokens per week.\n\nEmployees will need approval to exceed the cap, though beta versi"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2072760048502051168",
-          "text": "*TESLA CAPS EMPLOYEE AI SPEND AT $200/WEEK: INFORMATION\n\nThat's probably less than their food budget.. yikes"
-        }
-      ]
-    },
-    {
-      "topic": "Nvidia's Nemotron development and post-training stack",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Nvidia is actively developing its Nemotron post-training stack, having started serious efforts in Q4 last year and recently releasing Nemotron v4 Ultra, with expectations to match competitor models by Q4.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2072678513690444004",
-          "text": "To elaborate more, the reason why Nvidia can't do it anytime it wants is that they haven't completely built their post-training stack yet\nNvidia started pushing Nemotron seriously around Q4 last year\nThey have hired lots of great talent recently, but it takes time to build and in"
-        }
-      ]
-    },
-    {
-      "topic": "Ams Osram (AMS) pivots to AI photonics via MicroLED after non-optical segment sale",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Ams Osram sold its non-optical segment to Infineon for €570M to de-risk its balance sheet and fund a pivot into AI photonics, specifically MicroLED technology, which could be a beneficiary if adopted in racks.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2072642239105245565",
-          "text": "Ams Osram selling their non-optical/sensor segment to Infineon for €570M is a pretty key catalyst.\n\nFor balance sheet de-risking (debt halving).\n\nAnd pretty important to fuel their pivot into AI photonics (e.g. MicroLED) since names like Ayar Labs and Celestial AI all sit on hype"
-        }
-      ]
-    },
-    {
-      "topic": "Marvell (MRVL) revenue growth driven by Google CXL business",
+      "topic": "MediaTek's Custom AI ASIC Deals and Market Position",
       "category": "sectors",
       "subcategory": "asic",
-      "summary": "Marvell is projected to see significant revenue growth, reaching $13.0B by 2028, primarily driven by its Google CXL-related business.",
+      "summary": "MediaTek is actively pursuing AI accelerator chip deals, including with Meta, and is Google's primary custom ASIC client for projects like Zebrafish and Humufish. The company's custom ASIC business is projected to reach $10 billion in revenue, competing with firms like Broadcom and Qualcomm.",
       "mentions": [
         {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2072621970542538937",
-          "text": "\"GFHK: MRVL is expected to generate $2.8B / $13.0B in revenue in 2027 / 2028, respectively, driven by Google CXL-related business\""
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2072458563893768328",
+          "text": "MediaTek remains in the hunt for an AI accelerator chip deal with Meta, despite its announcement with Broadcom for one, media report, noting Meta’s work with Arm and Qualcomm focus on CPUs, not AI accelerators.\n-Google is MediaTek’s 1st big custom ASIC client, with Zebrafish and "
+        }
+      ]
+    },
+    {
+      "topic": "Samsung/Sumitomo Glass Core Substrate JV Commercialization",
+      "category": "sectors",
+      "subcategory": "glass",
+      "summary": "Sumitomo Chemical and Samsung Electro-Mechanics (SEMCO) have finalized their GlaSSEM joint venture in Korea, targeting full-scale commercialization of glass core substrates by H2 2027. This development implies a faster timeline than previously expected, benefiting equipment suppliers like LPKF.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2072986020640076052",
+          "text": "So positive readthrough on the upstream glass substrate supply chain:\n\n- Sumitomo Chemical and Samsung Electro-Mechanics formally establish JV in Korea within the year to handle the glass core substrate business (GlaSSEM).\n\nMain thing was timeline/funding was finalized:  \"full sc"
+        }
+      ]
+    },
+    {
+      "topic": "TSMC CoPoS Mass Production & Glass-Core Substrate Evaluation",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "TSMC's CoPoS advanced packaging technology is expected to enter mass production in the first half of 2029. Samsung Electro-Mechanics, Toppan, and other substrate manufacturers are submitting engineering samples of glass-core substrates to TSMC for evaluation.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2072982062588662151",
+          "text": "Tech Taiwan reports: \n\nTSMC’s CoPoS is expected to enter mass production in the first half of 2029.\n\nSamsung Electro-Mechanics (SEMCO), a Samsung Group affiliate, along with Japan’s Toppan and other substrate manufacturers across Japan and South Korea, have all joined the race to"
+        }
+      ]
+    },
+    {
+      "topic": "Meta's Accelerating AI Compute Capex & Photonics Sector Recovery",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Meta's datacenter and compute investments are expected to accelerate, with \"shockingly high\" capex in 2027, refuting misleading narratives of Meta dropping out of the AI race. This acceleration is anticipated to drive a sharp V-shaped recovery in the photonics sector, which saw a crash based on these narratives.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2072922974345445511",
+          "text": "SemiAnalysis on $META “overcapacity” and market reactions with $NBIS and others:\n\n“We believe Meta’s datacenter and compute will accelerate”.\n\n“Capex in 2027 will be shockingly high”.\n\nRecent global crash, especially in the photonics sector was stupid… Off misleading narratives o"
+        }
+      ]
+    },
+    {
+      "topic": "Long-Term HBM Demand Outpacing Supply",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "HBM demand is forecast to increase fivefold by 2030, while supply is only expected to double, leading to a growing pool of unserved demand. This imbalance suggests potential for multiple expansion in the memory sector.",
+      "mentions": [
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2073109637629358322",
+          "text": "They will do a return of capital within the next 3 years at which point the discount will narrow - cycle is most likely 5+ years from here at a minimum as demand is forecast to 5.00x by 2030 whilst supply only doubles, meaning that the current enormous pool of unserved demand wil"
+        }
+      ]
+    },
+    {
+      "topic": "Current HBM Price Increases",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "There are reports of significant HBM price hikes, indicating strong demand and favorable market conditions for HBM suppliers.",
+      "mentions": [
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2073068994634879326",
+          "text": "Pictured: Koreans telling their mates about the HBM price hikes, “don’t tell anyone bro, just go 2.00x leveraged”"
+        }
+      ]
+    },
+    {
+      "topic": "SK Hynix Q2 DRAM Gross Margin Forecast",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Bernstein estimates that SK Hynix's DRAM gross margin will reach an exceptionally high 90.9% in the second quarter, reflecting strong profitability in the memory market.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2073032040451366952",
+          "text": "Bernstein estimates that SK hynix’s DRAM gross margin in Q2 will reach 90.9%… https://t.co/bC25hqTv5a"
         }
       ]
     }
