@@ -1,48 +1,49 @@
 {
-  "generated_at": "2026-07-05T07:35:40+00:00",
+  "generated_at": "2026-07-05T07:40:56+00:00",
   "mode": "weekly",
   "for_week_start": "2026-06-29",
   "for_week_ending": "2026-07-05",
   "days_covered": 7,
-  "headline": "AI Chip Demand Drives Memory Surge; Fed Eases on Jobs; Trump Disclosures in Focus",
-  "summary": "The week saw robust AI chip demand continue to underpin tech, driving significant gains in the semiconductor sector and forecasting substantial increases in memory prices. US labor market data showed slower gains, easing Fed rate hike concerns and sending the Dow to a record high, though Nasdaq declined. Trump's financial disclosures and evolving policy narratives introduced volatility. Geopolitical tensions and China's economic recovery also played roles.",
+  "headline": "AI Chip Bottlenecks Shift, Memory Prices Surge, and Macro Data Cools Rate Hike Fears",
+  "summary": "The week saw continued robust demand for AI chips, shifting supply chain dynamics with Samsung gaining ground amid TSMC capacity constraints. Memory prices, particularly HBM and DRAM, are forecast for significant Q3 surges, driven by tight supply and strategic investments. Macroeconomic data, including slower US job growth, tempered Federal Reserve rate hike expectations, while former President Trump's financial disclosures and market influence remained a notable factor. China's economy showed signs of recovery, supported by rebounding US exports.",
   "themes": [
     {
       "label": "US Semis / AI Chips",
-      "narrative": "Robust AI chip demand continued to drive the sector, shifting bottlenecks to packaging and substrates. Supply chains are diversifying, with Samsung in talks for Anthropic's custom AI chips and Google considering Samsung for future TPUs due to TSMC capacity constraints. TSMC accelerated advanced packaging and 2nm development.",
+      "narrative": "AI chip demand remains robust, but bottlenecks are shifting from chip production to packaging and substrates. Supply chain diversification is underway, with Samsung emerging as a key partner for custom AI chips and future TPUs due to TSMC's tight capacity.",
       "movers": [
         "TSMC",
         "Samsung",
         "MediaTek",
-        "Google",
-        "Anthropic"
+        "Anthropic",
+        "Google"
       ],
       "sources": []
     },
     {
       "label": "Memory (DRAM/HBM/NAND)",
-      "narrative": "Memory prices are projected to surge, with DRAM contract prices rising up to 20% in Q3 and NAND flash 35-40%. HBM contract prices are forecast to increase 2.00x-2.50x by 2027, driven by demand outpacing supply fivefold by 2030. SK Hynix reported strong earnings, while Micron and Sandisk saw declines.",
+      "narrative": "Memory prices are projected for substantial increases in Q3, with DRAM contract prices expected to rise 20% and NAND 35-40%. HBM demand is forecast to outstrip supply fivefold by 2030, driving contract prices up 2.00x-2.50x by 2027, prompting major investments from Samsung and SK Hynix.",
       "movers": [
+        "Samsung",
         "SK Hynix",
         "Micron",
-        "Samsung",
         "Sandisk"
       ],
       "sources": []
     },
     {
       "label": "Fed / Rates / Macro",
-      "narrative": "US labor market data showed slower gains in June, adding 57,000 jobs and easing Fed rate hike concerns, which sent the Dow to a record high. Gold prices held gains, tempering rate hike expectations. Fed officials noted AI's potential inflationary impact, while the Supreme Court affirmed Fed independence.",
+      "narrative": "US labor market data indicated slower job gains in June, easing concerns about aggressive Federal Reserve rate hikes. This led to a Dow rally, though Nasdaq saw declines. While one Fed official noted reduced inflation risks, the potential inflationary impact of AI was also highlighted.",
       "movers": [
-        "Gold",
-        "Bitcoin",
-        "Oil"
+        "Federal Reserve",
+        "Dow",
+        "Nasdaq",
+        "Gold"
       ],
       "sources": []
     },
     {
       "label": "Trump 2.0 / US Policy",
-      "narrative": "Former President Trump's financial disclosures revealed over $1.4 billion in crypto and stock gains, alongside a $250 million Micron donation. Evolving Trump policy narratives and the administration's engagement with AI firms introduced market volatility.",
+      "narrative": "Former President Trump's financial disclosures revealed significant crypto and stock gains, alongside a substantial donation to Micron. His activities, including a new currency release, continued to influence market sentiment, with related crypto assets experiencing losses.",
       "movers": [
         "Donald Trump",
         "Micron"
@@ -51,7 +52,7 @@
     },
     {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "China's economy showed signs of recovery in June, driven by rebounding U.S. exports. Geopolitical tensions, particularly US-Iran, continued to influence oil prices.",
+      "narrative": "China's economy demonstrated signs of recovery in June, primarily driven by a rebound in US exports. This suggests a potential easing of trade-related pressures and a positive shift in global demand dynamics for Chinese goods.",
       "movers": [
         "China"
       ],
@@ -61,27 +62,27 @@
   "watchlist": [
     {
       "name": "Samsung",
-      "note": "Monitor custom AI chip deals with Anthropic and Google TPU production."
+      "note": "Monitor ongoing AI chip and HBM supply chain developments and investment plans."
     },
     {
       "name": "TSMC",
-      "note": "Track advanced packaging and 2nm development amidst capacity constraints."
+      "note": "Observe advanced packaging and 2nm capacity utilization amid high AI demand."
     },
     {
-      "name": "SK Hynix",
-      "note": "Observe HBM and DRAM pricing trends and investment plans."
+      "name": "Federal Reserve",
+      "note": "Anticipate further commentary on inflation and rate policy following recent jobs data."
     },
     {
       "name": "Micron",
-      "note": "Assess performance following recent decline and impact of Trump's donation."
+      "note": "Track memory market trends and any further impact from political donations."
     },
     {
       "name": "Anthropic",
-      "note": "Follow custom AI chip production and US administration engagement."
+      "note": "Watch for developments in custom AI chip partnerships and enterprise demand."
     },
     {
-      "name": "Oil",
-      "note": "Monitor US-Iran tensions and global supply impact."
+      "name": "Wiwynn",
+      "note": "Follow AI infrastructure expansion and hyperscaler capex trends."
     }
   ],
   "x_themes": [

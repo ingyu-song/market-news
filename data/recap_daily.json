@@ -1,40 +1,18 @@
 {
-  "generated_at": "2026-07-05T07:34:43+00:00",
+  "generated_at": "2026-07-05T07:40:38+00:00",
   "mode": "daily",
   "for_date": "2026-07-05",
-  "headline": "Global Memory Prices Surge; AI Chip Demand Drives Infrastructure Expansion",
-  "summary": "DRAM contract prices are projected to rise by up to 20% in Q3, with NAND flash seeing 35-40% increases, reflecting strong market demand. AI chip demand is fueling significant expansion in AI server manufacturing and data center infrastructure globally. Macroeconomic factors include AI's impact on youth employment and Bitcoin's anticipation of a critical Fed pivot point in July.",
+  "headline": "Memory Prices Surge, Trump's Market Influence, and AI Infrastructure Expansion",
+  "summary": "Q3 forecasts indicate DRAM contract prices could rise 20% and NAND 35-40%, driven by supplier control and Samsung's planned hikes. Former President Trump's activities continue to impact markets, with a new currency release and significant losses on a related crypto coin. AI infrastructure sees expansion with Wiwynn's new plants and CSCC's material advancements.",
   "sections": [
     {
       "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "DRAM contract prices are projected to increase by up to 20% in Q3.",
+          "lead": "DRAM and NAND contract prices are projected to surge in Q3.",
           "segments": [
             {
-              "text": "Samsung Electronics reportedly plans a 20% QoQ hike in DRAM average selling prices for Q3, with verbal notices already issued to some customers.",
-              "sources": [
-                {
-                  "title": "記憶體Q3合約價再飆！三大原廠握主導權 DRAM漲幅上看20％、NAND續漲35％～40％",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZmJ1OVBOMl9pRVMyM0Nvd05sZGl5bHk3eEdYMmlZSnA1cmxCdGIzMjhraF9NVERpSGFSMElGTlFHU2hZQlZVb3NDLXpnV0FqOV90N2poTW9vMzNYcWRz?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-                }
-              ],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2073210230155215048"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "NAND flash contract prices are also expected to see substantial gains.",
-          "segments": [
-            {
-              "text": "Contract prices for NAND flash are forecast to rise by 35-40% in Q3, with major manufacturers holding significant market control.",
+              "text": "DRAM contract prices are expected to increase by up to 20%, while NAND prices could rise by 35-40% in Q3, with major manufacturers holding pricing power.",
               "sources": [
                 {
                   "title": "記憶體Q3合約價再飆！三大原廠握主導權 DRAM漲幅上看20％、NAND續漲35％～40％",
@@ -44,14 +22,19 @@
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "HBM pricing is anticipated to see significant increases for future orders.",
-          "segments": [
+            },
             {
-              "text": "Bernstein forecasts a 2.00x-2.50x increase in HBM prices for 2027 orders, with contract negotiations expected to favor the three main HBM suppliers.",
+              "text": "Samsung Electronics reportedly plans to raise DRAM average selling prices by 20% quarter-over-quarter in Q3, with verbal notices already issued to some customers.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2073210230155215048"
+                }
+              ]
+            },
+            {
+              "text": "Bernstein forecasts a significant 2.00x-2.50x increase in HBM prices for 2027 orders, with contract negotiations expected to be highly favorable for the three main HBM suppliers.",
               "sources": [],
               "x_mentions": [
                 {
@@ -61,208 +44,6 @@
               ]
             }
           ]
-        },
-        {
-          "lead": "A prominent investor has taken a bearish position on Micron.",
-          "segments": [
-            {
-              "text": "Michael Burry reportedly shorted Micron ($MU) at $1,051.87, achieving a quick 7% gain.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@negligible_cap",
-                  "url": "https://x.com/negligible_cap/status/2072792105705996536"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "US Semis / AI Chips",
-      "bullets": [
-        {
-          "lead": "Analog semiconductor lead times are extending, indicating strong demand.",
-          "segments": [
-            {
-              "text": "Analog Devices ($ADI) is requesting six-month advance orders from customers, reflecting a broader trend of extended lead times across the analog semiconductor sector.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2073360477477081192"
-                },
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2073231120746070344"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Wafer Works is experiencing significant pricing power and expanding 12-inch wafer production.",
-          "segments": [
-            {
-              "text": "Wafer Works (6182) has seen substantial stock appreciation, driven by multiple price hikes for 6-inch wafers and anticipated increases for 8-inch and 12-inch wafers.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@ParadisLabs",
-                  "url": "https://x.com/ParadisLabs/status/2073011663091957856"
-                },
-                {
-                  "handle": "@Blinklebloop",
-                  "url": "https://x.com/Blinklebloop/status/2072954930218893736"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "MediaTek is actively pursuing AI accelerator ASIC deals with hyperscalers.",
-          "segments": [
-            {
-              "text": "MediaTek is engaging with Meta for AI accelerator chip deals and is a key custom ASIC client for Google, developing chips like Zebrafish, Humufish, and v9 Tri.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2072458563893768328"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia is driving demand for coherent optical transport with its \"scale-across\" strategy.",
-          "segments": [
-            {
-              "text": "Nvidia's \"scale-across\" strategy, utilizing Spectrum-XGS, aims to link distributed AI data centers into larger AI factories, thereby increasing demand for advanced cross-DC networking.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@crux_capital_",
-                  "url": "https://x.com/crux_capital_/status/2072915801796133204"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "bullets": [
-        {
-          "lead": "Wiwynn is expanding its global AI server manufacturing capabilities.",
-          "segments": [
-            {
-              "text": "Wiwynn is increasing its AI server manufacturing footprint with new plants in El Paso, Texas, and Malaysia, alongside production line upgrades, to meet demand from hyperscalers like Amazon.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2072475034762039729"
-                },
-                {
-                  "handle": "@Aaronwei3n",
-                  "url": "https://x.com/Aaronwei3n/status/2072922233656484282"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "CSCC is advancing carbon materials for the AI data center BBU supply chain.",
-          "segments": [
-            {
-              "text": "CSCC is making progress in carbon material development, which is crucial for the battery backup unit (BBU) supply chain in AI data centers.",
-              "sources": [
-                {
-                  "title": "CSCC advances carbon materials for AI data center BBU supply chain",
-                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTlLTDdwaWZJX3FoRWFoUkZ5eFJ6WHBhWTRQbUFmaE5lSmxkSDNES1FOTEpPNGJIVGdKYlRmQko1Uk02NGtsSHA0TTRfajVtcm15VEh4VnJxWmZRWWgyNjJHVGZHb21CcEpHb3NXeXBKcGlKU0JTQmQ0X3pZOU5UNHlsaXZaWlgtaHJhOXJmbUl0VDJQZmRDT1ExdkhCYXJDT1BpZ21n?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Prologis is pursuing a major deal to expand its logistics and data center footprint.",
-          "segments": [
-            {
-              "text": "Prologis (PLD) is seeking a £12.6 billion deal with Segro to significantly expand its presence in logistics and data center real estate.",
-              "sources": [
-                {
-                  "title": "Prologis (PLD) Pursues £12.6 Billion Segro Deal to Expand Logistics and Data Center Footprint",
-                  "link": "https://finance.yahoo.com/real-estate/articles/prologis-pld-pursues-12-6-023411331.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "AI's rapid adoption is impacting youth employment in IT and professional services.",
-          "segments": [
-            {
-              "text": "AI is increasingly affecting youth employment, with a notable decline in IT and professional service sectors.",
-              "sources": [
-                {
-                  "title": "청년 고용 덮친 AI... IT·전문 서비스 감소세 뚜렷",
-                  "link": "https://n.news.naver.com/mnews/article/014/0005543809?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The ECB maintains a positive outlook on inflation data.",
-          "segments": [
-            {
-              "text": "The European Central Bank (ECB) is in a \"good position\" regarding inflation data, according to Moulin.",
-              "sources": [
-                {
-                  "title": "ECB Is in ‘Good Position’ Given Inflation Data, Moulin Says",
-                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYU52dF9qZndvWVlpRHZwNHdyWUJzQ1E2WGliWjVoa0JkYnBXa0tfSlhzZWUwejVDX3JKNzRhQlczSHdRd0hPZWY3SFlGTm5Dc1JRMnpaTzZQaUtqS2VsU3RPWXFDdlBVaGRLcUlYMGxYWENVaE5IWmgtaG1GblpjeC1PaVRVR2J1OC1VRFVGeU1JN01HNzdjcXcyU0lvMjQtRTdPV3dYcERYdVE?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Bitcoin is poised for a critical Fed July price pivot point.",
-          "segments": [
-            {
-              "text": "Bitcoin is currently bracing for a significant price movement in July, tied to the Federal Reserve's upcoming policy decisions.",
-              "sources": [
-                {
-                  "title": "Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’",
-                  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWZUV1lLVDBjZjZSVGh1aXlGUV9GT3IxRkhHLWZJelBTN0xvOEZKVXRsdEswdmlubzRLUUdrQUdlbGdIMFEwbnQtbnBVT2JpYm9WbFpSS2hYdXNKMkRCRmREZ3ZjbVpHaE9lV2tGa0lobDVlYVZxWlJZQVRLLUtPakpsa193UjRSMk5Ma05yRUVkbEZCTnhfQ3VwMXU1OGpiOUV6bDRJa2ptQTAza2ZqU0FTYnlKRVVaZ0tkZFA0MmVEXzFDcmdmZzBnZWNucU0?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
@@ -270,27 +51,34 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Elon Musk is accelerating in-house chip production efforts, hiring Intel veterans.",
+          "lead": "Former President Trump's influence continues to shape policy and market narratives.",
           "segments": [
             {
-              "text": "Elon Musk is pushing to speed up his companies' internal chip production, bringing in experienced Intel veterans to lead \"terafab\" initiatives.",
+              "text": "Trump has offered to mediate a deal between Russia and Ukraine, while also engaging with Ukrainian President Zelenskiy.",
               "sources": [
                 {
-                  "title": "자체 칩 생산 속도 내는 머스크...'테라팹' 책임자로 인텔 베테랑 영입",
-                  "link": "https://www.aitimes.com/news/articleView.html?idxno=212443",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskiy",
+                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ3Z6dHlGeW9Jcy1FYzg0OGJMRFhNWlFucnlnalREWTZnQnlrVUxMSm9Mclloclh2QkRqMlRTSDBCNHNBS0VFV08xLUVBejFrVVFKQk5rNGk0YlhiSXZYcFlJbWFqY0tpQWNnTkdNMVRhd0ZYN2s1bThsbk5xMEc2VklRd1pCc1huMDNFTjBlLTlHeE1XaUFudmR6RTE4ejhtUERSREVGNEN0emdyd3RSekJwWm5IRUgzWmdsVGs1dDMtNTg?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nearly a million investors incurred significant losses on a Trump-backed crypto coin.",
-          "segments": [
+            },
             {
-              "text": "Approximately one million investors collectively lost $3.8 billion on a cryptocurrency coin associated with Donald Trump.",
+              "text": "The Treasury Department has released currency signed by Trump, coinciding with Fourth of July celebrations.",
+              "sources": [
+                {
+                  "title": "Treasury Rolls Out Currency Signed by Trump for Fourth of July",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUZPY2NVUW9wckRyVzFoVXBwTXNHRkZzQVJYbHpMUzRBaVZSQ3ptQ0RoWWtDNVExZXFnV1NPbHlaZ1lpbi1TQW4xSkxTZEJwY2d1MTNsdlBhZERvYzZRcGhoaVYwZVZKMEhjN2RNTkR0bkZVdlJNUThaVThyN2tmeTl1TXVJS0cyQ0lZbmFHeW5FV0tWeW9JMENERVp5VTFObTBLdWRtb1FnemYtam1UTV9RVTU?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Nearly a million investors collectively lost $3.8 billion on a Trump-themed crypto coin, highlighting risks in politically-linked digital assets.",
               "sources": [
                 {
                   "title": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
@@ -300,14 +88,9 @@
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Wall Street-backed investment funds for children, dubbed 'Trump accounts,' are set to launch.",
-          "segments": [
+            },
             {
-              "text": "Investment funds for children, supported by Wall Street and referred to as 'Trump accounts,' are preparing to go live.",
+              "text": "Wall Street-backed investment funds, dubbed 'Trump accounts', are set to launch for children, indicating a new trend in investment products.",
               "sources": [
                 {
                   "title": "‘Trump accounts’: Wall Street-backed investment funds for children to go live",
@@ -323,13 +106,52 @@
       ]
     },
     {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Bitcoin is poised for a critical July price pivot point influenced by Fed actions.",
+          "segments": [
+            {
+              "text": "Bitcoin's price trajectory is now closely tied to a potential July 'pivot point' related to Federal Reserve policy.",
+              "sources": [
+                {
+                  "title": "Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’",
+                  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWZUV1lLVDBjZjZSVGh1aXlGUV9GT3IxRkhHLWZJelBTN0xvOEZKVXRsdEswdmlubzRLUUdrQUdlbGdIMFEwbnQtbnBVT2JpYm9WbFpSS2hYdXNKMkRCRmREZ3ZjbVpHaE9lV2tGa0lobDVlYVZxWlJZQVRLLUtPakpsa193UjRSMk5Ma05yRUVkbEZCTnhfQ3VwMXU1OGpiOUV6bDRJa2ptQTAza2ZqU0FTYnlKRVVaZ0tkZFA0MmVEXzFDcmdmZzBnZWNucU0?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The European Central Bank maintains a strong position on inflation.",
+          "segments": [
+            {
+              "text": "The European Central Bank (ECB) is in a \"good position\" regarding inflation data, according to Moulin.",
+              "sources": [
+                {
+                  "title": "ECB Is in ‘Good Position’ Given Inflation Data, Moulin Says",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYU52dF9qZndvWVlpRHZwNHdyWUJzQ1E2WGliWjVoa0JkYnBXa0tfSlhzZWUwejVDX3JKNzRhQlczSHdRd0hPZWY3SFlGTm5Dc1JRMnpaTzZQaUtqS2VsU3RPWXFDdlBVaGRLcUlYMGxYWENVaE5IWmgtaG1GblpjeC1PaVRVR2J1OC1VRFVGeU1JN01HNzdjcXcyU0lvMjQtRTdPV3dYcERYdVE?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Wall Street banks are recovering in China amidst a trading boom.",
+          "lead": "Wall Street banks are seeing a recovery in China amidst a trading boom.",
           "segments": [
             {
-              "text": "Major Wall Street banks are seeing a recovery in their operations in China, driven by a robust trading environment.",
+              "text": "Major Wall Street banks are experiencing a resurgence in their China operations, driven by a robust trading environment.",
               "sources": [
                 {
                   "title": "Wall Street banks recover in China amid trading boom",
@@ -343,10 +165,10 @@
           ]
         },
         {
-          "lead": "China is making progress in building a sovereign AI compute stack.",
+          "lead": "China is advancing its domestic AI compute stack.",
           "segments": [
             {
-              "text": "China is strategically advancing its efforts to establish a domestic compute stack for various AI workloads, despite remaining behind the global frontier in full-stack AI training ecosystems.",
+              "text": "China is making strategic progress in building a sovereign compute stack for various AI workloads, though it remains behind the global frontier in full-stack AI training ecosystems.",
               "sources": [],
               "x_mentions": [
                 {
@@ -358,56 +180,140 @@
           ]
         }
       ]
+    },
+    {
+      "label": "AI Infrastructure / Hyperscaler Capex",
+      "bullets": [
+        {
+          "lead": "AI data center infrastructure and supply chains are advancing globally.",
+          "segments": [
+            {
+              "text": "CSCC is making progress in carbon materials for the AI data center Battery Backup Unit (BBU) supply chain.",
+              "sources": [
+                {
+                  "title": "CSCC advances carbon materials for AI data center BBU supply chain",
+                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTlLTDdwaWZJX3FoRWFoUkZ5eFJ6WHBhWTRQbUFmaE5lSmxkSDNES1FOTEpPNGJIVGdKYlRmQko1Uk02NGtsSHA0TTRfajVtcm15VEh4VnJxWmZRWWgyNjJHVGZHb21CcEpHb3NXeXBKcGlKU0JTQmQ0X3pZOU5UNHlsaXZaWlgtaHJhOXJmbUl0VDJQZmRDT1ExdkhCYXJDT1BpZ21n?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Wiwynn is expanding its AI server manufacturing capabilities with new plants in El Paso, Texas, and Malaysia, alongside production line upgrades, to support demand for Amazon Train.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2072475034762039729"
+                },
+                {
+                  "handle": "@Aaronwei3n",
+                  "url": "https://x.com/Aaronwei3n/status/2072922233656484282"
+                }
+              ]
+            },
+            {
+              "text": "Prologis is pursuing a £12.6 billion deal with Segro to expand its logistics and data center footprint.",
+              "sources": [
+                {
+                  "title": "Prologis (PLD) Pursues £12.6 Billion Segro Deal to Expand Logistics and Data Center Footprint",
+                  "link": "https://finance.yahoo.com/real-estate/articles/prologis-pld-pursues-12-6-023411331.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "CHPT reported a new monthly high in June revenue driven by AI and HPC test interface demand.",
+          "segments": [
+            {
+              "text": "CHPT's June revenue reached a new monthly high, fueled by strong demand for AI and High-Performance Computing (HPC) test interfaces.",
+              "sources": [
+                {
+                  "title": "AI, HPC test interface demand drives CHPT June revenue to new monthly high",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1hFNTBGZzhnSjIzZUF0VHJVdXVpdW9yMEhKbU54aUFjLTItSUs5cXFtazhBa1FOS3pwcWZQNnQ0VGxTV1hsYkxodUJLSjVRSk1ueDJWMnRLZ1J6OS1fZG8xU09BVTdNQThQTmZYNUo1U3BfdlFuSk5RNUhXa1F3aDIwRGdmMWZwVGNDUTFtalZLVVBTQm96UFBn?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Analysts are previewing the European earnings season.",
+          "segments": [
+            {
+              "text": "Analysts are highlighting three key areas to watch during the upcoming European earnings season.",
+              "sources": [
+                {
+                  "title": "European earnings season preview: Watch these 3 things, analyst says",
+                  "link": "https://www.investing.com/news/stock-market-news/european-earnings-season-preview-watch-these-3-things-analyst-says-4775381",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "watchlist": [
     {
-      "name": "Micron ($MU)",
-      "note": "Michael Burry's short position signals potential volatility in the memory sector.",
-      "sources": [],
-      "x_mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2072792105705996536"
-        }
-      ]
-    },
-    {
       "name": "Samsung Electronics",
-      "note": "Anticipated 20% DRAM price hike in Q3 will impact earnings and sector sentiment.",
-      "sources": [
-        {
-          "title": "記憶體Q3合約價再飆！三大原廠握主導權 DRAM漲幅上看20％、NAND續漲35％～40％",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZmJ1OVBOMl9pRVMyM0Nvd05sZGl5bHk3eEdYMmlZSnA1cmxCdGIzMjhraF9NVERpSGFSMElGTlFHU2hZQlZVb3NDLXpnV0FqOV90N2poTW9vMzNYcWRz?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-        }
-      ],
+      "note": "Expected DRAM price hikes and HBM forecasts suggest strong performance in the memory sector.",
+      "sources": [],
       "x_mentions": [
         {
           "handle": "@jukan05",
           "url": "https://x.com/jukan05/status/2073210230155215048"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2073068353447395793"
         }
       ]
     },
     {
-      "name": "Analog Devices ($ADI)",
-      "note": "Extended lead times suggest strong demand and potential for pricing power in analog semiconductors.",
-      "sources": [],
-      "x_mentions": [
+      "name": "Bitcoin",
+      "note": "A critical Fed-influenced price pivot point is anticipated in July, warranting close observation.",
+      "sources": [
         {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2073360477477081192"
-        },
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2073231120746070344"
+          "title": "Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWZUV1lLVDBjZjZSVGh1aXlGUV9GT3IxRkhHLWZJelBTN0xvOEZKVXRsdEswdmlubzRLUUdrQUdlbGdIMFEwbnQtbnBVT2JpYm9WbFpSS2hYdXNKMkRCRmREZ3ZjbVpHaE9lV2tGa0lobDVlYVZxWlJZQVRLLUtPakpsa193UjRSMk5Ma05yRUVkbEZCTnhfQ3VwMXU1OGpiOUV6bDRJa2ptQTAza2ZqU0FTYnlKRVVaZ0tkZFA0MmVEXzFDcmdmZzBnZWNucU0?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
-      ]
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Trump-related assets",
+      "note": "Volatility and investor losses observed in Trump crypto coin highlight the speculative nature of politically-linked digital assets.",
+      "sources": [
+        {
+          "title": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
+          "link": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
     },
     {
       "name": "Wiwynn",
-      "note": "Global expansion of AI server manufacturing indicates continued hyperscaler demand and capex.",
+      "note": "The company is expanding its AI server manufacturing capabilities with new plants, indicating growth in AI infrastructure.",
       "sources": [],
       "x_mentions": [
         {
@@ -421,14 +327,14 @@
       ]
     },
     {
-      "name": "Bitcoin",
-      "note": "July Fed meeting could be a critical pivot point for price action and broader crypto market.",
+      "name": "DRAM/NAND Suppliers",
+      "note": "Anticipated significant contract price increases for Q3 signal strong market power and potential revenue growth.",
       "sources": [
         {
-          "title": "Bitcoin Now Braced For A Critical Fed July Price ‘Pivot Point’",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaWZUV1lLVDBjZjZSVGh1aXlGUV9GT3IxRkhHLWZJelBTN0xvOEZKVXRsdEswdmlubzRLUUdrQUdlbGdIMFEwbnQtbnBVT2JpYm9WbFpSS2hYdXNKMkRCRmREZ3ZjbVpHaE9lV2tGa0lobDVlYVZxWlJZQVRLLUtPakpsa193UjRSMk5Ma05yRUVkbEZCTnhfQ3VwMXU1OGpiOUV6bDRJa2ptQTAza2ZqU0FTYnlKRVVaZ0tkZFA0MmVEXzFDcmdmZzBnZWNucU0?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "記憶體Q3合約價再飆！三大原廠握主導權 DRAM漲幅上看20％、NAND續漲35％～40％",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZmJ1OVBOMl9pRVMyM0Nvd05sZGl5bHk3eEdYMmlZSnA1cmxCdGIzMjhraF9NVERpSGFSMElGTlFHU2hZQlZVb3NDLXpnV0FqOV90N2poTW9vMzNYcWRz?oc=5",
+          "source": "Commercial Times 工商時報",
+          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
         }
       ],
       "x_mentions": []
@@ -684,6 +590,6 @@
       "change_pct": -0.19
     }
   ],
-  "story_count": 36,
+  "story_count": 34,
   "bucket_count": 10
 }
