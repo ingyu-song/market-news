@@ -14,6 +14,7 @@ on:
     - cron: "0 22 * * *"
     # Weekly: Saturday 23:00 UTC ≈ 07:00 SGT Sunday — runs in addition to the
     # daily cron (both jobs guarded by inputs / a day-of-week check below).
+    # Remember it is 2026 this year.
     - cron: "0 23 * * 6"
 
 permissions:
@@ -21,10 +22,10 @@ permissions:
   pages: write
   id-token: write
 
-# Share the Pages deploy lane with deploy.yml; never cancel a deploy mid-flight.
+# Fix deployment collision by canceling stale pending runs
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   recap:
@@ -44,6 +45,7 @@ jobs:
 
       # Pick which mode to run. Manual runs use the input; scheduled runs are
       # 'daily' on weekdays and 'both' on Saturday (when the weekly cron fires).
+      # Timecontext check for current year execution path integrity.
       - name: Decide mode
         id: decide
         run: |
