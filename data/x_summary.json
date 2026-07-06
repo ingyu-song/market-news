@@ -1,13 +1,103 @@
 {
-  "generated_at": "2026-07-05T00:08:40+00:00",
-  "tweet_count": 87,
-  "account_count": 24,
+  "generated_at": "2026-07-06T00:13:53+00:00",
+  "tweet_count": 88,
+  "account_count": 23,
   "themes": [
     {
-      "topic": "Widespread labor replacement by humanoids and industrial robots",
+      "topic": "NVIDIA AI factory architecture complexity and delays",
+      "category": "sectors",
+      "subcategory": "gpu",
+      "summary": "NVIDIA's full-stack AI factory architecture, including optics, power, and thermals, is becoming more complex, potentially widening its moat but also causing tactical delays and raising concerns about customer pushback.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2073913818552668495",
+          "text": "$NVDA $MU $SNDK $LITE If the issue is technical/rack-scale complexity rather than demand, it is long-term bullish for NVDA’s moat.\n\nThe key distinction:\n\n• [INFERENCE, High] STRATEGICALLY BULLISH: the harder AI factories get — optics, power, thermals, rack topology, networking, v"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2073890864628421111",
+          "text": "1. Bullish for the NPO supply chain.\n2. The spec downgrade of NVIDIA Rubin Ultra signals the erosion of NVIDIA’s performance moat.\n3. Bearish for the CPO supply chain.\n4. Big winners: AMD and the TPU ecosystem?"
+        }
+      ]
+    },
+    {
+      "topic": "Foxconn's strong AI server and CPO switch demand",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Foxconn reported soaring Q2 revenue driven by strong global demand for AI servers and networking products, with expectations for continued growth in Q3, including mass production of CPO switches.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2073894530257166597",
+          "text": "Foxconn’s 2nd quarter revenue soared 39.8% year-on-year to NT$2.51 trillion (US$78.69 billion) due to strong global demand for AI servers and networking products, media report.\n\nIn the 3rd quarter, Foxconn expects momentum to continue to grow versus Q2 and year-on-year, as “…AI r"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2073755509790818733",
+          "text": "$2317 $NVDA $MU $SNDK $LITE EXECUTIVE TAKEAWAY\n\nHon Hai’s June 2026 revenue release is materially positive for the top-line trajectory, the AI infrastructure mix shift, and 2H26 operating momentum. June revenue of NT$821.8 billion declined 4.38 percent MoM from an exceptionally h"
+        }
+      ]
+    },
+    {
+      "topic": "Micron's Hiroshima investment and memory market price hikes",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Micron is investing 1.5T Yen in Hiroshima, while the broader memory market anticipates NAND shortages into 2027 and significant price increases for DDR contracts and HBM orders in 2026-2027.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
+          "text": "Just some consolidated updates on memory: \n\n-  $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized.\n\n- Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / K"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2073109637629358322",
+          "text": "They will do a return of capital within the next 3 years at which point the discount will narrow - cycle is most likely 5+ years from here at a minimum as demand is forecast to 5.00x by 2030 whilst supply only doubles, meaning that the current enormous pool of unserved demand wil"
+        }
+      ]
+    },
+    {
+      "topic": "Agility Robotics' commercialization and NVIDIA Halos integration",
       "category": "out_of_ai",
       "subcategory": "robotics",
-      "summary": "E-commerce giants like JD.com and Amazon are actively pursuing strategies to replace hundreds of thousands of delivery and other workers with robots, with JD.com retraining staff for robot maintenance. This trend, driven by rapid advancements in humanoid capabilities and economic efficiency, suggests an inflection point where most human-only labor could be replaced, especially as mass production costs fall below $15K.",
+      "summary": "Agility Robotics is advancing its Digit humanoids with significant funding and deployments, leading in safety by being the first to adopt NVIDIA Halos for Robotics, which is critical for mass adoption in industrial workflows.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
+          "text": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Technologies\n8. $AMZN Robotics\n9. Covarian"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2073796182006968603",
+          "text": "Just a quick summary on $CCXI (Agility):\n\n- Going public via $CCXI SPAC -> $AGLT in around Q4.\n\n- Roughly $640M private funding including backers like $AMZN, $NVDA, SoftBank, DCVC.\n\n- Around 100 Digit humanoids deployed at $AMZN, $GXO, Schaeffler, Toyota, $MELI (just 9 facilities"
+        }
+      ]
+    },
+    {
+      "topic": "AWS Trainium ASIC shipment forecast increase",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "Amazon AWS has raised its Q3 ASIC server shipment forecast by 20-30% for Trainium3 chips, signaling strong momentum and potentially accelerating the launch of Trainium4.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2073898694299332813",
+          "text": "Amazon AWS has raised its ASIC server shipment forecast 20%-30% for the 3rd quarter - versus its original plans - signaling optimism for its Trainium3 chips, media report, citing unnamed supply chain sources, who are looking to see if AWS accelerates the launch of Trainium4 due t"
+        },
+        {
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2072922233656484282",
+          "text": "👀👀\n\n“In addition to placing ASIC orders with $MRVL and Alchip Technologies, AWS is also evaluating another U.S.-based design services provider. Small-volume shipments are expected to begin next year.”\n_\nSome AWS Updates II\n\nWistron started shipping Trainium 3 at the end of May, s"
+        }
+      ]
+    },
+    {
+      "topic": "JD.com and Amazon's robot adoption and job displacement",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "JD.com's CEO warns robots will replace 700,000 delivery workers, with plans to retrain them for robot maintenance, mirroring Amazon's strategy to avoid future hires with robotics.",
       "mentions": [
         {
           "handle": "@aleabitoreddit",
@@ -17,168 +107,41 @@
       ]
     },
     {
-      "topic": "China's domestic AI compute stack and self-sufficiency efforts",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "China is making strategic progress in building a sovereign compute stack for various AI workloads, but remains structurally behind the global frontier in full-stack AI training economics. Achieving full frontier parity by 2030 is unlikely without significant improvements in HBM, advanced packaging, lithography, and other critical semiconductor technologies.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2073397402384454025",
-          "text": "China’s Domestic Compute Stack: Strategic Progress, Structural Gaps, Market Impact. New: 7/4/26.\n\nChina is building a sovereign compute stack that is increasingly viable for government, SOE, telecom, national cloud, industrial, edge-AI, mature-node semiconductor, and inference-he"
-        }
-      ]
-    },
-    {
-      "topic": "Wiwynn's global AI server manufacturing expansion and supply chain diversification",
+      "topic": "CXMT's bonded DRAM development without EUV lithography",
       "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Wiwynn is expanding its AI server manufacturing capabilities with new plants in El Paso, Texas, and Malaysia, alongside production line upgrades, to support demand for Amazon Trainium 3 and AMD MI445 servers for Meta, completing its non-China supply chain diversification.",
+      "subcategory": "memory",
+      "summary": "China's CXMT is testing a pilot production line for bonded DRAM in Hefei, aiming to achieve high-performance memory without EUV lithography by fabricating and bonding cell arrays and peripheral circuitry on separate wafers.",
       "mentions": [
         {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2072475034762039729",
-          "text": "Wiwynn, the AI server giant, is speeding up construction at its El Paso, Texas plant (USA) and has acquired land in Malaysia for a 3rd factory there, media report, adding new production lines are being installed at the 1st & 2nd plants (both in volume production since 2024, 2025,"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2073695400985510295",
+          "text": "🚨Korean media report that China’s CXMT is currently testing a pilot production line for bonded DRAM in Hefei, aiming to achieve high-performance DRAM without using EUV lithography.\n\nBonded DRAM is a technology in which the memory cell array and the peripheral circuitry are fabric"
         },
         {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2072922233656484282",
-          "text": "👀👀\n\n“In addition to placing ASIC orders with $MRVL and Alchip Technologies, AWS is also evaluating another U.S.-based design services provider. Small-volume shipments are expected to begin next year.”\n_\nSome AWS Updates II\n\nWistron started shipping Trainium 3 at the end of May, s"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2073766700982649255",
+          "text": "Well, fabbing the peri and cell arrays on different wafers and hybrid bonding them is on everyone's roadmap\nCXMT isn't doing anything new here\nSmart way to get 15%-25% gains"
         }
       ]
     },
     {
-      "topic": "Wafer Works (6182) pricing power and 12-inch wafer expansion",
+      "topic": "Intel 18A process yield improvement and production ramp",
       "category": "sectors",
       "subcategory": "foundry",
-      "summary": "Wafer Works (6182) has seen significant stock appreciation, driven by increased pricing power with multiple price hikes for 6-inch wafers and anticipated increases for 8-inch and 12-inch wafers in H2, alongside capex for 12-inch expansions.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2073011663091957856",
-          "text": "Fun times with Wafer Works (6182).\n\nUp over 5x since my thesis three months ago.\n\nI'm pleased to know that I was directionally correct with the trade, and seemed to front-run institutions and retail perfectly.\n\nBut for a little more context:\n\nThey're seeing increased pricing powe"
-        },
-        {
-          "handle": "@Blinklebloop",
-          "url": "https://x.com/Blinklebloop/status/2072954930218893736",
-          "text": "Wafers going up https://t.co/SU6NLIkakz"
-        }
-      ]
-    },
-    {
-      "topic": "Analog Semiconductor Extended Lead Times",
-      "category": "sectors",
-      "subcategory": "analog",
-      "summary": "Analog Devices ($ADI) is asking customers for six-month advance orders, reflecting a general trend of extended lead times across the analog semiconductor sector.",
+      "summary": "Intel has reportedly fixed 18A wafer-to-wafer yield variability, with its Oregon and Arizona facilities now reaching an output of approximately 30,000 wafers per month.",
       "mentions": [
         {
           "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2073360477477081192",
-          "text": "Analog devices $ADI is asking customers to place orders “at least six months in advance” through preferred channel partners to secure supply."
-        },
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2073231120746070344",
-          "text": "Analog semiconductor lead times are now up to six months!! https://t.co/e4eFn2lSTN"
+          "url": "https://x.com/wallstengine/status/2073370155644809545",
+          "text": "Intel $INTC reportedly fixed 18A wafer-to-wafer yield variability, with Oregon + Arizona output reaching ~30K wafers/month, per BlueFin. https://t.co/1GyQwUsEbU"
         }
       ]
     },
     {
-      "topic": "US tech job postings and AI skills demand surge",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "US tech job postings reached a 3-year high of 575,000 in April, with listings requiring AI skills more than doubling year-over-year, indicating strong demand in the tech labor market.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2073367789352734791",
-          "text": "U.S. tech postings hit 575,000 in April, a 3-year high, while listings requiring AI skills more than doubled YoY. https://t.co/HCqULeeRMU"
-        }
-      ]
-    },
-    {
-      "topic": "Goldman Sachs High Beta Momentum index's significant two-day decline",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The Goldman Sachs High Beta Momentum index has experienced its worst two-day decline since the COVID-19 pandemic, falling almost 19%, indicating significant market volatility in high-beta stocks.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2072760888671584341",
-          "text": "Goldman Sachs High Beta Momentum index is having it's worst two-day move since Covid, now down almost 19%. https://t.co/VhKhVXvNQw"
-        }
-      ]
-    },
-    {
-      "topic": "Michael Burry's short position on Micron ($MU)",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Michael Burry reportedly shorted Micron ($MU) at $1,051.87, achieving a quick 7% gain, highlighting a notable bearish bet by a prominent investor against the memory sector.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2072792105705996536",
-          "text": "*MICHAEL BURRY SAYS HE SHORTED MICRON AT $1,051.87 ON WEDNESDAY\n\nQuick 7% gain for Burry -$MU"
-        }
-      ]
-    },
-    {
-      "topic": "Samsung's planned 20% DRAM price hike in Q3",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Samsung Electronics reportedly plans to raise DRAM average selling prices by 20% quarter-over-quarter in Q3, with verbal notices already issued to some customers. This increase in upstream component prices is expected to be passed on to end-product prices.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2073210230155215048",
-          "text": "Samsung reportedly plans to raise DRAM prices by 20% in Q3; manufacturers say they have already received verbal notices\n\nOn July 3, reports emerged that Samsung Electronics plans to raise the average selling price of DRAM in the third quarter of this year by 20% quarter over quar"
-        }
-      ]
-    },
-    {
-      "topic": "Bernstein's bullish forecast for 2027 HBM price increases",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Bernstein forecasts a significant 2.00x-2.50x increase in HBM prices for 2027 orders, with contract negotiations expected to be highly favorable for the three main HBM suppliers: Samsung, Hynix, and Micron ($MU).",
-      "mentions": [
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2073068353447395793",
-          "text": "Contract negotiations for 2027 HBM orders are going to be tasty, broker forecasts anticipate negligible price increases except for Bernstein who expects a c.2.00x - 2.50x increase. I am equally as bullish as Bernstein and think terms are going to be extremely favourable to the 3 "
-        }
-      ]
-    },
-    {
-      "topic": "AWS placing ASIC orders with Marvell and Alchip Technologies",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "AWS is placing ASIC orders with Marvell ($MRVL) and Alchip Technologies, while also evaluating another U.S.-based design services provider, with small-volume shipments expected to begin next year.",
-      "mentions": [
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2072922233656484282",
-          "text": "👀👀\n\n“In addition to placing ASIC orders with $MRVL and Alchip Technologies, AWS is also evaluating another U.S.-based design services provider. Small-volume shipments are expected to begin next year.”\n_\nSome AWS Updates II\n\nWistron started shipping Trainium 3 at the end of May, s"
-        }
-      ]
-    },
-    {
-      "topic": "MediaTek's pursuit of AI accelerator ASIC deals with hyperscalers",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "MediaTek is actively pursuing AI accelerator chip deals with Meta, despite Broadcom's existing announcement, and is a key custom ASIC client for Google (Zebrafish, Humufish, v9 Triggerfish). Qualcomm also holds significant chip deals with Meta, Microsoft, and ByteDance, highlighting intense competition in the custom AI ASIC market.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2072458563893768328",
-          "text": "MediaTek remains in the hunt for an AI accelerator chip deal with Meta, despite its announcement with Broadcom for one, media report, noting Meta’s work with Arm and Qualcomm focus on CPUs, not AI accelerators.\n-Google is MediaTek’s 1st big custom ASIC client, with Zebrafish and "
-        }
-      ]
-    },
-    {
-      "topic": "POET Technologies' issues with Marvell orders and management",
+      "topic": "POET Technologies' Marvell order cancellation and dilution",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "POET Technologies is facing issues after Marvell cancelled all orders, including initial production units, and its CFO disclosed confidential information. This, coupled with past dilution, raises concerns about the company's management and its role as an ELS supplier for CPO.",
+      "summary": "POET Technologies faces challenges after Marvell cancelled all orders, including initial production units, compounded by a CFO disclosure error and past dilution, impacting its role as an ELS supplier for CPO.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
@@ -188,15 +151,67 @@
       ]
     },
     {
-      "topic": "Nvidia's \"scale-across\" strategy driving demand for coherent optical transport",
+      "topic": "AWS increasing liquid cooling for Trainium 3 servers",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Nvidia is pushing a \"scale-across\" strategy with Spectrum-XGS to link distributed AI data centers into larger AI factories, driving demand for advanced cross-DC networking. This strategy, potentially involving a $5B-$10B long-haul telecom project, benefits companies like Ciena ($CIEN) in coherent transport, DCI, and network control.",
+      "subcategory": "liquid_cooling",
+      "summary": "AWS has increased its liquid cooling deployments for Trainium 3 servers from 10% to 30% of new racks, indicating additional revenue upside for suppliers and prompting qualification of new vendors.",
       "mentions": [
         {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2072915801796133204",
-          "text": "I am quite bullish $CIEN at these levels.\n\nWhen I stress test the optical investment universe trying to find durable companies, Ciena is consistently a top 3 for me.\n\nI have posted a lot about Ciena, but for this post let's hone in a bit. \n\nLook at what Nvidia is doing and saying"
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2072922233656484282",
+          "text": "👀👀\n\n“In addition to placing ASIC orders with $MRVL and Alchip Technologies, AWS is also evaluating another U.S.-based design services provider. Small-volume shipments are expected to begin next year.”\n_\nSome AWS Updates II\n\nWistron started shipping Trainium 3 at the end of May, s"
+        }
+      ]
+    },
+    {
+      "topic": "Datacenter BBU cylindrical cell shortage",
+      "category": "sectors",
+      "subcategory": "psu_bbu",
+      "summary": "There is a shortage of high-power cylindrical cells for Battery Backup Units (BBUs) used in data centers, with Samsung SDI and Panasonic experiencing supply issues due to increased demand.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2073763512216899825",
+          "text": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck):\n\n- Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. \n- As demand from data centers has increased, production of Samsung SDI's cylindrical cells has "
+        }
+      ]
+    },
+    {
+      "topic": "TSMC raising full-year revenue outlook",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "TSMC is expected to raise its full-year revenue outlook to nearly 40% growth, up from \"over-30%\", driven by strong orders from clients like Nvidia, AMD, and Apple amid the AI megatrend.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2073894247212912674",
+          "text": "TSMC is expected to raise its full-year revenue outlook to near 40% growth (in US$), up from “over-30%” now, when it reports 2nd quarter earnings on July 16, media report, adding the chip foundry giant continues to see strong orders from clients, including, Nvidia, AMD, Apple ami"
+        }
+      ]
+    },
+    {
+      "topic": "BlackBerry QNX embedded software platform adoption",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "BlackBerry's QNX software is widely adopted across automotive, medical devices, and robotics, running on various AI compute silicon from NVIDIA, Qualcomm, and Intel, demonstrating strong growth and high margins.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2073835302729232729",
+          "text": "275 million vehicles run on software almost no one can name. The same software runs 9 of 10 medical device makers and 8 of 10 surgical robotics platforms.\n\nIt is QNX, and it is a division of $BB.\n\nLast quarter it did $72.3M, up 25.7% YoY at 86% gross margin, now 47.3% of the enti"
+        }
+      ]
+    },
+    {
+      "topic": "Fireworks AI kernel optimization for GPU throughput",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Fireworks AI is achieving significantly higher GPU throughput (2.6x to 5.6x) compared to competitors by optimizing low-level GPU code (kernels) with its FireAttention technology, which is crucial amidst HBM scarcity.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2073862090578891121",
+          "text": "Fireworks is kernelmogging $NBIS and $CRWV on the exact same NVIDIA silicon. 746 tokens per second against 480 and 290.\n\nRun the napkin math. One Fireworks GPU pushes 746 t/s while one Nebius GPU pushes 290, so a single card serves roughly 2.6x the users. To match one Fireworks r"
         }
       ]
     }
