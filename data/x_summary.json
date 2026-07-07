@@ -1,186 +1,187 @@
 {
-  "generated_at": "2026-07-06T00:13:53+00:00",
-  "tweet_count": 88,
-  "account_count": 23,
+  "generated_at": "2026-07-07T00:19:13+00:00",
+  "tweet_count": 90,
+  "account_count": 24,
   "themes": [
     {
-      "topic": "NVIDIA AI factory architecture complexity and delays",
+      "topic": "Samsung Q2 Earnings Beat on AI Memory Demand",
       "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "NVIDIA's full-stack AI factory architecture, including optics, power, and thermals, is becoming more complex, potentially widening its moat but also causing tactical delays and raising concerns about customer pushback.",
+      "subcategory": "memory",
+      "summary": "Samsung Electronics reported a significant Q2 operating profit beat, surging 19x year-over-year to ~$58.4B, driven by strong AI memory demand, despite revenue slightly missing consensus.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2073913818552668495",
-          "text": "$NVDA $MU $SNDK $LITE If the issue is technical/rack-scale complexity rather than demand, it is long-term bullish for NVDA’s moat.\n\nThe key distinction:\n\n• [INFERENCE, High] STRATEGICALLY BULLISH: the harder AI factories get — optics, power, thermals, rack topology, networking, v"
+          "url": "https://x.com/TheValueist/status/2074271428623421468",
+          "text": "$005930 (Bloomberg) -- Samsung reported operating profit for the second quarter that beat the average analyst estimate.\nSECOND QUARTER RESULTS\n•Operating profit 89.40 trillion won, estimate 84.2 trillion won (Bloomberg Consensus)\n•Sales 171.00 trillion won, estimate 169.23 trilli"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2074265707773075562",
+          "text": "*SAMSUNG 2Q OPER PROFIT 89.40T WON, EST. 84.2T WON\n\nSamsung’s quarterly profit up 19X YoY, beating estimates. https://t.co/yTszuSJilQ"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2073890864628421111",
-          "text": "1. Bullish for the NPO supply chain.\n2. The spec downgrade of NVIDIA Rubin Ultra signals the erosion of NVIDIA’s performance moat.\n3. Bearish for the CPO supply chain.\n4. Big winners: AMD and the TPU ecosystem?"
-        }
-      ]
-    },
-    {
-      "topic": "Foxconn's strong AI server and CPO switch demand",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Foxconn reported soaring Q2 revenue driven by strong global demand for AI servers and networking products, with expectations for continued growth in Q3, including mass production of CPO switches.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2073894530257166597",
-          "text": "Foxconn’s 2nd quarter revenue soared 39.8% year-on-year to NT$2.51 trillion (US$78.69 billion) due to strong global demand for AI servers and networking products, media report.\n\nIn the 3rd quarter, Foxconn expects momentum to continue to grow versus Q2 and year-on-year, as “…AI r"
+          "url": "https://x.com/jukan05/status/2074262363835125955",
+          "text": "2026.07.07 07:39:44\nCompany: Samsung Electronics (Market cap: KRW 1,859.1tn) A005930\nReport title: Preliminary Earnings Based on Consolidated Financial Statements / Fair Disclosure\nRevenue: KRW 171.0tn (Consensus: KRW 173.0tn / -1%)\nOperating profit: KRW 89.4tn (Consensus: KRW 84"
         },
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2073755509790818733",
-          "text": "$2317 $NVDA $MU $SNDK $LITE EXECUTIVE TAKEAWAY\n\nHon Hai’s June 2026 revenue release is materially positive for the top-line trajectory, the AI infrastructure mix shift, and 2H26 operating momentum. June revenue of NT$821.8 billion declined 4.38 percent MoM from an exceptionally h"
-        }
-      ]
-    },
-    {
-      "topic": "Micron's Hiroshima investment and memory market price hikes",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Micron is investing 1.5T Yen in Hiroshima, while the broader memory market anticipates NAND shortages into 2027 and significant price increases for DDR contracts and HBM orders in 2026-2027.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2073793206408667392",
-          "text": "Just some consolidated updates on memory: \n\n-  $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized.\n\n- Morgan Stanley pointed out NAND will continue to be in short supply into 2027 so $SNDK / K"
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2074271321467634073",
+          "text": "Samsung Electronics prelim Q2 operating profit surged 19x YoY to ~$58.4B, above $55.3B consensus, on AI memory demand.\n\nHowever, prelim Q2 revenue came in slightly shy at ~$111.8B, vs $113.1B consensus, though still up 129% YoY. https://t.co/7YFzWAOSMl"
         },
         {
           "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2073109637629358322",
-          "text": "They will do a return of capital within the next 3 years at which point the discount will narrow - cycle is most likely 5+ years from here at a minimum as demand is forecast to 5.00x by 2030 whilst supply only doubles, meaning that the current enormous pool of unserved demand wil"
+          "url": "https://x.com/AlmaCap114204/status/2074243197883003055",
+          "text": "Samsung earnings call going to be fire tonight! \n\nPictured: Average Korean man dialling into the Samsung earnings call https://t.co/H2JQYQTgmO"
         }
       ]
     },
     {
-      "topic": "Agility Robotics' commercialization and NVIDIA Halos integration",
+      "topic": "NVIDIA Refutes Kyber Delay Claims & CPO/Optical Debates",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "NVIDIA has refuted claims of Kyber project delays, stating its roadmap is intact, amidst ongoing market debate about CPO delays and the technical merits of VCSEL versus ELS for optical interconnects in AI infrastructure.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2074266894098465060",
+          "text": "This week I am putting myself in the bears shoes...\n\nI am bullish because I get as familiar as possible with the legitimate bull cases and work through them\n\nAnd acknowledge when they are real and need to be watched\n\nSo a few things I'm working on: \n\n1 - Oversupply concerns with "
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2074170197486039524",
+          "text": "$NVDA refuting recent Kyber delay claims:\n\n“Our roadmap is intact”.\n\nlol, damage has already been done with stocks in many markets (esp. in Taiwan/Japan/Soutj Korea) crashing after the “report” https://t.co/ijHggRm1fu"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2074130219653558541",
+          "text": "Do not be misled by SemiAnalysis reports designed to manipulate the market.\n\nLook at the fundamental https://t.co/lNipNqgQ6o"
+        },
+        {
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2074063812458844441",
+          "text": "So true. \n\nIt’s wild how the market panics over minor timeline shifts, ignoring the engineering realities. \n\nWhen $NVDA is inventing the state of the art and constantly redrawing the boundaries, execution hurdles are just part of the process."
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2074035590312636907",
+          "text": "To be blunt, some analysts jumped the gun by baking experimental tech into their models way too fast. The reality check is that orthogonal backplanes are hitting a brick wall—neither M9 nor PTFE can pass the validation tests right now.\n​Looking at the actual ground truth, M9-grad"
+        }
+      ]
+    },
+    {
+      "topic": "Humanoid Robotics Adoption Driven by Global Labor Scarcity",
       "category": "out_of_ai",
       "subcategory": "robotics",
-      "summary": "Agility Robotics is advancing its Digit humanoids with significant funding and deployments, leading in safety by being the first to adopt NVIDIA Halos for Robotics, which is critical for mass adoption in industrial workflows.",
+      "summary": "Widespread humanoid robotics adoption is anticipated due to severe global labor scarcity and rapidly falling robot costs, with companies like Agility Robotics and Amazon conducting trials, leading to compressed payback periods.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2074230865031499913",
+          "text": "Paradis Research | Economics of Humanoids\n\nAs many of you know, I'm bullish on humanoids as a multi-year thematic. \n\nWhile the technology looks cool with robots doing backflips and folding laundry...the root of my conviction rests on the boring (but reliable) macroeconomics of la"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2074214669808717906",
+          "text": "It’s interesting to witness psychology around valuation anchoring + scarcity.\n\nRetail, for example, are buying Figure, last valued at ~$39B through CEFs…\n\nAt $158B, since it’s private, round 4x valuations. \n\nThen Agility Robotics $CCXI, which has broader commercialization. \n\nIs a"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2073949647832231955",
+          "text": "Apart from a few tiny blips, America has been below replacement rate for ~55 years"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2073886032500760752",
+          "text": "I’m expecting a lot of influencers to push $CCXI trade next week.\n\nThere is limited liquidity on the stock and robotics narrative is hot so will probably pump - I am not trading this as there are loads of solid names that you can buy that are due a rebound anyway.\n\nDo not get bag"
+        }
+      ]
+    },
+    {
+      "topic": "Reddit's AI Data Monetization & Stock Recovery",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Reddit ($RDDT) is experiencing a stock recovery, demonstrating profitability and growth as AI companies become significant customers for its data, transforming a perceived threat into a vital revenue stream.",
       "mentions": [
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2073867745243127973",
-          "text": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Technologies\n8. $AMZN Robotics\n9. Covarian"
+          "url": "https://x.com/aleabitoreddit/status/2074240512593481955",
+          "text": "Was a sad few months for $RDDT. But glad it's finally back above $200. \n\nReddit was doing:\n- $663M revenue w/ 91.5% gross margins\n- $204M GAAP net income\n- 45%+ fwd Y/Y growth after 69%+ growth.\n- Net profit is ~30.7% of revenue\n\nFelt very weird to see a profitable company get dr"
         },
         {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2073796182006968603",
-          "text": "Just a quick summary on $CCXI (Agility):\n\n- Going public via $CCXI SPAC -> $AGLT in around Q4.\n\n- Roughly $640M private funding including backers like $AMZN, $NVDA, SoftBank, DCVC.\n\n- Around 100 Digit humanoids deployed at $AMZN, $GXO, Schaeffler, Toyota, $MELI (just 9 facilities"
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2074221791522787607",
+          "text": "The whole thesis this year was AI kills every software stock. $RDDT did the opposite.\n\nOne of the few names that's actually profitable AND still growing fast\n\nAnd the funny part is AI was supposed to be the threat. reddit pulled $311M in free cash flow on $1M of capex last quarte"
         }
       ]
     },
     {
-      "topic": "AWS Trainium ASIC shipment forecast increase",
+      "topic": "Samsung CXL 3.1 Memory Production Delayed by CPU Launches",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Samsung Electronics has delayed the mass production of its CXL 3.1 memory modules due to postponed launches of supporting CPUs from Intel and AMD, and a slow buildout of the CXL 3.1 ecosystem.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2074259796082167957",
+          "text": "Samsung Electronics Delays CXL 3.1 Memory Mass Production\n\nSamsung Electronics has delayed the mass production schedule for its CXL (Compute eXpress Link) 3.1 based memory module (CMM-D 3.0). The delay follows the postponed launches of CXL 3.1 supporting central processing units "
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2073985928801247281",
+          "text": "One of the goals of my articles is to explain difficult technology so simply that even my five year old could understand it.\n\nFor this CXL article, I wrote the technical section in very simple language, so that anyone can understand it, maybe even so simple that engineers might f"
+        }
+      ]
+    },
+    {
+      "topic": "WULF Signs $19B Datacenter Lease with Anthropic",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "$WULF has signed a significant $19B, 20-year datacenter lease agreement with Anthropic, leading to a pre-market stock surge and indicating strong demand for AI infrastructure.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2074110821274116119",
+          "text": "Oh damn, $WULF up 17% pre-market.\n\nAs they sign a $19B lease with Anthropic over 20 years. https://t.co/nKlk3GMBc5"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2074109998544846954",
+          "text": "Wow, $WULF signs a $19B DC lease with Anthropic today. \n\nProbably a very positive tailwind for the Neocloud/Colo sector. https://t.co/82tncsG3us"
+        }
+      ]
+    },
+    {
+      "topic": "Amazon AWS Raises Trainium3 ASIC Server Shipment Forecast",
       "category": "sectors",
       "subcategory": "asic",
-      "summary": "Amazon AWS has raised its Q3 ASIC server shipment forecast by 20-30% for Trainium3 chips, signaling strong momentum and potentially accelerating the launch of Trainium4.",
+      "summary": "Amazon AWS has increased its Q3 ASIC server shipment forecast by 20-30%, signaling strong optimism for its Trainium3 chips, with rack-level mass production set for July and potential acceleration for Trainium4.",
       "mentions": [
         {
           "handle": "@dnystedt",
           "url": "https://x.com/dnystedt/status/2073898694299332813",
           "text": "Amazon AWS has raised its ASIC server shipment forecast 20%-30% for the 3rd quarter - versus its original plans - signaling optimism for its Trainium3 chips, media report, citing unnamed supply chain sources, who are looking to see if AWS accelerates the launch of Trainium4 due t"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2072922233656484282",
-          "text": "👀👀\n\n“In addition to placing ASIC orders with $MRVL and Alchip Technologies, AWS is also evaluating another U.S.-based design services provider. Small-volume shipments are expected to begin next year.”\n_\nSome AWS Updates II\n\nWistron started shipping Trainium 3 at the end of May, s"
         }
       ]
     },
     {
-      "topic": "JD.com and Amazon's robot adoption and job displacement",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "JD.com's CEO warns robots will replace 700,000 delivery workers, with plans to retrain them for robot maintenance, mirroring Amazon's strategy to avoid future hires with robotics.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2073523410643366242",
-          "text": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation has become a new threat to China's alread"
-        }
-      ]
-    },
-    {
-      "topic": "CXMT's bonded DRAM development without EUV lithography",
+      "topic": "Foxconn Q2 Revenue Surge Driven by AI Server Demand",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "China's CXMT is testing a pilot production line for bonded DRAM in Hefei, aiming to achieve high-performance memory without EUV lithography by fabricating and bonding cell arrays and peripheral circuitry on separate wafers.",
+      "subcategory": "asic",
+      "summary": "Foxconn's Q2 revenue soared 39.8% year-on-year to NT$2.51 trillion, driven by robust global demand for AI servers and networking products, with momentum expected to continue into Q3.",
       "mentions": [
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2073695400985510295",
-          "text": "🚨Korean media report that China’s CXMT is currently testing a pilot production line for bonded DRAM in Hefei, aiming to achieve high-performance DRAM without using EUV lithography.\n\nBonded DRAM is a technology in which the memory cell array and the peripheral circuitry are fabric"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2073766700982649255",
-          "text": "Well, fabbing the peri and cell arrays on different wafers and hybrid bonding them is on everyone's roadmap\nCXMT isn't doing anything new here\nSmart way to get 15%-25% gains"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2073894530257166597",
+          "text": "Foxconn’s 2nd quarter revenue soared 39.8% year-on-year to NT$2.51 trillion (US$78.69 billion) due to strong global demand for AI servers and networking products, media report.\n\nIn the 3rd quarter, Foxconn expects momentum to continue to grow versus Q2 and year-on-year, as “…AI r"
         }
       ]
     },
     {
-      "topic": "Intel 18A process yield improvement and production ramp",
+      "topic": "TSMC Raises Full-Year Revenue Outlook on Strong AI Orders",
       "category": "sectors",
       "subcategory": "foundry",
-      "summary": "Intel has reportedly fixed 18A wafer-to-wafer yield variability, with its Oregon and Arizona facilities now reaching an output of approximately 30,000 wafers per month.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2073370155644809545",
-          "text": "Intel $INTC reportedly fixed 18A wafer-to-wafer yield variability, with Oregon + Arizona output reaching ~30K wafers/month, per BlueFin. https://t.co/1GyQwUsEbU"
-        }
-      ]
-    },
-    {
-      "topic": "POET Technologies' Marvell order cancellation and dilution",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "POET Technologies faces challenges after Marvell cancelled all orders, including initial production units, compounded by a CFO disclosure error and past dilution, impacting its role as an ELS supplier for CPO.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2073440009277886763",
-          "text": "There's way too much drama with $POET currently:\n\nJust look at how $MRVL cancelled all their orders including initial production units that $POET had been trumpeting since around 2023.\n\nTheir CFO fumbled the bag massively by disclosing confidential info in some random interview.\n"
-        }
-      ]
-    },
-    {
-      "topic": "AWS increasing liquid cooling for Trainium 3 servers",
-      "category": "sectors",
-      "subcategory": "liquid_cooling",
-      "summary": "AWS has increased its liquid cooling deployments for Trainium 3 servers from 10% to 30% of new racks, indicating additional revenue upside for suppliers and prompting qualification of new vendors.",
-      "mentions": [
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2072922233656484282",
-          "text": "👀👀\n\n“In addition to placing ASIC orders with $MRVL and Alchip Technologies, AWS is also evaluating another U.S.-based design services provider. Small-volume shipments are expected to begin next year.”\n_\nSome AWS Updates II\n\nWistron started shipping Trainium 3 at the end of May, s"
-        }
-      ]
-    },
-    {
-      "topic": "Datacenter BBU cylindrical cell shortage",
-      "category": "sectors",
-      "subcategory": "psu_bbu",
-      "summary": "There is a shortage of high-power cylindrical cells for Battery Backup Units (BBUs) used in data centers, with Samsung SDI and Panasonic experiencing supply issues due to increased demand.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2073763512216899825",
-          "text": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck):\n\n- Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. \n- As demand from data centers has increased, production of Samsung SDI's cylindrical cells has "
-        }
-      ]
-    },
-    {
-      "topic": "TSMC raising full-year revenue outlook",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC is expected to raise its full-year revenue outlook to nearly 40% growth, up from \"over-30%\", driven by strong orders from clients like Nvidia, AMD, and Apple amid the AI megatrend.",
+      "summary": "TSMC is expected to raise its full-year revenue growth outlook to nearly 40% in US dollars, up from 'over-30%', due to strong orders from major clients like Nvidia, AMD, and Apple amidst the AI megatrend.",
       "mentions": [
         {
           "handle": "@dnystedt",
@@ -190,10 +191,23 @@
       ]
     },
     {
-      "topic": "BlackBerry QNX embedded software platform adoption",
+      "topic": "AI Software Kernel Optimization for GPU Throughput",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "BlackBerry's QNX software is widely adopted across automotive, medical devices, and robotics, running on various AI compute silicon from NVIDIA, Qualcomm, and Intel, demonstrating strong growth and high margins.",
+      "summary": "Fireworks is demonstrating significant GPU throughput gains through kernel optimization (FireAttention V2), achieving 5.6x the performance of standard vLLM, which offers substantial upside for neoclouds to serve more users on existing hardware, especially amid memory shortages.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2073862090578891121",
+          "text": "Fireworks is kernelmogging $NBIS and $CRWV on the exact same NVIDIA silicon. 746 tokens per second against 480 and 290.\n\nRun the napkin math. One Fireworks GPU pushes 746 t/s while one Nebius GPU pushes 290, so a single card serves roughly 2.6x the users. To match one Fireworks r"
+        }
+      ]
+    },
+    {
+      "topic": "BlackBerry QNX Embedded Software Dominance in Critical Verticals",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "BlackBerry's QNX division is a dominant embedded software platform, powering 275 million vehicles, medical devices, and robotics platforms, reporting strong revenue growth and high gross margins across diverse critical verticals.",
       "mentions": [
         {
           "handle": "@KawzInvests",
@@ -203,15 +217,41 @@
       ]
     },
     {
-      "topic": "Fireworks AI kernel optimization for GPU throughput",
+      "topic": "Broadcom-Apple Custom ASIC Collaboration Expansion",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "Fireworks AI is achieving significantly higher GPU throughput (2.6x to 5.6x) compared to competitors by optimizing low-level GPU code (kernels) with its FireAttention technology, which is crucial amidst HBM scarcity.",
+      "subcategory": "asic",
+      "summary": "Broadcom and Apple have extended their long-standing technology collaboration through 2031, with Broadcom developing and supplying a range of custom ASIC silicon products for multiple generations of Apple products.",
       "mentions": [
         {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2073862090578891121",
-          "text": "Fireworks is kernelmogging $NBIS and $CRWV on the exact same NVIDIA silicon. 746 tokens per second against 480 and 290.\n\nRun the napkin math. One Fireworks GPU pushes 746 t/s while one Nebius GPU pushes 290, so a single card serves roughly 2.6x the users. To match one Fireworks r"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2074284985859854675",
+          "text": "Filing: Broadcom and Apple \"have agreed to expand their long-standing technology collaboration through 2031... for Broadcom to develop and supply a range of custom ASIC silicon products for use in multiple generations of Apple products.\""
+        }
+      ]
+    },
+    {
+      "topic": "Syntiant (Edge-AI Chip/Software Maker) Files for IPO",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Syntiant, an Intel and Microsoft-backed edge-AI chip and software maker specializing in ultra-low-power AI for on-device applications, has filed for an IPO.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2074274139498856908",
+          "text": "Syntiant, an Intel and Microsoft-backed edge-AI chip/software maker, filed for IPO.\n\nThe company makes ultra-low-power AI chips and software for on-device AI in earbuds, wearables, and industrial systems.\n\nQ1 results:\nRevenue: $64.5M vs $66.6M YoY\nNet loss: $26.2M vs $16.8M YoY\n\n"
+        }
+      ]
+    },
+    {
+      "topic": "NVIDIA Nemotron Platform Initiative for Enterprise AI",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "NVIDIA's Nemotron is a strategically meaningful platform initiative, providing a credible open-weight, GPU-optimized model layer integrated with NVIDIA's AI stack, strengthening its enterprise AI infrastructure moat.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2074244545982730377",
+          "text": "NVIDIA Nemotron: Open-Model Moat, Inference Economics, and AI Stack Control.  New: 7/6/26.\n\nNemotron should be treated as a strategically meaningful platform initiative for NVIDIA, but not yet as a separately material earnings driver. The current evidence supports the view that N"
         }
       ]
     }
