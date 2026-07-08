@@ -22,10 +22,9 @@ permissions:
   pages: write
   id-token: write
 
-# Fix deployment collision by canceling stale pending runs
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   recap:
