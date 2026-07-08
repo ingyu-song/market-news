@@ -1,49 +1,50 @@
 {
-  "generated_at": "2026-07-08T01:20:48+00:00",
+  "generated_at": "2026-07-08T23:01:31+00:00",
   "mode": "daily",
   "for_date": "2026-07-08",
-  "headline": "Geopolitical Tensions Escalate, Oil Surges; AI Chip Demand Fuels Samsung Profits",
-  "summary": "Wall Street futures remained steady despite escalating Iran tensions and US military strikes, which drove oil prices higher. Samsung Electronics reported an 1,800% profit jump, fueled by robust AI chip sales and securing major foundry orders for 2nm AI chips. China considers restricting overseas access to advanced AI models, while Apple tests Chinese memory chips.",
+  "headline": "US Stocks Decline as Trump Ends Iran Ceasefire; Fed Minutes Show Rate Hike Support",
+  "summary": "US markets closed lower after President Trump declared an end to the Iran ceasefire, triggering a jump in oil prices. FOMC minutes revealed growing inflation concerns among policymakers, with some signaling support for interest rate hikes.",
   "sections": [
     {
-      "label": "Fed / Rates / Macro",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Middle East tensions escalated following US military strikes against Iran, driving oil prices higher.",
+          "lead": "Trump ended the Iran ceasefire, causing oil prices to surge and US stocks to decline.",
           "segments": [
             {
-              "text": "US oil prices jumped after the US military launched strikes against Iran, with Brent crude rising over 2% to $87.90 a barrel and WTI up 2.3% to $83.60 a barrel.",
+              "text": "US stocks declined following President Trump's declaration that the ceasefire with Iran was over, leading to a jump in oil prices.",
               "sources": [
                 {
-                  "title": "Oil Rises Amid Renewed Supply-Disruption Fears",
-                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2owemJ5TTA5SERkejlqS0lWeHZtdXdvU3RnUnlUeURQV1owZjhiZlBmdXZvaVJzcUNxN1ZHMHdsVF80YW5xLUdieFBIZ3FOS1QtSGpFR1hFTGtySEl3QnlfTzRjRWRqSW1mNi1vUTNHa2VDaTVWWmxpdGhkTHhMd2RGX2tDckJyRTdpNlZnZlJiRGZlUmx4WW84OVF0clM0NzNFYXlR?oc=5",
+                  "title": "U.S. Stocks Mostly Lower After Trump Threatens to Strike Iran, Declaring Ceasefire Over",
+                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUEJ4UUx3LUE3dzZCMG1kUktUSWhWWDdjWnhjc1BwTDd3YS1qT250MHNHT1p3b0lBajJuaVQtQ1JjbXhTVGtJZG1ERXEtMHpoRENpeFhWUFA3YzhmYV9FNE9IZ1BGakRVMzlHNWd0Y2hDdHpQU0V0NHV3M1BzRmZlY1hTSnV1MHVEaGZIZDZ5d0pZYWU3RlJoX1h0VmhoZEpOOFNNUDR6bVRYMVFBZXVKYVlTdjUwbWZRVG8zRWFMUE1DWjhSeTA1RA?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
-                  "title": "US oil prices jump after US military launches strikes against Iran",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
+                  "title": "S&P 500 ends down after Trump says Iran deal is 'over'",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 },
                 {
-                  "title": "Oil Prices Up As U.S. Cancels Iran’s Sales License, Launches Strikes",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHQ0S1RSQk44ZGg5T3JFMVZMRFdnUGpOazdqQm5ScnhJZnhIcEJ5TDZwUmRxeGY5SWhJaHA1bF9fVkpEejBKd211M0UwOFRxX0VxcEdtcFo1dDVJM1MweHFpZ1AyVlFRbmRTWk03V09lZGx3RDhHdi1uNXlLWXNkZERWVjBEUFM2Rm9IRVFSd0lJMHFzaGtwMjNUNVdpTGJMRS1MTWVnZDBsV2pUaU0xNHlfMkFMV21yWlE?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
+                  "link": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 },
                 {
-                  "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVQtaEVKRHlPRXhIemJ0WElRcjIydmxfX1MzTm1MXzhBeGh5MXRYUFlmUlRxTWJ2eURZc3hDSmFId0VaVTIyZEJxRkp6MHZWUGpzcHpQN0xEbEFLWUlWUC1rbVM4LXUtNWtRUjN6cmtfVkNSdjYxLVpjVkgxbVRYcGktZVhRbjE2MWdmbmFzaUQ4TUVpMHItTHR3cFU3elRSTUp0a0VDV3BjRUtXN00yZGh3aw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "국제유가, 호르무즈 긴장고조에 급등...브렌트유 5.2%↑",
+                  "link": "https://n.news.naver.com/mnews/article/310/0000138213?sid=104",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                },
+                {
+                  "title": "Oil prices rise after Washington renews conflict with Tehran",
+                  "link": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
-              "x_mentions": []
-            },
-            {
-              "text": "The escalation of the Iran situation, including US military strikes and the UK's involvement in Hormuz, indicates a need for firm resolution.",
-              "sources": [],
               "x_mentions": [
                 {
                   "handle": "@TheValueist",
@@ -62,22 +63,28 @@
           ]
         },
         {
-          "lead": "Wall Street futures held steady as markets focused on geopolitical developments and upcoming Fed meeting minutes.",
+          "lead": "China is reportedly allowing limited Nvidia H200 chip purchases for top AI firms.",
           "segments": [
             {
-              "text": "Despite renewed supply-disruption fears in the Middle East, Wall Street futures remained steady ahead of the release of Federal Reserve meeting minutes.",
+              "text": "The Information reported that China plans to permit leading AI companies to acquire a restricted quantity of Nvidia H200 chips.",
               "sources": [
                 {
-                  "title": "Wall St futures steady with focus on Iran tensions, Fed meeting mins",
-                  "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-with-focus-on-iran-tensions-fed-meeting-mins-4780613",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
+                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 },
                 {
-                  "title": "Gold Rises on Renewed Middle East Tensions",
-                  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc0t1QkZxSGxQZGV1Sk9SUk1rbW9jcXZNS1FicVVHWDNzYmVqSm8xQnY1bm0xbWFSM0F4R1NmWWZTRHB5NXlpaW9zczBFVE85c2xMLUpaOV9HcHhaWTc1cW9xODV3czZvUW1VZXBGVVVCNFE3Q0hpd2RDNGZOeGRZX0U1YmJiZXRrcjFGMUMwY0pYY1lhRTlKd1A1SnlzVkx0?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "China to Let AI Firms Buy Nvidia H200s, Information Says",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlNtV2pJdEhRb0U4NTlpWU5vMnZqYWNTTUZ2clRfUVRZY0FXTzZMN1pWNVNXZU1FZDlnS3A4RFBhX1lRbWNZcEhZbUV1S0JVdkFiaGdyS2dFakY5NW1LeXRnMVF4dVNITmIwbXZkYzI4SVdvV19leEVlNXFVRndUMS00bWVzT3ZONll3OGVpUDRFSklIOW1JVTROR29SUWZqQXhJekRweUlzTFRzOHRtLQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "China Plans to Let Top AI Firms Buy Limited Amount of Nvidia H200 Chips",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHc1TnlkaGh6RlRMaTlkZmlQWk9ORjBYSFdiMGNmUW9SN2xxcnVFLTJ0UWR5RWRFU242X0ozZWQ1SkVrd2RBdU5BZlhCQmV0a2ZEVHVUWU5QTkpoSHpLOHhMWVNweFppUWdCemZKS1UyQ0hselFpcnFBX0FadHRZVTBOTVpJeldKbkVlTlJ4WE9sUGtYT3J5S3dSV0Q1bU1PcVFyMnZ4cUE?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -85,16 +92,73 @@
           ]
         },
         {
-          "lead": "The Federal Reserve is proposing changes to anti-money laundering rules for banks.",
+          "lead": "The Netherlands is engaging China in talks regarding Nexperia and ASML trade frictions.",
           "segments": [
             {
-              "text": "The Fed has put forth new proposals aimed at updating anti-money laundering regulations for financial institutions.",
+              "text": "Discussions are underway between the Netherlands and China to address trade disputes involving Nexperia and ASML.",
               "sources": [
                 {
-                  "title": "Fed Proposes Changes to Anti-Money Laundering Rules for Banks",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUlTcVJYejh4VjA0a3JNQmNSTHJsRl9rVmxaYV9iaXAzc0Y0YkpTRnNzS0FHZlVtUk81WTBVeWFxR2RCNzRoNkdhXzlXN0UxUWlSZ1JoeFI1bHphdWNQRk9vbWRVX0NDVFFyTmdhUDU1U2oyaHpaQkpoOWpkUnRMQkpETllBdkZhaldzVTZnZDRoQUFlN3F5dXFfVndNT2xWMlh4T1YzSzBLR0NQSzJKbHln?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Netherlands presses China talks on Nexperia and ASML trade frictions",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnZKeHF0OEhjYjRLWEM5WUxpMExuc1oxWGJZT3I1Q2hTbXJwcnJZMzNQSEpLeEpZTlRNSFFXOWFpQUdmN1BqMTFWRExEakNVaVhuZmFYNjlVdThQa01RQ0k4dFc0TmZDMG4yWVZicmJWMnZUM2x6NzlQbmt5Q0hJR1BjUG04ME9malpxNzkzLUdqeDhG?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Fed minutes indicated growing inflation concerns and split views on interest rates.",
+          "segments": [
+            {
+              "text": "Policymakers at the June FOMC meeting expressed increased worries about inflation, with some officials supporting interest rate increases.",
+              "sources": [
+                {
+                  "title": "Fed policymakers' inflation concerns grew at June meeting, minutes show",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0RTaXNnWWRiR3R0S2lvUlNhQVBYcktaZ00wQmxEc25PZldQUkpJdEpUWGlncExsWGR6M2pISWNYQWpxYUtvMDJFaHlrVVZOMHA3Z3cyd1ZWR2RMVjczczZIeGNucll2d3ByUDJqeElKZ3hkUGw2cUdDUXAxSmFrdktTbkJtYVJ2bWpyR1ZoTUM3TlNTM3pyYjhqeGxqYlNGU1ZXRDI2SzU1TlZn?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates",
+                  "link": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+                  "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                },
+                {
+                  "title": "Inflation fears mount at Warsh’s first Fed meeting",
+                  "link": "https://www.ft.com/content/b1eda604-0593-4f56-af1c-ccaf3619efd5",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Fed is unlikely to cut interest rates this year, according to meeting minutes.",
+          "segments": [
+            {
+              "text": "Minutes from the Federal Reserve's meeting suggest that interest rate cuts are improbable for the remainder of the year.",
+              "sources": [
+                {
+                  "title": "Fed Likely Won’t Cut Interest Rates This Year, Minutes Show",
+                  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTm16MW5xR2FYR0FqZ29fbk5iX3JNSWdLMS1GY2NTX2Jtcl9rLUhRQ0hqUzI3RnFVUGFkaXRSalBXd19nR09XaUFZaV93aG1JZWJDdkI5LTFDLWpPdWM0SUt4cXk5bXVWb2VsYXlGUGhDWHFwUzQ5Q1ljUEoyODhRdXYxWW8yTDl6bExFNTlFakdRamhRcHJ0cFBPUFZCSHFndWtlbEd5V1BVcG5PVGxmQ2VuXzZDS3RmOG1DZEE1ZkQzNEtYX2hPcHp0LUhhUlFCTTlYZnpvSTJGTXB3TFdQMmtGTkg?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -107,34 +171,22 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Samsung Electronics reported an 1,800% surge in profits driven by strong AI chip sales.",
+          "lead": "Apple committed over $30 billion to Broadcom for chips, boosting US sourcing.",
           "segments": [
             {
-              "text": "Samsung's Q2 profits jumped 1,800% year-over-year, largely attributed to soaring demand for AI chips and a recovery in memory chip prices.",
+              "text": "Apple is expected to spend more than $30 billion on chips from Broadcom as part of its strategy to increase domestic sourcing.",
               "sources": [
                 {
-                  "title": "Samsung profits jump 1,800% as AI chip sales soar",
-                  "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                  "title": "Apple to spend $30 billion on Broadcom chips as it boosts US sourcing",
+                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc21yZ0hzUlp6ZG9xcG1MY2FJbWR0UDV0R3RmX0lqV3g2WEwxUmMwWk1qT2ZWRGdJYlI3WDdvbEo0Z2dXRU1yR2E4NUNsazZENmlWV01sYTdDNnR2Z2JDM0huRkFjUF9fOEpMVEpCQmZPMFVvSllQdlFNQklkOUl5QmFfX2oyNXI5N0pSR0dseUw3X0tqNUp5TEs5aWlMR0hjUDhBX0hTdjdpZm9zZTJFSUxQV3UxTWhpTld2aVRPYzN2VW8?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 },
                 {
-                  "title": "Samsung’s Memory-Driven Profit Explosion",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFBMbHZITUpFRTdqUnpoVGxQdVB1eGNELWZQUmZDR1U1bHVKWGNNVkJXU1ZaY1FmYllLWFBJQUk1ZDgzX3h2SGp5ODRuS19heU0xcWxIdzU3UzVnblZ6dG1mR0VmWWw5WXA3a3ZnMFp1dkJpenR1bVh6YmIzYXc1S29rR2FsUG1VZ0txWnE2YUlVX3hVT004NXNxTQ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "The company is mass-producing eSSD for AI servers, including the PM1763, which offers double the speed of its predecessor.",
-              "sources": [
-                {
-                  "title": "삼성전자, 베라 루빈 탑재 eSSD 양산",
-                  "link": "https://n.news.naver.com/mnews/article/028/0002813149?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Apple (AAPL) Chip Deal With Broadcom (AVGO) Expected to Exceed $30 Billion",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUE5SkFwblZ1a050SE1xdl9WQWk5aHhGeE5BM1ZTTzBveG91N04zWGV2SWVzRlFzLTBKTDhEckdHYVhpU1MySThkTzZjNlFEcUlXUmZsN19JTGstZjNucDNmUEk1cEd3VFZMMEZ1akdWQ3FtWERnRTE5ZXhwMkVqNHdFMVQ4bkxOREFyOEVMamY1NWR6ZGY1cTk5VHBLMTJxbndBMkFXUDJvWWFieEpsbFFMVUdBbTYxdEFWcA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -142,10 +194,10 @@
           ]
         },
         {
-          "lead": "Samsung Foundry has secured significant AI chip orders, including Meta's 2nm process.",
+          "lead": "Samsung Foundry has reportedly secured significant AI chip orders, including Meta's 2nm process.",
           "segments": [
             {
-              "text": "Samsung Foundry's order backlog has reportedly increased to ₩50 trillion ($32.7B) after securing interest from Tesla, Meta, and Anthropic for its 2nm process for AI chips.",
+              "text": "Samsung Foundry's order backlog has increased to ₩50 trillion ($32.7B) with interest from Tesla, Meta, and Anthropic for its 2nm AI chip process.",
               "sources": [],
               "x_mentions": [
                 {
@@ -157,56 +209,16 @@
           ]
         },
         {
-          "lead": "Nvidia is exploring partnerships with competitors as a hedge against future chip competition.",
+          "lead": "SK Hynix is considering an ADR listing to re-evaluate its valuation.",
           "segments": [
             {
-              "text": "Nvidia is reportedly partnering with other chip companies to diversify its strategy and mitigate risks from emerging competitors.",
+              "text": "SK Hynix is exploring an American Depositary Receipt (ADR) listing, which analysts believe could lead to a re-rating of its valuation.",
               "sources": [
                 {
-                  "title": "Nvidia’s New Hedge Against Chip Competitors? Partner with Them",
-                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOF9SWkYtNHBtVVBWUW1uWGlwN3BEYThrVGVjZGtIRUYwM3liMlBabEdfQ0VkR0xJWlVKXzZocFJOLUxPbklTWjNtdlFQVGlDbW5Dd3RRWGx0bm5XZUVmdHgxLXdZWkRQbXZ0ejhhR0k2Y1dsTDg2M0xYN3Y1aGgxM2tRQ29MNko5NWc?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Perplexity plans to utilize Nvidia's new CPU, indicating continued adoption of Nvidia's latest offerings.",
-              "sources": [
-                {
-                  "title": "Perplexity says it plans to use Nvidia's new CPU",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "Apple is testing memory chips from China's CXMT for its devices, boosting the Chinese DRAM maker's profile.",
-          "segments": [
-            {
-              "text": "Apple is evaluating memory chips from ChangXin Memory Technologies (CXMT) for potential use in its Chinese devices, marking a significant step for the domestic DRAM manufacturer.",
-              "sources": [
-                {
-                  "title": "Apple tests CXMT memory chips for China devices as DRAM maker gains clout: FT",
-                  "link": "https://www.investing.com/news/technology-news/apple-tests-cxmt-memory-chips-for-china-devices-as-dram-maker-gains-clout-ft-4780611",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Apple interest thrusts China’s CXMT into memory chip spotlight",
-                  "link": "https://www.ft.com/content/f4ac5c92-03be-4499-b16a-017a7e9ee228",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "\"SK하이닉스 ADR 상장…TSMC 사례처럼 밸류 재평가 기회\"-KB",
+                  "link": "https://n.news.naver.com/mnews/article/015/0005307949?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -214,57 +226,17 @@
           ]
         },
         {
-          "lead": "China is considering restricting overseas access to its cutting-edge AI models.",
+          "lead": "A US semiconductor talent shortage threatens major fab expansion plans.",
           "segments": [
             {
-              "text": "China's Ministry of Commerce is discussing measures to restrict overseas access to advanced AI models, potentially designating technology leaks as national security crimes.",
+              "text": "A McKinsey study highlights a looming deficit of engineers and technicians in the US semiconductor industry, potentially hindering expansion efforts by TSMC, Micron, and Samsung.",
               "sources": [],
               "x_mentions": [
                 {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2074443936865960205"
+                  "handle": "@ParadisLabs",
+                  "url": "https://x.com/ParadisLabs/status/2074583374409109913"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "lead": "Latin American countries and steelmakers are advocating for exemptions from US tariffs.",
-          "segments": [
-            {
-              "text": "Several Latin American nations and steel producers are arguing for exemptions from the 25% US tariff on their exports, with Brazil's Senator Bolsonaro specifically opposing the tariff.",
-              "sources": [
-                {
-                  "title": "Latin American countries, some steelmakers argue for US tariff exemptions",
-                  "link": "https://www.investing.com/news/stock-market-news/latin-american-countries-some-steelmakers-argue-for-us-tariff-exemptions-4780572",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Brazil's Senator Bolsonaro argues against 25% US tariff on its exports",
-                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdTgyWkdXZktaWmZuYlBFWWV3NVQ1anh6eHVQVjY1M3hUcy1WQlJJd2JxbVY0SmQ2d3ZHbE1tbmllcDQ1Tk0yU1VWb0JsQi1SQ2hWMnJFSk9JcFhFYmJYTHR1ZXNIbmtJcU4xNXNGTFBHN3RpX3F5eHhSRVRNel9tRTNOdWFETTZQczR2VlZBelkyUFZhS2tHYTFLdm94Sm1jY1NwSFhmREhGQWZVb0dUbjFRSFdwVnc?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "An executive pleaded not guilty in Singapore over alleged smuggling of Nvidia chips to China.",
-          "segments": [
-            {
-              "text": "An executive is facing charges in Singapore for allegedly smuggling Nvidia chips to China, highlighting ongoing efforts to circumvent export controls.",
-              "sources": [
-                {
-                  "title": "Exec pleads no guilty in Singapore over alleged smuggling of Nvidia chips to China",
-                  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVDl6MHlZWng0T05zNms4VkxIWWY2eHl5WHZURVlpRUlqeDFxRVpkeWIwNWhJclRwbmxGVGFDTjg2NWcxcVlVRXFpdXI2OURfenhMYVQzdVFpbjFteGVUaTM1RG91dk5GSGRKX0xkSEg?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
             }
           ]
         }
@@ -274,16 +246,16 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Several AI-related component suppliers reported record revenues driven by strong AI demand.",
+          "lead": "Honeywell Technologies raised its profit guidance following a reverse stock split.",
           "segments": [
             {
-              "text": "Global PMX revenue, Microloops revenue, Foxsemicon's June and 1H26 revenue, and WinWay's June revenue all hit records due to advanced foundry, AI cooling, and full AI test interface orders.",
+              "text": "Honeywell Technologies increased its profit outlook after completing a one-for-two reverse stock split.",
               "sources": [
                 {
-                  "title": "Global PMX revenue rises as advanced foundry and AI cooling demand strengthen",
-                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVNpcVhyUVg3ZVEtYllZYWs1dExQX3ZjenMyVHVsRHNkaUYxMWZGSm9qZGFULUpQZkp5STBsMXdpTjZULWVjbXBqbmd2Z2I0cVM4SGhBdEFrLUdiVVFGQmJkSDFtMTJ2UGhOckRxTjNoSlQ4SG1CUlFwbkVkeU1YX0ZfeXg3RWJqWWNFVTF1djlLS011OUE?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Honeywell Technologies raises profit guidance after one-for-two reverse stock split",
+                  "link": "https://www.investing.com/news/stock-market-news/honeywell-technologies-raises-profit-guidance-after-onefortwo-reverse-stock-split-4782601",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -291,10 +263,10 @@
           ]
         },
         {
-          "lead": "Penguin Solutions exceeded Q3 FY26 expectations, driven by memory and AI infrastructure demand.",
+          "lead": "Penguin Solutions reported record Q3 FY26 net sales and EPS, driven by memory and AI infrastructure.",
           "segments": [
             {
-              "text": "Penguin Solutions reported record Q3 FY26 net sales and EPS, surpassing estimates, with integrated memory net sales doubling and strong AI infrastructure demand.",
+              "text": "Penguin Solutions exceeded estimates with record Q3 FY26 net sales and EPS, fueled by a doubling of Integrated Memory net sales and strong AI Infrastructure demand.",
               "sources": [],
               "x_mentions": [
                 {
@@ -314,16 +286,16 @@
           ]
         },
         {
-          "lead": "Deutsche Post exceeded Q2 expectations and raised its full-year 2026 earnings guidance.",
+          "lead": "AI server maker MiTAC anticipates a stronger second half of 2026 after a 44.8% revenue jump.",
           "segments": [
             {
-              "text": "Deutsche Post announced it surpassed its Q2 earnings expectations and subsequently increased its full-year 2026 earnings guidance.",
+              "text": "MiTAC, an AI server manufacturer, expects robust performance in 2H26, following a 44.8% increase in revenue.",
               "sources": [
                 {
-                  "title": "EQS-Adhoc: Deutsche Post AG: Deutsche Post exceeds Q2 expectations and raises full-year 2026 earnings guidance",
-                  "link": "https://markets.businessinsider.com/news/stocks/eqs-adhoc-deutsche-post-ag-deutsche-post-exceeds-q2-expectations-and-raises-full-year-2026-earnings-guidance-1036303244",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "AI server maker MiTAC gears up for stronger 2H26 with new capacity after 44.8% revenue jump",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcGx1X1RZUnBTQWtMQVUtX3d2dUdwdGFmeVNjUjZDZVZSZlJMemZMMHU3ZUVoenlNNDE3UkxRTjJhSU5nbEYxUTBWUkdXclg1emc4bHZTeHpiTFM5MEhBRHlXci0zMC1sck1wMkUwN09WRVQ3M2RxX0o0N0RUY055ZkVTYXpNZTFzNlhKLUlGazhpdVhuMWFHdEg1Smlhdw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -333,59 +305,25 @@
       ]
     },
     {
-      "label": "Software / Internet / Platforms",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Amazon plans to raise $25 billion through a bond sale, primarily for AI investments.",
+          "lead": "A judge approved a multi-million dollar judgment against Donald Trump for E. Jean Carroll.",
           "segments": [
             {
-              "text": "Amazon aims to raise at least $25 billion via a bond sale, with a significant portion of these funds expected to be allocated towards substantial AI investments, particularly in memory.",
+              "text": "A judge authorized the payment of a $5.8 million judgment against Donald Trump in the E. Jean Carroll case.",
               "sources": [
                 {
-                  "title": "Amazon aims to raise $25 billion from bond sale",
-                  "link": "https://www.investing.com/news/stock-market-news/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports-4779326",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Judge Approves $5.8 Million Judgement Against Trump For E. Jean Carroll",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEJYWG5MZ2l4U1dvR29OeUp2RVFhejB6enluQUQ0bm5YQ25pMXl6ZkYwMVFXZVFsekxFM2NmaGVvREhLQWlScmYySG5DZ19pdEdDQW9OWFJtWnNieVJFUUNQYm1PTUd5blZGSmJKZW5UN29BSDgzZ0ozb2RYT2JUME82V2toNDdMaXh5czhicDNqaDJjeWxsLWhfTWZZXzVOTXhhal9ZQmV2WXZDU1FjbUNuMUNqQkt2OFI4UUJ3?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 },
                 {
-                  "title": "Treasuries Fall Before Auction as Oil Rebounds, Amazon to Borrow",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmczZG9EWURmdlRXbEVYQlNXck5RbUhwRU95OHd6bmdsdjg5c2pmaGQyQm5Ga2I0enR6azFEajVRdF9CczVxUE0tWXptSGYyWDR2RmtDY1Y1MkxPcDhoQllaQXBVTXBwM2FnWDBmc0tqOXJ1RlM2TldYUzl5OXFKUEU4S1lTTkxDZTBKMnFuN3JhSm9jNFRWNHhQcVVwVXlnd3YtSlZwUVpKSG16aEI0dVVna24?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Amazon Looks to Raise $25 Billion in US Bonds",
-                  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmtkOGVqd09VaU5VQmQxWDVURWkzQWMzcDZMNFRxQWhzRFBJenJla0JEXzFmZUFkOEprdVF4eVhJYnExRWZuWFlXak4xMS1teXdaaVh4RFVxbmdZV29hNmxhc0h4OGdXY1hmcUhmMmtVNjk1akxMcTZZRWtwVjdmb3pB?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": [
-                {
-                  "handle": "@AlmaCap114204",
-                  "url": "https://x.com/AlmaCap114204/status/2074518135432954104"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Meta has released its first new image model since Zuckerberg's AI overhaul.",
-          "segments": [
-            {
-              "text": "Meta debuted a new AI image-generation model, integrated into its chatbot and Instagram, as part of Mark Zuckerberg's broader AI strategy.",
-              "sources": [
-                {
-                  "title": "Meta releases first image model since Zuckerberg’s AI overhaul",
-                  "link": "https://www.ft.com/content/389f9102-fb5d-471a-bc50-9c591b7f7994",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                },
-                {
-                  "title": "Meta Debuts New AI Image-Generation Model Inside Chatbot, Instagram",
-                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFVnbXFLdkZpa1NUSUlKNTE1WDV0Y1gzd1RBQ0FraFVhNW56Rlh2dDAtWkdHUzNZTHNLV2dPVmdZQXRIOGhYMUphQmVfd3kyVWh6RkJsaE15YWxuZERqT29qdUdqaTBHUDZiMkVPNWZZT0EtZnRqdkE4blJnRVd2NnV3NmdOSmo2ZDdfMmo2U0o5RzVVeHFaTlE0S2xORjduT1hHMjRIRk1UM19KcnVrZlpaY3VJYm5I?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Judge authorizes payment of multi-million dollar award to E. Jean Carroll in Trump case",
+                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUNLSnZKRklpZ2xEeEVHUVBfVGZBbHAxY2w2WTBIUHR4NDNzNjVxbThxdFR0anBfV2NRQUJDQ2lmdktkOXNsWVEtcVpPeVdMUlB6elVPZWFObnpXS3NiWVFHMGhXOGxmOTE5c1N5MHM1Tk9fSGpoYzkydU9fWkh3cXpfd2dWcXRLSFBZN09POHVLSzNnbEdZLXh6WndWV3JlY1AyWFRJR3VfcFJBMUg3RXBtMjl4Tm5uM0Jn?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -393,21 +331,19 @@
           ]
         },
         {
-          "lead": "SpaceX and Cursor are set to launch their first jointly developed AI model.",
+          "lead": "Trump's crypto legacy is reportedly influencing traditional finance.",
           "segments": [
             {
-              "text": "The new AI model from SpaceX and Cursor is anticipated to be competitive with advanced models like Anthropic’s Opus 4.8 and OpenAI’s GPT-5.5.",
-              "sources": [],
-              "x_mentions": [
+              "text": "Donald Trump's approach to cryptocurrency is seen as reshaping traditional financial systems.",
+              "sources": [
                 {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2074621759891132710"
-                },
-                {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2074598238276210983"
+                  "title": "Trump’s Crypto Legacy Is Remaking Traditional Finance",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcERNM2JtRDNneGJ6OVdna2F4TGhNSGpXNk0wbTdJelZIZWVTcndVQVdST3JuTkVkQkZ5TGRUU2NXeU85Y21CbjBiUnNDdHZBMWZKbWo3NzVRTkxuV2d6UVVsa3ZhR19nZWlSOGZkS2FtZl9UcEhoNHZuYktjTGRUWVZHazZFQ1R3bi1PZk9sMGViQkNNVzFLNnN6RUozSWktMEhQTFFTUTFKa3ZqVjZNT19jc1gtLVk?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
-              ]
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -416,57 +352,32 @@
   ],
   "watchlist": [
     {
-      "name": "Fed",
-      "note": "Focus on upcoming meeting minutes for clues on rate policy amid rising oil prices.",
+      "name": "Oil",
+      "note": "Geopolitical tensions in the Middle East could continue to drive price volatility.",
       "sources": [
         {
-          "title": "Wall St futures steady with focus on Iran tensions, Fed meeting mins",
-          "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-with-focus-on-iran-tensions-fed-meeting-mins-4780613",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+          "title": "Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’",
+          "link": "https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         },
         {
-          "title": "Rate Hike May Come Soon On Market Estimates",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjBxRllKZ3VaY3NUdlVIWXNRWEVzQmRRZWJhT0NsemkteUNJaEJBUnhaWUFYNzZMYi1GYmRlNHd2MHM0SzBTYjJjTWg0VS1qTUxXYmViT3hCYk1aX2RncjZWREs5WWljNEE4dVMyaWZ3c0piYzF2bkhPOFZkZWZmQkNINlRFNmJCdFJ2Y3Z0VGltd0lsUkZtdHNfVQ?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Oil (WTI/Brent)",
-      "note": "Watch for further escalation in Middle East tensions and potential supply disruptions.",
-      "sources": [
+          "title": "국제유가, 호르무즈 긴장고조에 급등...브렌트유 5.2%↑",
+          "link": "https://n.news.naver.com/mnews/article/310/0000138213?sid=104",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
         {
-          "title": "Oil Rises Amid Renewed Supply-Disruption Fears",
+          "title": "Oil prices rise after Washington renews conflict with Tehran",
+          "link": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Oil Futures Rise as U.S.-Iran Strikes Rekindle Conflict",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2owemJ5TTA5SERkejlqS0lWeHZtdXdvU3RnUnlUeURQV1owZjhiZlBmdXZvaVJzcUNxN1ZHMHdsVF80YW5xLUdieFBIZ3FOS1QtSGpFR1hFTGtySEl3QnlfTzRjRWRqSW1mNi1vUTNHa2VDaTVWWmxpdGhkTHhMd2RGX2tDckJyRTdpNlZnZlJiRGZlUmx4WW84OVF0clM0NzNFYXlR?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "US oil prices jump after US military launches strikes against Iran",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW1oQmNkNnFFdEdYaTI4SDJwR0FpbHZjaVZCYnAzdTEyanppYjZTNFlOeE1KODQ5SmtVNC1hOWVhNHh6d3dVNGJ4enNEYkdPZFlEamVaXzRtN3RKME5Od2VKR0dUbUFRWDJ0b0xMcy1TUThmaF9Tem5YNHZUZlZpMGw0Uzc4TzRTT3p2aFhNZU8xT3Fsa2xld2pBRDFvTE5QS3RORTQ5TkowYjB5X2JaVUtQVUU5c2owcXc?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "Oil Prices Up As U.S. Cancels Iran’s Sales License, Launches Strikes",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHQ0S1RSQk44ZGg5T3JFMVZMRFdnUGpOazdqQm5ScnhJZnhIcEJ5TDZwUmRxeGY5SWhJaHA1bF9fVkpEejBKd211M0UwOFRxX0VxcEdtcFo1dDVJM1MweHFpZ1AyVlFRbmRTWk03V09lZGx3RDhHdi1uNXlLWXNkZERWVjBEUFM2Rm9IRVFSd0lJMHFzaGtwMjNUNVdpTGJMRS1MTWVnZDBsV2pUaU0xNHlfMkFMV21yWlE?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        },
-        {
-          "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVQtaEVKRHlPRXhIemJ0WElRcjIydmxfX1MzTm1MXzhBeGh5MXRYUFlmUlRxTWJ2eURZc3hDSmFId0VaVTIyZEJxRkp6MHZWUGpzcHpQN0xEbEFLWUlWUC1rbVM4LXUtNWtRUjN6cmtfVkNSdjYxLVpjVkgxbVRYcGktZVhRbjE2MWdmbmFzaUQ4TUVpMHItTHR3cFU3elRSTUp0a0VDV3BjRUtXN00yZGh3aw?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
-          "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
       ],
       "x_mentions": [
@@ -485,26 +396,76 @@
       ]
     },
     {
-      "name": "Samsung Electronics",
-      "note": "Monitor AI chip demand and foundry order pipeline after strong profit growth and 2nm process wins.",
+      "name": "Fed",
+      "note": "Upcoming economic data will be scrutinized for further clues on monetary policy direction after recent minutes.",
       "sources": [
         {
-          "title": "Samsung profits jump 1,800% as AI chip sales soar",
-          "link": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+          "title": "Fed policymakers' inflation concerns grew at June meeting, minutes show",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0RTaXNnWWRiR3R0S2lvUlNhQVBYcktaZ00wQmxEc25PZldQUkpJdEpUWGlncExsWGR6M2pISWNYQWpxYUtvMDJFaHlrVVZOMHA3Z3cyd1ZWR2RMVjczczZIeGNucll2d3ByUDJqeElKZ3hkUGw2cUdDUXAxSmFrdktTbkJtYVJ2bWpyR1ZoTUM3TlNTM3pyYjhqeGxqYlNGU1ZXRDI2SzU1TlZn?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "삼성전자, 베라 루빈 탑재 eSSD 양산",
-          "link": "https://n.news.naver.com/mnews/article/028/0002813149?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates",
+          "link": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         },
         {
-          "title": "Samsung’s Memory-Driven Profit Explosion",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFBMbHZITUpFRTdqUnpoVGxQdVB1eGNELWZQUmZDR1U1bHVKWGNNVkJXU1ZaY1FmYllLWFBJQUk1ZDgzX3h2SGp5ODRuS19heU0xcWxIdzU3UzVnblZ6dG1mR0VmWWw5WXA3a3ZnMFp1dkJpenR1bVh6YmIzYXc1S29rR2FsUG1VZ0txWnE2YUlVX3hVT004NXNxTQ?oc=5",
+          "title": "Fed Likely Won’t Cut Interest Rates This Year, Minutes Show",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTm16MW5xR2FYR0FqZ29fbk5iX3JNSWdLMS1GY2NTX2Jtcl9rLUhRQ0hqUzI3RnFVUGFkaXRSalBXd19nR09XaUFZaV93aG1JZWJDdkI5LTFDLWpPdWM0SUt4cXk5bXVWb2VsYXlGUGhDWHFwUzQ5Q1ljUEoyODhRdXYxWW8yTDl6bExFNTlFakdRamhRcHJ0cFBPUFZCSHFndWtlbEd5V1BVcG5PVGxmQ2VuXzZDS3RmOG1DZEE1ZkQzNEtYX2hPcHp0LUhhUlFCTTlYZnpvSTJGTXB3TFdQMmtGTkg?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        },
+        {
+          "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
+          "link": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        },
+        {
+          "title": "Inflation fears mount at Warsh’s first Fed meeting",
+          "link": "https://www.ft.com/content/b1eda604-0593-4f56-af1c-ccaf3619efd5",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "China's limited H200 access and ongoing AI chip demand will be key drivers.",
+      "sources": [
+        {
+          "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "China to Let AI Firms Buy Nvidia H200s, Information Says",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRlNtV2pJdEhRb0U4NTlpWU5vMnZqYWNTTUZ2clRfUVRZY0FXTzZMN1pWNVNXZU1FZDlnS3A4RFBhX1lRbWNZcEhZbUV1S0JVdkFiaGdyS2dFakY5NW1LeXRnMVF4dVNITmIwbXZkYzI4SVdvV19leEVlNXFVRndUMS00bWVzT3ZONll3OGVpUDRFSklIOW1JVTROR29SUWZqQXhJekRweUlzTFRzOHRtLQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "China Plans to Let Top AI Firms Buy Limited Amount of Nvidia H200 Chips",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeHc1TnlkaGh6RlRMaTlkZmlQWk9ORjBYSFdiMGNmUW9SN2xxcnVFLTJ0UWR5RWRFU242X0ozZWQ1SkVrd2RBdU5BZlhCQmV0a2ZEVHVUWU5QTkpoSHpLOHhMWVNweFppUWdCemZKS1UyQ0hselFpcnFBX0FadHRZVTBOTVpJeldKbkVlTlJ4WE9sUGtYT3J5S3dSV0Q1bU1PcVFyMnZ4cUE?oc=5",
           "source": "The Information",
           "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Samsung Electronics",
+      "note": "Strong AI chip orders and potential ADR listing for SK Hynix could impact broader Korean semi sentiment.",
+      "sources": [
+        {
+          "title": "\"SK하이닉스 ADR 상장…TSMC 사례처럼 밸류 재평가 기회\"-KB",
+          "link": "https://n.news.naver.com/mnews/article/015/0005307949?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
       "x_mentions": [
@@ -515,59 +476,23 @@
       ]
     },
     {
-      "name": "Nvidia",
-      "note": "Track competitive strategies and adoption of new CPUs amidst ongoing smuggling concerns.",
+      "name": "Broadcom",
+      "note": "Apple's significant chip commitment provides a strong demand signal for future performance.",
       "sources": [
         {
-          "title": "Exec pleads no guilty in Singapore over alleged smuggling of Nvidia chips to China",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVDl6MHlZWng0T05zNms4VkxIWWY2eHl5WHZURVlpRUlqeDFxRVpkeWIwNWhJclRwbmxGVGFDTjg2NWcxcVlVRXFpdXI2OURfenhMYVQzdVFpbjFteGVUaTM1RG91dk5GSGRKX0xkSEg?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        },
-        {
-          "title": "Nvidia’s New Hedge Against Chip Competitors? Partner with Them",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOF9SWkYtNHBtVVBWUW1uWGlwN3BEYThrVGVjZGtIRUYwM3liMlBabEdfQ0VkR0xJWlVKXzZocFJOLUxPbklTWjNtdlFQVGlDbW5Dd3RRWGx0bm5XZUVmdHgxLXdZWkRQbXZ0ejhhR0k2Y1dsTDg2M0xYN3Y1aGgxM2tRQ29MNko5NWc?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        },
-        {
-          "title": "Perplexity says it plans to use Nvidia's new CPU",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
+          "title": "Apple to spend $30 billion on Broadcom chips as it boosts US sourcing",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc21yZ0hzUlp6ZG9xcG1MY2FJbWR0UDV0R3RmX0lqV3g2WEwxUmMwWk1qT2ZWRGdJYlI3WDdvbEo0Z2dXRU1yR2E4NUNsazZENmlWV01sYTdDNnR2Z2JDM0huRkFjUF9fOEpMVEpCQmZPMFVvSllQdlFNQklkOUl5QmFfX2oyNXI5N0pSR0dseUw3X0tqNUp5TEs5aWlMR0hjUDhBX0hTdjdpZm9zZTJFSUxQV3UxTWhpTld2aVRPYzN2VW8?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Apple (AAPL) Chip Deal With Broadcom (AVGO) Expected to Exceed $30 Billion",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYUE5SkFwblZ1a050SE1xdl9WQWk5aHhGeE5BM1ZTTzBveG91N04zWGV2SWVzRlFzLTBKTDhEckdHYVhpU1MySThkTzZjNlFEcUlXUmZsN19JTGstZjNucDNmUEk1cEd3VFZMMEZ1akdWQ3FtWERnRTE5ZXhwMkVqNHdFMVQ4bkxOREFyOEVMamY1NWR6ZGY1cTk5VHBLMTJxbndBMkFXUDJvWWFieEpsbFFMVUdBbTYxdEFWcA?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
-    },
-    {
-      "name": "Amazon",
-      "note": "Observe bond sale progress and allocation of funds towards AI infrastructure and memory investments.",
-      "sources": [
-        {
-          "title": "Amazon aims to raise $25 billion from bond sale",
-          "link": "https://www.investing.com/news/stock-market-news/amazon-aims-to-raise-25-billion-from-bond-sale-bloomberg-news-reports-4779326",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Treasuries Fall Before Auction as Oil Rebounds, Amazon to Borrow",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmczZG9EWURmdlRXbEVYQlNXck5RbUhwRU95OHd6bmdsdjg5c2pmaGQyQm5Ga2I0enR6azFEajVRdF9CczVxUE0tWXptSGYyWDR2RmtDY1Y1MkxPcDhoQllaQXBVTXBwM2FnWDBmc0tqOXJ1RlM2TldYUzl5OXFKUEU4S1lTTkxDZTBKMnFuN3JhSm9jNFRWNHhQcVVwVXlnd3YtSlZwUVpKSG16aEI0dVVna24?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Amazon Looks to Raise $25 Billion in US Bonds",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmtkOGVqd09VaU5VQmQxWDVURWkzQWMzcDZMNFRxQWhzRFBJenJla0JEXzFmZUFkOEprdVF4eVhJYnExRWZuWFlXak4xMS1teXdaaVh4RFVxbmdZV29hNmxhc0h4OGdXY1hmcUhmMmtVNjk1akxMcTZZRWtwVjdmb3pB?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2074518135432954104"
-        }
-      ]
     }
   ],
   "x_themes": [
@@ -775,67 +700,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7503.85,
-      "change": -33.58,
-      "change_pct": -0.45
+      "price": 7482.71,
+      "change": -21.14,
+      "change_pct": -0.28
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 25818.69,
-      "change": -302.47,
-      "change_pct": -1.16
+      "price": 25870.65,
+      "change": 51.96,
+      "change_pct": 0.2
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52925.15,
-      "change": -130.76,
-      "change_pct": -0.25
+      "price": 52348.39,
+      "change": -576.76,
+      "change_pct": -1.09
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2982.49,
-      "change": -27.05,
-      "change_pct": -0.9
+      "price": 2956.39,
+      "change": -26.1,
+      "change_pct": -0.88
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 68174.48,
-      "change": -235.45,
-      "change_pct": -0.34
+      "price": 66819.05,
+      "change": -1590.88,
+      "change_pct": -2.33
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 23496.89,
-      "change": -119.43,
-      "change_pct": -0.51
+      "price": 24199.46,
+      "change": 702.57,
+      "change_pct": 2.99
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 7784.36,
-      "change": 123.38,
-      "change_pct": 1.61
+      "price": 7246.79,
+      "change": -409.52,
+      "change_pct": -5.35
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 45637.89,
-      "change": 52.8,
-      "change_pct": 0.12
+      "price": 45734.41,
+      "change": 149.32,
+      "change_pct": 0.33
     }
   ],
-  "story_count": 55,
-  "bucket_count": 10
+  "story_count": 61,
+  "bucket_count": 13
 }
