@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-07-09T00:18:05+00:00",
-  "tweet_count": 82,
-  "account_count": 21,
+  "generated_at": "2026-07-10T00:12:19+00:00",
+  "tweet_count": 80,
+  "account_count": 23,
   "themes": [
     {
-      "topic": "xAI Grok 4.5 Performance and Coding Agent Strategy",
+      "topic": "xAI's Grok 4.5 re-enters frontier AI model race",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "xAI's Grok 4.5 is showing significant improvements, reaching Anthropic Opus-level performance in coding agents, potentially due to leveraging Cursor's real-world coding data. Elon Musk highlights its accelerating improvement rate and future speed enhancements with C/C++ inference software for GB300 hardware.",
+      "summary": "xAI's Grok 4.5 has reportedly achieved Anthropic Opus-level performance and cost efficiency, positioning it strongly in the coding-agent market and bringing xAI back into the frontier AI model race.",
       "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2075368342014099576",
+          "text": "Grok 4.5"
+        },
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2075282661795582150",
+          "text": "Deep| $SPCX : Grok 4.5 Brings SpaceXAI Back at the Frontier-Lab Table; Remain Bullish on Harness Data Flywheels and Compute Demand\n\nWhat matters most about the Grok 4.5 release is that xAI / SpaceXAI is back at the table among North American frontier labs. At the beginning of the"
+        },
         {
           "handle": "@jukan05",
           "url": "https://x.com/jukan05/status/2074989572686315630",
@@ -18,112 +28,172 @@
           "handle": "@aleabitoreddit",
           "url": "https://x.com/aleabitoreddit/status/2074979055410266452",
           "text": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth a"
-        },
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2074970378682724661",
-          "text": "Rate of improvement is accelerating. \n\nUsers should notice a meaningful improvement in the usefulness of the Grok Build harness with our V9 foundation model (aka Grok 4.5) every week."
-        },
-        {
-          "handle": "@GavinSBaker",
-          "url": "https://x.com/GavinSBaker/status/2074943300725887104",
-          "text": "Grok 4.5.\n\nPareto dominant for coding by the numbers.\n\nWe will see on the all-important vibes.\n\nInstinct is the benchmarks are likely directionally accurate given the stated focus on real world utility. https://t.co/aLihvvWfwA"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2074925863158878254",
-          "text": "Testing Grok 4.5\nWon't be surprised if Elon cancels the Anthropic &amp; Google agreements and gets back the compute\nxAI is bacc"
         }
       ]
     },
     {
-      "topic": "LangChain-NVIDIA Deep Agents Blueprint for Enterprise AI",
+      "topic": "Meta's planned 14GW AI compute infrastructure expansion by 2027",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "The LangChain/NVIDIA NemoClaw Deep Agents Blueprint introduces an agentic inference stack for enterprise-grade code agency, combining open models with tuned harnesses and governed runtimes to reduce inference costs and expand compute demand. It highlights the shift from model-centric to system-centric performance, favoring vertically optimized platforms like NVIDIA's.",
+      "subcategory": "power_behind",
+      "summary": "Meta reportedly aims to double its AI infrastructure to 14GW of compute deployed by 2027, including a new $10 billion datacenter in Canada, potentially necessitating an equity raise.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2075243525063549159",
+          "text": "Mizuho TMT on reports of $META aiming to double their AI infrastructure to 14GW of compute deployed in 2027\n\nIf accurate, it’s hard to imagine META won’t do an equity raise: https://t.co/X3ay8z30SH"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2075199849507762279",
+          "text": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, and doubling in 2027. \n- as much as $145B "
+        }
+      ]
+    },
+    {
+      "topic": "Aehr receives follow-on production order for silicon photonics testing",
+      "category": "sectors",
+      "subcategory": "testing",
+      "summary": "Aehr has received another follow-on production order from its lead silicon photonics customer for a multi-wafer burn-in system, indicating a volume ramp for automated, high-volume production.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2075210832401604870",
+          "text": "$AEHR just landed a FOLLOW ON production order from its lead silicon photonics customer.\n\n\"The order includes Aehr’s turnkey FOX-XP multi-wafer WLBI system configured to test up to nine 300mm wafers in parallel together with the fully automated FOX WaferPak® AutoAligner™, enablin"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2075183593911910718",
+          "text": "Breaking: $AEHR receives ANOTHER follow-on order from their lead SiPho customer for Wafer Level Burn-In system.\n\nIt's uncanny how I reiterated my bullishness just 12 hours before the announcement...\n\nThis means that Aehr are now officially a fully-qualified supplier with the cust"
+        }
+      ]
+    },
+    {
+      "topic": "Photonics oversupply risk and supply/demand balance",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Concerns are rising about potential oversupply in the photonics sector, particularly for lasers and transceivers, despite massive capacity ramps and constrained supply environments.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2075349289661022584",
+          "text": "There is one looming bear case for Photonics\n$LITE $COHR $AAOI $SIVE \n\nThat this is cyclical and will end up in oversupply.\n\nWith lots of the focus on lasers/transceivers.\n\nMy goal with this post isn't to refute that.\n\nWe can talk about how much demand is still showing up\n\nOr the"
+        }
+      ]
+    },
+    {
+      "topic": "Memory industry shift to custom silicon/HBM and memory-on-logic",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "The memory industry is evolving from commodity hardware to custom silicon, with HBM and memory-on-logic architectures like Qualcomm's HBC reshaping revenue structures and valuations.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2075232352091943117",
+          "text": "Memory companies are evolving from their traditional role as sellers of simple commodities into something closer to custom silicon companies.\n\nWhat does this shift actually mean?\n\nAre today’s market reports properly reflecting this transition?\n\nAnd if memory companies begin to lo"
+        }
+      ]
+    },
+    {
+      "topic": "SK Hynix record-setting US ADR listing",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "SK Hynix Inc. priced its US listing of American depositary receipts at $149 each, raising $26.5 billion in the largest ever first-time share sale in the US by a foreign company, to fund AI computing investments.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2074980602026041657",
-          "text": "$NVDA $MU $SNDK $LITE THE LANGCHAIN-NVIDIA NEMOCLAW READ-THROUGH\n\nhttps://t.co/gZnkKiw7gX\n\nEXECUTIVE CONCLUSION\n\nThe LangChain/NVIDIA NemoClaw Deep Agents Blueprint should be interpreted as an agentic inference-stack announcement rather than a conventional model release. The blue"
+          "url": "https://x.com/TheValueist/status/2075342893493952944",
+          "text": "$SKHY $000660 (Bloomberg) -- SK Hynix Inc. priced its US listing of American depositary receipts at $149 each, according to a person familiar with the matter, as the South Korean chipmaker powered through volatility to deliver the largest ever first-time share sale in the US by a"
         }
       ]
     },
     {
-      "topic": "Hyperscaler Capex Driving Memory Demand",
+      "topic": "Micron's $250B US manufacturing investment",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "Goldman Sachs forecasts $1 trillion in hyperscaler capex by 2027, with 40-50% allocated to memory, potentially rising to $1.5 trillion, indicating robust long-term demand for memory despite short-term market drawdowns. Amazon is also raising $25B for AI investments, with the majority expected to be spent on memory.",
+      "summary": "Micron plans to invest over $250 billion in US manufacturing through 2035, contributing to increased CapEx guidance for this fiscal year and beyond.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2074795785984618790",
-          "text": "Goldman Sachs forecast $1T of hyperscaler capex in 2027.\n\nAround 40-50% of that spend will go towards memory.\n\nAnd you're worried about 20% drawdowns in memory names from $MU to Samsung to SK Hynix to $SNDK? \n\nMainly driven by broad deleveraging as seen in Korea recently.\n\nYou ju"
+          "url": "https://x.com/ParadisLabs/status/2075305031994163607",
+          "text": "Micron $MU is the most mispriced stock in the S&P 500 right now:\n\n> You rarely see a combination of high revenue growth + low valuations in the S&P 500.\n> Micron has ~250% revenue growth for current year (fastest growth in the index).\n> Micron is one of the cheapest stocks on a P"
         },
         {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2074773675325214722",
-          "text": "The Samsung Electronics preferred shares are entitled exactly the same economic rights as the commons, bar a token extra KRW. This takes very little research to confirm.\n\nThe historic dividend is irrelevant given earnings have multiplied by an order of magnitude and we will be ex"
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2074871760915509406",
+          "text": "Preview| $ASML  2Q26: Raising EUV Shipment Expectations\n\nWith ASML’s supply bottlenecks easing, we raise our 2026/27 EUV shipment forecasts to 66 and 95 units. For 2028, we now expect 109 units.\n\nOn the demand side, both memory and logic remain strong. In memory, Micron raised it"
         }
       ]
     },
     {
-      "topic": "US Semiconductor Engineer Shortage Threatens Fab Expansion",
+      "topic": "US-Iran conflict escalation and oil price impact",
       "category": "out_of_ai",
       "subcategory": "geopolitics",
-      "summary": "A McKinsey study indicates a shortage of engineers and technicians in the US semiconductor industry, threatening to stall major fab expansion plans by TSMC, Micron, Samsung, and Intel. This contrasts with Korea's robust talent pipeline, which strengthens its position and risks leaving the US with expensive, underutilized capacity.",
+      "summary": "The US-Iran ceasefire collapsed, leading to US strikes on Iranian targets and a rise in Brent and WTI crude oil prices due to Strait of Hormuz transit risks.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2074583374409109913",
-          "text": "The U.S. needs to figure this out asap:\n\nA new study led by McKinsey finds that there will be a shortage of engineers and technicians in the U.S. semiconductor industry.\n\nWhich may stall expansion plans for:\n- $TSM ($265B in Arizona)\n- $MU ($100B in New York)\n- Samsung (Texas)\n- "
+          "url": "https://x.com/ParadisLabs/status/2074954750101971078",
+          "text": "Paradis Macro Report [July 8]:  \n\nUS & Iran | AI Trade | Macro Data | Hedges | Catalysts  \n\nThe US/Iran ceasefire has collapsed... \n\nOvernight, the US struck >80 Iranian targets e.g. air defences, coastal radar and small boats in response to Iranian attacks on three ships in the "
         }
       ]
     },
     {
-      "topic": "NVIDIA Vera Rubin Server Mass Production at Quanta",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Nvidia Vera Rubin-based servers are entering mass production at Quanta this quarter, expected to drive triple-digit revenue growth for Quanta, which plans to open three more US factories for AI server assembly to double capacity.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2074657262321443218",
-          "text": "Nvidia Vera Rubin-based servers will enter mass production this quarter at Quanta, and are expected to lift the Taiwan giant’s full-year revenue to triple-digit-growth (100%+) year-on-year, media report, adding Quanta said visibility from top Cloud Service Providers (CSPs) alread"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC Ramping Photonic Integrated Circuit (PIC) Production for CPO",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "TSMC is significantly ramping up its production of Photonic Integrated Circuits (PICs), key components for co-packaged optics (CPO), with monthly capacity projected to reach 10,000 wafers-per-month (wpm) in Q2 and 25,000 wpm by 2028, as the AI industry shifts to light signals for faster data transfer.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2074658382599110872",
-          "text": "TSMC production of Photonic Integrated Circuits (PIC), the key light chip in co-packaged optics (CPO), is ramping hard. Media reports note monthly capacity is climbing to 10,000 wafers-per-month (wpm) as of Q2, up from 500wpm earlier—boosting annualized PIC output to 78 million c"
-        }
-      ]
-    },
-    {
-      "topic": "China Approved Limited NVIDIA H200 Chip Purchases",
+      "topic": "Hawkish Fed stance and interest rate outlook",
       "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "China's government has approved limited purchases of 200,000 NVIDIA H200 chips by major AI firms like Deepseek, Bytedance, and Alibaba for training purposes, indicating a controlled supply channel for advanced AI hardware.",
+      "subcategory": "macro",
+      "summary": "The Fed maintained rates but with a hawkish undertone, as FOMC minutes show a split committee with some officials projecting a 2026 hike, impacting high-beta growth stocks.",
       "mentions": [
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2074871701616329193",
-          "text": "CHINA’S GOVERNMENT HAS APPROVED PURCHASES OF 200,000 NVIDIA H200 CHIPS BY DEEPSEEK, BYTEDANCE, ALIBABA AND OTHERS FOR TRAINING PURPOSES. https://t.co/l0R37vf2Yg"
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2074954750101971078",
+          "text": "Paradis Macro Report [July 8]:  \n\nUS & Iran | AI Trade | Macro Data | Hedges | Catalysts  \n\nThe US/Iran ceasefire has collapsed... \n\nOvernight, the US struck >80 Iranian targets e.g. air defences, coastal radar and small boats in response to Iranian attacks on three ships in the "
         }
       ]
     },
     {
-      "topic": "ASML EUV Shipment Increase and Global Fab Expansion Plans",
+      "topic": "Broad market AI positioning unwinds/deleveraging",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "The market is experiencing a valuation correction and risk-off environment, with AI positioning unwinds and deleveraging causing a sell-off in semis and a rotation into energy and defensives.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2074954750101971078",
+          "text": "Paradis Macro Report [July 8]:  \n\nUS & Iran | AI Trade | Macro Data | Hedges | Catalysts  \n\nThe US/Iran ceasefire has collapsed... \n\nOvernight, the US struck >80 Iranian targets e.g. air defences, coastal radar and small boats in response to Iranian attacks on three ships in the "
+        }
+      ]
+    },
+    {
+      "topic": "Hyperscaler AI capex payoff risk and broader market impact",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Concerns are rising that if AI capex payoff takes longer than expected, hyperscaler cash flows and earnings could disappoint, potentially leading to a Mag 7 sell-off and broader market correction.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2075235793589743883",
+          "text": "Hyperscaler FCF is expected to more than double in the coming years. What are the consequences if AI capex’s payoff takes longer than consensus expectations?\n\nApollo’s Torsten Slok lays out the consequences / if token prices continue their declines and Chinese models keep gaining"
+        }
+      ]
+    },
+    {
+      "topic": "OpenAI GPT-5.6 launch and agentic AI shift",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "OpenAI launched GPT-5.6, repositioning ChatGPT into a persistent agent layer for autonomous, recurring workloads, structurally positive for AI infrastructure.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2075293774855405645",
+          "text": "https://t.co/FxJqM2QMAg via @YouTube \n\n$NVDA $MU $SNDK $LITE GPT-5.6, CHATGPT 5.6, WORK, AND GAI INFRASTRUCTURE ANALYSIS\n\nEXECUTIVE ASSESSMENT\n\nThe core investment conclusion is that the launch is more consequential as a change in AI demand architecture than as a discrete model b"
+        }
+      ]
+    },
+    {
+      "topic": "ASML raising EUV shipment forecasts",
       "category": "sectors",
       "subcategory": "semicap",
-      "summary": "ASML is raising EUV shipment forecasts for 2026-2028 due to easing bottlenecks and strong demand from memory (Micron, Samsung, SK Hynix CapEx) and logic (TSMC, Intel CapEx), with Korea announcing a significant long-term investment plan.",
+      "summary": "ASML is raising its EUV shipment forecasts for 2026/27/28 as supply bottlenecks ease, driven by strong demand from memory and logic.",
       "mentions": [
         {
           "handle": "@FundaAI",
@@ -133,100 +203,15 @@
       ]
     },
     {
-      "topic": "InP Substrate Supply Easing for Photonics",
+      "topic": "TSMC Q2/Q3 gross margin expected to beat expectations",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Goldman Sachs forecasts InP substrate supply to ease from 'very tight' to 'tight' due to capacity expansions by AXT and other Chinese suppliers, improving visibility for downstream optical component manufacturers. Pricing is expected to remain strong for substrate suppliers despite increased competition.",
+      "subcategory": "foundry",
+      "summary": "TSMC's Q2 and Q3 gross margins are expected to beat market expectations, driven by a favorable product mix and high volume of rush orders.",
       "mentions": [
         {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2074894537668034591",
-          "text": "If you care about Photonics, read this\n$AXTI $SIVE $LITE $COHR $GLW $AAOI etc.\n\nThere are lots of important updates here\n\nThe one I want to talk about in this post is InP substrates\n\nIf you have been following the $AXTI story, you are familiar with InP substrates\n\nThey are the st"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2074951295027568736",
-          "text": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as long term ownership over:\n\n- the next hyper"
-        }
-      ]
-    },
-    {
-      "topic": "Meta's $10B Datacenter Investment in Canada",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "Meta plans to invest $10 billion in its first 1GW data center in Canada, significantly expanding its AI capacity, countering narratives of overbuilding or capex cuts.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2074965761345642660",
-          "text": "$META to build a new $10B DC in Canada to expand AI capacity.\n\nSo much for the media framing of “Meta Compute”as overbuilding and cutting capex. https://t.co/0QgSls0s9o"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2074939443044130946",
-          "text": "*META TO INVEST $10 BILLION FOR FIRST DATA CENTER IN CANADA\n\n1GW canadian DC for $META - news must have gotten out somewhere early because META's been selling for the last 20 mins heavily https://t.co/fKGJbJYnX2"
-        }
-      ]
-    },
-    {
-      "topic": "SK Hynix US Listing Oversubscribed",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "SK Hynix's US listing is more than seven times oversubscribed, with pricing set for Thursday, indicating strong investor demand for memory sector exposure.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2074985207518945719",
-          "text": "SK HYNIX’S $SKHY U.S. LISTING IS NOW MORE THAN 7 TIMES OVERSUBSCRIBED, WITH PRICING SET FOR THURSDAY."
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2074981061088448561",
-          "text": "*SK HYNIX US OFFERING IS MORE THAN SEVEN TIMES OVERSUBSCRIBED\n\n$SKHY $SKHY $SKHY"
-        }
-      ]
-    },
-    {
-      "topic": "Semiconductor Market Correlation Dynamics",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "A correlation analysis of TMT, semiconductor, AI infrastructure, and hardware shows high common-factor concentration, particularly in WFE, memory, and Asia semi, suggesting limited true diversification within high-beta AI-related stocks and highlighting the need for explicit factor budgeting.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2074926179971187071",
-          "text": "$NVDA $MU $SNDK $LITE EXECUTIVE SUMMARY\n\nThe 07/08/2025 to 07/08/2026 daily local-currency correlation matrix shows a common-factor-dominated TMT, semiconductor, AI infrastructure, and hardware universe with limited true diversification inside the highest-beta part of the group. "
-        }
-      ]
-    },
-    {
-      "topic": "US-Iran Conflict and Broad Market Risk-Off Sentiment",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "The collapse of the US-Iran ceasefire and subsequent US strikes have led to rising oil prices and a broader risk-off market sentiment, contributing to deleveraging and profit-taking in crowded AI names and a sell-off in semis. The UK's involvement in Hormuz is seen as a potential market positive.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2074954750101971078",
-          "text": "Paradis Macro Report [July 8]:  \n\nUS & Iran | AI Trade | Macro Data | Hedges | Catalysts  \n\nThe US/Iran ceasefire has collapsed... \n\nOvernight, the US struck >80 Iranian targets e.g. air defences, coastal radar and small boats in response to Iranian attacks on three ships in the "
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2074524969124389126",
-          "text": "The UK is the two time world war winner, having won back to back world wars with modest support from other nations:\n\n> World War 1 - 1914 to 1918\n> World War 2 - 1939 to 1945\n\nIf the UK is stepping in to Hormuz then all this nonsense should be sorted out very quickly, very bullis"
-        }
-      ]
-    },
-    {
-      "topic": "DigitalOcean's Growth in Managed AI Services",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "DigitalOcean ($DOCN) reported record Q2 numbers, driven by its full five-layer stack of managed AI services, extending its software advantage beyond bare-metal GPU rental and securing longer contract lives despite significant datacenter obligations.",
-      "mentions": [
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2074544093443592678",
-          "text": "While the neocloud trade gets torched, $DOCN went the other way and ripped 10% today on record preliminary Q2 numbers.\n\n$DOCN DigitalOcean doesn't just rent you the raw GPUs, it runs a full five-layer stack on top of them, infrastructure, core cloud, inference, data, and managed "
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2074837432219164719",
+          "text": "Preview| $TSMC 26Q2: Expect Another Beat-and-Raise\n\nQ2 and Q3 Gross Margin to Beat Market Expectations\n\nWe expect Q2 gross margin of 68.4%, above the company’s 65.5- 67.5% guidance, and Q3 gross margin of 69.9% versus the 68% consensus. A favorable product mix and a heavy volume "
         }
       ]
     }
