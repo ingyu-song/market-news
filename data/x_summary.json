@@ -1,78 +1,170 @@
 {
-  "generated_at": "2026-07-10T00:12:19+00:00",
-  "tweet_count": 80,
+  "generated_at": "2026-07-11T00:07:31+00:00",
+  "tweet_count": 84,
   "account_count": 23,
   "themes": [
     {
-      "topic": "xAI's Grok 4.5 re-enters frontier AI model race",
+      "topic": "SK Hynix ADR Debut & Market Performance",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "SK Hynix's US-listed ADRs ($SKHYV) debuted with a significant premium, up 14-16% from the offering price, leading to discussions about its impact on the Korean market and potential for premium compression.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2075670132676817126",
+          "text": "I take that $SKHY didn't completely collapse and actually maintained gains reasonably well as a vote of confidence in the GAI infrastructure trade overall. https://t.co/MVY0LHFKks"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2075651807817199627",
+          "text": "With the gap between different SK Hynix listing locations:\n\nI do think it's more likely that it'll persist, rather than close for now.\n\nSince $HY9H (Germany) and $SKHYV (US) are anchored to different things:\n\n- $HY9H is effecitively a proxy for Korea\n- $SKHYV is however a distinc"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2075648780343648524",
+          "text": "SK hynix is surging right after its ADR debut.\n\nAre you going to jump on the moving train, or wait for things to cool down before getting in?\n\nI’m curious to hear your thoughts.\n\nsolana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 https://t.co/DBx2Fg8Rwt"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2075612709786095921",
+          "text": "SK Hynix ADR with ticker $SKYHV is now up 16% from listing, perhaps a lot of the softness in memory may have been investors preparing funds to move to the US instrument.\n\nI expect that the Korean market will rip on Monday, very happy with my DRAM calls and Samsung preferreds.\n\nHo"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2075611260771852590",
+          "text": "Sk Hynix is now trading under $SKHYV!\n\nIt's now up an insane 16%.\n\nI wonder how Sk Hynix over in Korea is going to react on Monday. https://t.co/Mmqdu0poVY"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2075579792221741135",
+          "text": "SK HYNIX ADRS INDICATED TO OPEN AT $180, OFFER PRICE $149 \n\nWTF?"
+        }
+      ]
+    },
+    {
+      "topic": "SK Hynix CEO Forecasts Memory Shortage Until 2030s",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "SK Hynix's CEO stated that memory chip shortages are expected to persist past 2030 due to demand outpacing supply, leading to long-term contracts and a structural shift in the memory market.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2075643561287061583",
+          "text": "Memory shortage to last until 2030's:\n\nAccording to SK Hynix's CEO today at the Nasdaq IPO press conference.\n\n“The rate at which demand is increasing far exceeds the speed at which we can increase supply.”\n\nCustomers are signing long-term contracts because “they believe that the "
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2075635414493462800",
+          "text": "SK HYNIX CEO: MEMORY CHIP SHORTAGE MAY PERSIST PAST 2030"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2075586795736330743",
+          "text": "SK Group Chairman: Open to More Investments, Including Building Chips in the U.S. – CNBC\n\nSK Group Chairman: Even if production capacity doubles over the next five years, customers still expect memory supply to remain insufficient."
+        }
+      ]
+    },
+    {
+      "topic": "Apple Sues OpenAI for Trade Secret Theft",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "xAI's Grok 4.5 has reportedly achieved Anthropic Opus-level performance and cost efficiency, positioning it strongly in the coding-agent market and bringing xAI back into the frontier AI model race.",
+      "summary": "Apple has sued OpenAI, alleging trade secret theft related to OpenAI's efforts to develop its own hardware devices, accusing them of encouraging Apple employees to share proprietary information.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2075684176603533525",
+          "text": "Oh wow, Apple have sued OpenAI for stealing trade secrets (allegedly).\n\nRelating to OpenAI developing a competing device to rival Apple.\n\nHow stupid can you be to ask job candidates from Apple to bring in  “actual parts” for “show and tell” at OpenAI offices?\n\nWith Apple saying i"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2075679674823311868",
+          "text": "$AAPL is accusing OpenAI of trade secret theft, alleging that OpenAI engaged in a coordinated campaign to steal information about upcoming Apple products.\n\n“The iPhone maker said in a suit Friday that OpenAI encouraged Apple employees to share information, components, drawings an"
+        }
+      ]
+    },
+    {
+      "topic": "Grok 4.5 Release & xAI's Frontier-Lab Position",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "xAI's Grok 4.5 release is highlighted for its real-world utility, positioning xAI/SpaceXAI back as a significant player among North American frontier AI labs.",
       "mentions": [
         {
           "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2075368342014099576",
-          "text": "Grok 4.5"
+          "url": "https://x.com/elonmusk/status/2075728739615281398",
+          "text": "The most important thing about Grok Build and the 4.5 release is that it is genuinely so useful for real-world work"
         },
         {
           "handle": "@FundaAI",
           "url": "https://x.com/FundaAI/status/2075282661795582150",
           "text": "Deep| $SPCX : Grok 4.5 Brings SpaceXAI Back at the Frontier-Lab Table; Remain Bullish on Harness Data Flywheels and Compute Demand\n\nWhat matters most about the Grok 4.5 release is that xAI / SpaceXAI is back at the table among North American frontier labs. At the beginning of the"
+        }
+      ]
+    },
+    {
+      "topic": "Anthropic Achieves Profitability and $50B+ ARR",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Anthropic has become free-cash-flow positive and profitable in Q2, with annualized recurring revenue (ARR) now estimated to exceed $50-69 billion, demonstrating strong growth in the AI model market.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2075633867093094848",
+          "text": "Polymarket still has Anthropic way out in front for best AI model by end of 2026. https://t.co/v016M49YcV"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2074989572686315630",
-          "text": "One of the more interesting Grok bull cases I heard at ICML was this:\n\nThe core idea is that xAI may actually be better positioned than OpenAI Codex in the coding-agent market.\n\nThe reason Claude Code is currently leading in coding agents is not just model quality. Claude Code ef"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2074979055410266452",
-          "text": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ideal thing given Chinese model growth a"
+          "url": "https://x.com/jukan05/status/2075453653662769476",
+          "text": "A few takeaways from Dylan Patel’s latest podcast:\n\nAnthropic turned free-cash-flow positive in the second quarter of this year and has entered profitability.\n\nBoth April and May were profitable and cash-flow positive. At the time of recording, June had not yet been closed, but t"
         }
       ]
     },
     {
-      "topic": "Meta's planned 14GW AI compute infrastructure expansion by 2027",
+      "topic": "Meta's AI Model Success & Stock Performance",
       "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "Meta reportedly aims to double its AI infrastructure to 14GW of compute deployed by 2027, including a new $10 billion datacenter in Canada, potentially necessitating an equity raise.",
+      "subcategory": "software",
+      "summary": "Meta shares gained significantly following the success of its AI models, with discussions focusing on the company's ability to monetize its compute and the impact of its AI capex.",
       "mentions": [
         {
           "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2075243525063549159",
-          "text": "Mizuho TMT on reports of $META aiming to double their AI infrastructure to 14GW of compute deployed in 2027\n\nIf accurate, it’s hard to imagine META won’t do an equity raise: https://t.co/X3ay8z30SH"
+          "url": "https://x.com/negligible_cap/status/2075672673271661031",
+          "text": "*META SHARES GAIN 11% IN TWO DAYS, MOST SINCE APRIL 2025 https://t.co/qP8MCeeCvU"
         },
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2075199849507762279",
-          "text": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, and doubling in 2027. \n- as much as $145B "
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2075569870477881850",
+          "text": "Zuck breaking a 3 year silence on Twitter because it’s more important to get heard by the right people (investors).\n\nFinTwit is one of the best places for thought leadership and idea sharing.\n\nVery bullish for Meta"
         }
       ]
     },
     {
-      "topic": "Aehr receives follow-on production order for silicon photonics testing",
+      "topic": "Micron's $250B US Chipmaking Investment",
       "category": "sectors",
-      "subcategory": "testing",
-      "summary": "Aehr has received another follow-on production order from its lead silicon photonics customer for a multi-wafer burn-in system, indicating a volume ramp for automated, high-volume production.",
+      "subcategory": "memory",
+      "summary": "Micron is investing over $250 billion in US chipmaking through 2035, including a $3 billion investment, as part of its strategy to expand domestic manufacturing capabilities.",
       "mentions": [
         {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2075210832401604870",
-          "text": "$AEHR just landed a FOLLOW ON production order from its lead silicon photonics customer.\n\n\"The order includes Aehr’s turnkey FOX-XP multi-wafer WLBI system configured to test up to nine 300mm wafers in parallel together with the fully automated FOX WaferPak® AutoAligner™, enablin"
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2075680161148834111",
+          "text": "Fab equipment...\nlike $AMAT, $ASML, $KLAC, $LRCX ....\n\n\"Micron US Chipmaking Investment Reaches $3B as Part of $250B US Expansion\"\n\nhttps://t.co/zj6CAnm82h"
         },
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2075183593911910718",
-          "text": "Breaking: $AEHR receives ANOTHER follow-on order from their lead SiPho customer for Wafer Level Burn-In system.\n\nIt's uncanny how I reiterated my bullishness just 12 hours before the announcement...\n\nThis means that Aehr are now officially a fully-qualified supplier with the cust"
+          "url": "https://x.com/ParadisLabs/status/2075305031994163607",
+          "text": "Micron $MU is the most mispriced stock in the S&P 500 right now:\n\n> You rarely see a combination of high revenue growth + low valuations in the S&P 500.\n> Micron has ~250% revenue growth for current year (fastest growth in the index).\n> Micron is one of the cheapest stocks on a P"
         }
       ]
     },
     {
-      "topic": "Photonics oversupply risk and supply/demand balance",
+      "topic": "Optical Sector Weakness from CPO Delays & China Capacity Scares",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "Concerns are rising about potential oversupply in the photonics sector, particularly for lasers and transceivers, despite massive capacity ramps and constrained supply environments.",
+      "summary": "The optical sector has experienced weakness due to reports of CPO delays and concerns about China's capacity, though some short sellers are expected to close positions and buy in 2027 for CPO opportunities.",
       "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2075634064518955297",
+          "text": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually strongly believe in the thesis.\"\n\nMultiple "
+        },
         {
           "handle": "@crux_capital_",
           "url": "https://x.com/crux_capital_/status/2075349289661022584",
@@ -81,137 +173,100 @@
       ]
     },
     {
-      "topic": "Memory industry shift to custom silicon/HBM and memory-on-logic",
+      "topic": "Victory Giant HDI PCB Issues for Nvidia VR",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "The memory industry is evolving from commodity hardware to custom silicon, with HBM and memory-on-logic architectures like Qualcomm's HBC reshaping revenue structures and valuations.",
+      "subcategory": "pcb",
+      "summary": "Victory Giant is experiencing HDI PCB issues for Nvidia's Virtual Rack (VR) due to impedance mismatch, potentially causing further delays and leading to share gains for Taiwanese competitors like Unimicron and Zhen Ding.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2075232352091943117",
-          "text": "Memory companies are evolving from their traditional role as sellers of simple commodities into something closer to custom silicon companies.\n\nWhat does this shift actually mean?\n\nAre today’s market reports properly reflecting this transition?\n\nAnd if memory companies begin to lo"
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2075497913216553224",
+          "text": "“Nvidia removed Kyber from its roadmap back in early May.”\n\n_\nSome Notes on $NVDA Rubin V – A Few Updates on PCBs\n\nhere are a few recent developments regarding VR (Virtual Rack) PCBs.\n\nVictory Giant’s HDI PCB issues have become the latest bottleneck for VR. Last week’s V8 validat"
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2075413471186022792",
+          "text": "Victory Giant's recent manufacturing hiccups have shaken up the supply pie, leading to a noticeable share gain for Taiwanese heavyweights Unimicron and Zhen Ding.\n\nMeanwhile, due to the brutal upstream material crunch, Nanya Plastics has been pulled into the Switch Tray supply ch"
         }
       ]
     },
     {
-      "topic": "SK Hynix record-setting US ADR listing",
+      "topic": "Nanya Plastics Entering Switch Tray Supply Chain",
+      "category": "sectors",
+      "subcategory": "ccl",
+      "summary": "Nanya Plastics has become a newly validated supplier in the Switch Tray supply chain to secure raw material availability, driven by a brutal upstream material crunch.",
+      "mentions": [
+        {
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2075474698201358604",
+          "text": "“Meanwhile, due to the brutal upstream material crunch, Nanya Plastics has been pulled into the Switch Tray supply chain as a newly validated supplier to secure raw material availability.”"
+        },
+        {
+          "handle": "@pcbanalysis",
+          "url": "https://x.com/pcbanalysis/status/2075413471186022792",
+          "text": "Victory Giant's recent manufacturing hiccups have shaken up the supply pie, leading to a noticeable share gain for Taiwanese heavyweights Unimicron and Zhen Ding.\n\nMeanwhile, due to the brutal upstream material crunch, Nanya Plastics has been pulled into the Switch Tray supply ch"
+        }
+      ]
+    },
+    {
+      "topic": "Inference Memory Economics & Tiering Hierarchy",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "SK Hynix Inc. priced its US listing of American depositary receipts at $149 each, raising $26.5 billion in the largest ever first-time share sale in the US by a foreign company, to fund AI computing investments.",
+      "summary": "A detailed analysis from Semi Doped outlines how inference makes memory, storage, and networking critical, establishing a hierarchy spanning HBM, DRAM, CXL memory, and flash for optimal throughput and latency.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2075342893493952944",
-          "text": "$SKHY $000660 (Bloomberg) -- SK Hynix Inc. priced its US listing of American depositary receipts at $149 each, according to a person familiar with the matter, as the South Korean chipmaker powered through volatility to deliver the largest ever first-time share sale in the US by a"
+          "url": "https://x.com/TheValueist/status/2075662769525821837",
+          "text": "$NVDA $MU $SNDK $LITE Watch the whole @semidoped video and read the follow-up below. Both excellent and great insight into how KV cache will be managed. @AccBalanced at @weka is deeply engaged in what the memory and storage tiering hierarchy will look like going forward.\n\nhttps:/"
         }
       ]
     },
     {
-      "topic": "Micron's $250B US manufacturing investment",
+      "topic": "TSMC CoWoS Packaging Capacity Expansion & Equipment Order Uncertainty",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "TSMC's CoWoS packaging capacity is projected to reach over 200,000 wpm by 2027, but equipment makers face uncertainty regarding order allocation and potential price cuts amidst intense competition.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2075374878644146511",
+          "text": "Rumor: TSMC’s 2027 CoWoS packaging capacity will hit at least 200,000 wafers per month (wpm) – a conservative estimate – as the key packaging for AI chips remains in severe shortage, media report, citing unnamed supply chain sources. Nearly all of TSMC’s plant construction projec"
+        }
+      ]
+    },
+    {
+      "topic": "Memory Market Fundamentals & Valuation Risks",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "Micron plans to invest over $250 billion in US manufacturing through 2035, contributing to increased CapEx guidance for this fiscal year and beyond.",
+      "summary": "Exceptional near-term memory market fundamentals, including high gross margins and rising contract prices, are noted, but also signal cycle risk and potential for valuation normalization from peak earnings.",
       "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2075634054406279216",
+          "text": "$NDVA $MU $SNDK $LITE $SKHY $000660 EXECUTIVE CONCLUSION\n\nSemi Doped is a semiconductor podcast launched in 2026 and hosted by Austin Lyons and Vikram Sekar. Sekar, who leads this follow-up, is an electrical engineer with a Ph.D. from Texas A&M University, 15 years of semiconduct"
+        },
+        {
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2075483000989725069",
+          "text": "70% GM is still a solid and lucrative business. \n\ncash cow 🐄 \n\n_\n\"We're still not at 85, 90% gross margins for memory, but we'll get there. And then at some point from there, it'll also halve back down to like 70s or maybe even lower.\""
+        },
         {
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2075305031994163607",
           "text": "Micron $MU is the most mispriced stock in the S&P 500 right now:\n\n> You rarely see a combination of high revenue growth + low valuations in the S&P 500.\n> Micron has ~250% revenue growth for current year (fastest growth in the index).\n> Micron is one of the cheapest stocks on a P"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2074871760915509406",
-          "text": "Preview| $ASML  2Q26: Raising EUV Shipment Expectations\n\nWith ASML’s supply bottlenecks easing, we raise our 2026/27 EUV shipment forecasts to 66 and 95 units. For 2028, we now expect 109 units.\n\nOn the demand side, both memory and logic remain strong. In memory, Micron raised it"
         }
       ]
     },
     {
-      "topic": "US-Iran conflict escalation and oil price impact",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "The US-Iran ceasefire collapsed, leading to US strikes on Iranian targets and a rise in Brent and WTI crude oil prices due to Strait of Hormuz transit risks.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2074954750101971078",
-          "text": "Paradis Macro Report [July 8]:  \n\nUS & Iran | AI Trade | Macro Data | Hedges | Catalysts  \n\nThe US/Iran ceasefire has collapsed... \n\nOvernight, the US struck >80 Iranian targets e.g. air defences, coastal radar and small boats in response to Iranian attacks on three ships in the "
-        }
-      ]
-    },
-    {
-      "topic": "Hawkish Fed stance and interest rate outlook",
+      "topic": "Taiwan's Semiconductor & Chip Equipment Export/Import Surge",
       "category": "out_of_ai",
       "subcategory": "macro",
-      "summary": "The Fed maintained rates but with a hawkish undertone, as FOMC minutes show a split committee with some officials projecting a 2026 hike, impacting high-beta growth stocks.",
+      "summary": "Taiwan's semiconductor exports surged over 33% year-on-year in June to $24.11 billion, with chip equipment imports also rising significantly, driven by blockbuster demand for AI-related goods.",
       "mentions": [
         {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2074954750101971078",
-          "text": "Paradis Macro Report [July 8]:  \n\nUS & Iran | AI Trade | Macro Data | Hedges | Catalysts  \n\nThe US/Iran ceasefire has collapsed... \n\nOvernight, the US struck >80 Iranian targets e.g. air defences, coastal radar and small boats in response to Iranian attacks on three ships in the "
-        }
-      ]
-    },
-    {
-      "topic": "Broad market AI positioning unwinds/deleveraging",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The market is experiencing a valuation correction and risk-off environment, with AI positioning unwinds and deleveraging causing a sell-off in semis and a rotation into energy and defensives.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2074954750101971078",
-          "text": "Paradis Macro Report [July 8]:  \n\nUS & Iran | AI Trade | Macro Data | Hedges | Catalysts  \n\nThe US/Iran ceasefire has collapsed... \n\nOvernight, the US struck >80 Iranian targets e.g. air defences, coastal radar and small boats in response to Iranian attacks on three ships in the "
-        }
-      ]
-    },
-    {
-      "topic": "Hyperscaler AI capex payoff risk and broader market impact",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Concerns are rising that if AI capex payoff takes longer than expected, hyperscaler cash flows and earnings could disappoint, potentially leading to a Mag 7 sell-off and broader market correction.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2075235793589743883",
-          "text": "Hyperscaler FCF is expected to more than double in the coming years. What are the consequences if AI capex’s payoff takes longer than consensus expectations?\n\nApollo’s Torsten Slok lays out the consequences / if token prices continue their declines and Chinese models keep gaining"
-        }
-      ]
-    },
-    {
-      "topic": "OpenAI GPT-5.6 launch and agentic AI shift",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "OpenAI launched GPT-5.6, repositioning ChatGPT into a persistent agent layer for autonomous, recurring workloads, structurally positive for AI infrastructure.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2075293774855405645",
-          "text": "https://t.co/FxJqM2QMAg via @YouTube \n\n$NVDA $MU $SNDK $LITE GPT-5.6, CHATGPT 5.6, WORK, AND GAI INFRASTRUCTURE ANALYSIS\n\nEXECUTIVE ASSESSMENT\n\nThe core investment conclusion is that the launch is more consequential as a change in AI demand architecture than as a discrete model b"
-        }
-      ]
-    },
-    {
-      "topic": "ASML raising EUV shipment forecasts",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "ASML is raising its EUV shipment forecasts for 2026/27/28 as supply bottlenecks ease, driven by strong demand from memory and logic.",
-      "mentions": [
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2074871760915509406",
-          "text": "Preview| $ASML  2Q26: Raising EUV Shipment Expectations\n\nWith ASML’s supply bottlenecks easing, we raise our 2026/27 EUV shipment forecasts to 66 and 95 units. For 2028, we now expect 109 units.\n\nOn the demand side, both memory and logic remain strong. In memory, Micron raised it"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC Q2/Q3 gross margin expected to beat expectations",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC's Q2 and Q3 gross margins are expected to beat market expectations, driven by a favorable product mix and high volume of rush orders.",
-      "mentions": [
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2074837432219164719",
-          "text": "Preview| $TSMC 26Q2: Expect Another Beat-and-Raise\n\nQ2 and Q3 Gross Margin to Beat Market Expectations\n\nWe expect Q2 gross margin of 68.4%, above the company’s 65.5- 67.5% guidance, and Q3 gross margin of 69.9% versus the 68% consensus. A favorable product mix and a heavy volume "
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2075385017870774306",
+          "text": "Taiwan’s semiconductor exports in June rose 33.4% year-on-year to US$24.11 billion, raising 2nd quarter chip exports to $71.15B, up 43.7%, media report.\n\n-Chip exports for the 1st half of 2026 +43.9% to $133.17B, of that, DRAM chip exports +158.5% to $18.55B  \n\nOverall exports in"
         }
       ]
     }
