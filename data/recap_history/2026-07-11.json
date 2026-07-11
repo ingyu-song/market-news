@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-11T22:43:22+00:00",
+  "generated_at": "2026-07-11T23:50:33+00:00",
   "mode": "daily",
   "for_date": "2026-07-11",
-  "headline": "SK Hynix ADRs Surge on Debut; AI Chip Demand Fuels Taiwan Exports, Memory Outlook.",
-  "summary": "SK Hynix ADRs debuted with a 14-16% premium, signaling strong HBM demand and a positive memory market outlook. Taiwan's semiconductor exports surged 33% YoY to $24.11B in June, driven by AI server demand. Early S&P 500 earnings show perfect revenue growth despite mixed EPS.",
+  "headline": "AI Chip Demand Fuels Memory Surge; SK Hynix ADRs Debut Strong Amid Earnings Test",
+  "summary": "SK Hynix ADRs surged 13-16% on debut, reflecting robust HBM demand and forecasts for memory shortages through 2030. Broader AI chip demand remains a key focus for investors, with TSMC expanding CoWoS capacity. Early S&P 500 earnings reports show perfect revenue growth, while Meta faces EU scrutiny over addictive design.",
   "sections": [
     {
-      "label": "Memory (DRAM/HBM/NAND)",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "SK Hynix ADRs debuted with a significant premium.",
+          "lead": "SK Hynix ADRs saw a strong debut, driven by persistent HBM demand.",
           "segments": [
             {
-              "text": "US-listed ADRs ($SKHYV) opened 14-16% above offering price, reflecting strong investor interest and HBM demand.",
+              "text": "SK Hynix's US-listed ADRs ($SKHYV) debuted with a significant premium, up nearly 13-16% from the offering price, reflecting strong investor interest in the memory sector.",
               "sources": [
                 {
-                  "title": "SK하이닉스, 美 나스닥 입성…글로벌 컴퍼니 영향력 높일 이정표 수립",
-                  "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114635",
+                  "title": "SK하이닉스 나스닥 상장이 한국경제 전체에 미치는 '뜻밖 효과'",
+                  "link": "https://www.wikitree.co.kr/articles/1145980",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 },
@@ -31,6 +31,12 @@
                   "link": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more",
+                  "link": "https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": [
@@ -59,14 +65,9 @@
                   "url": "https://x.com/jukan05/status/2075579792221741135"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "lead": "Memory chip shortages are projected to persist past 2030.",
-          "segments": [
+            },
             {
-              "text": "SK Hynix's CEO attributes this to demand outpacing supply, leading to long-term contracts and a structural shift in the memory market.",
+              "text": "The company's CEO forecasts memory chip shortages to persist past 2030, as demand continues to outpace supply, leading to long-term contracts and a structural shift in the memory market.",
               "sources": [],
               "x_mentions": [
                 {
@@ -86,63 +87,10 @@
           ]
         },
         {
-          "lead": "Near-term memory market fundamentals remain strong.",
+          "lead": "TSMC and Samsung are expanding advanced process and packaging capacities to meet surging AI chip demand.",
           "segments": [
             {
-              "text": "High gross margins and rising contract prices are noted, though some analysts signal potential cycle risk and valuation normalization.",
-              "sources": [
-                {
-                  "title": "Samsung, SK Hynix margins seen near Micron's 80% level as memory prices surge",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IWWxBN3VWTTZ6SEtqRTY4RldSVS01NDVaSWY4a3pjeFhiTUtORWU2c080c1hmdmMwQmlFU0lUV3RBdW14VlZDOUJJemdWZ18wUE5LMFV5U0kzbzNYb0xZ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": [
-                {
-                  "handle": "@TheValueist",
-                  "url": "https://x.com/TheValueist/status/2075662769525821837"
-                },
-                {
-                  "handle": "@Aaronwei3n",
-                  "url": "https://x.com/Aaronwei3n/status/2075483000989725069"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "China's domestic memory production is expanding.",
-          "segments": [
-            {
-              "text": "CXMT is focusing on DDR4, while YMTC is advancing in NAND, intensifying competition in the global memory market.",
-              "sources": [
-                {
-                  "title": "中國記憶體產能開到爆！長鑫搶DDR4、長江攻NAND 南亞科怎麼應戰？",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KNktCa3c0ZXJxMllKOUs2QTdHNGRqRmlsLXJZZWlZX05EeU1yZzFtdzVnODNNVE9HV3lDXzF0V0s1NHEtbW13QXFvNFA0QndLbmRBMTM1VG0yLVNxX2E0?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-                }
-              ],
-              "x_mentions": [
-                {
-                  "handle": "@Aaronwei3n",
-                  "url": "https://x.com/Aaronwei3n/status/2075474698201358604"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "US Semis / AI Chips",
-      "bullets": [
-        {
-          "lead": "TSMC maintains its lead in 2nm process technology.",
-          "segments": [
-            {
-              "text": "Intel's 14A process is reportedly slipping beyond 2030, while Samsung's 4nm capacity is filling due to HBM4 demand.",
+              "text": "TSMC's 2nm process lead is widening, while Intel's 14A slips beyond 2030, and Samsung's 4nm capacity is filling up due to HBM4 demand.",
               "sources": [
                 {
                   "title": "Insight: TSMC's 2nm lead widens, Intel 14A slips beyond 2030, Samsung 4nm fills on HBM4 demand",
@@ -152,54 +100,20 @@
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia faces potential supply chain challenges.",
-          "segments": [
+            },
             {
-              "text": "Victory Giant is experiencing HDI PCB issues for Nvidia's Virtual Rack (VR) due to impedance mismatch, which could cause delays.",
-              "sources": [
-                {
-                  "title": "엔비디아 시총 '뚝'…AI 주도권 이동 본격화",
-                  "link": "https://n.news.naver.com/mnews/article/050/0000108433?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                },
-                {
-                  "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
-                  "link": "https://www.investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
+              "text": "TSMC's CoWoS packaging capacity is projected to reach over 200,000 wafers per month by 2027, though equipment makers face uncertainty regarding order allocation and potential price cuts.",
+              "sources": [],
               "x_mentions": [
                 {
-                  "handle": "@Aaronwei3n",
-                  "url": "https://x.com/Aaronwei3n/status/2075497913216553224"
-                },
-                {
-                  "handle": "@pcbanalysis",
-                  "url": "https://x.com/pcbanalysis/status/2075413471186022792"
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2075374878644146511"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "lead": "Micron is committing substantial investment to US chipmaking.",
-          "segments": [
+            },
             {
-              "text": "The company plans to invest over $250 billion in US chipmaking through 2035, including a $3 billion initial investment.",
-              "sources": [
-                {
-                  "title": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
-                  "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
+              "text": "Micron is investing over $250 billion in US chipmaking through 2035, including a $3 billion investment, to expand domestic manufacturing capabilities.",
+              "sources": [],
               "x_mentions": [
                 {
                   "handle": "@PhotonCap",
@@ -214,17 +128,125 @@
           ]
         },
         {
-          "lead": "TSMC's CoWoS packaging capacity is set for significant expansion.",
+          "lead": "Broader AI demand remains critical for semiconductor investors, despite some supply chain challenges.",
           "segments": [
             {
-              "text": "Capacity is projected to exceed 200,000 wpm by 2027, though equipment makers face uncertainty regarding order allocation and potential price cuts.",
+              "text": "Morgan Stanley highlights that broader AI demand is key for Nvidia investors, as the market looks beyond immediate earnings.",
+              "sources": [
+                {
+                  "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
+                  "link": "https://www.investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Victory Giant is experiencing HDI PCB issues for Nvidia's Virtual Rack (VR) due to impedance mismatch, which could cause further delays and benefit Taiwanese competitors.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@Aaronwei3n",
+                  "url": "https://x.com/Aaronwei3n/status/2075497913216553224"
+                },
+                {
+                  "handle": "@pcbanalysis",
+                  "url": "https://x.com/pcbanalysis/status/2075413471186022792"
+                }
+              ]
+            },
+            {
+              "text": "Taiwan's semiconductor exports surged over 33% year-on-year in June to $24.11 billion, with chip equipment imports also rising significantly, driven by blockbuster demand for AI-related products.",
               "sources": [],
               "x_mentions": [
                 {
                   "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2075374878644146511"
+                  "url": "https://x.com/dnystedt/status/2075385017870774306"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Early S&P 500 reports indicate strong revenue growth, setting a positive tone for the earnings season.",
+          "segments": [
+            {
+              "text": "Early S&P 500 reports have posted a perfect revenue growth record, despite mixed EPS, suggesting underlying business strength.",
+              "sources": [
+                {
+                  "title": "Earnings Scoreboard: Early S&P 500 reports post perfect revenue growth record despite mixed EPS",
+                  "link": "https://seekingalpha.com/news/4612823-earnings-scoreboard-early-sp-500-reports-post-perfect-revenue-growth-record-despite-mixed-eps?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Companies like Flytech, Song Chuan, and Lianyou Metals reported significant revenue increases, with Song Chuan attributing its record June revenue to AI power and storage demand.",
+              "sources": [
+                {
+                  "title": "Flytech lifts second-quarter revenue 38% on box PC and POS demand",
+                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzZvYkdQck5YUmtMcGd5b21Ld3BkZ3BhVjByejBXbGFDMk43WjZoakhucjNLRUVUOGpoVlRGZllFbGxjdzhPV1JFOHRUZERFSFFxTTE5eHMtQ0xMeDE3dUlVY0xpVnpJX2hGRDJ2emVlWVJnV1dWUFZuNWRNaXN1UlBDNGw3dGxT?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Anthropic achieved profitability in Q2, signaling strong growth in the AI sector.",
+          "segments": [
+            {
+              "text": "Anthropic has become free-cash-flow positive and profitable in Q2, with annualized recurring revenue (ARR) now estimated to exceed $50-69 billion.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@wallstengine",
+                  "url": "https://x.com/wallstengine/status/2075633867093094848"
+                },
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2075453653662769476"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "The market faces an earnings test, with stocks currently priced for optimism.",
+          "segments": [
+            {
+              "text": "Stocks priced for \"sunshine and rainbows\" now face an earnings test, as investors scrutinize corporate performance against high expectations.",
+              "sources": [
+                {
+                  "title": "Stocks Priced for ‘Sunshine and Rainbows’ Now Face Earnings Test",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3ExcmRUX1hYVDE1cGZNeEQweUpVSWcxUFktS2FLSUxZczNqZmtVcF9sdnI1a1NGMnZFRWZJeU5BYWlLdVRJUkRldi1CS3RObU5NaEFWNU42VHgxWWNYNWxpcVZrNHpVNG9tOS11NUhvTDdpVzhkaVlEVWVpSURrd01jM1VEcVRBSVo1MHhOTFRlTmxwSGJycVN0LS1mcFlQSEtkd18zeVVKUVJVYnFfRjdDUQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Upcoming CPI and semiconductor earnings will be key tests for the market, influencing whether the KOSPI can sustain a rebound.",
+              "sources": [
+                {
+                  "title": "[증시전망] 코스피 반등 나서나...CPI·반도체 실적 시험대",
+                  "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683441",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -234,10 +256,22 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Meta's AI models are driving stock performance.",
+          "lead": "Meta faces regulatory pressure in the EU over its platform design.",
           "segments": [
             {
-              "text": "Shares gained significantly following the success of its AI models, with focus on monetizing compute and AI capex impact.",
+              "text": "Meta has been ordered by the E.U. to alter the \"addictive design\" of Instagram and Facebook, following regulatory scrutiny.",
+              "sources": [
+                {
+                  "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
+                  "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Meta shares gained significantly following the success of its AI models, with discussions focusing on the company's ability to monetize its compute and the impact of its AI capex.",
               "sources": [
                 {
                   "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more",
@@ -260,33 +294,24 @@
           ]
         },
         {
-          "lead": "Meta has scrapped an AI image feature due to privacy backlash.",
+          "lead": "Elon Musk's xAI released Grok 4.5, while Apple initiated legal action against OpenAI.",
           "segments": [
             {
-              "text": "The company was also ordered by the EU to alter the \"addictive design\" of Instagram and and Facebook.",
-              "sources": [
+              "text": "xAI's Grok 4.5 release is highlighted for its real-world utility, positioning xAI/SpaceXAI as a significant player among North American frontier AI labs.",
+              "sources": [],
+              "x_mentions": [
                 {
-                  "title": "Meta scraps AI image feature days after launch following privacy backlash",
-                  "link": "https://www.investing.com/news/stock-market-news/meta-discontinues-ai-image-feature-days-after-launch-4787161",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2075728739615281398"
                 },
                 {
-                  "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-                  "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "handle": "@FundaAI",
+                  "url": "https://x.com/FundaAI/status/2075282661795582150"
                 }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Apple has initiated legal action against OpenAI.",
-          "segments": [
+              ]
+            },
             {
-              "text": "The lawsuit alleges trade secret theft related to OpenAI's efforts to develop its own hardware devices.",
+              "text": "Apple has sued OpenAI, alleging trade secret theft related to OpenAI's efforts to develop its own hardware devices, accusing them of encouraging Apple employees to share proprietary information.",
               "sources": [],
               "x_mentions": [
                 {
@@ -298,14 +323,9 @@
                   "url": "https://x.com/negligible_cap/status/2075679674823311868"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "lead": "xAI's Grok 4.5 release highlights real-world utility.",
-          "segments": [
+            },
             {
-              "text": "This positions xAI as a significant player among North American frontier AI labs.",
+              "text": "Elon Musk has also directed Tesla staff to transition to using Grok, indicating broader adoption within his ecosystem.",
               "sources": [
                 {
                   "title": "Exclusive: Elon Musk Tells Tesla Staff to Move to Using Grok",
@@ -314,16 +334,93 @@
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
-              "x_mentions": [
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Netflix is expanding its content library and exploring potential acquisitions.",
+          "segments": [
+            {
+              "text": "Netflix recently added Christopher Nolan's \"Inception\" and is reportedly in talks to acquire Letterboxd, a social film-logging app.",
+              "sources": [
                 {
-                  "handle": "@elonmusk",
-                  "url": "https://x.com/elonmusk/status/2075728739615281398"
+                  "title": "Netflix Just Added Christopher Nolan’s Best Movie Ever Ahead Of ‘The Odyssey’",
+                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFV3NlpoN29jdHVOd0FmRnp5SXFKSFVOeU15TnNoMTduS1hpeVB3enFzZ0pvUzlWNFQ1eXpROWk4em1YelZ3aTZYcWhidkVRM0NQVXJXM3hVNmlKa2ZEWlFENGtuV01MYjlWMGw2d09TTVV5VnE3Z05hUGJPWGkzVzBJay0teEtXXzZpZEhtRWttNFVHcDE4VjlRTk80eFY5SDlKR3dRSTJfWGFhOVdkS3Bsa2pCY3VVX0dqOG9uVlFMLW8?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 },
                 {
-                  "handle": "@FundaAI",
-                  "url": "https://x.com/FundaAI/status/2075282661795582150"
+                  "title": "Netflix reportedly among parties in talks to buy Letterboxd",
+                  "link": "https://www.theguardian.com/film/2026/jul/10/letterboxd-netflix-sales-talks",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
-              ]
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Inflationary pressures from fuel prices persist, impacting consumers.",
+          "segments": [
+            {
+              "text": "Fuel prices are significantly impacting consumers even as the crude crisis appears to fade, contributing to broader inflationary concerns.",
+              "sources": [
+                {
+                  "title": "Fuel Prices Are Slamming Consumers Even as Crude Crisis Fades",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmVqNGtPeXRSeERUT283OFRuVmhJX3cweHQ5ZjlNOXN2ZUVyQ2xJZzY4RG5GLW5VaERQSVdqRDkzWmdHamZmcERMRnhQODVQYlotalRBaVdTb3pkajR3SzBzNlFSUnFqRnRNQW5DUlk0ZERQbFVYbGlVUGRjSEExMS1qblFuOV9oN0xQeXgxcDFrVlhHMVNZNlh3bVc4U2tBQ05ERzhyUTZQQ3FsTnJFLU5n?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Oil prices remain volatile, with a week of hostilities derailing shipping and adding to market uncertainty.",
+              "sources": [
+                {
+                  "title": "Oil Prices Wobble As a Week of Hostilities Derails Shipping",
+                  "link": "https://www.nytimes.com/2026/07/10/business/oil-gas-stocks-shipping-iran-hormuz.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Upcoming CPI data will be a critical test for market sentiment and potential rate adjustments.",
+          "segments": [
+            {
+              "text": "The upcoming CPI report will be a key indicator for market direction, especially for the KOSPI, which is looking for a sustained rebound.",
+              "sources": [
+                {
+                  "title": "[증시전망] 코스피 반등 나서나...CPI·반도체 실적 시험대",
+                  "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683441",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Some underperforming trades could yield significant returns over the next six months, suggesting potential shifts in market dynamics.",
+              "sources": [
+                {
+                  "title": "These underperforming trades could yield big returns over next six months",
+                  "link": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -333,32 +430,10 @@
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Taiwan's semiconductor exports surged in June.",
+          "lead": "The EU is pushing for diversification away from China, requiring substantial funding.",
           "segments": [
             {
-              "text": "Exports rose over 33% year-on-year to $24.11 billion, with chip equipment imports also rising significantly, driven by AI-related demand.",
-              "sources": [
-                {
-                  "title": "AI 서버 수요 폭발에 대만 반도체 수출 사상 최대…일본은 ‘안보 기술...",
-                  "link": "https://www.g-enews.com/view.php?ud=202607120706409394fbbec65dfb_1",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2075385017870774306"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "The EU is warning about funding needs for diversification from China.",
-          "segments": [
-            {
-              "text": "This push aims to reduce reliance on China across various sectors.",
+              "text": "The European Union has warned that its push to diversify away from China will necessitate significant funding.",
               "sources": [
                 {
                   "title": "EU Warns Push to Diversify Away From China Will Need Funding",
@@ -372,10 +447,27 @@
           ]
         },
         {
-          "lead": "Volkswagen is facing significant challenges in the Chinese market.",
+          "lead": "China is focusing on developing its low-altitude economy.",
           "segments": [
             {
-              "text": "The company's troubles in China are impacting its global performance.",
+              "text": "China Aviation Group plans to focus on developing the low-altitude economy, indicating a strategic shift in its industrial policy.",
+              "sources": [
+                {
+                  "title": "China Aviation Group Plans to Focus on Low-Altitude Economy",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0I2NGVBSGYyelBLNFFRZC1CUFJjYUJQU0dWdms1djRCMEtOUjg2LVh6cU16SFVKRUJVNEp0Nk4tVkp5M3JCWF90anRJUGcxTmNTRXA5Ri1PYUpSYmxUdW15NGJWaHpFMF94M2Rod2lrdkdTUmJYd3hrS0Y1QzlUNkpiY1ZKc040ODdZY2xqN2xUUlV4NzBRY2htWGp4MUxsMEpmLXdrV0JPNGpjUTVN?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Volkswagen's challenges highlight the complexities of operating in the Chinese market.",
+          "segments": [
+            {
+              "text": "Volkswagen's recent troubles underscore how its difficulties were largely \"made in China,\" reflecting the unique competitive and regulatory landscape.",
               "sources": [
                 {
                   "title": "How Volkswagen’s Troubles Were Made in China",
@@ -387,101 +479,23 @@
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
+        },
         {
-          "lead": "Anthropic has achieved profitability in Q2.",
+          "lead": "The optical sector is experiencing weakness due to CPO delays and concerns about China's capacity.",
           "segments": [
             {
-              "text": "The company is now free-cash-flow positive with annualized recurring revenue (ARR) estimated to exceed $50-69 billion.",
+              "text": "The optical sector has experienced weakness due to reports of CPO delays and concerns about China's capacity, although some short sellers are expected to cover positions.",
               "sources": [],
               "x_mentions": [
                 {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2075633867093094848"
+                  "handle": "@aleabitoreddit",
+                  "url": "https://x.com/aleabitoreddit/status/2075634064518955297"
                 },
                 {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2075453653662769476"
+                  "handle": "@crux_capital_",
+                  "url": "https://x.com/crux_capital_/status/2075349289661022584"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "lead": "Early S&P 500 reports show strong revenue growth.",
-          "segments": [
-            {
-              "text": "Despite mixed EPS, early earnings reports indicate a perfect revenue growth record.",
-              "sources": [
-                {
-                  "title": "Earnings Scoreboard: Early S&P 500 reports post perfect revenue growth record despite mixed EPS",
-                  "link": "https://seekingalpha.com/news/4612823-earnings-scoreboard-early-sp-500-reports-post-perfect-revenue-growth-record-despite-mixed-eps?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Several companies reported strong Q2 and June revenues.",
-          "segments": [
-            {
-              "text": "Flytech saw a 38% Q2 revenue increase from box PC and POS demand, while Song Chuan hit record June revenue on AI power and storage demand.",
-              "sources": [
-                {
-                  "title": "Flytech lifts second-quarter revenue 38% on box PC and POS demand",
-                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzZvYkdQck5YUmtMcGd5b21Ld3BkZ3BhVjByejBXbGFDMk43WjZoakhucjNLRUVUOGpoVlRGZllFbGxjdzhPV1JFOHRUZERFSFFxTTE5eHMtQ0xMeDE3dUlVY0xpVnpJX2hGRDJ2emVlWVJnV1dWUFZuNWRNaXN1UlBDNGw3dGxT?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "bullets": [
-        {
-          "lead": "Donald Trump expressed support for cryptocurrency.",
-          "segments": [
-            {
-              "text": "Bitcoin dropped 2% then rebounded after Trump stated he is \"a big crypto guy.\"",
-              "sources": [
-                {
-                  "title": "Bitcoin dropped 2% then rebounded after Trump said he's 'a big crypto guy' — here are experts takes on buying the dip",
-                  "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dropped-2-then-rebounded-180000405.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump has cleared the path for a $4.5 billion bridge project.",
-          "segments": [
-            {
-              "text": "This project aims to connect Canada and the US.",
-              "sources": [
-                {
-                  "title": "Donald Trump clears path for $4.5bn bridge between Canada and US",
-                  "link": "https://www.ft.com/content/7c9c3e82-63c5-442f-aef5-09f6b7bb501f",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                }
-              ],
-              "x_mentions": []
             }
           ]
         }
@@ -491,13 +505,19 @@
   "watchlist": [
     {
       "name": "SK Hynix",
-      "note": "Strong ADR debut and CEO's long-term memory shortage forecast indicate continued HBM momentum.",
+      "note": "ADR debut signals strong HBM demand; watch for continued memory market strength and supply chain dynamics.",
       "sources": [
         {
-          "title": "SK하이닉스, 美 나스닥 입성…글로벌 컴퍼니 영향력 높일 이정표 수립",
-          "link": "https://www.thedailypost.kr/news/articleView.html?idxno=114635",
+          "title": "SK하이닉스 나스닥 상장이 한국경제 전체에 미치는 '뜻밖 효과'",
+          "link": "https://www.wikitree.co.kr/articles/1145980",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Samsung, SK Hynix margins seen near Micron's 80% level as memory prices surge",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IWWxBN3VWTTZ6SEtqRTY4RldSVS01NDVaSWY4a3pjeFhiTUtORWU2c080c1hmdmMwQmlFU0lUV3RBdW14VlZDOUJJemdWZ18wUE5LMFV5U0kzbzNYb0xZ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         },
         {
           "title": "AI熱潮催動、HBM需求看不到盡頭！SK海力士ADR掛牌首日飆近13％",
@@ -510,6 +530,12 @@
           "link": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more",
+          "link": "https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
         }
       ],
       "x_mentions": [
@@ -545,19 +571,25 @@
     },
     {
       "name": "Nvidia",
-      "note": "PCB supply chain issues for VR could impact near-term production, while broader AI demand remains key.",
+      "note": "Broader AI demand remains key for investors; monitor for any further supply chain issues like HDI PCB delays.",
       "sources": [
         {
-          "title": "엔비디아 시총 '뚝'…AI 주도권 이동 본격화",
-          "link": "https://n.news.naver.com/mnews/article/050/0000108433?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         },
         {
           "title": "Broader AI demand is key for Nvidia investors, Morgan Stanley says",
           "link": "https://www.investing.com/news/stock-market-news/broader-ai-demand-is-key-for-nvidia-investors-morgan-stanley-says-4787293",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "NVPS | PurePlay Nvidia Ecosystem Picks & Shovels Index ETF Stock Price, Quotes and News",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91RDRyM2t1bnUtaEZmbmY2SkMza2VKWDQtV1pFb0dMZXJiblV3M2JmTkxTZkFUbkVkU0d4ZnQyNUFIUzFFZUxvdkdLbTREelZhaUxucHhvNXVwb2M?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": [
@@ -573,7 +605,7 @@
     },
     {
       "name": "TSMC",
-      "note": "Maintaining 2nm lead and expanding CoWoS capacity are critical for AI chip production, but equipment order uncertainty exists.",
+      "note": "CoWoS capacity expansion and 2nm lead are critical; watch for equipment order allocation and pricing.",
       "sources": [
         {
           "title": "Insight: TSMC's 2nm lead widens, Intel 14A slips beyond 2030, Samsung 4nm fills on HBM4 demand",
@@ -590,8 +622,8 @@
       ]
     },
     {
-      "name": "Meta Platforms",
-      "note": "AI model success is driving stock performance, but regulatory scrutiny and privacy concerns persist.",
+      "name": "Meta",
+      "note": "EU regulatory actions on \"addictive design\" could impact platform strategy; monitor AI model monetization.",
       "sources": [
         {
           "title": "Meta scraps AI image feature days after launch following privacy backlash",
@@ -624,26 +656,17 @@
       ]
     },
     {
-      "name": "Micron Technology",
-      "note": "Significant US chipmaking investment signals long-term capacity expansion and domestic manufacturing focus.",
+      "name": "Fed",
+      "note": "Upcoming CPI data will be crucial for macro outlook and potential rate adjustments.",
       "sources": [
         {
-          "title": "Dow Jones Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+          "title": "[증시전망] 코스피 반등 나서나...CPI·반도체 실적 시험대",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683441",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
-      "x_mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2075680161148834111"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2075305031994163607"
-        }
-      ]
+      "x_mentions": []
     }
   ],
   "x_themes": [
@@ -952,6 +975,6 @@
       "change_pct": -0.56
     }
   ],
-  "story_count": 52,
-  "bucket_count": 12
+  "story_count": 47,
+  "bucket_count": 10
 }

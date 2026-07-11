@@ -1,68 +1,62 @@
 {
-  "generated_at": "2026-07-11T22:43:40+00:00",
+  "generated_at": "2026-07-11T23:50:43+00:00",
   "mode": "weekly",
   "for_week_start": "2026-07-05",
   "for_week_ending": "2026-07-11",
   "days_covered": 7,
-  "headline": "AI Chip Demand Fuels Memory Surge; Iran Tensions Reignite Oil Volatility",
-  "summary": "The week was dominated by robust demand for AI chips and memory, highlighted by SK Hynix's strong Nasdaq debut and record earnings from Samsung. Geopolitical tensions in the Middle East resurfaced as the Iran ceasefire ended, driving oil prices higher and impacting broader market sentiment. Meanwhile, FOMC minutes signaled continued inflation concerns, with some policymakers supporting rate hikes.",
+  "headline": "AI Chip & Memory Surge as Iran Tensions Flare; SK Hynix ADRs Debut Strong",
+  "summary": "The market was driven by a dual narrative this week: surging demand in the AI chip and memory sectors, exemplified by SK Hynix's successful Nasdaq ADR debut and Samsung's record earnings, contrasted with escalating geopolitical tensions. President Trump's abrupt end to the Iran ceasefire and renewed sanctions sent oil prices higher, introducing volatility. Meanwhile, FOMC minutes indicated continued inflation concerns and support for rate hikes, keeping macro factors in focus as earnings season progresses.",
   "themes": [
     {
       "label": "US Semis / AI Chips / Memory",
-      "narrative": "The AI semiconductor supercycle continued to accelerate, with SK Hynix's US ADR debut seeing significant investor interest and strong premiums. Samsung Electronics reported record Q2 operating profit, while TSMC and Delta Electronics also benefited from surging AI chip demand, driving positive outlooks for DRAM and NAND contract prices.",
+      "narrative": "AI chip demand remained robust, driving strong performance in the semiconductor and memory sectors. SK Hynix's successful Nasdaq ADR debut, significantly oversubscribed, underscored investor confidence in HBM and AI-driven memory. TSMC continued to expand CoWoS capacity, while Samsung reported record Q2 operating profit, largely attributed to the AI semiconductor supercycle.",
       "movers": [
         "SK Hynix",
         "Samsung Electronics",
         "TSMC",
         "Delta Electronics",
-        "Google"
+        "Anthropic"
       ],
       "sources": []
     },
     {
-      "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical risks escalated as President Trump declared an end to the Iran ceasefire, leading to renewed US sanctions on Iranian oil. This development triggered a sharp rise in crude oil prices and raised concerns over transit risks in the Strait of Hormuz, injecting volatility into global markets.",
+      "label": "China / Tariffs / Geopolitics / Trump 2.0 / US Policy",
+      "narrative": "Geopolitical tensions surrounding Iran dominated the week, with President Trump initially signaling a ceasefire, then abruptly ending it. This led to renewed US sanctions on Iranian oil, causing oil prices to jump and raising concerns over Strait of Hormuz transit risks. The shifting policy created market volatility.",
       "movers": [
         "Oil",
-        "Foxconn",
-        "Lockheed Martin",
-        "Iran",
-        "US Government"
+        "Trump",
+        "Iran"
       ],
       "sources": []
     },
     {
       "label": "Fed / Rates / Macro",
-      "narrative": "FOMC minutes revealed persistent inflation concerns among policymakers, with some members indicating support for further interest rate hikes. Fed official Waller reiterated high inflation risks, setting the stage for upcoming CPI and PPI data to heavily influence market expectations for monetary policy.",
+      "narrative": "FOMC minutes revealed growing inflation concerns among policymakers, with some members signaling support for further interest rate hikes. This hawkish sentiment, coupled with upcoming CPI data, kept macro concerns elevated.",
       "movers": [
-        "FOMC",
-        "US Treasury",
-        "WTI Crude",
-        "Federal Reserve"
+        "Fed",
+        "Treasury yields",
+        "Oil"
       ],
       "sources": []
     },
     {
       "label": "Earnings / Guidance",
-      "narrative": "Early S&P 500 earnings reports showed perfect revenue growth, though EPS results were mixed. The strong performance of memory and AI-related companies like Samsung and SK Hynix provided a positive tone, while upcoming reports from major tech players are anticipated to further shape market sentiment.",
+      "narrative": "Early Q2 earnings season kicked off with strong signals from the AI sector, notably Samsung Electronics' record operating profit and SK Hynix's successful ADR listing. Initial S&P 500 reports showed perfect revenue growth, setting a positive tone for the broader market.",
       "movers": [
-        "S&P 500",
         "Samsung Electronics",
         "SK Hynix",
-        "Oracle",
-        "Adobe"
+        "Meta"
       ],
       "sources": []
     },
     {
       "label": "AI Infrastructure / Hyperscaler Capex",
-      "narrative": "Hyperscalers continued to demonstrate significant investment in AI infrastructure, with Amazon issuing $25 billion in AI bonds to fund expansion. TeraWulf secured a substantial data center lease with Anthropic, underscoring the ongoing capital expenditure drive to support growing AI compute needs.",
+      "narrative": "Hyperscalers continued to invest heavily in AI infrastructure, with Amazon issuing $25 billion in AI bonds and TeraWulf securing a significant data center lease with Anthropic. Meta faced EU scrutiny over addictive design, highlighting regulatory risks for major platforms.",
       "movers": [
         "Amazon",
-        "TeraWulf",
         "Anthropic",
-        "Nvidia",
-        "Oracle"
+        "Meta",
+        "TeraWulf"
       ],
       "sources": []
     }
@@ -70,27 +64,27 @@
   "watchlist": [
     {
       "name": "SK Hynix",
-      "note": "Monitor ADR performance and HBM demand trajectory following strong debut."
+      "note": "Monitor post-ADR trading and HBM demand outlook."
     },
     {
-      "name": "WTI Crude",
-      "note": "Watch for further geopolitical developments impacting supply and prices, especially in the Strait of Hormuz."
+      "name": "Oil",
+      "note": "Watch for further developments in US-Iran relations and Strait of Hormuz risks."
     },
     {
-      "name": "Federal Reserve",
-      "note": "Await CPI/PPI data and any new commentary on rate policy amid inflation concerns."
+      "name": "Fed",
+      "note": "Await upcoming CPI data and any further hawkish signals."
     },
     {
       "name": "Samsung Electronics",
-      "note": "Observe follow-through on AI chip supercycle momentum and memory pricing."
+      "note": "Observe continued AI semiconductor supercycle impact."
     },
     {
-      "name": "Anthropic",
-      "note": "Track AI model access restrictions and competitive pricing strategies in the AI software space."
+      "name": "Amazon",
+      "note": "Track AI bond utilization and infrastructure buildout."
     },
     {
-      "name": "TSMC",
-      "note": "Monitor capacity utilization and AI chip order book amidst surging demand."
+      "name": "Meta",
+      "note": "Monitor EU regulatory developments regarding platform design."
     }
   ],
   "x_themes": [
