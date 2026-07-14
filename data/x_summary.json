@@ -1,197 +1,242 @@
 {
-  "generated_at": "2026-07-13T00:01:59+00:00",
-  "tweet_count": 87,
-  "account_count": 23,
+  "generated_at": "2026-07-14T23:59:19+00:00",
+  "tweet_count": 86,
+  "account_count": 21,
   "themes": [
     {
-      "topic": "Meta's 'Iris' AI chip production and compute expansion",
+      "topic": "Aehr Test Systems FY27 revenue guidance",
       "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Meta plans to produce its 'Iris' AI chip from September, aiming to double compute to 14GW next year, with Broadcom as chief design partner and TSMC manufacturing. Meta has also secured long-term supply agreements with Samsung (memory), SanDisk (flash storage), and Sumitomo (fiber optic).",
+      "subcategory": "testing",
+      "summary": "Aehr Test Systems provided strong FY27 revenue guidance of $130M-$150M, significantly exceeding estimates, driven by record backlog and demand for its burn-in solutions.",
       "mentions": [
         {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2075394497262043310",
-          "text": "Meta will have an AI chip codenamed ‘Iris’ in production from September as part of a plan to double compute to 14GW next year, after it deploys 7GW this year, Reuters reports:\n-Iris is part of a 4-generation MTIA project from its inhouse design team. \n-The AI processors are aimed"
-        }
-      ]
-    },
-    {
-      "topic": "Apple sues OpenAI for trade secret theft",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Apple has reportedly sued OpenAI for allegedly stealing trade secrets related to upcoming Apple products, accusing OpenAI of encouraging employees to share confidential information for its own device development.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2075684176603533525",
-          "text": "Oh wow, Apple have sued OpenAI for stealing trade secrets (allegedly).\n\nRelating to OpenAI developing a competing device to rival Apple.\n\nHow stupid can you be to ask job candidates from Apple to bring in  “actual parts” for “show and tell” at OpenAI offices?\n\nWith Apple saying i"
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2077142990649164009",
+          "text": "$AEHR 🤯\n\"That is, with strong momentum and a record backlog heading into fiscal 27. We're expecting revenue of between $130 million and $150 million, representing 2.6 times to three times the just completed fiscal 26 revenue non-GAAP pre-tax pre-tax profitability at these levels "
         },
         {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2075679674823311868",
-          "text": "$AAPL is accusing OpenAI of trade secret theft, alleging that OpenAI engaged in a coordinated campaign to steal information about upcoming Apple products.\n\n“The iPhone maker said in a suit Friday that OpenAI encouraged Apple employees to share information, components, drawings an"
-        }
-      ]
-    },
-    {
-      "topic": "Nvidia Rubin V PCB bottleneck and Victory Giant issues",
-      "category": "sectors",
-      "subcategory": "pcb",
-      "summary": "Nvidia's Rubin V is facing a PCB bottleneck due to Victory Giant's HDI PCB issues, specifically an impedance mismatch degrading signal integrity, which could delay resolution until late July or later.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2076307633364156861",
-          "text": "Nvidia will come out and say \"no delays\" for Rubin, and they will technically be correct, as TSMC won't have any problems starting chip production in September (HBM4 started shipping in June)\n\nBut the problem is with the PCB, not the chip"
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
+          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
         },
         {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2075497913216553224",
-          "text": "“Nvidia removed Kyber from its roadmap back in early May.”\n\n_\nSome Notes on $NVDA Rubin V – A Few Updates on PCBs\n\nhere are a few recent developments regarding VR (Virtual Rack) PCBs.\n\nVictory Giant’s HDI PCB issues have become the latest bottleneck for VR. Last week’s V8 validat"
-        }
-      ]
-    },
-    {
-      "topic": "Analysis refuting AI bubble narrative",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "An analysis argues that AI is not a bubble, contrasting current tech investment and profitability trends with the dot-com era's diverging investment and eroding profit shares, while also addressing valuation, market concentration, and circular financing concerns.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2076368341988417813",
-          "text": "AI is not a bubble.\n\nLazy AI bears point to $NVDA's market cap and through PTSD, claim it resembles $CSCO in March 2000.\n\nHowever, any useful bearish analysis should look at what actually made the 1990s market a bubble from a macro sense, and whether those conditions exist today."
-        }
-      ]
-    },
-    {
-      "topic": "Apple's accelerated M-series chip roadmap for AI",
-      "category": "sectors",
-      "subcategory": "cpu",
-      "summary": "Apple is expected to launch a base M6 this fall, skip Pro/Max/Ultra, and move directly to M7 in H1 2027, accelerating due to significant Neural Engine AI upgrades, with M7 Ultra supporting up to 1.5TB memory and M8 chips planned for 2028 on 1.4nm.",
-      "mentions": [
-        {
           "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2076318666053038110",
-          "text": "Apple $AAPL is expected to launch a base M6 this fall, but skip the M6 Pro, M6 Max and M6 Ultra, moving directly to M7.\n\nM7 is expected in H1 2027, followed by M7 Pro / M7 Max in late 2027 and M7 Ultra in 2028.\n\nThe reason: Apple reportedly planned major Neural Engine upgrades fo"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC vs. Samsung in CPO and advanced packaging",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "TSMC is noted as leading in switch CPO, while Samsung is advancing its 2.xD packaging, which integrates HBM, logic, and silicon photonics on an interposer, aiming for a design win binding these components within twelve months.",
-      "mentions": [
+          "url": "https://x.com/wallstengine/status/2077127289931018419",
+          "text": "$AEHR TEST SYSTEMS SEES FY'27 $130M to $150M VS $85M EST. https://t.co/MIELqyoZVM"
+        },
         {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2076091378199904632",
-          "text": "New PhotonCap field research: TSMC Is Ahead in CPO. Samsung Is Putting a Third Chip Next to HBM.\n\nThis one started a year ago, in an advanced packaging session at a Samsung forum. Last week at Nano Korea, the same executive disclosed 2.xD, a package binding HBM, logic, and silico"
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077126263047958713",
+          "text": "$AEHR Reports Q4 revenue $18.84M, consensus $18.69M. Bookings were a record $60.7M for the quarter. Backlog as of May 29 was $80.6M. Gayn Erickson, president and CEO of Aehr Test Systems, commented: \"We are very pleased with our fiscal fourth quarter performance, which exceeded e"
         }
       ]
     },
     {
-      "topic": "TSMC mature-process price hike",
+      "topic": "Innolight reports increased 800G demand and broad supply chain shortages",
       "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC plans to hike prices on mature-process chip manufacturing by a single-digit percent in Q4, effective January, driven by AI boom demand for chips like PMICs.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2076455477115081027",
-          "text": "TSMC plans to hike prices on mature-process chip manufacturing by a single-digit percent in the 4th quarter, media report, citing multiple unnamed chip design houses, with new pricing to take effect in January. Price hikes will vary by customer. Media surmise the AI boom is drivi"
-        }
-      ]
-    },
-    {
-      "topic": "OpenAI's planned consumer AI device launch",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "OpenAI's first consumer AI device, potentially a smart speaker, smart glasses, or wearable pin, could launch as early as February, though its timeline might be disrupted by the ongoing dispute with Apple.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2076112603831779683",
-          "text": "The Information: OpenAI’s first consumer AI device could launch as early as February, but the Apple fight could disrupt that timeline.\n\nThe products OpenAI has reportedly explored include a display-less smart speaker, smart glasses, a digital voice recorder, and a wearable pin."
-        }
-      ]
-    },
-    {
-      "topic": "Nanya Technology's 2027 capex for new DRAM fab",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Nanya Technology plans to spend NT$200 billion (US$6.2 billion) on 2027 capex, aiming for 30,000 wpm capacity by 2028 at its new fab, part of a NT$480B project.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2076447921709682923",
-          "text": "Nanya Technology plans to spend NT$200 billion (US$6.2 billion) on 2027 capex, up from this year’s NT$50B+, media report. Nanya is aiming for 30,000 wafers per month (wpm) capacity by 2028 at its new fab, which will ultimately reach 45Kwpm. Around NT$100B has already been spent o"
-        }
-      ]
-    },
-    {
-      "topic": "Samsung accelerates Yongin semiconductor cluster fab operations",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Samsung has accelerated the start of operations for the first fab in its Yongin semiconductor cluster by two years, now targeting October 2029 for the first of six planned fabs.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2076148820363399213",
-          "text": "According to Korean media reports, Samsung has moved up the start of operations at the first fab in its Yongin semiconductor cluster by two years.\n\nSpecifically, the target date for the first fab to begin operations has been set for October 2029 as part of Samsung Electronics’ ac"
-        }
-      ]
-    },
-    {
-      "topic": "IBK Research report on Boston Dynamics humanoid robotics value chain",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "An IBK Research report maps suppliers for Boston Dynamics' Atlas robot (Hwashin, LG Energy, Hyundai Autoever, Mobis) and models humanoid volume ramps, highlighting actuator capacity as a key indicator for 2028-2030 growth.",
+      "subcategory": "optical",
+      "summary": "Innolight's investor relations takeaways indicate significantly increased 800G demand and broad supply chain shortages across optical/electrical chips, PCBs, and other module materials, with silicon photonics penetration continuing to trend upward.",
       "mentions": [
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2076248337863639506",
-          "text": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (307950) / integration\n- Hyundai Mobis (0"
+          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
+          "text": "TLDR of Innolight investor relations takeaways:\n\n1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\"\n\nProb most important takeaway as a whole was 800G demand revision (also longer tail demand). "
         }
       ]
     },
     {
-      "topic": "Low-DK Gen 2 PCB demand surge and resilient pricing",
-      "category": "sectors",
-      "subcategory": "pcb",
-      "summary": "Demand for Low-DK Gen 2 PCBs is surging starting 2H26 due to new GPU and ASIC chips, leading to incredibly resilient pricing and potential further increases despite supply chain expansion challenges and tough yield issues.",
-      "mentions": [
-        {
-          "handle": "@pcbanalysis",
-          "url": "https://x.com/pcbanalysis/status/2075682016520216696",
-          "text": "Starting 2H26, as new GPU and ASIC chips enter the sampling and mass production phases, demand for Low-DK Gen 2 is going through the roof. Even though the current supply chain is expanding as fast as they can, machinery lead times and tough yield issues mean actual output is nowh"
-        }
-      ]
-    },
-    {
-      "topic": "CPO system constraints and timeline drivers",
+      "topic": "AAOI Texas manufacturing expansion for optical transceivers",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "CPO's volume ramp is constrained by energy, heat, and reach, with its timeline dependent on the readiness of 800V power, liquid cooling, external-laser reliability, and optical-engine qualification, highlighting the interplay of light, electricity, and heat.",
+      "summary": "AAOI announced the commencement of its Texas manufacturing expansion, adding nearly 400,000 sq ft for 800G/1.6T optical transceiver production, targeting significant capacity increases by mid-2027.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2077114579658662311",
+          "text": "Really positive to see $AAOI announcing their Texas capacity expansion earlier today.\n\nWe've known about their expansion plans for a while now.\n\nBut it overall supports their proposed 800G/1.6T expansion timelines:\n- Q1 2026: 100k monthly capacity \n- End 2026: 650k+ \n- End 2027: "
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
+          "text": "Two different capacity expansion announcements today across $TSEM and $AAOI.\n\nTower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. \n\nTargeting $1.2B net profit,"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2077024285776887883",
+          "text": "$AAOI just broke ground on nearly 400,000 sq ft of new manufacturing in Pearland, Texas.\n\nAll of it dedicated to 800G and 1.6T optical transceivers. https://t.co/yRbJMdeuxU"
+        }
+      ]
+    },
+    {
+      "topic": "Hyperscaler Custom AI ASICs entering multi-generation production",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "Aehr's earnings call indicates hyperscaler custom AI processor programs are progressing into multi-generation production, with a lead customer placing a $41M order for package-level burn-in systems for their 1st, 2nd (2x power), and 3rd gen devices.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077175986844790965",
+          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
+          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
+        }
+      ]
+    },
+    {
+      "topic": "TSMC Q2 revenue reaches record high on AI chip demand",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "TSMC's Q2 revenue reached a record NT$1.27 trillion (US$40.07B), up 36% YoY and at the top end of guidance, driven by strong demand for AI chip production.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2076542253213089883",
+          "text": "TSMC’s 2nd quarter revenue rose 36% year-on-year to a record high NT$1.27 trillion (US$40.07B), and at the top end of guidance of US$39.0 to $40.2B, on strong demand for AI chip production.\n\nThe prior record was NT$1.13 trillion from the 1st quarter this year.\n\nTSMC did not annou"
+        },
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2076489723896561829",
+          "text": "Weekly|Meta Next-Year Capex Defies Cut Fears, Grok 4.5 Brings SpaceXAI Back, Memory, $TSMC and $ASML  Previews, Kioxia ASP Hike, Expert Call Database\n\nLast week the tape punished the Q2 winners. This week, we saw a sharp snapback in the latter half. The biggest narrative change c"
+        }
+      ]
+    },
+    {
+      "topic": "ASE Technology Q2 revenue record high on AI sales",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "ASE Technology's Q2 revenue reached a record NT$191.06 billion (US$5.95B), up 26.7% YoY, driven by strong AI-related sales.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2076477920315600935",
+          "text": "ASE Technology’s 2nd quarter revenue rose to a record high NT$191.06 billion (US$5.95B), up 26.7% year-on-year due to strong AI-related sales, media report. The chip packaging and testing giant reported June revenue rose 32.9% to NT$65.78 billion, its 2nd best month ever. $ASX $N"
+        }
+      ]
+    },
+    {
+      "topic": "Pre-package screening becoming more valuable for advanced packaging",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "Rising economic value in advanced packages makes pre-package reliability screening, like wafer-level burn-in, increasingly valuable to improve effective advanced-packaging yield and reduce waste.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077175986844790965",
+          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
+          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
+        }
+      ]
+    },
+    {
+      "topic": "Wafer-level burn-in displacing package/system-level test spending",
+      "category": "sectors",
+      "subcategory": "testing",
+      "summary": "Wafer-level burn-in (WLBI) is gaining traction, with one customer eliminating system-level screening and another considering moving from package-level to wafer-level burn-in, potentially displacing traditional post-package test equipment.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077175986844790965",
+          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
+          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2077098700145639571",
+          "text": "$AEHR (~$2.2B) reports tonight at 5pm ET.\n\nLast earnings the stock dropped 5% after hours on a revenue miss, then ran from $52 to $126 in five weeks. Bookings crossed $92M by mid-April with six weeks still left in the quarter.\n\nThe orders haven't stopped. Seven announcements sinc"
+        }
+      ]
+    },
+    {
+      "topic": "Increased infrastructure content per AI accelerator due to higher power",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "Next-generation AI silicon, with 2x package power, is driving higher infrastructure requirements for data centers, benefiting suppliers of power distribution, thermal management, and liquid cooling equipment.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077175986844790965",
+          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
+        }
+      ]
+    },
+    {
+      "topic": "OpenAI home speaker product plans",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "OpenAI reportedly plans to unveil a home speaker as its first hardware product, featuring a camera, sensors, and advanced AI models for understanding surroundings and context, with a 2027 release target.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2077133512692367854",
+          "text": "Call me crazy but this OpenAI product sounds pretty stupid so long as you own a smartphone. Except for the fact it can constantly watch and listen to you in your home.\n\n“It includes a camera and other sensors that help it understand a user’s surroundings and context, as well as a"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2077131997911335081",
+          "text": "OpenAI reportedly plans to unveil a home speaker this year as its first hardware product, with release planned for 2027. \n\nOpenAI believes the device does not violate Apple’s trade secrets, despite Apple’s lawsuit around OpenAI’s consumer hardware push. https://t.co/fu29BDXLYa"
+        }
+      ]
+    },
+    {
+      "topic": "Limited Nvidia H200 shipments to China/Hong Kong",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "Very few Nvidia H200 AI chips have shipped to China and Hong Kong despite license approvals, indicating a restart under new arrangements but with strict U.S. government review and compliance inspections.",
       "mentions": [
         {
           "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2076072418465218587",
-          "text": "Looking at CPO through a single optical supply-chain diagram does not explain why it is arriving now, when it reaches volume, or where the margins will move.\n\nThis article redraws CPO as a system constrained by three competing physical budgets: energy, heat, and reach. The real v"
+          "url": "https://x.com/PhotonCap/status/2077083912241852790",
+          "text": "This does not mean that large-scale H200 shipments have resumed. Rather, it suggests that a small initial batch has finally cleared the licensing, inspection, and customs pipeline after months of delays.\n\nA U.S. trade official stated that 'very few' Nvidia H200 AI chips have been"
         }
       ]
     },
     {
-      "topic": "SK Hynix ADR performance and potential Samsung ADR listing",
+      "topic": "Silicon Carbide (SiC) wafer prices rising due to AI/800V EV demand",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "SK Hynix ADR ($SKYHV) is up 16% from listing, suggesting investors may have prepared funds for the US instrument, with expectations for the Korean market to rally and questions arising about a potential Samsung Electronics ADR listing.",
+      "subcategory": "analog",
+      "summary": "Silicon Carbide (SiC) wafer prices are increasing due to rising demand for power semiconductors in AI data centers and 800V DC electric vehicles, leading to tight supplies and premium pricing for additional wafers.",
       "mentions": [
         {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2075612709786095921",
-          "text": "SK Hynix ADR with ticker $SKYHV is now up 16% from listing, perhaps a lot of the softness in memory may have been investors preparing funds to move to the US instrument.\n\nI expect that the Korean market will rip on Monday, very happy with my DRAM calls and Samsung preferreds.\n\nHo"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2076831829873795507",
+          "text": "Prices of silicon carbide wafers (SiC) are warming up as demand picks up for power semiconductors used in AI data centers and 800V DC electric vehicles, media report, noting distributors say any client asking for additional SiC wafers must pay a premium due to tight supplies. \n\nT"
+        }
+      ]
+    },
+    {
+      "topic": "Nvidia debunks Rubin Ultra delay rumors and addresses competition",
+      "category": "sectors",
+      "subcategory": "gpu",
+      "summary": "Jensen Huang debunked rumors of Rubin Ultra delays, confirming it's on track for next year, and addressed ASIC competition by noting a frontier lab shifted 50% of its compute to Nvidia.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2076846994614792663",
+          "text": "So Jensen himself went out to do damage control with $NVDA delays reports apparently:\n\n1. Jensen Huang said no delays: \n\n- 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. \n\n- Debunked the rumor that the next-"
+        }
+      ]
+    },
+    {
+      "topic": "Samsung Electronics building new DRAM fab at Giheung",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Samsung Electronics plans to build a new DRAM fab at its Giheung campus with a monthly capacity of 100,000 wafers, converting a former R&D site to meet surging AI-driven memory demand.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2077173164761899461",
+          "text": "[Exclusive] Samsung Electronics to Build New DRAM Fab at Giheung with Monthly Capacity of 100,000 Wafers\n\nSamsung Electronics plans to build a new DRAM fab at its Giheung campus. The company will convert a site originally designated for a research and development center into a me"
         }
       ]
     }
