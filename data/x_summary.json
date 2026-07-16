@@ -1,14 +1,29 @@
 {
-  "generated_at": "2026-07-14T23:59:19+00:00",
-  "tweet_count": 86,
-  "account_count": 21,
+  "generated_at": "2026-07-16T00:04:31+00:00",
+  "tweet_count": 77,
+  "account_count": 20,
   "themes": [
     {
-      "topic": "Aehr Test Systems FY27 revenue guidance",
+      "topic": "AEHR's Strong Earnings and AI/Optical/Memory Testing Outlook",
       "category": "sectors",
       "subcategory": "testing",
-      "summary": "Aehr Test Systems provided strong FY27 revenue guidance of $130M-$150M, significantly exceeding estimates, driven by record backlog and demand for its burn-in solutions.",
+      "summary": "Aehr Test Systems ($AEHR) reported strong Q4 earnings and an impressive FY2027 revenue guidance of $130-$150M, driven by accelerating demand for wafer-level burn-in from AI processors, silicon photonics, and new opportunities in HBM/NAND memory testing.",
       "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2077450407287370076",
+          "text": "I’m gradually adding to my positions because I believe the three signals from $AEHR ’s latest earnings report will soon put many of the current concerns surrounding the optical market to rest. 🥹"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2077387517230559573",
+          "text": "50%?! $AEHR \n\nInsane. Some test names moving with it, mostly $TRT \n\nHopefully this is the setup that we will get with many of the optics companies.\n\nI posted a full breakdown of all the things that stood out to me on the call if you'd like to read it here:\n\nhttps://t.co/4Rn4ZkCX7"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
+          "text": "$AEHR back up +36.4% today off earnings!\n\n2027 guide: $130-$150m (160-200% growth) from 2026 revenue.  Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer).\n\nQ4 bookings: $60.7M, effective backlog is $100.6M.\n\n- Lead AI"
+        },
         {
           "handle": "@KawzInvests",
           "url": "https://x.com/KawzInvests/status/2077142990649164009",
@@ -18,225 +33,195 @@
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2077132561739124803",
           "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2077127289931018419",
-          "text": "$AEHR TEST SYSTEMS SEES FY'27 $130M to $150M VS $85M EST. https://t.co/MIELqyoZVM"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077126263047958713",
-          "text": "$AEHR Reports Q4 revenue $18.84M, consensus $18.69M. Bookings were a record $60.7M for the quarter. Backlog as of May 29 was $80.6M. Gayn Erickson, president and CEO of Aehr Test Systems, commented: \"We are very pleased with our fiscal fourth quarter performance, which exceeded e"
         }
       ]
     },
     {
-      "topic": "Innolight reports increased 800G demand and broad supply chain shortages",
+      "topic": "ASML Strong Earnings, Raised Guidance, and Capacity Expansion",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Innolight's investor relations takeaways indicate significantly increased 800G demand and broad supply chain shortages across optical/electrical chips, PCBs, and other module materials, with silicon photonics penetration continuing to trend upward.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2076808331453415674",
-          "text": "TLDR of Innolight investor relations takeaways:\n\n1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\"\n\nProb most important takeaway as a whole was 800G demand revision (also longer tail demand). "
-        }
-      ]
-    },
-    {
-      "topic": "AAOI Texas manufacturing expansion for optical transceivers",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "AAOI announced the commencement of its Texas manufacturing expansion, adding nearly 400,000 sq ft for 800G/1.6T optical transceiver production, targeting significant capacity increases by mid-2027.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2077114579658662311",
-          "text": "Really positive to see $AAOI announcing their Texas capacity expansion earlier today.\n\nWe've known about their expansion plans for a while now.\n\nBut it overall supports their proposed 800G/1.6T expansion timelines:\n- Q1 2026: 100k monthly capacity \n- End 2026: 650k+ \n- End 2027: "
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2077039373711970804",
-          "text": "Two different capacity expansion announcements today across $TSEM and $AAOI.\n\nTower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging capabilities. \n\nTargeting $1.2B net profit,"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2077024285776887883",
-          "text": "$AAOI just broke ground on nearly 400,000 sq ft of new manufacturing in Pearland, Texas.\n\nAll of it dedicated to 800G and 1.6T optical transceivers. https://t.co/yRbJMdeuxU"
-        }
-      ]
-    },
-    {
-      "topic": "Hyperscaler Custom AI ASICs entering multi-generation production",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Aehr's earnings call indicates hyperscaler custom AI processor programs are progressing into multi-generation production, with a lead customer placing a $41M order for package-level burn-in systems for their 1st, 2nd (2x power), and 3rd gen devices.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077175986844790965",
-          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
-          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC Q2 revenue reaches record high on AI chip demand",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC's Q2 revenue reached a record NT$1.27 trillion (US$40.07B), up 36% YoY and at the top end of guidance, driven by strong demand for AI chip production.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2076542253213089883",
-          "text": "TSMC’s 2nd quarter revenue rose 36% year-on-year to a record high NT$1.27 trillion (US$40.07B), and at the top end of guidance of US$39.0 to $40.2B, on strong demand for AI chip production.\n\nThe prior record was NT$1.13 trillion from the 1st quarter this year.\n\nTSMC did not annou"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2076489723896561829",
-          "text": "Weekly|Meta Next-Year Capex Defies Cut Fears, Grok 4.5 Brings SpaceXAI Back, Memory, $TSMC and $ASML  Previews, Kioxia ASP Hike, Expert Call Database\n\nLast week the tape punished the Q2 winners. This week, we saw a sharp snapback in the latter half. The biggest narrative change c"
-        }
-      ]
-    },
-    {
-      "topic": "ASE Technology Q2 revenue record high on AI sales",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "ASE Technology's Q2 revenue reached a record NT$191.06 billion (US$5.95B), up 26.7% YoY, driven by strong AI-related sales.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2076477920315600935",
-          "text": "ASE Technology’s 2nd quarter revenue rose to a record high NT$191.06 billion (US$5.95B), up 26.7% year-on-year due to strong AI-related sales, media report. The chip packaging and testing giant reported June revenue rose 32.9% to NT$65.78 billion, its 2nd best month ever. $ASX $N"
-        }
-      ]
-    },
-    {
-      "topic": "Pre-package screening becoming more valuable for advanced packaging",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "Rising economic value in advanced packages makes pre-package reliability screening, like wafer-level burn-in, increasingly valuable to improve effective advanced-packaging yield and reduce waste.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077175986844790965",
-          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
-          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
-        }
-      ]
-    },
-    {
-      "topic": "Wafer-level burn-in displacing package/system-level test spending",
-      "category": "sectors",
-      "subcategory": "testing",
-      "summary": "Wafer-level burn-in (WLBI) is gaining traction, with one customer eliminating system-level screening and another considering moving from package-level to wafer-level burn-in, potentially displacing traditional post-package test equipment.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077175986844790965",
-          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
-          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2077098700145639571",
-          "text": "$AEHR (~$2.2B) reports tonight at 5pm ET.\n\nLast earnings the stock dropped 5% after hours on a revenue miss, then ran from $52 to $126 in five weeks. Bookings crossed $92M by mid-April with six weeks still left in the quarter.\n\nThe orders haven't stopped. Seven announcements sinc"
-        }
-      ]
-    },
-    {
-      "topic": "Increased infrastructure content per AI accelerator due to higher power",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "Next-generation AI silicon, with 2x package power, is driving higher infrastructure requirements for data centers, benefiting suppliers of power distribution, thermal management, and liquid cooling equipment.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077175986844790965",
-          "text": "$AEHR KEY READ-THROUGHS FROM AEHR TEST SYSTEMS Q4 FY2026 EARNINGS CALL\n\nAehr Test Systems’ Q4 FY2026 call provides a disproportionately useful leading indicator for the AI semiconductor supply chain because burn-in equipment is generally ordered after device architectures, produc"
-        }
-      ]
-    },
-    {
-      "topic": "OpenAI home speaker product plans",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "OpenAI reportedly plans to unveil a home speaker as its first hardware product, featuring a camera, sensors, and advanced AI models for understanding surroundings and context, with a 2027 release target.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2077133512692367854",
-          "text": "Call me crazy but this OpenAI product sounds pretty stupid so long as you own a smartphone. Except for the fact it can constantly watch and listen to you in your home.\n\n“It includes a camera and other sensors that help it understand a user’s surroundings and context, as well as a"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2077131997911335081",
-          "text": "OpenAI reportedly plans to unveil a home speaker this year as its first hardware product, with release planned for 2027. \n\nOpenAI believes the device does not violate Apple’s trade secrets, despite Apple’s lawsuit around OpenAI’s consumer hardware push. https://t.co/fu29BDXLYa"
-        }
-      ]
-    },
-    {
-      "topic": "Limited Nvidia H200 shipments to China/Hong Kong",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Very few Nvidia H200 AI chips have shipped to China and Hong Kong despite license approvals, indicating a restart under new arrangements but with strict U.S. government review and compliance inspections.",
+      "subcategory": "semicap",
+      "summary": "ASML reported stronger-than-expected quarterly results and significantly boosted its full-year net sales guidance to €43-45 billion, driven by strong demand for semiconductor manufacturing equipment, and plans to increase both low NA EUV and DUV immersion capacity by 30% for 2027 and potentially 2028.",
       "mentions": [
         {
           "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2077083912241852790",
-          "text": "This does not mean that large-scale H200 shipments have resumed. Rather, it suggests that a small initial batch has finally cleared the licensing, inspection, and customs pipeline after months of delays.\n\nA U.S. trade official stated that 'very few' Nvidia H200 AI chips have been"
+          "url": "https://x.com/PhotonCap/status/2077399564827640248",
+          "text": "ASML reported stronger-than-expected quarterly results, driven by continued demand for semiconductor manufacturing equipment. The June wholesale inflation report came in below expectations, potentially easing concerns about inflationary pressures in the broader economy. These dev"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077337045752525190",
+          "text": "$ASML Installed Base services revenue is growing quickly and is becoming a larger part of the overall business. Services revenue will only keep growing as the installed base increases. I don’t feel like analysts or the market are giving the company enough credit for this. https:/"
         }
       ]
     },
     {
-      "topic": "Silicon Carbide (SiC) wafer prices rising due to AI/800V EV demand",
+      "topic": "TSMC Q2 Earnings Expectations and AI Outlook",
       "category": "sectors",
-      "subcategory": "analog",
-      "summary": "Silicon Carbide (SiC) wafer prices are increasing due to rising demand for power semiconductors in AI data centers and 800V DC electric vehicles, leading to tight supplies and premium pricing for additional wafers.",
+      "subcategory": "foundry",
+      "summary": "TSMC's Q2 earnings are expected to show a 59% net profit increase and record gross/operating margins, with investors keenly awaiting updates on AI demand health, CoWoS capacity, N2/N3 ramp, and potential price increases, alongside a raised 2024-2029 AI semiconductor revenue CAGR forecast of 70-80%.",
       "mentions": [
         {
           "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2076831829873795507",
-          "text": "Prices of silicon carbide wafers (SiC) are warming up as demand picks up for power semiconductors used in AI data centers and 800V DC electric vehicles, media report, noting distributors say any client asking for additional SiC wafers must pay a premium due to tight supplies. \n\nT"
+          "url": "https://x.com/dnystedt/status/2077293826507677842",
+          "text": "TSMC 2nd quarter (Q2) conference on Thursday (7/16), media report expectations:\nQ2 revenue NT$1.27 trillion (already known, US$ not known)\n-Net profit seen up 59% to NT$632.6 billion (US$19.6B), 10th straight quarter of growth\n-Gross margin could exceed 68%\n-Operating margin seen"
         }
       ]
     },
     {
-      "topic": "Nvidia debunks Rubin Ultra delay rumors and addresses competition",
+      "topic": "Samsung Pyeongtaek Plant 5 (P5) Equipment Orders",
       "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Jensen Huang debunked rumors of Rubin Ultra delays, confirming it's on track for next year, and addressed ASIC competition by noting a frontier lab shifted 50% of its compute to Nvidia.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2076846994614792663",
-          "text": "So Jensen himself went out to do damage control with $NVDA delays reports apparently:\n\n1. Jensen Huang said no delays: \n\n- 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material delay. \n\n- Debunked the rumor that the next-"
-        }
-      ]
-    },
-    {
-      "topic": "Samsung Electronics building new DRAM fab at Giheung",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Samsung Electronics plans to build a new DRAM fab at its Giheung campus with a monthly capacity of 100,000 wafers, converting a former R&D site to meet surging AI-driven memory demand.",
+      "subcategory": "semicap",
+      "summary": "Samsung Electronics is nearing over KRW 10 trillion in semiconductor equipment orders for its Pyeongtaek Plant 5 (P5), which will produce cutting-edge DRAM and HBM, with Phase 1 potentially operational by next year to meet surging memory demand.",
       "mentions": [
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2077173164761899461",
-          "text": "[Exclusive] Samsung Electronics to Build New DRAM Fab at Giheung with Monthly Capacity of 100,000 Wafers\n\nSamsung Electronics plans to build a new DRAM fab at its Giheung campus. The company will convert a site originally designated for a research and development center into a me"
+          "url": "https://x.com/jukan05/status/2077540026221727749",
+          "text": "Samsung Nears Over KRW 10 Trillion in Semiconductor Equipment Orders for Pyeongtaek Plant 5\n\nSamsung Electronics is beginning its investment in semiconductor equipment for Pyeongtaek Plant 5 (P5). The company is expected to finalize its selection of semiconductor equipment suppli"
+        }
+      ]
+    },
+    {
+      "topic": "Memory Market Dynamics: DRAM Price Pushback & Strong NAND Demand",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Customers are pushing back against 30% DRAM price increases, leading to a lowered Q3 DRAM price growth forecast, while NAND demand is strong due to KV cache offloading and substitution for expensive DRAM.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2077366994702332337",
+          "text": "Excerpt from GFHK’s monthly call: Memory sector commentary\n\nCustomers are pushing back strongly against price increases approaching 30%, leading us to slightly lower our forecast for DRAM price growth in the third quarter.\n\nBy contrast, we are becoming more positive on NAND. Dema"
+        }
+      ]
+    },
+    {
+      "topic": "Samsung Considers Outsourcing Google 2nm TPU I/O Die Design",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "Samsung Electronics is considering outsourcing the back-end design for Google's 2nm TPU I/O die due to a staff shortage from surging 2nm foundry demand, with Google's compute processor to be made by TSMC at 1.4nm and the I/O die by Samsung at 2nm.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2077325522766602338",
+          "text": "Samsung Electronics Considers Outsourcing ‘Back-End Design’ of Google’s 2nm TPU I/O Die\n\nSamsung Electronics is considering outsourcing the back-end design work for the input/output (I/O) die of Google’s 2nm-based tensor processing unit (TPU). The company is sounding out potentia"
+        }
+      ]
+    },
+    {
+      "topic": "SEMI Raises Global Semiconductor Equipment Sales Forecasts",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "SEMI has raised its global semiconductor equipment sales forecasts for the next three years, projecting $165.9 billion in 2026, driven by strong AI-related demand for leading-edge logic, memory chips, and advanced packaging.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2077287724403601426",
+          "text": "SEMI raised its global semiconductor equipment sales forecasts for the next 3-years on strong AI-related demand for leading-edge logic & memory chips, and advanced packaging:\n2025 final US$134.7 billion\n2026 seen +23.2% year-on-year to $165.9B vs prior forecast $145B\n-Fab equipme"
+        }
+      ]
+    },
+    {
+      "topic": "PJM Capacity Auction Reveals Structural Power Shortfall",
+      "category": "sectors",
+      "subcategory": "power_front",
+      "summary": "The 2028/2029 PJM capacity auction confirmed a persistent structural shortfall in dispatchable and reliably accredited capacity, with the clearing price hitting an administratively imposed ceiling of $325/MW-day despite an estimated unconstrained price of $554.72/MW-day, highlighting long-term scarcity.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077188293666709794",
+          "text": "$CEG $VST $TLN $NRG I don’t see how the merchant power names don’t trade up on this massive auction shortfall, but I’ve been proven wrong for the past 18 months on all the other indicators.\n\nEXECUTIVE ASSESSMENT\n\nThe 2028/2029 PJM capacity auction confirms that the region remains"
+        }
+      ]
+    },
+    {
+      "topic": "DeepSeek Funding and IPO Plans",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "DeepSeek is raising $7.4 billion at a $71 billion pre-money valuation with nearly $500 million ARR, and is preparing for an IPO on Shanghai’s STAR Market as early as next year, while also seeking US dollar-denominated capital from overseas investors.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2077478403951792249",
+          "text": "DeepSeek is raising at a $71B pre-money valuation on roughly $500M of annualized revenue. That's over 140x sales.\n\nNow it's prepping a 2027 IPO, with a filing expected late this year or early 2027."
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2077262158312951844",
+          "text": "THE INFORMATION: DEEPSEEK’S ARR IS APPROACHING $500 MILLION\n\nTHE INFORMATION: DEEPSEEK HAS SUCCESSFULLY RAISED $7.4 BILLION\n\nTHE INFORMATION: DEEPSEEK IS STRUCTURING A SECOND FUNDING ROUND THAT WOULD ALLOW IT TO RAISE U.S. DOLLAR-DENOMINATED CAPITAL FROM OVERSEAS INVESTORS, WITH "
+        }
+      ]
+    },
+    {
+      "topic": "Anthropic IPO Plans",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Anthropic is reportedly planning investor meetings in the coming weeks for an IPO as early as October, following a $65 billion financing round at a $965 billion valuation last May.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2077437150715666900",
+          "text": "Anthropic to IPO as early as October per Bloomberg.\n\nThis is following their $65B financing at a $965 billion  valuation last May.\n\nHmm, would you all invest in Anthropic at a $1T+ valuation? https://t.co/iFIY1WulvO"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2077415290925711505",
+          "text": "*ANTHROPIC IS SAID TO PLAN IPO INVESTOR MEETINGS IN COMING WEEKS\n\nAnthropic considering IPO as soon as October"
+        }
+      ]
+    },
+    {
+      "topic": "Nvidia Thor Robotics Computer Advancements",
+      "category": "sectors",
+      "subcategory": "robotics",
+      "summary": "Nvidia has introduced new Thor robotics computer modules, the T3000 and T2000, which are half the size and power of previous versions while delivering similar AI inference performance, with shipments scheduled for Q1 2027.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2077538492989759789",
+          "text": "$NVDA JUST CUT ITS THOR ROBOTICS COMPUTER TO HALF THE SIZE AND POWER\n\nThe new T3000 module is roughly half the size and power of NVIDIA’s T5000, while delivering similar inference performance on multimodal AI workloads.\n\nInside:\n\n→ 865 FP4 teraflops\n→ 32GB of LPDDR5X memory\n→ 273"
+        }
+      ]
+    },
+    {
+      "topic": "Apple's Potential AI Chip Acquisitions and Capex Increase",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "Apple is reportedly looking to acquire AI chip companies to bolster its own AI infrastructure, potentially leading to a significant increase in its AI capex spend, which could be bullish for related sectors like optical networking and foundries.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2077421268991926703",
+          "text": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revise capex largely upward for their own AI "
+        }
+      ]
+    },
+    {
+      "topic": "Grok Build Open-Sourcing",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk announced that Grok Build is now open source, with Grok 4.5 continuously improving, contributing to the growing landscape of US-based open-source large language models.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2077495635687723408",
+          "text": "Grok Build is now open source"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2077479843772469533",
+          "text": "$NVDA $MU $SNDK $LITE Great to have another US-based OSS LLM. Time will tell how competitive they are. NVFP4 checkpoint out of the gate. All good things for the GAI infrastructure trade."
+        }
+      ]
+    },
+    {
+      "topic": "TSMC Pushing Back on ASML Equipment Pricing",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "TSMC is reportedly pushing back against ASML's plans to raise equipment prices, although ASML intends to proceed with the price increases.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2077418925348774135",
+          "text": "*TSMC HAS BEGUN TO PUSH BACK ON ASML PRICING PLAN: INFORMATION\n\n$ASML still plans on raising prices for equipment despite the resistance per The Information"
         }
       ]
     }
