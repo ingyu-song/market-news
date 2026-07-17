@@ -1,227 +1,257 @@
 {
-  "generated_at": "2026-07-16T00:04:31+00:00",
-  "tweet_count": 77,
-  "account_count": 20,
+  "generated_at": "2026-07-17T23:57:57+00:00",
+  "tweet_count": 90,
+  "account_count": 23,
   "themes": [
     {
-      "topic": "AEHR's Strong Earnings and AI/Optical/Memory Testing Outlook",
+      "topic": "Kimi K3 Open-Weight Model Release & Commercial Implications",
       "category": "sectors",
-      "subcategory": "testing",
-      "summary": "Aehr Test Systems ($AEHR) reported strong Q4 earnings and an impressive FY2027 revenue guidance of $130-$150M, driven by accelerating demand for wafer-level burn-in from AI processors, silicon photonics, and new opportunities in HBM/NAND memory testing.",
+      "subcategory": "software",
+      "summary": "Moonshot's Kimi K3, a large open-weight model, has been released, sparking debate on its commercial implications. While some see it commoditizing intelligence and pressuring frontier lab margins, others argue it drives demand for high-end silicon and hosting platforms, validating AI scaling laws despite its higher cost per token compared to previous Chinese LLMs.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2077450407287370076",
-          "text": "I’m gradually adding to my positions because I believe the three signals from $AEHR ’s latest earnings report will soon put many of the current concerns surrounding the optical market to rest. 🥹"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2077387517230559573",
-          "text": "50%?! $AEHR \n\nInsane. Some test names moving with it, mostly $TRT \n\nHopefully this is the setup that we will get with many of the optics companies.\n\nI posted a full breakdown of all the things that stood out to me on the call if you'd like to read it here:\n\nhttps://t.co/4Rn4ZkCX7"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2077208587005542464",
-          "text": "$AEHR back up +36.4% today off earnings!\n\n2027 guide: $130-$150m (160-200% growth) from 2026 revenue.  Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer).\n\nQ4 bookings: $60.7M, effective backlog is $100.6M.\n\n- Lead AI"
-        },
-        {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2077142990649164009",
-          "text": "$AEHR 🤯\n\"That is, with strong momentum and a record backlog heading into fiscal 27. We're expecting revenue of between $130 million and $150 million, representing 2.6 times to three times the just completed fiscal 26 revenue non-GAAP pre-tax pre-tax profitability at these levels "
+          "url": "https://x.com/KawzInvests/status/2078233750303821955",
+          "text": "Did Kimi just start another DeepSeek moment?\n\nKimi released the largest open weight model ever yesterday. It scored 57 on the Artificial Analysis index, 3 points behind Claude Fable 5, causing AI stocks to panic.\n\nThe bears say intelligence is becoming a commodity. Open models fr"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2078205271042851241",
+          "text": "Finance bros got suddenly super bearish on KV cache offload after hearing about K3's KDA\nSo I would recommend u guys to read about Mooncake  from Moonshot https://t.co/FrZQa2S6Ca"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2078148660462825740",
+          "text": "$NVDA $MU $SNDK $LITE It’s all a race to the bottom for the SOTA frontier closed LLM providers. Dario knows this fact, and was part of the rationale driving his “innovate, then regulate” fear-mongering tactics. The quality/speed/context size/relative serving cost differential com"
+        },
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2078110934740980193",
+          "text": "Kimi K3 may be an important inflection point for AI. Potentially negative for Anthropic and OpenAI while being net positive for essentially every other company in the world. I mean that very literally. Although the real “Sputnik moment” would be an open-source frontier model that"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2078094737630986513",
+          "text": "Anyone loudly touting how much cheaper Kimi K3 is than Western LLMs is deliberately ignoring how much more expensive it has become compared with previous Chinese LLMs."
+        },
+        {
+          "handle": "@TMT_Jack_",
+          "url": "https://x.com/TMT_Jack_/status/2078093441557274961",
+          "text": "k3 is v good.\n\nit’s also NOT cheap (stop calling it step-function cheaper), was trained on the most advanced NVDA gpus and benefited from distillation.\n\nthis is not evidence that compute stopped mattering. it’s evidence that china has enough compute to build near the frontier."
         },
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2077132561739124803",
-          "text": "Wow, unreal $AEHR Q4 earnings and FY2027 outlook, +26% after-hours.\n\nI have high conviction that Aehr is well positioned for many years of very strong growth:\n\n- Multiple customers entering/expanding production\n- Huge backlog\n- Opportunities in new markets e.g. NAND and HBM appli"
-        }
-      ]
-    },
-    {
-      "topic": "ASML Strong Earnings, Raised Guidance, and Capacity Expansion",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "ASML reported stronger-than-expected quarterly results and significantly boosted its full-year net sales guidance to €43-45 billion, driven by strong demand for semiconductor manufacturing equipment, and plans to increase both low NA EUV and DUV immersion capacity by 30% for 2027 and potentially 2028.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2077399564827640248",
-          "text": "ASML reported stronger-than-expected quarterly results, driven by continued demand for semiconductor manufacturing equipment. The June wholesale inflation report came in below expectations, potentially easing concerns about inflationary pressures in the broader economy. These dev"
+          "url": "https://x.com/ParadisLabs/status/2078091331180601653",
+          "text": "The deadliest mountain in the world is K2 in Pakistan.\n\nBut how deadly will the new K3 model by Moonshot be?\n\nIn my view, this is not another \"DeepSeek\" moment. Kimi K3 is net-positive for the AI trade and compute demand, while being a net-negative for Western fronteir labs.\n\nAft"
         },
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077337045752525190",
-          "text": "$ASML Installed Base services revenue is growing quickly and is becoming a larger part of the overall business. Services revenue will only keep growing as the installed base increases. I don’t feel like analysts or the market are giving the company enough credit for this. https:/"
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2077943509148205297",
+          "text": "Research|LLM: Kimi K3 - Scaling Still Works; An Expensive Model Competing at Front Tier\n\nKimi K3’s overall performance now sits in the global top tier. It is a large 2.8-trillion-parameter MoE model with a 1-million-token context window, and it stands out in tests spanning coding"
         }
       ]
     },
     {
-      "topic": "TSMC Q2 Earnings Expectations and AI Outlook",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC's Q2 earnings are expected to show a 59% net profit increase and record gross/operating margins, with investors keenly awaiting updates on AI demand health, CoWoS capacity, N2/N3 ramp, and potential price increases, alongside a raised 2024-2029 AI semiconductor revenue CAGR forecast of 70-80%.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2077293826507677842",
-          "text": "TSMC 2nd quarter (Q2) conference on Thursday (7/16), media report expectations:\nQ2 revenue NT$1.27 trillion (already known, US$ not known)\n-Net profit seen up 59% to NT$632.6 billion (US$19.6B), 10th straight quarter of growth\n-Gross margin could exceed 68%\n-Operating margin seen"
-        }
-      ]
-    },
-    {
-      "topic": "Samsung Pyeongtaek Plant 5 (P5) Equipment Orders",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "Samsung Electronics is nearing over KRW 10 trillion in semiconductor equipment orders for its Pyeongtaek Plant 5 (P5), which will produce cutting-edge DRAM and HBM, with Phase 1 potentially operational by next year to meet surging memory demand.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2077540026221727749",
-          "text": "Samsung Nears Over KRW 10 Trillion in Semiconductor Equipment Orders for Pyeongtaek Plant 5\n\nSamsung Electronics is beginning its investment in semiconductor equipment for Pyeongtaek Plant 5 (P5). The company is expected to finalize its selection of semiconductor equipment suppli"
-        }
-      ]
-    },
-    {
-      "topic": "Memory Market Dynamics: DRAM Price Pushback & Strong NAND Demand",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Customers are pushing back against 30% DRAM price increases, leading to a lowered Q3 DRAM price growth forecast, while NAND demand is strong due to KV cache offloading and substitution for expensive DRAM.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2077366994702332337",
-          "text": "Excerpt from GFHK’s monthly call: Memory sector commentary\n\nCustomers are pushing back strongly against price increases approaching 30%, leading us to slightly lower our forecast for DRAM price growth in the third quarter.\n\nBy contrast, we are becoming more positive on NAND. Dema"
-        }
-      ]
-    },
-    {
-      "topic": "Samsung Considers Outsourcing Google 2nm TPU I/O Die Design",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Samsung Electronics is considering outsourcing the back-end design for Google's 2nm TPU I/O die due to a staff shortage from surging 2nm foundry demand, with Google's compute processor to be made by TSMC at 1.4nm and the I/O die by Samsung at 2nm.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2077325522766602338",
-          "text": "Samsung Electronics Considers Outsourcing ‘Back-End Design’ of Google’s 2nm TPU I/O Die\n\nSamsung Electronics is considering outsourcing the back-end design work for the input/output (I/O) die of Google’s 2nm-based tensor processing unit (TPU). The company is sounding out potentia"
-        }
-      ]
-    },
-    {
-      "topic": "SEMI Raises Global Semiconductor Equipment Sales Forecasts",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "SEMI has raised its global semiconductor equipment sales forecasts for the next three years, projecting $165.9 billion in 2026, driven by strong AI-related demand for leading-edge logic, memory chips, and advanced packaging.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2077287724403601426",
-          "text": "SEMI raised its global semiconductor equipment sales forecasts for the next 3-years on strong AI-related demand for leading-edge logic & memory chips, and advanced packaging:\n2025 final US$134.7 billion\n2026 seen +23.2% year-on-year to $165.9B vs prior forecast $145B\n-Fab equipme"
-        }
-      ]
-    },
-    {
-      "topic": "PJM Capacity Auction Reveals Structural Power Shortfall",
-      "category": "sectors",
-      "subcategory": "power_front",
-      "summary": "The 2028/2029 PJM capacity auction confirmed a persistent structural shortfall in dispatchable and reliably accredited capacity, with the clearing price hitting an administratively imposed ceiling of $325/MW-day despite an estimated unconstrained price of $554.72/MW-day, highlighting long-term scarcity.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077188293666709794",
-          "text": "$CEG $VST $TLN $NRG I don’t see how the merchant power names don’t trade up on this massive auction shortfall, but I’ve been proven wrong for the past 18 months on all the other indicators.\n\nEXECUTIVE ASSESSMENT\n\nThe 2028/2029 PJM capacity auction confirms that the region remains"
-        }
-      ]
-    },
-    {
-      "topic": "DeepSeek Funding and IPO Plans",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "DeepSeek is raising $7.4 billion at a $71 billion pre-money valuation with nearly $500 million ARR, and is preparing for an IPO on Shanghai’s STAR Market as early as next year, while also seeking US dollar-denominated capital from overseas investors.",
-      "mentions": [
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2077478403951792249",
-          "text": "DeepSeek is raising at a $71B pre-money valuation on roughly $500M of annualized revenue. That's over 140x sales.\n\nNow it's prepping a 2027 IPO, with a filing expected late this year or early 2027."
-        },
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2077262158312951844",
-          "text": "THE INFORMATION: DEEPSEEK’S ARR IS APPROACHING $500 MILLION\n\nTHE INFORMATION: DEEPSEEK HAS SUCCESSFULLY RAISED $7.4 BILLION\n\nTHE INFORMATION: DEEPSEEK IS STRUCTURING A SECOND FUNDING ROUND THAT WOULD ALLOW IT TO RAISE U.S. DOLLAR-DENOMINATED CAPITAL FROM OVERSEAS INVESTORS, WITH "
-        }
-      ]
-    },
-    {
-      "topic": "Anthropic IPO Plans",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Anthropic is reportedly planning investor meetings in the coming weeks for an IPO as early as October, following a $65 billion financing round at a $965 billion valuation last May.",
+      "topic": "Broad Market Downturn Driven by Leverage and Liquidations",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "The market is experiencing a significant downturn, particularly in AI-related and Korean sectors, driven by unprecedented levels of leverage, margin calls, and forced liquidations rather than fundamental issues, leading to a record TMT momentum unwind.",
       "mentions": [
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2077437150715666900",
-          "text": "Anthropic to IPO as early as October per Bloomberg.\n\nThis is following their $65B financing at a $965 billion  valuation last May.\n\nHmm, would you all invest in Anthropic at a $1T+ valuation? https://t.co/iFIY1WulvO"
+          "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
+          "text": "Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk?\n\n“As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by brokers.”\n\n(There were other sources clai"
         },
         {
           "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2077415290925711505",
-          "text": "*ANTHROPIC IS SAID TO PLAN IPO INVESTOR MEETINGS IN COMING WEEKS\n\nAnthropic considering IPO as soon as October"
+          "url": "https://x.com/negligible_cap/status/2078142387658879462",
+          "text": "MS TMT desk putting the momentum unwind into perspective:\n\n\"Just 17 trading days into the unwind, TMT Momentum is already down -40% -- making this both the fastest and deepest selloff at this stage on record.   The previous worst, in early 2021, was down -29% after 17 days.\n\nAcro"
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2078011176118620163",
+          "text": "Market could get worse for the next few weeks.\n\nThere are unprecedented amounts of leverage (not just Korea) out there right now causing a domino effect of margin calls and liquidations. \n\nI continue to hold my memory positions, underlying thesis is unchanged.\n\nPrepare for the wo"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2077845064760635624",
+          "text": "Exited $NBIS last night when Asia started dying again. Haven't bought back yet. Want to give the margin calls and forced selling in AI a little more time to burn out."
         }
       ]
     },
     {
-      "topic": "Nvidia Thor Robotics Computer Advancements",
+      "topic": "China's National AI Strategy and Infrastructure Investment Push",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "China's 2026 World Artificial Intelligence Conference outlined a 3-layer national AI strategy focusing on domestic deployment, a sovereign tech stack, and international expansion. This includes significant capital expenditure in AI infrastructure, embodied AI, industrial automation, and related sectors, with open-source models used as a geopolitical and distribution strategy.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2078077867842228506",
+          "text": "$NVDA $MU $SNDK $LITE 2026 WORLD ARTIFICIAL INTELLIGENCE CONFERENCE: STRATEGIC, TECHNOLOGICAL, AND INVESTMENT ASSESSMENT\n\nEXECUTIVE SUMMARY\n\nXi Jinping, President of the People’s Republic of China, delivered the principal keynote at the opening of the 2026 World Artificial Intell"
+        }
+      ]
+    },
+    {
+      "topic": "Meta Leasing Compute Power to Anthropic",
       "category": "sectors",
-      "subcategory": "robotics",
-      "summary": "Nvidia has introduced new Thor robotics computer modules, the T3000 and T2000, which are half the size and power of previous versions while delivering similar AI inference performance, with shipments scheduled for Q1 2027.",
+      "subcategory": "software",
+      "summary": "Meta is reportedly in talks to lease computing power to Anthropic in a deal potentially worth $10 billion over two years, validating the \"neocloud\" business model where hyperscalers provide compute to AI labs.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
+          "text": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework.\n\nSource: NYT https://t.c"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2078152474154680801",
+          "text": "*META IN TALKS TO LEASE COMPUTING POWER TO ANTHROPIC: NYT\n\nDeal worth as much as $10B over 2 years for $META https://t.co/FoGeLmkni3"
+        }
+      ]
+    },
+    {
+      "topic": "TSMC Q2 Earnings Beat Despite 2nm GM Dilution Concerns",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "TSMC reported a strong Q2 2026 earnings beat across revenue, gross margin, operating margin, net profit, and EPS, exceeding expectations despite concerns about 2nm gross margin dilution.",
+      "mentions": [
+        {
+          "handle": "@Aaronwei3n",
+          "url": "https://x.com/Aaronwei3n/status/2077899371392401787",
+          "text": "Buyside overshoots every time.\n\nStill an impressive quarter from $TSM, especially under the circumstances of the 2nm GM dilution."
+        },
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2077633017401708784",
+          "text": "TSMC 2nd Quarter 2026 Earnings \nRevenue US$40.2B up 33.7% YoY, exact top of guide\nGross Margin 67.7% vs guide 65.5% - 67.5% -BEAT\nOpng Margin 60.3% vs guide 56.5% - 58.5% -BEAT\nNet Profit US$22.37B vs expected $19.65B -BEAT\nEPS US$4.31 per ADR vs range $3.80-$3.83 -BEAT\nThread 1/"
+        }
+      ]
+    },
+    {
+      "topic": "PC Brands Rush to Secure CXMT Memory Amid Easing US-China Tensions",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "PC brands are rushing to secure ChangXin Memory Technology (CXMT) memory, with orders extending to end-2027, following reports of eased US-China tensions and Apple testing CXMT memory and lobbying the US government, signaling a potential green light for its use.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2078058079036539047",
+          "text": "Exclusive: PC brands reportedly rush to secure CXMT memory as orders extend to end-2027 -Digitimes\n\nChinese DRAM maker ChangXin Memory Technology's (CXMT) IPO has entered its final stage, drawing close market attention. PC supply chain sources said the US had briefly planned to a"
+        }
+      ]
+    },
+    {
+      "topic": "Goldman Sachs Raises Innolight PT on Strong Optical Sector Outlook",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Goldman Sachs significantly raised Innolight's price target and 2026-2028 earnings estimates, citing much higher silicon photonics module volumes, 1.6T/3.2T lifting ASPs/margins, and increased AI capex, signaling strong demand for the broader optical sector.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
+          "text": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-  Much higher silicon photonics module v"
+        }
+      ]
+    },
+    {
+      "topic": "US Air Force Triples National Security Space Launch Contract Ceiling",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "The US Air Force has more than tripled the ceiling for its National Security Space Launch Phase 3 Lane 1 contracts to $17 billion from $5.6 billion, increasing opportunities for eligible providers like SpaceX and Rocket Lab.",
       "mentions": [
         {
           "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2077538492989759789",
-          "text": "$NVDA JUST CUT ITS THOR ROBOTICS COMPUTER TO HALF THE SIZE AND POWER\n\nThe new T3000 module is roughly half the size and power of NVIDIA’s T5000, while delivering similar inference performance on multimodal AI workloads.\n\nInside:\n\n→ 865 FP4 teraflops\n→ 32GB of LPDDR5X memory\n→ 273"
+          "url": "https://x.com/wallstengine/status/2078227655695183878",
+          "text": "U.S. AIR FORCE MORE THAN TRIPLES LAUNCH CONTRACT CEILING\n\nThe Air Force is raising the ceiling for National Security Space Launch Phase 3 Lane 1 contracts to $17B from $5.6B, an $11.4B increase.\n\nEligible providers include $RKLB, SpaceX, Blue Origin, ULA, Stoke Space, Impulse Spa"
         }
       ]
     },
     {
-      "topic": "Apple's Potential AI Chip Acquisitions and Capex Increase",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Apple is reportedly looking to acquire AI chip companies to bolster its own AI infrastructure, potentially leading to a significant increase in its AI capex spend, which could be bullish for related sectors like optical networking and foundries.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2077421268991926703",
-          "text": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revise capex largely upward for their own AI "
-        }
-      ]
-    },
-    {
-      "topic": "Grok Build Open-Sourcing",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Elon Musk announced that Grok Build is now open source, with Grok 4.5 continuously improving, contributing to the growing landscape of US-based open-source large language models.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2077495635687723408",
-          "text": "Grok Build is now open source"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2077479843772469533",
-          "text": "$NVDA $MU $SNDK $LITE Great to have another US-based OSS LLM. Time will tell how competitive they are. NVFP4 checkpoint out of the gate. All good things for the GAI infrastructure trade."
-        }
-      ]
-    },
-    {
-      "topic": "TSMC Pushing Back on ASML Equipment Pricing",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "TSMC is reportedly pushing back against ASML's plans to raise equipment prices, although ASML intends to proceed with the price increases.",
+      "topic": "SpaceX in Talks to Provide Computing Power for Pentagon",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "SpaceX is reportedly in discussions with the Pentagon to provide computing capacity, with a potential deal valued at up to several billion dollars.",
       "mentions": [
         {
           "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2077418925348774135",
-          "text": "*TSMC HAS BEGUN TO PUSH BACK ON ASML PRICING PLAN: INFORMATION\n\n$ASML still plans on raising prices for equipment despite the resistance per The Information"
+          "url": "https://x.com/negligible_cap/status/2078195180314743105",
+          "text": "*SPACEX IN TALKS TO PROVIDE COMPUTING POWER FOR PENTAGON: WSJ\n\n“The two sides are discussing an arrangement in which SpaceX would provide computing capacity to the department at a cost of up to several billion dollars” WSJ\n\n$SPCX - the DoW neocloud"
+        }
+      ]
+    },
+    {
+      "topic": "Taiwan Increases Science & Tech Spending for Key Industries",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "Taiwan's National Science and Technology Council plans to increase spending on science and technology projects by 6.2% next year, targeting key areas including semiconductors, chip innovation, next-generation telecommunications, quantum computing, robotics, space programs (LEO satellites), sovereign AI compute, and smart government systems.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2077570745623011816",
+          "text": "Taiwan’s National Science and Technology Council plans to raise spending on science/tech related projects 6.2% next year to NT$176.8 billion (US$5.48B), up from NT$166.5B this year, media report. \nMajor projects include:\n-Southern Taiwan Silicon Valley Program (Semiconductors)\n-C"
+        }
+      ]
+    },
+    {
+      "topic": "Google's Internal AI Compute Capacity Constraints and Gemini Delays",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Google engineers are reportedly facing internal AI compute capacity constraints, despite the company guiding $180-190 billion in capex this year, leading to delays for Gemini 3.5 Pro and insufficient compute for engineers required to use AI for coding.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2078169236439175526",
+          "text": "\"what the public sees is ~6 mo behind what's internal\"\n\nthen why is Gemini Pro 3.5 so shitty and Google is postponing the release of the model 🤔🤔🤔"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2077838168959922576",
+          "text": "Bloomberg reports $GOOG engineers are hitting capacity constraints when they try to use AI internally.\n\nAt a company guiding $180B to $190B of capex this year.\n\nGemini 3.5 Pro is months behind schedule. Engineers are now required to use AI to write code and there isn't enough com"
+        }
+      ]
+    },
+    {
+      "topic": "Broadcom and Powertech Form JV for Advanced Packaging in Singapore",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "Broadcom and Taiwan's Powertech are investing $400 million in a joint venture plant in Singapore to produce high-end chip packaging substrates, including Powertech's Fan-Out Panel-Level-Packaging (FOPLP) technology for large AI data center chips.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2077907784621023516",
+          "text": "Broadcom and Taiwan’s Powertech will invest US$400 million on a joint venture plant in Singapore for high-end chip packaging substrates, media report, citing Powertech regulatory filings. Powertech developed Fan-Out Panel-Level-Packaging (FOPLP) for large-sized chips such as thos"
+        }
+      ]
+    },
+    {
+      "topic": "Nebius Secures $775M Debt for Capacity Expansion",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Nebius ($NBIS) successfully raised $775 million in debt financing at attractive terms (SOFR + 2.50%), which was significantly oversubscribed, demonstrating institutional confidence in its assets and execution as it expands capacity for clients like Microsoft.",
+      "mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2078191070899327358",
+          "text": "The positive $NBIS news keeps coming:\n\n- Nebius raise $775M debt to accelerate growth.\n\nPriced very attractively at SOFR + 2.50%.\n\nWith this, the facility was also \"significantly oversubscribed\", signalling institutional confidence in the overall quality of Nebius’s assets / coun"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2078133113096704035",
+          "text": "$NBIS laid out the plan months ago and have been executing.\n\n\"They openly stated that providing bare metal to hyperscalers like $MSFT and $META is a temporary strategy to leverage the cash and credit ratings from these contracts to finance their main goal: building a full-stack m"
+        }
+      ]
+    },
+    {
+      "topic": "US ITC Institutes Section 337 Investigation into DRAM Devices",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "The U.S. International Trade Commission has initiated a Section 337 investigation into certain dynamic random-access memory (DRAM) devices and downstream products, which could impact Samsung and the broader DRAM industry.",
+      "mentions": [
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2077604581056594243",
+          "text": "(1/2)Please tell me the full background and context of why the lawsuit was filed, and how it may affect Samsung as well as the broader DRAM industry: The U.S. International Trade Commission voted to institute a Section 337 investigation into certain dynamic random-access memory d"
         }
       ]
     }
