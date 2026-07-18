@@ -1,96 +1,98 @@
 {
-  "generated_at": "2026-07-18T22:45:11+00:00",
+  "generated_at": "2026-07-18T23:48:48+00:00",
   "mode": "weekly",
   "for_week_start": "2026-07-12",
   "for_week_ending": "2026-07-18",
   "days_covered": 7,
-  "headline": "AI Chip Sector Volatility Amid Mixed Macro Data and Geopolitical Tensions",
-  "summary": "The AI chip sector experienced significant volatility this week, with TSMC and other players reporting strong AI-driven revenues, yet the Nasdaq's chip index slumped. Macroeconomic signals were mixed, as cooling inflation data contrasted with hawkish Fed commentary on potential rate hikes. Geopolitical tensions surrounding Iran's oil blockade and China's domestic chip ambitions continued to influence market sentiment.",
+  "headline": "AI Chip Volatility, Hawkish Fed, and Geopolitical Tensions Mark Week",
+  "summary": "The week saw significant volatility, particularly in the AI chip sector, which experienced both strong earnings reports and a late-week sell-off driven by new Chinese AI models and macro concerns. Federal Reserve commentary leaned hawkish early in the week, though some inflation data offered a brief reprieve. Geopolitical tensions, especially concerning Iran and US policy shifts, continued to impact oil markets and broader sentiment. Earnings were mixed, with strong performance from some AI-related firms offset by disappointments in other tech segments.",
   "themes": [
     {
       "label": "US Semis / AI Chips",
-      "narrative": "The AI chip sector saw dynamic shifts; TSMC and ASE Technology reported record revenues driven by AI demand, with AEHR and ASML providing strong guidance. However, the Nasdaq's chip index declined sharply, and SK Hynix experienced a volatile debut and sell-off. Google is exploring Samsung for future TPU production, while TSMC expands US capex.",
+      "narrative": "The AI chip sector experienced extreme volatility, initially buoyed by strong Q2 earnings from TSMC and robust guidance from Aehr Test Systems, alongside positive HBM sentiment for SK Hynix. However, a broader sell-off ensued later in the week, fueled by hawkish Fed rhetoric, concerns over China's new Kimi K3 AI model, and SK Hynix's post-debut plunge. Apple briefly overtook Nvidia in market cap, signaling shifting dynamics.",
       "movers": [
         "TSMC",
         "SK Hynix",
-        "Google",
         "Nvidia",
-        "ASML"
+        "Apple",
+        "Aehr Test Systems"
       ],
       "sources": []
     },
     {
       "label": "Fed / Rates / Macro",
-      "narrative": "Macro data presented a mixed picture. June's CPI and PPI showed signs of cooling inflation, initially boosting markets. However, hawkish commentary from the Dallas Fed President and Governor Waller, warning of potential further rate hikes due to persistent core inflation, tempered enthusiasm and contributed to rising Treasury yields.",
+      "narrative": "Federal Reserve commentary presented a mixed but ultimately hawkish tone, with Dallas Fed President advocating for higher rates and Governor Waller warning on persistent core inflation. While cooling CPI and PPI data offered a temporary reprieve and hints of a rate hike pause, rising Treasury yields and broader inflation concerns maintained market caution.",
       "movers": [
-        "Federal Reserve",
         "US Treasury",
         "S&P 500",
-        "Nasdaq",
-        "WTI Crude"
+        "Nasdaq"
       ],
       "sources": []
     },
     {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical tensions remained elevated, primarily driven by President Trump's fluctuating stance on Iran's port blockade and proposed Hormuz cargo fees, which initially spiked oil prices. China continued to advance its domestic AI models and chip ambitions, with CXMT seeking a significant IPO, while the US ITC initiated an investigation into DRAM devices.",
+      "narrative": "Geopolitical tensions remained elevated, with President Trump reinstating an Iran port blockade and proposing a 20% charge on Hormuz cargo, driving oil prices higher. US-Iran exchanges further exacerbated Mideast risks. China's domestic chip ambitions were highlighted by CXMT's $8.6B IPO plan, while the emergence of its Kimi K3 AI model contributed to the late-week AI chip sell-off.",
       "movers": [
-        "Iran",
-        "China",
         "CXMT",
-        "US ITC",
-        "WTI Crude"
+        "Oil",
+        "Iran"
       ],
       "sources": []
     },
     {
       "label": "Earnings / Guidance",
-      "narrative": "Q2 earnings season delivered strong results from major banks, TSMC, AEHR, and ASML, highlighting robust performance in key sectors driven by AI. Conversely, Netflix disappointed with its growth forecast, leading to a share tumble, though several AI-related firms announced IPO plans and positive guidance, indicating continued investor interest.",
+      "narrative": "Earnings season delivered a mixed bag, with strong Q2 results and robust AI-driven guidance from key semiconductor players like TSMC, AEHR, and ASML, alongside record earnings from major US banks. Conversely, Netflix shares tumbled following a disappointing growth forecast, while several AI-related firms announced IPO plans, indicating continued investment in the sector despite broader market volatility.",
       "movers": [
-        "Netflix",
         "TSMC",
         "AEHR",
         "ASML",
-        "JPMorgan Chase"
+        "Netflix",
+        "Major Banks"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "narrative": "The memory sector experienced significant volatility. Early in the week, strong HBM sentiment led to a surge in SK Hynix ADRs and projections of decade-long demand exceeding capacity. However, SK Hynix then saw a significant sell-off following its Nasdaq debut, impacting the broader memory chip sector.",
+      "movers": [
+        "SK Hynix"
       ],
       "sources": []
     },
     {
       "label": "Trump 2.0 / US Policy",
-      "narrative": "President Trump's policy decisions significantly impacted markets, particularly his fluctuating stance on Iran. The reinstatement of an Iran port blockade and proposed Hormuz fees caused oil price volatility, though these demands were later reversed. This underscored the ongoing influence of US policy on global commodity markets and geopolitical stability.",
+      "narrative": "Trump administration policies directly impacted global markets, with President Trump reinstating an Iran port blockade and proposing a 20% charge on Hormuz cargo, leading to a sharp spike in oil prices. Later in the week, a reversal of Hormuz fee demands offered some relief, but the volatility underscored the direct market influence of US policy shifts.",
       "movers": [
-        "Donald Trump",
-        "Iran",
-        "WTI Crude",
-        "US Department of Defense"
+        "Oil",
+        "Iran"
       ],
       "sources": []
     }
   ],
   "watchlist": [
     {
-      "name": "TSMC",
-      "note": "Monitor capex expansion and continued AI chip demand, especially with Google's TPU considerations."
+      "name": "Nvidia",
+      "note": "Monitor AI chip leadership and market cap dynamics."
     },
     {
       "name": "SK Hynix",
-      "note": "Watch for stabilization after its volatile Nasdaq debut and further clarity on HBM demand outlook."
+      "note": "Watch HBM demand outlook and post-IPO performance stabilization."
+    },
+    {
+      "name": "Oil",
+      "note": "Observe continued sensitivity to Mideast geopolitics and US policy."
+    },
+    {
+      "name": "TSMC",
+      "note": "Track AI chip production capacity and CoWoS expansion efforts."
     },
     {
       "name": "Netflix",
-      "note": "Observe subscriber growth trends and future guidance following disappointing forecasts."
+      "note": "Assess streaming subscriber growth and competitive landscape post-earnings."
     },
     {
-      "name": "Federal Reserve",
-      "note": "Await further clarity on rate hike trajectory following mixed inflation data and hawkish comments."
-    },
-    {
-      "name": "WTI Crude",
-      "note": "Track geopolitical developments in the Middle East and their impact on oil prices and supply."
-    },
-    {
-      "name": "Google",
-      "note": "Monitor developments regarding future TPU production partners (Samsung, TSMC) and AI chip strategy."
+      "name": "Apple",
+      "note": "Evaluate AI strategy execution and its impact on market valuation."
     }
   ],
   "x_themes": [

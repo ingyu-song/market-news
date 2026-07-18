@@ -1,91 +1,18 @@
 {
-  "generated_at": "2026-07-18T22:44:55+00:00",
+  "generated_at": "2026-07-18T23:48:30+00:00",
   "mode": "daily",
   "for_date": "2026-07-18",
-  "headline": "AI Chip Competition Intensifies Amid Geopolitical Tensions; Macro Data Mixed",
-  "summary": "Global markets are navigating heightened competition in the AI chip sector, with TSMC expanding US capex and Google exploring Samsung for future TPU production. Geopolitical concerns persist as China advances its domestic AI models and the US ITC investigates DRAM devices. Macro indicators show Korea's per capita GDP nearing $40,000, driven by semiconductor demand.",
+  "headline": "AI Chip Selloff Deepens on China's Kimi K3; Macro Headwinds Persist",
+  "summary": "Market downturn deepened, driven by leverage and liquidations, particularly in AI and Korean sectors. China's new Kimi K3 AI model fueled chip sell-off concerns, while macro indicators like cooling US CPI and slowing China growth were noted. Geopolitical tensions around Trump's aid reordering and Iran's deal violations remain key.",
   "sections": [
-    {
-      "label": "US Semis / AI Chips",
-      "bullets": [
-        {
-          "lead": "TSMC is significantly increasing its US investment.",
-          "segments": [
-            {
-              "text": "The company plans to add $100 billion to its US spending plan, signaling continued commitment to advanced manufacturing capabilities outside Taiwan.",
-              "sources": [
-                {
-                  "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
-                  "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Google is reportedly considering Samsung for future AI chip production.",
-          "segments": [
-            {
-              "text": "This move aims to diversify supply for its 10th-gen TPU, 'Icefish', as TSMC's capacity tightens due to Nvidia's AI chip demand and internal compute capacity constraints at Google.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@zephyr_z9",
-                  "url": "https://x.com/zephyr_z9/status/2078169236439175526"
-                },
-                {
-                  "handle": "@KawzInvests",
-                  "url": "https://x.com/KawzInvests/status/2077838168959922576"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Broadcom and Powertech are forming a joint venture in Singapore.",
-          "segments": [
-            {
-              "text": "The $400 million investment will focus on producing high-end chip packaging substrates, including Powertech's Fan-Out Panel-Level Packaging.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2077907784621023516"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Memory is identified as a critical bottleneck in AI development.",
-          "segments": [
-            {
-              "text": "Jensen Huang highlighted this at CES 2026, leading to outperformance by Micron and Sandisk relative to Nvidia's stock since his remarks.",
-              "sources": [
-                {
-                  "title": "Jensen Huang Told CES 2026 That Memory Is Now the Biggest Bottleneck in AI. Micron and Sandisk Have Outperformed Nvidia's Stock Ever Since.",
-                  "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-told-ces-2026-194200302.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "China's Moonshot AI is contributing to a chip selloff.",
+          "lead": "China's Moonshot AI released its Kimi K3 open-weight model, sparking debate on commercial implications.",
           "segments": [
             {
-              "text": "The release of its Kimi K3 open-weight model has sparked debate on its commercial implications and potential to commoditize intelligence, pressuring frontier models.",
+              "text": "This release is seen by some as commoditizing intelligence and pressuring frontier models, contributing to a Wall Street chip sell-off.",
               "sources": [
                 {
                   "title": "China’s Moonshot AI Adds More Fuel to Wall Street’s Chip Selloff",
@@ -94,10 +21,10 @@
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
-                  "title": "Meet Yang Zhilin, the CEO and founder behind China's buzzy new Kimi K3 AI model",
-                  "link": "https://www.businessinsider.com/who-is-yang-zhilin-ceo-founder-moonshot-ai-kimi-k3-2026-7",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "[테크인사이드] 중국 AI 모델發 반도체 주가 하락의 진실",
+                  "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685068",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": [
@@ -134,50 +61,50 @@
                   "url": "https://x.com/FundaAI/status/2077943509148205297"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "lead": "China is pushing a three-layer national AI strategy.",
-          "segments": [
+            },
             {
-              "text": "This strategy focuses on domestic deployment, a sovereign tech stack, and international expansion, aiming for AI infrastructure self-reliance.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@TheValueist",
-                  "url": "https://x.com/TheValueist/status/2078077867842228506"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "PC brands are securing CXMT memory amid easing US-China tensions.",
-          "segments": [
-            {
-              "text": "Orders for ChangXin Memory Technology (CXMT) memory extend to end-2027, following reports of Apple testing CXMT memory.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2078058079036539047"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "China is actively recruiting ASML engineers.",
-          "segments": [
-            {
-              "text": "This is part of a broader strategy involving '4 types of support' to bolster its domestic semiconductor industry.",
+              "text": "The Kimi K3 model's commercial implications are being debated, with its founder Yang Zhilin leading the buzzy new AI model.",
               "sources": [
                 {
-                  "title": "[人터뷰+] “中, ASML 엔지니어까지 빼간다...‘4종 지원책’으로 반도체...",
-                  "link": "https://n.news.naver.com/mnews/article/011/0004642738?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Meet Yang Zhilin, the CEO and founder behind China's buzzy new Kimi K3 AI model",
+                  "link": "https://www.businessinsider.com/who-is-yang-zhilin-ceo-founder-moonshot-ai-kimi-k3-2026-7",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Trump administration plans to fund Maga-aligned projects in Europe, reordering US aid.",
+          "segments": [
+            {
+              "text": "This move has been reported by the Financial Times and Reuters Business.",
+              "sources": [
+                {
+                  "title": "Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
+                  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOU4xcVQ5aVRTd3hURWx3clNoS2VWdzJ2QWZqc0g1alM2SHJBdk5zWnZqV01ndFhpMXBUQWlhTXdjVTMtdElHYzl0LXlCcFg3bDkyUjFOWm9hOG1zQzdLQnIyZUZpbGxaOFB3MlhITDhYY2I2UU9MTFJSV2FSdU9sbTA5WHROMXhnNnNGSlJ3MUc2U1Fudmp6Mlp3UWlyN0R0Q01NUkxCczFxbjhOUjM5TE1TMUFQTzVDRFN5emFmZjlsTEpodVVaUFJUZ29sdUF2WkQ0VA?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
+                  "link": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Iran's supreme leader has accused Trump of violating a deal and vowed a forceful response, adding to geopolitical tensions.",
+              "sources": [
+                {
+                  "title": "Iran supreme leader accuses Trump of violating deal, vows forceful response",
+                  "link": "https://www.axios.com/2026/07/18/iran-khamenei-trump-war",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -190,54 +117,22 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "South Korea's per capita GDP is estimated to reach $39,000 this year.",
+          "lead": "US CPI cooled, while China's growth slowed, impacting the global economy.",
           "segments": [
             {
-              "text": "This projection, driven by the semiconductor boom, suggests the country is nearing the $40,000 mark for the first time.",
+              "text": "The ECB remains on war alert, preparing for its next rate hike amidst global economic shifts.",
               "sources": [
                 {
-                  "title": "올해 1인당 GDP 3만9000달러 추산…4만달러 첫 돌파 가능",
-                  "link": "http://www.segyebiz.com/newsView/20260719503436?OutUrl=naver",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "ECB Stays on War Alert Preparing for Next Rate Hike",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3A3eVd0OVV1Si1FTnFXU3VtZUxqZ19kZ3FGdEhETzg3aXZGcklvSVNDMk5EY19lajI2aXRLa3hNRFRxSmM5ZThzRkh1SkE3WmhPLWt3dGE2S2Z1MGowVDRhZ1RZNkwzZl93bWZLUG1LZk5HTlA2SVRicGNCeFg2cWtuTFYwLXUzcjhYSWIxbkNfSFFaT2o2NW1Uemxva01mV3ZFcmtRcWNnSHpn?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The market is experiencing a broad downturn.",
-          "segments": [
+            },
             {
-              "text": "This is particularly notable in AI-related and Korean sectors, attributed to unprecedented leverage, margin calls, and forced liquidations.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@aleabitoreddit",
-                  "url": "https://x.com/aleabitoreddit/status/2078161322769068533"
-                },
-                {
-                  "handle": "@negligible_cap",
-                  "url": "https://x.com/negligible_cap/status/2078142387658879462"
-                },
-                {
-                  "handle": "@AlmaCap114204",
-                  "url": "https://x.com/AlmaCap114204/status/2078011176118620163"
-                },
-                {
-                  "handle": "@Yeah_Dave",
-                  "url": "https://x.com/Yeah_Dave/status/2077845064760635624"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Fed communication is evolving with new leadership.",
-          "segments": [
-            {
-              "text": "Wall Street is adapting to a new era of communication, with discussions around how the Fed's new chair, Kevin Warsh, will approach inflation debates.",
+              "text": "Discussions around \"WarshGPT\" highlight how Wall Street is adapting to the Fed's new communication era, with Warsh showing a hawkish stance as inflation debates intensify.",
               "sources": [
                 {
                   "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
@@ -257,16 +152,16 @@
           ]
         },
         {
-          "lead": "US CPI has cooled while China's growth slows.",
+          "lead": "Concerns are rising over employment shocks due to AI adoption, with a high AI adoption rate projected in 10 years.",
           "segments": [
             {
-              "text": "These global economic trends are being closely monitored for their impact on monetary policy and market sentiment.",
+              "text": "South Korea's per capita GDP is projected at $39,164, nearing the $40,000 era.",
               "sources": [
                 {
-                  "title": "US CPI Cools, China Growth Slows: The Global Economy in Charts",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0h2LVV6cFpOUHRrXzlLbTE5UUxVREx1MkFWWXE3bUp4M0U0dnlWeXRHeDdsb3hGVmFDVTdHTHZocThkY3lxcWpvclR1SnE1U2VTWExHOWZWNVRkaEdLVUdzQS1rT2F2ajhFUERGblIyNmdaSW5FdXpvY09RQWNqak5wYjBrN1dIbGpScE5oVlMwb2k0bEN3MmdiejU3NTJKby1lZy1Pc3ltempnbllv?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "10년 뒤 AI 도입률 최고 전망에 고용 충격 우려",
+                  "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=850973",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -276,25 +171,110 @@
       ]
     },
     {
-      "label": "Trump 2.0 / US Policy",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "The Trump administration plans to fund Maga-aligned projects in Europe.",
+          "lead": "A massive TSMC deal marks a significant stride for the US in the high-tech race.",
           "segments": [
             {
-              "text": "This initiative, reported by the Financial Times, signals a reordering of US aid and foreign policy priorities.",
+              "text": "TSMC reported a strong Q2 2026 earnings beat across revenue, gross margin, operating margin, net profit, and EPS, exceeding expectations despite concerns about 2nm gross margin dilution.",
               "sources": [
                 {
-                  "title": "Trump administration to fund Maga-aligned projects in Europe as he reorders US aid, FT reports",
-                  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOU4xcVQ5aVRTd3hURWx3clNoS2VWdzJ2QWZqc0g1alM2SHJBdk5zWnZqV01ndFhpMXBUQWlhTXdjVTMtdElHYzl0LXlCcFg3bDkyUjFOWm9hOG1zQzdLQnIyZUZpbGxaOFB3MlhITDhYY2I2UU9MTFJSV2FSdU9sbTA5WHROMXhnNnNGSlJ3MUc2U1Fudmp6Mlp3UWlyN0R0Q01NUkxCczFxbjhOUjM5TE1TMUFQTzVDRFN5emFmZjlsTEpodVVaUFJUZ29sdUF2WkQ0VA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Massive TSMC deal is huge stride for US in high-tech race",
+                  "link": "https://finance.yahoo.com/technology/articles/massive-tsmc-deal-huge-stride-230300784.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": [
+                {
+                  "handle": "@Aaronwei3n",
+                  "url": "https://x.com/Aaronwei3n/status/2077899371392401787"
                 },
                 {
-                  "title": "Trump to fund Maga-aligned projects in Europe as he reorders US aid",
-                  "link": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2077633017401708784"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Google is reportedly facing internal AI compute capacity constraints, leading to delays for Gemini 3.5 P.",
+          "segments": [
+            {
+              "text": "This comes despite the company guiding $180-190 billion in capex this year, highlighting the ongoing Nvidia GPU crunch.",
+              "sources": [
+                {
+                  "title": "The Model That Beat Claude & ChatGPT, The Nvidia GPU Crunch Continues, Beehiiv’s Social Tools — TITV [Video]",
+                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVYmhVX2drbVFhbW56d0J2Vlc0SkpGRmxuTUxacVdXMWgwbDhwR2NIS0pBSG5jcWg5WUZZWFZ1R3E0VEpBYUVzZ3ZvczBmS2dSc3FB?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": [
+                {
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2078169236439175526"
+                },
+                {
+                  "handle": "@KawzInvests",
+                  "url": "https://x.com/KawzInvests/status/2077838168959922576"
+                }
+              ]
+            },
+            {
+              "text": "Broadcom and Taiwan's Powertech are investing $400 million in a joint venture plant in Singapore to produce high-end chip packaging substrates.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2077907784621023516"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Big Tech earnings season is underway, with a focus on capex spirals.",
+          "segments": [
+            {
+              "text": "Oracle's data centers are facing multibillion-dollar cost surprises, with firms like Oracle turning to bonds to finance AI data centers.",
+              "sources": [
+                {
+                  "title": "Big Tech earnings season and the capex spiral",
+                  "link": "https://www.businessinsider.com/big-tech-spending-capex-earnings-season-memory-prices-ai-2026-7",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                },
+                {
+                  "title": "Exclusive: Oracle Data Centers Face Multibillion-Dollar Cost Surprises",
+                  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0Nha0hoc0NpLWVzaURMLTRiaTFPMGRBaVB2OWdvWUpWdnZsZExTOEt0ODNXVndqQ2p1b2YyYnZpUXBHUjJBMXYtVVR2UC1iRTBaaHpWQ3lUYl9pU2ZkRUdOSTZnRHdrRXhKdlI4Um1pM2t4WmtkeTFpQVAzRldBTmt3cEtOTjFxRXU3eDFWbFliSGxqZVdMc0pLSUVvRktRZzdZUERyV3VFMzBwaTYwYXJGejVKbklCSDlqYW92bmdHVjlIdm95dktn?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
+                  "link": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Alphabet and Intel are set to announce results next week, with the AI market's fate hinging on key details.",
+              "sources": [
+                {
+                  "title": "《國際經濟》Alphabet、英特爾下周公布業績 AI行情死活看「1重點」",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CYktVRDNqSFRnenNyTk8xMjFkTGZ4a2VjRzBOS0taYjZxa29ubTJLOTM1Y3NERk00S2JnaW1UZ3B5VzBqUk5ZMFU3U3ZvTE8za25HOVVKcFFwQlVqbzBv?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
               ],
               "x_mentions": []
@@ -302,56 +282,22 @@
           ]
         },
         {
-          "lead": "Iran's supreme leader has accused Trump of violating a deal.",
+          "lead": "Bank of America has revamped its Tesla forecast ahead of earnings.",
           "segments": [
             {
-              "text": "This highlights ongoing tensions and potential for renewed conflict in the region, with the leader vowing a forceful response.",
+              "text": "Europe is quietly taking the lead in the earnings race, according to Barclays.",
               "sources": [
                 {
-                  "title": "Iran supreme leader accuses Trump of violating deal, vows forceful response",
-                  "link": "https://www.axios.com/2026/07/18/iran-khamenei-trump-war",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump's Truth Social posts influence stock movements.",
-          "segments": [
-            {
-              "text": "Trump Media & Technology Group (DJT) reportedly pitched a $100,000 monthly fee for the fastest feed of the former president's posts, demonstrating the perceived value of his social media activity.",
-              "sources": [
-                {
-                  "title": "See How Trump’s Truth Social Posts Move Stocks",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDF6S29WUnVndFpRbW1DY2M5YjRhaHZXNnlNZlAzRWF1OUdqNWx4eUFaWTBfdmFIMlFVTG1iSGwtR2dwQ05JOHBZemxOVmplcDFCVXQ1V2FCdGFBS1AxcUJlWGNKWmdycnFhdVFDamlKa1ZlUDFOMXphRHBQTDhHcjZrRl9obWNqSGt0dmNDR2tCZG0w?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Bank of America revamps Tesla forecast before earnings",
+                  "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
                 },
                 {
-                  "title": "Trump Media pitched $100,000 monthly fee for fastest feed of US president’s posts, sources say",
-                  "link": "https://www.investing.com/news/stock-market-news/trump-media-pitched-100000-monthly-fee-for-fast-feed-of-us-presidents-posts-ft-reports-4798840",
+                  "title": "Has Europe quietly taken the lead in the earnings race? Barclays weighs in",
+                  "link": "https://www.investing.com/news/stock-market-news/has-europe-quietly-taken-the-lead-in-the-earnings-race-barclays-weighs-in-4799634",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Big Law is preparing for a second confrontation with Trump.",
-          "segments": [
-            {
-              "text": "This relates to potential \"capitulation deals\" and legal challenges, indicating continued legal scrutiny surrounding the former president.",
-              "sources": [
-                {
-                  "title": "Big Law braces for second fight with Trump over capitulation deals",
-                  "link": "https://www.ft.com/content/44a3698f-6481-4e83-a50d-7db109768ea1?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -364,10 +310,10 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Meta Platforms is reportedly in talks to lease computing power to Anthropic.",
+          "lead": "Meta is reportedly in talks to lease computing power to Anthropic.",
           "segments": [
             {
-              "text": "This potential deal, valued at up to $10 billion over two years, validates the \"neocloud\" business model where hyperscalers lease excess compute capacity.",
+              "text": "This potential deal, valued at up to $10 billion over two years, validates the \"neocloud\" business model where hyperscalers lease compute.",
               "sources": [
                 {
                   "title": "Meta擬出租AI算力給Anthropic 交易規模上看100億美元- 國際",
@@ -388,67 +334,6 @@
               ]
             }
           ]
-        },
-        {
-          "lead": "Oracle's data centers are facing multibillion-dollar cost surprises.",
-          "segments": [
-            {
-              "text": "Big Tech firms like Oracle are increasingly turning to bonds to finance their AI data center expansions, indicating significant capital expenditure in the sector.",
-              "sources": [
-                {
-                  "title": "Exclusive: Oracle Data Centers Face Multibillion-Dollar Cost Surprises",
-                  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0Nha0hoc0NpLWVzaURMLTRiaTFPMGRBaVB2OWdvWUpWdnZsZExTOEt0ODNXVndqQ2p1b2YyYnZpUXBHUjJBMXYtVVR2UC1iRTBaaHpWQ3lUYl9pU2ZkRUdOSTZnRHdrRXhKdlI4Um1pM2t4WmtkeTFpQVAzRldBTmt3cEtOTjFxRXU3eDFWbFliSGxqZVdMc0pLSUVvRktRZzdZUERyV3VFMzBwaTYwYXJGejVKbklCSDlqYW92bmdHVjlIdm95dktn?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                },
-                {
-                  "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
-                  "link": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Google engineers are facing internal AI compute capacity constraints.",
-          "segments": [
-            {
-              "text": "Despite the company guiding $180-190 billion in capex this year, these constraints are reportedly leading to delays for Gemini 3.5 Pro.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@zephyr_z9",
-                  "url": "https://x.com/zephyr_z9/status/2078169236439175526"
-                },
-                {
-                  "handle": "@KawzInvests",
-                  "url": "https://x.com/KawzInvests/status/2077838168959922576"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Nebius has secured $775 million in debt financing.",
-          "segments": [
-            {
-              "text": "This significantly oversubscribed debt, at attractive terms (SOFR + 2.50%), will be used for capacity expansion, demonstrating institutional confidence in its growth.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@ParadisLabs",
-                  "url": "https://x.com/ParadisLabs/status/2078191070899327358"
-                },
-                {
-                  "handle": "@Yeah_Dave",
-                  "url": "https://x.com/Yeah_Dave/status/2078133113096704035"
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -456,51 +341,34 @@
       "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "The US ITC has initiated a Section 337 investigation into DRAM devices.",
+          "lead": "China is developing next-generation quantum flash memory technology for the AI era.",
           "segments": [
             {
-              "text": "This probe could impact the supply chain for certain dynamic random-access memory and downstream products, potentially affecting global memory markets.",
-              "sources": [],
+              "text": "The US ITC has initiated a Section 337 investigation into certain DRAM devices and downstream products, which could impact supply.",
+              "sources": [
+                {
+                  "title": "중국, AI 시대 차세대 양자 플래시 메모리 기술 개발",
+                  "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=168368",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
               "x_mentions": [
                 {
                   "handle": "@FundaAI",
                   "url": "https://x.com/FundaAI/status/2077604581056594243"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "lead": "SK Hynix American Depositary Receipts (ADRs) are trading at a 25% premium.",
-          "segments": [
+            },
             {
-              "text": "This 'reverse kimchi premium' is observed relative to the common stock, indicating strong investor demand for the ADRs.",
-              "sources": [
+              "text": "PC brands are rushing to secure ChangXin Memory Technology (CXMT) memory, with orders extending to end-2027, following reports of eased US-China tensions.",
+              "sources": [],
+              "x_mentions": [
                 {
-                  "title": "SK하이닉스 미국예탁주식, 본주 대비 25% 고평가 '역 김치 프리미엄' 현...",
-                  "link": "https://www.tokenpost.kr/news/market/379128",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2078058079036539047"
                 }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Samsung and SK Hynix are under Washington's scrutiny.",
-          "segments": [
-            {
-              "text": "This relates to their memory fabs, indicating potential geopolitical and trade implications for the leading memory manufacturers.",
-              "sources": [
-                {
-                  "title": "Commentary: Samsung, SK Hynix in Washington's crosshairs over memory fabs",
-                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmtCUWM4V1lJYWJyU3VIamJmaWpMZEpEdDRmbkM5YzNNNGVmVUZad1dIMDVZRmhNdFN1OHN3c3B2eE5LYlA3WkZfYS03SWhjQ2thMXVRWHJFRjFFSzhSWW5pdVd0T0h2amNqaUJqNWYxajJ4RWZreTRTZEJ6dUxmRml5R09YUU5SUjNVX0ZLTEh4aDQtTVZJ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
+              ]
             }
           ]
         }
@@ -509,14 +377,32 @@
   ],
   "watchlist": [
     {
-      "name": "TSMC",
-      "note": "Watch for further details on US capex expansion and any impact on 2nm gross margin dilution concerns.",
+      "name": "AI Chipmakers",
+      "note": "Watch for continued volatility as China's AI advancements and supply chain constraints impact sentiment.",
       "sources": [
         {
-          "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
-          "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "China’s Moonshot AI Adds More Fuel to Wall Street’s Chip Selloff",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OVVNrQzA2dl9qYXNpT3RnbVhoaWYyYy1wQTR3SkxLZmV5dXBKQ2NJN29vaVlpZjItYTFScXhpUGdSZHAwX3IyQ0xpRVpPQm5EczhjWVJoMWg1bHlFRGVNN2xn?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "[테크인사이드] 중국 AI 모델發 반도체 주가 하락의 진실",
+          "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685068",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Massive TSMC deal is huge stride for US in high-tech race",
+          "link": "https://finance.yahoo.com/technology/articles/massive-tsmc-deal-huge-stride-230300784.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+        },
+        {
+          "title": "The Model That Beat Claude & ChatGPT, The Nvidia GPU Crunch Continues, Beehiiv’s Social Tools — TITV [Video]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVYmhVX2drbVFhbW56d0J2Vlc0SkpGRmxuTUxacVdXMWgwbDhwR2NIS0pBSG5jcWg5WUZZWFZ1R3E0VEpBYUVzZ3ZvczBmS2dSc3FB?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
       ],
       "x_mentions": [
@@ -527,12 +413,20 @@
         {
           "handle": "@dnystedt",
           "url": "https://x.com/dnystedt/status/2077633017401708784"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2078169236439175526"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2077838168959922576"
         }
       ]
     },
     {
-      "name": "Google / Alphabet",
-      "note": "Monitor AI compute capacity constraints and potential diversification of TPU manufacturing to Samsung.",
+      "name": "Google (Alphabet)",
+      "note": "Monitor for updates on internal AI compute capacity and Gemini delays, which could impact future AI product rollouts.",
       "sources": [],
       "x_mentions": [
         {
@@ -546,61 +440,58 @@
       ]
     },
     {
-      "name": "Meta Platforms",
-      "note": "Keep an eye on the potential $10 billion deal to lease AI compute power to Anthropic, validating the \"neocloud\" model.",
+      "name": "Oracle",
+      "note": "Keep an eye on earnings and guidance, especially regarding AI infrastructure investments and potential cost overruns.",
       "sources": [
         {
-          "title": "Meta擬出租AI算力給Anthropic 交易規模上看100億美元- 國際",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dGFvMjFXR3JzWndfQ3QwZnFlLV8xdGxpV1lJbWtuQl9UU2pndmZMOXJpRXI4Y0xxbFpRMXVFaFZGNWlrUV9COFI4V19CLXVGR0tickt2LXFFRjN3RE00?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2078175882620059719"
+          "title": "Exclusive: Oracle Data Centers Face Multibillion-Dollar Cost Surprises",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM0Nha0hoc0NpLWVzaURMLTRiaTFPMGRBaVB2OWdvWUpWdnZsZExTOEt0ODNXVndqQ2p1b2YyYnZpUXBHUjJBMXYtVVR2UC1iRTBaaHpWQ3lUYl9pU2ZkRUdOSTZnRHdrRXhKdlI4Um1pM2t4WmtkeTFpQVAzRldBTmt3cEtOTjFxRXU3eDFWbFliSGxqZVdMc0pLSUVvRktRZzdZUERyV3VFMzBwaTYwYXJGejVKbklCSDlqYW92bmdHVjlIdm95dktn?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         },
         {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2078152474154680801"
-        }
-      ]
-    },
-    {
-      "name": "Fed / Kevin Warsh",
-      "note": "Focus on upcoming communications regarding inflation and any shifts in monetary policy outlook from the new Fed leadership.",
-      "sources": [
-        {
-          "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-          "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-          "source": "CNBC Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        },
-        {
-          "title": "Warsh Shows His Inner Hawk as Inflation Debate Heats Up",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTlsT0p6VGpLSGJKem5tOHdEeHhtU3FidTdObzk1VjBLZDl2cG5jZ3hTdktOOXNZU3ZkUHhBSmh0Skt6MFBsMGhyVF94bUh2bGlNVXdyY2k2SzJNTm1KT1ZoeW4xLTdYM0ZEUWQyX0FJb0oxVnNlcERmRElCTWtxa1dqcjlqWnJzVzhJdkVzLWhjdWJ3eE4tQlFUc3U5N3lvVy15N2N5dExkZw?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
+          "link": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Trump Media & Technology Group (DJT)",
-      "note": "Observe stock movements influenced by Trump's Truth Social posts and any developments regarding its premium feed.",
+      "name": "Fed",
+      "note": "Focus on any new statements or indicators regarding inflation and interest rate policy, particularly from new leadership.",
       "sources": [
         {
-          "title": "See How Trump’s Truth Social Posts Move Stocks",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDF6S29WUnVndFpRbW1DY2M5YjRhaHZXNnlNZlAzRWF1OUdqNWx4eUFaWTBfdmFIMlFVTG1iSGwtR2dwQ05JOHBZemxOVmplcDFCVXQ1V2FCdGFBS1AxcUJlWGNKWmdycnFhdVFDamlKa1ZlUDFOMXphRHBQTDhHcjZrRl9obWNqSGt0dmNDR2tCZG0w?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "ECB Stays on War Alert Preparing for Next Rate Hike",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU3A3eVd0OVV1Si1FTnFXU3VtZUxqZ19kZ3FGdEhETzg3aXZGcklvSVNDMk5EY19lajI2aXRLa3hNRFRxSmM5ZThzRkh1SkE3WmhPLWt3dGE2S2Z1MGowVDRhZ1RZNkwzZl93bWZLUG1LZk5HTlA2SVRicGNCeFg2cWtuTFYwLXUzcjhYSWIxbkNfSFFaT2o2NW1Uemxva01mV3ZFcmtRcWNnSHpn?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
-          "title": "Trump Media pitched $100,000 monthly fee for fastest feed of US president’s posts, sources say",
-          "link": "https://www.investing.com/news/stock-market-news/trump-media-pitched-100000-monthly-fee-for-fast-feed-of-us-presidents-posts-ft-reports-4798840",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+          "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+          "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Boeing",
+      "note": "Watch for news related to Trump's influence and ongoing crises, which could affect its performance and air show presence.",
+      "sources": [
+        {
+          "title": "Boeing Comes to Air Show Carrying Weight of Trump’s Influence",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXk4RzN4d0FOM3prT1NHdzZLX19JNEVXOXR1QnVmanFILV9jR19ZbWhWWnBJRm5OZlVuLXdsWEptZ3hhSW9idW9XZHA5SlctSnFnYnJDZ0c3ZUkweHB5cHJjVGF1Tzl2RUdtc3FKYnZ0UExFbHk2SF9HMjNBaFVkTkRPVkprc2JRczFKbzM2cFliWnE4c29yTjdkb2Q3UFBRNmdJYmNwRnQwdG1pYlgwUm1n?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "After Repeated Crises, Boeing Looks to Turn a Corner",
+          "link": "https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -900,6 +791,6 @@
       "change_pct": -6.38
     }
   ],
-  "story_count": 57,
+  "story_count": 53,
   "bucket_count": 12
 }
