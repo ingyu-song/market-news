@@ -1,13 +1,54 @@
 {
-  "generated_at": "2026-07-18T23:59:52+00:00",
-  "tweet_count": 93,
-  "account_count": 25,
+  "generated_at": "2026-07-20T00:03:12+00:00",
+  "tweet_count": 90,
+  "account_count": 24,
   "themes": [
     {
-      "topic": "Kimi K3's Performance, Economic Impact, and Implications for AI Model Competition",
+      "topic": "Open AI models' impact on semiconductor demand, especially memory",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Open models do not shrink the hardware market but shift value to hyperscalers and semiconductor infrastructure. Token demand is growing much faster than per-chip performance, translating to significant annual chip demand growth. Memory, particularly HBM capacity, is identified as a major bottleneck for MoE models like Kimi K3 due to the need to keep all parameters available in memory.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2078957294470197436",
+          "text": "@damnang2 published a useful framework for thinking about open models and semiconductor demand.\n\nHis conclusion is simple: open models do not shrink the hardware market. What gets compressed is the frontier model developer’s premium. The value moves toward hyperscalers, server op"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2078926567762514173",
+          "text": "In this article, I examine how the growing adoption of open models could affect hyperscaler investment in compute and memory.\n\nThe key questions are how much revenue could shift as workloads move toward open models and what level of reinvestment would be needed to offset that imp"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2078923625613422968",
+          "text": "They don't need a blank check and considering how leading-edge capacity is coming in the next 4 years (even logic isn't a bottleneck)\nThe real bottleneck is HBM and DRAM capacity"
+        }
+      ]
+    },
+    {
+      "topic": "Kimi K3 as an AI inflection point, benefiting infrastructure over frontier labs",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "The release of Kimi K3, a 2.8 trillion parameter open-source model, has sparked debate on AI model economics; while its token inefficiency makes it expensive per task, it demonstrates China's frontier compute capability, validates scaling laws, and intensifies competition, potentially benefiting AI infrastructure by lowering model layer margins.",
+      "summary": "Kimi K3 is seen as a potential inflection point, negatively impacting frontier labs like Anthropic and OpenAI by lowering margins and increasing competition at the model layer. This shift is expected to benefit every other AI layer, including power, semiconductors, hyperscalers, neoclouds, and software, despite Kimi K3 being token inefficient and more expensive per task than some closed models.",
+      "mentions": [
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2078110934740980193",
+          "text": "Kimi K3 may be an important inflection point for AI. Potentially negative for Anthropic and OpenAI while being net positive for essentially every other company in the world. I mean that very literally. Although the real “Sputnik moment” would be an open-source frontier model that"
+        },
+        {
+          "handle": "@FundaAI",
+          "url": "https://x.com/FundaAI/status/2078092035027001387",
+          "text": "Well said!"
+        }
+      ]
+    },
+    {
+      "topic": "Debate on Kimi K3's impact: commoditization vs. Jevons paradox",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "The release of Kimi K3, a large open-weight model, has sparked debate: bears argue it commoditizes intelligence, collapsing token pricing and hurting frontier labs, while bulls point to Jevons paradox, where cheaper models increase ROI and drive more token consumption, pushing margins to infrastructure layers like semis, power, and data centers.",
       "mentions": [
         {
           "handle": "@KawzInvests",
@@ -15,73 +56,82 @@
           "text": "Did Kimi just start another DeepSeek moment?\n\nKimi released the largest open weight model ever yesterday. It scored 57 on the Artificial Analysis index, 3 points behind Claude Fable 5, causing AI stocks to panic.\n\nThe bears say intelligence is becoming a commodity. Open models fr"
         },
         {
-          "handle": "@GavinSBaker",
-          "url": "https://x.com/GavinSBaker/status/2078110934740980193",
-          "text": "Kimi K3 may be an important inflection point for AI. Potentially negative for Anthropic and OpenAI while being net positive for essentially every other company in the world. I mean that very literally. Although the real “Sputnik moment” would be an open-source frontier model that"
-        },
-        {
-          "handle": "@TMT_Jack_",
-          "url": "https://x.com/TMT_Jack_/status/2078093441557274961",
-          "text": "k3 is v good.\n\nit’s also NOT cheap (stop calling it step-function cheaper), was trained on the most advanced NVDA gpus and benefited from distillation.\n\nthis is not evidence that compute stopped mattering. it’s evidence that china has enough compute to build near the frontier."
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2077943509148205297",
-          "text": "Research|LLM: Kimi K3 - Scaling Still Works; An Expensive Model Competing at Front Tier\n\nKimi K3’s overall performance now sits in the global top tier. It is a large 2.8-trillion-parameter MoE model with a 1-million-token context window, and it stands out in tests spanning coding"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2078339937406263565",
-          "text": "🤣🤣🤣🤣🤣\nThis is why open source is so important\nKimi mogged Opus so hard\nAnt was forced to keep Fable in the subscription"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2078270821429359009",
-          "text": "Fable vs Kimi K3 in Tetris\n\nFable wins https://t.co/Trmjch4HMJ"
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2077878801166393456",
+          "text": "Agree with Kawz here, everything is pointing to increased capex."
         }
       ]
     },
     {
-      "topic": "Market Correction Driven by Deleveraging & Liquidation Cascades",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The market is experiencing a significant correction, particularly in beta/momentum stocks, driven by unprecedented leverage, widespread margin calls, and forced liquidations in the Korean market and broader AI-related assets, leading some to anticipate generational buying opportunities.",
+      "topic": "Middle Eastern sovereign AI investment driving Korean server DRAM demand and price surge",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Middle Eastern sovereign AI investors are discussing long-term memory procurement with Korean manufacturers, leading to a sharp rise in server DRAM spot prices, especially for high-end 6,400Mbps products. 64GB DDR5 server DRAM spot prices have surged 146% since mid-July, indicating potential for 3Q26 contract prices to increase beyond current market expectations.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2078161322769068533",
-          "text": "Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk?\n\n“As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by brokers.”\n\n(There were other sources clai"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2078011176118620163",
-          "text": "Market could get worse for the next few weeks.\n\nThere are unprecedented amounts of leverage (not just Korea) out there right now causing a domino effect of margin calls and liquidations. \n\nI continue to hold my memory positions, underlying thesis is unchanged.\n\nPrepare for the wo"
-        },
-        {
-          "handle": "@Yeah_Dave",
-          "url": "https://x.com/Yeah_Dave/status/2077845064760635624",
-          "text": "Exited $NBIS last night when Asia started dying again. Haven't bought back yet. Want to give the margin calls and forced selling in AI a little more time to burn out."
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2078755211699748956",
+          "text": "MERITZ SECURITIES: ACCORDING TO CHANNEL CHECKS, MIDDLE EASTERN SOVEREIGN AI INVESTORS, INCLUDING THOSE IN SAUDI ARABIA, HAVE RECENTLY BEGUN DISCUSSING MID- TO LONG-TERM MEMORY PROCUREMENT PLANS WITH KOREAN MEMORY MANUFACTURERS.\n\n- Amid this demand growth, upward pressure has begu"
         }
       ]
     },
     {
-      "topic": "AI Datacenter Optical Interconnect Layers & InP Light Source",
+      "topic": "SK Hynix's HBM leadership and advanced packaging challenges",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "PhotonCap details the three layers of AI datacenter optical interconnect (in-rack, intra-datacenter, inter-datacenter) and highlights the common InP light source across all, noting META's Prometheus project extends inter-datacenter links up to 2,000 km.",
+      "subcategory": "memory",
+      "summary": "SK Hynix leads the HBM market, a critical component for AI accelerators. Increasing HBM bandwidth necessitates changes in interconnect and packaging architecture, with TSMC and Samsung actively redesigning packages around HBM to extract maximum performance from these memory chips.",
       "mentions": [
         {
           "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2078629661966573623",
-          "text": "Map AI infrastructure by distance and the optics split into three layers.\n\n- 1m to 100m, in-rack: NVLink, copper, short-reach CPO (scale-up)\n\n- 1km, intra-datacenter: PAM4 direct-detect transceivers (scale-out)\n\n- 1km to 3,000km, inter-datacenter: DWDM plus coherent ZR/ZR+ (scale"
+          "url": "https://x.com/PhotonCap/status/2078963240600785299",
+          "text": "SK hynix has traded between $151 and $195 within days of its US listing, while the gap between its Nasdaq ADR and Seoul-listed shares briefly reached 42%. But the more important story is not the volatility: SK hynix spans DRAM, NAND, LPDDR and HBM, and leads the one memory catego"
         }
       ]
     },
     {
-      "topic": "Ciena's Role in AI Datacenter Interconnect & Hyper-Rail",
+      "topic": "Kimi K3's competitive threat to Anthropic/OpenAI valuations",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Kimi K3's potential to offer similar caliber models at a fraction of the price poses a significant challenge to the valuation plans of Anthropic and OpenAI. This competition could force US labs to lower pricing or lose customers, potentially leading to a decline in their ARR or a compression of margins.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2078722213331759460",
+          "text": "Kimi is striking while the iron’s hot \n\nIf Moonshot IPO’s anywhere near the $30B valuation they’re currently in the works on raising, it will likely shatter Anthropic and OpenAI’s plans to IPO at or above $1T (if it hasn’t already) regardless of their current ARR’s. \n\nValuations "
+        }
+      ]
+    },
+    {
+      "topic": "Holding memory positions amid market dip and liquidations",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Despite expectations of a worsening market due to unprecedented leverage, margin calls, and liquidations, some investors are maintaining significant positions in memory companies like Samsung Preferreds and SK Hynix, believing the underlying thesis for memory remains unchanged.",
+      "mentions": [
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2077856586861846638",
+          "text": "In case it helps anyone who is shaken, I continue to hold very significant positions in Samsung Preferreds and SK Hynix (plus some SK Square)\n\nThis dip is mechanical as multiple hedge funds and significant numbers of retail traders are getting margin called and liquidated.\n\nHold "
+        }
+      ]
+    },
+    {
+      "topic": "AAOI's ramp in AI optical transceivers (800G/1.6T)",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "Crux Capital details Ciena's strong position in connecting AI data centers across vast distances, driven by demand for coherent optics and DCI, with Hyper-Rail poised as a major future growth driver. Ciena has secured a hyperscaler order for Hyper-Rail, with ramp starting in 2027.",
+      "summary": "AAOI is experiencing an early ramp in AI optics, with plans for a massive capacity increase in 800G and 1.6T transceivers through 2026-2027. Demand from major hyperscalers is reportedly exceeding production capacity, indicating significant growth potential despite risks associated with qualifications, factory timing, and yields.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2078829458480648668",
+          "text": "Ah, $AAOI . What a journey it's been.\n\nMarket cap: ~$8.2B\nNext-quarter guide: ~$189M (+25.1% QoQ, +83.5% YoY)\nMy next-12M revenue estimate: $1.45–1.75B, 180–250% growth\nMy exit margins: 35–38% adjusted gross, 20–25% adjusted operating\nValuation: ~4.7–5.7x next-12M sales\n\nAAOI is "
+        }
+      ]
+    },
+    {
+      "topic": "Ciena's (CIEN) role in AI datacenter interconnect (DCI)",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Ciena is positioned to benefit from the need to connect large, distributed AI data centers with coherent optics, line systems, and DCI. The company has growing backlog and direct cloud revenue, with its Hyper-Rail technology designed to connect parallel fiber pairs across AI campuses, securing initial hyperscaler orders for a ramp beginning in 2027.",
       "mentions": [
         {
           "handle": "@crux_capital_",
@@ -91,101 +141,67 @@
       ]
     },
     {
-      "topic": "Lumentum's Growth in Optical Buildout & 1.6T Transceivers",
+      "topic": "Kimi K3 demonstrates continued validity of AI scaling laws",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Crux Capital highlights Lumentum's strong position in the optical buildout, driven by demand for 800G/1.6T transceivers, OCS, and CPO external light sources, with 1.6T modules expected to double ASP and demand exceeding supply.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2078325890069496311",
-          "text": "Now let's look at $LITE\n\nMarket cap: ~$57B\nNext-quarter guide: ~$985M (+21.8% QoQ, +104.9% YoY)\nNext-12M revenue: $4.6–5.0B, 85–100% growth\nExit margins: 48–50% gross, 37–40% operating\n\nLite site at some of the most constrained layers of the optical buildout:\n\n> 800G and 1.6T tra"
-        }
-      ]
-    },
-    {
-      "topic": "Goldman Sachs Raises Innolight PT on Strong Optical Demand",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Goldman Sachs significantly raised Innolight's price target and future earnings estimates, citing much higher silicon photonics module volumes, increased AI capex, and strong demand for 1.6T/3.2T modules, indicating robust growth in the optical sector.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2078228019584668121",
-          "text": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-  Much higher silicon photonics module v"
-        }
-      ]
-    },
-    {
-      "topic": "VIAVI's Role in Optical Buildout Testing & Increased Test Intensity",
-      "category": "sectors",
-      "subcategory": "testing",
-      "summary": "Crux Capital highlights VIAVI's critical role in testing the optical buildout, covering various datacenter components from silicon photonics to physical fiber networks, noting that increasing complexity in technologies like CPO and advanced packaging drives higher test intensity and demand.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2078206352414110036",
-          "text": "Alright, let's start with $VIAV\n\nMarket cap: ~$9.2B\nNext-quarter guide: ~$432M (+6.2% QoQ, +48.7% YoY)\nNext-12M revenue: $1.80-1.95B, 32-43% growth\nExit margins: 63-64.5% gross, 24-26% operating\n\nVIAVI sits in the test layer for the optical buildout\n\nThey touch many different sta"
-        }
-      ]
-    },
-    {
-      "topic": "Memory Stock Decline Driven by Deleveraging and Future Supply Expansion",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Jukan05 presents an analysis suggesting the decline in memory stocks is due to unwinding leveraged positions and the market pricing in future supply expansion from Samsung and SK Hynix, expected to ease supply-demand imbalance by 2028.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2078462124486283755",
-          "text": "I came across an interesting analysis today. It argued that while the unwinding of leveraged positions has contributed to the recent decline in memory stocks, the market is also beginning to price in the prospect of future supply expansion.\n\nThe argument goes as follows. Even if "
-        }
-      ]
-    },
-    {
-      "topic": "US ITC Section 337 Investigation into DRAM Devices",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "FundaAI reports on the U.S. International Trade Commission's Section 337 investigation into certain dynamic random-access memory devices, which could impact Samsung and the broader DRAM industry.",
+      "subcategory": "software",
+      "summary": "Kimi K3, a 2.8-trillion-parameter MoE model, shows strong performance in coding, agents, and long-horizon tasks, confirming that scaling laws for AI models have not broken down. While architectural optimizations improve efficiency, increasing model size remains the most direct path for further gains in complex reasoning and agent capabilities.",
       "mentions": [
         {
           "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2077604581056594243",
-          "text": "(1/2)Please tell me the full background and context of why the lawsuit was filed, and how it may affect Samsung as well as the broader DRAM industry: The U.S. International Trade Commission voted to institute a Section 337 investigation into certain dynamic random-access memory d"
+          "url": "https://x.com/FundaAI/status/2077943509148205297",
+          "text": "Research|LLM: Kimi K3 - Scaling Still Works; An Expensive Model Competing at Front Tier\n\nKimi K3’s overall performance now sits in the global top tier. It is a large 2.8-trillion-parameter MoE model with a 1-million-token context window, and it stands out in tests spanning coding"
         }
       ]
     },
     {
-      "topic": "SK Hynix ADR-Local Share Convertibility & Arbitrage",
+      "topic": "SpaceX orders Nvidia GB300 AI servers from Foxconn",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Aleabitoreddit notes that SK Hynix ADRs and local shares become convertible on July 29, which is expected to open arbitrage opportunities and likely compress the current 25%+ ADR premium.",
+      "subcategory": "gpu",
+      "summary": "SpaceX has placed its first orders for Nvidia GB300-based AI servers with Foxconn, planning to acquire 13,000 units valued at an estimated $52 billion. This marks Foxconn's initial contract with SpaceX for server production, indicating a significant new revenue stream for the manufacturer.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2078338950150959558",
-          "text": "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares:\n\nThe ADRs and local shares become convertible on July 29.\n\nShould open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or pressuring US shares. \n\n2.5% currently "
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2078988776983114124",
+          "text": "SpaceX has placed its first orders for Nvidia GB300-based AI servers to Taiwan’s Foxconn, amid plans by Elon Musk’s company to buy 13,000 of them in all, worth an estimated US$52 billion, ($4M each), media report, citing unnamed industry sources. It’s the first time SpaceX has tu"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2078977947457966417",
+          "text": "FOXCONN HAS BROKEN DELL AND SUPERMICRO’S DUOPOLY BY WINNING ITS FIRST CONTRACT TO MANUFACTURE SPACEX’S NEXT-GENERATION AI SERVERS POWERED BY NVIDIA’S GB300.\n\n- The project is reportedly worth approximately $52 billion, making it a massive deal.\n\n- This order was not included in t"
         }
       ]
     },
     {
-      "topic": "Google's Internal AI Compute Capacity Constraints",
+      "topic": "Kimi K3's compute requirements and China's AI compute capability",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "KawzInvests reports that Google engineers are facing internal AI compute capacity constraints, with Gemini 3.5 Pro behind schedule, despite the company's massive $180-190 billion capex guidance and Q1 capex doubling year-over-year.",
+      "subcategory": "gpu",
+      "summary": "Kimi K3, despite being a large open-source model, is not cheap to run and was trained on advanced Nvidia GPUs, benefiting from distillation. Its existence demonstrates that China possesses sufficient compute capability to develop AI models near the frontier, rather than indicating a diminished importance of compute.",
       "mentions": [
         {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2077838168959922576",
-          "text": "Bloomberg reports $GOOG engineers are hitting capacity constraints when they try to use AI internally.\n\nAt a company guiding $180B to $190B of capex this year.\n\nGemini 3.5 Pro is months behind schedule. Engineers are now required to use AI to write code and there isn't enough com"
+          "handle": "@TMT_Jack_",
+          "url": "https://x.com/TMT_Jack_/status/2078093441557274961",
+          "text": "k3 is v good.\n\nit’s also NOT cheap (stop calling it step-function cheaper), was trained on the most advanced NVDA gpus and benefited from distillation.\n\nthis is not evidence that compute stopped mattering. it’s evidence that china has enough compute to build near the frontier."
         }
       ]
     },
     {
-      "topic": "Nebius Raises $775M Debt to Accelerate Growth",
+      "topic": "UMC fab expansion for advanced packaging and AI orders",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "UMC is evaluating an expansion of its Fab 12A P7 in Tainan, Taiwan, driven by an overflow of advanced packaging and specialty AI-related orders. This includes collaborations with Qualcomm for silicon interposers and hybrid bonding, Intel for 12nm FinFET, and SanDisk for memory chip stacking, alongside booming orders for AI PMICs.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2078989708449980671",
+          "text": "UMC, Taiwan’s 2nd biggest chip foundry, is looking to expand a fab in south Taiwan due to an overflow of advanced packaging and specialty AI-related orders (silicon interposers, DTC) from Qualcomm, Intel and SanDisk, media report, noting new plans for UMC’s Fab 12A P7 near Tainan"
+        }
+      ]
+    },
+    {
+      "topic": "Nebius (NBIS) raises $775M debt for cloud expansion",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Nebius successfully raised $775 million in oversubscribed debt at attractive terms (SOFR + 2.50%), signaling institutional confidence as it continues to deliver planned capacity tranches to Microsoft.",
+      "summary": "Nebius successfully raised $775 million in debt at SOFR + 2.50% to accelerate its growth, with the facility being significantly oversubscribed. The company is leveraging customer contracts with hyperscalers like Microsoft to secure cheaper debt and finance its long-term goal of building a full-stack multi-tenant cloud for a broader enterprise market.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
@@ -196,37 +212,6 @@
           "handle": "@Yeah_Dave",
           "url": "https://x.com/Yeah_Dave/status/2078133113096704035",
           "text": "$NBIS laid out the plan months ago and have been executing.\n\n\"They openly stated that providing bare metal to hyperscalers like $MSFT and $META is a temporary strategy to leverage the cash and credit ratings from these contracts to finance their main goal: building a full-stack m"
-        }
-      ]
-    },
-    {
-      "topic": "Meta in Talks to Lease Compute to Anthropic ($10B Deal)",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Meta is reportedly in talks to lease compute capacity to Anthropic in a $10 billion deal, which further validates the business models of neocloud providers.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2078175882620059719",
-          "text": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying their homework.\n\nSource: NYT https://t.c"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC Q2 2026 Earnings Beat Expectations",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC reported strong Q2 2026 earnings, beating revenue, gross margin, operating margin, net profit, and EPS guidance, with revenue up 33.7% YoY.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2077633017401708784",
-          "text": "TSMC 2nd Quarter 2026 Earnings \nRevenue US$40.2B up 33.7% YoY, exact top of guide\nGross Margin 67.7% vs guide 65.5% - 67.5% -BEAT\nOpng Margin 60.3% vs guide 56.5% - 58.5% -BEAT\nNet Profit US$22.37B vs expected $19.65B -BEAT\nEPS US$4.31 per ADR vs range $3.80-$3.83 -BEAT\nThread 1/"
-        },
-        {
-          "handle": "@Aaronwei3n",
-          "url": "https://x.com/Aaronwei3n/status/2077899371392401787",
-          "text": "Buyside overshoots every time.\n\nStill an impressive quarter from $TSM, especially under the circumstances of the 2nm GM dilution."
         }
       ]
     }
