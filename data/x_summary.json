@@ -1,196 +1,163 @@
 {
-  "generated_at": "2026-07-23T00:05:52+00:00",
-  "tweet_count": 78,
-  "account_count": 20,
+  "generated_at": "2026-07-24T00:07:11+00:00",
+  "tweet_count": 80,
+  "account_count": 22,
   "themes": [
     {
-      "topic": "Google Raises FY26 Capex Guidance to $195B-$205B, Driven by Accelerating Cloud & Gemini AI Demand",
+      "topic": "Intel ($INTC) Q2 earnings beat and strong datacenter/foundry growth",
       "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "Google increased its FY26 capex guidance to $195B-$205B (from $180B-$190B) and expects significant increases in 2027, driven by accelerating Google Cloud revenue (up 82% YoY), 950M monthly Gemini users, and strong AI compute demand that exceeds supply. This signals robust, sustained investment in AI infrastructure.",
+      "subcategory": "cpu",
+      "summary": "Intel reported a strong Q2, exceeding revenue and EPS estimates driven by robust data center growth and improved foundry execution, leading to a significant stock surge and increased investments in equipment, clean room space, and substrates.",
       "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2080391027999769020",
+          "text": "$INTC (Bloomberg) -- (Adds shares.)\nIntel shares are soaring 11% in extended trading, after the chipmaker gave a third-quarter forecast that was much stronger than expected. \n•Read more: Intel Forecast Shatters Estimates on Data Center Growth (1)\n•Among other notable movers: AMD "
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2080386681828475156",
+          "text": "There is unprecedented demand for compute.\n\nVery good $INTC Q2 earnings, as expected: \n\n“Our Q2 results represent our strongest revenue growth in more than fifteen years.”\n\n- Revenues: $16.1B vs. $14.45B expected (beat by 12% and up 25% YoY) \n- EPS: $0.42 vs. $0.22 expected (beat"
+        }
+      ]
+    },
+    {
+      "topic": "Google's accelerating capex confirms AI buildout",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Google's recent earnings confirm accelerating capital expenditure, reinforcing the ongoing AI buildout and dismissing previous market narratives, with 2026 capex guidance raised to $195B-$205B and further increases expected in 2027.",
+      "mentions": [
+        {
+          "handle": "@TMT_Jack_",
+          "url": "https://x.com/TMT_Jack_/status/2080097857495863535",
+          "text": "GOOG’s print simply confirms what the data, checks and ground work have been indicating all along: capex is accelerating. All the narratives invented over the past month to explain the tape were just that -- narratives."
+        },
         {
           "handle": "@ParadisLabs",
           "url": "https://x.com/ParadisLabs/status/2080040488380559635",
           "text": "This Google earnings release makes all the fear in semis from the past month look hilariously stupid.\n\nThey will all print crazy earnings, from $LITE to $COHR to $SNDK to $NBIS.\n\n- Cloud revenue growth is accelerating\n- Gemini 950M MAUs vs. 750M in Q1\n- Raise 2026 capex guidance "
+        }
+      ]
+    },
+    {
+      "topic": "Nvidia 800V HVDC power architecture production delay",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "Nvidia's 800V HVDC power architecture adoption is delayed to 1Q27 for production, with Delta Electronics ramping from 2Q27, due to product design validation issues rather than a change in the technology roadmap.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2080426188485575026",
+          "text": "▶ Nvidia 800V HVDC to Enter Production in 1Q27; Delta Poised for 2Q Ramp-Up\n\n- SemiAnalysis has raised concerns over growth in the AI power supply chain, forecasting that the large-scale adoption of Nvidia’s 800V HVDC power architecture could be delayed from the previously expect"
+        }
+      ]
+    },
+    {
+      "topic": "Nvidia-Amkor $1.5B advanced packaging deal in Arizona",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "Nvidia signed a $1.5 billion agreement with Amkor Technology, including a prepayment, to bolster chip packaging and test facilities in Arizona, aiming to expand US semiconductor operations for AI and diversify the supply chain.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2080410890109886869",
+          "text": "$AMKR (Bloomberg) -- Nvidia Corp. signed a $1.5 billion agreement with Amkor Technology Inc. to help bolster the company’s chip packaging facilities, part of a broader push to expand semiconductor operations in the US. \nThe agreement, which involves a prepayment by Nvidia, will h"
+        }
+      ]
+    },
+    {
+      "topic": "Nokia ($NOK) strong Q2 AI/Optical growth and US capacity expansion",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Nokia reported strong Q2 AI & Cloud sales growth (105%) and optical growth (20%), with €2.8B in orders, and is expanding its US manufacturing footprint with a new InP facility in Arizona and packaging expansion in Pennsylvania.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2080360540967522607",
+          "text": "$NOK earnings were much stronger than the stock reaction suggests.\n\nBut to be fair, it's doing exactly what it did last earnings so far, just a bit lower in price. And macro is heavy. \n\n> Optical grew 20%.\n> IP grew 16%, finally showing that the design wins are converting.\n> AI &"
         },
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2080035852693000676",
-          "text": "$GOOG CAPEX INCREASE\n\n\"We are updating our full year 2026 CapEx guidance range to 195 to $205 billion, up from our previous estimate of 180 to $190 billion. The increase in the range is primarily due to an acceleration in the delivery of capacity to meet growing demand, as we pre"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2080031508656746874",
-          "text": "$GOOGL now has 950M monthly Gemini users and processes 22B API tokens/min. \n\nCompared to 750M back in February. \n\nAbsurd growth adding 200 million more users in a few months.  Kinda explains why they ran out of compute, then cut allocations to $META and others. \n\nVery unlikely AI"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2080028115695546720",
-          "text": "$GOOGL (Bloomberg) -- (Updates with additional details throughout.) \nAlphabet reported revenue ex-TAC for the second quarter that beat the average analyst estimate.\nSECOND QUARTER RESULTS\n•Revenue ex-TAC $103.62 billion, +27% y/y, estimate $101.07 billion (Bloomberg Consensus)\n•R"
+          "url": "https://x.com/KawzInvests/status/2080265707107783035",
+          "text": "$NOK sales to AI and cloud customers grew 105% year on year in Q2. Order intake reached 2.8 billion euros.\n\nManagement said supply remains the main industry constraint and that customers are placing longer term orders to lock capacity. About half of that intake converts to revenu"
         }
       ]
     },
     {
-      "topic": "AMD Invests $5B in Anthropic, Secures 2 GW MI450 GPU Deal",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "AMD announced a strategic partnership with Anthropic, including a $5 billion equity investment and a deal for Anthropic to purchase up to 2 gigawatts of AMD Instinct MI450 Series GPUs starting H1 2027. The collaboration also involves engineering efforts to optimize AI workloads and ROCm software development.",
+      "topic": "Rising oil prices and macro inflation/Fed dilemma",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Brent crude briefly topped $100, driving inflation expectations and rates higher, with the 10-year yield at 4.71% and the long bond at 5.19%, while low unemployment numbers indicate a hot economy, trapping the Fed between sticky inflation and a strong labor market.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2079947242455335379",
-          "text": "$AMD to invest $5B in Anthropic.\n\nAnthropic in turn will sign a 2 GW deal to buy AMD’s latest chips, worth tens of billions of dollars.\n\nLooks like they’re copying the $NVDA playbook with Anthropic last year. https://t.co/SXBUq65u6P"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2079931574410182694",
-          "text": "$AMD and Anthropic announced a strategic partnership to deploy up to 2 gigawatts of AMD Instinct MI450 Series GPUs, with the first gigawatt deployment beginning in H1 2027. Anthropic will use AMD Helios rack-scale solutions featuring MI455X GPUs, EPYC CPUs, and ROCm software to s"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2079908039939756322",
-          "text": "$AMD (Wall Street Journal) -- Advanced Micro Devices and Anthropic have signed a deal for tens of billions of dollars' worth of artificial-intelligence servers, strengthening AMD's competitive position against industry leader Nvidia and supplying Anthropic with much needed comput"
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2080282935299608636",
+          "text": "Brent briefly topped $100 a barrel this morning, up roughly 36% since July 7.\n\nInflation expectations and rates are rising sharply again. The 10-year is at 4.71%, the highest since January 2025, and the long bond is at 5.19%.\n\nTo make matters more complicated, only 187,000 people"
         }
       ]
     },
     {
-      "topic": "ServiceNow Defies AI Replacement Fears with Strong Q2 Growth, AI Monetization Still Early",
+      "topic": "MaxLinear ($MXL) Q2 earnings and accelerating 800G/1.6T optical ramp",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "ServiceNow reported strong Q2 results with accelerating subscription revenue growth and expanding operating margins, indicating robust demand and defying concerns about AI replacing its services. While AI features are driving discussions, actual adoption and monetization of \"Now Assist\" remain early, with some customers resisting higher pricing for AI features.",
+      "subcategory": "optical",
+      "summary": "MaxLinear reported strong Q2 earnings with significant infrastructure growth, an accelerating 800G optical ramp, and 1.6T products in customer hands, leading to raised 2026 optical data-center revenue guidance.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2080436799411753428",
+          "text": "Another amazing quarter $MXL \n\n> Q2 revenue hit $168.8M, up 55% YoY and 23% sequentially\n\n> Infrastructure grew 145% YoY and another 35% sequentially\n\n> Adjusted operating margin expanded to 22.3% from 15.9% last quarter\n\n> Q3 revenue guide came in at $210M–$220M, implying anothe"
+        }
+      ]
+    },
+    {
+      "topic": "LPKF Laser ($LPK) glass substrate ramp and 2030 TAM increase",
+      "category": "sectors",
+      "subcategory": "glass",
+      "summary": "LPKF Laser's H1 financials were weak, but the company is focused on a H2 2026 volume ramp for 2027-28 glass core substrate production, tripling its 2030 TAM estimates to $1.7B driven by AI/HPC, with the broader ecosystem corroborating the 2027 timeline.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080028009801650302",
-          "text": "Holy...\n\n$NOW had 123 transactions with an average contract value of over $1 million.\n\nThat's a 40% increase YoY.\n\nI thought AI was meant to be replacing ServiceNow?!"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2079960010369454479",
-          "text": "Interesting Reddit thread on $NOW pointed out by JPM today from a few weeks ago.\n\nDo you mean to tell me that not all customers want to be forced to pay up to 2x more for AI features they didn’t ask for? https://t.co/acd75MyolS"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2079189588057502086",
-          "text": "Preview| $NOW  2Q26: New Pricing Pull-Forward Tailwind Drives the Beat, AI Still Lukewarm\n\nWe surveyed 3 top ServiceNow channel experts this quarter. Feedback points to a broad-based sequential acceleration in 2Q26, driven by 1Q’s delayed orders landing in 2Q, recovering US Feder"
+          "url": "https://x.com/ParadisLabs/status/2080300126359224541",
+          "text": "Just some thoughts on LPKF Laser / $LPK / $LPKFF earnings:\n\nIf you just look at H1 financials, it's pretty ugly:\n- Revenue fell 38.3% to €36.5M\n- Adjusted EBIT swung to -€10.4M\n- FCF at -€11.5M\n- Cash fell to €4.0m from €10.0m at end-2025\n\nBut it's a little more nuanced than just"
         }
       ]
     },
     {
-      "topic": "Open-Source AI's Impact on Memory Demand & Tiering",
+      "topic": "Intel Foundry CapEx ramp and process node timelines",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Discussion suggests open-source AI models could multiply global memory demand, as distributed deployments and large KV caches for long-context tasks require replicated HBM pools and memory tiering across HBM, DRAM, and NAND, rather than concentrating demand in a few datacenters.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2079831926698078460",
-          "text": "BofA’s Vivek Arya made an excellent point, which I’d like to share.\n\nIs open-source AI bearish for memory?\n\nClosed models amortize global demand across shared HBM pools concentrated in a handful of data centers, whereas open models create a new memory footprint with every deploym"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2079228809417781267",
-          "text": "I agree with your core point: from the perspective of the active decode path for a single sequence, Kimi's hybrid linear attention significantly reduces KV fetch overhead. Roughly 75% of the layers maintain only a fixed-size recurrent state, shifting the critical bottleneck towar"
-        }
-      ]
-    },
-    {
-      "topic": "Nanya Technology's New EUV Fab and Advanced Memory Development",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Nanya Technology is set to open a new NT$500 billion Taishan fab using EUV lithography, while also developing custom AI Ultra-Wide-I/O memory chips for Edge AI and Wafer-on-Wafer (WoW) production technology.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2079737452189880407",
-          "text": "Nanya Technology, Taiwan’s top memory chip maker, said its new NT$500 billion (US$15.5B) Taishan fab will open early next year and help it close the gap with bigger memory chip makers, media report, adding it will be the 1st Nanya fab to use EUV lithography.\n\nNanya is also develo"
-        }
-      ]
-    },
-    {
-      "topic": "Datacenter Power Demand: OpenAI to Provide Flexible Demand to Georgia",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "OpenAI is set to provide up to 1,000 MW of flexible power demand to Georgia, indicating the massive energy requirements of its AI operations and potential grid integration strategies.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2079931133488185419",
-          "text": "*OPENAI TO PROVIDE UP TO 1,000 MW OF FLEXIBLE DEMAND TO GEORGIA https://t.co/TGLUuBQVcC"
-        }
-      ]
-    },
-    {
-      "topic": "Datacenter Power Demand: GE Vernova Secures Over $5B in Datacenter Electrification Orders",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "GE Vernova reported strong electrification revenue and over $5 billion in data center orders year-to-date, more than double its 2025 total, highlighting surging demand for power infrastructure to support data center expansion.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2079902411703935011",
-          "text": "$GEV  (Bloomberg) -- (Adds share moves, wind Ebitda loss.)\n\nGE Vernova shares are down 5.6% premarket, with a higher full-year revenue outlook falling flat with investors after a rally that had pushed the shares up 65% this year through Tuesday. The company is still facing weakne"
-        }
-      ]
-    },
-    {
-      "topic": "Datacenter Power Demand: SpaceX Building Large-Scale Data Center in Texas",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "SpaceX is reportedly laying groundwork to build at least one new large-scale data center in Texas, signaling its expansion into significant AI infrastructure.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2079919594756874424",
-          "text": "The Information: SpaceXAI is laying the groundwork to build at least one new large-scale data center in Texas. https://t.co/EBEaGBVi7p"
-        }
-      ]
-    },
-    {
-      "topic": "US Investigates Moonshot for Accessing Restricted Nvidia Chips and Distilling Anthropic Model",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "The U.S. Commerce Department is investigating Moonshot for allegedly accessing restricted Nvidia chips and distilling Anthropic's Fable model to train Kimi K3, potentially leading to Moonshot's addition to the Entity List and restricting access to U.S. technology.",
+      "subcategory": "foundry",
+      "summary": "Intel is significantly increasing tooling investment for its foundry, focusing on Intel 3, 18A, and 18A-P, with 14A risk production planned for H2 2027 and volume production committed for 2028, and expects 2027 CapEx to increase.",
       "mentions": [
         {
           "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2080062993153642544",
-          "text": "The U.S. Commerce Department is investigating whether Moonshot accessed restricted $NVDA chips and distilled Anthropic’s Fable model to train Kimi K3.\n\nOfficials are considering adding Moonshot to the Entity List, but the probe is preliminary and no violation has been established"
+          "url": "https://x.com/wallstengine/status/2080411087762235823",
+          "text": "$INTC ON ITS FOUNDRY AND CAPEX RAMP:\n\n“Tooling investment will increase by 40% in 2026 compared with 2025, focused on Intel 3, 18A, and 18A-P.\n\n“14A PDK 0.9 remains on track for October, risk production is planned for the second half of 2027, and volume production is committed fo"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2080420787295846428",
+          "text": "Wall Street needs to own up to all the bullshit it was spewing about 14A entering high-volume production in 2029…"
         }
       ]
     },
     {
-      "topic": "3M's Expanded Beam Optical Connectivity Certified by Microsoft",
+      "topic": "Global semiconductor fab construction boom for AI",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "3M developed expanded beam optical connectivity technology, certified by Microsoft for Azure data centers, which accelerates fiber-optic network deployment for hyperscalers amid the AI boom. This technology is projected to generate $40-50M in 2024 revenue, potentially scaling to $200-250M.",
+      "subcategory": "foundry",
+      "summary": "SEMI Taiwan President Terry Tsao forecasts 89 semiconductor wafer fab construction projects between 2026-2030 and an additional 50 fabs between 2030-2035 to meet global AI demand.",
       "mentions": [
         {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2079933162948264240",
-          "text": "3M ($MMM), famous for Post-it notes, is in discussions with Microsoft ($MSFT) regarding optical connectivity technology!\n\namazing\n\n3M has developed expanded beam optical connectivity technology that accelerates fiber-optic network deployment for hyperscalers amid the AI boom, red"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2080091428588581107",
+          "text": "89 semiconductor wafer fab construction projects are in “concrete” planning stages and expected to be built between 2026 – 2030 to meet demand for the global AI build-out, and an additional 50 fabs could be built between 2030 – 2035 as chip demand broadens, said SEMI Taiwan Presi"
         }
       ]
     },
     {
-      "topic": "Soitec's Photonics-SOI Sales Growth & Capacity Expansion",
+      "topic": "Credo ($CRDO) strong operating model and optical growth",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "Soitec reported strong Q1 FY27 revenue, with Photonics-SOI sales nearly doubling year-over-year, and expects FY27 Photonics-SOI revenue to more than double. The company has qualified Singapore for high-volume production and secured multi-year capacity commitments.",
-      "mentions": [
-        {
-          "handle": "@Blinklebloop",
-          "url": "https://x.com/Blinklebloop/status/2080049283131158767",
-          "text": "Soitec ($SOI) Q1 FY27 revenue was €113m, up 23% organically.\n\nPhotonics-SOI sales ~+100% YoY on volume.\n\nQ2 revenue is guided to grow more than 30% YoY.\n\nFY27 Photonics-SOI revenue is now expected to more than double from the slightly-above-$100m FY26 base.\n\nSingapore is now qual"
-        }
-      ]
-    },
-    {
-      "topic": "Credo (CRDO) Growth in AECs and Optical Portfolio",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Credo is seeing significant growth in active electrical cables (AECs) and its optical portfolio, which includes DSPs, silicon photonics, and complete modules, with management expecting over $500M from optics in FY27. The company maintains strong operating margins despite revenue nearly doubling.",
+      "summary": "Credo ($CRDO) exhibits a strong operating model with broad exposure across AECs, retimers, and optical solutions, with optics expected to generate over $500M in fiscal 2027, maintaining high gross and operating margins.",
       "mentions": [
         {
           "handle": "@crux_capital_",
@@ -200,28 +167,46 @@
       ]
     },
     {
-      "topic": "Potential Bottleneck in CW Laser Supply for Photonics",
+      "topic": "AAOI's InP manufacturing capacity and substrate sourcing",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "A potential bottleneck is emerging in the supply of Continuous Wave (CW) lasers, crucial for photonics, due to increasing demand from multiple architectures ramping simultaneously in 2027/2028. This could impact key optical component suppliers.",
+      "summary": "The bear case for AAOI centers on its ability to execute InP manufacturing, source substrates, and meet demand, with industry checks suggesting the company is managing its substrate visibility and capacity ramp well without needing to outsource.",
       "mentions": [
         {
           "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2079709003660370153",
-          "text": "There might be a shift in the Photonics bottleneck...\n$LITE $COHR $AAOI $SIVE $MTSI\n\nI recently read a report by Citi that discussed the gap that is going to continue to grow with supply and demand for CW lasers\n\nYou have multiple architectures ramping at the same time that pull "
+          "url": "https://x.com/crux_capital_/status/2080010398380720393",
+          "text": "Execution is, and always has been, the bear case $AAOI\n\n> Can they source enough tools to expand their InP manufacturing capacity?\n> Can they source enough substrates?\n> Can they be responsible with their capital and put it to good use?\n> Is their laser quality good enough and ca"
         }
       ]
     },
     {
-      "topic": "Sivers Semiconductors (SIVE) Insider Buys Amid Drawdown",
+      "topic": "CW lasers as a bottleneck in AI optics and Sivers' ($SIVE) positioning",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "Sivers Semiconductors (SIVE) saw significant insider buying from its board and CEO, with purchases made before lock-up expiry, indicating strong confidence in the company's prospects despite a recent stock drawdown.",
+      "summary": "CW lasers are identified as a potential bottleneck in AI optics, with Sivers ($SIVE) positioned for opportunities in higher-power, multi-wavelength, and optical I/O through partnerships like Jabil and Ayar Labs for 1.6T pluggables.",
       "mentions": [
         {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2079158623133929604",
-          "text": "$SIVE, insider buys worth noting amid the drawdown:\n\n> Board (5 directors) bought c.SEK 500k each on 9 July, 12-month mandatory hold\n> CEO added c.SEK 950k on top, at c.SEK 40/share\n\nAll executed before their lock-up expired (16th July)... key point being that they chose to buy a"
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2080154698758365277",
+          "text": "Gaetano’s latest report examines CW lasers as a potential next bottleneck in AI optics. The key point is that simply adding more CW laser capacity may not solve the shortage, because standard pluggable lasers, 300–400mW external light sources, multi-wavelength arrays, and fully i"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2080122405192929553",
+          "text": "If you care about $SIVE / $SIVEF please read...\n\nAside from the valuation my biggest concern was around the timing in which they would ramp and what the competitive landscape would look like at that time.\n\nI was fairly hesitant on their positioning in CPO. \n\nBut I have recently c"
+        }
+      ]
+    },
+    {
+      "topic": "UMC and TSMC expanding Silicon Photonics (SiPh) production",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "UMC has begun mass production of Silicon Photonics (SiPh) and is expanding to 300mm production, paralleling TSMC's separate 300mm expansion in the same technology.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2080175462538719409",
+          "text": "SiPh Mass Production\n\n$UMC has commenced mass production of SiPh and is expanding to 300mm production, alongside $TSEM’s separate 300mm expansion."
         }
       ]
     }
