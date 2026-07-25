@@ -1,212 +1,267 @@
 {
-  "generated_at": "2026-07-24T00:07:11+00:00",
-  "tweet_count": 80,
+  "generated_at": "2026-07-25T00:11:33+00:00",
+  "tweet_count": 79,
   "account_count": 22,
   "themes": [
     {
-      "topic": "Intel ($INTC) Q2 earnings beat and strong datacenter/foundry growth",
-      "category": "sectors",
-      "subcategory": "cpu",
-      "summary": "Intel reported a strong Q2, exceeding revenue and EPS estimates driven by robust data center growth and improved foundry execution, leading to a significant stock surge and increased investments in equipment, clean room space, and substrates.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2080391027999769020",
-          "text": "$INTC (Bloomberg) -- (Adds shares.)\nIntel shares are soaring 11% in extended trading, after the chipmaker gave a third-quarter forecast that was much stronger than expected. \n•Read more: Intel Forecast Shatters Estimates on Data Center Growth (1)\n•Among other notable movers: AMD "
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080386681828475156",
-          "text": "There is unprecedented demand for compute.\n\nVery good $INTC Q2 earnings, as expected: \n\n“Our Q2 results represent our strongest revenue growth in more than fifteen years.”\n\n- Revenues: $16.1B vs. $14.45B expected (beat by 12% and up 25% YoY) \n- EPS: $0.42 vs. $0.22 expected (beat"
-        }
-      ]
-    },
-    {
-      "topic": "Google's accelerating capex confirms AI buildout",
+      "topic": "Jensen Huang's First X Post on Open Weight Models",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Google's recent earnings confirm accelerating capital expenditure, reinforcing the ongoing AI buildout and dismissing previous market narratives, with 2026 capex guidance raised to $195B-$205B and further increases expected in 2027.",
+      "summary": "NVIDIA CEO Jensen Huang's first post on X discusses open-weight AI models, signaling a major paradigm shift in the AI model era and potential reshaping of the hardware supply chain.",
       "mentions": [
         {
-          "handle": "@TMT_Jack_",
-          "url": "https://x.com/TMT_Jack_/status/2080097857495863535",
-          "text": "GOOG’s print simply confirms what the data, checks and ground work have been indicating all along: capex is accelerating. All the narratives invented over the past month to explain the tape were just that -- narratives."
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2080790158157500658",
+          "text": "@JensenHuang's  first post on X was also about open weight models. Why did he choose this letter for his very first post? Because the AI model era is entering a major paradigm shift, and the hardware supply chain will be reshaped along with it.\n\nMy latest article analyzes open mo"
         },
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080040488380559635",
-          "text": "This Google earnings release makes all the fear in semis from the past month look hilariously stupid.\n\nThey will all print crazy earnings, from $LITE to $COHR to $SNDK to $NBIS.\n\n- Cloud revenue growth is accelerating\n- Gemini 950M MAUs vs. 750M in Q1\n- Raise 2026 capex guidance "
-        }
-      ]
-    },
-    {
-      "topic": "Nvidia 800V HVDC power architecture production delay",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "Nvidia's 800V HVDC power architecture adoption is delayed to 1Q27 for production, with Delta Electronics ramping from 2Q27, due to product design validation issues rather than a change in the technology roadmap.",
-      "mentions": [
+          "url": "https://x.com/ParadisLabs/status/2080694259636707836",
+          "text": "Why was Jensen's letter on open models not endorsed by Anthropic or OpenAI?\n\nIt's pretty clear by now that both OAI &amp; Anthropic care more about their business models and valuations above all else... https://t.co/jkPPZGcjXX"
+        },
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2080426188485575026",
-          "text": "▶ Nvidia 800V HVDC to Enter Production in 1Q27; Delta Poised for 2Q Ramp-Up\n\n- SemiAnalysis has raised concerns over growth in the AI power supply chain, forecasting that the large-scale adoption of Nvidia’s 800V HVDC power architecture could be delayed from the previously expect"
-        }
-      ]
-    },
-    {
-      "topic": "Nvidia-Amkor $1.5B advanced packaging deal in Arizona",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "Nvidia signed a $1.5 billion agreement with Amkor Technology, including a prepayment, to bolster chip packaging and test facilities in Arizona, aiming to expand US semiconductor operations for AI and diversify the supply chain.",
-      "mentions": [
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2080691975918125295",
+          "text": "HUH????\nWhere is the endorsement? https://t.co/2BEHz5ymGq"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2080689966045348047",
+          "text": "Jensen from $NVDA has joined X for the first time to share his letter on open models."
+        },
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2080410890109886869",
-          "text": "$AMKR (Bloomberg) -- Nvidia Corp. signed a $1.5 billion agreement with Amkor Technology Inc. to help bolster the company’s chip packaging facilities, part of a broader push to expand semiconductor operations in the US. \nThe agreement, which involves a prepayment by Nvidia, will h"
-        }
-      ]
-    },
-    {
-      "topic": "Nokia ($NOK) strong Q2 AI/Optical growth and US capacity expansion",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Nokia reported strong Q2 AI & Cloud sales growth (105%) and optical growth (20%), with €2.8B in orders, and is expanding its US manufacturing footprint with a new InP facility in Arizona and packaging expansion in Pennsylvania.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2080360540967522607",
-          "text": "$NOK earnings were much stronger than the stock reaction suggests.\n\nBut to be fair, it's doing exactly what it did last earnings so far, just a bit lower in price. And macro is heavy. \n\n> Optical grew 20%.\n> IP grew 16%, finally showing that the design wins are converting.\n> AI &"
+          "url": "https://x.com/TheValueist/status/2080656408048214292",
+          "text": "The man @JensenHuang doing whatever he possibly can to get the $NVDA stock price moving up again."
         },
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2080265707107783035",
-          "text": "$NOK sales to AI and cloud customers grew 105% year on year in Q2. Order intake reached 2.8 billion euros.\n\nManagement said supply remains the main industry constraint and that customers are placing longer term orders to lock capacity. About half of that intake converts to revenu"
+          "url": "https://x.com/KawzInvests/status/2080651763674190224",
+          "text": "THE SEMICONDUCTOR MESSIAH HAS SPOKEN $NVDA https://t.co/Iw9T6DkaxA"
+        },
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2080649233539936575",
+          "text": "Awesome to have Jensen on X!"
         }
       ]
     },
     {
-      "topic": "Rising oil prices and macro inflation/Fed dilemma",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Brent crude briefly topped $100, driving inflation expectations and rates higher, with the 10-year yield at 4.71% and the long bond at 5.19%, while low unemployment numbers indicate a hot economy, trapping the Fed between sticky inflation and a strong labor market.",
+      "topic": "New AI Model Performance Frontier (Grok 4.5, Opus 5)",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Grok 4.5 and Claude Opus 5 are identified as setting a new Pareto Frontier for AI model performance, with 'intelligence per $' becoming the key metric, surpassing previous models like Fable 5.",
       "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2080790544847106335",
+          "text": "What are your initial impressions of Opus 5? Do you think it’s better than GPT‑5.6 Sol?"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2080759547753361804",
+          "text": "Grok 4.5 is excellent for real-world work"
+        },
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2080711105349906786",
+          "text": "New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5.\n\nIntelligence per $ will be the only metric that matters over time.\n\nK3 probably joins the frontier once available on the inference clouds. https://t.co/jdMFn2Vya8"
+        },
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2080282935299608636",
-          "text": "Brent briefly topped $100 a barrel this morning, up roughly 36% since July 7.\n\nInflation expectations and rates are rising sharply again. The 10-year is at 4.71%, the highest since January 2025, and the long bond is at 5.19%.\n\nTo make matters more complicated, only 187,000 people"
+          "url": "https://x.com/KawzInvests/status/2080705313192161324",
+          "text": "Claude Opus 5 is live. Five dollars per million input tokens, half of Fable 5, and it beats Fable 5 on coding and knowledge work.\n\nTold you guys. Off by one day. 😆 https://t.co/ncbuF6oRdl"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2080703920150892677",
+          "text": "Nah, Fable 5.1 probably drops after GPT-6\nSo late August or early to mid-September"
         }
       ]
     },
     {
-      "topic": "MaxLinear ($MXL) Q2 earnings and accelerating 800G/1.6T optical ramp",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "MaxLinear reported strong Q2 earnings with significant infrastructure growth, an accelerating 800G optical ramp, and 1.6T products in customer hands, leading to raised 2026 optical data-center revenue guidance.",
+      "topic": "Morgan Stanley on SpaceX AI Valuation",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Morgan Stanley analyst Adam Jonas suggests that SpaceX stock near $100 implies zero or negative value for its AI business (Grok, Cursor) due to high capex, uncertain economics, and demands on management time.",
       "mentions": [
         {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2080436799411753428",
-          "text": "Another amazing quarter $MXL \n\n> Q2 revenue hit $168.8M, up 55% YoY and 23% sequentially\n\n> Infrastructure grew 145% YoY and another 35% sequentially\n\n> Adjusted operating margin expanded to 22.3% from 15.9% last quarter\n\n> Q3 revenue guide came in at $210M–$220M, implying anothe"
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2080762853309751667",
+          "text": "SpaceX Stock Near $100 Signals No AI Value, Morgan Stanley Says - Bloomberg https://t.co/D7bP3X10V3"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2080737588072108332",
+          "text": "Elon’s net worth has dropped by a cool $650B since SpaceX peaked on June 16 https://t.co/aoZJkp4zgs"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2080724868694442327",
+          "text": "Morgan Stanley Adam Jonas says SpaceX $SPCX at $100 would imply zero or negative value for its AI business. He says investors heavily discount Grok and Cursor because of high capex, uncertain economics and demands on management time. https://t.co/LYkrQVhEUt"
+        },
+        {
+          "handle": "@Blinklebloop",
+          "url": "https://x.com/Blinklebloop/status/2080666104075018610",
+          "text": "SpaceX at ~$1.52tn needs ~$169bn revenue to justify 30x earnings at a heroic 30% margin.\n\nThat equals:\n• 11 Earths, each recreating today’s entire launch market\n• 2,280 Falcon 9 launches a year-one every 3h50m\n• $21 a year from every human alive"
         }
       ]
     },
     {
-      "topic": "LPKF Laser ($LPK) glass substrate ramp and 2030 TAM increase",
-      "category": "sectors",
-      "subcategory": "glass",
-      "summary": "LPKF Laser's H1 financials were weak, but the company is focused on a H2 2026 volume ramp for 2027-28 glass core substrate production, tripling its 2030 TAM estimates to $1.7B driven by AI/HPC, with the broader ecosystem corroborating the 2027 timeline.",
+      "topic": "Waymo Exploring Split from Uber Partnership",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "Waymo is reportedly exploring options to exit its robotaxi partnership with Uber due to clashes over service quality, safety, and regulation, potentially pressuring Uber's autonomous-driving strategy.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2080750537121874206",
+          "text": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that $NBIS Avride, other neutral players, or"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2080735221390127144",
+          "text": "WAYMO EXPLORES OPTIONS TO EXIT PARTNERSHIP WITH $UBER: FT\n\nWaymo has held internal talks about ending its robotaxi deals with Uber as the companies clash over service quality, safety and robotaxi regulation.\n\nWaymo vehicles in Austin and Atlanta are currently available only throu"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2080734586787545393",
+          "text": "*WAYMO EXPLORES OPTIONS TO EXIT PARTNERSHIP WITH UBER: FT\n\nBound to happen eventually - $UBER https://t.co/FbDbbgm5q2"
+        }
+      ]
+    },
+    {
+      "topic": "Macro Uncertainty Driving Semiconductor Equities",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Macroeconomic uncertainty, including US/Iran tensions, inflation, Fed decisions, and rising oil prices, is causing institutional investors to be cautious and driving semiconductor equities lower, irrespective of individual fundamentals.",
       "mentions": [
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080300126359224541",
-          "text": "Just some thoughts on LPKF Laser / $LPK / $LPKFF earnings:\n\nIf you just look at H1 financials, it's pretty ugly:\n- Revenue fell 38.3% to €36.5M\n- Adjusted EBIT swung to -€10.4M\n- FCF at -€11.5M\n- Cash fell to €4.0m from €10.0m at end-2025\n\nBut it's a little more nuanced than just"
-        }
-      ]
-    },
-    {
-      "topic": "Intel Foundry CapEx ramp and process node timelines",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Intel is significantly increasing tooling investment for its foundry, focusing on Intel 3, 18A, and 18A-P, with 14A risk production planned for H2 2027 and volume production committed for 2028, and expects 2027 CapEx to increase.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2080411087762235823",
-          "text": "$INTC ON ITS FOUNDRY AND CAPEX RAMP:\n\n“Tooling investment will increase by 40% in 2026 compared with 2025, focused on Intel 3, 18A, and 18A-P.\n\n“14A PDK 0.9 remains on track for October, risk production is planned for the second half of 2027, and volume production is committed fo"
+          "url": "https://x.com/ParadisLabs/status/2080744738635006377",
+          "text": "If you're curious about my personal strategy right now:\n\nI'm currently doing nothing apart from sitting on, and accumulating cash.\n\nI would much rather average up into my core positions instead of attempting to call the market bottom, with the awareness that we're back in a risk-"
         },
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2080420787295846428",
-          "text": "Wall Street needs to own up to all the bullshit it was spewing about 14A entering high-volume production in 2029…"
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2080674950579675468",
+          "text": "$GS Are Hedge Funds Still Bullish on AI Stocks? https://t.co/hss9IEZQKk via @YouTube\n\nThis video features a discussion between Chris Hussey and Vincent Lin (co-head of Prime Insights and Analytics at Goldman Sachs) regarding the recent volatility in tech stocks and the outlook fo"
         }
       ]
     },
     {
-      "topic": "Global semiconductor fab construction boom for AI",
+      "topic": "TSMC 3nm Process Fully Loaded with Qualcomm & Tesla Orders",
       "category": "sectors",
       "subcategory": "foundry",
-      "summary": "SEMI Taiwan President Terry Tsao forecasts 89 semiconductor wafer fab construction projects between 2026-2030 and an additional 50 fabs between 2030-2035 to meet global AI demand.",
+      "summary": "TSMC's 3nm process is fully loaded with orders, including Qualcomm's Snapdragon 8 Elite Gen 5 for Samsung Galaxy and Tesla's AI5 chip for Optimus/cars, providing visibility through 2027.",
       "mentions": [
         {
           "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2080091428588581107",
-          "text": "89 semiconductor wafer fab construction projects are in “concrete” planning stages and expected to be built between 2026 – 2030 to meet demand for the global AI build-out, and an additional 50 fabs could be built between 2030 – 2035 as chip demand broadens, said SEMI Taiwan Presi"
+          "url": "https://x.com/dnystedt/status/2080449510866866313",
+          "text": "TSMC’s 3nm process enjoys visibility through 2027 as the chip foundry wins more orders, media report, noting 3nm remains fully loaded now:\n-Qualcomm: Snapdragon 8 Elite Gen 5 for Samsung Galaxy (foldable) on TSMC N3P\n-Tesla: AI5 chip optimized for Optimus/cars in mass production "
         }
       ]
     },
     {
-      "topic": "Credo ($CRDO) strong operating model and optical growth",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Credo ($CRDO) exhibits a strong operating model with broad exposure across AECs, retimers, and optical solutions, with optics expected to generate over $500M in fiscal 2027, maintaining high gross and operating margins.",
+      "topic": "Trump on US-Iran Tensions",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "Former President Trump states that no decision has been made on major strikes on Iran, with ongoing talks, but emphasizes readiness for action and the option to negotiate or take them apart.",
       "mentions": [
         {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2079960017659375995",
-          "text": "Now the copper king, $CRDO\n\nMarket cap: ~$42.1B\nNext-quarter guide: ~$470M (+7.6% QoQ, +110.7% YoY)\nMy next- 4q estimate: $2.45–2.60B, 84–95% growth\nMy exit margins: 67–69% adjusted gross, 50–53% adjusted operating\n\nCredo has one of the strongest operating models in the group alo"
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2080738984259624987",
+          "text": "TRUMP ON IRAN: \n\nHAVEN'T MADE DECISION ON MAJOR STRIKES ON IRAN\n\nTALKING TO THEM NOW\n\nTHINK THEY'RE GETTING MORE SERIOUS AS DAYS GO BY\n\nWE'RE LOCKED AND LOADED AND READY TO GO"
         }
       ]
     },
     {
-      "topic": "AAOI's InP manufacturing capacity and substrate sourcing",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "The bear case for AAOI centers on its ability to execute InP manufacturing, source substrates, and meet demand, with industry checks suggesting the company is managing its substrate visibility and capacity ramp well without needing to outsource.",
+      "topic": "SpaceX Starship Flight Success",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Elon Musk confirms that the Starship is intact, floating in the ocean, and transmitting telemetry after its flight.",
       "mentions": [
         {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2080010398380720393",
-          "text": "Execution is, and always has been, the bear case $AAOI\n\n> Can they source enough tools to expand their InP manufacturing capacity?\n> Can they source enough substrates?\n> Can they be responsible with their capital and put it to good use?\n> Is their laser quality good enough and ca"
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2080807557992443969",
+          "text": "Starship is intact, floating in the ocean and transmitting telemetry! https://t.co/hLVXJqkHSA"
         }
       ]
     },
     {
-      "topic": "CW lasers as a bottleneck in AI optics and Sivers' ($SIVE) positioning",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "CW lasers are identified as a potential bottleneck in AI optics, with Sivers ($SIVE) positioned for opportunities in higher-power, multi-wavelength, and optical I/O through partnerships like Jabil and Ayar Labs for 1.6T pluggables.",
+      "topic": "Starlink V3 Satellite Deployment",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Elon Musk confirms the deployment of Starlink V3 satellites to test their operation in space.",
       "mentions": [
         {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2080154698758365277",
-          "text": "Gaetano’s latest report examines CW lasers as a potential next bottleneck in AI optics. The key point is that simply adding more CW laser capacity may not solve the shortage, because standard pluggable lasers, 300–400mW external light sources, multi-wavelength arrays, and fully i"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2080122405192929553",
-          "text": "If you care about $SIVE / $SIVEF please read...\n\nAside from the valuation my biggest concern was around the timing in which they would ramp and what the competitive landscape would look like at that time.\n\nI was fairly hesitant on their positioning in CPO. \n\nBut I have recently c"
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2080797733611286686",
+          "text": "Starlink V3 satellites deployed to test how they operate in space"
         }
       ]
     },
     {
-      "topic": "UMC and TSMC expanding Silicon Photonics (SiPh) production",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "UMC has begun mass production of Silicon Photonics (SiPh) and is expanding to 300mm production, paralleling TSMC's separate 300mm expansion in the same technology.",
+      "topic": "LightPath Technologies Divests Chinese Subsidiary",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "LightPath Technologies is selling its Chinese subsidiary for $4.5 million, signaling a strategic shift towards U.S. and Western defense markets and a secure, NDAA-compliant supply chain.",
       "mentions": [
         {
           "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2080175462538719409",
-          "text": "SiPh Mass Production\n\n$UMC has commenced mass production of SiPh and is expanding to 300mm production, alongside $TSEM’s separate 300mm expansion."
+          "url": "https://x.com/PhotonCap/status/2080709124799775136",
+          "text": "--> This divestiture signals LightPath’s strategic shift toward the U.S. and Western defense markets, with a stronger focus on secure, NDAA-compliant supply chains.\n\nI already covered it here:\nhttps://t.co/4wQgNSlQgG\n\nNews: \n\nLightPath Technologies $LPTH has signed a definitive a"
+        }
+      ]
+    },
+    {
+      "topic": "Soitec Q1 Revenue Beat Driven by Photonics-SOI for AI Datacenters",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Soitec's Q1 revenue beat and strong Q2 guidance were driven by doubled Photonics-SOI sales for AI datacenters, with its engineered wafers essential for 800G+ interconnect speeds and CPO, leading to a Morgan Stanley Top Pick rating.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2080702990021726373",
+          "text": "Soitec shares surged 22% after Q1 revenue beat Wall Street estimates by €6 million. Q2 guidance came in at 30%+ growth against a street consensus of 4%.\n\nSoitec makes the engineered wafer that photonics chips get built on. Per BofA, Soitec says that wafer is now in every new AI d"
+        }
+      ]
+    },
+    {
+      "topic": "Samsung & SK Hynix Large-Scale Memory Contracts with US Tech",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Samsung and SK Hynix are anticipated to announce 'very large-scale' memory contracts with leading U.S. technology companies during President Lee Jae-myung's visit to Silicon Valley.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2080618741101191377",
+          "text": "Kim Yong-beom, the presidential chief of staff for policy, said Samsung and SK hynix are expected to announce “very large-scale” contracts with leading U.S. technology companies during President Lee Jae-myung’s visit to Silicon Valley. https://t.co/sYe2HX6RSd"
+        }
+      ]
+    },
+    {
+      "topic": "IQE Potential Workaround for China-AXT Export Restrictions",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "IQE is exploring a potential workaround for China's export permit issues affecting AXT, by sourcing substrates in Europe and performing epitaxy for US customers, potentially becoming a 'choke point' if successful at volume.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2080595847448830348",
+          "text": "One bit that is really interesting to me $IQE\n\nIs their potential work around for China's permit issues with $AXTI\n\nI don't have 100% clarity on this, but it makes sense to me and from the industry checks I have seen, it is possible to a certain extent\n\nBut basically AXT has a ve"
+        }
+      ]
+    },
+    {
+      "topic": "Doubling Semiconductor Equipment Delivery Times",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "Lead times for major semiconductor manufacturing equipment have doubled due to simultaneous global fab investments and surging orders, putting pressure on chipmakers like Samsung and SK Hynix to place orders earlier to avoid delays in fab operations.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2080582653284344223",
+          "text": "Semiconductor Equipment Delivery Times Double, Putting Chipmakers Under Pressure\n\nLead times for major semiconductor manufacturing equipment have recently increased by as much as twofold. The surge is being driven by simultaneous fab investments by global chipmakers, which have c"
         }
       ]
     }
