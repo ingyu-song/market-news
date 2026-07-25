@@ -1,19 +1,25 @@
 {
-  "generated_at": "2026-07-25T22:51:02+00:00",
+  "generated_at": "2026-07-25T23:55:49+00:00",
   "mode": "daily",
   "for_date": "2026-07-25",
-  "headline": "AI Chip Partnerships Surge, Oil Prices Drive Fed Rate Hike Concerns Amid Tariff Threats",
-  "summary": "AI chip sector sees significant developments with new partnerships and capacity constraints. Oil price surges are increasing the probability of Fed rate hikes, while Trump's renewed tariff threats continue to shape geopolitical and trade landscapes. Earnings reports show mixed results across industries.",
+  "headline": "US Semis Drive AI Gains Amid SK Hynix-Nvidia Deal; Trump Renews Tariff Threats",
+  "summary": "AI chip sector sees significant activity with SK Hynix and Nvidia deepening HBM co-development. Geopolitical tensions remain elevated as Trump signals renewed tariff onslaught and addresses US-China tech competition. Macroeconomic factors and corporate earnings also drew investor attention.",
   "sections": [
     {
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Nvidia and SK Hynix forge a long-term HBM co-development deal.",
+          "lead": "SK Hynix and Nvidia forge deeper HBM co-development.",
           "segments": [
             {
-              "text": "Nvidia and SK Hynix have entered a long-term agreement to co-develop next-generation High Bandwidth Memory (HBM) solutions, solidifying a significant partnership in the AI chip ecosystem.",
+              "text": "The companies are striking a long-term deal to co-develop next-generation HBM, signaling a $500 billion AI partnership.",
               "sources": [
+                {
+                  "title": "SK, 엔비디아와 ‘700조’ AI 협력…MS·앤트로픽도 참여",
+                  "link": "https://www.asiatime.co.kr/article/20260726500006",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                },
                 {
                   "title": "SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM",
                   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5",
@@ -32,27 +38,10 @@
           ]
         },
         {
-          "lead": "Samsung Electronics secures a major AI chip partnership with Broadcom.",
+          "lead": "TSMC's 3nm process is fully loaded with orders.",
           "segments": [
             {
-              "text": "Samsung Electronics has reportedly won a $200 billion AI chip partnership with Broadcom, significantly boosting its foundry business push.",
-              "sources": [
-                {
-                  "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
-                  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "TSMC's 3nm process is fully booked with key orders.",
-          "segments": [
-            {
-              "text": "TSMC's 3nm process is operating at full capacity, driven by orders including Qualcomm's Snapdragon 8 Elite Gen 5 for Samsung Galaxy and Tesla's AI5 chip, providing strong visibility for future production.",
+              "text": "Qualcomm's Snapdragon 8 Elite Gen 5 for Samsung Galaxy and Tesla's AI5 chip for Optimus/cars are fully loading TSMC's 3nm process, providing visibility through 2026.",
               "sources": [],
               "x_mentions": [
                 {
@@ -64,10 +53,10 @@
           ]
         },
         {
-          "lead": "Semiconductor equipment delivery times have doubled.",
+          "lead": "Semiconductor equipment lead times have doubled.",
           "segments": [
             {
-              "text": "Lead times for major semiconductor manufacturing equipment have doubled due to simultaneous global fab investments and surging orders, creating pressure on chipmakers like Samsung.",
+              "text": "Global fab investments and surging orders are creating pressure on chipmakers like Samsung due to extended delivery times for major manufacturing equipment.",
               "sources": [],
               "x_mentions": [
                 {
@@ -81,31 +70,149 @@
       ]
     },
     {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "Trump renews tariff threats and addresses China's crypto ambitions.",
+          "segments": [
+            {
+              "text": "The former President stated that current tariffs are likely to stay, with more expected, while also claiming US leadership in crypto against China's ambitions.",
+              "sources": [
+                {
+                  "title": "Trump Says 'We're Leading China' in Crypto, But Beijing Would 'Love to Take That Over'",
+                  "link": "https://finance.yahoo.com/markets/crypto/articles/trump-says-were-leading-china-213015507.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "This wave of Trump tariffs is likely here to stay; more are coming",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEhnbzZuUVgwb2duQzN4ZGpYM1hkWXRKUTlBZUVpWFRLUjVQaDFWQVkzdm5qLWpfckwtZ3QyZFlpMTZSYkJlNWhxT1lXcGFETW12Z1JNWUtnQWxzRE8xSWFmcmhhMXhMbjlOMVBXbFBJRHBjc3BGdXdOX3Brc1A2VkltcTdRcHRQeUEyUnlSVUtESDY5MU1QeDhxZUNub0gxSjFTaEVHaEpJYVQxWkh4c0VR?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Trump Renews Tariff Onslaught With a Whirlwind Week of Threats",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlNpUHBEMWhOQS1wSHlZeWxwUEVxY1hSTzJUZ1VKeGI2X05ZdDVFbWFLVWU1OUNlZng3M3M4YkJNTTFnam5UVU52NVVLRVBEZFJxQ0NhVWswRzJzMHpRU2NuQ21PdDJfTkIyMUFjajM2ZUlwMDgxbC1CYjNIaGJXbkNTWjZPR3EzaWZEZU11Qk1CUnVpdEJ1Y0RnMGhtNXk1WVVzWC1CeGdvaXR2YzJHYklOdw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Apple and Micron navigate US-China semiconductor tensions.",
+          "segments": [
+            {
+              "text": "The ongoing US-China semiconductor dispute continues to impact major tech players, with Trump weighing in on related policy.",
+              "sources": [
+                {
+                  "title": "애플-마이크론 '中 반도체' 신경전...트럼프도 '고심'",
+                  "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=168727",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "BCA Research recommends a 3-month reversion trade to China.",
+          "segments": [
+            {
+              "text": "Despite geopolitical risks, analysts suggest rotating to China stocks, away from South Korea.",
+              "sources": [
+                {
+                  "title": "Rotate to China: BCA tips 3-month reversion trade away from South Korea stocks",
+                  "link": "https://www.investing.com/news/stock-market-news/rotate-to-china-bca-tips-3month-reversion-trade-away-from-south-korea-stocks-4812800",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump's tariff policies are expected to persist and expand.",
+          "segments": [
+            {
+              "text": "The current wave of tariffs is likely to remain, with further measures anticipated from a potential Trump administration.",
+              "sources": [
+                {
+                  "title": "This wave of Trump tariffs is likely here to stay; more are coming",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEhnbzZuUVgwb2duQzN4ZGpYM1hkWXRKUTlBZUVpWFRLUjVQaDFWQVkzdm5qLWpfckwtZ3QyZFlpMTZSYkJlNWhxT1lXcGFETW12Z1JNWUtnQWxzRE8xSWFmcmhhMXhMbjlOMVBXbFBJRHBjc3BGdXdOX3Brc1A2VkltcTdRcHRQeUEyUnlSVUtESDY5MU1QeDhxZUNub0gxSjFTaEVHaEpJYVQxWkh4c0VR?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Trump Renews Tariff Onslaught With a Whirlwind Week of Threats",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlNpUHBEMWhOQS1wSHlZeWxwUEVxY1hSTzJUZ1VKeGI2X05ZdDVFbWFLVWU1OUNlZng3M3M4YkJNTTFnam5UVU52NVVLRVBEZFJxQ0NhVWswRzJzMHpRU2NuQ21PdDJfTkIyMUFjajM2ZUlwMDgxbC1CYjNIaGJXbkNTWjZPR3EzaWZEZU11Qk1CUnVpdEJ1Y0RnMGhtNXk1WVVzWC1CeGdvaXR2YzJHYklOdw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The \"Trump Trade\" is becoming a market loser.",
+          "segments": [
+            {
+              "text": "Market sentiment indicates that investments tied to Trump's policies are underperforming.",
+              "sources": [
+                {
+                  "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVd2NkI5T180TnhnWUFYNnZLTl9yV1IwVk56dHluNnlWaC1Ga0dBSFZEdkxRYzluUEJBRGg2TjRfSVY2QWNMT2pjdThQZUFPcWNmOHJDSkg0eC1ab3RlSGdZaXNGYjJzTkp6cFZpVl91R2RlT1ViRjhyVzRkYnl0Sm10MnpNRG1mbTJaYU1ocmZiSUV5OUNWM0xpMnlOc0RKRzVsMkc0aUlfZE10R0pr?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump threatens the EU with \"substantial\" tariffs.",
+          "segments": [
+            {
+              "text": "The former President indicated potential tariffs on the EU over fines imposed on US tech giants.",
+              "sources": [
+                {
+                  "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+                  "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Oil price surges are increasing the probability of Fed rate hikes.",
+          "lead": "Macroeconomic uncertainty impacts semiconductor equities.",
           "segments": [
             {
-              "text": "A sharp rise in oil prices has significantly increased the market's expectation for a Federal Open Market Committee (FOMC) rate hike, impacting investor sentiment and leading to market sell signals.",
+              "text": "Geopolitical tensions, inflation, Fed decisions, and rising oil prices are driving institutional investor caution in the semiconductor sector.",
               "sources": [
-                {
-                  "title": "유가 급등에 美 FOMC 금리인상 확률 급등",
-                  "link": "https://www.g-enews.com/view.php?ud=2026072607245375979a1f309431_1",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                },
                 {
                   "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
                   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
                   "source": "Yahoo Finance",
                   "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                },
-                {
-                  "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
-                  "link": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": [
@@ -122,56 +229,16 @@
           ]
         },
         {
-          "lead": "Geopolitical tensions continue to affect oil supply.",
+          "lead": "South Korea's semiconductor and data center sectors see significant AI cooperation.",
           "segments": [
             {
-              "text": "A drone strike caused a fire at Russia's Tyumen oil refinery, contributing to supply concerns and upward pressure on crude prices.",
+              "text": "A $950 billion AI cooperation initiative highlights robust growth, with Asan City reporting $77.2 billion in exports for H1 on AI chip strength.",
               "sources": [
                 {
-                  "title": "Fire at Russia's Tyumen oil refinery extinguished after drone strike, officials say",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
-                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQng3ckVTcWRyaUs3akdwbmR5dGZab3Y4VEYxbkJ4NGUya3NNQ0RaZUxDTHNjajRTbUt5Q05NVlB4RlZ6LVlpUkFkdUhuSWxiVjJXWkJCdVNxbmYyUW1mcGlKaGxlX09nWXB1MXNDQUFPQ1ZXcWRiTExnQ0k1eS1tWmNra0gxWE12Vkl6SEs0clpPYmxmSmVzQWhhTHZvaC1KVENUR1RCN2VPUk5sbFg3ejNsOEgwUjRqVjlQY0IzWmNGSk5i?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "Trump renews tariff threats, signaling continued trade friction.",
-          "segments": [
-            {
-              "text": "Former President Trump has renewed his tariff onslaught with a whirlwind week of threats, indicating that this wave of tariffs is likely to persist and more are anticipated.",
-              "sources": [
-                {
-                  "title": "This wave of Trump tariffs is likely here to stay; more are coming",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEhnbzZuUVgwb2duQzN4ZGpYM1hkWXRKUTlBZUVpWFRLUjVQaDFWQVkzdm5qLWpfckwtZ3QyZFlpMTZSYkJlNWhxT1lXcGFETW12Z1JNWUtnQWxzRE8xSWFmcmhhMXhMbjlOMVBXbFBJRHBjc3BGdXdOX3Brc1A2VkltcTdRcHRQeUEyUnlSVUtESDY5MU1QeDhxZUNub0gxSjFTaEVHaEpJYVQxWkh4c0VR?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "What Trump’s Latest Tariffs Mean for the American Economy",
-                  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWd5cGlOSG9vQmxHSFBtUndHY3k3QkRVYk9fWjlMa3NjLXRxakhtOGRkbVlURy0wb0l4aHQ1eEhTNzYzeC1CUkRTanhmMmZaYjEyUnFxdlEyZlEtUkhEeGdfejYtTE54d2dTU1pYakxUQkZ1SzNwMUVGbTNfX19nNE13QUxORXdFWFVpUkhrTzhBSE1ud0x0dXRYYktmRFBa?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Trump Renews Tariff Onslaught With a Whirlwind Week of Threats",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlNpUHBEMWhOQS1wSHlZeWxwUEVxY1hSTzJUZ1VKeGI2X05ZdDVFbWFLVWU1OUNlZng3M3M4YkJNTTFnam5UVU52NVVLRVBEZFJxQ0NhVWswRzJzMHpRU2NuQ21PdDJfTkIyMUFjajM2ZUlwMDgxbC1CYjNIaGJXbkNTWjZPR3EzaWZEZU11Qk1CUnVpdEJ1Y0RnMGhtNXk1WVVzWC1CeGdvaXR2YzJHYklOdw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "\"9500억달러 AI 협력\"…외신도 놀란 한국 반도체·데이터센터 연합",
+                  "link": "https://www.greened.kr/news/articleView.html?idxno=345920",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -179,16 +246,16 @@
           ]
         },
         {
-          "lead": "Trump positions the U.S. as leading China in crypto.",
+          "lead": "Taiwan's central bank maintains rates despite TSMC's boom.",
           "segments": [
             {
-              "text": "Trump stated that the U.S. is leading China in cryptocurrency, while also suggesting Beijing would 'love to take that over'.",
+              "text": "The central bank is not raising interest rates, opting to look past the \"semiconductor illusion\" of TSMC's prosperity.",
               "sources": [
                 {
-                  "title": "Trump Says 'We're Leading China' in Crypto, But Beijing Would 'Love to Take That Over'",
-                  "link": "https://finance.yahoo.com/markets/crypto/articles/trump-says-were-leading-china-213015507.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                  "title": "\"TSMC 호황에도 금리 안 올린 대만처럼\" … '반도체 착시' 걷어내고 통화...",
+                  "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400087.html",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -201,10 +268,10 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Transcend reports record quarterly profit.",
+          "lead": "Transcend posts record Q2 profit of NT$11.9 billion.",
           "segments": [
             {
-              "text": "Transcend posted a record NT$11.9 billion profit in Q2 2026, surpassing any prior full-year earnings.",
+              "text": "The company's second-quarter earnings surpassed all prior full-year profits.",
               "sources": [
                 {
                   "title": "Transcend posts record NT$11.9 billion profit in 2Q26, surpassing any prior full-year earnings",
@@ -218,10 +285,10 @@
           ]
         },
         {
-          "lead": "SuperAlloy expands its recycled aluminum business.",
+          "lead": "SuperAlloy expands recycled aluminum efforts.",
           "segments": [
             {
-              "text": "SuperAlloy is expanding its recycled aluminum initiatives as its semiconductor business approaches revenue contribution.",
+              "text": "The company's semiconductor business is nearing revenue contribution, alongside its recycled aluminum push.",
               "sources": [
                 {
                   "title": "SuperAlloy expands recycled aluminum push as semiconductor business nears revenue contribution",
@@ -233,40 +300,18 @@
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Software / Internet / Platforms",
-      "bullets": [
-        {
-          "lead": "Warner Bros. sues Amazon over executive poaching.",
-          "segments": [
-            {
-              "text": "Warner Bros. has filed a lawsuit accusing Amazon of illegally poaching executives, highlighting competitive pressures in the media and entertainment sector.",
-              "sources": [
-                {
-                  "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
-                  "link": "https://finance.yahoo.com/media-advertising/articles/warner-bros-lawsuit-accuses-amazon-205511970.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         },
         {
-          "lead": "AI spending threatens credit quality of major tech companies.",
+          "lead": "Oracle's earnings are a key event for tech investor sentiment.",
           "segments": [
             {
-              "text": "Moody's warns that 'unprecedented' AI spending could threaten the credit quality of tech giants like Amazon, Meta, and Alphabet.",
+              "text": "Oracle's performance and guidance are crucial for assessing AI infrastructure and cloud investment expectations.",
               "sources": [
                 {
-                  "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-                  "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+                  "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -278,9 +323,46 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Watch for further developments on HBM co-development and AI chip partnerships, as CEO Jensen Huang's recent X post signals a paradigm shift in AI models.",
+      "name": "SK Hynix",
+      "note": "Watch for further details on HBM co-development with Nvidia and potential large-scale memory contracts.",
       "sources": [
+        {
+          "title": "SK, 엔비디아와 ‘700조’ AI 협력…MS·앤트로픽도 참여",
+          "link": "https://www.asiatime.co.kr/article/20260726500006",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "Nvidia Forms $500 Billion AI ‘Partnership’ With Memory Chip Giant SK",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkIycWY4WF9Nc19nRDV4SDFQbnQ1TVpld3J0WHVGelpfdnZBN0Nya3NWb2ZUMHNlMUhqZWpXZlc1SXBFSFVWaUtqN1NFeWNZTnZPd2xLcjVCY3FGRU13bjNzNE9Zb0JsQlh4Q3pyelNWcWwwdjdaVzFHWXBzN1BmWUl6NDZvd1dtMHNicTFaenZwWXRsV2RXU3ZkR0YtX3RBQXpJ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Figma vs. IBM: What Revenue Growth Trends Tell Investors About the Young Software Design Company and the Veteran Artificial Intelligence Tech Giant",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/figma-vs-ibm-revenue-growth-223501181.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "Monitor developments in AI partnerships and the impact of open-weight AI models on hardware supply chains.",
+      "sources": [
+        {
+          "title": "SK, 엔비디아와 ‘700조’ AI 협력…MS·앤트로픽도 참여",
+          "link": "https://www.asiatime.co.kr/article/20260726500006",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
         {
           "title": "SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5",
@@ -326,72 +408,8 @@
       ]
     },
     {
-      "name": "Oil Prices",
-      "note": "Continued geopolitical tensions and supply disruptions, such as the Russian refinery fire, could further impact crude prices and influence Fed policy.",
-      "sources": [
-        {
-          "title": "유가 급등에 美 FOMC 금리인상 확률 급등",
-          "link": "https://www.g-enews.com/view.php?ud=2026072607245375979a1f309431_1",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-        },
-        {
-          "title": "Fire at Russia's Tyumen oil refinery extinguished after drone strike, officials say",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0JlWmlacURnU3BGX1NNdGhGcFRPRzM5TnpsY0JQUGkxWnQ2T08zcmFWZTZKOGV3TmlRQU9xVDZ5R1VyRnk3a1g0M0E0MVZFbXQ0eE1DMXdfTGVBZFpVMTdHQVZTdnF3azk5Nk5SOTBzVWFweXRzd2dRbjJlcUVnV1BzVnJHZHI0MW9OUm4zLUkxeF9EeGtvUHhJLUdKZmwxR2s0d0VBZXE3WloxSzFBUg?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQng3ckVTcWRyaUs3akdwbmR5dGZab3Y4VEYxbkJ4NGUya3NNQ0RaZUxDTHNjajRTbUt5Q05NVlB4RlZ6LVlpUkFkdUhuSWxiVjJXWkJCdVNxbmYyUW1mcGlKaGxlX09nWXB1MXNDQUFPQ1ZXcWRiTExnQ0k1eS1tWmNra0gxWE12Vkl6SEs0clpPYmxmSmVzQWhhTHZvaC1KVENUR1RCN2VPUk5sbFg3ejNsOEgwUjRqVjlQY0IzWmNGSk5i?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
-          "link": "https://www.ft.com/content/5019e030-796d-47e8-9f13-bee34de1d374?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080744738635006377"
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2080674950579675468"
-        }
-      ]
-    },
-    {
-      "name": "Samsung Electronics",
-      "note": "Monitor foundry business growth following the Broadcom AI chip partnership and potential impacts from doubling semiconductor equipment lead times.",
-      "sources": [
-        {
-          "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2080582653284344223"
-        }
-      ]
-    },
-    {
       "name": "Trump Policy",
-      "note": "Observe further statements and actions regarding tariffs on China and the U.S. stance on cryptocurrency, which could impact global trade and specific sectors.",
+      "note": "Geopolitical and trade policy shifts, particularly tariffs on China and the EU, remain a key market driver.",
       "sources": [
         {
           "title": "Trump Says 'We're Leading China' in Crypto, But Beijing Would 'Love to Take That Over'",
@@ -406,19 +424,81 @@
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "What Trump’s Latest Tariffs Mean for the American Economy",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWd5cGlOSG9vQmxHSFBtUndHY3k3QkRVYk9fWjlMa3NjLXRxakhtOGRkbVlURy0wb0l4aHQ1eEhTNzYzeC1CUkRTanhmMmZaYjEyUnFxdlEyZlEtUkhEeGdfejYtTE54d2dTU1pYakxUQkZ1SzNwMUVGbTNfX19nNE13QUxORXdFWFVpUkhrTzhBSE1ud0x0dXRYYktmRFBa?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Trump Renews Tariff Onslaught With a Whirlwind Week of Threats",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSlNpUHBEMWhOQS1wSHlZeWxwUEVxY1hSTzJUZ1VKeGI2X05ZdDVFbWFLVWU1OUNlZng3M3M4YkJNTTFnam5UVU52NVVLRVBEZFJxQ0NhVWswRzJzMHpRU2NuQ21PdDJfTkIyMUFjajM2ZUlwMDgxbC1CYjNIaGJXbkNTWjZPR3EzaWZEZU11Qk1CUnVpdEJ1Y0RnMGhtNXk1WVVzWC1CeGdvaXR2YzJHYklOdw?oc=5",
+          "title": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbVd2NkI5T180TnhnWUFYNnZLTl9yV1IwVk56dHluNnlWaC1Ga0dBSFZEdkxRYzluUEJBRGg2TjRfSVY2QWNMT2pjdThQZUFPcWNmOHJDSkg0eC1ab3RlSGdZaXNGYjJzTkp6cFZpVl91R2RlT1ViRjhyVzRkYnl0Sm10MnpNRG1mbTJaYU1ocmZiSUV5OUNWM0xpMnlOc0RKRzVsMkc0aUlfZE10R0pr?oc=5",
           "source": "Bloomberg (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "애플-마이크론 '中 반도체' 신경전...트럼프도 '고심'",
+          "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=168727",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Trump threatens EU with ‘substantial’ tariffs over fines of US tech giants",
+          "link": "https://www.theguardian.com/us-news/2026/jul/24/trump-european-union-tariffs",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
         }
       ],
       "x_mentions": []
+    },
+    {
+      "name": "TSMC",
+      "note": "Capacity utilization and potential diversification of major client orders will be critical.",
+      "sources": [
+        {
+          "title": "\"TSMC 호황에도 금리 안 올린 대만처럼\" … '반도체 착시' 걷어내고 통화...",
+          "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400087.html",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Podcast: TSMC, SK Hynix, Intel face AI chip and cash flow inflection",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWU1OERKTDRYMS1DOEwwVzdVeGh1d1I1RTZpSUtRdm1kZXJqVUZSSXFlSER3SmVRbkQ5TTg2RjhmTklCQThrcU5Eb2p2VG1ENUNrNEktb0R4RVFvUXdHalNzeV9ZWUNjbFk3V19TcFRuTVk5cWtjZVFjXzBlYVZRYUF1WHNNV20wNnpEcDJISERqOEx0?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "蘇姿丰秀最強AI機櫃！AMD Helios量產台積電成大贏家、3台廠同受惠- 日報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52aGpoaGc3Tnh2ZmFZaV9HRDJPcnpqQkVMaVZ4TmJqOWlPc04zVldGbDNXakdBWmhqUFhKTEZYMUlfM3NwXy1rWTVnVUlZeHVnOEhKS1huYl9lMzRIUHhB?oc=5",
+          "source": "Commercial Times 工商時報",
+          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+        }
+      ],
+      "x_mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2080449510866866313"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2080582653284344223"
+        }
+      ]
+    },
+    {
+      "name": "Fed",
+      "note": "Macroeconomic data, including inflation and oil prices, will continue to influence monetary policy expectations.",
+      "sources": [
+        {
+          "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+        }
+      ],
+      "x_mentions": [
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2080744738635006377"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2080674950579675468"
+        }
+      ]
     }
   ],
   "x_themes": [
@@ -723,6 +803,6 @@
       "change_pct": -2.28
     }
   ],
-  "story_count": 55,
-  "bucket_count": 12
+  "story_count": 59,
+  "bucket_count": 13
 }

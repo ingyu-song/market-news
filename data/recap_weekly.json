@@ -1,19 +1,30 @@
 {
-  "generated_at": "2026-07-25T22:51:16+00:00",
+  "generated_at": "2026-07-25T23:56:03+00:00",
   "mode": "weekly",
   "for_week_start": "2026-07-19",
   "for_week_ending": "2026-07-25",
   "days_covered": 7,
-  "headline": "Oil Surge Fuels Fed Hike Fears; AI Capex & Tariff Tensions Dominate Week",
-  "summary": "The week was dominated by surging crude oil prices, which topped $100/barrel, intensifying inflation concerns and increasing the likelihood of Federal Reserve rate hikes. This macro shift triggered a tech sector sell-off. Concurrently, new tariff threats from the Trump administration escalated geopolitical and trade tensions across multiple regions. Amidst this, the AI chip sector saw significant developments, including new partnerships and substantial capex increases for AI infrastructure.",
+  "headline": "AI Chip Momentum Strong, Oil Surges to $100, Trump Tariffs Escalate",
+  "summary": "The week saw robust activity in the AI chip sector, driven by HBM co-development and increased hyperscaler capex. However, market sentiment was tempered by a significant surge in crude oil prices, pushing Brent to $100 and fueling expectations of a Fed rate hike. Concurrently, the Trump administration intensified its tariff rhetoric and actions, targeting the EU, Canada, and introducing \"forced labor\" tariffs. Geopolitical tensions remained elevated, contributing to market volatility.",
   "themes": [
     {
-      "label": "Fed / Rates / Macro",
-      "narrative": "Crude oil prices surged to $100/barrel, pushing Treasury yields to 4.7% and significantly increasing market expectations for a Federal Reserve rate hike. This macro shift directly contributed to a broad tech sector sell-off, with inflation concerns taking precedence.",
+      "label": "US Semis / AI Chips",
+      "narrative": "The AI chip sector maintained strong momentum, with SK Hynix and Nvidia deepening HBM co-development. Google is exploring Samsung for future TPU production amidst tight TSMC capacity, while AMD introduced its Helios AI rack system, intensifying competition. Hyperscaler capex surged, notably with Google raising 2026 guidance and BlackRock funding Meta data centers.",
       "movers": [
-        "Crude Oil",
-        "Treasury Yields",
-        "Federal Reserve",
+        "SK Hynix",
+        "Nvidia",
+        "Google",
+        "Samsung",
+        "AMD"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "narrative": "Macroeconomic concerns heightened as Brent crude briefly topped $100/barrel, driving US Treasury yields to 4.7%. This surge increased market expectations for a Federal Reserve rate hike, leading to a tech sector sell-off, with Tesla and Alphabet experiencing significant declines. Inflation expectations are rising, impacting broader market sentiment.",
+      "movers": [
+        "Brent Crude",
+        "US Treasury",
         "Tesla",
         "Alphabet"
       ],
@@ -21,84 +32,62 @@
     },
     {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical tensions escalated with the Trump administration threatening substantial tariffs on the EU over tech giant fines and imposing new \"forced labor tariffs\" on over 80 nations, impacting global supply chains. US-Canada trade tensions also intensified with new 50% tariffs.",
+      "narrative": "Geopolitical tensions escalated with renewed tariff threats from the Trump administration targeting the EU, Canada, and over 80 nations, including new \"forced labor\" tariffs impacting Korean supply chains. US-China tech competition remained a key focus, alongside a US-Saudi nuclear deal. These actions underscore a global shift towards protectionist trade policies.",
       "movers": [
         "EU",
         "Canada",
-        "Trump Administration",
-        "US Small Businesses",
-        "Korean Supply Chains"
-      ],
-      "sources": []
-    },
-    {
-      "label": "US Semis / AI Chips",
-      "narrative": "The AI chip sector saw dynamic shifts as Google explored Samsung for future TPU production, citing tight TSMC capacity. AMD challenged Nvidia with its Helios AI rack system, while Nvidia continued to tout new designs, indicating fierce competition and ongoing innovation.",
-      "movers": [
-        "Google",
-        "Samsung",
-        "TSMC",
-        "AMD",
-        "Nvidia"
-      ],
-      "sources": []
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "narrative": "Global AI infrastructure buildout accelerated, with Google raising its 2026 capex guidance to support AI initiatives. BlackRock also launched a $12.3B bond sale specifically for Meta data centers, underscoring the massive capital deployment in AI.",
-      "movers": [
-        "Google",
-        "BlackRock",
-        "Meta",
-        "Hyperscalers"
+        "China",
+        "Saudi Arabia",
+        "Korea"
       ],
       "sources": []
     },
     {
       "label": "Trump 2.0 / US Policy",
-      "narrative": "The Trump administration's policy actions heavily influenced trade, with new tariffs on Canadian imports and a \"forced labor tariff\" impacting numerous nations. These moves signal a continued protectionist stance and potential for further trade disruptions.",
+      "narrative": "US policy was dominated by tariff actions, with new 50% tariffs on Canadian goods and a broad \"forced labor tariff\" impacting global supply chains. These measures underscore a protectionist shift, challenging international trade agreements and raising concerns for various industries. The administration's focus on tech competition and trade imbalances remains prominent.",
       "movers": [
-        "Trump Administration",
-        "US Treasury",
+        "US",
         "Canada",
-        "US Small Businesses"
+        "EU"
       ],
       "sources": []
     },
     {
       "label": "Earnings / Guidance",
-      "narrative": "Earnings reports presented a mixed picture, with Alphabet reporting strong results and increased capex for AI, contrasting with a profit decline from Tesla. Investors are closely monitoring upcoming Big Tech earnings for further insights into AI infrastructure spending and broader market sentiment.",
+      "narrative": "Corporate earnings presented a mixed picture. Alphabet reported strong results and increased its AI capex guidance, signaling continued investment in AI infrastructure. In contrast, Tesla reported a profit decline, while investors closely watched upcoming Big Tech earnings for further insights into AI spending and broader market sentiment. Oracle and Adobe results also provided sector insights.",
       "movers": [
         "Alphabet",
-        "Tesla"
+        "Tesla",
+        "Oracle",
+        "Adobe"
       ],
       "sources": []
     }
   ],
   "watchlist": [
     {
-      "name": "Federal Reserve",
-      "note": "Monitor any statements or indications regarding interest rate policy in response to persistent inflation pressures."
+      "name": "Nvidia",
+      "note": "Continued HBM co-development and AI chip demand will be key drivers."
     },
     {
-      "name": "TSMC",
-      "note": "Watch for updates on capacity utilization and potential impacts on AI chip supply chains."
+      "name": "Samsung",
+      "note": "Watch for developments in Google TPU production and advanced foundry competitiveness."
     },
     {
-      "name": "Google",
-      "note": "Observe further developments in AI capex and partnerships for next-gen AI chip production."
+      "name": "Oil Futures",
+      "note": "Geopolitical tensions and inflation impact on prices remain a critical macro factor."
     },
     {
-      "name": "Crude Oil",
-      "note": "Continue to track price movements as a key driver of inflation and macro sentiment."
+      "name": "Alphabet",
+      "note": "Monitor AI capex spending and cloud growth for sustained performance."
+    },
+    {
+      "name": "Tesla",
+      "note": "Assess impact of macro shifts, competitive landscape, and demand trends."
     },
     {
       "name": "EU",
-      "note": "Monitor responses to potential US tariff threats and broader trade policy developments."
-    },
-    {
-      "name": "Nvidia",
-      "note": "Look for new product announcements or competitive responses to AMD's AI rack systems."
+      "note": "Observe responses to potential US tariffs and regulatory actions against tech giants."
     }
   ],
   "x_themes": [
