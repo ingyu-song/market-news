@@ -1,90 +1,32 @@
 {
-  "generated_at": "2026-07-25T00:11:33+00:00",
-  "tweet_count": 79,
-  "account_count": 22,
+  "generated_at": "2026-07-26T00:06:01+00:00",
+  "tweet_count": 82,
+  "account_count": 23,
   "themes": [
     {
-      "topic": "Jensen Huang's First X Post on Open Weight Models",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "NVIDIA CEO Jensen Huang's first post on X discusses open-weight AI models, signaling a major paradigm shift in the AI model era and potential reshaping of the hardware supply chain.",
+      "topic": "Macro uncertainty driving semis downturn",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Ongoing macro uncertainty, including the US/Iran war, inflation, and Fed rate decisions, is causing institutional caution and irrational stock movements in semiconductor equities.",
       "mentions": [
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2080790158157500658",
-          "text": "@JensenHuang's  first post on X was also about open weight models. Why did he choose this letter for his very first post? Because the AI model era is entering a major paradigm shift, and the hardware supply chain will be reshaped along with it.\n\nMy latest article analyzes open mo"
-        },
         {
           "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080694259636707836",
-          "text": "Why was Jensen's letter on open models not endorsed by Anthropic or OpenAI?\n\nIt's pretty clear by now that both OAI &amp; Anthropic care more about their business models and valuations above all else... https://t.co/jkPPZGcjXX"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2080691975918125295",
-          "text": "HUH????\nWhere is the endorsement? https://t.co/2BEHz5ymGq"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2080689966045348047",
-          "text": "Jensen from $NVDA has joined X for the first time to share his letter on open models."
-        },
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2080656408048214292",
-          "text": "The man @JensenHuang doing whatever he possibly can to get the $NVDA stock price moving up again."
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2080651763674190224",
-          "text": "THE SEMICONDUCTOR MESSIAH HAS SPOKEN $NVDA https://t.co/Iw9T6DkaxA"
-        },
-        {
-          "handle": "@GavinSBaker",
-          "url": "https://x.com/GavinSBaker/status/2080649233539936575",
-          "text": "Awesome to have Jensen on X!"
+          "url": "https://x.com/ParadisLabs/status/2080744738635006377",
+          "text": "If you're curious about my personal strategy right now:\n\nI'm currently doing nothing apart from sitting on, and accumulating cash.\n\nI would much rather average up into my core positions instead of attempting to call the market bottom, with the awareness that we're back in a risk-"
         }
       ]
     },
     {
-      "topic": "New AI Model Performance Frontier (Grok 4.5, Opus 5)",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Grok 4.5 and Claude Opus 5 are identified as setting a new Pareto Frontier for AI model performance, with 'intelligence per $' becoming the key metric, surpassing previous models like Fable 5.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2080790544847106335",
-          "text": "What are your initial impressions of Opus 5? Do you think it’s better than GPT‑5.6 Sol?"
-        },
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2080759547753361804",
-          "text": "Grok 4.5 is excellent for real-world work"
-        },
-        {
-          "handle": "@GavinSBaker",
-          "url": "https://x.com/GavinSBaker/status/2080711105349906786",
-          "text": "New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5.\n\nIntelligence per $ will be the only metric that matters over time.\n\nK3 probably joins the frontier once available on the inference clouds. https://t.co/jdMFn2Vya8"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2080705313192161324",
-          "text": "Claude Opus 5 is live. Five dollars per million input tokens, half of Fable 5, and it beats Fable 5 on coding and knowledge work.\n\nTold you guys. Off by one day. 😆 https://t.co/ncbuF6oRdl"
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2080703920150892677",
-          "text": "Nah, Fable 5.1 probably drops after GPT-6\nSo late August or early to mid-September"
-        }
-      ]
-    },
-    {
-      "topic": "Morgan Stanley on SpaceX AI Valuation",
+      "topic": "SpaceX valuation concerns & Starship launch",
       "category": "out_of_ai",
       "subcategory": "space",
-      "summary": "Morgan Stanley analyst Adam Jonas suggests that SpaceX stock near $100 implies zero or negative value for its AI business (Grok, Cursor) due to high capex, uncertain economics, and demands on management time.",
+      "summary": "Concerns are rising over SpaceX's valuation, with Morgan Stanley suggesting no AI value and analysts questioning its $1.52 trillion market cap against revenue projections, alongside recent Starship launch activity.",
       "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2081159033461895500",
+          "text": "Yesterday’s Starship launch"
+        },
         {
           "handle": "@PhotonCap",
           "url": "https://x.com/PhotonCap/status/2080762853309751667",
@@ -96,11 +38,6 @@
           "text": "Elon’s net worth has dropped by a cool $650B since SpaceX peaked on June 16 https://t.co/aoZJkp4zgs"
         },
         {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2080724868694442327",
-          "text": "Morgan Stanley Adam Jonas says SpaceX $SPCX at $100 would imply zero or negative value for its AI business. He says investors heavily discount Grok and Cursor because of high capex, uncertain economics and demands on management time. https://t.co/LYkrQVhEUt"
-        },
-        {
           "handle": "@Blinklebloop",
           "url": "https://x.com/Blinklebloop/status/2080666104075018610",
           "text": "SpaceX at ~$1.52tn needs ~$169bn revenue to justify 30x earnings at a heroic 30% margin.\n\nThat equals:\n• 11 Earths, each recreating today’s entire launch market\n• 2,280 Falcon 9 launches a year-one every 3h50m\n• $21 a year from every human alive"
@@ -108,51 +45,90 @@
       ]
     },
     {
-      "topic": "Waymo Exploring Split from Uber Partnership",
-      "category": "out_of_ai",
-      "subcategory": "robotics",
-      "summary": "Waymo is reportedly exploring options to exit its robotaxi partnership with Uber due to clashes over service quality, safety, and regulation, potentially pressuring Uber's autonomous-driving strategy.",
+      "topic": "Samsung-Broadcom $200B MOU for foundry, memory, and advanced packaging",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "Samsung Electronics and Broadcom signed a $200 billion MOU for potential cooperation through 2030, encompassing Samsung's 2nm-and-below foundry processes, HBM supply for AI accelerators, and advanced 2.3D/2.5D packaging.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2080750537121874206",
-          "text": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that $NBIS Avride, other neutral players, or"
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2081131261654081838",
+          "text": "Samsung Electronics and Broadcom signed an MOU covering more than $200 billion of potential cooperation through 2030 across memory, foundry and advanced packaging.\n\nThe foundry collaboration covers Samsung’s 2nm-and-below processes for Broadcom products, including Wireless Broadb"
         },
         {
           "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2080735221390127144",
-          "text": "WAYMO EXPLORES OPTIONS TO EXIT PARTNERSHIP WITH $UBER: FT\n\nWaymo has held internal talks about ending its robotaxi deals with Uber as the companies clash over service quality, safety and robotaxi regulation.\n\nWaymo vehicles in Austin and Atlanta are currently available only throu"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2080734586787545393",
-          "text": "*WAYMO EXPLORES OPTIONS TO EXIT PARTNERSHIP WITH UBER: FT\n\nBound to happen eventually - $UBER https://t.co/FbDbbgm5q2"
+          "url": "https://x.com/wallstengine/status/2081077853991670175",
+          "text": "Samsung has secured a chip supply agreement worth more than $200B from Broadcom $AVGO.\n\nThe 5-year deal runs through 2030 and covers Samsung’s 2nm and sub-2nm foundry processes, memory for Broadcom’s next-gen AI accelerators, &amp; advanced 2.3D and 2.5D packaging. https://t.co/V"
         }
       ]
     },
     {
-      "topic": "Macro Uncertainty Driving Semiconductor Equities",
+      "topic": "Nokia shares fall despite strong AI orders due to conservative outlook",
       "category": "out_of_ai",
       "subcategory": "macro",
-      "summary": "Macroeconomic uncertainty, including US/Iran tensions, inflation, Fed decisions, and rising oil prices, is causing institutional investors to be cautious and driving semiconductor equities lower, irrespective of individual fundamentals.",
+      "summary": "Nokia's shares fell despite strong Q2 AI-related order intake of €2.8 billion, as analysts expressed disappointment over the company's unchanged growth outlook for its IP and optical network segments.",
       "mentions": [
         {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080744738635006377",
-          "text": "If you're curious about my personal strategy right now:\n\nI'm currently doing nothing apart from sitting on, and accumulating cash.\n\nI would much rather average up into my core positions instead of attempting to call the market bottom, with the awareness that we're back in a risk-"
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2080919457296236682",
+          "text": "$NOK (Bloomberg) -- (Adds UBS comments and updates with share moves.)\nNokia shares erase earlier gains and fall as much as 5.2% after results. The Finnish company failed to raise its growth outlook for the IP and optical network segments, which according to some analysts is a dis"
         },
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2080674950579675468",
-          "text": "$GS Are Hedge Funds Still Bullish on AI Stocks? https://t.co/hss9IEZQKk via @YouTube\n\nThis video features a discussion between Chris Hussey and Vincent Lin (co-head of Prime Insights and Analytics at Goldman Sachs) regarding the recent volatility in tech stocks and the outlook fo"
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2080745464291643732",
+          "text": "$NOK Bank of America raised its price target on Nokia to $18.50 from $18 while reiterating its 'Buy' rating. \n\nThe new price target implies a ~100% upside to the stock's last closing price.\n\nThe firm said that investors are placing too much emphasis on the company's conservative "
         }
       ]
     },
     {
-      "topic": "TSMC 3nm Process Fully Loaded with Qualcomm & Tesla Orders",
+      "topic": "Accelerating AI optical demand and multi-year procurement",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Nokia's Q2 results indicate AI infrastructure spending is broadening into optical transport, with AI and Cloud sales up 105% and multi-year procurement for leading-edge optical products.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2080919646572585283",
+          "text": "$NOK KEY READ-THROUGHS FROM NOKIA Q2 2026 EARNINGS CALL\n\nNokia’s Q2 2026 call provides high-conviction confirmation that AI infrastructure spending is broadening from compute accelerators into optical transport, data-center interconnect, routing, switching, fiber, memory, and eve"
+        }
+      ]
+    },
+    {
+      "topic": "Memory pricing power extending to networking equipment",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Nokia identified memory as a significant supply-chain risk due to constrained availability and substantial price increases, impacting high-end routers, switches, optical systems, and network appliances.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2080919646572585283",
+          "text": "$NOK KEY READ-THROUGHS FROM NOKIA Q2 2026 EARNINGS CALL\n\nNokia’s Q2 2026 call provides high-conviction confirmation that AI infrastructure spending is broadening from compute accelerators into optical transport, data-center interconnect, routing, switching, fiber, memory, and eve"
+        }
+      ]
+    },
+    {
+      "topic": "Claude Opus 5 launch and performance",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Claude Opus 5 has launched, offering competitive pricing at five dollars per million input tokens and demonstrating superior performance over Fable 5 in coding and knowledge work, joining the new Pareto Frontier of AI models.",
+      "mentions": [
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2080711105349906786",
+          "text": "New Pareto Frontier: Grok 4.5, SWE-1.7 and Opus 5.\n\nIntelligence per $ will be the only metric that matters over time.\n\nK3 probably joins the frontier once available on the inference clouds. https://t.co/jdMFn2Vya8"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2080705313192161324",
+          "text": "Claude Opus 5 is live. Five dollars per million input tokens, half of Fable 5, and it beats Fable 5 on coding and knowledge work.\n\nTold you guys. Off by one day. 😆 https://t.co/ncbuF6oRdl"
+        }
+      ]
+    },
+    {
+      "topic": "TSMC 3nm process fully loaded with orders through 2027",
       "category": "sectors",
       "subcategory": "foundry",
-      "summary": "TSMC's 3nm process is fully loaded with orders, including Qualcomm's Snapdragon 8 Elite Gen 5 for Samsung Galaxy and Tesla's AI5 chip for Optimus/cars, providing visibility through 2027.",
+      "summary": "TSMC's 3nm process is reportedly fully loaded with orders through 2027, securing major clients like Qualcomm for Snapdragon 8 Elite Gen 5 and Tesla for its AI5 chip.",
       "mentions": [
         {
           "handle": "@dnystedt",
@@ -162,62 +138,36 @@
       ]
     },
     {
-      "topic": "Trump on US-Iran Tensions",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Former President Trump states that no decision has been made on major strikes on Iran, with ongoing talks, but emphasizes readiness for action and the option to negotiate or take them apart.",
+      "topic": "AMD's Venice CPU and MI455X GPU production at TSMC with CoWoS-L/SoIC packaging",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "AMD's new Venice processor and Instinct MI455X GPU are in production at TSMC on 2nm, utilizing CoWoS-L and SoIC advanced packaging, with plans for TSMC Arizona to produce Venice.",
       "mentions": [
         {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2080738984259624987",
-          "text": "TRUMP ON IRAN: \n\nHAVEN'T MADE DECISION ON MAJOR STRIKES ON IRAN\n\nTALKING TO THEM NOW\n\nTHINK THEY'RE GETTING MORE SERIOUS AS DAYS GO BY\n\nWE'RE LOCKED AND LOADED AND READY TO GO"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2080457798144741775",
+          "text": "AMD’s new Venice processor and Instinct MI455X GPU are both in production at TSMC on 2nm, media report, adding AMD plans to have TSMC Arizona produce Venice as well (when fab ready). Both chips will use CoWoS-L advanced packaging. \n\nSince CoWoS-L capacity remains tight, some orde"
         }
       ]
     },
     {
-      "topic": "SpaceX Starship Flight Success",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Elon Musk confirms that the Starship is intact, floating in the ocean, and transmitting telemetry after its flight.",
+      "topic": "Global semiconductor wafer fab construction boom",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "SEMI Taiwan reports 89 semiconductor wafer fab construction projects are planned for 2026-2030, with an additional 50 projected for 2030-2035, to meet global AI demand.",
       "mentions": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2080807557992443969",
-          "text": "Starship is intact, floating in the ocean and transmitting telemetry! https://t.co/hLVXJqkHSA"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2080091428588581107",
+          "text": "89 semiconductor wafer fab construction projects are in “concrete” planning stages and expected to be built between 2026 – 2030 to meet demand for the global AI build-out, and an additional 50 fabs could be built between 2030 – 2035 as chip demand broadens, said SEMI Taiwan Presi"
         }
       ]
     },
     {
-      "topic": "Starlink V3 Satellite Deployment",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Elon Musk confirms the deployment of Starlink V3 satellites to test their operation in space.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2080797733611286686",
-          "text": "Starlink V3 satellites deployed to test how they operate in space"
-        }
-      ]
-    },
-    {
-      "topic": "LightPath Technologies Divests Chinese Subsidiary",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "LightPath Technologies is selling its Chinese subsidiary for $4.5 million, signaling a strategic shift towards U.S. and Western defense markets and a secure, NDAA-compliant supply chain.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2080709124799775136",
-          "text": "--> This divestiture signals LightPath’s strategic shift toward the U.S. and Western defense markets, with a stronger focus on secure, NDAA-compliant supply chains.\n\nI already covered it here:\nhttps://t.co/4wQgNSlQgG\n\nNews: \n\nLightPath Technologies $LPTH has signed a definitive a"
-        }
-      ]
-    },
-    {
-      "topic": "Soitec Q1 Revenue Beat Driven by Photonics-SOI for AI Datacenters",
+      "topic": "Soitec's strong Q1 revenue and photonics-SOI sales growth",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "Soitec's Q1 revenue beat and strong Q2 guidance were driven by doubled Photonics-SOI sales for AI datacenters, with its engineered wafers essential for 800G+ interconnect speeds and CPO, leading to a Morgan Stanley Top Pick rating.",
+      "summary": "Soitec's Q1 revenue beat estimates, driven by a doubling of Photonics-SOI sales for AI data centers, with robust Q2 guidance and capacity reservation agreements extending past FY2027.",
       "mentions": [
         {
           "handle": "@KawzInvests",
@@ -227,41 +177,41 @@
       ]
     },
     {
-      "topic": "Samsung & SK Hynix Large-Scale Memory Contracts with US Tech",
+      "topic": "Korean memory giants cautious on 3D ICs; CXMT targets custom 3D IC niche",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "Samsung and SK Hynix are anticipated to announce 'very large-scale' memory contracts with leading U.S. technology companies during President Lee Jae-myung's visit to Silicon Valley.",
+      "summary": "Samsung and SK Hynix are cautious about full-scale commercialization of customized 3D ICs, while China's CXMT is accelerating efforts to secure capabilities in this niche market for next-generation AI memory.",
       "mentions": [
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2080618741101191377",
-          "text": "Kim Yong-beom, the presidential chief of staff for policy, said Samsung and SK hynix are expected to announce “very large-scale” contracts with leading U.S. technology companies during President Lee Jae-myung’s visit to Silicon Valley. https://t.co/sYe2HX6RSd"
+          "url": "https://x.com/jukan05/status/2080881951909826930",
+          "text": "Korean Memory Giants Cautious on 3D ICs as China’s CXMT Accelerates Niche Strategy\n\nThe race to improve AI semiconductor performance is shifting away from process-node miniaturization and toward advanced stacking technologies that vertically integrate chips. This comes as 3D inte"
         }
       ]
     },
     {
-      "topic": "IQE Potential Workaround for China-AXT Export Restrictions",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "IQE is exploring a potential workaround for China's export permit issues affecting AXT, by sourcing substrates in Europe and performing epitaxy for US customers, potentially becoming a 'choke point' if successful at volume.",
-      "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2080595847448830348",
-          "text": "One bit that is really interesting to me $IQE\n\nIs their potential work around for China's permit issues with $AXTI\n\nI don't have 100% clarity on this, but it makes sense to me and from the industry checks I have seen, it is possible to a certain extent\n\nBut basically AXT has a ve"
-        }
-      ]
-    },
-    {
-      "topic": "Doubling Semiconductor Equipment Delivery Times",
+      "topic": "Nvidia-SK Hynix HBM supply deal",
       "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "Lead times for major semiconductor manufacturing equipment have doubled due to simultaneous global fab investments and surging orders, putting pressure on chipmakers like Samsung and SK Hynix to place orders earlier to avoid delays in fab operations.",
+      "subcategory": "memory",
+      "summary": "Nvidia has secured HBM memory supply from SK Hynix as part of a $500 billion AI deal, ensuring critical component availability for its AI accelerators.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2081167991690162519",
+          "text": "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal \n\nhttps://t.co/YGyRcOhsPL"
+        }
+      ]
+    },
+    {
+      "topic": "Bearish NAND rumors and QLC price negotiations",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Bearish notes on NAND are circulating, particularly from China, with reports of SanDisk signing long-term agreements below initial quotes and hyperscalers pushing back against QLC eSSD prices.",
       "mentions": [
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2080582653284344223",
-          "text": "Semiconductor Equipment Delivery Times Double, Putting Chipmakers Under Pressure\n\nLead times for major semiconductor manufacturing equipment have recently increased by as much as twofold. The surge is being driven by simultaneous fab investments by global chipmakers, which have c"
+          "url": "https://x.com/jukan05/status/2080993607176409492",
+          "text": "Recently, bearish notes and rumors on NAND appear to be circulating, particularly out of China, along with negative news related to QLC price negotiations.\n\nA few points are worth clarifying.\n\nIt should come as no surprise that SanDisk would sign an LTA with Meta at a price below"
         }
       ]
     }
