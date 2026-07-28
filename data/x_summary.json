@@ -1,199 +1,181 @@
 {
-  "generated_at": "2026-07-27T00:06:46+00:00",
-  "tweet_count": 83,
-  "account_count": 22,
+  "generated_at": "2026-07-28T00:08:09+00:00",
+  "tweet_count": 70,
+  "account_count": 18,
   "themes": [
     {
-      "topic": "NVIDIA's potential $250B financing for OpenAI data center",
+      "topic": "China's DUV Lithography Production",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "NVIDIA is reportedly in talks to provide a $250 billion financial backstop for a $500 billion OpenAI data center campus in Ohio, which would increase NVIDIA's exposure to customer credit risk.",
+      "subcategory": "semicap",
+      "summary": "China has begun mass-producing immersion DUV lithography equipment, with 5 units expected this year and 20 by 2027 for SMIC, Hua Hong, and CXMT. This development, while limited in volume and inferior to ASML's technology, has led to a market sell-off in semiconductor equipment stocks like ASML.",
       "mentions": [
         {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2081523281094684979",
-          "text": "$NVDA WEIGHS $250B BACKSTOP FOR OPENAI DATA CENTER\n\nWSJ reports Nvidia is considering roughly $250B in guarantees tied to OpenAI leasing a 10-gigawatt Ohio campus developed by SoftBank.\n\nThe project could cost more than $500B including chips. Nvidia is separately discussing finan"
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2081885330291261864",
+          "text": "China has started producing immersion DUV lithography equipment.\n\nFive units this year, rising to 20 in 2027. The tools will be installed at SMIC, Hua Hong Semiconductor, and CXMT. On the day the news broke, ASML shares fell more than 7%.\n\nWhat does this actually mean?\n\nLithograp"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2081521974006939899",
-          "text": "JUST IN : NVIDIA IN TALKS TO PROVIDE $250 BILLION FINANCIAL BACKSTOP FOR OPENAI DATA CENTER IN OHIO\n\nNVIDIA WOULD GUARANTEE FINANCING FOR DATA CENTER THAT COULD COST SOME $500 BILLION IN TOTAL PER WSJ"
+          "url": "https://x.com/jukan05/status/2081887384531357952",
+          "text": "The news about China’s DUV progress is not particularly surprising. Wasn’t this something everyone already had a vague sense of?\n\nMoreover, The Information’s report merely cites remarks made by a professor at one of China’s Jiaotong universities during an internal meeting in June"
         },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2081520773341102371",
-          "text": "*NVIDIA IN TALKS WITH OPENAI TO GUARANTEE $250B FINANCING: WSJ\n\n$250B backstop. Wow https://t.co/WlROEZ5KD2"
-        }
-      ]
-    },
-    {
-      "topic": "AMD's advanced chip production and packaging at TSMC",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "AMD's Venice processor and Instinct MI455X GPU are in production at TSMC on 2nm, with plans for TSMC Arizona to produce Venice, utilizing CoWoS-L advanced packaging and SoIC for 3D hybrid bonding, with SoIC capacity expected to reach 15,000-20,000 wafers per month by end-2026.",
-      "mentions": [
         {
           "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2080457798144741775",
-          "text": "AMD’s new Venice processor and Instinct MI455X GPU are both in production at TSMC on 2nm, media report, adding AMD plans to have TSMC Arizona produce Venice as well (when fab ready). Both chips will use CoWoS-L advanced packaging. \n\nSince CoWoS-L capacity remains tight, some orde"
+          "url": "https://x.com/dnystedt/status/2081890974511559135",
+          "text": "Semiconductor stocks went green to red in US trading due to this story, SOX index -2.2%, ASML -5.8%"
         }
       ]
     },
     {
-      "topic": "TSMC 3nm process fully loaded with key customer orders",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC's 3nm process is fully loaded with orders through 2027, securing major clients like Qualcomm for its Snapdragon 8 Elite Gen 5 and Tesla for its AI5 chip, which is optimized for Optimus and cars, with mass production expected by mid-2027.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2080449510866866313",
-          "text": "TSMC’s 3nm process enjoys visibility through 2027 as the chip foundry wins more orders, media report, noting 3nm remains fully loaded now:\n-Qualcomm: Snapdragon 8 Elite Gen 5 for Samsung Galaxy (foldable) on TSMC N3P\n-Tesla: AI5 chip optimized for Optimus/cars in mass production "
-        }
-      ]
-    },
-    {
-      "topic": "CXMT IPO and valuation",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Chinese memory maker CXMT is set for its IPO, with Nomura initiating coverage with an 'insane' price target of RMB 116, implying a market capitalization of roughly RMB 7.76 trillion, leading to anticipation of a highly volatile debut.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2081508685810209276",
-          "text": "Nomura just initiated coverage on CXMT, assigning it a price target of RMB 116 and arguing that it deserves a 20x P/E multiple—twice Micron’s valuation.\n\nThat implies a 13.4x increase from the IPO price and a market capitalization of roughly RMB 7.76 trillion...\n\nThis is insane. "
-        },
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2081506520307745218",
-          "text": "CXMT will start trading in 3 hours\nIt will be the craziest IPO I have ever seen"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
-          "text": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory"
-        }
-      ]
-    },
-    {
-      "topic": "NVIDIA Spectrum-6 switch and AI networking bottleneck shift",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "NVIDIA introduced Spectrum-6, a 102.4Tbps Ethernet switch for gigascale AI factories, supporting both pluggable and co-packaged optics (CPO) and liquid cooling. This signals a shift in AI infrastructure bottlenecks from GPU compute to GPU-to-GPU communication, network bandwidth, and optical connectivity reliability.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2081529850289070518",
-          "text": "--> The key signal is that AI infrastructure is no longer constrained by GPU compute alone. As clusters scale to hundreds of thousands of accelerators, performance increasingly depends on GPU-to-GPU communication, network bandwidth and power efficiency, and the reliability of opt"
-        }
-      ]
-    },
-    {
-      "topic": "Soitec's strong Q1 and photonics growth",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Soitec shares surged after Q1 revenue beat estimates, with Q2 guidance exceeding expectations and Photonics-SOI sales doubling year-over-year to comprise over half of its Edge and Cloud AI segment, driven by demand for interconnect speeds crossing 800G.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
-          "text": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2080702990021726373",
-          "text": "Soitec shares surged 22% after Q1 revenue beat Wall Street estimates by €6 million. Q2 guidance came in at 30%+ growth against a street consensus of 4%.\n\nSoitec makes the engineered wafer that photonics chips get built on. Per BofA, Soitec says that wafer is now in every new AI d"
-        }
-      ]
-    },
-    {
-      "topic": "Teradyne's CPO and AI semiconductor testing solutions",
-      "category": "sectors",
-      "subcategory": "testing",
-      "summary": "Teradyne's UltraFLEXplus ramp and Photon 100 launch address the critical testing bottlenecks emerging as AI semiconductors and optical interconnects, especially CPO, move to high-volume manufacturing, with CPO PIC inspection taking over 100 seconds.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2081514824379576419",
-          "text": "--> $TER Teradyne’s UltraFLEXplus ramp and Photon 100 launch should be viewed as more than a product-cycle story. They are evidence that as AI semiconductors and optical interconnects move toward high-volume manufacturing, test and measurement are emerging as critical production "
-        }
-      ]
-    },
-    {
-      "topic": "Analog Devices' competitive position and risks",
-      "category": "sectors",
-      "subcategory": "analog",
-      "summary": "Analog Devices (ADI) maintains a defensible competitive position through broad portfolio, deep customer integration, and strategic acquisitions, reflected in its 73% gross margin, but faces structural risks from accelerating Chinese domestic competition and leadership succession.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2081374394467721465",
-          "text": "$ADI Analog Devices: Cyclical Recovery and the AI Infrastructure Surge. Investment Thesis. New: 7/26/26.\n\nAnalog Devices has built one of the most defensible competitive positions in the semiconductor industry through a combination of portfolio breadth, customer integration depth"
-        }
-      ]
-    },
-    {
-      "topic": "Macro concerns and cautious market strategy",
+      "topic": "Macro & AI Capex Uncertainty Ahead of Fed/Earnings",
       "category": "out_of_ai",
       "subcategory": "macro",
-      "summary": "An investor is accumulating cash and waiting for clearer signals from the Fed, a rollover in oil prices, and a return to rational market dispersion before re-entering, citing significant macro concerns including the US/Iran conflict, inflation, and earnings season.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2080744738635006377",
-          "text": "If you're curious about my personal strategy right now:\n\nI'm currently doing nothing apart from sitting on, and accumulating cash.\n\nI would much rather average up into my core positions instead of attempting to call the market bottom, with the awareness that we're back in a risk-"
-        }
-      ]
-    },
-    {
-      "topic": "Reddit's AI training data contract dispute with Google",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Reddit experienced a significant market value drop over discussions about potentially cutting off Google's access to its content for AI training, despite the contract representing a small fraction of revenue, with the UK CMA ruling allowing publishers to strip content from AI summaries.",
+      "summary": "Markets face significant uncertainty from upcoming Fed rate decisions and hyperscaler earnings, which will update AI capex guidance. Concerns include geopolitical tensions, the sustainability of the AI boom, major AI IPOs, and potential rate hikes, all contributing to market volatility.",
       "mentions": [
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2081407560502907077",
-          "text": "$RDDT lost about $3 billion of market value Wednesday over a contract worth $60 million a year that has not been cancelled.\n\nWSJ reported that executives have internally discussed cutting off $GOOGL access to Reddit content for AI training. The talks are still open and no decisio"
+          "url": "https://x.com/KawzInvests/status/2081838383416926354",
+          "text": "The Fed decides on interest rates at 2pm Wednesday. $MSFT and $META report earnings two hours later.\n\nFed Chair Kevin Warsh told Congress on July 14 that spending on chips, servers and data center gear is growing near 25 percent a year and is still speeding up. Governor Lisa Cook"
         }
       ]
     },
     {
-      "topic": "Divergent views on memory pricing due to China vs. US demand",
+      "topic": "Trump's Comments on Iran & Crude Oil Drop",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "Crude oil prices dropped over 8% following former President Trump's comments about 'very friendly negotiations' ongoing with Iran. This suggests potential de-escalation of geopolitical tensions affecting oil supply, though the environment remains volatile with no formal ceasefire.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2081827107273891924",
+          "text": "*TRUMP ON IRAN: RIGHT NOW VERY FRIENDLY NEGOTIATIONS GOING ON\n\nCrude down 8%+ on the day. Just another day in the life for oil bulls https://t.co/SmobaXyQxd"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2081509710658711994",
+          "text": "We are by no means out of the woods yet.\n\nThe U.S. has paused strikes on Iran this weekend after 13 days which is why Brent is down ~7%.\n\nBut in this War, a pause in strikes has ultimately led to further escalations and additional market volatility.\n\nIt's still a pressure-cooker "
+        }
+      ]
+    },
+    {
+      "topic": "Samsung $200B MOU with Broadcom for Memory & Foundry",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "Samsung has signed a $200 billion Memorandum of Understanding (MOU) with Broadcom to produce chips, encompassing both memory and logic (foundry services), through 2030. This strategic partnership aims to secure supply for Broadcom's AI framework.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2081550429402644935",
+          "text": "Samsung inked a $200 billion MOU to make chips for Broadcom, both memory and logic (foundry):"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
+          "text": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory"
+        }
+      ]
+    },
+    {
+      "topic": "CXMT IPO Stock Surge",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "A Korean equity analyst's cautious view on memory pricing, influenced by weak Chinese inference demand and smartphone market, contrasts with US-based colleagues who report broad acceptance of new price increases, suggesting China's influence on global memory pricing is increasingly limited.",
+      "summary": "CXMT (ChangXin Memory Technologies) saw its stock surge by over 469% on its first trading day, reaching a valuation of approximately $487.31 billion. This significant IPO performance highlights strong investor interest in Chinese memory companies.",
+      "mentions": [
+        {
+          "handle": "@rwang07",
+          "url": "https://x.com/rwang07/status/2081590618489503992",
+          "text": "Good time to rewind. CXMT stock went up 500+% on the first trading day. \n\nWow."
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2081579593815978273",
+          "text": "Wow, $CMXT is up a very normal +469.98% after going public today.\n\nNow valuing it at ~$487.31 billion, up from $85.5 billion. \n\nDid any of my Chinese followers buy into the IPO? https://t.co/TlibjHe799"
+        }
+      ]
+    },
+    {
+      "topic": "Kimi K3 KV Cache & Memory Demand Debate",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "A debate exists regarding Kimi K3's KV cache compression and its impact on memory demand, with some analysts turning openly bearish. However, research suggests K3's efficiency gains make NAND offload economically viable, expanding the NAND/DRAM opportunity rather than shrinking it, as the model still demands more HBM, GPUs, and networking.",
       "mentions": [
         {
           "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2080516280461750382",
-          "text": "Jukan is right. Korea has seen some weakness recently. A certain Korean equity analyst has also expressed a cautious view, drawing much of his research from information in the Chinese market. This pattern has persisted for several quarters now — this quarter is certainly not the "
+          "url": "https://x.com/FundaAI/status/2081726571430191111",
+          "text": "Weekly|Kimi K3 KV Cache and the Memory Overreaction, NOW 2Q26 Pull-Forward, GOOG GCP ROI Inflection, IFX AI Power, AI Labs ARR Tracker\n\nThe memory debate ate the week. A major sell-side Asia semis analyst turned openly bearish on memory, and the Asian memory complex was marked do"
         }
       ]
     },
     {
-      "topic": "Micron/Meta white paper on DRAM bottleneck",
+      "topic": "AI Inference Expands CPU Server Demand",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "A joint Micron/Meta white paper highlights a 38x slowdown when shuffle data exceeds available DRAM and spills to SSD, suggesting that the DRAM bottleneck will persist as the longest-lasting constraint in AI infrastructure.",
+      "subcategory": "cpu",
+      "summary": "AI inference and agentic AI workloads are expanding demand for CPU-based servers, with the server market's unit-growth outlook improving to approximately 12%. This indicates that AI infrastructure is creating additional demand for standalone CPU servers rather than solely reallocating budgets to accelerators.",
       "mentions": [
         {
-          "handle": "@GavinSBaker",
-          "url": "https://x.com/GavinSBaker/status/2081459531570090336",
-          "text": "“38x slowdown once shuffle data exceeds available DRAM and spills to SSD.” \n\nFrom a joint Micron/Meta white paper.\n\nThe DRAM bottleneck almost certainly lasts the longest.\n\nOP from @jukan05 https://t.co/a5Xb3Q1P85"
-        },
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2081243127797686457",
-          "text": "Micron and Meta have jointly published a white paper, and it contains some truly important insights. It’s definitely worth reading.\n\nhttps://t.co/05TMe9wsCB https://t.co/V0OzGDiJU8"
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2081875465619542164",
+          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
         }
       ]
     },
     {
-      "topic": "SK Group-NVIDIA AI data center and HBM4 partnership",
+      "topic": "Increasing Memory Channel Counts in Servers",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "SK Group and NVIDIA have signed a partnership exceeding $500 billion to build out AI data centers and develop HBM4 memory, signaling a significant collaboration in the AI infrastructure and advanced memory sectors.",
+      "summary": "The server market is progressing towards higher memory channel counts, moving from 8 to 12 and eventually 16 channels per CPU, with AI servers often deploying the maximum number. This trend increases memory content per server faster than server unit growth, benefiting server DDR5 bit demand.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2081875465619542164",
+          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
+        }
+      ]
+    },
+    {
+      "topic": "Rambus Gains Share in Memory Interface Silicon",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Rambus's product revenue grew 22% year-over-year, significantly outpacing the 12% server unit growth, signaling share and content gains in memory-interface silicon. The company is expanding into complete chipsets beyond registered clock drivers, increasing revenue per DIMM and customer stickiness.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2081875465619542164",
+          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
+        }
+      ]
+    },
+    {
+      "topic": "MRDIMM as 2027 Memory Content Inflection",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "MRDIMM (Multiplexer Rank Dual In-line Memory Module) is identified as a significant content inflection for 2027, not a Q4 2026 catalyst, with an estimated 4x increase in silicon content per module. Material contribution is expected when compatible CPU platforms ramp in earnest in 2027.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2081875465619542164",
+          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
+        }
+      ]
+    },
+    {
+      "topic": "Supply Security Drives Memory Interface Share Gains",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Secured supply and strategic inventory, rather than ASP inflation, are determining share gains in memory-interface silicon. Rambus is building inventory to support future ramps and prioritizing market share over near-term price increases, despite increasing lead times and supply tightness.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2081875465619542164",
+          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
+        }
+      ]
+    },
+    {
+      "topic": "AMD Helios Production & MI455X GPU Deployments",
+      "category": "sectors",
+      "subcategory": "gpu",
+      "summary": "AMD announced that its Helios platform is in full production with shipments beginning in Q3 2026, including a 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. AMD also projects a new >50% CAGR TAM for the CPU market, reaching $220 billion by 2030.",
       "mentions": [
         {
           "handle": "@aleabitoreddit",
@@ -203,15 +185,28 @@
       ]
     },
     {
-      "topic": "Samsung's CXL memory pooling for AI KV Cache",
+      "topic": "Nvidia Backstops OpenAI Data Center Financing",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Samsung's research demonstrates that CXL-based memory pooling can effectively support large-scale KV Cache offloading for AI inference workloads, delivering near-DRAM performance and substantial memory scalability.",
+      "subcategory": "gpu",
+      "summary": "Nvidia is reportedly in talks to backstop $250 billion in financing for OpenAI's data center expansion, including a 10 GW Ohio campus developed by Softbank's SB Energy. OpenAI is also discussing a separate agreement to purchase up to $350 billion in Nvidia chips.",
       "mentions": [
         {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2081476790686781777",
-          "text": "Samsung published their research on solving KV Cache scaling challenges with CXL-based memory pooling.\n\nQuestion: Can a CXL memory pool support large-scale KV Cache offloading while maintaining performance comparable to DRAM?\n\nEvaluation: CXL memory pooling can deliver both near-"
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2081548360818004299",
+          "text": "Nvidia in talks to backstop $250B worth of OpenAI DC financing.\n\n- Softbank’s SB energy develops 10 GW Ohio campus \n\n- OpenAI signs long term lease\n\n- $NVDA guarantees $250B in financing\n\n- OpenAI discussing separate agreement to buy up to $350B in Nvidia chips.\n\nNot quite sure i"
+        }
+      ]
+    },
+    {
+      "topic": "SK Group & Nvidia $500B+ AI DC & HBM4 Partnership",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "SK Group and Nvidia have signed a partnership valued at over $500 billion to build out AI data centers and develop HBM4 memory. This massive collaboration underscores the significant investments being made in AI infrastructure and advanced memory technology.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
+          "text": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory"
         }
       ]
     }
