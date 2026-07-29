@@ -1,212 +1,257 @@
 {
-  "generated_at": "2026-07-28T00:08:09+00:00",
-  "tweet_count": 70,
-  "account_count": 18,
+  "generated_at": "2026-07-29T00:03:21+00:00",
+  "tweet_count": 68,
+  "account_count": 20,
   "themes": [
     {
-      "topic": "China's DUV Lithography Production",
+      "topic": "SK Hynix Q2'26 Earnings & HBM Outlook",
       "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "China has begun mass-producing immersion DUV lithography equipment, with 5 units expected this year and 20 by 2027 for SMIC, Hua Hong, and CXMT. This development, while limited in volume and inferior to ASML's technology, has led to a market sell-off in semiconductor equipment stocks like ASML.",
+      "subcategory": "memory",
+      "summary": "SK Hynix reported Q2'26 operating profit below estimates but showed significant YoY growth in revenue and profit, driven by HBM and AI server DRAM. The company began HBM4 shipments, plans to ramp production, and secured long-term supply agreements with ~10 major customers, while also forecasting strong DRAM/NAND demand growth for 2026.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2081885330291261864",
-          "text": "China has started producing immersion DUV lithography equipment.\n\nFive units this year, rising to 20 in 2027. The tools will be installed at SMIC, Hua Hong Semiconductor, and CXMT. On the day the news broke, ASML shares fell more than 7%.\n\nWhat does this actually mean?\n\nLithograp"
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2082254057058562311",
+          "text": "SK Hynix's growth is staggering despite reporting lower than expected earnings.\n\nRevenue: +51% QoQ & +257% YoY\nOperating Profit: +61% QoQ & +557% YoY\nNet Profit: +133% QoQ & +1,242% YoY\n\nThis level of growth acceleration, backed by LTAs, deserves a significant re-rate of the valu"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2082253936766169374",
+          "text": "Anyone who wants to listen to the SK Hynix $SKHY earnings call live can use Perplexity Finance, @PPLXfinance:\n\nhttps://t.co/VuqASzY7NH"
+        },
+        {
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2082244870446403599",
+          "text": "The sweet victory of SK Hynix now being only 40% above where it was when I sold rather than 200%."
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2082243271951094196",
+          "text": "Yikes 😬 $SKHY"
         },
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2081887384531357952",
-          "text": "The news about China’s DUV progress is not particularly surprising. Wasn’t this something everyone already had a vague sense of?\n\nMoreover, The Information’s report merely cites remarks made by a professor at one of China’s Jiaotong universities during an internal meeting in June"
+          "url": "https://x.com/jukan05/status/2082242051173937333",
+          "text": "There’s a reason for the saying that, when it comes to memory semiconductors, you shouldn’t trust anyone but Korean analysts, lol.\n\nKIS is a veteran in this field.\n\nNot only KIS, but veteran analysts at Citi, Meritz, and elsewhere all lowered their earnings estimates for SK hynix"
         },
         {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2081890974511559135",
-          "text": "Semiconductor stocks went green to red in US trading due to this story, SOX index -2.2%, ASML -5.8%"
-        }
-      ]
-    },
-    {
-      "topic": "Macro & AI Capex Uncertainty Ahead of Fed/Earnings",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Markets face significant uncertainty from upcoming Fed rate decisions and hyperscaler earnings, which will update AI capex guidance. Concerns include geopolitical tensions, the sustainability of the AI boom, major AI IPOs, and potential rate hikes, all contributing to market volatility.",
-      "mentions": [
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2081838383416926354",
-          "text": "The Fed decides on interest rates at 2pm Wednesday. $MSFT and $META report earnings two hours later.\n\nFed Chair Kevin Warsh told Congress on July 14 that spending on chips, servers and data center gear is growing near 25 percent a year and is still speeding up. Governor Lisa Cook"
-        }
-      ]
-    },
-    {
-      "topic": "Trump's Comments on Iran & Crude Oil Drop",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Crude oil prices dropped over 8% following former President Trump's comments about 'very friendly negotiations' ongoing with Iran. This suggests potential de-escalation of geopolitical tensions affecting oil supply, though the environment remains volatile with no formal ceasefire.",
-      "mentions": [
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082240127410032820",
+          "text": "$SKHY (Bloomberg) -- SK Hynix reported operating profit for the second quarter that missed the average analyst estimate.\n\nSECOND QUARTER RESULTS\nOperating profit 60.54 trillion won, estimate 64.22 trillion won (Bloomberg Consensus)\nNet 93.82 trillion won, estimate 54.32 trillion "
+        },
         {
           "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2081827107273891924",
-          "text": "*TRUMP ON IRAN: RIGHT NOW VERY FRIENDLY NEGOTIATIONS GOING ON\n\nCrude down 8%+ on the day. Just another day in the life for oil bulls https://t.co/SmobaXyQxd"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2081509710658711994",
-          "text": "We are by no means out of the woods yet.\n\nThe U.S. has paused strikes on Iran this weekend after 13 days which is why Brent is down ~7%.\n\nBut in this War, a pause in strikes has ultimately led to further escalations and additional market volatility.\n\nIt's still a pressure-cooker "
+          "url": "https://x.com/negligible_cap/status/2082237006654918729",
+          "text": "*SK HYNIX 2Q OPER PROFIT 60.54T WON, EST. 64.22T WON\n\nOh my https://t.co/SWMi4CdJyN"
         }
       ]
     },
     {
-      "topic": "Samsung $200B MOU with Broadcom for Memory & Foundry",
+      "topic": "Seagate Q4 FY2026 Earnings & HDD Pricing Power",
       "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Samsung has signed a $200 billion Memorandum of Understanding (MOU) with Broadcom to produce chips, encompassing both memory and logic (foundry services), through 2030. This strategic partnership aims to secure supply for Broadcom's AI framework.",
+      "subcategory": "hdd",
+      "summary": "Seagate reported strong Q4 FY2026 earnings, with data-center revenue up 57% YoY and exabyte shipments up 43%, indicating a demand-constrained, price-led market. The company achieved its 13th consecutive quarter of gross margin expansion, with nearline capacity sold out through 2027, suggesting significant pricing power that should flow to Western Digital.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082235130492395791",
+          "text": "$STX KEY READ-THROUGHS FROM SEAGATE TECHNOLOGY Q4 FY2026 EARNINGS CALL\n\nSeagate’s Q4 FY2026 earnings call provides unusually strong evidence that the mass-capacity storage market has entered a demand-constrained, price-led phase rather than a conventional unit-volume recovery. Da"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2082220837264900453",
+          "text": "$STX fell 8.5% with the AI selloff today, then reported the best quarter in its history after the close.\n\n→ EPS $5.71 vs $5.10 expected\n\n→ Gross margin 52.7% (Highest in company history)\n\n→ Guided next quarter to $7.30 EPS vs $5.70 28% above consensus\n\n→ Nearline capacity sold ou"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2082200773434429788",
+          "text": "Again great print from Seagate $STX and very strong numbers from Bloom $BE.\n\nWatching whether they hold their earnings gains as an early hint of a paradigm shift. Need to listen to the $BE call, but after a 50% discount I'll look to get back in if tomorrow isn't a trainwreck. htt"
+        }
+      ]
+    },
+    {
+      "topic": "KLA Raises WFE Outlook for 2026-2027",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "KLA raised its calendar 2026 wafer fabrication equipment (WFE) expectation to low-$150 billion and projected $190 billion for 2027, indicating a broad-based capital investment cycle driven by leading-edge logic, HBM, DRAM, NAND, and advanced packaging, benefiting equipment vendors like AMAT, LRCX, ASML, and TEL.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082235400190640364",
+          "text": "$KLAC KEY READ-THROUGHS FROM KLA CORPORATION Q4 2026 EARNINGS CALL\n\nKLA’s Q4 2026 earnings call provided one of the clearest upstream confirmations that the current semiconductor capital-investment cycle is broadening beyond a narrow AI accelerator buildout into leading-edge logi"
+        }
+      ]
+    },
+    {
+      "topic": "HBM & DRAM Driving Higher Equipment Intensity",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "HBM is structurally increasing equipment intensity in memory manufacturing, with process control requirements approaching advanced-logic levels due to greater customization, integration, and inspection needs, significantly benefiting Lam Research, Applied Materials, Tokyo Electron, and ASML (for DRAM EUV).",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082235400190640364",
+          "text": "$KLAC KEY READ-THROUGHS FROM KLA CORPORATION Q4 2026 EARNINGS CALL\n\nKLA’s Q4 2026 earnings call provided one of the clearest upstream confirmations that the current semiconductor capital-investment cycle is broadening beyond a narrow AI accelerator buildout into leading-edge logi"
+        }
+      ]
+    },
+    {
+      "topic": "Advanced Packaging Capital Cycle Accelerating",
+      "category": "sectors",
+      "subcategory": "advanced_packaging",
+      "summary": "KLA raised its 2026 advanced packaging process-control revenue forecast to over 70% growth, driven by chiplet architectures, HBM integration, hybrid bonding, and wafer-level integration, benefiting equipment vendors like BESI, ASMPT, KLIC, SUSS MicroTec, and OSATs like Amkor and ASE.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082235400190640364",
+          "text": "$KLAC KEY READ-THROUGHS FROM KLA CORPORATION Q4 2026 EARNINGS CALL\n\nKLA’s Q4 2026 earnings call provided one of the clearest upstream confirmations that the current semiconductor capital-investment cycle is broadening beyond a narrow AI accelerator buildout into leading-edge logi"
+        }
+      ]
+    },
+    {
+      "topic": "Bloom Energy Q2'26 & AI Data Center Power Availability",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "Bloom Energy reported strong Q2'26 results, raising full-year guidance, with management emphasizing that \"time to power is time to token revenue\" for AI data centers. Their onsite generation solutions are being adopted by hyperscalers to accelerate compute activation, reducing price sensitivity to power equipment.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082236392759758863",
+          "text": "$BE KEY READ-THROUGHS FROM BLOOM ENERGY Q2 2026 EARNINGS CALL\n\nBloom Energy’s 07/28/26 earnings call provided a material market-structure signal for AI infrastructure, distributed generation, electrical equipment, natural gas, regulated utilities and infrastructure finance. Q2 re"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+          "text": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 104% Y/Y revenue growth with 300%+ EPS gr"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2082200773434429788",
+          "text": "Again great print from Seagate $STX and very strong numbers from Bloom $BE.\n\nWatching whether they hold their earnings gains as an early hint of a paradigm shift. Need to listen to the $BE call, but after a 50% discount I'll look to get back in if tomorrow isn't a trainwreck. htt"
+        }
+      ]
+    },
+    {
+      "topic": "Corning Q2'26 Earnings & AI Data Center Fiber Demand",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Corning reported strong Q2'26 enterprise sales, nearly doubling AI-data-center product sales, driven by scale-out AI clusters. Despite a lower Q3 guide, management is enthusiastic about accelerating orders and long-term agreements, with supply constraints, not weak demand, limiting near-term growth for optical fiber, the \"circulatory system of AI infrastructure.\"",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2082198794180141414",
+          "text": "$GLW Corning had a really great quarter\n\nManagement is so happy, you can hear the enthusiasm in their voices\n\nSome key points:\n\n> Enterprise sales reached $1.27B, up 65% YoY.\n> Gen AI product sales nearly doubled.\n> The AI-data-center portion of Enterprise sales also nearly doubl"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2082145370449261016",
+          "text": "Optical fiber is the circulatory system of AI infrastructure. As AI clusters expand and more traffic moves between GPUs, racks and data centers, the physical network must carry an enormous and growing volume of data.\n\nThat is why I do not view this selloff as evidence that demand"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+          "text": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 104% Y/Y revenue growth with 300%+ EPS gr"
+        }
+      ]
+    },
+    {
+      "topic": "Google's Increased Hyperscaler Capex for AI",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Google raised its capital expenditure guidance to $195-$205 billion, signaling a significant AI demand signal from hyperscalers and indicating continued AI acceleration.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2082230983487803755",
+          "text": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 104% Y/Y revenue growth with 300%+ EPS gr"
+        }
+      ]
+    },
+    {
+      "topic": "Hyperscaler GPU Rental Spot Prices & AI Capex Funding",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Hyperscaler credit spreads are widening, but GPU rental spot prices are at least 2x higher than contracted rates, implying hyperscalers are underearning and operating cash flow will accelerate to fund AI capex. This suggests that concerns about hyperscaler creditworthiness are overblown, as contract repricing will boost cash flow.",
+      "mentions": [
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2082166566280642676",
+          "text": "Market is overreacting to hyperscale credit spreads widening from my perspective. TL;DR Spot pricing for renting GPU compute materially above contracted rates implies hyperscalers are underearning while operating cash flow acceleration is an underestimated source of funds for AI "
+        }
+      ]
+    },
+    {
+      "topic": "MediaTek & Qualcomm Raise Smartphone Chip Prices",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "MediaTek and Qualcomm are raising prices on smartphone chips in Q3 due to rising supply chain costs, including wafers and packaging materials, driven by the AI data center build-out. MediaTek's Dimensity 9600 Pro and Qualcomm's Snapdragon 8 Elite Gen 6 Pro are seeing significant price increases.",
       "mentions": [
         {
           "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2081550429402644935",
-          "text": "Samsung inked a $200 billion MOU to make chips for Broadcom, both memory and logic (foundry):"
+          "url": "https://x.com/dnystedt/status/2081902970137161873",
+          "text": "MediaTek and Qualcomm are both raising prices on smartphone chips in the 3rd quarter due to rising costs across the supply chain – including wafers, packaging materials, services, etc. – caused by the AI data center build out, media report, with MediaTek price increases already i"
+        }
+      ]
+    },
+    {
+      "topic": "Nvidia Raises Graphics Card Prices Due to Memory Costs",
+      "category": "sectors",
+      "subcategory": "gpu",
+      "summary": "Nvidia has raised graphics card prices by 20-30% for the third time this year, attributing the increase to rising memory chip prices.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2081899176468902354",
+          "text": "Nvidia raised graphics card prices again, 20%-30%, due to rising memory chip prices, media report, the 3rd hike this year. $NVDA $AMD $MU $SKHY $SSNLF #gaming https://t.co/uH4PAWba81"
+        }
+      ]
+    },
+    {
+      "topic": "Intel Foundry RAMP-C Program Completion & 18A Technology",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "Intel Foundry completed the RAMP-C program, a Department of War initiative to develop secure, leading-edge domestic semiconductor manufacturing. This establishes a foundation for trusted domestic production using Intel's 18A process technology and expands into the Secure Enclave program for US government applications.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2082128590804787241",
+          "text": "🤩 $INTC Foundry has completed the RAMP-C program, a Department of War initiative launched in October 2021 to develop secure, leading-edge domestic semiconductor manufacturing capabilities. \n\nThe program successfully progressed through three phases from ecosystem enablement to val"
+        }
+      ]
+    },
+    {
+      "topic": "Advanced Logic Foundry Base Broadening Beyond TSMC",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "Leading-edge logic is moving towards a broader supplier base, with demand exceeding the capacity of a single foundry, benefiting Intel and Samsung Foundry as customers seek multiple sources for capacity and resilience, while still increasing overall equipment demand for vendors.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082235400190640364",
+          "text": "$KLAC KEY READ-THROUGHS FROM KLA CORPORATION Q4 2026 EARNINGS CALL\n\nKLA’s Q4 2026 earnings call provided one of the clearest upstream confirmations that the current semiconductor capital-investment cycle is broadening beyond a narrow AI accelerator buildout into leading-edge logi"
+        }
+      ]
+    },
+    {
+      "topic": "US Ban on Chinese Humanoid Robots",
+      "category": "out_of_ai",
+      "subcategory": "robotics",
+      "summary": "The FCC is reportedly banning imports of Chinese humanoid and quadruped robots to protect American robotics programs, which could benefit US players like Agility Robotics.",
+      "mentions": [
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2082243987247898693",
+          "text": "This is a really big deal for some Phys AI companies...\n\nSpecifically humanoids. \n\nThere is one that doesn't get much attention yet. \n\nIt's not $CCXI / AGLT. But they are one of the main ways to have public market access. \n\nI personally am not touching it until I see some more cl"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2082177725868191749",
+          "text": "\"new robot ban\"\nBasically the same approach that the FCC took with Chinese drones\nU can import all the current Unitree robots, but new robot models are not allowed"
         },
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
-          "text": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory"
-        }
-      ]
-    },
-    {
-      "topic": "CXMT IPO Stock Surge",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "CXMT (ChangXin Memory Technologies) saw its stock surge by over 469% on its first trading day, reaching a valuation of approximately $487.31 billion. This significant IPO performance highlights strong investor interest in Chinese memory companies.",
-      "mentions": [
-        {
-          "handle": "@rwang07",
-          "url": "https://x.com/rwang07/status/2081590618489503992",
-          "text": "Good time to rewind. CXMT stock went up 500+% on the first trading day. \n\nWow."
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2081579593815978273",
-          "text": "Wow, $CMXT is up a very normal +469.98% after going public today.\n\nNow valuing it at ~$487.31 billion, up from $85.5 billion. \n\nDid any of my Chinese followers buy into the IPO? https://t.co/TlibjHe799"
-        }
-      ]
-    },
-    {
-      "topic": "Kimi K3 KV Cache & Memory Demand Debate",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "A debate exists regarding Kimi K3's KV cache compression and its impact on memory demand, with some analysts turning openly bearish. However, research suggests K3's efficiency gains make NAND offload economically viable, expanding the NAND/DRAM opportunity rather than shrinking it, as the model still demands more HBM, GPUs, and networking.",
-      "mentions": [
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2081726571430191111",
-          "text": "Weekly|Kimi K3 KV Cache and the Memory Overreaction, NOW 2Q26 Pull-Forward, GOOG GCP ROI Inflection, IFX AI Power, AI Labs ARR Tracker\n\nThe memory debate ate the week. A major sell-side Asia semis analyst turned openly bearish on memory, and the Asian memory complex was marked do"
-        }
-      ]
-    },
-    {
-      "topic": "AI Inference Expands CPU Server Demand",
-      "category": "sectors",
-      "subcategory": "cpu",
-      "summary": "AI inference and agentic AI workloads are expanding demand for CPU-based servers, with the server market's unit-growth outlook improving to approximately 12%. This indicates that AI infrastructure is creating additional demand for standalone CPU servers rather than solely reallocating budgets to accelerators.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2081875465619542164",
-          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
-        }
-      ]
-    },
-    {
-      "topic": "Increasing Memory Channel Counts in Servers",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "The server market is progressing towards higher memory channel counts, moving from 8 to 12 and eventually 16 channels per CPU, with AI servers often deploying the maximum number. This trend increases memory content per server faster than server unit growth, benefiting server DDR5 bit demand.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2081875465619542164",
-          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
-        }
-      ]
-    },
-    {
-      "topic": "Rambus Gains Share in Memory Interface Silicon",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Rambus's product revenue grew 22% year-over-year, significantly outpacing the 12% server unit growth, signaling share and content gains in memory-interface silicon. The company is expanding into complete chipsets beyond registered clock drivers, increasing revenue per DIMM and customer stickiness.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2081875465619542164",
-          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
-        }
-      ]
-    },
-    {
-      "topic": "MRDIMM as 2027 Memory Content Inflection",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "MRDIMM (Multiplexer Rank Dual In-line Memory Module) is identified as a significant content inflection for 2027, not a Q4 2026 catalyst, with an estimated 4x increase in silicon content per module. Material contribution is expected when compatible CPU platforms ramp in earnest in 2027.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2081875465619542164",
-          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
-        }
-      ]
-    },
-    {
-      "topic": "Supply Security Drives Memory Interface Share Gains",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Secured supply and strategic inventory, rather than ASP inflation, are determining share gains in memory-interface silicon. Rambus is building inventory to support future ramps and prioritizing market share over near-term price increases, despite increasing lead times and supply tightness.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2081875465619542164",
-          "text": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL\n\nOVERVIEW\n\nRambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compute, server memory, custom AI silicon, HBM, connectivity IP, and Chinese DRAM ecosystems. The most imp"
-        }
-      ]
-    },
-    {
-      "topic": "AMD Helios Production & MI455X GPU Deployments",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "AMD announced that its Helios platform is in full production with shipments beginning in Q3 2026, including a 2GW MI455X GPU deployment with Anthropic and a 6GW infrastructure rollout with OpenAI. AMD also projects a new >50% CAGR TAM for the CPU market, reaching $220 billion by 2030.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
-          "text": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory"
-        }
-      ]
-    },
-    {
-      "topic": "Nvidia Backstops OpenAI Data Center Financing",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Nvidia is reportedly in talks to backstop $250 billion in financing for OpenAI's data center expansion, including a 10 GW Ohio campus developed by Softbank's SB Energy. OpenAI is also discussing a separate agreement to purchase up to $350 billion in Nvidia chips.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2081548360818004299",
-          "text": "Nvidia in talks to backstop $250B worth of OpenAI DC financing.\n\n- Softbank’s SB energy develops 10 GW Ohio campus \n\n- OpenAI signs long term lease\n\n- $NVDA guarantees $250B in financing\n\n- OpenAI discussing separate agreement to buy up to $350B in Nvidia chips.\n\nNot quite sure i"
-        }
-      ]
-    },
-    {
-      "topic": "SK Group & Nvidia $500B+ AI DC & HBM4 Partnership",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "SK Group and Nvidia have signed a partnership valued at over $500 billion to build out AI data centers and develop HBM4 memory. This massive collaboration underscores the significant investments being made in AI infrastructure and advanced memory technology.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
-          "text": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prepayments. \n\n- Samsung + $AVGO sign memory"
+          "url": "https://x.com/aleabitoreddit/status/2082175588555702410",
+          "text": "FCC set to ban Chinese imports of humanoid and quadruped robots per Reuters.  \n\nTo protect American Humanoid/Robotics programs.\n\nAgility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this. https://t.co/s2dFWTA4EX"
         }
       ]
     }
