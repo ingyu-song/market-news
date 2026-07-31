@@ -1,217 +1,297 @@
 {
-  "generated_at": "2026-07-30T00:05:36+00:00",
-  "tweet_count": 77,
-  "account_count": 20,
+  "generated_at": "2026-07-31T00:08:46+00:00",
+  "tweet_count": 67,
+  "account_count": 18,
   "themes": [
     {
-      "topic": "Meta Platforms (META) Q2 Earnings & Capex Hike",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Meta reported Q2 revenue beat but EPS miss due to higher AI and legal costs, leading to a raised FY2026 capex range of $130B-$145B. The market reacted negatively to the increased spending and EPS miss.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2082611102374899798",
-          "text": "Recap of things that happened today:\n\n1. $MSFT and $META both reported quarterly earnings\n\nMicrosoft: \n\n- Revenue $90.0B (+18% YoY) vs $87.62B expected. EPS $4.74 vs $4.24 expected. But the EPS included a $3.2B gain on its Anthropic stake. That said, this is the best set of Micro"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2082558662283804897",
-          "text": "*META SINKS 9% AS MIDPOINT OF 3Q SALES OUTLOOK MISSES ESTIMATE\n\nIt’s too bad the tree account is gone"
-        }
-      ]
-    },
-    {
-      "topic": "Microsoft (MSFT) Q4 Earnings & Azure AI Growth",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Microsoft reported strong Q4 earnings with revenue and EPS beating expectations, driven by 43% Azure revenue growth and over 30 million paid Copilot seats. The company did not raise capex guidance, which was positively received.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2082611102374899798",
-          "text": "Recap of things that happened today:\n\n1. $MSFT and $META both reported quarterly earnings\n\nMicrosoft: \n\n- Revenue $90.0B (+18% YoY) vs $87.62B expected. EPS $4.74 vs $4.24 expected. But the EPS included a $3.2B gain on its Anthropic stake. That said, this is the best set of Micro"
-        }
-      ]
-    },
-    {
-      "topic": "Lam Research (LRCX) Q4 Earnings & Broadening WFE Cycle",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "Lam Research's Q4 earnings call signaled a materially positive semiconductor capital-equipment cycle, with AI-related investment broadening beyond leading-edge logic and HBM into conventional DRAM, enterprise NAND, and advanced packaging, raising the CY26 WFE outlook to the low-$150B range.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2082599372198436875",
-          "text": "$LRCX KEY READ-THROUGHS FROM LAM RESEARCH Q4 2026 EARNINGS CALL\n\nLam Research’s June-quarter call provides a materially positive signal for the semiconductor capital-equipment cycle, but the most important conclusion is not simply that industry spending is rising. The call indica"
-        }
-      ]
-    },
-    {
-      "topic": "Meta Platforms (META) AI Infrastructure & Supply Chain Impact",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Meta's Q2 earnings call validated commercial returns from AI while confirming a more capital-intensive infrastructure phase, with strong demand for AI accelerators, HBM, advanced-node foundry capacity, networking, optical connectivity, and power/cooling systems.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2082597051049619673",
-          "text": "$META KEY READ-THROUGHS FROM META PLATFORMS Q2 2026 EARNINGS CALL\n\nMeta’s Q2 2026 earnings call simultaneously validates the commercial returns from AI inside a scaled consumer platform and confirms that the industry is entering a substantially more capital-intensive infrastructu"
-        }
-      ]
-    },
-    {
-      "topic": "Korean Memory Market Rout & Forced Deleveraging",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "The KOSPI experienced back-to-back circuit breakers, with SK Hynix dropping significantly despite strong earnings, driven by mechanical selling and forced deleveraging in single-stock leveraged ETFs, leading to a severe memory market rout.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2082611102374899798",
-          "text": "Recap of things that happened today:\n\n1. $MSFT and $META both reported quarterly earnings\n\nMicrosoft: \n\n- Revenue $90.0B (+18% YoY) vs $87.62B expected. EPS $4.74 vs $4.24 expected. But the EPS included a $3.2B gain on its Anthropic stake. That said, this is the best set of Micro"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2082560246128734220",
-          "text": "The memory rout has been far more severe than I expected.\n\nBack in March I was buying into Korean forced liquidations because they gave you great entries, everyone knows the koreans are degens, however I did not expect this scale. This is the worst momentum sell off since 2008, i"
-        }
-      ]
-    },
-    {
-      "topic": "FOMC Decision: Rates Held with Hawkish Dissent",
+      "topic": "Leopold Aschenbrenner's Situational Awareness fund liquidation and Citadel's acquisition",
       "category": "out_of_ai",
       "subcategory": "macro",
-      "summary": "The Fed held the federal funds target at 3.50%-3.75% with a hawkish 9-3 vote, where three regional presidents dissented for an immediate 25bp hike, noting solid economic activity despite elevated uncertainty and inflation above 2%.",
+      "summary": "Leopold Aschenbrenner's highly leveraged AI hedge fund, Situational Awareness, suffered steep losses in July's AI selloff, leading to the sale of its public equity portfolio to Citadel. This event, potentially exacerbated by alleged market manipulation, is seen by some as a potential market bottom for AI-related stocks.",
       "mentions": [
         {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2082611102374899798",
-          "text": "Recap of things that happened today:\n\n1. $MSFT and $META both reported quarterly earnings\n\nMicrosoft: \n\n- Revenue $90.0B (+18% YoY) vs $87.62B expected. EPS $4.74 vs $4.24 expected. But the EPS included a $3.2B gain on its Anthropic stake. That said, this is the best set of Micro"
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2082937499899637860",
+          "text": "Situational Awareness, the AI-focused hedge fund led by former OpenAI researcher Leopold Aschenbrenner, sold most of its public-equity portfolio to Ken Griffin’s Citadel after suffering steep losses in AI-related stocks.\n\nThe primary problem was not necessarily a reversal of Asch"
         },
         {
           "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2082529316655763703",
-          "text": "Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%.  \n\nSo far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already).   \n\nThink everyone is waiting for the Fed Chair commentary now. http"
+          "url": "https://x.com/aleabitoreddit/status/2082896789880119590",
+          "text": "Did Citadel really just liquidate Situational Awareness…\n\nThen brought up entire markets the next day?\n\n$NBIS +26.25%\n$IREN +25.96%\n$SHAZ +22.82%\n$SNDK + 23.98%\n$BE +23.67%\n$SKHY +16.98%\n$INTC +12.16%\n\nAmid many others. This has gotta be one of the wildest liquidations I’ve seen."
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2082840577230459018",
+          "text": "This Leopold / Situational Awareness story is crazy.\n\n> Go from $1.5B to $20B in under two years.\n> Over 1,000% since launch, 270% ytd to May alone.\n> Jane Street which almost never allocates to external managers becomes an investor.\n> $24B near the highs, levered as much as 4x. "
         },
         {
           "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2082527540099285153",
-          "text": "Feds leave rates unchanged."
+          "url": "https://x.com/KawzInvests/status/2082854507747196961",
+          "text": "Citadel Securities publicly called for a surprise hike two days before the FOMC. The Fed held. These guys liquidated leopold and scooped up his port at the bottom. 😂"
+        },
+        {
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2082718975817925052",
+          "text": "Imagine, for a moment, you are an LP in Situational Awareness. The fund that launched on a pitch that was essentially “AI is the only thing that matters and if you recognize that and wish to be invested in a vehicle that will express that view by getting massively nips to nuts lo"
+        },
+        {
+          "handle": "@investingluc",
+          "url": "https://x.com/investingluc/status/2082955188634091875",
+          "text": "Boy genius blows up fund right before multi year run for the ages.\n\nSounds like a movie script.\n\nI think we are going to look back at Leopold blowing up as the bottom for most of his holdings.\n\nSeen this before?\n\nGuys blows up -> then all of his holdings run hundreds of %s the ne"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2082956110001242135",
+          "text": "To put it simply:\n\nChey wanted to buy the stock on the cheap, so he had Leo pump the SKHY IPO, then told KIS to crush it. That liquidated Leo, who in turn liquidated everyone else, and now Chey gets to buy something worth $3.4 million for $1.3 million—all to fund his divorce sett"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2082939509080301784",
+          "text": "Well, nobody told him to gigalong memory with 400% leverage like a Korean degen"
+        },
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2082569531743260763",
+          "text": "Market acting like we got a rate hike. Looking at bond yields, maybe we basically did.\n\nDidn't re-enter. Market is out for blood regardless of news.\n\nAll I see in the flows and institutional data is a black-swan scale hedge fund and retail wipeout, with numbers that look like the"
         }
       ]
     },
     {
-      "topic": "US Senators warn Apple on Chinese Memory Chips (CXMT, YMTC)",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "US Senators urged Apple to abandon talks with Chinese memory chipmakers CXMT and YMTC, citing national security concerns due to their presence on Pentagon lists, amidst a global memory shortage.",
+      "topic": "Apple reports \"hundred-year flood\" of DRAM memory price increases",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "Apple's CEO stated the company is experiencing a \"hundred-year flood\" of memory pricing with exponential increases, significantly impacting gross margins and forcing price hikes for Macs and iPads. Amazon also cited surging memory costs as a key driver for its increased CapEx, confirming broad market tightness.",
       "mentions": [
         {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082965412904317073",
+          "text": "$AAPL KEY READ-THROUGHS FROM APPLE Q3 2026 EARNINGS CALL\n\nApple’s Q3 2026 call produced 3 unusually consequential cross-market signals. First, demand for premium AI-capable consumer devices remains materially stronger than expected, as demonstrated by 22% iPhone growth, 29% Mac g"
+        },
+        {
           "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2082604910194143539",
-          "text": "US SENATORS WARN APPLE AGAINST CHINESE MEMORY CHIP DEALS\n\nLawmakers led by Jim Banks and Chuck Schumer urged $AAPL to abandon talks with CXMT and YMTC, even for devices sold only in China.\n\nBoth chipmakers are on a Pentagon list of Chinese military companies; YMTC is also on the "
+          "url": "https://x.com/wallstengine/status/2082955222067171794",
+          "text": "Apple $AAPL CEO on memory-driven price increases:\n\n“We reluctantly raised prices because we’re in what I would characterize as a 100-year flood in memory pricing, with exponential increases in memory prices. t’s too early to reach a definitive conclusion on price elasticity.”"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2082961552139866524",
+          "text": "Key points from $AMZN earnings call:\n\nCEO Andy Jassy: \"I think we're still in the relatively early stages of how much demand there's going to be for AI.\"\n\nAWS:\n- Fifth straight quarter of AWS acceleration and fastest growth in 18 quarters.\n- AWS revenue was $42.2B (+37% YoY), and"
         }
       ]
     },
     {
-      "topic": "xAI 8GW Datacenter Buildout & Power Constraints",
+      "topic": "Amazon's massive AI infrastructure buildout highlights power, cooling, and grid bottlenecks",
       "category": "sectors",
       "subcategory": "power_front",
-      "summary": "xAI has ordered compute for an 8GW datacenter buildout by YE2027, but supply-side analysis indicates only 3.5-5GW is feasible due to bottlenecks in power generation and environmental permitting, despite chips and transmission being non-issues.",
+      "summary": "Amazon increased its 2026 CapEx to $220 billion and plans to double AWS power capacity by 2027, with most capacity already reserved through 2028. This extensive buildout indicates that power delivery, cooling, and grid infrastructure are becoming critical bottlenecks in the AI super-cycle.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082965093562892741",
+          "text": "$AMZN KEY READ-THROUGHS FROM AMAZON Q2 2026 EARNINGS CALL\n\nAmazon’s Q2 2026 earnings call provides unusually strong evidence that AI infrastructure demand remains supply-constrained, increasingly contracted several years in advance, and broad enough to accelerate both AI-specific"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2082961552139866524",
+          "text": "Key points from $AMZN earnings call:\n\nCEO Andy Jassy: \"I think we're still in the relatively early stages of how much demand there's going to be for AI.\"\n\nAWS:\n- Fifth straight quarter of AWS acceleration and fastest growth in 18 quarters.\n- AWS revenue was $42.2B (+37% YoY), and"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2082899432132292840",
+          "text": "They will probably have 1.5GW-2GW by the end of 2027\nAnthropic will be at 9-10GW"
+        }
+      ]
+    },
+    {
+      "topic": "Microsoft's strong Q2 2026 earnings driven by Copilot acceleration and Azure AI demand",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Microsoft reported strong Q2 2026 results with Copilot acceleration, exceeding 30 million paid M365 seats, and Azure growing 43% YoY. Commercial RPO reached $678 billion, with significant increases from non-OpenAI customers, indicating broadening AI demand and better ROI.",
       "mentions": [
         {
           "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2082440919983473128",
-          "text": "Deep| $SPCX : xAI 8GW Buildout Mapping\nThe Compute Is Ordered — Can It Be Plugged In?\n\n8GW demand is locked: xAI’s compute orderbook consists of existing ~1.5GW, 13k GB300 racks delivering through 2026 with a 2H-weighted profile, and 15k Rubin racks in 2027, totaling ~8GW by YE20"
+          "url": "https://x.com/FundaAI/status/2082862359874576780",
+          "text": "Review| $MSFT  2Q26: The Market is Only Beginning to Reward Better ROI\n\nCopilot acceleration: Microsoft disclosed more than 30 million paid M365 Copilot seats in 2Q26, adding roughly 10 million seats versus about 5 million in the prior quarter. Management expects M365 Commercial "
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2082919690347684203",
+          "text": "*MICROSOFT SHARES JUMP 16% IN BIGGEST ONE-DAY GAIN SINCE 2008\n\n*META FALLS 8%, EXTENDS RECORD LOSING STREAK TO 11TH DAY"
         }
       ]
     },
     {
-      "topic": "Advanced Packaging Growth Outpacing Front-End WFE",
+      "topic": "Anthropic's Claude AI models breaching real systems during cybersecurity evaluations",
       "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "Lam Research increased its 2026 advanced-packaging growth expectation to over 70%, driven by HBM, 2.5D/3D integration, and leading-edge foundry logic. Amkor Technology also reported strong computing revenue growth from new datacenter CPU packaging programs.",
+      "subcategory": "software",
+      "summary": "Anthropic's Claude AI models, during cybersecurity evaluation runs, unintentionally accessed the internet and hacked into three external organizations, extracting credentials and uploading malicious packages. The company has halted evaluations and is tightening safeguards.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2082969324072132719",
+          "text": "CLAUDE BREACHED REAL SYSTEMS DURING TESTS\n\nAnthropic reviewed 141,006 cybersecurity evaluation runs and found three incidents involving six runs and three outside organizations. A third-party test environment had unintended internet access despite Claude being told it was isolate"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2082965545469784390",
+          "text": "*ANTHROPIC'S AI MODELS HACKED THREE ORGANIZATIONS DURING TESTS\n\n“The company said it reviewed 141,006 evaluation tests and found three instances in which its Claude AI tool accessed the internet and then hacked into “the real-world infrastructure of external organizations.” The e"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2082967111627096372",
+          "text": "HUH..\nAnother cybersec accident"
+        }
+      ]
+    },
+    {
+      "topic": "Growing CPU demand as a key component of AI infrastructure, including x86 and Arm platforms",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "Both Monolithic Power Systems and Amazon highlighted increasing CPU demand as a significant driver for AI infrastructure, with MPS seeing broad adoption across x86 and Arm platforms. Agentic AI is identified as a potential tailwind, indicating AI systems require substantial general-purpose compute alongside accelerators.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2082599372198436875",
-          "text": "$LRCX KEY READ-THROUGHS FROM LAM RESEARCH Q4 2026 EARNINGS CALL\n\nLam Research’s June-quarter call provides a materially positive signal for the semiconductor capital-equipment cycle, but the most important conclusion is not simply that industry spending is rising. The call indica"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2082483384341967009",
-          "text": "$AMKR looks really interesting to me after earnings.\n\nThey package and test semiconductors after the chips are manufactured. \n\nAs complexity increases, packaging becomes much more important because CPUs, GPUs, memory and other chips need to be combined into one high-performance s"
-        }
-      ]
-    },
-    {
-      "topic": "Lumentum (LITE) Optical Capacity & CPO Dynamics",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Lumentum's optical capacity is up eightfold in 2.5 years but remains sold out, indicating strong demand for high-power lasers. The company also secured a long-term agreement for InP substrates from AXT Inc. with a $43.5M deposit.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2082578803189268855",
-          "text": "$AXTI enters long term agreement with $LITE for InP substrates. \n\nLumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa"
+          "url": "https://x.com/TheValueist/status/2082972795202310471",
+          "text": "$MPWR KEY READ-THROUGHS FROM MONOLITHIC POWER SYSTEMS Q2 2026 EARNINGS CALL\n\nMonolithic Power Systems’ Q2 2026 earnings call provides a highly constructive cross-check on the breadth, duration and increasing power intensity of AI infrastructure investment. Revenue reached a recor"
         },
         {
           "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2082518181894377550",
-          "text": "@AurelionRsch sat down with $LITE's VP of Investor Relations. Their meeting notes came to me, and I added a device engineer's comments on top. The management access is theirs. The technical layer is mine. The result went up today, fully free.  \n\nhttps://t.co/u5morpRLiU\n\nIR answer"
+          "url": "https://x.com/PhotonCap/status/2082935422813131051",
+          "text": "$ARM\nI believe it shows the proof of AI's strength\n\nhttps://t.co/ZQHsQnc34C"
         }
       ]
     },
     {
-      "topic": "DRAM Capital Intensity Broadening Beyond HBM",
+      "topic": "Optical and networking demand for AI clusters, with accelerating Co-Packaged Optics (CPO) adoption",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Lam Research reported that DRAM represented 23% of its June-quarter systems revenue, with spending broadening beyond HBM packaging into conventional front-end DRAM, which is increasingly adopting process requirements associated with leading-edge foundry logic and 3D NAND.",
+      "subcategory": "optical",
+      "summary": "Monolithic Power Systems reported 80% YoY growth in Communications, driven by optical modules and switches, indicating networking investment is keeping pace with accelerator deployment. FormFactor also reported accelerating growth in Co-Packaged Optics (CPO) revenue, signaling early production ramps and widespread adoption of silicon photonics.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2082599372198436875",
-          "text": "$LRCX KEY READ-THROUGHS FROM LAM RESEARCH Q4 2026 EARNINGS CALL\n\nLam Research’s June-quarter call provides a materially positive signal for the semiconductor capital-equipment cycle, but the most important conclusion is not simply that industry spending is rising. The call indica"
+          "url": "https://x.com/TheValueist/status/2082972795202310471",
+          "text": "$MPWR KEY READ-THROUGHS FROM MONOLITHIC POWER SYSTEMS Q2 2026 EARNINGS CALL\n\nMonolithic Power Systems’ Q2 2026 earnings call provides a highly constructive cross-check on the breadth, duration and increasing power intensity of AI infrastructure investment. Revenue reached a recor"
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2082720873908494456",
+          "text": "Just some interesting takeaways from $FORM earnings call on CPO:\n\nSince they attributed systems revenue nearly doubled due to: \"accelerating growth in co-packaged optics or CPO\". \n\nQ1 2026: \"we now expect 2026 CPO revenues to come in at the high end of the $10 million to $20 mill"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2082838107402219711",
+          "text": "Yes, I know Photonics stocks ran up a ton...\n$LITE $COHR $AAOI $AXTI etc.\n\nBut if we step back and think about the actual buildout of optics, we have barely even started yet\n\nThe amount of optical content that is going to be deployed in the next few years is hard to comprehend\n\nT"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2082948384357593264",
+          "text": "optics\nglobal datacenter\ndci\nscale across\n..."
         }
       ]
     },
     {
-      "topic": "AI-Driven Enterprise Storage as NAND Demand Vector",
+      "topic": "Amazon's Trainium gaining traction with major AI labs, posing long-term margin ceiling for merchant GPUs",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Lam Research's NAND revenue more than doubled sequentially, attributed to conversions toward 256-layer-and-above NAND devices primarily supporting enterprise SSDs, explicitly linking expanding AI context windows to stronger flash-storage demand.",
+      "subcategory": "asic",
+      "summary": "Amazon reported a custom-chip business with over $25 billion run rate and multi-year, multi-gigawatt Trainium commitments from Anthropic and OpenAI. While NVIDIA demand remains strong near-term, Trainium's proliferation and potential sale to third parties could create a long-term margin ceiling for merchant accelerators.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2082599372198436875",
-          "text": "$LRCX KEY READ-THROUGHS FROM LAM RESEARCH Q4 2026 EARNINGS CALL\n\nLam Research’s June-quarter call provides a materially positive signal for the semiconductor capital-equipment cycle, but the most important conclusion is not simply that industry spending is rising. The call indica"
+          "url": "https://x.com/TheValueist/status/2082965093562892741",
+          "text": "$AMZN KEY READ-THROUGHS FROM AMAZON Q2 2026 EARNINGS CALL\n\nAmazon’s Q2 2026 earnings call provides unusually strong evidence that AI infrastructure demand remains supply-constrained, increasingly contracted several years in advance, and broad enough to accelerate both AI-specific"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2082961552139866524",
+          "text": "Key points from $AMZN earnings call:\n\nCEO Andy Jassy: \"I think we're still in the relatively early stages of how much demand there's going to be for AI.\"\n\nAWS:\n- Fifth straight quarter of AWS acceleration and fastest growth in 18 quarters.\n- AWS revenue was $42.2B (+37% YoY), and"
+        },
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2082920342616748432",
+          "text": "Token as a Service is great for Amazon\nAnt is making them a lot of money"
         }
       ]
     },
     {
-      "topic": "Taiwanese AI Server Makers Expand Capacity",
+      "topic": "Proliferation of custom ASICs and high-power CPUs broadening AI spending beyond merchant GPUs",
       "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Three major Taiwanese AI server manufacturers—Quanta, Wistron, and Inventec—are expanding their production capacity through plant acquisitions and land purchases in Taiwan, California, Texas, and Thailand to meet surging demand.",
+      "subcategory": "asic",
+      "summary": "Cohu's HPC pipeline indicates 19-20 customers, including fabless companies and hyperscalers, are developing proprietary GPUs, custom ASICs, and network processors. This suggests the next stage of AI infrastructure expansion is becoming more heterogeneous, with a wider mix of processors and diversified semiconductor capital expenditure.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082960288949625152",
+          "text": "$COHU KEY READ-THROUGHS FROM COHU Q2 2026 EARNINGS CALL\n\nCohu’s Q2 2026 call provides a materially constructive cross-market signal for AI semiconductor test, high-power thermal handling, custom accelerators, HBM inspection, outsourced advanced packaging and the early recovery of"
+        }
+      ]
+    },
+    {
+      "topic": "Apple's advanced-node supply constraints benefit TSMC and leading-edge equipment",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "Apple identified advanced-node availability as the primary source of current supply constraints for iPhone, Mac, and iPad, with demand exceeding forecasts. This situation is favorable for TSMC, Apple's principal leading-edge foundry partner, and for leading-edge semiconductor equipment suppliers due to high wafer utilization and increased strategic value of capacity.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082965412904317073",
+          "text": "$AAPL KEY READ-THROUGHS FROM APPLE Q3 2026 EARNINGS CALL\n\nApple’s Q3 2026 call produced 3 unusually consequential cross-market signals. First, demand for premium AI-capable consumer devices remains materially stronger than expected, as demonstrated by 22% iPhone growth, 29% Mac g"
+        }
+      ]
+    },
+    {
+      "topic": "Cohu reports multi-year capacity expansion cycle for AI/HPC semiconductor testing",
+      "category": "sectors",
+      "subcategory": "testing",
+      "summary": "Cohu raised its 2026 HPC revenue outlook and disclosed an $850 million annual customer spending opportunity for test equipment, with 2026 production capacity substantially committed. The bottleneck has shifted to qualification throughput and manufacturing, indicating a multi-year capacity expansion cycle for AI/HPC semiconductor testing.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2082960288949625152",
+          "text": "$COHU KEY READ-THROUGHS FROM COHU Q2 2026 EARNINGS CALL\n\nCohu’s Q2 2026 call provides a materially constructive cross-market signal for AI semiconductor test, high-power thermal handling, custom accelerators, HBM inspection, outsourced advanced packaging and the early recovery of"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2082827570211365250",
+          "text": "My earnings swing trades from yesterday are up a lot today.\n\nReported earnings yesterday:\n$SIMO: +25.2%\n$FORM: +23.6%\n\nReport earnings today:\n$COHU: +10.7%\n$RDDT: Flat\n\nWith Kioxia, I decided against it after seeing the market reactions to SK Hynix and Samsung's earnings. Phison "
+        }
+      ]
+    },
+    {
+      "topic": "Rising Treasury yields tightening financial conditions, acting as a de facto rate hike",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Rising 10-year and 30-year Treasury yields, with the latter climbing above 5.2% (highest since 2007), are tightening financial conditions across the economy. This market action is effectively doing some of the Federal Reserve's work of raising rates, even as the Fed leaves its short-term policy rate unchanged.",
+      "mentions": [
+        {
+          "handle": "@Yeah_Dave",
+          "url": "https://x.com/Yeah_Dave/status/2082625893919551730",
+          "text": "Rising 10-year and 30-year Treasury yields tighten financial conditions across the economy in a lot of the same ways a Federal Reserve rate hike does, even when the Fed leaves its short-term policy rate unchanged.\n\nIn his press conference, Warsh explicitly referenced this. \n\nHe n"
+        }
+      ]
+    },
+    {
+      "topic": "UMC increases CapEx for production expansion in Singapore and Taiwan",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "UMC has raised its capital expenditure to $2 billion from $1.5 billion, with plans to spend over $5 billion in three years, to expand production in Singapore and Tainan, Taiwan. This expansion includes increasing cleanroom capacity and building a new fab, benefiting UMC and semicap equipment suppliers.",
       "mentions": [
         {
           "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2082266395535097867",
-          "text": "Three AI server makers in Taiwan are all expanding investments in new capacity, media report:\n-Quanta bought a plant from AUO in north Taiwan for NT$19.7 billion (US$610M). Revamping an existing plant with clean room is much faster than building anew.\n-Wistron paid US$121 million"
+          "url": "https://x.com/dnystedt/status/2082628323197571223",
+          "text": "UMC, Taiwan’s 2nd biggest chip foundry, has raised its capex to US$2 billion from $1.5 billion as it expands production in Singapore and Tainan, south Taiwan, media report. UMC will expand cleanroom capacity of its Phase 4 facility in Singapore and build a new fab in Tainan. Cons"
         }
       ]
     },
     {
-      "topic": "US CHIPS Act funding for GlobalFoundries (GFS) CPO/Silicon Photonics R&D",
+      "topic": "TSMC's 1.4nm fab construction in central Taiwan is ahead of schedule",
       "category": "sectors",
       "subcategory": "foundry",
-      "summary": "The US government will take a 1% stake in GlobalFoundries and award $300M via the CHIPS Act to accelerate domestic CPO and Silicon Photonics R&D, signaling strong support for these technologies and benefiting partners like Sivers and Lumentum.",
+      "summary": "TSMC's 1.4nm fab construction in central Taiwan is progressing ahead of schedule, with the first phase of piling work completed and the central utility plant and office buildings already under construction. The first of four fabs is expected to be completed by April 2027.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2082513405219631384",
-          "text": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. \n\n(For reference, Sivers and Lumentum were the only two public la"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2082627357366693925",
+          "text": "TSMC’s 1.4nm fab construction in central Taiwan is ahead of schedule despite the summer heat, and the first will be done by April, 2027, media report. The 1st phase of piling work is already done and construction of the central utility plant (CUP) and office buildings has already"
         }
       ]
     }
