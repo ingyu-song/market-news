@@ -1,81 +1,109 @@
 {
-  "generated_at": "2026-08-01T22:50:37+00:00",
+  "generated_at": "2026-08-01T23:53:03+00:00",
   "mode": "weekly",
   "for_week_start": "2026-07-26",
   "for_week_ending": "2026-08-01",
   "days_covered": 7,
-  "headline": "AI Capex Fuels Tech Rally; Fed Holds Rates Amid Yield Volatility & Geopolitical Tensions",
-  "summary": "The week saw a significant rally in tech stocks, driven by hyperscalers' increased AI infrastructure capex forecasts and strong AI-related earnings. The Federal Reserve maintained interest rates, though rising Treasury yields and internal dissent created volatility. Geopolitical tensions in the Middle East continued to influence oil prices, while the semiconductor sector remained a focal point with robust HBM demand and supply chain dynamics.",
+  "headline": "AI Chip Demand Drives Hyperscaler Capex; Fed Navigates Yields Amid Geopolitical Oil Swings",
+  "summary": "US equities experienced volatility, initially declining on soaring Treasury yields before rebounding on strong AI earnings and yen intervention. AI chip demand fueled significant hyperscaler capex, with Amazon committing $220B for 2026. Geopolitical tensions in the Middle East caused oil price fluctuations, while the Fed held rates steady despite internal dissent and persistent inflation concerns. Memory shortages deepened, driving price increases.",
   "themes": [
     {
-      "label": "US Semis / AI Chips & AI Infrastructure",
-      "narrative": "Hyperscalers significantly increased 2026 AI capex forecasts to $720-$745 billion, driving a tech sector rally, with Amazon up 15%. AI chip demand intensified, seeing Nvidia reclaim its top market position and Google exploring Samsung for future TPU production. SK Hynix reported record Q2 operating profit, primarily from HBM sales, underscoring critical memory demand.",
+      "label": "US Semis / AI Chips",
+      "narrative": "AI chip demand remained robust, driving significant capex plans from hyperscalers. Nvidia reclaimed its top market position, while SK Hynix reported strong HBM-driven earnings. Google is exploring Samsung for future TPU production to diversify supply.",
       "movers": [
-        "Amazon",
         "Nvidia",
         "SK Hynix",
         "Google",
-        "Samsung"
+        "Samsung",
+        "AMD"
+      ],
+      "sources": []
+    },
+    {
+      "label": "AI Infrastructure / Hyperscaler Capex",
+      "narrative": "Hyperscalers committed substantial capital to AI infrastructure, with Amazon announcing a $220B plan for 2026. This surge in investment is directly linked to intensifying AI chip demand, indicating sustained growth in the sector.",
+      "movers": [
+        "Amazon",
+        "Google",
+        "Nvidia",
+        "TSMC",
+        "Microsoft"
       ],
       "sources": []
     },
     {
       "label": "Fed / Rates / Macro",
-      "narrative": "The Federal Reserve held interest rates steady, but rising Treasury yields, hitting a 19-year high, tightened financial conditions and triggered a broad market sell-off. Dissent among Fed officials on rate policy and persistent inflation concerns kept markets cautious. US Treasury intervention to support the yen also highlighted global macro pressures.",
+      "narrative": "Treasury yields saw significant volatility, hitting a 19-year high before falling. The Federal Reserve maintained current interest rates, though internal dissent emerged, and US Treasury intervened to support the yen. Inflation concerns persisted.",
       "movers": [
-        "US Treasury Yields",
-        "USD/JPY",
-        "S&P 500",
-        "NASDAQ"
-      ],
-      "sources": []
-    },
-    {
-      "label": "Earnings / Guidance",
-      "narrative": "Strong Q2 earnings from major tech players, notably Amazon's cloud division, and robust guidance on AI infrastructure spending were key market catalysts. SK Hynix delivered record operating profits, primarily fueled by HBM sales. These positive reports helped offset broader market jitters.",
-      "movers": [
-        "Amazon",
-        "SK Hynix",
-        "Ford",
-        "Mercedes-Benz"
+        "US Treasury",
+        "Federal Reserve",
+        "Yen",
+        "US 10-Year Treasury",
+        "DXY"
       ],
       "sources": []
     },
     {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical tensions in the Middle East remained a significant factor, causing oil prices to surge over 4% mid-week before declining more than 5% on news of a pause in US-Iran military strikes. These tensions continued to impact global AI chip supply chains, with Chinese memory maker CXMT experiencing a volatile market debut.",
+      "narrative": "Geopolitical tensions in the Middle East caused significant oil price fluctuations, with a surge on renewed concerns followed by a decline on a pause in US-Iran strikes. These tensions continued to impact AI chip supply chains.",
       "movers": [
-        "WTI Crude",
+        "Iran",
+        "US",
         "CXMT",
-        "Oil & Gas Sector"
+        "Oil",
+        "Middle East"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Earnings / Guidance",
+      "narrative": "Strong AI-related earnings from tech giants, particularly Amazon's cloud division, provided market support. SK Hynix reported record Q2 operating profit driven by HBM, indicating robust demand in the memory sector.",
+      "movers": [
+        "Amazon",
+        "SK Hynix",
+        "Ford",
+        "Mercedes-Benz",
+        "Nvidia"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "narrative": "Memory shortages deepened during the week, leading to price increases. SK Hynix's strong HBM performance highlighted the critical role of advanced memory in the current AI landscape.",
+      "movers": [
+        "SK Hynix",
+        "CXMT",
+        "Samsung",
+        "Micron",
+        "HBM"
       ],
       "sources": []
     }
   ],
   "watchlist": [
     {
-      "name": "Amazon",
-      "note": "Monitor continued AI capex and cloud growth trajectory."
+      "name": "Nvidia",
+      "note": "Monitor AI chip demand and competitive landscape."
     },
     {
-      "name": "Nvidia",
-      "note": "Watch for further market positioning and AI chip demand signals."
+      "name": "Amazon",
+      "note": "Observe AI infrastructure capex deployment and cloud segment growth."
     },
     {
       "name": "SK Hynix",
-      "note": "Observe HBM supply/demand dynamics and memory pricing trends."
+      "note": "Track HBM pricing and supply dynamics amid deepening shortages."
     },
     {
-      "name": "US Treasury Yields",
-      "note": "Key indicator for broader market sentiment and Fed policy expectations."
+      "name": "Federal Reserve",
+      "note": "Await further commentary on rate policy and inflation outlook."
     },
     {
-      "name": "WTI Crude",
-      "note": "Geopolitical developments in the Middle East will dictate price movements."
+      "name": "Oil Futures",
+      "note": "Watch geopolitical developments in the Middle East for price impact."
     },
     {
       "name": "Samsung",
-      "note": "Track progress on advanced foundry deals, especially for AI chips."
+      "note": "Monitor developments in Google's TPU production and foundry competitiveness."
     }
   ],
   "x_themes": [

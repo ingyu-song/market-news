@@ -1,18 +1,35 @@
 {
-  "generated_at": "2026-08-01T22:50:20+00:00",
+  "generated_at": "2026-08-01T23:52:45+00:00",
   "mode": "daily",
   "for_date": "2026-08-01",
-  "headline": "AI Capex Surges, Hyperscalers Rally; Yen Intervention, Fed Focus",
-  "summary": "Major hyperscalers increased 2026 capex forecasts to $720-$745 billion, driving a significant rally in tech stocks, with Amazon up 15%. US Treasury intervened to support the yen, while market attention remains on Fed policy and upcoming employment data amid Middle East tensions.",
+  "headline": "Market Rebounds on Yen Intervention; AI Chip Demand Drives Hyperscaler Capex",
+  "summary": "Global markets saw a rebound today, with the Korea Kospi index jumping 18% on record volume. US Treasury intervention supported the yen, reversing recent losses. AI chip demand continues to drive significant capex increases from major hyperscalers, while Capital One closed Trump Organization accounts.",
   "sections": [
     {
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Google is exploring Samsung for future AI chip production.",
+          "lead": "TSMC is reportedly developing advanced chip packaging technology.",
           "segments": [
             {
-              "text": "Google is considering Samsung Electronics for partial production of its next-generation 10th-gen TPU, 'Icefish', due to TSMC's tight capacity from Nvidia AI chip demand.",
+              "text": "TSMC is developing advanced chip packaging to challenge Intel's dominance in the sector.",
+              "sources": [
+                {
+                  "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+                  "link": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Google is diversifying its AI chip supply chain.",
+          "segments": [
+            {
+              "text": "Google is considering Samsung for some production of its next-gen AI chip, Icefish, due to TSMC's tight capacity.",
               "sources": [
                 {
                   "title": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
@@ -24,65 +41,13 @@
               "x_mentions": []
             },
             {
-              "text": "While TSMC's 1.4nm process would handle the core compute engine, Samsung could produce the memory I/O dies using its 2nm process, potentially strengthening Samsung's AI chip foundry references.",
+              "text": "Samsung may handle memory I/O dies for Icefish using its 2nm process, while TSMC produces the core compute engine on 1.4nm.",
               "sources": [
                 {
                   "title": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
                   "link": "https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html",
                   "source": "Yahoo Finance",
                   "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Advanced packaging and optical components see strong demand.",
-          "segments": [
-            {
-              "text": "ASE raised its 2026 capex forecast to US$10.5 billion from $8.5 billion due to robust demand for advanced and general chip packaging, with glass substrates emerging as a key technology.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2082995845071585633"
-                }
-              ]
-            },
-            {
-              "text": "AUO plans a NT$8.64 billion (US$267M) investment in a FOPLP advanced chip packaging pilot line using glass substrates, targeting applications like LEO satellite antennas.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@dnystedt",
-                  "url": "https://x.com/dnystedt/status/2082996662017077587"
-                }
-              ]
-            },
-            {
-              "text": "Demand for MOCVD machines is outstripping supply, and InP substrate revenue growth indicates strong demand for optical components in AI infrastructure.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@crux_capital_",
-                  "url": "https://x.com/crux_capital_/status/2083269640386707894"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "AMD's performance and upcoming earnings are a market focus.",
-          "segments": [
-            {
-              "text": "AMD's earnings report is a key event this week, alongside employment data and Middle East risks, influencing New York stock market sentiment.",
-              "sources": [
-                {
-                  "title": "AMD 실적·고용보고서·중동 리스크…이번 주 뉴욕증시 최대 분수령",
-                  "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473536",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -92,13 +57,13 @@
       ]
     },
     {
-      "label": "Software / Internet / Platforms",
+      "label": "AI Infrastructure / Hyperscaler Capex",
       "bullets": [
         {
-          "lead": "Hyperscalers significantly increased their AI infrastructure capex forecasts.",
+          "lead": "Major hyperscalers significantly increased their 2026 capex forecasts.",
           "segments": [
             {
-              "text": "Major hyperscalers, including Amazon, Google, Meta, and Microsoft, raised their combined 2026 capex forecast to $720-$745 billion, citing demand for compute exceeding capacity.",
+              "text": "Amazon, Google, Meta, and Microsoft raised their combined 2026 capex forecast to $720-$745 billion, citing compute demand exceeding capacity.",
               "sources": [],
               "x_mentions": [
                 {
@@ -106,48 +71,59 @@
                   "url": "https://x.com/aleabitoreddit/status/2083270545320386734"
                 }
               ]
-            },
-            {
-              "text": "Microsoft's Copilot progress exceeded expectations, and Azure shows an optimistic outlook, with MSFT accelerating Azure growth while remaining FCF-positive and improving CAPEX ROI.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@FundaAI",
-                  "url": "https://x.com/FundaAI/status/2083031923027521566"
-                }
-              ]
             }
           ]
         },
         {
-          "lead": "Big tech stocks rallied, contributing to substantial market cap gains.",
+          "lead": "AWS's chip business is growing rapidly.",
           "segments": [
             {
-              "text": "Amazon shares surged 15%, marking its best day since 2012, contributing to a collective $1.3 trillion market cap increase for Amazon, Microsoft, and Google.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2083285646786080902"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Google is increasing off-balance-sheet risk to fuel its AI chip push.",
-          "segments": [
-            {
-              "text": "Google is piling on off-balance-sheet risk to finance its aggressive push into AI chip development.",
+              "text": "AWS's chip business has passed a $25 billion run rate, with CEO Jassy indicating a \"real chance\" of selling Trainium outside AWS.",
               "sources": [
                 {
-                  "title": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
-                  "link": "https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html",
-                  "source": "Yahoo Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                  "title": "AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzljSkt1YkxDeDJlcWVuSU1jQ1hlWWpaOU0taVFKNW4zR0o4Yy1QVGlrMzdwOHZjU2RWZkxmQXVVZ0VuYkFlZ1pSTGhtNjhWYTNuYVN1a044N2hjUkhPbUF0ZzdSamdrMDhHTkRqa1Fjd0MtQm1CVzBUS21ZUmdoaFZsYmdpYlFtNFpTMVRwQQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                },
+                {
+                  "title": "Claude Hacked Companies During Tests, AWS Revenue Growth Accelerates, What’s Next for Apple? — TITV [Video]",
+                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAybGlGSEZZcmxGOHUxLWVoanZpTTRfNExneVVuLXVkajBCTXBsVmRkeFFBOWZkQmZSU1EzOXllbVIzdnNudmlzUUdqclBYZllRZUNV?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "ASE increased its 2026 capex forecast.",
+          "segments": [
+            {
+              "text": "ASE, a chip packaging giant, raised its 2026 capex forecast to US$10.5 billion from $8.5 billion due to strong demand for advanced and general packaging.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2082995845071585633"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Delta Electronics is ramping up 800V DC equipment production.",
+          "segments": [
+            {
+              "text": "Delta Electronics is increasing capex to NT$70 billion this year, with mass production of 800V DC equipment expected in Q3, driven by AI data center demand.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@dnystedt",
+                  "url": "https://x.com/dnystedt/status/2082996109820268566"
+                }
+              ]
             }
           ]
         }
@@ -157,29 +133,29 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "US Treasury intervened to support the Japanese Yen.",
+          "lead": "The US Treasury reportedly intervened to support the yen.",
           "segments": [
             {
-              "text": "The US Treasury intervened to support the yen after Japan's own intervention efforts, as reported by the FT.",
+              "text": "The US Treasury intervened to support the yen after Japan's own actions, reversing months of losses.",
               "sources": [
                 {
                   "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
                   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0lVZ3FOWEp0MkVGaWc4UkprSmVwZlZMSzBQRlBuQ3UzOEVuN09za080MDFQTHFfOVFGU1hsOUF3THBnbGc0Tk4zdi1sR0xBdHhJV3FiOTNmaEZkbWNWQ0VMRjROZXJUQ1VwX1BrS3NvdWRDYThPSWVhdnhZUmxHWHNsVEFRYTZFXy1CeTJVdW13SVpqcl9wdTBoRjdINnV6R0tEcTI3Qnpjc3RpLWxQOVVB?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Bessent and the Fed are helping Japan reverse months of yen losses, with proposals for the US to buy $5 billion-$10 billion of Japanese yen.",
-              "sources": [
+                },
                 {
                   "title": "Bessent and the Fed Help Japan Reverse Months of Yen Losses",
                   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3dwbUFjZjVMenRHV3lmeW5JQjVaaEZsWE1yTVhyeWY3ZjR5Mk1sbVRwaWNmUzdJc0hnSk8tOVNEZG1CWVhEVzFBeW8wSVcxTzNOcVAzTFhLTHUtclJOUzh2T01IWXhxbjFXRXZTUFZPMHg0UmhEZ2lNN3V1R2QySHlCVjFDMDltTFNzYWZjZkR0ekZMUnBqVlJFSFZvVEVraW9pY2huZmlJOHU0VFVZ?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "A proposal for the US to buy $5 billion-$10 billion of Japanese yen was noted on Bessent's \"to-do\" list.",
+              "sources": [
                 {
                   "title": "Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen",
                   "link": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
@@ -192,75 +168,76 @@
           ]
         },
         {
-          "lead": "Fed Chair Kevin Warsh is considering changes to FOMC meeting frequency.",
+          "lead": "South Korea's exports saw a significant increase in July.",
           "segments": [
             {
-              "text": "Fed Chair Kevin Warsh is considering reducing the frequency of FOMC policy meetings from eight annually, seeking feedback from officials on a revised schedule.",
+              "text": "South Korea's July exports reached 1418 trillion won, the second-highest on record, with semiconductor exports exceeding $40 billion for the second consecutive month.",
               "sources": [
                 {
-                  "title": "연준 '깜깜이 행보'에 춤추는 반도체주… 케빈 워시 '침묵'에 월가 초긴...",
-                  "link": "https://www.g-enews.com/view.php?ud=20260802072132469e250e8e188_1",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": [
-                {
-                  "handle": "@negligible_cap",
-                  "url": "https://x.com/negligible_cap/status/2083291473814954292"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Market sentiment is sensitive to employment data and geopolitical risks.",
-          "segments": [
-            {
-              "text": "AI stocks and crypto markets are reacting to uncertainty around upcoming employment data and potential Iran-US conflict, which are key determinants for market direction this week.",
-              "sources": [
-                {
-                  "title": "AI주 흔들리자 코인도 추락…이번 주 ‘고용·이란 충돌’이 운명 가른...",
-                  "link": "http://coinreaders.com/250735",
+                  "title": "7월 수출 1418조원, 역대 두 번째…반도체 두 달 연속 400억달러 돌파",
+                  "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=308139",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Kospi index experienced a record rally.",
+          "segments": [
+            {
+              "text": "The Korea Kospi index jumped 18% in one day, its biggest single-day gain on record, signaling a generational bull market.",
+              "sources": [
+                {
+                  "title": "South Korea’s KOSPI Soars 18%",
+                  "link": "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": [
+                {
+                  "handle": "@damnang2",
+                  "url": "https://x.com/damnang2/status/2083333243672121590"
+                }
+              ]
             }
           ]
         }
       ]
     },
     {
-      "label": "Earnings / Guidance",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Samsung Electronics reported record-high earnings.",
+          "lead": "Capital One closed Trump Organization accounts after a money laundering probe.",
           "segments": [
             {
-              "text": "Samsung Electronics achieved record-high earnings, driven by semiconductor growth and a recovery in finished product profitability.",
+              "text": "Capital One closed accounts associated with the Trump Organization following an anti-money laundering investigation.",
               "sources": [
                 {
-                  "title": "삼성전자 역대 최대 실적…반도체 성장과 완제품 수익성 회복이 다음 변...",
-                  "link": "https://www.cbci.co.kr/news/articleView.html?idxno=593864",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "AI demand is not a universal positive for all stocks this earnings season.",
-          "segments": [
-            {
-              "text": "AI is not proving to be a catch-all trade for stocks during this earnings season, indicating selective impact.",
-              "sources": [
+                  "title": "Capital One says it closed Trump Organization’s accounts after anti-money laundering probe",
+                  "link": "https://www.investing.com/news/stock-market-news/capital-one-says-it-closed-trump-organizations-accounts-after-antimoney-laundering-probe-4829656",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
                 {
-                  "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjA3eXJPUEx6TzNqX3ZEblRoVXRBQWhnRkswOHI3SG1qN0U5eDNkRTRqdnVVNnY2X2l6WjFTQWl5MGVQTVNZUnJ0bEVNWTg4bzFfaEtpOVFnQnYxOG1NeXVVZTdBY2hNUldtTWFmMkxJQ2I4YW1WcEFOMFZaMV90VUU1ZWkwMXlub3VUMzlPWFladUc5RVVzLTBVSmFmMUtRb2RmR3JUUTJEY1Y1Zk80cWln?oc=5",
+                  "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+                  "link": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "Capital One Cites Money Laundering Review in Trump-Related Suit",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQktsN2lFSGk4RjJqSnFqTjFxa3FhMFZSRjhFa0EwWUh0cFAwanVGRzFVNDhQdDduNW1hajF0YnhRdTZweWpYemRVMW1TUERiU3VkSnpjdGgybTdGTzd2bkNTdFN0RDNwNmdGc01tT1lzazlTQTVfNlEzWmtLdGVsUFRJSnRYeDRrZC1XS0RXR3pwV0htUXlBY1diX1ZiYnJyRUtpT2lvdVJCSkxTMm1DOC1QV00?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -270,67 +247,10 @@
           ]
         },
         {
-          "lead": "MediaTek projects high-single-digit revenue growth and increased ASIC market share.",
+          "lead": "Trump is pushing a $1.8 billion DOJ fund.",
           "segments": [
             {
-              "text": "MediaTek anticipates high-single-digit revenue growth and aims for a 20% share in the ASIC market by 2027.",
-              "sources": [
-                {
-                  "title": "MediaTek eyes high-single-digit revenue growth, 20% ASIC share by 2027",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnBtcF80aG5wM2dsMTBFdnJsckhrWXJjSXRBSjZ3cHBtVHo1VklxempXeVhNZ2NaX0c4dEdVQ0laamRWTDZ5ZS14UlJ6UmR1LXZWQnRlTUJ4emdtYU5Kb24xU01VZTdOTzkyZzktVXM3SFdrUzg3YnpmaUlIQ2toTU1GSnZld0NNR3Vsb2wyTDNUcHM?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Memory (DRAM/HBM/NAND)",
-      "bullets": [
-        {
-          "lead": "Apple anticipates further memory cost increases due to AI demand.",
-          "segments": [
-            {
-              "text": "Apple CEO Tim Cook described the current memory price surge as a “100-year flood,” expecting costs to rise further as AI data centers absorb HBM and server-memory capacity.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@PhotonCap",
-                  "url": "https://x.com/PhotonCap/status/2083331458564014564"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "Higher memory and foundry costs could impact future iPhone pricing.",
-          "segments": [
-            {
-              "text": "Increased costs for 2nm silicon and DRAM/NAND could lead to a $250–300 price hike for the iPhone 18 Pro/PM, potentially creating demand uncertainty despite resilient iPhone 17 builds.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2083139948329464029"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "Trump's administration is involved in a dispute over a DOJ fund and Attorney General nomination.",
-          "segments": [
-            {
-              "text": "Trump is pushing for a $1.8 billion DOJ fund and threatening to keep Blanche as acting attorney general amid a confirmation fight.",
+              "text": "Trump is pushing for a $1.8 billion Department of Justice fund, which is impacting the confirmation of Blanche for Attorney General.",
               "sources": [
                 {
                   "title": "Trump Pushes $1.8 Billion DOJ Fund Over Blanche Nomination",
@@ -343,22 +263,60 @@
                   "link": "https://www.axios.com/2026/08/01/blanche-tillis-trump-anti-weaponization-fund",
                   "source": "Axios",
                   "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                },
-                {
-                  "title": "Trump threatens to keep Blanche as acting attorney general, revive 'anti-weaponization' fund",
-                  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWI0dFYtSFNFTTE1VUtUT2d0X0E3b1BiS2NqNC1OSVJTd0RxWWRzelo3OFY3dzc4TTJLYWh1cVhZcGJxNXpRUkRRNHFJSi1pQ1JVZWs1OGhrRVJ1VXhPRjVreXhyZ1J2STRDck93cnFvd0oxMm04ZGV0UWR5ZWtQY3Z4ckdabU1sRmhpNnZ6OEhNS1RybXR1cWxwaU9uQ1RQVXBuVThfWVlWeG9DdXhkMFRTUnBkRmEyVWNFWmxfME10RGk3ZFlqVXZjbw?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "MediaTek is targeting high-single-digit revenue growth.",
+          "segments": [
             {
-              "text": "Capital One cited a money laundering review in a Trump-related lawsuit, adding to the political and legal complexities.",
+              "text": "MediaTek aims for high-single-digit revenue growth and a 20% ASIC market share by 2027.",
               "sources": [
                 {
-                  "title": "Capital One Cites Money Laundering Review in Trump-Related Suit",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQktsN2lFSGk4RjJqSnFqTjFxa3FhMFZSRjhFa0EwWUh0cFAwanVGRzFVNDhQdDduNW1hajF0YnhRdTZweWpYemRVMW1TUERiU3VkSnpjdGgybTdGTzd2bkNTdFN0RDNwNmdGc01tT1lzazlTQTVfNlEzWmtLdGVsUFRJSnRYeDRrZC1XS0RXR3pwV0htUXlBY1diX1ZiYnJyRUtpT2lvdVJCSkxTMm1DOC1QV00?oc=5",
+                  "title": "MediaTek eyes high-single-digit revenue growth, 20% ASIC share by 2027",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnBtcF80aG5wM2dsMTBFdnJsckhrWXJjSXRBSjZ3cHBtVHo1VklxempXeVhNZ2NaX0c4dEdVQ0laamRWTDZ5ZS14UlJ6UmR1LXZWQnRlTUJ4emdtYU5Kb24xU01VZTdOTzkyZzktVXM3SFdrUzg3YnpmaUlIQ2toTU1GSnZld0NNR3Vsb2wyTDNUcHM?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Lucid Group's upcoming earnings report is a key focus.",
+          "segments": [
+            {
+              "text": "Investors are watching Lucid Group's earnings report on August 4th for insights into the EV manufacturer's performance.",
+              "sources": [
+                {
+                  "title": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+                  "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-reports-earnings-august-231456740.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AI is not a universal positive for all stocks this earnings season.",
+          "segments": [
+            {
+              "text": "AI is not a catch-all trade for stocks, with varied impacts seen across different companies during this earnings season.",
+              "sources": [
+                {
+                  "title": "AI Isn’t a Catch-All Trade for Stocks in This Earnings Season",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjA3eXJPUEx6TzNqX3ZEblRoVXRBQWhnRkswOHI3SG1qN0U5eDNkRTRqdnVVNnY2X2l6WjFTQWl5MGVQTVNZUnJ0bEVNWTg4bzFfaEtpOVFnQnYxOG1NeXVVZTdBY2hNUldtTWFmMkxJQ2I4YW1WcEFOMFZaMV90VUU1ZWkwMXlub3VUMzlPWFladUc5RVVzLTBVSmFmMUtRb2RmR3JUUTJEY1Y1Zk80cWln?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -368,40 +326,70 @@
           ]
         }
       ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Microsoft's AI cybersecurity push could be a major growth driver.",
+          "segments": [
+            {
+              "text": "Microsoft's focus on AI cybersecurity is seen as a potential major growth driver for MSFT stock.",
+              "sources": [
+                {
+                  "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Google is facing off-balance-sheet risk to fuel its AI chip push.",
+          "segments": [
+            {
+              "text": "Google is piling on off-balance-sheet risk to fuel its AI chip development efforts.",
+              "sources": [
+                {
+                  "title": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Alibaba has a strategic partnership with Moonshot AI.",
+          "segments": [
+            {
+              "text": "Alibaba owns 36% of Moonshot AI and has a compute deal to provide 20,000 Nvidia H200 chips for Moonshot AI's Kimi model.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2083264596039680037"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "watchlist": [
     {
-      "name": "Fed",
-      "note": "Watch for any further comments from Kevin Warsh regarding FOMC meeting frequency and inflation outlook.",
+      "name": "TSMC",
+      "note": "Watch for further developments in advanced packaging and potential shifts in Google's AI chip production strategy.",
       "sources": [
         {
-          "title": "연준 '깜깜이 행보'에 춤추는 반도체주… 케빈 워시 '침묵'에 월가 초긴...",
-          "link": "https://www.g-enews.com/view.php?ud=20260802072132469e250e8e188_1",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2083291473814954292"
-        }
-      ]
-    },
-    {
-      "name": "AMD",
-      "note": "Upcoming earnings and guidance will be crucial for semiconductor sector sentiment.",
-      "sources": [
-        {
-          "title": "AMD 실적·고용보고서·중동 리스크…이번 주 뉴욕증시 최대 분수령",
-          "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473536",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+          "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+          "link": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
           "source": "Yahoo Finance",
           "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         }
@@ -409,46 +397,21 @@
       "x_mentions": []
     },
     {
-      "name": "Hyperscalers (AMZN, MSFT, GOOG)",
-      "note": "Continued capex spending and AI infrastructure demand will drive growth.",
-      "sources": [],
-      "x_mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2083270545320386734"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2083031923027521566"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2083285646786080902"
-        }
-      ]
-    },
-    {
-      "name": "Samsung Electronics",
-      "note": "Monitor for further details on AI chip foundry partnerships and HBM developments.",
+      "name": "Samsung",
+      "note": "Monitor for confirmation and details regarding its role in Google's next-gen AI chip production.",
       "sources": [
         {
           "title": "Google Piles On Off-Balance-Sheet Risk to Fuel Its AI Chip Push",
           "link": "https://finance.yahoo.com/technology/ai/articles/google-piles-off-balance-sheet-153002569.html",
           "source": "Yahoo Finance",
           "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
-        },
-        {
-          "title": "삼성전자 역대 최대 실적…반도체 성장과 완제품 수익성 회복이 다음 변...",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=593864",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Japanese Yen",
-      "note": "Further intervention or policy shifts from the US Treasury and Japan will be key.",
+      "name": "Yen",
+      "note": "Observe continued intervention efforts from the US and Japan and their impact on currency markets.",
       "sources": [
         {
           "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
@@ -467,6 +430,34 @@
           "link": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
           "source": "The Guardian Business",
           "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Hyperscalers",
+      "note": "Track the impact of increased capex forecasts on AI infrastructure build-out and associated supply chains.",
+      "sources": [],
+      "x_mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2083270545320386734"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2083285646786080902"
+        }
+      ]
+    },
+    {
+      "name": "Lucid Group",
+      "note": "Upcoming earnings report on August 4th will be key for investor sentiment and guidance.",
+      "sources": [
+        {
+          "title": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-reports-earnings-august-231456740.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -710,6 +701,6 @@
       "change_pct": 7.77
     }
   ],
-  "story_count": 57,
-  "bucket_count": 13
+  "story_count": 56,
+  "bucket_count": 12
 }
