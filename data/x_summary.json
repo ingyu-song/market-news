@@ -1,156 +1,146 @@
 {
-  "generated_at": "2026-08-01T00:05:47+00:00",
-  "tweet_count": 62,
-  "account_count": 18,
+  "generated_at": "2026-08-02T00:03:55+00:00",
+  "tweet_count": 72,
+  "account_count": 21,
   "themes": [
     {
-      "topic": "Hyperscaler Capex Increase for AI Infrastructure",
+      "topic": "Leopold's Fund Drawdown and Market Reaction",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Hedge fund manager Leopold experienced a significant drawdown, leading to margin calls and leverage being wiped out. This event, occurring during a volatile FOMC week, has generated widespread discussion and criticism on FinTwit, though some defend his long-term performance.",
+      "mentions": [
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2083583871992393997",
+          "text": "It’s a weird feeling looking back at this week and knowing you just lived through history.\n\nOne of the craziest FOMC weeks of my life.\n\nCitadel called for a surprise rate hike. Rates held. Leopold got his leverage wiped.\n\nWhen Wall Street sharks smell blood they go for the kill. "
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2083568743070736469",
+          "text": "Getting margin called by your prime brokers after a 67% drawdown the week of your wedding while Ken Griffin’s knocking at your door sounds like a bad acid trip"
+        },
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2083403403317973180",
+          "text": "I’m going to be blunt. Watching everyone on FinTwit pile on and mock Leopold over this latest drawdown, you honestly come across like a bunch of condescending old farts sneering at a talented young guy. Seriously.\n\nIs it because your returns are worse than Leopold’s and you feel "
+        },
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2083324920214536208",
+          "text": "The media framing and X reactions around Leopold are egregious.\n\nFraming his successful multi-year thesis from $SNDK to $BE as a \"collapse\" or \"failure\".\n\nAfter July's surprising crash, then personally attacking him on top is just pathetic to witness. \n\nIt's almost like everyone "
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2083295563684942185",
+          "text": "Recommended reading for the weekend:  \n\n1. Gavin Baker (@GavinSBaker) pinned post — Market is overreacting to hyperscale credit spreads widening\n2. WSJ — His Wedding Guests Were Arriving - Just as His $45 Billion Fund Was Falling Apart\n3. @FundaAI — SPCX: xAI 8GW Buildout Mapping"
+        },
+        {
+          "handle": "@dylan522p",
+          "url": "https://x.com/dylan522p/status/2083264806245843236",
+          "text": "Love that all FinTwit people making fun of Leopold still get mogged by his returns this year.\nLeopold is a great guy and he's extremely in tune with where the world is headed."
+        },
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2083112224902570229",
+          "text": "Dust is settling, provided he has someone experienced in charge of portfolio construction / managing risk then this will likely have significant appetite. Probably no or significant limits on leverage this time.\n\nI personally would want him to have a break after the mental cookin"
+        }
+      ]
+    },
+    {
+      "topic": "Hyperscaler 2026 Capex Forecast Raised, Signaling AI Infrastructure Demand",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Major hyperscalers (Amazon, Google, Meta, Microsoft) raised their combined 2026 capex forecast to $720-$745 billion, citing demand for compute exceeding capacity and a bullish outlook for upstream semiconductors and neoclouds.",
+      "summary": "Major hyperscalers (Amazon, Google, Meta, Microsoft) have raised their combined 2026 capex forecast to $720-$745 billion, signaling strong demand for AI infrastructure, compute, and networking. This is seen as a bullish driver for upstream semiconductor and neocloud companies.",
       "mentions": [
         {
           "handle": "@aleabitoreddit",
           "url": "https://x.com/aleabitoreddit/status/2083270545320386734",
           "text": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.\n\nUp from $695-$725B Billion previously.\n\nAmazon: $220B\nGoogle: $195B-$205B\nMeta: $130B-$145B\nMicrosoft: $175B\n\nWe've already seen significant deleveraging and retail/"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2083295563684942185",
+          "text": "Recommended reading for the weekend:  \n\n1. Gavin Baker (@GavinSBaker) pinned post — Market is overreacting to hyperscale credit spreads widening\n2. WSJ — His Wedding Guests Were Arriving - Just as His $45 Billion Fund Was Falling Apart\n3. @FundaAI — SPCX: xAI 8GW Buildout Mapping"
         }
       ]
     },
     {
-      "topic": "Optical Supply Chain Demand (AXTI, AIXA)",
+      "topic": "Severe InP Laser Supply Crisis for AI Data Centers",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "AIXA reports demand for MOCVD machines outstripping supply, while AXTI sees massive InP substrate revenue growth and LTAs, indicating strong demand for optical components and potential for IQE to provide epitaxy services.",
+      "summary": "Lumentum's CEO warned of a severe supply chain crisis for Indium Phosphide (InP) lasers used in AI data centers, stating shipments are more than 30% below customer demand. This reinforces a long-standing 'laser chokepoint' thesis for key suppliers.",
+      "mentions": [
+        {
+          "handle": "@aleabitoreddit",
+          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
+          "text": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand.\n\nThis is especially visible wi"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2083406643287482610",
+          "text": "It is interesting to see InP lasers becoming a topic again. People like @PhotonCap and me, who have been writing about optical technologies, were already discussing this several months ago.\n\nStill, after the recent waves in semiconductors, memory, and optics, I think it is a posi"
+        }
+      ]
+    },
+    {
+      "topic": "Strong Demand and Capacity Expansion in Optical AI Supply Chain",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Earnings reports from AXTI, AIXA, MXL, AEHR, and GLW indicate robust demand and ongoing capacity expansions across the optical and related AI infrastructure supply chain. This includes InP substrates, optoelectronics tools, DPS components, silicon photonics testing, and datacenter fiber.",
       "mentions": [
         {
           "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2083269640386707894",
-          "text": "What do the $AIXA and $AXTI earnings tell us about $IQE?\n\nThere is good amount of signal here...\n\n$AIXA saying that their demand outstrips their supply and that customers are reserving slots into next year means that their customers are short MOCVD machines relative to what their"
+          "url": "https://x.com/crux_capital_/status/2083187153425858750",
+          "text": "What signals do we have from earnings so far?\n$AXTI $GLW $MXL $AEHR $FORM $AIXA \n\nLet's start at the beginning of the chain\n\n$AXTI (substrate maker, starting material) see massive revenue growth, LTA's, expanding capacity like crazy to become the largest InP substrate supplier. D"
         }
       ]
     },
     {
-      "topic": "Bullish AI Market Sentiment Post-Liquidation",
+      "topic": "US Treasury Secretary Bessent's Alleged Yen Intervention",
       "category": "out_of_ai",
       "subcategory": "macro",
-      "summary": "Following recent market liquidations and hedge fund adjustments, a bullish sentiment for AI stocks is emerging, with observations of Citadel closing shorts and going long, Hynix/Samsung clarity, and strong hyperscaler capex guidance.",
+      "summary": "US Treasury Secretary Bessent's notepad reportedly showed a plan to buy $5B-$10B in Japanese Yen, sparking market speculation about direct FX intervention.",
       "mentions": [
         {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2083101093496570170",
-          "text": "Buying AI stocks right now is literally a free money glitch:\n\n> Korean degens wiped out\n> Leopold (spiritually Korean) wiped out\n> Citadel short positions closed and full long ready to send it \n> All the sharks closing their shorts and flipping long\n> Hynix and Samsung post earni"
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2083638880939446659",
+          "text": "3 weeks of USDJPY going against me before it worked and all I needed to do was convince Bessent to write a sentence on a notepad?!"
+        },
+        {
+          "handle": "@GavinSBaker",
+          "url": "https://x.com/GavinSBaker/status/2083628260399649055",
+          "text": "Love it that people think this was an accident instead of super deliberate.\n\nMore effective than actually buying it."
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2083326378242707958",
+          "text": "U.S. TREASURY SECRETARY BESSENT’S NOTEPAD APPEARS TO SHOW A PLAN TO BUY $5B–$10B IN JAPANESE 🇯🇵 YEN - Reuters"
         }
       ]
     },
     {
-      "topic": "Fed's Warsh Considers Fewer Policy Meetings",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Fed Chair Kevin Warsh is considering reducing the frequency of FOMC policy meetings from the current eight annually, asking officials for feedback on a revised schedule.",
+      "topic": "MediaTek's Growing AI/HPC Data Center Chip Sales and ASIC Ambitions",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "MediaTek projects data center related chip sales (AI, HPC) to exceed $2 billion this year, with its first AI accelerator chip entering production in Q4. The company targets 15-20% of the custom ASIC market, which could reach $80 billion by 2027, and has approved $5 billion for supply chain engagement.",
       "mentions": [
         {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2083291473814954292",
-          "text": "*WARSH CONSIDERS REDUCING FREQUENCY OF FED POLICY MEETINGS: NYT\n\nThis would be quiet a curveball. Should probably make a task force to weigh out the pros and cons https://t.co/v5sVQKuH7V"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2083417798420963666",
+          "text": "MediaTek sees sales of data center related chips (AI, HPC) over US$2 billion this year, with its first AI accelerator chip set for production in the 4th quarter, media report, adding strong demand for custom ASICs will continue next year. CEO Rick Tsai said the total market for c"
+        },
+        {
+          "handle": "@rwang07",
+          "url": "https://x.com/rwang07/status/2083236906108899832",
+          "text": "MTK 2Q26 Earnings. https://t.co/zOgB6GY3PV"
         }
       ]
     },
     {
-      "topic": "Alibaba's Investment & Compute Deal with Moonshot AI",
+      "topic": "Microsoft's Strong Copilot Progress and FCF-Positive Azure Growth",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Alibaba owns 36% of Moonshot AI and has a compute deal to provide 20,000 Nvidia H200 chips for Moonshot AI's Kimi model, highlighting strategic partnerships in the AI model space.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2083264596039680037",
-          "text": "Alibaba owns 36% of Moonshot, and their infra team works quite closely with Moonshot"
-        }
-      ]
-    },
-    {
-      "topic": "ASE Capex Increase for Advanced Packaging",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "ASE, a chip packaging giant, raised its 2026 capex forecast to US$10.5 billion from $8.5 billion due to strong demand for advanced and general packaging, seeing glass substrates and silicon photonics as key to overcoming hardware bottlenecks.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2082995845071585633",
-          "text": "ASE, the chip packaging giant, raised its 2026 capex to an estimated US$10.5 billion from $8.5 billion amid strong demand for advanced and general packaging, its 2nd capex increase so far this year, media report, adding the figure is based on analyst estimates. It would be the bi"
-        }
-      ]
-    },
-    {
-      "topic": "AUO FOPLP Glass Substrate Packaging Pilot Line",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "AUO plans to invest NT$8.64 billion (US$267M) in a FOPLP advanced chip packaging pilot line utilizing glass substrates, targeting applications like LEO satellite antennas, Micro LEDs, and optical communications.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2082996662017077587",
-          "text": "AUO, the display panel maker, plans to spend NT$8.64 billion (US$267M) for an FOPLP advanced chip packaging pilot line that uses glass substrates: Glass Core (structure), Redistribution Layer (RDL, fine metal wiring) and Through Glass Via (TGV, tiny holes drilled through the glas"
-        }
-      ]
-    },
-    {
-      "topic": "Apple's Memory Cost Surge & AI Demand",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Apple CEO Tim Cook described current memory price surge as a “100-year flood,” expecting costs to rise further due to AI data-center demand absorbing HBM and server-memory capacity, tightening supply for conventional DRAM and NAND.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2083331458564014564",
-          "text": "Apple CEO Tim Cook described the current surge in memory prices as a “100-year flood,” saying Apple paid significantly more for memory last quarter and expects costs to rise further.\n\nThe comments validate Micron’s strong pricing power. AI data-center demand is absorbing HBM and "
-        }
-      ]
-    },
-    {
-      "topic": "iPhone 18 Pro Price Hike Risk from Memory/Foundry Costs",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Higher costs for 2nm silicon and DRAM/NAND could lead to a $250–300 price hike for the iPhone 18 Pro/PM, creating demand uncertainty despite resilient iPhone 17 builds.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2083139948329464029",
-          "text": "* iPhone 18 Pro demand risk: Higher 2nm silicon and DRAM/NAND costs could drive a $250–300 price hike for iPhone 18 Pro/PM, creating demand uncertainty despite resilient iPhone 17 builds. iPhone 18 Pro/PM suggests limited spec upgrade for consumers.\n\nHOLY SMOKE\n\n$AAPL"
-        }
-      ]
-    },
-    {
-      "topic": "Yageo AI Server MLCC Demand & Pricing",
-      "category": "sectors",
-      "subcategory": "mlcc",
-      "summary": "Yageo, Taiwan's largest passive component maker, reports “very, very strong” demand for AI server components, leading customers to pay premiums and sign LTAs, with Yageo having raised prices in Q2 and potentially again.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2082997015781548462",
-          "text": "Yageo, Taiwan’s biggest passive component maker, said demand for AI server components remains 'very, very strong', leading some customers to pay a premium to secure supply and sign Long Term Agreements (LTAs), media report, adding Yageo raised prices in the 2nd quarter to keep pa"
-        }
-      ]
-    },
-    {
-      "topic": "Delta Electronics 800V DC Equipment Production Ramp",
-      "category": "sectors",
-      "subcategory": "800vdc",
-      "summary": "Delta Electronics is increasing capex to NT$70 billion this year, with mass production of 800V DC equipment expected to begin in Q3, driven by the continuous wave of AI data center construction.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2082996109820268566",
-          "text": "Delta Electronics, the power electronics giant, will spend NT$70 billion (US$2.2B) on capex this year, up from NT$46 billion last year and sees the 2nd half of the year even better than the first half. Mass production of 800V DC equipment is expected to begin in the 3rd quarter, "
-        }
-      ]
-    },
-    {
-      "topic": "Microsoft Azure/Copilot Growth & Capex Strategy",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Microsoft's Copilot progress exceeded expectations, and Azure shows an optimistic outlook, with MSFT accelerating Azure growth while remaining FCF-positive and improving CAPEX ROI by hosting open-source models, giving it strong financing advantages.",
+      "summary": "Microsoft's Copilot progress has exceeded expectations, and Azure is showing an optimistic outlook with accelerated growth while remaining free cash flow positive. Microsoft is improving CAPEX ROI by hosting open-source models, giving it strong financing advantages and capacity securing ability.",
       "mentions": [
         {
           "handle": "@FundaAI",
@@ -160,28 +150,113 @@
       ]
     },
     {
-      "topic": "Hyperscaler Stock Rally (AMZN, MSFT, GOOG)",
+      "topic": "CXMT's LPDDR6 Nearing Mass Production and DRAM Market Entry",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "Amazon shares surged 15%, marking its best day since 2012, contributing to a collective $1.3T market cap increase for Amazon, Microsoft, and Google, signaling a strong return for hyperscalers.",
+      "subcategory": "memory",
+      "summary": "Chinese media reports indicate CXMT's LPDDR6 is nearing mass production, with development validation almost complete. Its first LPDDR6 product features a 12,800Mbps data rate and 16Gb memory dies, signaling CXMT's increasing presence in the DRAM market.",
       "mentions": [
         {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2083285646786080902",
-          "text": "AMAZON $AMZN SHARES SURGE 15%, MARKING THEIR BEST DAY SINCE 2012 https://t.co/lk4674DU1M"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2083677024573694102",
+          "text": "CXMT has been added to $DRAM . https://t.co/QKJmFfKcEm"
+        },
+        {
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2083295563684942185",
+          "text": "Recommended reading for the weekend:  \n\n1. Gavin Baker (@GavinSBaker) pinned post — Market is overreacting to hyperscale credit spreads widening\n2. WSJ — His Wedding Guests Were Arriving - Just as His $45 Billion Fund Was Falling Apart\n3. @FundaAI — SPCX: xAI 8GW Buildout Mapping"
         }
       ]
     },
     {
-      "topic": "Korea Kospi Record Rally",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The Korea Kospi index jumped 18% in one day, its biggest single-day gain on record, signaling a generational bull market in Korea.",
+      "topic": "South Korea's Surging Semiconductor Exports Driven by Memory Prices",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "South Korea's semiconductor exports soared 179% year-on-year in July to $41 billion, primarily driven by rising global memory chip prices. Total exports rose 63%, with exports to China nearly doubling.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2083333243672121590",
-          "text": "I was supposed to be on vacation, but with the KOSPI going crazy and my teammates constantly pinging me, it doesn’t really feel like one anymore 🤯"
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2083418534835892688",
+          "text": "South Korea’s semiconductor exports in July soared 179% year-on-year to US$41 billion as global prices for memory chips continued to rise, media report, adding total exports rose 63% to $98.89B. Exports to China nearly doubled to $21.7 billion on strong chip shipments, nonferrous"
+        }
+      ]
+    },
+    {
+      "topic": "Bullish Sentiment on AI Stocks Post-Market Shakeout",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Following a market shakeout that saw some investors 'wiped out,' a bullish sentiment is emerging for AI stocks. This is supported by strong hyperscaler capex guidance, positive earnings from Hynix and Samsung, and institutional shifts to long positions.",
+      "mentions": [
+        {
+          "handle": "@AlmaCap114204",
+          "url": "https://x.com/AlmaCap114204/status/2083101093496570170",
+          "text": "Buying AI stocks right now is literally a free money glitch:\n\n> Korean degens wiped out\n> Leopold (spiritually Korean) wiped out\n> Citadel short positions closed and full long ready to send it \n> All the sharks closing their shorts and flipping long\n> Hynix and Samsung post earni"
+        },
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2083328371124035716",
+          "text": "$NVDA $MU $SNDK $LITE As I think about it with the equity market now closed for the week, this past month’s shakeout is actually a long term bullish signal for the GAI infrastructure trade. There could be more pain to come, but the stocks got hammered and prices rewound 3 months,"
+        }
+      ]
+    },
+    {
+      "topic": "Fed Chair Warsh Considers Fewer FOMC Meetings",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Fed Chair Kevin Warsh is considering reducing the frequency of FOMC policy meetings from eight times annually, asking officials for feedback. This proposal follows other moves to shorten Fed statements and potentially scale back press conferences.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2083291473814954292",
+          "text": "*WARSH CONSIDERS REDUCING FREQUENCY OF FED POLICY MEETINGS: NYT\n\nThis would be quiet a curveball. Should probably make a task force to weigh out the pros and cons https://t.co/v5sVQKuH7V"
+        },
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2083289955779117160",
+          "text": "WARSH CONSIDERS FEWER FED POLICY MEETINGS - NYT\n\nFed Chair Kevin Warsh raised the idea at this week’s policy gathering and asked officials to provide feedback. A revised schedule could be approved before the next meeting in mid-September, although any changes may take effect late"
+        }
+      ]
+    },
+    {
+      "topic": "AMD GPU Price Hikes Due to HBM/Memory Constraints",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "AMD is raising GPU prices in response to memory component constraints, indicating that supply-side pressures are forcing the company to pass costs to customers. Memory availability remains a limiting factor in GPU production, allowing price increases without significant market share loss.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2083640356130988474",
+          "text": "Is it a new paradigm: compute bottleneck caused by a memory bottleneck?\n\n$AMD is raising GPU prices in response to memory component constraints, indicating that supply-side pressures are forcing the company to pass costs to customers rather than absorb them. \n\nThis suggests memor"
+        }
+      ]
+    },
+    {
+      "topic": "Compute Short, Memory Long Thesis and HBM Dynamics",
+      "category": "sectors",
+      "subcategory": "memory",
+      "summary": "The 'Compute Short, Memory Long' thesis suggests a shift in the pricing structure of memory, with HBM now selling like a contract asset despite JEDEC standards. This paradigm shift is driven by compute bottlenecks caused by memory constraints.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2083632211409113115",
+          "text": "Compute Short, Memory Long: Aschenbrenner's Unwind, Gavin Baker's Hold: https://t.co/maaKmUpdsM\n\nWhy has compute sold expensive while memory sold like flour for 30 years, and why is that price structure cracking in 2026. From DRAM capacitor physics to wafer cannibalization, HBF, "
+        }
+      ]
+    },
+    {
+      "topic": "NXP's Potential Acquisition of Ambarella",
+      "category": "sectors",
+      "subcategory": "analog",
+      "summary": "NXP Semiconductors is reportedly in talks to acquire US video/camera chip designer Ambarella, aiming to bolster its camera technology for self-driving cars. This potential acquisition highlights consolidation in the physical AI space.",
+      "mentions": [
+        {
+          "handle": "@dnystedt",
+          "url": "https://x.com/dnystedt/status/2083418617438429454",
+          "text": "NXP Semiconductors is in talks to buy US video/camera chip designer Ambarella for its camera technology for self-driving cars, the FT reports. $AMBA $NXPI https://t.co/8iwQLRm29j"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2083374419796537426",
+          "text": "$AMBA Exciting update here 🚨\n\nAMBA is my 2nd largest holding in my Physical AI basket\n\nThis comes just a couple month after $ON set out to acquire $SYNA\n\nIt sure seems like Physical AI is the next supercycle to me\n\nHoping this news is true and its for all cash and above $100/shar"
         }
       ]
     }
