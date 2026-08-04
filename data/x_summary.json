@@ -1,237 +1,192 @@
 {
-  "generated_at": "2026-08-03T00:04:04+00:00",
-  "tweet_count": 73,
-  "account_count": 21,
+  "generated_at": "2026-08-04T00:13:43+00:00",
+  "tweet_count": 70,
+  "account_count": 20,
   "themes": [
     {
-      "topic": "Severe Indium Phosphide (InP) substrate shortage",
+      "topic": "Intel EMIB-T advanced packaging progress and adoption",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Lumentum's CEO warned that the InP substrate shortage will be worse than memory, coinciding with AXT's filing of an $87M deposit to reserve substrate capacity through 2031, indicating extreme tightness in the market.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2084020768225309137",
-          "text": "I was reading @MollySOShea Sourcery interview with Lumentum's CEO and stopped at one line. The InP shortage, he said, \"will get worse than memory\".\n\nThat same week, the AXT filing landed. An $87M deposit, substrate capacity reserved through 2031.\n\nThe words and the money came out"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2083634757234287069",
-          "text": "Notes on $AAOI ahead of Q2 earnings next week:\n\nFor the TLDR thesis: $AAOI is the only Western vertically integrated transceiver maker with its own InP laser fab pointed directly at the 800G/1.6T ramp. Currently undergoing capacity expansions in Texas, so if the capacity lands, t"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2083599389088518176",
-          "text": "Lets use this crazy $AXTI move to revisit $ALMU\n\nIndium phosphide, or InP, is the starting material used to make the wafers that optical chips are built on.\n\nThose wafers go through epitaxy, fabrication, dicing, etc and eventually become individual lasers, detectors and other opt"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-          "text": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand.\n\nThis is especially visible wi"
-        }
-      ]
-    },
-    {
-      "topic": "Market volatility and Leopold's leverage wipeout",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The market experienced extreme volatility during an FOMC week, with Citadel reportedly profiting from a leveraged position after a surprise rate hold, while a trader named Leopold faced a leverage wipeout.",
-      "mentions": [
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2083583871992393997",
-          "text": "It’s a weird feeling looking back at this week and knowing you just lived through history.\n\nOne of the craziest FOMC weeks of my life.\n\nCitadel called for a surprise rate hike. Rates held. Leopold got his leverage wiped.\n\nWhen Wall Street sharks smell blood they go for the kill. "
-        },
-        {
-          "handle": "@dylan522p",
-          "url": "https://x.com/dylan522p/status/2083264806245843236",
-          "text": "Love that all FinTwit people making fun of Leopold still get mogged by his returns this year.\nLeopold is a great guy and he's extremely in tune with where the world is headed."
-        },
-        {
-          "handle": "@investingluc",
-          "url": "https://x.com/investingluc/status/2083162629942505876",
-          "text": "I hope the Leopold situation was a stark reminder that anyone can blow up.\n\nYou’re not special. Or immune. Or safe.\n\nOnly focus everyday should be how to NOT take a *big* loss.\n\npre-trade question: is there a remote possibility that I take a big loss here?\n- if yes, do not trade"
-        },
-        {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2083112224902570229",
-          "text": "Dust is settling, provided he has someone experienced in charge of portfolio construction / managing risk then this will likely have significant appetite. Probably no or significant limits on leverage this time.\n\nI personally would want him to have a break after the mental cookin"
-        }
-      ]
-    },
-    {
-      "topic": "US-Iran tensions easing and talks",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Trump reportedly called off a strike on Iran, with talks set to begin, easing geopolitical tensions and contributing to a broader market clearing of overhangs.",
-      "mentions": [
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2084049124781945336",
-          "text": "Interesting weekend. Trump called off the Iran strike and talks begin Monday afternoon, which takes out the last of the big overhangs the market has been clearing one by one since Wednesday.\n\nLook at what resolved in eight days.\n\n> Cloud growth accelerated across all three. Googl"
-        },
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2083841325087199682",
-          "text": "TRUMP SAYS U.S. WILL HOLD OFF ON IRAN ATTACK\n\nTrump said Iran and other Middle Eastern countries asked the U.S. to hold off after the outlines of a deal were agreed. He said any deal must include the full reopening of the Strait of Hormuz and an end to Iran’s nuclear threat.\n\nThe"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2083760320062083406",
-          "text": "Trump announced that US has cancelled its attack on Iran.\n\nAnd that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program.\n\nAnyone else feel like they’ve aged a few years in the past 6 months? https://t.co/4PK671c548"
-        }
-      ]
-    },
-    {
-      "topic": "AAOI's InP laser fab expansion for 800G/1.6T transceivers",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "AAOI, as a vertically integrated transceiver maker with its own InP laser fab, is expanding capacity in Texas to meet pre-sold demand for 800G/1.6T transceivers, addressing the current InP laser shortage and providing a strategic U.S. supply for hyperscalers.",
-      "mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2083634757234287069",
-          "text": "Notes on $AAOI ahead of Q2 earnings next week:\n\nFor the TLDR thesis: $AAOI is the only Western vertically integrated transceiver maker with its own InP laser fab pointed directly at the 800G/1.6T ramp. Currently undergoing capacity expansions in Texas, so if the capacity lands, t"
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2083438823548293140",
-          "text": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below customer demand.\n\nThis is especially visible wi"
-        }
-      ]
-    },
-    {
-      "topic": "Samsung operating profit forecasts and LTA terms",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Nomura significantly raised its operating profit forecasts for Samsung Electronics for the next three years, projecting substantial increases in FCF and shareholder return yields, with LTAs structured on supplier-friendly terms.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2083915223644397881",
-          "text": "So... Samsung is expected to generate roughly $1.25 trillion in operating profit over the next three years, right? And what was Samsung’s market cap again...? https://t.co/AywhQ5N5pF"
-        }
-      ]
-    },
-    {
-      "topic": "Record retail selling in Technology sector",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Retail investors engaged in record-breaking selling in the Technology sector, with more notional value sold this week than any other since January 2019, exceeding the previous record by over 80%.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2084021118650761477",
-          "text": "“The selling was most pronounced in Technology, where investors sold more notional this week than during any other week in our dataset (since January 2019), exceeding the previous record by more than 80%. Two of the three largest retail Tech sell days ever observed on our platfor"
-        }
-      ]
-    },
-    {
-      "topic": "NXP in talks to acquire Ambarella",
-      "category": "sectors",
-      "subcategory": "analog",
-      "summary": "NXP Semiconductors is reportedly in talks to acquire U.S. video/camera chip designer Ambarella, aiming to leverage its camera technology for self-driving car applications.",
+      "subcategory": "advanced_packaging",
+      "summary": "Intel's EMIB-T advanced packaging is reportedly 50% cheaper than TSMC CoWoS, with mass production expected next year as yields exceed 90%, despite substrate yield bottlenecks. It has secured an AI ASIC project from MediaTek (likely Google TPU), and Broadcom and Meta are evaluating it, with Google expanding TPU orders and using EMIB due to TSMC CoWoS capacity constraints.",
       "mentions": [
         {
           "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2083418617438429454",
-          "text": "NXP Semiconductors is in talks to buy US video/camera chip designer Ambarella for its camera technology for self-driving cars, the FT reports. $AMBA $NXPI https://t.co/8iwQLRm29j"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2083374419796537426",
-          "text": "$AMBA Exciting update here 🚨\n\nAMBA is my 2nd largest holding in my Physical AI basket\n\nThis comes just a couple month after $ON set out to acquire $SYNA\n\nIt sure seems like Physical AI is the next supercycle to me\n\nHoping this news is true and its for all cash and above $100/shar"
+          "url": "https://x.com/dnystedt/status/2084429378092732877",
+          "text": "Intel’s EMIB-T advanced packaging costs 50% less than TSMC CoWoS, media report, adding EMIB-T will begin mass production next year as yields now exceed 90% - though another report says a 50% substrate yield remains the bottleneck. \n-EMIB-T has already won Intel at least one AI AS"
         }
       ]
     },
     {
-      "topic": "Targeting of refined product and logistics assets",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "Aggressors are reportedly targeting refined product and logistics assets, rather than crude-related assets, potentially to limit political blowback, with drone warfare evolving.",
+      "topic": "Palantir's Enterprise AI Spending Shift to Production Systems",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Palantir's Q2 2026 results show enterprise AI spending is moving from experimentation to production systems, combining proprietary data, workflow context, and security, with strong growth in US commercial and government revenue.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2083974936759025880",
-          "text": "$VLO $MPC $PSX $DINO It seems like the aggressors are now targeting refined product and logistics assets rather than crude related assets. My gut read is that it appeases Trump and keeps overall political blowback more limited. https://t.co/TpvaYe70zn"
-        }
-      ]
-    },
-    {
-      "topic": "Google's Intel EMIB use due to TSMC CoWoS constraints",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "Google is reportedly expanding orders for TPU AI server chips and has turned to Intel for EMIB packaging, as Nvidia has pre-booked over 50% of TSMC's CoWoS advanced packaging capacity for the next three years.",
-      "mentions": [
+          "url": "https://x.com/TheValueist/status/2084415629075927323",
+          "text": "$PLTR KEY READ-THROUGHS FROM PALANTIR Q2 2026 EARNINGS CALL\n\nPalantir’s Q2 2026 results provide one of the clearest public-market signals to date that enterprise AI spending is moving beyond experimentation, generic copilots, and standalone foundation-model access toward producti"
+        },
         {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2084055853414621571",
-          "text": "Rumor: Google is expanding orders for TPU AI server chips as demand heats up, with market researchers putting TPU demand at 15 million by 2028, more than Nvidia’s current 13 million per year, media report, adding Google turned to Intel for EMIB packaging because Nvidia pre-booked"
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2084372787481952534",
+          "text": "PALANTIR $PLTR Q2'26 EARNINGS HIGHLIGHTS\n\n🔹 Revenue: $1.94B (Est. $1.8B) 🟢; +93% YoY\n🔹 Adj. EPS: $0.41 (Est. $0.35) 🟢\n🔹 US Commercial Revenue: $764M; +149% YoY\n🔹 Adj. Op Inc: $1.19B (Est. $1.06B) 🟢\n\nQ3 2026 Guide:\n🔹 Revenue: $2.160B-$2.164B (Est. $2B) 🟢\n🔹 Adj. Op Inc: $1.29B-$1.3"
         }
       ]
     },
     {
-      "topic": "TSMC 3nm and 2nm capacity ramp",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "TSMC is reportedly ramping up advanced process capacity, with 3nm expected to reach 180,000 wafer starts per month by early Q4 (ahead of schedule) and 2nm at 100,000 wpm by year-end, as clients like Nvidia, AMD, and Broadcom vie for capacity.",
-      "mentions": [
-        {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2084051323373404453",
-          "text": "TSMC clients like Nvidia, AMD, Broadcom are vying for advanced processes as TSMC ramps up capacity, media report:\n-TSMC 3nm now seen at 180,000 wafer starts per month by early 4th quarter vs prior target end-26\n-2nm seen at 100,000wpm by year-end. $TSM $NVDA $AVGO https://t.co/hW"
-        }
-      ]
-    },
-    {
-      "topic": "Google Cloud supply constraints and rising CapEx",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Google remains supply-constrained and anticipates significant CapEx increases in 2027, with spending focused on servers, data centers, and networking infrastructure to meet demand.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2084035679340884422",
-          "text": "The meaningful signal remains that $GOOGL is still supply-constrained and expects CapEx to rise significantly again in 2027, with spending concentrated on servers, data centers and networking infrastructure\n\nhttps://t.co/0Mc8mjII7K https://t.co/Uzr73tkn8Y"
-        }
-      ]
-    },
-    {
-      "topic": "Chinese AI models' reliance on NVIDIA GPUs",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "Chinese AI model competition, exemplified by Moonshot's reported access to 20,000 NVIDIA GPUs via Alibaba, demonstrates the continued critical importance of large-scale NVIDIA compute infrastructure for even highly efficient Chinese models.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2084029805989949945",
-          "text": "China’s model competition is still being fought on top of large-scale NVIDIA compute. \n\nMoonshot reportedly accessed about 20,000 $NVDA GPUs through Alibaba, showing that access to advanced chips remains critical even for highly efficient Chinese models.\n\nKimi K3 is not evidence "
-        }
-      ]
-    },
-    {
-      "topic": "South Korea's soaring semiconductor exports in July",
+      "topic": "NVIDIA Rubin Ultra HBM despec due to supply constraints",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "South Korea's semiconductor exports soared 179% year-on-year in July to $41 billion, driven by rising global memory chip prices and strong shipments to China and the US.",
+      "summary": "NVIDIA's Rubin Ultra HBM despec, shifting from HBM4E 12Hi to HBM4 8Hi, is a strategy to produce more accelerators from limited HBM supply, as DRAM makers struggle to expand HBM capacity due to commodity DRAM shortages and TSMC's capacity expansion outstripping HBM supply.",
       "mentions": [
         {
-          "handle": "@dnystedt",
-          "url": "https://x.com/dnystedt/status/2083418534835892688",
-          "text": "South Korea’s semiconductor exports in July soared 179% year-on-year to US$41 billion as global prices for memory chips continued to rise, media report, adding total exports rose 63% to $98.89B. Exports to China nearly doubled to $21.7 billion on strong chip shipments, nonferrous"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2084428931109912642",
+          "text": "Put simply, the Rubin Ultra HBM despec is a supply issue. Not a demand issue.\n\nI think as much additional HBM will be produced as the supply headroom freed up by the shift from 12Hi to 8Hi. It is not a problem at all."
         }
       ]
     },
     {
-      "topic": "Microsoft Copilot progress and Azure CapEx ROI",
+      "topic": "2027 DRAM/HBM capacity sold out and supply shortfall",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "Microsoft's Copilot progress exceeded expectations, and Azure shows an optimistic outlook with accelerated growth, improved CapEx ROI by hosting open-source models, and the ability to increase CapEx while remaining FCF-positive.",
+      "subcategory": "memory",
+      "summary": "DigiTimes reports that 2027 DRAM and HBM capacity is already fully booked, with NAND flash bookings also expected to fill, leading to an acute supply shortfall and elevated memory prices becoming the norm due to prioritization of CSPs and AI majors.",
       "mentions": [
         {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2083031923027521566",
-          "text": "We began to shift our view on $MSFT  starting with this quarter’s MSFT Preview. In our research this quarter, we saw for the first time that Copilot’s progress exceeded expectations, with many reasonable and meaningful changes. Our research on Azure also pointed to a more optimis"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2084410347726004534",
+          "text": "DigiTimes: 2027 DRAM/HBM capacity already sold out\n\nAccording to a DigiTimes report, annual 2027 DRAM and HBM capacity has been fully booked out ahead of schedule.\n\nNAND flash supply isn't as tight as DRAM, but bookings are expected to be completely filled by the end of this mont"
+        }
+      ]
+    },
+    {
+      "topic": "ON Semiconductor's AI Data Center Revenue Growth and NVIDIA/AWS Wins",
+      "category": "sectors",
+      "subcategory": "analog",
+      "summary": "ON Semiconductor expects AI data center revenue to more than double in 2026, with direct platform wins in the NVIDIA MGX ecosystem and AWS power infrastructure, indicating strong demand for power semiconductors in AI deployments.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084416549117415887",
+          "text": "$ON KEY READ-THROUGHS FROM ON SEMICONDUCTOR Q2 2026 EARNINGS CALL\n\nThe ON Semiconductor Q2 2026 call provides a materially positive read-through for AI compute deployment, data-center electrical infrastructure, differentiated power semiconductors, and semiconductor distribution, "
+        }
+      ]
+    },
+    {
+      "topic": "Power Semiconductor Supply Tightening",
+      "category": "sectors",
+      "subcategory": "analog",
+      "summary": "ON Semiconductor reports tightening supply in differentiated power semiconductors, with book-to-bill 'significantly above 1,' lead times extending to 32 weeks, and utilization increasing, supporting volume, pricing, and factory absorption.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084416549117415887",
+          "text": "$ON KEY READ-THROUGHS FROM ON SEMICONDUCTOR Q2 2026 EARNINGS CALL\n\nThe ON Semiconductor Q2 2026 call provides a materially positive read-through for AI compute deployment, data-center electrical infrastructure, differentiated power semiconductors, and semiconductor distribution, "
+        }
+      ]
+    },
+    {
+      "topic": "OEM Manufacturing Capacity as Semiconductor Equipment Bottleneck",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "Ultra Clean Holdings' earnings call indicates that major semiconductor equipment OEMs like Lam Research and Applied Materials are constrained by internal manufacturing capacity, leading to increased outsourcing of subsystem production to partners like UCT.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084416019771077078",
+          "text": "$UCTT KEY READ-THROUGHS FROM ULTRA CLEAN HOLDINGS Q2 2026 EARNINGS CALL\n\nUltra Clean Holdings’ Q2 2026 call provides a strongly positive read-through for the duration and breadth of the semiconductor capital-equipment cycle, particularly for deposition, etch, leading-edge logic, "
+        }
+      ]
+    },
+    {
+      "topic": "WFE Upturn Extension to 2027-2028",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "Ultra Clean Holdings reports 'unprecedented visibility' and longer customer planning horizons, suggesting the WFE (Wafer Fab Equipment) upturn can extend through 2027 and into 2028, with industry WFE potentially exceeding $200 billion in 2027.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084416019771077078",
+          "text": "$UCTT KEY READ-THROUGHS FROM ULTRA CLEAN HOLDINGS Q2 2026 EARNINGS CALL\n\nUltra Clean Holdings’ Q2 2026 call provides a strongly positive read-through for the duration and breadth of the semiconductor capital-equipment cycle, particularly for deposition, etch, leading-edge logic, "
+        }
+      ]
+    },
+    {
+      "topic": "AI Infrastructure Demand Broadening Beyond GPU Training",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "AI infrastructure demand is broadening beyond GPU-intensive training clusters to include inference workloads utilizing higher volumes of CPU compute, benefiting AMD, Intel, and Arm, and increasing demand for leading-edge foundry and advanced packaging.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084416019771077078",
+          "text": "$UCTT KEY READ-THROUGHS FROM ULTRA CLEAN HOLDINGS Q2 2026 EARNINGS CALL\n\nUltra Clean Holdings’ Q2 2026 call provides a strongly positive read-through for the duration and breadth of the semiconductor capital-equipment cycle, particularly for deposition, etch, leading-edge logic, "
+        }
+      ]
+    },
+    {
+      "topic": "Global Fab Ramps Supporting Memory, Foundry, and Equipment",
+      "category": "sectors",
+      "subcategory": "foundry",
+      "summary": "Global fab ramps in the US, South Korea, and Taiwan are supporting increased demand for memory, foundry services, and multi-region equipment, indicating a synchronized expansion across advanced manufacturing.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084416019771077078",
+          "text": "$UCTT KEY READ-THROUGHS FROM ULTRA CLEAN HOLDINGS Q2 2026 EARNINGS CALL\n\nUltra Clean Holdings’ Q2 2026 call provides a strongly positive read-through for the duration and breadth of the semiconductor capital-equipment cycle, particularly for deposition, etch, leading-edge logic, "
+        }
+      ]
+    },
+    {
+      "topic": "Sovereign AI Architecture Driving Private GPU Infrastructure",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Palantir's sovereign AI architecture, which allows customers to own model weights and operate within their security boundaries, is materially expanding the opportunity for enterprise-controlled GPU infrastructure, benefiting NVIDIA, Dell, and HPE.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084415629075927323",
+          "text": "$PLTR KEY READ-THROUGHS FROM PALANTIR Q2 2026 EARNINGS CALL\n\nPalantir’s Q2 2026 results provide one of the clearest public-market signals to date that enterprise AI spending is moving beyond experimentation, generic copilots, and standalone foundation-model access toward producti"
+        }
+      ]
+    },
+    {
+      "topic": "Cloud Infrastructure Benefiting from AI Workload Growth",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Aggregate AI workload growth remains favorable for cloud infrastructure, with model evaluation, fine-tuning, and inference consuming cloud resources, while proprietary model economics may lose pricing power due to customer demand for portability.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084415629075927323",
+          "text": "$PLTR KEY READ-THROUGHS FROM PALANTIR Q2 2026 EARNINGS CALL\n\nPalantir’s Q2 2026 results provide one of the clearest public-market signals to date that enterprise AI spending is moving beyond experimentation, generic copilots, and standalone foundation-model access toward producti"
+        }
+      ]
+    },
+    {
+      "topic": "Enterprise Software Consolidation Around Workflow Control Planes",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Enterprise AI budgets are consolidating around strategic workflow control planes, favoring vendors like ServiceNow, SAP, and Salesforce that own workflow context, permissions, and data models, converting generic AI intelligence into measurable process outcomes.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084415629075927323",
+          "text": "$PLTR KEY READ-THROUGHS FROM PALANTIR Q2 2026 EARNINGS CALL\n\nPalantir’s Q2 2026 results provide one of the clearest public-market signals to date that enterprise AI spending is moving beyond experimentation, generic copilots, and standalone foundation-model access toward producti"
+        }
+      ]
+    },
+    {
+      "topic": "Increased Competitive Bar for Subscale AI Platforms",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Palantir's success in rapidly deploying production-scale AI outcomes is raising the competitive bar for subscale enterprise AI platforms like C3.ai and legacy RPA vendors like UiPath, which must prove they can operate as strategic control planes.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2084415629075927323",
+          "text": "$PLTR KEY READ-THROUGHS FROM PALANTIR Q2 2026 EARNINGS CALL\n\nPalantir’s Q2 2026 results provide one of the clearest public-market signals to date that enterprise AI spending is moving beyond experimentation, generic copilots, and standalone foundation-model access toward producti"
         }
       ]
     }
