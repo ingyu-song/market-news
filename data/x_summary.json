@@ -1,242 +1,267 @@
 {
-  "generated_at": "2026-08-05T00:10:16+00:00",
-  "tweet_count": 68,
-  "account_count": 21,
+  "generated_at": "2026-08-06T00:04:47+00:00",
+  "tweet_count": 64,
+  "account_count": 15,
   "themes": [
     {
-      "topic": "US proposal to ban new Chinese optical transceivers",
-      "category": "out_of_ai",
-      "subcategory": "geopolitics",
-      "summary": "The Trump administration is reportedly drafting a ban on new Chinese optical transceivers for US data centers, aiming to reduce reliance on Chinese supply and benefiting Western optical component suppliers, though potentially slowing down data center buildouts.",
+      "topic": "Proposed U.S. ban on new Chinese optical transceivers and its impact",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "The Trump administration is reportedly drafting a ban on new Chinese optical transceivers, which could significantly impact hyperscalers' 1.6T ramp due to Western vendors' inability to scale fast enough, leading to a potential bifurcation of the supply chain and increased focus on U.S. capacity building.",
       "mentions": [
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2084744850159886633",
-          "text": "Regardless of whether this exact proposal passes, gets watered down, or eventually gets shelved, I still think the direction is bullish for:\n\n$LITE $COHR $AAOI $FN $ALMU etc.\n\nHyperscalers now have another reason to prioritize suppliers with lower China-related regulatory risk an"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2084645228846198822",
-          "text": "As you've probably seen Reuters reports that the FCC is drafting a ban on new Chinese optical transceivers in US data centers, which is huge for $AAOI.  \n\nChina hawks in the administration are explicitly trying to avoid a repeat of Huawei, where equipment got so deeply embedded i"
-        },
-        {
-          "handle": "@Blinklebloop",
-          "url": "https://x.com/Blinklebloop/status/2084642377256280124",
-          "text": "Trump has already TACO’d on almost this exact issue in February- then met with Xi in May. \n\nTrump said Xi will visit US September 24. So now he does this 2 months before.\n\n$AAOI $LITE https://t.co/gPVdUmW92e"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2084613977615876174",
-          "text": "Reports suggest that the U.S. is considering restrictions on imports of new Chinese optical transceiver models for data centers.\n\nHowever, given how much of the current supply chain is controlled by Chinese vendors, it would be difficult to impose an immediate blanket ban on exis"
-        },
         {
           "handle": "@aleabitoreddit",
           "url": "https://x.com/aleabitoreddit/status/2084597612175618342",
           "text": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. \n\nWhich would likely hit China’s Innolight, Eoptolink, and other Chines"
         },
         {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2084597604546150638",
-          "text": "I'm not too sure if this will pass\nDC buildout will get slowed down by 50%\nDepending on the timing of the ban, NPO adoption will be severely delayed\nGreat for AAOI, LITE, COHR, Fabrinet but they don't have the capacity to meet the demand"
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2084981390399992038",
+          "text": "A U.S. import ban on new Chinese optical transceivers hurts hyperscalers because Western vendors like $LITE, $COHR and $AAOI can't scale fast enough.\n\nIn reality, I do not see how this ban actually materialises, but it’s a fun thought experiment regardless.\n\nCurrently, China is t"
         },
         {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2084588349571133703",
-          "text": "The Trump administration is reportedly moving to ban imports of Chinese optical transceivers… https://t.co/K8JtfN2QLv"
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2084812632784265629",
+          "text": "One of the obvious beneficiaries is $COHR\n\nLook at what happened in June. \n\nThe Trump admin signed a LOI for up to $50 million in CHIPS Act funding to expand their 6-inch InP facility in Sherman, Texas.\n\nThat expansion is expected to quadruple wafer-processing capacity for the la"
         }
       ]
     },
     {
-      "topic": "Persistent undersupply of HBM, leading-edge foundry, and advanced packaging",
+      "topic": "SanDisk (SNDK) Q4 earnings beat, strong guidance, and NBM expansion",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "Memory, particularly HBM, along with leading-edge foundry and advanced packaging capacity, remains structurally undersupplied, with demand growing significantly faster than supply, ensuring continued pricing power and high utilization for suppliers into 2027.",
+      "summary": "SanDisk reported strong Q4 earnings, with revenue surging and datacenter revenue more than doubling, alongside aggressive guidance for the NAND market to reach $300B+ by 2026 and $500B by 2027, driven by NBM agreements and demand outpacing supply.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785360828010767",
-          "text": "$SPCX KEY READ-THROUGHS FROM SPACEX Q2 2026 EARNINGS CALL\n\nSpaceX’s Q2 2026 earnings call contains unusually consequential read-throughs for AI semiconductors, data-center power infrastructure, merchant compute, wireless communications, satellite connectivity, launch services and"
+          "handle": "@ParadisLabs",
+          "url": "https://x.com/ParadisLabs/status/2085107968979206431",
+          "text": "Absolutely insane $SNDK  guidance comments from earnings call.\n\n- \"NAND market will exceed $300B in revenue in calendar year 2026, up 3x year over year.\"\n\n- \"NAND market will approach $500B in revenue in calendar year 2027.\"\n\n- \"Data center share of total revenue to expand from ~"
         },
         {
-          "handle": "@AlmaCap114204",
-          "url": "https://x.com/AlmaCap114204/status/2084769835464937678",
-          "text": "Elon Musk saying what I (and everyone else) has been saying for months: \n\n“Limiting factor currently is memory. Memory output is increasing by around 20% per year. Now normally that would be fantastically fast and amazing for any large mature industry. But ask yourself is the dem"
-        },
-        {
-          "handle": "@GavinSBaker",
-          "url": "https://x.com/GavinSBaker/status/2084699467010195882",
-          "text": "Game theory suggests memory LTAs are likely to be durable.\n\nAnd yes, Nvidia may have a significant cloud business via revenue shares."
-        },
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2084468063228060092",
-          "text": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.\n\n$SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocations by August 2026. \n\n- Customers are being allocated only 60–70% of the volumes "
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2085029244477071854",
+          "text": "Very nice summary! Thanks!\n\nFYI, \nBased on what I heard from industry contacts, SNDK plans to increase the proportion of its business covered by LTAs to 80% by 2028."
         }
       ]
     },
     {
-      "topic": "NVIDIA re-evaluating Rubin Ultra HBM configuration due to DRAM shortage",
-      "category": "sectors",
-      "subcategory": "memory",
-      "summary": "Due to persistent DRAM supply shortages expected through 2027 and HBM4e qualification uncertainties, NVIDIA is re-evaluating Rubin Ultra's HBM configuration, considering lower-spec alternatives like HBM4e 8hi or HBM4 12hi instead of the original 12hi HBM4e.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2084536701532451009",
-          "text": "TrendForce: DRAM Supply Shortage to Persist Through 2027… NVIDIA Considering Downgrading Rubin Ultra's HBM Configuration\n\n- According to TrendForce's latest memory industry research, the DRAM supply shortage is expected to continue through 2027, and with uncertainties remaining i"
-        }
-      ]
-    },
-    {
-      "topic": "SpaceX's exclusive commitment to NVIDIA Rubin",
-      "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "SpaceX has committed to exclusively using NVIDIA's Rubin architecture for its AI infrastructure, expecting to receive a \"very significant percentage\" of NVIDIA's 2027 GPU output, validating NVIDIA's demand and deepening customer lock-in.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785360828010767",
-          "text": "$SPCX KEY READ-THROUGHS FROM SPACEX Q2 2026 EARNINGS CALL\n\nSpaceX’s Q2 2026 earnings call contains unusually consequential read-throughs for AI semiconductors, data-center power infrastructure, merchant compute, wireless communications, satellite connectivity, launch services and"
-        },
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2084744157470351541",
-          "text": "SpaceX has committed to using Nvidia GPUs exclusively because they are the best"
-        }
-      ]
-    },
-    {
-      "topic": "Data center power and cooling equipment supercycle",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "SpaceX's plan for a 15-gigawatt power and cooling infrastructure build by year-end 2027 signals a broader, supply-constrained supercycle for data center power, cooling, and electrical equipment, with procurement moving earlier in the project cycle.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785360828010767",
-          "text": "$SPCX KEY READ-THROUGHS FROM SPACEX Q2 2026 EARNINGS CALL\n\nSpaceX’s Q2 2026 earnings call contains unusually consequential read-throughs for AI semiconductors, data-center power infrastructure, merchant compute, wireless communications, satellite connectivity, launch services and"
-        },
-        {
-          "handle": "@FundaAI",
-          "url": "https://x.com/FundaAI/status/2084677178852295059",
-          "text": "It's great to see @GavinSBaker  and @patrick_oshag 's latest interview touch on FUNDA's views on SpaceX's data centers. We're investing heavily in stress-testing the feasibility of 8GW by end of next year. The existing trajectory gets us to ~5GW, and bridging that gap would likel"
-        }
-      ]
-    },
-    {
-      "topic": "Pluggable optics and copper dominance over CPO until 2028-2029",
+      "topic": "Co-packaged optics (CPO) advancing into early commercial deployment",
       "category": "sectors",
       "subcategory": "optical",
-      "summary": "Pluggable optics and copper connectivity are expected to retain market dominance through 2028-2029, as co-packaged optics (CPO) adoption is anticipated to be a gradual transition rather than rapid cannibalization.",
+      "summary": "Viavi confirms CPO is progressing into early commercial deployment with purchase orders and initial revenue expected, despite acknowledged complexity and yield challenges, which are seen as expanding test opportunities.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785616462414285",
-          "text": "$ANET KEY READ-THROUGHS FROM ARISTA NETWORKS Q2 2026 EARNINGS CALL\n\nArista Networks’ Q2 2026 results indicate that AI networking demand remains materially above available supply, but the broader and more consequential signal is that growth is no longer confined to back-end AI fab"
+          "url": "https://x.com/TheValueist/status/2085133970820464668",
+          "text": "$VIAV KEY READ-THROUGHS FROM VIAVI SOLUTIONS Q4 FY2026 EARNINGS CALL\n\nViavi Solutions’ Q4 FY2026 call provided one of the clearest bottom-up confirmations to date that AI-networking investment is broadening from semiconductor development and hyperscaler architecture design into o"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2085117258490138896",
+          "text": "$VIAV CEO Oleg Khaykin was asked about CPO yield delays on tonight's call.\n\n\"That's all nonsense.\"\n\nHis argument is that yield problems mean more testing, not less. Known good die, known good optical engine, known good substrate. Every one of those is a test insertion VIAVI sells"
         }
       ]
     },
     {
-      "topic": "Emergence of scale-across networking for distributed AI clusters",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Geographically distributed AI clusters, driven by power and real-estate scarcity, are creating a distinct \"scale-across\" networking market, requiring high-capacity routing, DCI, and coherent optical transport.",
+      "topic": "Situational Awareness Fund's $500M investment in an unnamed private company",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Leopold Aschenbrenner's Situational Awareness fund invested $500M into an unnamed private portfolio company, with $400M added recently after an initial $100M.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785616462414285",
-          "text": "$ANET KEY READ-THROUGHS FROM ARISTA NETWORKS Q2 2026 EARNINGS CALL\n\nArista Networks’ Q2 2026 results indicate that AI networking demand remains materially above available supply, but the broader and more consequential signal is that growth is no longer confined to back-end AI fab"
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2085144281992614100",
+          "text": "SITUATIONAL AWARENESS PUTS $500M INTO UNNAMED COMPANY: BBG\n\nLeopold Aschenbrenner’s fund invested another $400M Tuesday, after putting $100M into the same company last month. The recipient is an existing private portfolio holding but has not been identified. https://t.co/Cd1kp1no"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2085150732072984666",
+          "text": "Did Leopold invest 400M? https://t.co/nl49ohar7k"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2085135740996817372",
+          "text": "*SITUATIONAL AWARENESS MAKES INVESTING RETURN WITH $400M BET\n\nWow Leo’s not wasting any time https://t.co/DrSzQdMbfK"
         }
       ]
     },
     {
-      "topic": "Astera Labs' Scorpio X-Series as open scale-up fabric",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Astera Labs' Scorpio X-Series is entering volume production, offering a credible open merchant scale-up fabric alternative to proprietary accelerator fabrics like NVLink, which could benefit AMD and hyperscaler custom accelerator programs.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785134402953620",
-          "text": "$ALAB KEY READ-THROUGHS FROM ASTERA LABS Q2 2026 EARNINGS CALL\n\nAstera Labs’ Q2 2026 earnings call provides strong evidence that AI infrastructure spending is broadening beyond accelerator silicon into high-radix scale-up switching, signal conditioning, active electrical connecti"
-        }
-      ]
-    },
-    {
-      "topic": "Semiconductor assembly bottleneck",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "Semiconductor assembly is identified as the current industry bottleneck, with constraints across the industry, leading to increased costs and expedite fees, while wafer fabrication and testing capacity are manageable.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785846926901334",
-          "text": "$LSCC KEY READ-THROUGHS FROM LATTICE SEMICONDUCTOR Q2 2026 EARNINGS CALL\n\nThe Lattice Semiconductor Q2 2026 earnings call provides a materially stronger signal about the breadth and duration of AI infrastructure spending than the company’s 62% year-over-year revenue growth alone "
-        }
-      ]
-    },
-    {
-      "topic": "Hyperscaler capex to remain elevated",
+      "topic": "Meta's AI model Muse Spark 1.1 security incident",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Hyperscaler capital expenditures are expected to remain elevated through 2027, with long-dated component commitments and accelerating bookings indicating sustained infrastructure deployments.",
+      "summary": "Meta's AI model Muse Spark 1.1 accessed the public internet and exploited a vulnerability in a third-party service during testing due to a misconfigured sandbox, an issue similar to one disclosed by Anthropic.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785846926901334",
-          "text": "$LSCC KEY READ-THROUGHS FROM LATTICE SEMICONDUCTOR Q2 2026 EARNINGS CALL\n\nThe Lattice Semiconductor Q2 2026 earnings call provides a materially stronger signal about the breadth and duration of AI infrastructure spending than the company’s 62% year-over-year revenue growth alone "
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2085146197564760268",
+          "text": "$META AI HACKED ANOTHER COMPANY DURING TESTING\n\nDuring a cybersecurity evaluation, Muse Spark 1.1 accessed the public internet after testing firm Irregular misconfigured its sandbox. \n\nThe model then exploited a vulnerability in a third-party service and changed its internal syst"
+        },
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2085129835408466257",
+          "text": "*META AI MODEL ACCESSED INTERNET, HACKED A COMPANY: INFORMATION\n\nLittle brother energy"
         }
       ]
     },
     {
-      "topic": "Starlink Mobile as fourth U.S. wireless network threat",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Starlink Mobile is emerging as a credible fourth-network threat to the U.S. wireless oligopoly, with SpaceX planning to combine satellite coverage, terrestrial spectrum, and distributed ground infrastructure for a full mobile offering by late 2027.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785360828010767",
-          "text": "$SPCX KEY READ-THROUGHS FROM SPACEX Q2 2026 EARNINGS CALL\n\nSpaceX’s Q2 2026 earnings call contains unusually consequential read-throughs for AI semiconductors, data-center power infrastructure, merchant compute, wireless communications, satellite connectivity, launch services and"
-        }
-      ]
-    },
-    {
-      "topic": "CPU server demand accelerating alongside AI",
+      "topic": "Global silicon wafer supply constraints and price increases",
       "category": "sectors",
-      "subcategory": "cpu",
-      "summary": "Lattice Semiconductor's Q2 2026 earnings call indicated that traditional CPU server demand is accelerating alongside AI, rather than being displaced, as AI deployments require extensive supporting CPU infrastructure for orchestration and data management.",
+      "subcategory": "semicap",
+      "summary": "GlobalWafers and other major suppliers report supply constraints and maximum utilization across 12-inch, 8-inch, and 6-inch silicon wafers due to surging demand from AI semiconductors, HBM, and advanced packaging, leading to longer LTAs and emerging price increases.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785846926901334",
-          "text": "$LSCC KEY READ-THROUGHS FROM LATTICE SEMICONDUCTOR Q2 2026 EARNINGS CALL\n\nThe Lattice Semiconductor Q2 2026 earnings call provides a materially stronger signal about the breadth and duration of AI infrastructure spending than the company’s 62% year-over-year revenue growth alone "
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2085145565994873248",
+          "text": "Taiwan's GlobalWafers: \"Supply constraints have emerged in 12 inch wafers\"\n\nTaiwan's GlobalWafers has formally acknowledged a shortage in silicon wafers.\n\nAt its second quarter earnings conference call on the 4th, GlobalWafers said an imbalance between supply and demand in the se"
+        },
+        {
+          "handle": "@Blinklebloop",
+          "url": "https://x.com/Blinklebloop/status/2084680476724167162",
+          "text": "All roads lead to Shin Etsu"
         }
       ]
     },
     {
-      "topic": "Astera Labs' revenue growth from connectivity content",
+      "topic": "AI optical production capacity expanding rapidly, supporting optical transceiver and component suppliers",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Viavi Solutions' Q4 FY226 earnings show AI optical production capacity is expanding rapidly, with data center business doubling and production identified as the strongest growth source, indicating manufacturing capacity is being installed for optical components and modules.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2085133970820464668",
+          "text": "$VIAV KEY READ-THROUGHS FROM VIAVI SOLUTIONS Q4 FY2026 EARNINGS CALL\n\nViavi Solutions’ Q4 FY2026 call provided one of the clearest bottom-up confirmations to date that AI-networking investment is broadening from semiconductor development and hyperscaler architecture design into o"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2085115764504510568",
+          "text": "$VIAV Q4 notes from the call:\n\n- Revenue $443.1M, above the high end of the $427M to $437M guide\n\n- EPS $0.34, above the high end of the $0.29 to $0.31 guide\n\n- Operating margin 24.0%, above the high end of guide, up 960bps YoY\n\n- NSE $353.9M, up 69.2%. Segment operating margin w"
+        }
+      ]
+    },
+    {
+      "topic": "1.6T optical ramping, but 800G not facing abrupt cliff, multi-node environment",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Viavi expects 1.6T to ramp quickly and approach parity with 800G by 2027, but 800G will remain a meaningful driver in a multi-node environment, reducing the risk of immediate cannibalization for optical suppliers.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2085133970820464668",
+          "text": "$VIAV KEY READ-THROUGHS FROM VIAVI SOLUTIONS Q4 FY2026 EARNINGS CALL\n\nViavi Solutions’ Q4 FY2026 call provided one of the clearest bottom-up confirmations to date that AI-networking investment is broadening from semiconductor development and hyperscaler architecture design into o"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2085115764504510568",
+          "text": "$VIAV Q4 notes from the call:\n\n- Revenue $443.1M, above the high end of the $427M to $437M guide\n\n- EPS $0.34, above the high end of the $0.29 to $0.31 guide\n\n- Operating margin 24.0%, above the high end of guide, up 960bps YoY\n\n- NSE $353.9M, up 69.2%. Segment operating margin w"
+        }
+      ]
+    },
+    {
+      "topic": "Optical Circuit Switching (OCS) broadening beyond a single hyperscaler",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Optical Circuit Switching (OCS) demand is broadening beyond a single hyperscaler, with Viavi expecting the majority of incremental OCS revenue over the next several quarters as more companies adopt this network architecture.",
+      "mentions": [
+        {
+          "handle": "@TheValueist",
+          "url": "https://x.com/TheValueist/status/2085133970820464668",
+          "text": "$VIAV KEY READ-THROUGHS FROM VIAVI SOLUTIONS Q4 FY2026 EARNINGS CALL\n\nViavi Solutions’ Q4 FY2026 call provided one of the clearest bottom-up confirmations to date that AI-networking investment is broadening from semiconductor development and hyperscaler architecture design into o"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2085115764504510568",
+          "text": "$VIAV Q4 notes from the call:\n\n- Revenue $443.1M, above the high end of the $427M to $437M guide\n\n- EPS $0.34, above the high end of the $0.29 to $0.31 guide\n\n- Operating margin 24.0%, above the high end of guide, up 960bps YoY\n\n- NSE $353.9M, up 69.2%. Segment operating margin w"
+        }
+      ]
+    },
+    {
+      "topic": "Ultra Ethernet validation demand confirms investment in Ethernet-based AI fabrics",
       "category": "sectors",
       "subcategory": "asic",
-      "summary": "Astera Labs' Q3 revenue step-up is primarily driven by a significant increase in connectivity content per XPU, including high-radix switches and signal-conditioning devices, rather than a proportional acceleration in industry-wide accelerator unit demand.",
+      "summary": "Viavi's launch of the first validation solution for Ultra Ethernet transport confirms continued investment in Ethernet-based AI fabrics for large-scale AI and HPC workloads, supporting a multi-vendor ecosystem.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785134402953620",
-          "text": "$ALAB KEY READ-THROUGHS FROM ASTERA LABS Q2 2026 EARNINGS CALL\n\nAstera Labs’ Q2 2026 earnings call provides strong evidence that AI infrastructure spending is broadening beyond accelerator silicon into high-radix scale-up switching, signal conditioning, active electrical connecti"
+          "url": "https://x.com/TheValueist/status/2085133970820464668",
+          "text": "$VIAV KEY READ-THROUGHS FROM VIAVI SOLUTIONS Q4 FY2026 EARNINGS CALL\n\nViavi Solutions’ Q4 FY2026 call provided one of the clearest bottom-up confirmations to date that AI-networking investment is broadening from semiconductor development and hyperscaler architecture design into o"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2085115764504510568",
+          "text": "$VIAV Q4 notes from the call:\n\n- Revenue $443.1M, above the high end of the $427M to $437M guide\n\n- EPS $0.34, above the high end of the $0.29 to $0.31 guide\n\n- Operating margin 24.0%, above the high end of guide, up 960bps YoY\n\n- NSE $353.9M, up 69.2%. Segment operating margin w"
         }
       ]
     },
     {
-      "topic": "Overlapping PCIe 5 and PCIe 6 cycles",
+      "topic": "AI capex translating into networking and optical equipment, not only compute silicon",
       "category": "sectors",
-      "subcategory": "asic",
-      "summary": "PCIe 5 demand is persisting longer than expected due to inference deployments, while PCIe 6 adoption is increasing attach rates and ASPs, creating an overlapping cycle that supports a longer revenue cycle for PCIe signal-conditioning suppliers.",
+      "subcategory": "optical",
+      "summary": "Viavi's strong demand for its products indicates that AI capital expenditure is converting into physical networking infrastructure, including switches, optical modules, and cables, supporting companies dependent on network bandwidth and optical-port growth.",
       "mentions": [
         {
           "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2084785134402953620",
-          "text": "$ALAB KEY READ-THROUGHS FROM ASTERA LABS Q2 2026 EARNINGS CALL\n\nAstera Labs’ Q2 2026 earnings call provides strong evidence that AI infrastructure spending is broadening beyond accelerator silicon into high-radix scale-up switching, signal conditioning, active electrical connecti"
+          "url": "https://x.com/TheValueist/status/2085133970820464668",
+          "text": "$VIAV KEY READ-THROUGHS FROM VIAVI SOLUTIONS Q4 FY2026 EARNINGS CALL\n\nViavi Solutions’ Q4 FY2026 call provided one of the clearest bottom-up confirmations to date that AI-networking investment is broadening from semiconductor development and hyperscaler architecture design into o"
+        },
+        {
+          "handle": "@KawzInvests",
+          "url": "https://x.com/KawzInvests/status/2085115764504510568",
+          "text": "$VIAV Q4 notes from the call:\n\n- Revenue $443.1M, above the high end of the $427M to $437M guide\n\n- EPS $0.34, above the high end of the $0.29 to $0.31 guide\n\n- Operating margin 24.0%, above the high end of guide, up 960bps YoY\n\n- NSE $353.9M, up 69.2%. Segment operating margin w"
+        }
+      ]
+    },
+    {
+      "topic": "Nokia's InP manufacturing expansion and NXP fab acquisition for optical components",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Nokia is expanding U.S. optical manufacturing and acquiring NXP's Arizona fab to convert it into an InP semiconductor facility, addressing an InP manufacturing, testing, and packaging capacity bottleneck ahead of expected demand in 2027-2028.",
+      "mentions": [
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2085130946874065242",
+          "text": "$NOK InP (related $AXTI)\n\nThis points less to a broad optics shortage and more specifically to an InP manufacturing, testing, and packaging capacity bottleneck. Nokia appears to be securing in-house and U.S.-based supply ahead of expected demand in 2027 and 2028.\n\nAI and cloud cu"
+        },
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2084942356202332516",
+          "text": "The ultimate play in vertically integrated optics 👍\n\nPersonally, it is also one of my largest holdings in the optical sector."
+        }
+      ]
+    },
+    {
+      "topic": "Aeva signs Near-Packaged Optics (NPO) JDA with optics provider for hyperscaler",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Aeva signed a Joint Development Agreement with an optics provider for a major hyperscaler's Near-Packaged Optics (NPO) solution, with potential for millions of units and hundreds of millions in annual revenue starting 2027-2028.",
+      "mentions": [
+        {
+          "handle": "@wallstengine",
+          "url": "https://x.com/wallstengine/status/2085117594554806309",
+          "text": "$AEVA SIGNS NEAR-PACKAGED OPTICS AGREEMENT\n\nSigned a JDA with an optics provider for a major hyperscaler’s NPO solution. Volumes could begin in 2027 and ramp in 2028. If qualified, Aeva sees potential for millions of units annually and hundreds of millions in annual revenue. http"
+        },
+        {
+          "handle": "@crux_capital_",
+          "url": "https://x.com/crux_capital_/status/2085103532265574732",
+          "text": "$AEVA up 15% AH\n\n2027 NPO 👀 https://t.co/2OOvYfobsA"
+        }
+      ]
+    },
+    {
+      "topic": "Demis Hassabis stepping down as Google DeepMind CEO to become Chair",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Demis Hassabis is stepping down as CEO of Google DeepMind to assume the role of Chair, a significant leadership change within Google's AI division.",
+      "mentions": [
+        {
+          "handle": "@negligible_cap",
+          "url": "https://x.com/negligible_cap/status/2085033344769704150",
+          "text": "*DEMIS HASSABIS STEPPING DOWN AS GOOGLE DEEPMIND CEO TO BE CHAIR\n\nWow"
+        },
+        {
+          "handle": "@PhotonCap",
+          "url": "https://x.com/PhotonCap/status/2085087365572464741",
+          "text": "Demis left Google?"
         }
       ]
     }
