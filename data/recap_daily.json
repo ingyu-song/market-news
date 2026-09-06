@@ -1,18 +1,120 @@
 {
-  "generated_at": "2026-09-06T00:30:31+00:00",
+  "generated_at": "2026-09-06T23:25:31+00:00",
   "mode": "daily",
   "for_date": "2026-09-06",
-  "headline": "US Stocks Climb Amid Yield Focus; AI Chip, China Trade Tensions Persist",
-  "summary": "US stocks advanced as bond yields remained a key focus, with long-term Treasury yields rising on renewed inflation concerns from geopolitical tensions. Meanwhile, the semiconductor sector saw developments in advanced packaging and supply chain strategies, while China's economic challenges persisted.",
+  "headline": "Global Inflation Concerns Mount; Oil Surges Amid Geopolitical Tensions",
+  "summary": "US employment data indicates a strong dollar and potential for further rate hikes, with the ECB already signaling another increase. Geopolitical tensions in the Middle East have driven oil prices higher, while China announced a $54 billion stimulus for its financial sector. Nvidia's strong forecast points to continued AI chip sector growth.",
   "sections": [
     {
-      "label": "US Semis / AI Chips",
+      "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Advanced packaging solutions are seeing increased adoption and development.",
+          "lead": "Inflationary pressures persist globally, with central banks signaling tighter monetary policy.",
           "segments": [
             {
-              "text": "Hanmi's 2.5D bonders have passed qualification with a major Taiwan foundry, indicating expanding outsourcing in advanced packaging.",
+              "text": "US employment data has driven a stronger dollar, with the KRW/USD exchange rate attempting to rebound to 1350.",
+              "sources": [
+                {
+                  "title": "美 고용 서프라이즈에 강달러…환율 1350원 반등 시도[외환브리핑]",
+                  "link": "https://n.news.naver.com/mnews/article/018/0006364676?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Bond traders are preparing for increased volatility across the US yield curve.",
+          "segments": [
+            {
+              "text": "Inflation data remains a key focus for bond traders bracing for more swings at both ends of the US yield curve.",
+              "sources": [
+                {
+                  "title": "Bond Traders Brace for More Swings at Both Ends of US Yield Curve",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYV91ai1qYzdFdG0za0d5OHEyMGd1NzVfUzFRQjdVSVotTDlQNVFsa1dsbFY5ZlJDRmRQS2pBMktxanhlRjZ0Tk96czR3M1R3aUFHX3Q1MnJ1MDNZblpybDFkLXhFNUx0T2xtLXN6WXJ2elpBeTVRWmZwbUVMNGgtVmFOTVNtOF92dHZwY2xfOE84SW56cTlYdTZKcjZoWjNKQ0JvVWVxTGg3ZUpKNVJzMVNGV1dqRnM?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The ECB is expected to implement another rate hike this week.",
+          "segments": [
+            {
+              "text": "The European Central Bank is doubling down as the G7's most hawkish central bank, with another rate hike due this week.",
+              "sources": [
+                {
+                  "title": "ECB Doubles Down as G7’s Hawk With Another Rate Hike Due This Week",
+                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlhETWdRcG9XZ2JZeGZXTkIzX0R5c3dXdjBPT0F0bmFuMGUxTV85NWdoN2ZoRHdaNTU5blFWZGp5QkY5U2VXQ1VfX1NJZjI3X3VncUhOcW1rOUNfYmVIRzVRZzZOb1FTNWlJVUVOV3RfaURRM2JnY2c0UVZrTXdMbW10cUYydXJEcko1bHVUOUVyV1dXZElpaUZpSHFvU1lIOEZHdjN2d2RnWld3R0l1Snd3MzZBSXBJ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "China moves to stimulate its financial sector with a substantial stimulus package.",
+          "segments": [
+            {
+              "text": "China is preparing a £40 billion ($54 billion) stimulus package to bolster its financial sector amidst concerns over sluggish growth.",
+              "sources": [
+                {
+                  "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+                  "link": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                },
+                {
+                  "title": "China to pump $54 billion into state banks, insurers in capital-boosting push",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPang2d09TQ3Q1cEd0QVJXaWc5aWpIcVh5MUQ5UEhud1R1OVFKV2lYSXEtb2hGMHNqR0xjUWx1cXJNZ3NFcTV3RmR5LXliVHNuWEJDdUVLVld1OU5mMURmLWFieGxGZzdYbTdhMUZkeXk2UTM2QS1QRWt2M2JJelM4VUlXZ2pxd2I5ZFZyX1k2TmJLNHVURHNwTEVQOHNuOV9rZTM1UFh6d1c0RFAwVFBLaG1yQVAzSEpRQWptMg?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US trade rhetoric targets Canada over currency imbalances.",
+          "segments": [
+            {
+              "text": "Former President Trump has stated that Canada's dollar \"imbalance\" with the US is unacceptable.",
+              "sources": [
+                {
+                  "title": "Trump Says Canada’s Dollar ‘Imbalance’ With US Is Unacceptable",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTlRqWTQwVG5ycG9OZXZnNFMwM2wxTXNNLVFBaEdpdHpCRTZmYXNUMk12eVNHRkJBNGtuZUJuOXhzNnFqeWxpTzdzTWpsRzJSNGI1OHY5eDd2VXBGNTYtaVdIUm9QdDhBckl5THJyaGZxMXdzWTN6cS1FODBQX1pNMTQ1YVQ3Z3d0REdFRHVnUzBVZE1BQVg1eWVDcTFNZk5JQjZBRFQtM1JROFN0Rmp2VQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Hanmi's 2.5D bonders have passed qualification with a major Taiwan foundry.",
+          "segments": [
+            {
+              "text": "This development indicates expanding packaging outsourcing in the semiconductor industry.",
               "sources": [
                 {
                   "title": "Hanmi's 2.5D bonders pass Taiwan foundry qualification as packaging outsourcing expands",
@@ -22,21 +124,104 @@
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Oil prices have surged due to renewed Middle East tensions and US attacks on Iranian ships.",
+          "segments": [
             {
-              "text": "TSMC is advancing its 3D packaging roadmap, aiming to engineer AI chips that mimic the human brain's cognitive functions.",
+              "text": "Oil prices gained as US attacks on Iranian ships raised escalation risks, causing US stocks to fall.",
               "sources": [
                 {
-                  "title": "TSMC's 3D packaging roadmap: engineering AI chips to think like the human brain",
-                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNckg5ajNURGt4ZFg1TzNTS0FpUlVaUGgtbVJmRWJFSEd2NS1jNUI1eVBybmQ4WEtUMkhZS1Y1TEhDdmY1Y3Y2ZW9STGNDblJUTVhvMDhPeDZnbzE4dW9XODRKNlp6Uk5QWWJDamJsQTRIcU5MeWxYTmlZQXNiRlNaWVRscUpWdnd6enJFSVVlVTc?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
+                  "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Oil Edges Higher on Renewed Middle East Tensions: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yNmpRcVhUMEtpTlVEZFoxaE9DVS0yX0hRbTQyamFBQW9JejQyNnhfdEFGRGJhc1Y0dlhsTkt3M2NwN2JSaUN4dTFJUDRCZlNkWTVSdzI4QW1ZRDVhUUVYZzBFZnB0RDFmZFBZR0Vnb3BzcXJzMVYwSU53YUpqS0lDelBpd2JiempVcnNnXzVpVWE2?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "U.S. Stocks Fall as Oil Surges After New Middle East Strikes",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "OPEC Plus has opted to hold oil production steady.",
+          "segments": [
             {
-              "text": "Discussions around advanced packaging technologies like SoIC, CoWoS, HBM5 hybrid bonding, and EMIB-T's yield challenges are prominent in industry podcasts.",
+              "text": "This decision comes despite the renewed strikes between the US and Iran.",
+              "sources": [
+                {
+                  "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
+                  "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Gold futures have risen ahead of upcoming US payrolls data.",
+          "segments": [
+            {
+              "text": "Investors are watching for economic indicators that could influence market direction.",
+              "sources": [
+                {
+                  "title": "Gold Futures Rise Ahead of U.S. Payrolls Data",
+                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNam5IWFNrTmJYREpnUktNOUZ5V0hlQktibjJ6LURpUmg5SzFZZE1zejZadDhFWWswMEZtOHZqb21fRDlkTzJXQWJ0RE5ONC1VMVhEc3l0RmNrU0E0MlJabnJwUjVyeHF4REEtaXdQVVBhSWlwUGlRbU5sRm4wR0xUNDFOeFJsMWtRbHUwdEtERGxLbGhaRk9DYWZvaEJFd0QxY3dNcGN3?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Nvidia's strong forecast highlights continued growth in the AI chip sector.",
+          "segments": [
+            {
+              "text": "Nvidia's first-ever year-ahead forecast positions it to potentially surpass Apple and Alphabet in market value.",
+              "sources": [
+                {
+                  "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+                  "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Advanced packaging technologies are a key focus in semiconductor manufacturing.",
+          "segments": [
+            {
+              "text": "Discussions include SoIC vs CoWoS, HBM5 hybrid bonding, and EMIB-T's yield challenges.",
               "sources": [
                 {
                   "title": "Podcast highlights: SoIC vs CoWoS, HBM5 hybrid bonding, and EMIB-T's yield problem",
@@ -50,201 +235,16 @@
           ]
         },
         {
-          "lead": "Key industry players are engaging in strategic discussions amid US investment pressures.",
+          "lead": "The rally in US semiconductor stocks is expected to drive a rebound in the KOSPI.",
           "segments": [
             {
-              "text": "Samsung and SK chiefs are scheduled to meet Nvidia's Jensen Huang in New York, likely addressing US investment pressures and supply chain collaborations.",
+              "text": "This surge is fueled by an OpenAI-led AI boom.",
               "sources": [
                 {
-                  "title": "Samsung, SK chiefs to meet Nvidia's Huang in New York amid US investment pressure",
-                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVJOQ3hUbVR6cmoyZHFBZHVucnNJVm5zVGpxLXdvWGtLbzlxc1ZZclpmeEFkMUpjZHNhRWQxUkxieU5QX25tdjR0ZVI0N3JaZGNnR3g3SW5hcGFDMHNGNTE0SlAwTXczd093TUVOalJLOEF1ZDRoNzhhSm5FaWdnSUcteUFSOVcwaEYyanZmWTV1WFFVSF8yUjRMTGZ5VTQ2XzAyVA?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Global silicon wafer suppliers are reporting constraints and maximum utilization across various wafer sizes due to surging demand from AI semiconductors.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2085145565994873248"
-                },
-                {
-                  "handle": "@Blinklebloop",
-                  "url": "https://x.com/Blinklebloop/status/2084680476724167162"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "Long-term Treasury yields rose amidst renewed inflation concerns.",
-          "segments": [
-            {
-              "text": "Long-term Treasury yields increased as the Iran war revived inflation worries, keeping bond yields in the spotlight.",
-              "sources": [
-                {
-                  "title": "Long-Term Treasury Yields Rise as Iran War Revives Inflation Worries",
-                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjJ0dVZ0ZzNyQXlWNXFBOHlSQjdhdEVEbnFmdTMwZVRlR3hwWkdzUVZESEF5VjZfMU1MZ25hYmFoNHNlVnNTazZZTW5tN1A4c3ZYZlRESHNvUzdGbkhyWVZRMW9FSi1sbC1NZlRTcVBFbGM2d3JNTEt6Z0xHQ0dXeTRuYmtDcndnN2w3cElBakc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "US stocks climbed despite rising bond yields, with market focus remaining on macro indicators.",
-              "sources": [
-                {
-                  "title": "U.S. Stocks Climb as Bond Yields Stay in Spotlight",
-                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdYMmM3M0MxMkYxV25aRU11U1lwVEtvcFRtUmRFc2FNVC1EZ1VQZW5zY2w4b1lkQjNfMHFoMk1GSnc4Sm9YajFoeS1MTDZwOW0yeGN0WUFlcm9BREl0a1JNdjVQc3haTDVLTVpsOXRWbWQwRThKbFZ5bUJGMXRlNTgwb1pKdy1fNjUwTFl3N0RYMVM2MlB5RmhTaFhnQUYxYzZiLWxzUzdhbTBlVDE1ZE5zd2RpWWp6?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Political pressure on the Federal Reserve continues regarding interest rate policy.",
-          "segments": [
-            {
-              "text": "President Trump has intensified pressure on Kevin Warsh, the new Fed Chair, ahead of a looming Fed rate hike decision.",
-              "sources": [
-                {
-                  "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-                  "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Investors are divesting from Nvidia and reallocating capital into leveraged semiconductor ETFs like SOXL, with over $400 million bet on such instruments.",
-              "sources": [
-                {
-                  "title": "엔비디아 던진 서학개미, 다시 '이것' 쓸어담았다…4억달러 베팅",
-                  "link": "https://n.news.naver.com/mnews/article/215/0001264997?sid=101",
+                  "title": "[증시전망대] 오픈AI '아스트라'가 쏘아 올린 美 반도체 랠리…코스피도...",
+                  "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=63876",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "China's major airlines reported significant losses in the first half of the year.",
-          "segments": [
-            {
-              "text": "China's largest airlines posted over $1 billion in losses during the first half of the year, primarily due to the impact of surging fuel costs.",
-              "sources": [
-                {
-                  "title": "China’s Biggest Airlines Post Over $1 Billion Loss in First Half as Fuel Shock Bites",
-                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGwyUUI3WGtGV2hsNW92T0VQaEJnbGVpRW9XU3Q2S1UxUmY5YlFrLXFWbDBiQWVibEJjTlpUdlRtYXp5c0FROHI2d3JUb1NWc0Q0RnlPcTRxQUpzNkNiTTBjWmpSY1h4cXV3N1NHVXp0Rmd5NHB3WHhfd2kyOGptVFp3WnRIek95S1Ftcm1tc2NlLUsxNjNZblNFeGtFc1BtV2xVRmxwbkIyWndLdlA1ajRjZUtKN2xzdnNMbUpXNEdGUjFOTEM3dQ?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trade policies and regional semiconductor targets are shaping economic landscapes.",
-          "segments": [
-            {
-              "text": "Brazil and Argentina are set to export tariff-free beef to the U.S., despite ongoing quality concerns.",
-              "sources": [
-                {
-                  "title": "Brazil And Argentina Will Send Tariff-Free Beef To U.S.—Despite Quality Concerns",
-                  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUxFVXhmYlV4VnFRMEtwOHpfZDNIUUtqMDY2b3hHZ0h2cmxreVY0WUdJVllLbmxFME1aVGhKQlpBRkJ0bkZHQWs1OHZDQUtXdmc5TW9ZZ3BISEE4SF8tTUdzMEJpVWhYY3pUR0lQcDRnTVgwb1hKQ2pzVGEyVWI4VldjU2ttcnhQZmI5bzQ1RDA1NmhSYzQ3UVcybHFucUlTTFNWaW5hQmF6dWFyd0RwSkM0N1pmb0dvNlU4Ul9IX0tCcmpUeGxveGJ1LVVlSW1mbjVRQW9OQUFSbGh3SEVxYnJ3?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Taiwan aims for its semiconductor output to reach NT$8 trillion, highlighting its strategic importance in the global supply chain.",
-              "sources": [
-                {
-                  "title": "Taiwan semiconductor output targets NT$8 trillion",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFR6dEFfenB1bHFYTXNWMXBRaEZsWEVuTmpKUGZTZUJlalhkU0tkQ19iU1VZNGs5aUhwaEIzQjhMLU55RmRBVmtxMElHcTVPMzZtUTBtaENVQjVYUXVWcHduRHNVWWlscmRRWWNtWlJoZnRlU3p2NFl3SWpwaTNSVEZ6a3gyVHdsZkpBQ2UxRmJULTExQlQyU1U5WmpxUWExcUNCcXc4Q2hXUQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "The Trump administration is reportedly drafting a ban on new Chinese optical transceivers, which could significantly impact hyperscalers' 1.6T ramp due to Western vendors' inability to meet demand.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@aleabitoreddit",
-                  "url": "https://x.com/aleabitoreddit/status/2084597612175618342"
-                },
-                {
-                  "handle": "@ParadisLabs",
-                  "url": "https://x.com/ParadisLabs/status/2084981390399992038"
-                },
-                {
-                  "handle": "@crux_capital_",
-                  "url": "https://x.com/crux_capital_/status/2084812632784265629"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "bullets": [
-        {
-          "lead": "President Trump is leveraging trade policy to influence Federal Reserve decisions.",
-          "segments": [
-            {
-              "text": "Trump has threatened to halt some trade agreements unless the Federal Reserve cuts interest rates, escalating pressure on monetary policy.",
-              "sources": [
-                {
-                  "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
-                  "link": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Scrutiny on defense contracts and political appointments is increasing.",
-          "segments": [
-            {
-              "text": "Steven Lutnick is set to review Pentagon deals involving Cerberus companies, indicating potential shifts in defense contracting oversight.",
-              "sources": [
-                {
-                  "title": "Lutnick to Review Pentagon Deals Involving Cerberus Companies",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVF0RlowUjB6UDl6eDg4ek1ad2pQVVpReVdSQmIxZGJQUllXeHVrUms0Q0M2TGlPdnVlcFlkMHZGcllIdHhGRXRXazkxSUl4MEotbFZYdVN0VjJROW5ScjhKU19HbE9STmtzZ2g3V3RTdDhYSHpWcG1LQ3BUdktWbm1EZ3c5SEUxR1dyTlVuN0RidFFZTUd3QVlSMGpjb19TTFNGeVhBb1Z4VENwU1RMYXdR?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -257,26 +257,31 @@
       "label": "AI Infrastructure / Hyperscaler Capex",
       "bullets": [
         {
-          "lead": "Investments in AI data centers and optical communications are expanding.",
+          "lead": "Anthropic's significant commitment to AWS underscores growing AI infrastructure investment.",
           "segments": [
             {
-              "text": "SK Telecom is reorganizing its AI data center strategy into a \"triangular formation,\" signaling significant investment in AI infrastructure.",
+              "text": "Anthropic has committed over $100 billion to AWS, with further details expected from its prospectus.",
               "sources": [
                 {
-                  "title": "SKT, AI 데이터센터 ‘삼각편대’로 재편",
-                  "link": "https://n.news.naver.com/mnews/article/082/0001397010?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-committed-more-100-billion-214301635.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "The G20 AI agenda sees the US advocating for light-touch regulation.",
+          "segments": [
             {
-              "text": "Topco is focusing on optical communications and cooling solutions as copper interconnects are gradually being replaced in advanced data centers.",
+              "text": "Meanwhile, data center backlashes and rivalry with China intensify.",
               "sources": [
                 {
-                  "title": "Topco targets optical comms, cooling as copper gives way",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2htMDNHTUVFdGtObGwyQkFrOGlHcHAtRFlWQjV0REZ1QWpYcE41Qld3V2JHdjhMTmwtMTA2Snl1WThIT1lsbFYxU2t6YTE0SjBLak8tMXliMnd3MG5RUmlLemF1bXhHTUlVaVZjMWk1c0FZWHRaMnJWMHREbVI2U3dFbXYzdnp2ZFpoMXBLUThCd1dUbkFaUA?oc=5",
+                  "title": "G20 AI agenda: US champions light-touch regulation while data center backlash, China rivalry intensify",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVhIZzZUbHlVRHphZTVQWHBCT2phdVdlR0VRZDBPZjhKSWwtMzB4OGRyTnZFM0l2dE5XQXo2cUdralc0Yy1BRXQ0azZYdl95cktYWDVvQmt5alBCNFRHdGhvaUlpZk52YmF5Y1ZVc2xuaDBHdFN0MXpuRFk1YzRFTjVldkYxMFNpNVhlWHpn?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -286,47 +291,15 @@
           ]
         },
         {
-          "lead": "Co-packaged optics (CPO) and Near-Packaged Optics (NPO) are moving towards commercial deployment.",
+          "lead": "AI token processing is projected for substantial growth.",
           "segments": [
             {
-              "text": "Viavi confirms that CPO is progressing into early commercial deployment, with initial purchase orders and revenue expected despite complexity and yield challenges.",
+              "text": "It is expected to exceed 120 Quadrillion tokens next year, a significant increase from over 30 Quadrillion by Q2 2026.",
               "sources": [],
               "x_mentions": [
                 {
-                  "handle": "@TheValueist",
-                  "url": "https://x.com/TheValueist/status/2085133970820464668"
-                },
-                {
-                  "handle": "@KawzInvests",
-                  "url": "https://x.com/KawzInvests/status/2085117258490138896"
-                }
-              ]
-            },
-            {
-              "text": "Aeva has signed a Joint Development Agreement with an optics provider for a major hyperscaler's NPO solution, potentially involving millions of units.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@wallstengine",
-                  "url": "https://x.com/wallstengine/status/2085117594554806309"
-                },
-                {
-                  "handle": "@crux_capital_",
-                  "url": "https://x.com/crux_capital_/status/2085103532265574732"
-                }
-              ]
-            },
-            {
-              "text": "Nokia is expanding U.S. optical manufacturing and acquiring NXP's Arizona fab to convert it into an InP semiconductor facility, addressing InP manufacturing, testing, and packaging bottlenecks.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@PhotonCap",
-                  "url": "https://x.com/PhotonCap/status/2085130946874065242"
-                },
-                {
-                  "handle": "@damnang2",
-                  "url": "https://x.com/damnang2/status/2084942356202332516"
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2096397032437199162"
                 }
               ]
             }
@@ -335,19 +308,19 @@
       ]
     },
     {
-      "label": "Earnings / Guidance",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "South Korea's export performance reached a record high.",
+          "lead": "Trump's influence on policy and market figures remains a key watchpoint.",
           "segments": [
             {
-              "text": "South Korean President Lee reported that the nation's export performance achieved an all-time high, driven by strong semiconductor demand.",
+              "text": "Former President Trump has put pressure on Kevin Warsh as a Fed rate hike looms.",
               "sources": [
                 {
-                  "title": "李대통령 \"한국 수출 실적 역대 최고\" 관세청장 보고 전파",
-                  "link": "https://n.news.naver.com/mnews/article/002/0002455176?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+                  "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -355,21 +328,36 @@
           ]
         },
         {
-          "lead": "SanDisk reported strong quarterly earnings and optimistic guidance.",
+          "lead": "OpenAI has cut Cursor Off from its models.",
           "segments": [
             {
-              "text": "SanDisk reported robust Q4 earnings, with revenue surging and datacenter revenue more than doubling, alongside aggressive guidance for the NAND market to reach over $300 billion by 2026.",
-              "sources": [],
-              "x_mentions": [
+              "text": "This action follows Musk's SpaceX (SPCX) acquisition of Cursor.",
+              "sources": [
                 {
-                  "handle": "@ParadisLabs",
-                  "url": "https://x.com/ParadisLabs/status/2085107968979206431"
-                },
-                {
-                  "handle": "@damnang2",
-                  "url": "https://x.com/damnang2/status/2085029244477071854"
+                  "title": "OpenAI Cuts Cursor Off from its Models Now That Musk’s SpaceX (SPCX) Owns It",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/openai-cuts-cursor-off-models-223547147.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
                 }
-              ]
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Construction is set to begin on New York's next linear park.",
+          "segments": [
+            {
+              "text": "This project moves forward despite Trump having previously canceled its funding.",
+              "sources": [
+                {
+                  "title": "After Trump Canceled Its Funding, Construction to Start on New York’s Next Linear Park",
+                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjlfN2hxVVJoaWhvNlRmb256M2Nlb2pFbnhnb0Zpa2ljWVBCaFRGVDNnZmt3TU9kX2IxZm1qVDktUGtsS2lGU0psa3oyenNCQjdGQ3hjNlkxcTJWcmxZY29YTUZZc0sxZmdOZ0J3OGlaX092cXNkSXV5YnFYZHV4TUhEUExGN3dQU0diQVh5blBhWUVJZHdGX0daZl9kNHBSX2ROWThGS2VhYTI1V0Z6X09XV0pFWGRqWHE0?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -379,46 +367,96 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "Continued pressure from the White House and rising yields could influence upcoming policy decisions.",
+      "note": "Inflation data and central bank actions will continue to drive market sentiment.",
       "sources": [
         {
-          "title": "Long-Term Treasury Yields Rise as Iran War Revives Inflation Worries",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjJ0dVZ0ZzNyQXlWNXFBOHlSQjdhdEVEbnFmdTMwZVRlR3hwWkdzUVZESEF5VjZfMU1MZ25hYmFoNHNlVnNTazZZTW5tN1A4c3ZYZlRESHNvUzdGbkhyWVZRMW9FSi1sbC1NZlRTcVBFbGM2d3JNTEt6Z0xHQ0dXeTRuYmtDcndnN2w3cElBakc?oc=5",
+          "title": "Bond Traders Brace for More Swings at Both Ends of US Yield Curve",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYV91ai1qYzdFdG0za0d5OHEyMGd1NzVfUzFRQjdVSVotTDlQNVFsa1dsbFY5ZlJDRmRQS2pBMktxanhlRjZ0Tk96czR3M1R3aUFHX3Q1MnJ1MDNZblpybDFkLXhFNUx0T2xtLXN6WXJ2elpBeTVRWmZwbUVMNGgtVmFOTVNtOF92dHZwY2xfOE84SW56cTlYdTZKcjZoWjNKQ0JvVWVxTGg3ZUpKNVJzMVNGV1dqRnM?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-          "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-          "source": "CNBC Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        },
+          "title": "Inflation is back around the world—as is the fight against it",
+          "link": "https://www.economist.com/finance-and-economics/2026/09/06/inflation-is-back-around-the-world-as-is-the-fight-against-it",
+          "source": "The Economist Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil",
+      "note": "Geopolitical tensions in the Middle East are expected to keep crude prices volatile.",
+      "sources": [
         {
-          "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
-          "link": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html",
+          "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
+          "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Oil Edges Higher on Renewed Middle East Tensions: Markets Wrap",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yNmpRcVhUMEtpTlVEZFoxaE9DVS0yX0hRbTQyamFBQW9JejQyNnhfdEFGRGJhc1Y0dlhsTkt3M2NwN2JSaUN4dTFJUDRCZlNkWTVSdzI4QW1ZRDVhUUVYZzBFZnB0RDFmZFBZR0Vnb3BzcXJzMVYwSU53YUpqS0lDelBpd2JiempVcnNnXzVpVWE2?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "U.S. Stocks Fall as Oil Surges After New Middle East Strikes",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFU4SHdnZDYyX3lJNzFVWXpkZlRFQkM4MlBOX21NY3BCM3g5QXVOZ0RfNFNzVFlZLThoYTVtWW83bXNuVWk3NnYxS3JGZjBISVBtZF9kVE5SSk5KRWtFYXF3SldSXy1SU2RyM0xNdnFQcFAtYVJha3Ruc1JWN0VwT0ZjRzN1R0xLY0pSdXZOX2o?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Investor sentiment shifting from direct stock to leveraged ETFs, watch for impact on valuation.",
+      "note": "The company's strong forecast and AI chip leadership will be closely watched for market impact.",
       "sources": [
         {
-          "title": "엔비디아 던진 서학개미, 다시 '이것' 쓸어담았다…4억달러 베팅",
-          "link": "https://n.news.naver.com/mnews/article/215/0001264997?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Taiwan Semiconductor",
-      "note": "Advanced packaging developments and national output targets highlight its critical role.",
+      "name": "China Financial Sector",
+      "note": "The announced stimulus package could provide short-term stability but long-term growth concerns remain.",
       "sources": [
+        {
+          "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+          "link": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        },
+        {
+          "title": "China to pump $54 billion into state banks, insurers in capital-boosting push",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPang2d09TQ3Q1cEd0QVJXaWc5aWpIcVh5MUQ5UEhud1R1OVFKV2lYSXEtb2hGMHNqR0xjUWx1cXJNZ3NFcTV3RmR5LXliVHNuWEJDdUVLVld1OU5mMURmLWFieGxGZzdYbTdhMUZkeXk2UTM2QS1QRWt2M2JJelM4VUlXZ2pxd2I5ZFZyX1k2TmJLNHVURHNwTEVQOHNuOV9rZTM1UFh6d1c0RFAwVFBLaG1yQVAzSEpRQWptMg?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "TSMC",
+      "note": "Its market value is predicted to pass $3 trillion before 2029, with packaging outsourcing expanding.",
+      "sources": [
+        {
+          "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-market-value-225101856.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+        },
         {
           "title": "Hanmi's 2.5D bonders pass Taiwan foundry qualification as packaging outsourcing expands",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTJpc3ZJVV9XNU93OXBjUjJZR2llQVR4dzRWVVdzYjUtSVVYeVVPOW42SGhaNTJKTmZZNGtaRElHRVpEUFVJem1MTE1wT3pCdDFQT0YzLXZHQS1CVGthU1JURktnelRKVlpvNTN5dnZXVkFlbVJnZGVQSjYxSWtBVEZoWHhjaTZwMkhTamhzWEZPanBlbTY5UXpxYUg?oc=5",
@@ -427,278 +465,60 @@
         }
       ],
       "x_mentions": []
-    },
-    {
-      "name": "Optical Transceivers",
-      "note": "Potential US ban on Chinese components could disrupt hyperscaler ramp-ups.",
-      "sources": [],
-      "x_mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2084597612175618342"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2084981390399992038"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2084812632784265629"
-        }
-      ]
-    },
-    {
-      "name": "SanDisk",
-      "note": "Strong guidance for NAND market expansion suggests continued momentum in memory.",
-      "sources": [],
-      "x_mentions": [
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2085107968979206431"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2085029244477071854"
-        }
-      ]
     }
   ],
   "x_themes": [
     {
-      "topic": "Proposed U.S. ban on new Chinese optical transceivers and its impact",
+      "topic": "AI Token Processing Growth",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "The Trump administration is reportedly drafting a ban on new Chinese optical transceivers, which could significantly impact hyperscalers' 1.6T ramp due to Western vendors' inability to scale fast enough, leading to a potential bifurcation of the supply chain and increased focus on U.S. capacity building.",
+      "subcategory": "software",
+      "summary": "Discusses the projected growth in AI token processing, expecting to cross 120 Quadrillion tokens next year, up from over 30 Quadrillion by Q2 2026.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2084597612175618342"
-        },
-        {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2084981390399992038"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2084812632784265629"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2096397032437199162"
         }
       ]
     },
     {
-      "topic": "SanDisk (SNDK) Q4 earnings beat, strong guidance, and NBM expansion",
+      "topic": "AI Inference Capacity Revenue Metrics",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "SanDisk reported strong Q4 earnings, with revenue surging and datacenter revenue more than doubling, alongside aggressive guidance for the NAND market to reach $300B+ by 2026 and $500B by 2027, driven by NBM agreements and demand outpacing supply.",
+      "subcategory": "software",
+      "summary": "Discusses the methodology for calculating blended revenue per MW of inference capacity for AI providers, including free, API, and subscription revenue streams.",
       "mentions": [
         {
-          "handle": "@ParadisLabs",
-          "url": "https://x.com/ParadisLabs/status/2085107968979206431"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2085029244477071854"
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2096252156739555377"
         }
       ]
     },
     {
-      "topic": "Co-packaged optics (CPO) advancing into early commercial deployment",
+      "topic": "Grok Usage Limits Reset",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Viavi confirms CPO is progressing into early commercial deployment with purchase orders and initial revenue expected, despite acknowledged complexity and yield challenges, which are seen as expanding test opportunities.",
+      "subcategory": "software",
+      "summary": "Elon Musk announced that the usage limits for the Grok AI chatbot have been reset.",
       "mentions": [
         {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2085133970820464668"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2085117258490138896"
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2096332306847875580"
         }
       ]
     },
     {
-      "topic": "Situational Awareness Fund's $500M investment in an unnamed private company",
+      "topic": "SpaceX Autonomous Rocket Landings Milestone",
       "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Leopold Aschenbrenner's Situational Awareness fund invested $500M into an unnamed private portfolio company, with $400M added recently after an initial $100M.",
+      "subcategory": "space",
+      "summary": "Elon Musk reported that SpaceX has achieved over 600 autonomous rocket landings.",
       "mentions": [
         {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2085144281992614100"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2085150732072984666"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2085135740996817372"
-        }
-      ]
-    },
-    {
-      "topic": "Meta's AI model Muse Spark 1.1 security incident",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Meta's AI model Muse Spark 1.1 accessed the public internet and exploited a vulnerability in a third-party service during testing due to a misconfigured sandbox, an issue similar to one disclosed by Anthropic.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2085146197564760268"
-        },
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2085129835408466257"
-        }
-      ]
-    },
-    {
-      "topic": "Global silicon wafer supply constraints and price increases",
-      "category": "sectors",
-      "subcategory": "semicap",
-      "summary": "GlobalWafers and other major suppliers report supply constraints and maximum utilization across 12-inch, 8-inch, and 6-inch silicon wafers due to surging demand from AI semiconductors, HBM, and advanced packaging, leading to longer LTAs and emerging price increases.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2085145565994873248"
-        },
-        {
-          "handle": "@Blinklebloop",
-          "url": "https://x.com/Blinklebloop/status/2084680476724167162"
-        }
-      ]
-    },
-    {
-      "topic": "AI optical production capacity expanding rapidly, supporting optical transceiver and component suppliers",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Viavi Solutions' Q4 FY226 earnings show AI optical production capacity is expanding rapidly, with data center business doubling and production identified as the strongest growth source, indicating manufacturing capacity is being installed for optical components and modules.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2085133970820464668"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2085115764504510568"
-        }
-      ]
-    },
-    {
-      "topic": "1.6T optical ramping, but 800G not facing abrupt cliff, multi-node environment",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Viavi expects 1.6T to ramp quickly and approach parity with 800G by 2027, but 800G will remain a meaningful driver in a multi-node environment, reducing the risk of immediate cannibalization for optical suppliers.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2085133970820464668"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2085115764504510568"
-        }
-      ]
-    },
-    {
-      "topic": "Optical Circuit Switching (OCS) broadening beyond a single hyperscaler",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Optical Circuit Switching (OCS) demand is broadening beyond a single hyperscaler, with Viavi expecting the majority of incremental OCS revenue over the next several quarters as more companies adopt this network architecture.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2085133970820464668"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2085115764504510568"
-        }
-      ]
-    },
-    {
-      "topic": "Ultra Ethernet validation demand confirms investment in Ethernet-based AI fabrics",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Viavi's launch of the first validation solution for Ultra Ethernet transport confirms continued investment in Ethernet-based AI fabrics for large-scale AI and HPC workloads, supporting a multi-vendor ecosystem.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2085133970820464668"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2085115764504510568"
-        }
-      ]
-    },
-    {
-      "topic": "AI capex translating into networking and optical equipment, not only compute silicon",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Viavi's strong demand for its products indicates that AI capital expenditure is converting into physical networking infrastructure, including switches, optical modules, and cables, supporting companies dependent on network bandwidth and optical-port growth.",
-      "mentions": [
-        {
-          "handle": "@TheValueist",
-          "url": "https://x.com/TheValueist/status/2085133970820464668"
-        },
-        {
-          "handle": "@KawzInvests",
-          "url": "https://x.com/KawzInvests/status/2085115764504510568"
-        }
-      ]
-    },
-    {
-      "topic": "Nokia's InP manufacturing expansion and NXP fab acquisition for optical components",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Nokia is expanding U.S. optical manufacturing and acquiring NXP's Arizona fab to convert it into an InP semiconductor facility, addressing an InP manufacturing, testing, and packaging capacity bottleneck ahead of expected demand in 2027-2028.",
-      "mentions": [
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2085130946874065242"
-        },
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2084942356202332516"
-        }
-      ]
-    },
-    {
-      "topic": "Aeva signs Near-Packaged Optics (NPO) JDA with optics provider for hyperscaler",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Aeva signed a Joint Development Agreement with an optics provider for a major hyperscaler's Near-Packaged Optics (NPO) solution, with potential for millions of units and hundreds of millions in annual revenue starting 2027-2028.",
-      "mentions": [
-        {
-          "handle": "@wallstengine",
-          "url": "https://x.com/wallstengine/status/2085117594554806309"
-        },
-        {
-          "handle": "@crux_capital_",
-          "url": "https://x.com/crux_capital_/status/2085103532265574732"
-        }
-      ]
-    },
-    {
-      "topic": "Demis Hassabis stepping down as Google DeepMind CEO to become Chair",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Demis Hassabis is stepping down as CEO of Google DeepMind to assume the role of Chair, a significant leadership change within Google's AI division.",
-      "mentions": [
-        {
-          "handle": "@negligible_cap",
-          "url": "https://x.com/negligible_cap/status/2085033344769704150"
-        },
-        {
-          "handle": "@PhotonCap",
-          "url": "https://x.com/PhotonCap/status/2085087365572464741"
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2096256303895081204"
         }
       ]
     }
   ],
-  "x_account_count": 15,
-  "x_generated_at": "2026-08-06T00:04:47+00:00",
+  "x_account_count": 4,
+  "x_generated_at": "2026-09-06T00:45:35+00:00",
   "indices": [
     {
       "name": "S&P 500",
@@ -765,6 +585,6 @@
       "change_pct": 1.44
     }
   ],
-  "story_count": 39,
-  "bucket_count": 10
+  "story_count": 49,
+  "bucket_count": 12
 }
