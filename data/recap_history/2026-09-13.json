@@ -1,36 +1,60 @@
 {
-  "generated_at": "2026-09-13T00:34:36+00:00",
+  "generated_at": "2026-09-13T23:51:47+00:00",
   "mode": "daily",
   "for_date": "2026-09-13",
-  "headline": "Inflation Persists, Pressuring Fed; Nvidia Eyes Anthropic Investment",
-  "summary": "Inflation continues to outpace wage growth, maintaining pressure on the Federal Reserve for potential rate adjustments. Nvidia is reportedly in discussions to invest in Anthropic's upcoming IPO, signaling continued AI sector activity. Geopolitical tensions are impacting energy markets, with Saudi oil exports facing threats.",
+  "headline": "Market Futures Slide on AI Slowdown Calls, Oil Jumps Ahead of Fed Meeting",
+  "summary": "US stock futures declined, with tech stocks tumbling amid calls for an AI development slowdown and rising oil prices. Investors are cautious ahead of the upcoming Federal Reserve meeting, where rate hike concerns loom. European indexes also edged lower as inflation worries persisted.",
   "sections": [
     {
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Inflation continues to outpace wage growth, pressuring consumer purchasing power.",
+          "lead": "Market sentiment is cautious ahead of the Federal Reserve meeting.",
           "segments": [
             {
-              "text": "Elevated inflation metrics are squeezing American paychecks, with wage growth failing to keep pace.",
+              "text": "Stock futures slid and oil prices rose as investors anticipated the Fed's rate decision, with a 5% Treasury yield raising new risks for markets and the economy.",
               "sources": [
                 {
-                  "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-                  "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "Stock Futures Slide, Oil Rises Ahead of Fed Rate Decision",
+                  "link": "https://www.barrons.com/articles/stock-futures-trading-sunday-5e07197d?siteid=yhoof2&yptr=yahoo",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "A 5% Treasury Yield Is Raising New Risks for Markets, Economy",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjgtREVUcTBVWlQwcTgtdEg1YnFCOFRqQkt3S0FXclJwZVdJSUZEaXBCbjkzVmM5UWdKX09GSDh5Q18zT0JjaWoycjJteV9XUHAtYnQ0R3lFYmZPWEVocmNWYjRpcXFmRFU4NmF1MU1oM3FCYnppWTJ2Ql9LSHc2MU40STdoazlKYTA2MXdrWkNSekUtbmd0YmtpR1JnaDVtWjZNLW5oZnhqWl91T1hn?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
             },
             {
-              "text": "This persistent inflation keeps pressure on the Federal Reserve to consider further rate hikes.",
+              "text": "Trump stated the US should have the world's lowest interest rate, potentially putting Fed's Warsh on a collision course with the former president as a rate hike looms.",
               "sources": [
                 {
-                  "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-                  "link": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhZzhtem1ITHl2LWpyR2M5QjJiSzBqM1Fsc1g3QkpLbGdTV2wtZUlKdVhoZGhqWjUzMzlla0diUFNDQkpXb3BYeWZtRGJidm5hbjRHZmZnTllvaFhyQ3pLbHlYNVM0SlctRXF0OXkydHZOcUZxNXRmRlhTY0R6RzQ3YVFIelpxajgxNEhCWkp6NUp1dkpKVXlNOVJQMjlLM200LTM2Y2tOdWFENHQ3Q2d3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "European indexes edged lower, driven by persistent inflation concerns.",
+              "sources": [
+                {
+                  "title": "European Indexes Edge Lower as Inflation Concerns Loom",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSllTTnRBc2RjRkR4ZWNpZllPNkxiQkZoamw1SDJiYThNdjVNd0x6Y0hhNm92NEdPb0JmeEJiZ3FTcEZRRkFYNkhZTWJRamRQRm5GeEpENVF0V3ZHZmFfYzFQT1p6TXhhMXc4NzRWeGsyT2NfMWYtOFBRRjhPYXZEcDhiSC1WS0RJb2RmN3lDSENMZ3Q5R0stNDdxTnd0bENkM3c?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -38,14 +62,165 @@
           ]
         },
         {
-          "lead": "Record diesel prices are driving up food and transportation costs.",
+          "lead": "Oil prices surged amid supply worries.",
           "segments": [
             {
-              "text": "Surging diesel prices are contributing to broader inflation, particularly impacting food and transportation sectors.",
+              "text": "Oil prices jumped more than $3 after new strikes on Saudi Arabia and the Strait of Hormuz, deepening energy crisis concerns and causing shares to slip in Asia.",
               "sources": [
                 {
-                  "title": "Record diesel prices stoke food inflation, transportation costs",
-                  "link": "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation",
+                  "title": "[오늘의 신문] 호르무즈 불안에 유가 다시 상승…중국 PHEV·청년고용·퇴...",
+                  "link": "http://kor.theasian.asia/archives/415477",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                },
+                {
+                  "title": "Shares slip in Asia as oil climbs, rate hikes loom",
+                  "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Oil Prices Jump on Energy Supply Worries",
+                  "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Oil Jumps as Shutdown of Saudi Pipeline Deepens Energy Crisis",
+                  "link": "https://finance.yahoo.com/energy/articles/oil-jumps-shutdown-saudi-pipeline-222833324.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "Trump announced the removal of tariffs on Irish whiskey.",
+          "segments": [
+            {
+              "text": "During a visit to Ireland, Trump pledged to rescind the 10% tariff on Irish whiskey following appeals, a move confirmed by multiple sources.",
+              "sources": [
+                {
+                  "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+                  "link": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Trump says he is removing U.S. tariffs on Irish whiskey",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYklDSUc1YlRDQTRiWXR1SV9lMzFqenBWQ2tSV3ozeDJlbGYzT0lTU09pWHVSUDZQSWZMRVpnal9KTHhuLUNuandYaDBuMUlvaU9pa0l5dmg3S3JXRmVxc3c3NWR6MXlGVkpmNnJrUE90bU5GcmU0SDM3NUV0RTEwWXZlZ2hVQ2RBUTFETkl1QlgzSHJKcWc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Trump scraps tariffs on Irish whiskey during visit to country",
+                  "link": "https://www.ft.com/content/aa4465ff-5261-4c3b-874f-ce1a607efa70?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Trump Pledges to Rescind 10% Tariff on Irish Whiskey",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTRnV1FUdXZlOFQ4eEg0d2xmU2V4RGgxaWhHdFl5azJ5ajd2RWNjZ0JFTGJnd2wyNUFwdEhFNmRYSEUtbGV1RGJ6TVRnMkU4bVpaajYxSWI2MHBFUi1CLVFJTk9Vbl9iSG5JZzFhZzhGVGxoWUlkV1ZERFJyUUJsMHFmVEs1X0RHaXFxSlB2d2ozWnVtblFaZVNn?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China's Ligent Technologies is seeking a significant Hong Kong IPO.",
+          "segments": [
+            {
+              "text": "Ligent Technologies aims to raise $723 million in its Hong Kong initial public offering.",
+              "sources": [
+                {
+                  "title": "China's Ligent Technologies seeks $723 million in Hong Kong IPO",
+                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUhTV2VqdE5wNk0wWjFkaUloYnF5dzROVl8xcGh2bHhtUGV3MEFZV2pWbWgwSjN1N2ozd1FQMDk4S29lR2VXX0g3MTVaTjV3SzVJd1NqLURpOEg1djZxeXJvLUVweXI2MlFXTGY2WERGOUh0alRWLW4taUZaUExsMDhyaDZRdm44OGV3bzNUckVyQ1pRa3JzbkdETHRJQzRKWTRqa1gybG1VT2t1dXQwMm5Kc0RqbGRI?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump's policy statements continue to influence market and political discourse.",
+          "segments": [
+            {
+              "text": "Trump's promise to lift tariffs on Irish whiskey was a key policy announcement during his visit.",
+              "sources": [
+                {
+                  "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+                  "link": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Trump says he is removing U.S. tariffs on Irish whiskey",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYklDSUc1YlRDQTRiWXR1SV9lMzFqenBWQ2tSV3ozeDJlbGYzT0lTU09pWHVSUDZQSWZMRVpnal9KTHhuLUNuandYaDBuMUlvaU9pa0l5dmg3S3JXRmVxc3c3NWR6MXlGVkpmNnJrUE90bU5GcmU0SDM3NUV0RTEwWXZlZ2hVQ2RBUTFETkl1QlgzSHJKcWc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Trump scraps tariffs on Irish whiskey during visit to country",
+                  "link": "https://www.ft.com/content/aa4465ff-5261-4c3b-874f-ce1a607efa70?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Trump Pledges to Rescind 10% Tariff on Irish Whiskey",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTRnV1FUdXZlOFQ4eEg0d2xmU2V4RGgxaWhHdFl5azJ5ajd2RWNjZ0JFTGJnd2wyNUFwdEhFNmRYSEUtbGV1RGJ6TVRnMkU4bVpaajYxSWI2MHBFUi1CLVFJTk9Vbl9iSG5JZzFhZzhGVGxoWUlkV1ZERFJyUUJsMHFmVEs1X0RHaXFxSlB2d2ozWnVtblFaZVNn?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Trump's call for the US to have the world's lowest interest rate ahead of the Fed meeting highlights potential policy clashes.",
+              "sources": [
+                {
+                  "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhZzhtem1ITHl2LWpyR2M5QjJiSzBqM1Fsc1g3QkpLbGdTV2wtZUlKdVhoZGhqWjUzMzlla0diUFNDQkpXb3BYeWZtRGJidm5hbjRHZmZnTllvaFhyQ3pLbHlYNVM0SlctRXF0OXkydHZOcUZxNXRmRlhTY0R6RzQ3YVFIelpxajgxNEhCWkp6NUp1dkpKVXlNOVJQMjlLM200LTM2Y2tOdWFENHQ3Q2d3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "House Speaker Johnson clarified that Trump's proposed $5,000 checks would require Congressional approval.",
+              "sources": [
+                {
+                  "title": "Trump's $5,000 checks require Congress to approve, Johnson says",
+                  "link": "https://www.axios.com/2026/09/13/trumps-5000-5k-checks-congress",
                   "source": "Axios",
                   "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
@@ -60,16 +235,108 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Nvidia is in talks to invest in Anthropic's upcoming IPO.",
+          "lead": "Calls for an AI slowdown are impacting tech stocks.",
           "segments": [
             {
-              "text": "Sources indicate Nvidia is discussing an investment in Anthropic's anticipated mega IPO.",
+              "text": "Techs tumbled as Anthropic led calls for an AI development slowdown, with Wall Street's AI trade now under scrutiny.",
               "sources": [
                 {
-                  "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
-                  "link": "https://www.investing.com/news/stock-market-news/exclusivenvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say-4898552",
+                  "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+                  "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "Wall Street’s AI trade on watch as Altman, Musk join calls for slowing development",
+                  "link": "https://www.investing.com/news/stock-market-news/wall-streets-ai-trade-on-watch-as-altman-musk-join-calls-for-slowing-development-4898752",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Anthropic’s Amodei Calls for AI Slowdown; Tesla Gains Ground; Retiring in a Low-Tax State | What’s News for Sept. 13",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmNLZWUyRjVuMUs4bUdfNEdPSHFBaE5PY21zXzJmalgwdnM0V1lGNGR2WF9aMVY0RThoVVJXTnhTM2JleGpBUDlkMDVLYnNDck9wMkdTOWJJdFBfbjRFdHRSZFA5YmhpWGc1djNBU1haRWM4ZmpoMXRZWUdwZHRNT2Npb0N5NHNzZG84?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Nvidia's growing dependence on a few large customers is a key factor in the AI chip market.",
+              "sources": [
+                {
+                  "title": "Nvidia’s Growing Dependence On a Few Big Customers",
+                  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVdYUUJMc0c4STZDYmI5T1RDSnZYenBJZF80anNKXzF0R2xSV01GeVBFeG5SUVBHXzNDNkhoOVFCa0l1UmpIcGd5TTZaZGxsVmtTWjNLTjUxMElEbDNXVUltM1F6eEdCUEszbVdoRnVoak56bE9DMGJfbjl4TW83NmphN1JNSEE?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Artery has secured a position in the Arm ecosystem, pushing high-end MCUs into robotics and physical AI applications.",
+              "sources": [
+                {
+                  "title": "Artery secures spot in Arm ecosystem, pushing high-end MCUs into robotics, physical AI",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTE90OHMtWEc0amNmQnhTcHBzZGNVejJxb0tiQjhSTG1ldHpCVFZpVGx4UUZkSXZnU2hnemRJb2Yxa0gxeTRWVzE1MzhaOER5dWJXRU9OWkRCaUhzMk9hMzZXRlpyTU1JeTlBMTNXcDRHMnEtMzd1NzFfaDlHcGNpRFJJV29WV1d6WkFLdmltTXI3ejJJ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "AI's impact on company outlooks is a major theme.",
+          "segments": [
+            {
+              "text": "DocuSign's 2026 outlook projects artificial intelligence as a key driver for future revenue growth.",
+              "sources": [
+                {
+                  "title": "DocuSign's 2026 Outlook: Artificial Intelligence Drives Future Revenue Growth",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/docusigns-2026-outlook-artificial-intelligence-215816259.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The debate around an AI slowdown is not necessarily a signal for the end of the semiconductor cycle, with focus remaining on revenue and cash flow.",
+              "sources": [
+                {
+                  "title": "\"AI 속도조절론, 반도체 사이클 종료 신호 아냐…매출과 현금흐름 봐야...",
+                  "link": "https://www.news2day.co.kr/article/20260914500030",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Major AI players are discussing safety standards.",
+          "segments": [
+            {
+              "text": "Anthropic, OpenAI, and Google have quietly discussed forming an AI safety standards body.",
+              "sources": [
+                {
+                  "title": "Anthropic, OpenAI, Google Quietly Discussed an AI Safety Standards Body",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUtGTGdnVXR2Z0d1QTJ0X0xET2tmTllHRmVYVVZ6Z01WcklGWU9YUWRIRU12QXZFMlJtQkg2ZTNEOUdaQ20wNXE2dE1rbE1mMzdkN0NMS05uUmk2Y3RtdS1ERUlsWVBwTUF5YXdKcWh2QXptbG85ZWE3Z1UteEFleEZYb1AwYkR2bjBNcHZR?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -77,125 +344,31 @@
           ]
         },
         {
-          "lead": "AI token processing is projected for significant growth next year.",
+          "lead": "Elon Musk provided an update on Grok AI.",
           "segments": [
             {
-              "text": "AI token processing is expected to exceed 120 Quadrillion tokens next year, a substantial increase from over 30 Quadrillion by Q2 2026.",
+              "text": "Elon Musk announced that the usage limits for the Grok AI chatbot have been reset.",
               "sources": [],
               "x_mentions": [
                 {
-                  "handle": "@zephyr_z9",
-                  "url": "https://x.com/zephyr_z9/status/2096397032437199162"
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2096332306847875580"
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Energy / Commodities",
-      "bullets": [
-        {
-          "lead": "Saudi oil exports face heightened threats after pipeline attacks.",
-          "segments": [
-            {
-              "text": "Saudi Arabia's crucial oil pipeline has been shut down following drone attacks, raising concerns for oil exports.",
-              "sources": [
-                {
-                  "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-                  "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-                  "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "bullets": [
-        {
-          "lead": "Key AI rivals are uniting behind a call for an AI development slowdown.",
-          "segments": [
-            {
-              "text": "Industry leaders including Altman and Musk are supporting Dario Amodei's proposal for a slowdown in AI development.",
-              "sources": [
-                {
-                  "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
-                  "link": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         },
         {
-          "lead": "Inflationary pressures are complicating the political landscape.",
+          "lead": "Palantir's cofounder expressed confidence in managing AI's threat.",
           "segments": [
             {
-              "text": "Persistent inflation is making it more challenging for political campaigns, particularly for midterm election pitches.",
+              "text": "Palantir's cofounder stated that they are \"on top of it\" regarding the threat of AI.",
               "sources": [
                 {
-                  "title": "Inflation Complicates Trump’s Midterms Pitch to Voters",
-                  "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Memory (DRAM/HBM/NAND)",
-      "bullets": [
-        {
-          "lead": "Currency fluctuations are impacting major Korean semiconductor firms' profit outlook.",
-          "segments": [
-            {
-              "text": "A 10% drop in the exchange rate over two months is projected to reduce the operating profit outlook for Samsung and SK Hynix by 21 trillion won.",
-              "sources": [
-                {
-                  "title": "환율 두 달 새 10% 뚝…삼성·하이닉스 영업익 전망 21兆 증발",
-                  "link": "https://n.news.naver.com/mnews/article/014/0005574786?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "bullets": [
-        {
-          "lead": "South Korea is accelerating plans for a massive semiconductor cluster.",
-          "segments": [
-            {
-              "text": "Yongin city is pushing for government support to expedite power and water infrastructure for its 1600 trillion won semiconductor cluster.",
-              "sources": [
-                {
-                  "title": "용인 반도체에 ‘1600조’.. 이상일 용인시장, “정부 전력·용수 속도”...",
-                  "link": "https://n.news.naver.com/mnews/article/382/0001293670?sid=102",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Really? Palantir cofounder on AI's threat: 'We’re on top of it’",
+                  "link": "https://www.businessinsider.com/palantir-cofounder-joe-lonsdale-ai-threat-risks-safety-2026-9",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -208,83 +381,143 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "Continued focus on inflation data and potential rate hike signals will drive market sentiment.",
+      "note": "Watch for signals on future rate decisions and inflation outlook given rising oil prices and Trump's comments.",
       "sources": [
         {
-          "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-          "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-          "source": "CNBC Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+          "title": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhZzhtem1ITHl2LWpyR2M5QjJiSzBqM1Fsc1g3QkpLbGdTV2wtZUlKdVhoZGhqWjUzMzlla0diUFNDQkpXb3BYeWZtRGJidm5hbjRHZmZnTllvaFhyQ3pLbHlYNVM0SlctRXF0OXkydHZOcUZxNXRmRlhTY0R6RzQ3YVFIelpxajgxNEhCWkp6NUp1dkpKVXlNOVJQMjlLM200LTM2Y2tOdWFENHQ3Q2d3?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
-          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-          "link": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
+          "title": "Stock Futures Slide, Oil Rises Ahead of Fed Rate Decision",
+          "link": "https://www.barrons.com/articles/stock-futures-trading-sunday-5e07197d?siteid=yhoof2&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+        },
+        {
+          "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTFWNE1wQVNQdkFJRm1zVXZ1bHgzSTlxVTM5OTVPVVF2ZW9Gb3FFSXlwWXdfVUF6U2RZYVpucVBHcGxfaGIySEt5YW5KczRCT1VXdW1YZVFMZDUxR3hPTW9LQ3VIM2pRci02ZzBtTGxHWE9JOVgxd3o5dklha0sydUlRMTc1RGdRcnRUXy1lS1VRUTRKOTlLUGIwQ1p1SUhLeDVRdGF6aVN2R0NQMVBoNlNtLUc1djg?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Shares slip in Asia as oil climbs, rate hikes loom",
+          "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil Futures",
+      "note": "Geopolitical tensions and strikes continue to drive price volatility, impacting broader market sentiment.",
+      "sources": [
+        {
+          "title": "[오늘의 신문] 호르무즈 불안에 유가 다시 상승…중국 PHEV·청년고용·퇴...",
+          "link": "http://kor.theasian.asia/archives/415477",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Shares slip in Asia as oil climbs, rate hikes loom",
+          "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Oil Prices Jump on Energy Supply Worries",
+          "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         },
         {
-          "title": "Record diesel prices stoke food inflation, transportation costs",
-          "link": "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+          "title": "Oil Jumps as Shutdown of Saudi Pipeline Deepens Energy Crisis",
+          "link": "https://finance.yahoo.com/energy/articles/oil-jumps-shutdown-saudi-pipeline-222833324.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+        },
+        {
+          "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Watch for developments on potential Anthropic investment and broader AI chip market dynamics.",
+      "note": "Its dependence on key customers and the broader AI slowdown discussion will be crucial for its stock performance.",
       "sources": [
         {
-          "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
-          "link": "https://www.investing.com/news/stock-market-news/exclusivenvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say-4898552",
+          "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+        },
+        {
+          "title": "Wall Street’s AI trade on watch as Altman, Musk join calls for slowing development",
+          "link": "https://www.investing.com/news/stock-market-news/wall-streets-ai-trade-on-watch-as-altman-musk-join-calls-for-slowing-development-4898752",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Nvidia’s Growing Dependence On a Few Big Customers",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVdYUUJMc0c4STZDYmI5T1RDSnZYenBJZF80anNKXzF0R2xSV01GeVBFeG5SUVBHXzNDNkhoOVFCa0l1UmpIcGd5TTZaZGxsVmtTWjNLTjUxMElEbDNXVUltM1F6eEdCUEszbVdoRnVoak56bE9DMGJfbjl4TW83NmphN1JNSEE?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Anthropic’s Amodei Calls for AI Slowdown; Tesla Gains Ground; Retiring in a Low-Tax State | What’s News for Sept. 13",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmNLZWUyRjVuMUs4bUdfNEdPSHFBaE5PY21zXzJmalgwdnM0V1lGNGR2WF9aMVY0RThoVVJXTnhTM2JleGpBUDlkMDVLYnNDck9wMkdTOWJJdFBfbjRFdHRSZFA5YmhpWGc1djNBU1haRWM4ZmpoMXRZWUdwZHRNT2Npb0N5NHNzZG84?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Anthropic",
-      "note": "Monitor for IPO progress and any further details on Nvidia's potential investment.",
+      "note": "The company's stance on AI slowdown and its role in safety discussions will be key.",
       "sources": [
         {
-          "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say",
-          "link": "https://www.investing.com/news/stock-market-news/exclusivenvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say-4898552",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Saudi Aramco",
-      "note": "Geopolitical tensions and pipeline security remain critical for global oil supply and prices.",
-      "sources": [
-        {
-          "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-          "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         },
         {
-          "title": "Saudi Arabia shuts down key oil pipeline, blaming drones from Iraq",
-          "link": "https://www.theguardian.com/world/2026/sep/12/saudi-arabia-shuts-down-oil-pipeline-blaming-drones-from-iraq",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+          "title": "Wall Street’s AI trade on watch as Altman, Musk join calls for slowing development",
+          "link": "https://www.investing.com/news/stock-market-news/wall-streets-ai-trade-on-watch-as-altman-musk-join-calls-for-slowing-development-4898752",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Anthropic, OpenAI, Google Quietly Discussed an AI Safety Standards Body",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUtGTGdnVXR2Z0d1QTJ0X0xET2tmTllHRmVYVVZ6Z01WcklGWU9YUWRIRU12QXZFMlJtQkg2ZTNEOUdaQ20wNXE2dE1rbE1mMzdkN0NMS05uUmk2Y3RtdS1ERUlsWVBwTUF5YXdKcWh2QXptbG85ZWE3Z1UteEFleEZYb1AwYkR2bjBNcHZR?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Anthropic’s Amodei Calls for AI Slowdown; Tesla Gains Ground; Retiring in a Low-Tax State | What’s News for Sept. 13",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmNLZWUyRjVuMUs4bUdfNEdPSHFBaE5PY21zXzJmalgwdnM0V1lGNGR2WF9aMVY0RThoVVJXTnhTM2JleGpBUDlkMDVLYnNDck9wMkdTOWJJdFBfbjRFdHRSZFA5YmhpWGc1djNBU1haRWM4ZmpoMXRZWUdwZHRNT2Npb0N5NHNzZG84?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Samsung Electronics / SK Hynix",
-      "note": "Currency movements will continue to influence earnings forecasts for major memory chip producers.",
+      "name": "DocuSign",
+      "note": "Its AI-driven revenue growth outlook provides a specific tech sector read.",
       "sources": [
         {
-          "title": "환율 두 달 새 10% 뚝…삼성·하이닉스 영업익 전망 21兆 증발",
-          "link": "https://n.news.naver.com/mnews/article/014/0005574786?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "DocuSign's 2026 Outlook: Artificial Intelligence Drives Future Revenue Growth",
+          "link": "https://finance.yahoo.com/technology/ai/articles/docusigns-2026-outlook-artificial-intelligence-215816259.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -408,6 +641,6 @@
       "change_pct": -1.6
     }
   ],
-  "story_count": 19,
-  "bucket_count": 10
+  "story_count": 49,
+  "bucket_count": 11
 }
