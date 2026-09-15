@@ -1,77 +1,60 @@
 {
-  "generated_at": "2026-09-15T00:12:02+00:00",
+  "generated_at": "2026-09-15T23:56:08+00:00",
   "mode": "daily",
   "for_date": "2026-09-15",
-  "headline": "US 10Y Yields Hit 5% Amid Macro Headwinds; AI Chip Sector Sees Mixed Signals",
-  "summary": "US 10-year Treasury yields surged to 5%, a multi-year high, contributing to a broad market decline alongside rising oil prices and concerns over AI growth moderation. Semiconductor stocks experienced volatility, though Nvidia rallied on strong guidance, while policy discussions around AI and tariffs continued.",
+  "headline": "US Yields Surge, Oil Spikes; AI Chip Demand High Amid Policy Scrutiny",
+  "summary": "US Treasury yields reached 2007 highs, with the 10-year breaching 5%, as oil prices spiked, leading to a broad market downturn. Nvidia's CEO commented on AI regulation, while high-capacity memory shortages intensified amidst robust AI chip demand. China's August retail sales missed forecasts, adding pressure on Beijing.",
   "sections": [
     {
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "US 10-year Treasury yields reached 5%, marking a multi-year high.",
+          "lead": "US Treasury yields surged, with the 10-year reaching levels not seen since 2007.",
           "segments": [
             {
-              "text": "This surge in yields, alongside rising oil prices, contributed to a broad market decline, with stocks falling on fears of a slowdown in AI companies and Federal Reserve actions.",
+              "text": "Wall Street closed lower as oil prices spiked and the benchmark 10-year Treasury yield breached 5%, reflecting increased market anxiety ahead of the FOMC.",
               "sources": [
                 {
-                  "title": "Stocks fall as oil and bond yields rise",
-                  "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "US 10-year yields reach 5%, highest since 2023",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEVEbDgzNEZ0Ri1EVEo0el9wd0lZZFh1TExjMU16amxsbzluZG5fVXFhemhldzhYSVVFd2ZvWlJXMElMQU8tM1FhMTBDbm5GS0tkcU44aGZFVDNoUmlpQ0owN0R5dXdsZ042UGZ3Y0Y2YzQyczRoajRhYjFDSFFvVW1qdWoyeDg3V25MdkowbDdxeWM?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
-                  "link": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "Government Bond Yields Finish Near Multiyear Highs Amid Rate-Rise Bets",
-                  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGgzNFo3QVQ1alVwN05qWXlKRnlYTHFJMnZEZ3VTVG9RTDRZajlpZ1hjZURJMmxWSXh0VVNwWFg5VkhabEtiZmI5STUwUkV0cmd6RjF4b2R6b25QNFc3UWNEeWpFb1JJRjM2S3N6dVpsbjJlOXFvVVVxb2w1dTQ4bXExUGI2VVNob09xdzBtbnA0ZC04dU1Gb19MWTlfcjdHVnlJR082ekpKX0x4OFdKU2l3Q2tLX3Q3c1NvLTJJRzJIelZNX3owYl9wbndPYW8?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Oil prices climbed to multi-month highs amid escalating Middle East tensions.",
-          "segments": [
-            {
-              "text": "The increase in crude oil prices further pressured bond markets and contributed to inflation concerns, impacting global equities including the KOSPI.",
-              "sources": [
-                {
-                  "title": "[코스피 시황] 유가·금리 부담에 외국인·기관 매도…삼성전자·하이닉...",
-                  "link": "https://www.topstarnews.net/news/articleView.html?idxno=16194049",
+                  "title": "FOMC 앞둔 미 국채 금리 상승, '꼬리 이자'가 자아내는 불안 심리 [마켓...",
+                  "link": "https://n.news.naver.com/mnews/article/215/0001266113?sid=101",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 },
                 {
-                  "title": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
-                  "link": "https://www.investing.com/news/stock-market-news/canada-10year-yield-rises-as-inflation-oil-prices-keep-bond-markets-on-edge-4900631",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "US 10-Year Treasury Yields Rise to Highest Level Since 2007",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSm5yVDVQc0NoRUdBX1hla0VNenhxaV9wazBFcGJEbmp0QnMyazNpT1NoRUVYbG9sOXZzSzhsU09BVEdfQVZtOVRDOVFkUVJycGJpMFpHMUk1Q05GNWxab3lTYTlYbDhRM3hfeHJ5UlROY0lBSzF2S2F2RTZzeWJneDNTdi1aTzBucFY4RlhzUUcyNE95cEsyS0JudE9OVGtSajFjUVFmQmMzTmxCakdN?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 },
                 {
-                  "title": "Oil Rises to Multimonth Highs on Middle East Escalation",
-                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXN4SjRoM0xmMlNtYmUwcWlRRlhqUnhEcEdGUl9FVzBqbVBIOVhCNi1wcWdEc2RZN2FPQi10WmkyX25jR0RlT0F3WUNvdVBXUHJjM2lIeVV2SldTanFHdlhwSm83VG50Wmx4WDZoeHYyWUZ5WkpVSmFvUmhESk9LZXlnSXRpQXdNRTZQYURIOG9tM1U4QkhBQmdqZ3FjdGJHTTd1dWltRlBCSmFJbzNZeERzUllZU3F2U2dV?oc=5",
+                  "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Treasury Rates Today: September 15, 2026",
+                  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                },
+                {
+                  "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The bond market's \"extreme\" short positions indicate expectations for the Federal Reserve to deliver another rate hike.",
+              "sources": [
                 {
-                  "title": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply",
-                  "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Bond Market’s ‘Extreme’ Short Counts on Fed to Deliver Rate Hike",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ2p5Z2FYOFFTNkdkMkc1TEdENi05UlZtdHV4d0Z6eXd3X2dOSE1UVFA4bjNfamQ3RWlfbjJRVXdqSGZuLUt0TUdiZHVMa1pZWHFVMm1zTGtYbEN4aWt4RnRSTXpaaHIzUGZqZkhldUxEWTVQT3dKYmFURzdPdFlnWlBMVjc3TmQ2TklOZkNrVTltNFZVQWR1T0ZBUi10OEdUZXpQSFNGMVF6V0FQMkRXWHdmZw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -79,16 +62,28 @@
           ]
         },
         {
-          "lead": "Memory makers are tightening supply, extending the DRAM price rally into 2027.",
+          "lead": "Gold futures edged higher despite rising U.S. yields and oil prices.",
           "segments": [
             {
-              "text": "This supply discipline suggests continued strong pricing power for memory manufacturers in the coming years, despite broader market volatility.",
+              "text": "Gold traded near $4,300, as higher oil prices stoked rate-hike bets, while the U.S. dollar's inverse relationship with gold continued to play out.",
               "sources": [
                 {
-                  "title": "Memory makers tighten supply as DRAM price rally extends into 2027",
-                  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXVNQ3VKQ2lIS1JuaFdzVnQzNTFGeER0bTIyc0hCbzM4clNVV2JGNlhfNDl2SkFsQTZ0WDJZWDVmWS1IZmhZLUIyU1h2akt6MGFPa1h0MHoxdWdIc1htOVVrZEk2eWVuSUdYTTNOWVpXNGNBelc5dkxhYXJkanA2bUpCbFR3ekRaNkFjXw?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Gold Futures Edge Up Despite Higher U.S. Yields",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWU8wU2xDUU9NVUEtQ0hQdzhSQTJQRmtNNWpJTllxcFFlVElWSFp3MWpXN0RmNnBvcl9IcWpBMXJtNEZSTlVmNUIxTmpoNG8yRTBzMDhBby14M0hJWXBaZElLMkp4YzR0a3h5Ukxsd0VEal94MGJ1bndRX055ZHUyenh3YjY2TlpkUlFjcS03Q0ZjZVRzaGNERGh3?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Gold and the U.S. dollar: Why they often move in opposite directions",
+                  "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-us-dollar-relationship-204112404.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                },
+                {
+                  "title": "Gold Trades Near $4,300 as Higher Oil Stokes Rate-Hike Bets",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTdDTXo4TnMyNl9WV1g0TjFOY21nQXhLSkExY1k2TlE1QnNpSXQzNEEyX3RzOGQ3cWwwN2NyZ2t1QnBodWZnbWZEdjk3dUVPZ3EtbmItZGFGYV83ZDBEdHppeEdVZEE2ajlkX0NZcV9kbEJkelVWRzNuYjhIaW5iSGp4SW45ekw3dDRDZ1ZxQ282blJSWU5jNkZEY3BocHNKZVdXSm96Ni1rM200MmFwSUxmZTk?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -101,22 +96,22 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Concerns over AI growth moderation led to a significant drop in semiconductor stocks.",
+          "lead": "Nvidia's CEO stated that the AI industry does not require new laws.",
           "segments": [
             {
-              "text": "The market reacted to \"AI speed control\" discussions, causing a sharp decline in the semiconductor sector.",
+              "text": "Jensen Huang dismissed growing safety concerns, asserting that the AI sector is sufficiently regulated by existing laws.",
               "sources": [
                 {
-                  "title": "[마켓무버] AI 속도조절론에 반도체 급락…유가·금리까지 증시 압박",
-                  "link": "https://n.news.naver.com/mnews/article/018/0006369466?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+                  "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 },
                 {
-                  "title": "U.S. Stocks Fall on Fears AI Companies, Fed Will Slam the Brakes",
-                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTgwc1ZDUmgtSE5MVld4WTdlWkFrWGhIbW5jRzFEY255a0U1VlhhRWF5MFhQdThhcUc1a3ZwUXc4RENjTVA2QzVYanFXdzlSNUQ2emRTc1h0ZEJWVmdxeWFuRi1VQS1ic3luaDZ4SkRHVTVXU0t1dGdUUXJ0S2FEOUZ4R1NZZGs5b1hhN2NPRU42NktFM3hMZEYzTWRsODBGMDd0RzhwUDl6TUppOWc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Nvidia’s Huang Says AI Industry Doesn’t Need Any New Laws",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSy1EZDJFX3BiWVdvWkZkOWVhcUl0TTduVWJoR3BveE9yUlZyeXhsU2lzdXk5bDFYT2NpYWpGZnVKUEZmSklraXRzY0l1UnJEN1l1ZDdjeDNZaG11WDFfaW1ldjBLSEhMLWhaX2JtZEUwclRPTzJFbDM4ckJ6RFdtNS1QUUZqa183ZGZzMzNldlpMWXB4bWdOa1lxX0thUDhBdWZGSHdNSllZcnNV?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -124,14 +119,76 @@
           ]
         },
         {
-          "lead": "Nvidia's guidance beat led to a rally in its stock.",
+          "lead": "AMD rallied while the Nasdaq experienced a downturn.",
           "segments": [
             {
-              "text": "This positive performance from a key AI chip leader provided a counterpoint to broader semiconductor concerns.",
+              "text": "AMD's stock surged, contrasting with a broader decline in the Nasdaq, indicating specific strength in the chipmaker's performance.",
               "sources": [
                 {
-                  "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk?oc=5",
+                  "title": "나스닥 주저앉을 때…AMD 솟구친 '이유'",
+                  "link": "https://www.wikitree.co.kr/articles/1159814",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Google is scaling its TPU systems, with power becoming a key bottleneck.",
+          "segments": [
+            {
+              "text": "The tech giant is expanding its TPU infrastructure to one million chips, highlighting the increasing demand for AI processing power and the associated energy challenges.",
+              "sources": [
+                {
+                  "title": "Research Insight: Google scales TPU systems to 1 million chips as power becomes the bottleneck",
+                  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTF3LU84TEQwRUxYaU4tOGNnRDlrNmk1NEEyNWVuTndrbXZUUmVjR05vLXZ2ME9MWHEza1NvdVF2RlBzNi1yb0JVRkRvWGhYTnE1cks2Z1JVcWlSZFZqck1fYUM4Nl9Zd0hydXJFbm9yVHd2TmRDMEVnbjRsRUdjdWRUdjFiZw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "China's August retail sales missed forecasts, and investment slump deepened.",
+          "segments": [
+            {
+              "text": "The weaker-than-expected economic data is piling pressure on Beijing to implement further stimulus measures.",
+              "sources": [
+                {
+                  "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+                  "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Toyota is undergoing a significant revamp in China, signaling broader industry shifts.",
+          "segments": [
+            {
+              "text": "This strategic overhaul by Toyota hints at a wider shake-up within the automotive industry in the Chinese market.",
+              "sources": [
+                {
+                  "title": "Toyota revamp hints of wider industry shake-up in China",
+                  "link": "https://www.investing.com/news/stock-market-news/analysistoyota-revamp-hints-of-wider-industry-shakeup-in-china-4901155",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Toyota revamp hints of wider industry shake-up in China",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdkdvRVVxeEhRbWR2YXpFNVNNMkJfeTNvZURNQmV5U0wySGlNYVNPdXN1ZDhFRTRydkRQWHBSYlVKaW5Fd0xHc2x5bG9BYUk3MFFZRDdBcmF3MGhtemh2RlREdi04SzBKdkxkZGl0MTdvX2RNbDd2dG8tejZqWWVYaXlCci13ZTdMZUNvQUpqd2NTaTl6RXBUX1phbmxIV1AtNTd4dWE1UkZhcHU4UUV3c09zNjAtZw?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
@@ -141,31 +198,14 @@
           ]
         },
         {
-          "lead": "Anthropic's data security concerns have prompted major tech and defense firms to restrict model use.",
+          "lead": "The AR glasses market is targeting 2 billion myopia users, with China's supply chain aiming to double shipments.",
           "segments": [
             {
-              "text": "Nvidia, Palantir, and Booz Allen are among the companies implementing restrictions on Anthropic's AI models due to data fears.",
+              "text": "The robust growth in AR glasses production in China reflects a strategic focus on addressing vision correction needs and expanding market reach.",
               "sources": [
                 {
-                  "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Vkb3BoV3lsNElhVzd2SEJCR0hjd3FXbWlmTnE0ZlBLZXk0QkliX0pMY1JFelNhMF8tNlZYUTI4bkNQeUh1M3RsU29UZWRZSkhVUC12RWpQczN0U1hMblBkSGlQNURDQVh5S0VhbEEtOHRKejJxckxKRndFbDlwTzkyWm1CSFZRQXpndGJPV2lVdTlOWUM3RFcxcmdGSFFCSmZBc3N2WkR6RzBLVEpmajFibw?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia and MediaTek are deepening their two-decade-long chip collaboration.",
-          "segments": [
-            {
-              "text": "This partnership highlights ongoing strategic alliances in the semiconductor industry to advance chip development and market reach.",
-              "sources": [
-                {
-                  "title": "Nvidia, MediaTek deepen 20-year chip ties",
-                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUG84QllFUjI2aWphMDE1dHhvQTEwQklrUzdKdzFTSWdybFVOU1RhYlJSMlRxaUlaSERvVi1MT01RSFlZUjEyREpGVm1rTlVYakxLUXNKYWJlQi1nSDVMRWtWNE0wVFQxN0YtWUNuVzdDdHRHX3AtYjZSaWFQSHRXMTB6ZWl3RHQ2SzkzUjZ3?oc=5",
+                  "title": "AR glasses target 2 billion myopia users as China supply chain eyes doubling shipments",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjN6cldURDllUnd4a0w3dkY5YTltd1hVUmk1T2dNUWx4OXZTYS1uNkdyMHJQN1VxS2pnV2FpY1Nyc1BOcnpYLXdXRmNBVjczUzNhdGJVUWNMUXZwcHl5cEFOcUEyS3FVOC1WN0tOVTVkWmFrTWFxRXQwcmRadUlhN3ZyM2wxT3kyNlRhLTk4X1ZrQTc4b2pybjA4bzk3ODZmb1pWXzZSXzc?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -180,194 +220,40 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Former President Trump met with OpenAI CEO Sam Altman at the GOP convention.",
+          "lead": "A landmark US crypto bill failed to advance in the Senate.",
           "segments": [
             {
-              "text": "This private meeting signals potential engagement between political leadership and key figures in the rapidly evolving AI sector.",
+              "text": "The bill's failure was attributed to Senate divisions over concerns regarding Trump's ethics, marking a significant setback for the crypto industry.",
               "sources": [
                 {
-                  "title": "Trump privately met with OpenAI’s Altman at GOP convention, MS Now reports",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlNUQzFIdXVXUVNkU3RoWDdoY3dmeERVZ2h4ZWU0RUp4ZlhMWExFekwyX2NNd2RRTS1ZU2NxWkV5Rm5KRk1UUjZJQXVNN1BmUFh4ajhNUU9maFlmZG9LaUNCZTQ4TkE2RG5VMEg5aFZZdnVILXNSR3hqS2hTeG1XSXg5TldkWDZfQmEwQmk0bjFWTlBHS3dKR0JqX0dWNDZFTVEtSFNsa1FfdTJhOTVpbGU3R1Q?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump proposed $5,000 payouts, asserting they are easily accommodated within the federal budget.",
-          "segments": [
-            {
-              "text": "He also announced $500 rebates for some Obamacare customers, weeks before the election, indicating a focus on consumer-facing policies.",
-              "sources": [
+                  "title": "Landmark US crypto bill fails as Senate splits over Trump ethics concerns",
+                  "link": "https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
                 {
-                  "title": "Trump Announces $500 Rebates for Some Obamacare Customers, Weeks Before the Election",
-                  "link": "https://www.nytimes.com/2026/09/10/business/trump-obamacare-rebates.html",
+                  "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+                  "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 },
                 {
-                  "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk?oc=5",
+                  "title": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3ljdUI5OWpZMmJxc2NzRjhKVnpuYXdVZWFRU3RlMTlhdXNOaXhfU3BXS093YndRd0pXaHdLV2JfRUJ6c05va2FwemdfODVsVEZoVU9rRTRTNVZtRU9lRnNQbWg5SnZybkkwUThrT1JHZjJXYzRBdWZuR0hrc0Myc1ZQM3V5bWZCdFg2UlA2WnNlcVRwMlpwcHR1U0FDTnhzb3JqQ1lLVmZpQWxaeEt5VWpnTGctWDdHMjBlRmluSFh2QQ?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Anthropic secured a $13.7 billion compute deal with the Trump-linked Rum Group.",
-          "segments": [
-            {
-              "text": "This substantial deal connects a leading AI developer with an entity tied to the former administration, raising questions about future policy implications.",
-              "sources": [
-                {
-                  "title": "Anthropic Strikes $13.7 Billion Compute Deal With Trump-Linked Rum Group",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEp0cTgyVU8xSVIzV1g3RnJSOUhlUFFtUkxlZEV0X2RRYVpFSEEyYkZnZ2l5bnFuTTRWY2VOUFV0dWZCSWFyaHF0cHZxWmZFYThETVotY0M5QWo3QU93bXZvSVlxLXYxNnBmaTNrLURMYm8tX3lXU2JiU2FBaHdtYUJkRlc1RFRMM29Ua21LWFhGR0ZYU0J2RVRkZHJuc29rdEZYaGh1RmNlZw?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "China is poised to dominate the global AR-HUD market, projecting 84% of production by 2031.",
-          "segments": [
-            {
-              "text": "This aggressive expansion in advanced cockpit display technology underscores China's strategic push in automotive electronics.",
-              "sources": [
-                {
-                  "title": "China reshapes cockpit display race, set to produce 84% of global AR-HUDs by 2031",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUFYNDRsWWZjOHozR1FoN05GbnNRVi1RQUp0aEpnWE5kYURkYjFtNlJjTGdLZlFSUUd4ZzRfVFVidkZtMzBsbDI4T01zeFNPbDFxdENMVFBJS2t6SUNpUFE0ZVE5ZHpRcDV0MXRUWmhxeUUyd3BLRFdGenBERHBQRzBONGNmSjBYZTFwZk9FVTI5UEduMGswdnRJcw?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "China's 8-inch SiC suppliers are shifting to pricing discipline after a 6-inch price war.",
-          "segments": [
-            {
-              "text": "This move suggests market maturation and a focus on profitability within China's silicon carbide industry.",
-              "sources": [
-                {
-                  "title": "Exclusive: China's 8-inch SiC suppliers turn to pricing discipline after 6-inch price war",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXZRdlIwSHF3QmFvVktSX08zdDVSelFzcUJUTkdpVC02UUloOUtqQ3dzTW5vWmJEUEhvb3RhNEE0aVZfejJaRWpmYlJNVDdkSGlQTVhqWlFIRUc3aW9Xdk5HVElwdnpjMlA5bXNyMEZEUjRKdjVIX2JIQWtzRjZEMmFoYkwyVV9GTGxVVUt1Q3Z0UEha?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Europe must develop its own AI capabilities to avoid dependence on the US or China.",
-          "segments": [
-            {
-              "text": "ECB's Lagarde emphasized the risk of being cut off from critical AI technologies if Europe fails to build indigenous solutions.",
-              "sources": [
-                {
-                  "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
-                  "link": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Software / Internet / Platforms",
-      "bullets": [
-        {
-          "lead": "Leading AI developers, including Anthropic, OpenAI, and Google, are quietly discussing AI safety standards.",
-          "segments": [
-            {
-              "text": "These discussions aim to establish common guidelines for AI development and deployment, reflecting growing industry awareness of ethical and safety concerns.",
-              "sources": [
-                {
-                  "title": "Inside Anthropic, OpenAI and Google’s Secret AI Standards Talks, Anthropic’s $13.7B Compute Deal — TITV [Video]",
-                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90SVZzRUx5cmo3TWR3LUFoSWJ0bWN1aXhCWXBUWEVQZW1vYWFQVGE1dnBoNXJVTDRVd1RBM294T19IRVE0MGIteG1kVURrSXdwMWZF?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Microsoft has joined calls for AI \"pacing\" and committed to building kill switches into its AI products.",
-          "segments": [
-            {
-              "text": "This stance highlights a proactive approach to managing AI risks and ensuring responsible development.",
-              "sources": [
-                {
-                  "title": "Microsoft Joins Calls for AI “Pacing,” Pledges to Build Kill Switches Into AI Products",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnowSGt1bmlIdmtUeTRsYk9VXzZGRHdqUmViTDdpZ0dQMHJKWEVyTzE5ckx4NGFpTGN4c2F2R0gyWHpqMlctd1ZtemZndnMzaXRjSGl2RlFVeWZHZ25ZMUxMSjg1RlNfTTR0bTZBd3U3bnZSSklQMlZSVHdlTFRQOU1BVVNMQ3JzOUNSNHVxRkluM0RpQ0QzZ3pCV0NUbXh3aDF1NkZJeTl4dDR2RTNsUlZR?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Elon Musk announced a reset of usage limits for the Grok AI chatbot.",
-          "segments": [
-            {
-              "text": "This adjustment indicates ongoing optimization and user management for xAI's conversational AI platform.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@elonmusk",
-                  "url": "https://x.com/elonmusk/status/2096332306847875580"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "bullets": [
-        {
-          "lead": "Global data center capital expenditure is projected to reach $31.6 trillion by 2050 due to surging AI demand.",
-          "segments": [
-            {
-              "text": "The accelerating build-out of AI data centers is also impacting municipal bonds, reflecting the massive scale of investment required.",
-              "sources": [
-                {
-                  "title": "Global data center capex could reach US$31.6 trillion by 2050 as AI demand surges",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUk84X1VJT1lSTnN5VnJFR0tmUEpWZ003bjFYLWJCZlROSFl6eGEyTTMtZ1JISzdXbHFXMlgwVjhwTFZBWlI1eS1NeVRjd3hVZHZQeFZmWUk2X1VWNzliM0VTVVdYRzFDVG01WXVxbDhOMjBVMFdtNEkwZVhwOVdoVEV5ZUYteWo5MUdvTDBLV0xrVGw1?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 },
                 {
-                  "title": "How The AI Data Center Boom Is Affecting Municipal Bonds",
-                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmZQdFVncjhla3FVOVdfNzFHdUdXb2ZxUkNvWnNoS01zMU0yckhHbE1FV3llQ1EySVNjYnNkOW1VTE0zNlV0a29BS0Myd2NhODZXVnQ1UkJWSjlCWUE0YzBfVGNES0xtTlliNXlUMFZjSkVRbnpJVzNWV2s1V2FDbm9iRy1XS29tc3FxdGdQZDB6UnBta0hRYWNpVHhwYThqRkhzNUFiSkVibDgzNnJONXdqN1FlNk9fcnFtNWs4bG5ydTA?oc=5",
+                  "title": "Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails",
+                  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdJdTRJaUhEUWRNQllra1pzeDlwN2RLMGNJYXJtS09NeDlNWkFySGQtaElHbUdYV0p6b0RkbzZwNkFZaUJYbzdjYnBLU2tkWmR2R3ZvbjBPYlJ0Yzdmb3VaSmZZOEdrVVRZdnFDZGxQRlVRWnlJRWlCN0hUZ2hIRTVscWxGVHNNNzAtNUZyaUdCX2M3RTMtck1NN05mR1h1MU9UeHlZeHZXUHZuT054QXQ4eVFVS29SbFB5NFd4ME02U3c2Q2g5YTBYSW9qSS01?oc=5",
                   "source": "Forbes Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                },
+                {
+                  "title": "US Senate Blocks Landmark Crypto Bill in Industry Loss",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVl90dWVob3JQRE9leUU1MGNxTHc0TkhFUjVXbjJyTzVWTS1KLUVraDJDbHhKQzdWNjJ1c3JFUlc2Smp3SHZGOFpyMzUtZHk4bXNGdkdxckFESVBHVGswM3lHYWFOMFdldnlGYWlSbHFYdWRuUzI2SzdrdzE5aVJoQUZSNlloUFRIRnMwelA2YkJHSFJFUUl5ZjZtWTRhOWtKaWdaemQ1MS0?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -375,16 +261,44 @@
           ]
         },
         {
-          "lead": "The AI data center sector is intensifying, becoming a critical battleground for AI advancement.",
+          "lead": "Scott Bessent defended his intervention in the faltering bond market.",
           "segments": [
             {
-              "text": "This push includes significant investments in network and system integration to establish AI strongholds.",
+              "text": "Bessent's actions in the bond market have drawn scrutiny, with some critics suggesting he should cease blaming market conditions.",
               "sources": [
                 {
-                  "title": "“네트워크·SI 넘어 AI 전초기지로”…AI 데이터센터 격전 ‘가속’",
-                  "link": "https://www.ceoscoredaily.com/page/view/2026091415474857014",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Bessent Defends Faltering Bond Market Intervention",
+                  "link": "https://www.nytimes.com/2026/09/15/business/economy/scott-bessent-congress.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Scott Bessent should stop blaming the bond market",
+                  "link": "https://www.economist.com/finance-and-economics/2026/09/15/scott-bessent-should-stop-blaming-the-bond-market",
+                  "source": "The Economist Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
+        {
+          "lead": "High-capacity memory shortages are worsening, leading to rising price pressures.",
+          "segments": [
+            {
+              "text": "Team Group revealed its edge AI strategy amidst these supply constraints, highlighting the critical role of memory in AI development.",
+              "sources": [
+                {
+                  "title": "High-capacity memory shortages worsen: Team Group reveals edge AI strategy amid rising price pressures",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORjVnMU5pNmx3MUFxeF9oRFpyX2hZZXFISklLWlVKZXFIV1JMc0VzRDJoVUMwQlc3OGgyMVAzajhCZzBzQXl4ZG9sbUJYMlRZUXhUWHJJNGN5VkQ3cWg4Y3FHbHVGTHA4ekxrbTlxUDVDMV9MZWVtdXR1andCRWw0UG00SHdSSl9qYWU3em5ya0QzT2JYMVhFS09SaGNaN2hCcFBGc01zQQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -392,17 +306,64 @@
           ]
         },
         {
-          "lead": "AI token processing is expected to cross 120 Quadrillion tokens next year.",
+          "lead": "Memory has consistently been a top growth driver in Taiwan's chip sector.",
           "segments": [
             {
-              "text": "This represents a substantial increase from over 30 Quadrillion by Q2 2026, indicating rapid growth in AI computational demands.",
-              "sources": [],
-              "x_mentions": [
+              "text": "For seven consecutive months, memory products have held six of the ten fastest-growing spots in Taiwan's semiconductor industry.",
+              "sources": [
                 {
-                  "handle": "@zephyr_z9",
-                  "url": "https://x.com/zephyr_z9/status/2096397032437199162"
+                  "title": "Charts: Memory has held six of the ten fastest-growing spots in Taiwan's chip sector for seven straight months",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEdqOXROOGVnTjE2VmJhbGdkNVBsbHQyNm5PS2hzRU9XZmFOQ3MzcnAtT1hYeFZ1eG1OXzN5bkRreWY0OXFyWXRMREdPV25VWWJxSmEyREhRdnRTNkN1cmIwQmtoV2M1SVRQZDU0Mk5OZVo4aDlhel92akFhV2RqOXoxUDItT25yNjdFNlR3?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
-              ]
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Oil futures rose as more oil routes faced obstruction.",
+          "segments": [
+            {
+              "text": "This increase in oil prices contributed to broader market concerns and impacted Wall Street performance.",
+              "sources": [
+                {
+                  "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "U.S. Natural Gas Futures settled moderately higher.",
+          "segments": [
+            {
+              "text": "The rise in natural gas prices adds to the upward pressure seen across the energy commodity complex.",
+              "sources": [
+                {
+                  "title": "U.S. Natural Gas Futures Settle Moderately Higher",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWl3TWh5bXpGbTFJUXBCZzQ5bm55N1VIOHNjbXBzUmIzTjc2dldUNzJNMm96NjNwVThxTkhkcGNuT3lxZjE5a21WX0pFajAxYy1ZbjdrU29SLTZlcW5pbmdwMGFNQ2U3bk1Pb3N2cFhVVXlBU0w0UkhlUVJudy1nc0IyM2tWMHVMSXNVYjR1UHRWVG8ycUFEU2Q5RGphRlVNb3pkbkRkMWFDYmg0SUtDci1wdGJDNGdpaWc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -412,119 +373,143 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "Watching for further signals on interest rate policy given rising yields and inflation concerns.",
+      "note": "The market is closely watching for signals on future rate hikes, especially after the surge in Treasury yields.",
       "sources": [
         {
-          "title": "Stocks fall as oil and bond yields rise",
-          "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+          "title": "FOMC 앞둔 미 국채 금리 상승, '꼬리 이자'가 자아내는 불안 심리 [마켓...",
+          "link": "https://n.news.naver.com/mnews/article/215/0001266113?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "US 10-year yields reach 5%, highest since 2023",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEVEbDgzNEZ0Ri1EVEo0el9wd0lZZFh1TExjMU16amxsbzluZG5fVXFhemhldzhYSVVFd2ZvWlJXMElMQU8tM1FhMTBDbm5GS0tkcU44aGZFVDNoUmlpQ0owN0R5dXdsZ042UGZ3Y0Y2YzQyczRoajRhYjFDSFFvVW1qdWoyeDg3V25MdkowbDdxeWM?oc=5",
+          "title": "Asian Stocks to Edge Higher as Traders Await Fed: Markets Wrap",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjA5RVNxMm9UNDRfQTFwTzhNTWNHdV9FTXBVRUhrTjE4c0luSHJ1ODRZcWt1NnFIUUd1RnlwNlVqejZ0SVdCaklNMEh0Zkx6OEo4amxiaGxPLVlvSnhIaGJhbVN5RnJDT213YmV1YS1vOHVTbGhSa2FIVzd6SjdGb0xCeUU0djdjRXNQanVGR1dFeUotMG9rUEZkM1NQZVBkdDhjbjNnWFYwMTE3cktyTGZR?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
-          "link": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        },
-        {
-          "title": "Government Bond Yields Finish Near Multiyear Highs Amid Rate-Rise Bets",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGgzNFo3QVQ1alVwN05qWXlKRnlYTHFJMnZEZ3VTVG9RTDRZajlpZ1hjZURJMmxWSXh0VVNwWFg5VkhabEtiZmI5STUwUkV0cmd6RjF4b2R6b25QNFc3UWNEeWpFb1JJRjM2S3N6dVpsbjJlOXFvVVVxb2w1dTQ4bXExUGI2VVNob09xdzBtbnA0ZC04dU1Gb19MWTlfcjdHVnlJR082ekpKX0x4OFdKU2l3Q2tLX3Q3c1NvLTJJRzJIelZNX3owYl9wbndPYW8?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "10Y Yield",
-      "note": "Monitor for continued upward pressure as inflation and rate-hike expectations grow.",
-      "sources": [
-        {
-          "title": "US 10-year yields reach 5%, highest since 2023",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSEVEbDgzNEZ0Ri1EVEo0el9wd0lZZFh1TExjMU16amxsbzluZG5fVXFhemhldzhYSVVFd2ZvWlJXMElMQU8tM1FhMTBDbm5GS0tkcU44aGZFVDNoUmlpQ0owN0R5dXdsZ042UGZ3Y0Y2YzQyczRoajRhYjFDSFFvVW1qdWoyeDg3V25MdkowbDdxeWM?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
-          "link": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        },
-        {
-          "title": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
-          "link": "https://www.investing.com/news/stock-market-news/canada-10year-yield-rises-as-inflation-oil-prices-keep-bond-markets-on-edge-4900631",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Government Bond Yields Finish Near Multiyear Highs Amid Rate-Rise Bets",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGgzNFo3QVQ1alVwN05qWXlKRnlYTHFJMnZEZ3VTVG9RTDRZajlpZ1hjZURJMmxWSXh0VVNwWFg5VkhabEtiZmI5STUwUkV0cmd6RjF4b2R6b25QNFc3UWNEeWpFb1JJRjM2S3N6dVpsbjJlOXFvVVVxb2w1dTQ4bXExUGI2VVNob09xdzBtbnA0ZC04dU1Gb19MWTlfcjdHVnlJR082ekpKX0x4OFdKU2l3Q2tLX3Q3c1NvLTJJRzJIelZNX3owYl9wbndPYW8?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
-          "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html",
-          "source": "Yahoo Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Observe stock performance following guidance beat and amid Anthropic data concerns.",
+      "note": "CEO Huang's comments on AI regulation and his attendance at a Trump-Xi dinner highlight the company's geopolitical and policy exposure.",
       "sources": [
         {
-          "title": "Trump calls $5,000 payouts 'easy' to fit into federal budget",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXRfMWRzLWtaTEtyejBKWURMbDZyVFI3Mm5Ud1BucVVDVkctM0pHQmtFWjVYUnVNeVAxWW95dlJ1eDAzU1pON0ZNNmg2SnczT0R3ZHRfOWhLYXp4NmFxR21CWEtaVGNLYkRmOW9ObHoyTVA4cndXREZNOHpOaDZqb1Rjazh3MGJEdlk4RlllV1FvUlBqZVRsR1cwaThQYVk?oc=5",
+          "title": "Nvidia CEO to attend Trump dinner for Xi, source says",
+          "link": "https://www.investing.com/news/stock-market-news/nvidia-ceo-to-attend-trump-dinner-for-xi-source-says-4902711",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+        },
+        {
+          "title": "Nvidia’s Huang Says AI Industry Doesn’t Need Any New Laws",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSy1EZDJFX3BiWVdvWkZkOWVhcUl0TTduVWJoR3BveE9yUlZyeXhsU2lzdXk5bDFYT2NpYWpGZnVKUEZmSklraXRzY0l1UnJEN1l1ZDdjeDNZaG11WDFfaW1ldjBLSEhMLWhaX2JtZEUwclRPTzJFbDM4ckJ6RFdtNS1QUUZqa183ZGZzMzNldlpMWXB4bWdOa1lxX0thUDhBdWZGSHdNSllZcnNV?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "10Y Treasury Yield",
+      "note": "Its breach of 5% and highest level since 2007 signals ongoing macro volatility and will be a key indicator for market sentiment.",
+      "sources": [
+        {
+          "title": "US 10-Year Treasury Yields Rise to Highest Level Since 2007",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSm5yVDVQc0NoRUdBX1hla0VNenhxaV9wazBFcGJEbmp0QnMyazNpT1NoRUVYbG9sOXZzSzhsU09BVEdfQVZtOVRDOVFkUVJycGJpMFpHMUk1Q05GNWxab3lTYTlYbDhRM3hfeHJ5UlROY0lBSzF2S2F2RTZzeWJneDNTdi1aTzBucFY4RlhzUUcyNE95cEsyS0JudE9OVGtSajFjUVFmQmMzTmxCakdN?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5%",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0Vkb3BoV3lsNElhVzd2SEJCR0hjd3FXbWlmTnE0ZlBLZXk0QkliX0pMY1JFelNhMF8tNlZYUTI4bkNQeUh1M3RsU29UZWRZSkhVUC12RWpQczN0U1hMblBkSGlQNURDQVh5S0VhbEEtOHRKejJxckxKRndFbDlwTzkyWm1CSFZRQXpndGJPV2lVdTlOWUM3RFcxcmdGSFFCSmZBc3N2WkR6RzBLVEpmajFibw?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+          "title": "Treasury Rates Today: September 15, 2026",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        },
+        {
+          "title": "U.S. Stocks Down as Oil, Yield Shock Continues",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Anthropic",
-      "note": "Focus on the implications of its $13.7B compute deal and ongoing data security concerns.",
+      "name": "Gold",
+      "note": "Despite higher yields, gold's resilience near $4,300 suggests its role as a safe haven is being tested by conflicting macro signals.",
       "sources": [
         {
-          "title": "Anthropic Strikes $13.7 Billion Compute Deal With Trump-Linked Rum Group",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOEp0cTgyVU8xSVIzV1g3RnJSOUhlUFFtUkxlZEV0X2RRYVpFSEEyYkZnZ2l5bnFuTTRWY2VOUFV0dWZCSWFyaHF0cHZxWmZFYThETVotY0M5QWo3QU93bXZvSVlxLXYxNnBmaTNrLURMYm8tX3lXU2JiU2FBaHdtYUJkRlc1RFRMM29Ua21LWFhGR0ZYU0J2RVRkZHJuc29rdEZYaGh1RmNlZw?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Oil Prices",
-      "note": "Track Middle East developments and their impact on global energy markets and inflation.",
-      "sources": [
-        {
-          "title": "Oil Rises to Multimonth Highs on Middle East Escalation",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXN4SjRoM0xmMlNtYmUwcWlRRlhqUnhEcEdGUl9FVzBqbVBIOVhCNi1wcWdEc2RZN2FPQi10WmkyX25jR0RlT0F3WUNvdVBXUHJjM2lIeVV2SldTanFHdlhwSm83VG50Wmx4WDZoeHYyWUZ5WkpVSmFvUmhESk9LZXlnSXRpQXdNRTZQYURIOG9tM1U4QkhBQmdqZ3FjdGJHTTd1dWltRlBCSmFJbzNZeERzUllZU3F2U2dV?oc=5",
+          "title": "Gold Futures Edge Up Despite Higher U.S. Yields",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWU8wU2xDUU9NVUEtQ0hQdzhSQTJQRmtNNWpJTllxcFFlVElWSFp3MWpXN0RmNnBvcl9IcWpBMXJtNEZSTlVmNUIxTmpoNG8yRTBzMDhBby14M0hJWXBaZElLMkp4YzR0a3h5Ukxsd0VEal94MGJ1bndRX055ZHUyenh3YjY2TlpkUlFjcS03Q0ZjZVRzaGNERGh3?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply",
-          "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html",
+          "title": "Gold Trades Near $4,300 as Higher Oil Stokes Rate-Hike Bets",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTdDTXo4TnMyNl9WV1g0TjFOY21nQXhLSkExY1k2TlE1QnNpSXQzNEEyX3RzOGQ3cWwwN2NyZ2t1QnBodWZnbWZEdjk3dUVPZ3EtbmItZGFGYV83ZDBEdHppeEdVZEE2ajlkX0NZcV9kbEJkelVWRzNuYjhIaW5iSGp4SW45ekw3dDRDZ1ZxQ282blJSWU5jNkZEY3BocHNKZVdXSm96Ni1rM200MmFwSUxmZTk?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Crypto Sector",
+      "note": "The failure of the US crypto bill in the Senate indicates continued regulatory uncertainty and potential headwinds for the industry.",
+      "sources": [
+        {
+          "title": "Landmark US crypto bill fails as Senate splits over Trump ethics concerns",
+          "link": "https://www.ft.com/content/8d0c90f0-b6f6-4b89-8839-d6c8c5c03c54?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Crypto Stocks Fall After Clarity Bill Fails to Advance",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeEYwdGk0bXBLaUdSd0dSb0lvRmNyUVo1ck5GbXViaFdmZHFKVUVydWc4NC1NNkRhb3RsMEpmaTZqRkRFVk5wa3hlVVRFV2dIMmxLYi1JQ2RBVGtXaTdoSE91SWVybnVoX1VxX3RnVWhYVjMyenZWZUZ0X3NIUWlWR0tqZTU2cWJINDRpZFV5bw?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+          "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3ljdUI5OWpZMmJxc2NzRjhKVnpuYXdVZWFRU3RlMTlhdXNOaXhfU3BXS093YndRd0pXaHdLV2JfRUJ6c05va2FwemdfODVsVEZoVU9rRTRTNVZtRU9lRnNQbWg5SnZybkkwUThrT1JHZjJXYzRBdWZuR0hrc0Myc1ZQM3V5bWZCdFg2UlA2WnNlcVRwMlpwcHR1U0FDTnhzb3JqQ1lLVmZpQWxaeEt5VWpnTGctWDdHMjBlRmluSFh2QQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Bitcoin, Ethereum And Other Major Cryptocurrencies Tumble As CLARITY Act Fails",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDdJdTRJaUhEUWRNQllra1pzeDlwN2RLMGNJYXJtS09NeDlNWkFySGQtaElHbUdYV0p6b0RkbzZwNkFZaUJYbzdjYnBLU2tkWmR2R3ZvbjBPYlJ0Yzdmb3VaSmZZOEdrVVRZdnFDZGxQRlVRWnlJRWlCN0hUZ2hIRTVscWxGVHNNNzAtNUZyaUdCX2M3RTMtck1NN05mR1h1MU9UeHlZeHZXUHZuT054QXQ4eVFVS29SbFB5NFd4ME02U3c2Q2g5YTBYSW9qSS01?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        },
+        {
+          "title": "US Senate Blocks Landmark Crypto Bill in Industry Loss",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVl90dWVob3JQRE9leUU1MGNxTHc0TkhFUjVXbjJyTzVWTS1KLUVraDJDbHhKQzdWNjJ1c3JFUlc2Smp3SHZGOFpyMzUtZHk4bXNGdkdxckFESVBHVGswM3lHYWFOMFdldnlGYWlSbHFYdWRuUzI2SzdrdzE5aVJoQUZSNlloUFRIRnMwelA2YkJHSFJFUUl5ZjZtWTRhOWtKaWdaemQ1MS0?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -587,67 +572,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7619.98,
-      "change": -37.0,
-      "change_pct": -0.48
+      "price": 7585.73,
+      "change": -34.25,
+      "change_pct": -0.45
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 26186.41,
-      "change": -146.62,
-      "change_pct": -0.56
+      "price": 25981.57,
+      "change": -204.84,
+      "change_pct": -0.78
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52421.2,
-      "change": -152.09,
-      "change_pct": -0.29
+      "price": 52093.11,
+      "change": -328.09,
+      "change_pct": -0.63
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2892.24,
-      "change": -11.71,
-      "change_pct": -0.4
+      "price": 2870.29,
+      "change": -21.95,
+      "change_pct": -0.76
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 63492.99,
-      "change": -513.43,
-      "change_pct": -0.8
+      "price": 63484.1,
+      "change": -149.47,
+      "change_pct": -0.23
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 24917.6,
-      "change": 111.97,
-      "change_pct": 0.45
+      "price": 24667.24,
+      "change": -250.36,
+      "change_pct": -1.0
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 6684.37,
-      "change": -225.54,
-      "change_pct": -3.26
+      "price": 6627.26,
+      "change": -57.11,
+      "change_pct": -0.85
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 45862.52,
-      "change": -389.46,
-      "change_pct": -0.84
+      "price": 45511.49,
+      "change": -369.46,
+      "change_pct": -0.81
     }
   ],
-  "story_count": 59,
+  "story_count": 68,
   "bucket_count": 12
 }
