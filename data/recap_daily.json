@@ -1,80 +1,53 @@
 {
-  "generated_at": "2026-09-17T00:03:16+00:00",
+  "generated_at": "2026-09-17T23:52:16+00:00",
   "mode": "daily",
   "for_date": "2026-09-17",
-  "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 58 headlines bucketed into 6 editorial themes. X chatter highlights AI Token Processing Growth.",
+  "headline": "US Stocks Rally on Easing Oil, Tech Gains; AI Chip Demand Remains Strong",
+  "summary": "US equities closed higher, with tech leading gains as oil prices eased and Treasury yields dipped, fueling hopes that inflation is contained. Bitcoin surged to $76,775, reflecting broader market optimism. AI chip demand remains robust, driving strategic moves in the semiconductor sector.",
   "sections": [
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "\"믿고 수십조 넣었는데\"…트럼프 변덕에 가시밭길 걷는 韓 제조업.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "\"믿고 수십조 넣었는데\"…트럼프 변덕에 가시밭길 걷는 韓 제조업",
-                  "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854005",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
-                  "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "House Passes Bill Allowing Trump Tariffs on Russian Oil Buyers.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "House Passes Bill Allowing Trump Tariffs on Russian Oil Buyers",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUY3Y2o1UW5sR1pnNktlX1BHSjVyU3pNTzZ1VVoxQ1JnWUg3c2pLTGF2VUtpbl96MWlDY2NSMEp3ZHNHbHZHbDdSMWVlYzI1N0lwaVpLV2oxLTJZaVNNVFZmVDBQRUFjVms4ZXpMZjdXaWZkX3h4dzJMRWpYMW9jbTlnM3lIOW5Ea0poUGphVGhZVVczUVRjRlBKSnlkWTk1Q1lRbW1FdGhpNldUdXlrbEdjbw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
     {
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "美 연준 3년2개월 만에 금리 인상...한은도 연내 추가 인상 '촉각'.",
+          "lead": "US stocks rose on hopes of contained inflation and easing oil prices.",
           "segments": [
             {
-              "text": "",
+              "text": "Investors returned to AI stocks, pulling the market out of its inflation-driven gloom as tech led Wall Street to a higher close.",
               "sources": [
                 {
-                  "title": "美 연준 3년2개월 만에 금리 인상...한은도 연내 추가 인상 '촉각'",
-                  "link": "https://www.youthdaily.co.kr/news/article.html?no=227204",
+                  "title": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeUM3ZTltRXIxOVEwYXZjVy1rbjlfVmtVVS1ZRlFiU0txS2ZCSVRHcENXd3Q3MEZ6TXhiZ3Z1MmpfdU9ST0FyRVo4SGhUcndvSXdQVUFIQ0g4ZFlvOFpYcTFFaUtwakJaeERxLWh3cDdqVlBjdENDcE1LYTl2VmUyUDgxdVNZUHRiejhIME1JVmZFTHpsXzlxQjlhQWZ3YkdZQXRtNjFwaVlFRFh3bjM5dURHZ3BaZw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Bitcoin surged to $76,775 amid broader market optimism.",
+          "segments": [
+            {
+              "text": "The cryptocurrency's rally coincided with a rebound in US stocks and semiconductor shares.",
+              "sources": [
+                {
+                  "title": "비트코인 7만6775달러, 미 증시·반도체 반등",
+                  "link": "https://www.tokenpost.kr/news/breaking/409982",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                },
+                {
+                  "title": "Bitcoin and ethereum prices today, Thursday, September 17, 2026: Crypto prices move up following Fed's rate increase",
+                  "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-17-2026-crypto-prices-move-up-following-feds-rate-increase-114024955.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,89 +55,22 @@
           ]
         },
         {
-          "lead": "[AI MY 증시전망] 美 금리 인상…\"코스피 변동성 확대 압력 직면\".",
+          "lead": "Traders supported Fed Chair Warsh's stance against inflation.",
           "segments": [
             {
-              "text": "",
+              "text": "Goldman Sachs' October hike call highlights ongoing risks of renewed Fed tightening.",
               "sources": [
                 {
-                  "title": "[AI MY 증시전망] 美 금리 인상…\"코스피 변동성 확대 압력 직면\"",
-                  "link": "https://www.newspim.com/news/view/20260917000057",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
-                  "link": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "bullets": [
-        {
-          "lead": "\"믿고 수십조 넣었는데\"…트럼프 변덕에 가시밭길 걷는 韓 제조업.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "\"믿고 수십조 넣었는데\"…트럼프 변덕에 가시밭길 걷는 韓 제조업",
-                  "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=854005",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
-                  "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "House Passes Bill Allowing Trump Tariffs on Russian Oil Buyers.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "House Passes Bill Allowing Trump Tariffs on Russian Oil Buyers",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUY3Y2o1UW5sR1pnNktlX1BHSjVyU3pNTzZ1VVoxQ1JnWUg3c2pLTGF2VUtpbl96MWlDY2NSMEp3ZHNHbHZHbDdSMWVlYzI1N0lwaVpLV2oxLTJZaVNNVFZmVDBQRUFjVms4ZXpMZjdXaWZkX3h4dzJMRWpYMW9jbTlnM3lIOW5Ea0poUGphVGhZVVczUVRjRlBKSnlkWTk1Q1lRbW1FdGhpNldUdXlrbEdjbw?oc=5",
+                  "title": "Traders Applaud Warsh’s Fight Against Inflation",
+                  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmhmZG5ReklMSlZXMG5lTnJ5TTBjQ2ZjX0ZYX3JYQ0xDenF2VC01NE9EQ1JpTFpVajhCejVhbXhrVktSc3N2b0wzTERPS01SRVJhZmlYMDN4SlhtOXdrNnBhOXpHSTNOeTF1WnVKb242aDNqaFo2dWE3T3RVbHJsVDNMd0FhX3Y0ZXdjX3g1VlQ3Zm1tVFl4djI2ODlKQ0k4eHBr?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Goldman's October hike call underscores renewed Fed tightening risks",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,31 +83,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "ARM CEO \"AI 데이터센터 칩 공급망 확보…AGI CPU 매출목표 달성 자신\".",
+          "lead": "Google explores Samsung for next-gen AI chip production.",
           "segments": [
             {
-              "text": "",
+              "text": "Google is reportedly considering Samsung for partial production of its 10th-generation TPU, 'Icefish,' due to tight capacity at TSMC for its 2027 chips.",
               "sources": [
                 {
-                  "title": "ARM CEO \"AI 데이터센터 칩 공급망 확보…AGI CPU 매출목표 달성 자신\"",
-                  "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435316",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "TSMC's C.C. Wei says to solve problems, put customers first.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "TSMC's C.C. Wei says to solve problems, put customers first",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGZ1R3ZNU0VhdzBxNUg5Rk1RbWYzdFFwODR1VUQxZmxjX2FLdlZKS2dMdXhTSEVRVWZFX0kzQUt1bDFhS1BnRnZJUWxGcUxhRDJmYjVrdzYySXdaQi15eHRtXzB1aGtRV1lfR2pNa0ZKYUR4RGFvb3ExQmNkblpSUWFrY0VJdmtHSWFWOHMtckhHeTZCcTFXdEt4NThVZw?oc=5",
+                  "title": "Google reportedly weighs CoWoS backup for 2027 TPU as EMIB-T substrate yields lag",
+                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlJxT2xHNlJZb3JkY3Y5TzYxQUVxbEdxWGU0MGJYUG1RYlBUU003c3oxNkZnMUJCclIzNm1LUFBOVDVraG14bFN1UjMwOUVpRkZKUGRTcVJLLVBfb1cxRmc5VHNrSktyZW9sM09mb1FtSGRKZGZObDlueU5OMmdwTEFnYWp4RjNLNVE?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -211,16 +100,33 @@
           ]
         },
         {
-          "lead": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech.",
+          "lead": "Huawei accelerates AI chip development to compete with Nvidia.",
           "segments": [
             {
-              "text": "",
+              "text": "Huawei is reportedly speeding up its AI chip launch schedule, aiming to intensify its challenge against Nvidia in the market.",
               "sources": [
                 {
-                  "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech",
-                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
+                  "title": "Huawei Speeds Up AI Chip Launch to Challenge Nvidia",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1RRdjlpYU5raFRFUXl3X2xNWEFOOHNseS1xUy1VYzNTM2tIT2pScTlueFFZTHdhV1FLUFVTOFNYMGs0Y3E0b2NQdWNpYlhVd0UySV9LR05nOUhWcWg5TkZYT3NOQWROZ2tTdkdpN2o5d2lJY05yM1kxN2VXQ0piZG4zR1BlTkFkZ3FKVkJsNA?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Physical AI drives demand for AI accelerators.",
+          "segments": [
+            {
+              "text": "The upgrade in autonomous driving is being driven by physical AI, increasing demand for AI accelerators due to three key efficiency factors.",
+              "sources": [
+                {
+                  "title": "Physical AI drives autonomous driving upgrade; three efficiency factors lift AI accelerator demand",
+                  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vNkU4aWFhLVEyeEllbjlMU1VOTVdSaEo1NXhXUWJPVmRvYVBBN0MyUnlaWHBMcDhLRE1mWlBPWnl2bFdlSExRbWduaVZQQm5uVzZtc3lTcmhZS2RLTVVuNnhBOHBucDRxTnZN?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,14 +139,31 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "ARM CEO \"AI 데이터센터 칩 공급망 확보…AGI CPU 매출목표 달성 자신\".",
+          "lead": "Nvidia shares rallied following a stronger-than-expected guidance beat.",
           "segments": [
             {
-              "text": "",
+              "text": "This performance underscores continued robust demand in the AI sector.",
               "sources": [
                 {
-                  "title": "ARM CEO \"AI 데이터센터 칩 공급망 확보…AGI CPU 매출목표 달성 자신\"",
-                  "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435316",
+                  "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike",
+                  "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Samsung Electro-Mechanics anticipates record third-quarter earnings driven by the AI component boom.",
+          "segments": [
+            {
+              "text": "Analysts project its target price could reach up to 3 million won.",
+              "sources": [
+                {
+                  "title": "삼성전기, AI 부품 호황에 3분기 최대 실적 전망…목표가 최대 300만원[애...",
+                  "link": "https://www.newsway.co.kr/news/view?ud=2026091808460206445",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -250,16 +173,157 @@
           ]
         },
         {
-          "lead": "AI題材發威！恩德7月轉盈 自結EPS為0.22元.",
+          "lead": "Nucor and Steel Dynamics stocks declined after issuing weaker-than-expected third-quarter guidance.",
           "segments": [
             {
-              "text": "",
+              "text": "Both steel producers faced investor concerns over their outlooks.",
               "sources": [
                 {
-                  "title": "AI題材發威！恩德7月轉盈 自結EPS為0.22元",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sWV9TMnpHVjFzeXFBbnBHUlJRdGkxcE9ObWtvbnVVcmVhMHZ1a193aVpXdkZ4SF82V1hhWEEyRUlaV1B1bGJibW1Jb2hoY1Zfd1RGWEFBRFhhdFpZVm1R?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "Nucor stock falls on weaker than expected third quarter guidance",
+                  "link": "https://www.investing.com/news/stock-market-news/nucor-stock-falls-on-weaker-than-expected-third-quarter-guidance-93CH-4906517",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "OpenAI and Anthropic's combined revenue significantly outpaces Chinese AI models.",
+          "segments": [
+            {
+              "text": "Research indicates they generate ten times more revenue than all Chinese AI models combined.",
+              "sources": [
+                {
+                  "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+                  "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "President Trump criticized the Federal Reserve's interest rate hike but notably spared Chairman Kevin Warsh.",
+          "segments": [
+            {
+              "text": "Despite Trump's public demands for lower rates, Warsh, his hand-picked Fed chair, defied him by raising rates.",
+              "sources": [
+                {
+                  "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike",
+                  "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+                  "link": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                },
+                {
+                  "title": "Trump demands lower interest rates after Fed decision",
+                  "link": "https://www.axios.com/2026/09/16/trump-fed-interest-rates-lower-call",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump ally Harold Hamm secured an oil deal with Venezuela.",
+          "segments": [
+            {
+              "text": "This development could impact US energy policy and international relations.",
+              "sources": [
+                {
+                  "title": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
+                  "link": "https://www.nytimes.com/2026/09/16/business/energy-environment/harold-hamm-trump-venezuela-oil.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Disney argued that Trump's threats against reporters should lead courts to block FCC action.",
+          "segments": [
+            {
+              "text": "This highlights ongoing tensions between the administration and media.",
+              "sources": [
+                {
+                  "title": "Trump threats against reporters should prompt court to block FCC action, Disney says",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-threats-against-reporters-should-prompt-court-to-block-fcc-action-disney-says-4906529",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "US reportedly delayed excess capacity tariffs until after the Xi summit.",
+          "segments": [
+            {
+              "text": "This move suggests a potential de-escalation in trade tensions.",
+              "sources": [
+                {
+                  "title": "US Said to Delay Excess Capacity Tariffs Until After Xi Summit",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFhuSWpjeFhHdU1FYXZpM2dWalBWQW1BcGtxd0RLcEtKVmE1bVhnYTZGdnB2U2prMWttbTlTYzJXRmdZWG56c1MzU3BLWTl3Q1hleFVxSTZFMnpXZ2lESWo0S3lwY296ejMtd2gzd0pDdE5pSnBWZFdUMHRqbVRCYTBYMG1rNXlybTc1YzRvWnotMTZIWlRhN1RlckR5QWFMd2FTcTFVU2hJdGdSQlVwdjJRTQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump administration approved a $24 billion sale of F-35 jets to Saudi Arabia.",
+          "segments": [
+            {
+              "text": "This significant defense deal impacts regional power dynamics.",
+              "sources": [
+                {
+                  "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia",
+                  "link": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China's strategic oil stockpiling positions it to dominate the energy landscape.",
+          "segments": [
+            {
+              "text": "This could have long-term geopolitical implications for global energy markets.",
+              "sources": [
+                {
+                  "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
+                  "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -272,14 +336,14 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds.",
+          "lead": "News outlets argue that quotes from OpenAI and Microsoft executives regarding AI training threaten copyright defense.",
           "segments": [
             {
-              "text": "",
+              "text": "This raises legal questions about data usage in AI development.",
               "sources": [
                 {
-                  "title": "Google should relax ad tech rules, appoint antitrust monitor, US judge finds",
-                  "link": "https://www.investing.com/news/stock-market-news/google-should-appoint-antitrust-compliance-officer-us-judge-says-in-ad-tech-case-4904639",
+                  "title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue",
+                  "link": "https://www.investing.com/news/stock-market-news/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue-4906516",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -289,16 +353,16 @@
           ]
         },
         {
-          "lead": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says.",
+          "lead": "OpenAI has expanded its leadership team, hiring a global sales chief from SpaceX and two senior salespeople from Snowflake.",
           "segments": [
             {
-              "text": "",
+              "text": "This strategic recruitment aims to bolster its sales capabilities.",
               "sources": [
                 {
-                  "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
-                  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Exclusive: OpenAI Hires Global Sales Chief From SpaceX and Two Senior Snowflake Salespeople",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGZMTVd5Rk9ocnBMdWNucjM4ZHpyc1V0bjJqZkZidjFxbVJmTS1LNTFFVE1iMkMxNl9zSnRPbHoyNi15djBnMkphWEpQREpNSXB6cEJ2XzYwZFhrc3pad0FBM094N01kSElMSVltZlRleGdDYlp1QkZZUE5sMnhhR0RDTjNiV05KTld4WHhVWk9kczZmRi1CNkx5eTBONmNIMlNzTUo1emN3WkJjbDZ3RFl3?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -306,16 +370,33 @@
           ]
         },
         {
-          "lead": "Banks Line Up $22 Billion Chip Loan Tied to Blackstone, Alphabet.",
+          "lead": "Microsoft executives reportedly expressed concerns about OpenAI's data utilization practices.",
           "segments": [
             {
-              "text": "",
+              "text": "The New York Times claimed these concerns were voiced internally.",
               "sources": [
                 {
-                  "title": "Banks Line Up $22 Billion Chip Loan Tied to Blackstone, Alphabet",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNckNNYjVzZTBjQ2hvTjIxb3NOODhVWVNvd0c1SkRqN1JZRUxld0pXYllEUjRCdHExTzlqVGZITm52X2FSekgzSDBTY215cC02eldyQzU5V25Md1RBRjhuV3JhbXRQcTJoU1dsaENOdUQzTXlSSUhzNHBpS0NWNGNteWlWenprS2FvYnNiWEFIUS1VbnBieEJkR0g4NFFBTVlDVlk1MjlST2tnVktUUUNfakV6VQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Microsoft Execs Voiced Concern About OpenAI’s Data Use, New York Times Claims",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS1hjRDlLSXliYUpXZXI4SkFxSmJ5MU9FNnMwak9OX3VENlUzWlRRbVhlWS14LW4xbUswb29JUUc2TUw4Ui1Zcm42Nl8zWUxkZDlQRmQtNUFWcEw2NERQUVl6U3pzMDFjX0ZfSFJUc0RJeWtOa2NTSkZiNzF3NW9fTHZOQ3pWOE1YUXlrdjlDa0YxdG8wdVJaRWRDWmxGLWlRT3FkMGdFUWE1WnpObURJ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Meta was ordered to remove UK deepfakes, with its oversight board criticizing \"inadequate\" safeguards.",
+          "segments": [
+            {
+              "text": "This highlights growing regulatory pressure on social media platforms regarding AI-generated content.",
+              "sources": [
+                {
+                  "title": "Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards",
+                  "link": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -327,25 +408,55 @@
   ],
   "watchlist": [
     {
-      "name": "TRUMP",
-      "note": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
+      "name": "Fed",
+      "note": "Watch for further commentary on inflation and rate trajectory, especially given President Trump's pressure.",
       "sources": [
         {
-          "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
-          "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
+          "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike",
+          "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Traders Applaud Warsh’s Fight Against Inflation",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmhmZG5ReklMSlZXMG5lTnJ5TTBjQ2ZjX0ZYX3JYQ0xDenF2VC01NE9EQ1JpTFpVajhCejVhbXhrVktSc3N2b0wzTERPS01SRVJhZmlYMDN4SlhtOXdrNnBhOXpHSTNOeTF1WnVKb242aDNqaFo2dWE3T3RVbHJsVDNMd0FhX3Y0ZXdjX3g1VlQ3Zm1tVFl4djI2ODlKQ0k4eHBr?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Goldman's October hike call underscores renewed Fed tightening risks",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+          "link": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+        },
+        {
+          "title": "Trump demands lower interest rates after Fed decision",
+          "link": "https://www.axios.com/2026/09/16/trump-fed-interest-rates-lower-call",
+          "source": "Axios",
+          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech",
+      "note": "Monitor sustained AI demand following strong guidance and competitive landscape shifts from rivals like Huawei.",
       "sources": [
         {
-          "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
+          "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike",
+          "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Huawei Speeds Up AI Chip Launch to Challenge Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1RRdjlpYU5raFRFUXl3X2xNWEFOOHNseS1xUy1VYzNTM2tIT2pScTlueFFZTHdhV1FLUFVTOFNYMGs0Y3E0b2NQdWNpYlhVd0UySV9LR05nOUhWcWg5TkZYT3NOQWROZ2tTdkdpN2o5d2lJY05yM1kxN2VXQ0piZG4zR1BlTkFkZ3FKVkJsNA?oc=5",
           "source": "The Information",
           "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
@@ -353,40 +464,70 @@
       "x_mentions": []
     },
     {
+      "name": "Samsung",
+      "note": "Observe developments in its advanced foundry business, particularly with Google's next-gen TPU considerations.",
+      "sources": [
+        {
+          "title": "Google reportedly weighs CoWoS backup for 2027 TPU as EMIB-T substrate yields lag",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlJxT2xHNlJZb3JkY3Y5TzYxQUVxbEdxWGU0MGJYUG1RYlBUU003c3oxNkZnMUJCclIzNm1LUFBOVDVraG14bFN1UjMwOUVpRkZKUGRTcVJLLVBfb1cxRmc5VHNrSktyZW9sM09mb1FtSGRKZGZObDlueU5OMmdwTEFnYWp4RjNLNVE?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil Markets",
+      "note": "Track geopolitical developments and their impact on crude prices, which eased today amid hopes of contained inflation.",
+      "sources": [
+        {
+          "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
+          "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "U.S. Stocks Up on Hopes Rising Inflation, Oil Prices Are Now Contained",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWZkWlhjbThxYW1Bb0tvcDZ3RnowS04yRzBXeWxsVFc3TzZOWlJ2NW9wZTJneWFTdUg3Tmp0SGVVb3gzWTYxTmpYbkQ5WDg4QmpXVkd2SnYxenh5VUx1V0NEVnFEQ1EwczVJUkE5QVZ4cFVrdEMtQkRpR3FtWEFHOWU5YmJxc3dybWhWeFFtYUh6NHR3?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Asian Stocks to Gain on Lower Oil, US Bonds Rally: Markets Wrap",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkhCUmZUbEVkMjdzcDFsQ2h6UVpQeDN4dGJwcWZNYVlCUEdzX1hZd2dnZm5lS2JYZkdQdzRsZElhekhLdjlGcEVIbGxoYVhjVXlhU2FFbG1kUmttd2MtWXhFNDdIMUJMUm1ydTlwTldwVzVKRXlVNEhIcTFFN21HWktLdGhIeVAwRTR5anUzZXNzZjRr?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
       "name": "OpenAI",
-      "note": "OpenAI says CEO Altman will attend Trump's state dinner for Xi",
+      "note": "Focus on its strategic moves in sales and data usage amidst competition and copyright concerns.",
       "sources": [
         {
-          "title": "OpenAI says CEO Altman will attend Trump's state dinner for Xi",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9RZkktWXJlcWZxSUJjUU9vaWktSldOUk1qZnZXOWZ3V2Z3VHBPTFJ5RWJJalFlNmg1UkhkT1F6TTVJaS1fX3pseWZUR3hBTmJIamQ1bFlhNE5pRDlSTWtkQVV0SFZMOEx2YU9TVXpiU1BnR2NuNjJCXzRXQWpFbFZ3d3otZmx4c3FCaUw1YjZDOWpQMTM0TF9qaV9qY3pXdm54cGhVbTQ?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Alphabet",
-      "note": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
-      "sources": [
+          "title": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+          "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        },
         {
-          "title": "Banks provide $22 billion chip loan to Blackstone, Alphabet AI cloud venture, source says",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVBYUDM0azJaTVZjVHAzbUtkOVBWLWpZYnptZFZ4S0x0dHpkS1lXVFM2SnJtX0F0Ull5OXdJUkdiNXdUZTNQamM0S3NoeFRxdTdFVmFWWi00cVJ6YXQxTDFTQlBmc0FsS3l5SHJ5VnZpOVplcllLVk04dy1YS2cwUDdMWEY5RzZWN3JTU2luOXJ4NUt3NzkyREJSUVlMSFJBcFpMcHprUjVsM2J3WGg1NUI5NjZrZDBHUGZiNnJGZUtvZThlTk9jWmRSaVZpUQ?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Amazon",
-      "note": "Amazon raises starting pay to $20 an hour and adds Whole Foods discount",
-      "sources": [
+          "title": "OpenAI, Microsoft executives’ quotes on AI training threaten copyright defense, news outlets argue",
+          "link": "https://www.investing.com/news/stock-market-news/openai-microsoft-executives-quotes-on-ai-training-threaten-copyright-defense-news-outlets-argue-4906516",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
         {
-          "title": "Amazon raises starting pay to $20 an hour and adds Whole Foods discount",
-          "link": "https://www.theguardian.com/technology/2026/sep/16/amazon-minimum-wage-whole-foods-benefit",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+          "title": "Exclusive: OpenAI Hires Global Sales Chief From SpaceX and Two Senior Snowflake Salespeople",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGZMTVd5Rk9ocnBMdWNucjM4ZHpyc1V0bjJqZkZidjFxbVJmTS1LNTFFVE1iMkMxNl9zSnRPbHoyNi15djBnMkphWEpQREpNSXB6cEJ2XzYwZFhrc3pad0FBM094N01kSElMSVltZlRleGdDYlp1QkZZUE5sMnhhR0RDTjNiV05KTld4WHhVWk9kczZmRi1CNkx5eTBONmNIMlNzTUo1emN3WkJjbDZ3RFl3?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -449,67 +590,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7551.81,
-      "change": -33.92,
-      "change_pct": -0.45
+      "price": 7637.76,
+      "change": 85.95,
+      "change_pct": 1.14
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 25978.42,
-      "change": -3.15,
-      "change_pct": -0.01
+      "price": 26418.3,
+      "change": 439.87,
+      "change_pct": 1.69
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 51461.9,
-      "change": -631.21,
-      "change_pct": -1.21
+      "price": 51778.04,
+      "change": 316.14,
+      "change_pct": 0.61
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2858.81,
-      "change": -11.47,
-      "change_pct": -0.4
+      "price": 2874.63,
+      "change": 15.82,
+      "change_pct": 0.55
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 63923.0,
-      "change": 311.16,
-      "change_pct": 0.49
+      "price": 64136.25,
+      "change": 279.01,
+      "change_pct": 0.44
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 24713.78,
-      "change": 46.54,
-      "change_pct": 0.19
+      "price": 24604.29,
+      "change": -109.49,
+      "change_pct": -0.44
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 6717.97,
-      "change": 90.71,
-      "change_pct": 1.37
+      "price": 6715.41,
+      "change": -2.56,
+      "change_pct": -0.04
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 45848.9,
-      "change": 321.9,
-      "change_pct": 0.71
+      "price": 46288.0,
+      "change": 479.15,
+      "change_pct": 1.05
     }
   ],
-  "story_count": 58,
-  "bucket_count": 12
+  "story_count": 55,
+  "bucket_count": 11
 }
