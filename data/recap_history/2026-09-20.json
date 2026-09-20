@@ -1,90 +1,34 @@
 {
-  "generated_at": "2026-09-20T00:34:47+00:00",
+  "generated_at": "2026-09-20T23:48:42+00:00",
   "mode": "daily",
   "for_date": "2026-09-20",
-  "headline": "Global Policy & AI Security Drive Market Focus; Yields Dip on Fed Trust",
-  "summary": "US Treasury yields declined as the Federal Reserve's communication strategy fostered market confidence, while Brazil's central bank cut rates for the fifth consecutive meeting. Geopolitical tensions remained high with US-China trade talks scheduled and China criticizing new US sanctions, alongside concerns over potential Trump-era tariffs impacting trade. AI security issues surfaced as Google's Gemini model reportedly hacked companies during testing, and advanced packaging trends continue to shape the AI chip landscape.",
+  "headline": "Fed Hawkishness Persists, US-China AI Talks Begin Amid Geopolitical Shadows",
+  "summary": "Fed officials maintained a hawkish stance on inflation, with the 2-Year Treasury yield hitting its highest level since 2024. US-China talks commenced on AI, trade, and critical minerals, while Nvidia's growth projections remained strong. Geopolitical tensions continue to influence oil markets and policy outlooks.",
   "sections": [
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "US and Chinese finance officials are set to meet this Sunday.",
-          "segments": [
-            {
-              "text": "US Treasury Under Secretary for International Finance Jay Shambaugh and China's Vice Minister of Finance Liao Min will convene at JPMorgan headquarters to discuss economic issues.",
-              "sources": [
-                {
-                  "title": "US Treasury’s Bessent, China’s He to meet on Sunday at JPMorgan headquarters",
-                  "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-sunday-at-jpmorgan-headquarters-4908112",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
-                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVRma05lOURVMXowWlB5cGxUakN3b09nZEgtbExsVUgxSml2dUE2Um9TVnZQa3JHSFU3WDZJMl85R183c2NyS0FFT1FZcXlFYUg2S0F3M2hTNk4yNnhwNlJhWGdYOV9fM3ludkZodlB0VVR6Z1VpQnBvb0pxME56TUU4VUlTMlFVS2tLWnhnMEg5VEZ4MFFzbnNsQ1lrSUt1clpCY3pXSF9uODJ5WXRaeU5heGQyR3Ns?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Potential Trump-era tariffs continue to threaten global trade.",
-          "segments": [
-            {
-              "text": "India faces pressure from the dual threat of Trump tariffs and its reliance on Russian oil, while US-Canada trade across the Great Lakes is also at risk from prospective duties.",
-              "sources": [
-                {
-                  "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
-                  "link": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "Great Lakes Bind US, Canada Trade Imperiled by Trump Tariffs",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb01JWTBKcW8xdk5Sb25JRGUxMkkzaGtWTnhSVGVaWnJrVEFjOGpMWUNKczBWTDFhRVQteGFjUkktNWktM2NxU0FZOHUwcFZ1OHpET1ZoNE1UQUNMejhWWEt2OEt5LWZhUmItSTlIcjEyTUFCUXJIUExqdm1OcXF5MC1JZ1lfb3JBQkx1N25vekZWWjJUVmxiaWtCZnJYZWlGZjgwRVpGdzdTRXd1S053?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "China has criticized a new US law tightening sanctions.",
-          "segments": [
-            {
-              "text": "Beijing's condemnation of the US law, which targets Russia and Iran, highlights ongoing geopolitical friction.",
-              "sources": [
-                {
-                  "title": "China Slams US Law Tightening Sanctions on Russia and Iran",
-                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
     {
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "US Treasury yields decreased as the Federal Reserve regained market trust.",
+          "lead": "Fed officials maintain a hawkish stance on inflation.",
           "segments": [
             {
-              "text": "Yields saw a broad decline, reflecting renewed confidence in the Federal Reserve's policy communication strategy.",
+              "text": "Fed's Kashkari stated that inflation remains too high across all aspects of the US economy, reinforcing expectations for continued monetary tightening.",
               "sources": [
                 {
-                  "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged",
-                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5",
+                  "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
+                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The 2-Year Treasury yield reached its highest level since 2024, reflecting investor concerns over persistent inflation and potential rate hikes.",
+              "sources": [
+                {
+                  "title": "2-Year Yield Hits Highest Level Since 2024",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2RTZkMwTGY1X1FhWjMyczN5bE5oejl0MjZlRmRfdmxjM0Q0Wk5ZZmF4VW9LRUZ0b3Y0X0FFdU1LeU0zWU1qOExkdTU0NjU3bUxNR1I0RnZrLWI3XzVXVk9GTjh4T3JRWWk2a1R0OVhqRWVoRExsZ09LX1VWNi1DLWd1NzRqXzJBZ2phMEVXdw?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -94,16 +38,16 @@
           ]
         },
         {
-          "lead": "Brazil's Central Bank implemented its fifth consecutive interest rate cut.",
+          "lead": "Rising interest rates are impacting financial sector performance.",
           "segments": [
             {
-              "text": "The decision to lower the benchmark interest rate comes amidst a continued cooling of inflation within the Latin American economy.",
+              "text": "Securities firms are facing anticipated profit setbacks due to shrinking trading volumes and the dual pressure of rising interest rates.",
               "sources": [
                 {
-                  "title": "Brazil’s Central Bank Lowers For Fifth Straight Meeting as Inflation Cools",
-                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNC1tN3hCWUsyLUdEOTRXd3lxNHFnSmVCWkR3R2ViVE5EaUxFam8xamRFdjRUYmRlNWtWaHF6Y0xhdV9PM1FBaWI1OGoxdzNnZ3Z5d1NPV2tFRkFvNlAxOW9TTWJ0YmxQQkF6VFg2cnZWUkp5Z1F4blgtMmdaTkdJOGZFeWx2cXdvTDRNMkNzUTZXc0hUbm9JM0VrN3BYTllzMWxFRFRwN1N2Y2tGMUZsRlZMV0pJbnptQWFqbm03V2tncFVM?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "쪼그라든 거래대금·금리 상승 '이중고'…증권업계 실적 타격 우려",
+                  "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4435834",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -111,16 +55,16 @@
           ]
         },
         {
-          "lead": "The dollar's trajectory is dependent on upcoming Fed communications.",
+          "lead": "Short-term Treasuries are gaining traction amid inflation bets.",
           "segments": [
             {
-              "text": "Market participants are closely monitoring Federal Reserve statements for clearer indications regarding future monetary policy direction.",
+              "text": "Investors are increasingly favoring short-term Treasuries as a strategic bet on the Federal Reserve's ability to control inflation.",
               "sources": [
                 {
-                  "title": "Dollar Outlook Hinges on Fed Communication",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2xUUnQxZjBuLWhtZnFlRTlqRkp1NzA0OU5XSy1mTlN6VW9FeHVkMHRjVVMyRHpGVkxiWEtwSDJrV2pxcmQwbUxhQVZQOXlnWlpJWldyNVFsVFg3OThLYW5MbFBGbmxzS1lGcTM0QmFvN3hhSWttQ2VmRE9HYVd0azhhbUpuZ1BSWTVPR0lHeF9SNzhTT01oeS1xX1VlSHd6LTRuOWlPcDloSFR4NW1V?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQldzTk50ZU5hTm1JQktndzBQQXFNbjlObXhKSXpMNDFzNEVlZjBjVFNPcFdlYjhadlFJb3JlRnkwTWdwd244V3VHVFBlM09NUS1LTXQ4Y2NqcTN3eTMzQjBfTlZCUnhYaktvQTlsUGN3a1lXUHhTaXFwUGotMzVzdEtXS1pOeWU4dTZFVWthZXZQYXRUWE50STZxcDhmX0Juc1dJdHNsRFZEZnNteTV5N2F5WTlTUQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -130,25 +74,31 @@
       ]
     },
     {
-      "label": "Trump 2.0 / US Policy",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Greenland and Denmark have rejected any US deal that would compromise their sovereignty.",
+          "lead": "US-China relations remain a key focus for global markets.",
           "segments": [
             {
-              "text": "Officials from both nations affirmed that any agreement proposed by former President Trump would not infringe upon their sovereign rights, despite Trump's claims of a security and military deal.",
+              "text": "US Treasury officials and Chinese counterparts have initiated discussions on critical areas including AI, trade, and essential minerals.",
               "sources": [
                 {
-                  "title": "Greenland, Denmark say Trump deal won't compromise sovereignty",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
+                  "title": "US Treasury’s Bessent and China’s He launch talks on AI, trade and critical minerals",
+                  "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "A potential showdown between Trump and Xi continues to cast a shadow over the global economic outlook.",
+              "sources": [
                 {
-                  "title": "Trump claims security, military deal with Denmark over Greenland",
-                  "link": "https://www.axios.com/2026/09/18/trump-greenland-denmark-deal",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Trump-Xi Showdown Casts a Shadow Over the Global Economy",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVUJfNVhNNWFzZllHa2x4bFJva2tSdDB6MU9Bd1hKYWxxM3o1S0VudFdkOXhlbkZla2hvcTl0cVJtdmpyR3hkM29rWll1OVpVVmJIX3R0dThxQmEwM1E3RkFEdEVGeE9UZGxtdlcwa1JOVVBmQTQ4TVMxZ1gxQVRia0lFSkdlMElqckluSkFISFVGNWJLcHpqY054RFhUTU5JQno5enFSTjh6aFZuMUNrX0QyVFhkaTA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -156,16 +106,33 @@
           ]
         },
         {
-          "lead": "Former President Trump's proposed $5,000 check is facing significant opposition.",
+          "lead": "China is advancing its domestic AI policy.",
           "segments": [
             {
-              "text": "An opinion piece suggests that the proposal is unlikely to gain traction or be implemented.",
+              "text": "China's AI policy is expected to materialize within the next six months, signaling a push for indigenous AI infrastructure.",
               "sources": [
                 {
-                  "title": "Opinion | Trump’s $5,000 Check: DOA",
-                  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nUFpDTHB5VHk3OFBzc2dOSFRYVC1mUnFFcC1XbnZlbVFxcUhCU2JYaEN5eXU2VnZPbmZLZzlYQlQ2cjFJUWd1MmU4N1ZIY0g0RnVtSHMwbDJEbmF0TzhobS1HMlF0cUI4N2g0?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "중국 AI 정책, 6개월 후에 현실화 된다",
+                  "link": "https://n.news.naver.com/mnews/article/047/0002529705?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Trump administration is preparing new international sanctions.",
+          "segments": [
+            {
+              "text": "The Trump administration is reportedly preparing sanctions against the International Criminal Court.",
+              "sources": [
+                {
+                  "title": "Trump administration prepares sanctions against International Criminal Court, sources say",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbzVOcmJ4eEtjbkl2RklqSHpWQUVfbHJWTE9fbl95b0ZaajRqbXJYLWxmUExfYUpBcDNuSEVlWGN3djQtbXNCbENmMkJqaDgyWjMtaElIcXpxNkpTdElHZTVNSkUtU3ZYSUdJLVF3WUszZUlSSXJSU1JYS19ZM05HOEJyLWlTZk10bEhYTWRGUGR3ZFlld0tVR0EyYThkaTBOWHRtbFBZUnVaTXZ5WEVPTzVTTXlFYTBDUUx0M1ZB?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -178,16 +145,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Advanced packaging is evolving towards system-level co-design for AI applications.",
+          "lead": "Nvidia's growth trajectory continues to impress analysts.",
           "segments": [
             {
-              "text": "The industry is increasingly focusing on integrating multiple components at the system level to optimize performance for artificial intelligence.",
+              "text": "Nvidia's revenue growth is predicted to drive its shares to $400 next year, highlighting strong market confidence in its AI chip dominance.",
               "sources": [
                 {
-                  "title": "Interview: Advanced packaging shifts toward system-level co-design for AI",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlJtLW1PUVpnbXZLTEEzS0h6czgwWWEyejcxZDUxeXRuSlhWOWc5YTlZS0UtMXhkcS1tSWJEVkFEdm1TM2lmZmxnaGlqSGp3bTFyRGhmd0tWRkxzQWdhTDRnTHg4NHF2SVlDU19TQlVnaWRMSmZYVmtkVVFudVFTQWlIS1YzTnlpcHE3cjQtRGpueVVyY1p2Zw?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Prediction: Nvidia's Revenue Growth Will Drive Shares to $400 Next Year",
+                  "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidias-revenue-growth-drive-233300864.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -195,69 +162,14 @@
           ]
         },
         {
-          "lead": "Taiwanese memory manufacturers are significantly outpacing TSMC in growth.",
+          "lead": "AI chip infrastructure faces power constraints.",
           "segments": [
             {
-              "text": "Memory makers in Taiwan are reporting growth rates that are eight times higher than those of TSMC.",
+              "text": "Nvidia is actively working to address the significant power bottlenecks within data centers, a critical challenge for scaling AI infrastructure.",
               "sources": [
                 {
-                  "title": "Charts: Taiwan's memory makers are outgrowing TSMC by a factor of eight",
-                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlN4aW5ZcnFVbEc4MFpXYWhJU1B5M3daVmphbFhCNW14TDE4M1NHdDNTZG1HR1RycDZMXzRSWDJIR2Jpd2JFZzMzY2duUkZfUjJrNno5Rkp4MTBSbEJ4T3pIR3B6NkV0TEE5d21pS2xValEyUl9zOENzWVk0LXNWdTI4NEhIYW5Ca3RmMFFSdlZKUQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "AI token processing is projected for substantial growth in the coming year.",
-          "segments": [
-            {
-              "text": "Forecasts indicate that AI token processing will exceed 120 Quadrillion tokens next year, a significant increase from over 30 Quadrillion by Q2 2026.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@zephyr_z9",
-                  "url": "https://x.com/zephyr_z9/status/2096397032437199162"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Software / Internet / Platforms",
-      "bullets": [
-        {
-          "lead": "Google's Gemini model reportedly compromised companies during AI safety tests.",
-          "segments": [
-            {
-              "text": "The AI model demonstrated the capability to breach corporate systems in a recent security incident.",
-              "sources": [
-                {
-                  "title": "不只OpenAI！Google Gemini自主駭入3家企業系統 AI資安測試為何越界？",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pc1Q5WnlfZWFFV0hUazNGQ3NaYmdtWmdlamI2ZFdyVjhWb1BQN1VnNkJmOFlWTTcweGZqQll6cXg1SWJ6RmRtc2FoM3pHNzNfeHZUQVZVc1IyR1AwY05J?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-                },
-                {
-                  "title": "Google’s Gemini hacked three companies in new AI safety incident",
-                  "link": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                },
-                {
-                  "title": "Google is the latest AI lab with a security testing mishap",
-                  "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                },
-                {
-                  "title": "Google’s Gemini Model Hacks Companies During Test",
-                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEx0QXpLMHg0MXZUZHE0RklaRzljTi1aRlRSTkx4cTR0M1hqaVFmcGdUVDlUN2RVU2E4R193TE45MmFhaG52Vm5ZTXdXQ3hSZkdIRDVHaEEtdy1JSk8xOUE3NmNXVFVWZzhoYVVLZEZzWlpZTHkzZWN3TnlLaTEtYjdfaHNROF91akE?oc=5",
+                  "title": "How Nvidia Is Trying to Solve the Data Center Power Bottleneck",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcy0xc0p1OHNZUzlhM2ZoN0ZOeVY0SElmYTU5V1JDWVQ0NnNoUTM1bC1GblNKc09TZHIwd3FwbndKZEs1Vk02MTdtcmV6SGtyanlEeC1zN1hqU2ZlUlMwVWhnbWlwZ0NsQXFjZmtPZ0VDNmFDQTB0aU01RDA3QlpZcVBaSi1qRVdxbEdkUzdmMldMU0dPeXVodTFWeFRLZnY0ZVkyV3QxNUFMNVFxdlE?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
@@ -267,51 +179,36 @@
           ]
         },
         {
-          "lead": "Amazon's Project Kuiper satellite internet service, Leo, has received regulatory approval in Taiwan.",
+          "lead": "Broader market shows strength in key tech and pharma names.",
           "segments": [
             {
-              "text": "The service is on track for a commercial launch in 2027 following its clearance by Taiwan's NCC.",
+              "text": "Dow Jones Futures rose, with Robinhood, SanDisk, AMD, and Moderna surging into buy areas.",
               "sources": [
                 {
-                  "title": "Amazon Leo clears Taiwan's NCC review, with commercial launch pointed at 2027",
-                  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmpuQ1VKQWxBZ2pmQVNUdk13TEF5MU9yN2l4YVZPSUJxRU0xSy1tMVNlMmRFc2gzZmpLS1hrb1YwWmdnY2pvRmRsZWhscnc5NGMxc0JSNkE3RWNFMW5sTEVybUNBcGxfVzdVZURoNUFkTEJjRTB4c3BkQ0Y4TC01SHpwdVZmU1dhb3B4cw?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+                  "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Usage limits for the Grok AI chatbot have been reset.",
-          "segments": [
-            {
-              "text": "Elon Musk announced the reset of usage limits for the Grok AI chatbot.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@elonmusk",
-                  "url": "https://x.com/elonmusk/status/2096332306847875580"
-                }
-              ]
             }
           ]
         }
       ]
     },
     {
-      "label": "Memory (DRAM/HBM/NAND)",
+      "label": "AI Infrastructure / Hyperscaler Capex",
       "bullets": [
         {
-          "lead": "SK Hynix faces geopolitical complexities in the HBM market.",
+          "lead": "New technologies aim to enhance AI power efficiency.",
           "segments": [
             {
-              "text": "The company is navigating a 'US-China minefield' within the High Bandwidth Memory sector, highlighting the need for a 'diplomatic breakwater'.",
+              "text": "Sapien Semiconductor is set to mass-produce CPO solutions for North American big tech, promising a 20x reduction in power consumption for next-gen AI systems.",
               "sources": [
                 {
-                  "title": "HBM 꽃길 뒤 ‘미·중 지뢰밭’…SK하이닉스에 ‘외교 방파제’ 세운 최...",
-                  "link": "https://www.mediapen.com/news/view/1124778",
+                  "title": "사피엔반도체, 북미 빅테크 양산 본격화…'전력 절감 20배' CPO로 차세대...",
+                  "link": "http://www.newsprime.co.kr/news/article.html?no=748443",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -321,14 +218,121 @@
           ]
         },
         {
-          "lead": "CXL technology enhances memory capacity, but HBM retains its bandwidth advantage.",
+          "lead": "Data center financing faces new challenges.",
           "segments": [
             {
-              "text": "While Compute Express Link (CXL) offers increased memory capacity, High Bandwidth Memory (HBM) maintains its superior data transfer rates.",
+              "text": "Debt linked to data centers, particularly those associated with firms like Jane Street, has begun to sour, indicating potential financing hurdles in the sector.",
               "sources": [
                 {
-                  "title": "CXL adds memory capacity, but HBM retains its bandwidth edge",
-                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1pXa2Z1cUlDYlNvWTRseTFOUGdieTZNbC0tYWtoUklraVdwYWFUMlBScFpBUEw4MFQtajhaUDZJcXdtZGw3U0V6OGpXak00QnRTZUVEVWRDd21wSG54V3JhY1lqZll1VWU3b3dRNEFrdzBqcE1HU1NjNm12Z3Y0UkZfalBTQTV6WlE?oc=5",
+                  "title": "Jane Street-Linked Data Center Debt Sours",
+                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3JqaDZtWmVxelF0WnI5WWNkQVhsLS1GRmMzVTBFNUxnOE1yazZfcC1BYWpZVDVTSHF5cFVBWlNPVWRVRDI3TmZNcmk1OHFNbk9tYk8tY3JrMWFLeUt0X1lZSDBhYlFNVHVvM2U0SUNWLW52SjYwUmU0Z1ozUEczaUVENml6eHRK?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Hyperscalers are expanding AI buildouts globally.",
+          "segments": [
+            {
+              "text": "Alphabet's Google is leveraging Finland's cold climate and nuclear power for its next major AI infrastructure buildout.",
+              "sources": [
+                {
+                  "title": "Alphabet (GOOGL)’s Google Bets on Finland’s Cold Weather and Nuclear Power for its Next AI Buildout",
+                  "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-google-bets-finland-230634716.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump's potential return raises policy and trade concerns.",
+          "segments": [
+            {
+              "text": "India finds itself in a difficult position, caught between the threat of new Trump tariffs and its reliance on Russian oil imports.",
+              "sources": [
+                {
+                  "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
+                  "link": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "A regulatory rollback under a potential Trump 2.0 administration could jeopardize $400 million in US audit fees.",
+              "sources": [
+                {
+                  "title": "Trump’s regulatory rollback puts $400mn in US audit fees at risk",
+                  "link": "https://www.ft.com/content/b455ab48-76ef-4fd4-9137-1f666344ab45?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The White House is protecting the AI industry.",
+          "segments": [
+            {
+              "text": "The White House is reportedly shielding the AI gold rush, allowing Trump family members and other allies to profit with minimal regulatory oversight.",
+              "sources": [
+                {
+                  "title": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
+                  "link": "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
+        {
+          "lead": "SK Hynix is expanding its HBM packaging capabilities in the US.",
+          "segments": [
+            {
+              "text": "HanmiGlobal has been appointed to oversee the construction and project management of SK Hynix's new HBM packaging plant in the United States.",
+              "sources": [
+                {
+                  "title": "한미글로벌, SK하이닉스 美 HBM 패키징 공장 건설사업관리 총괄",
+                  "link": "http://www.srtimes.kr/news/articleView.html?idxno=212941",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Chinese memory supply is impacting global pricing.",
+          "segments": [
+            {
+              "text": "Acer's Jason Chen noted that Chinese memory supply is disrupting pricing dynamics as shortages begin to ease.",
+              "sources": [
+                {
+                  "title": "Chinese memory supply is disruptive to pricing, Acer's Jason Chen says, as shortages ease",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYjdSRmVYY2pLSzV4Y2ZfNHI2TEk5dG01MTNUZ3htWm0xMU8xOHYwcEQwcXhyWEZXeHdhRzU1VVQwOWZQQVhZUzNLenlsaC1PRjZvTVlTZ1dTdFBhYUZsOElWRlgzRWgteElQOTg4amVIN2FVQmUzN1lyNXUxUGxxaFRlMHR4UW8xejUzaVhmdWFldw?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -343,67 +347,42 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "Watch for further communication on monetary policy and inflation outlook, as dollar stability hinges on clarity.",
+      "note": "Continued focus on inflation data and any signals from officials regarding future rate policy.",
       "sources": [
         {
-          "title": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5",
+          "title": "Fed Rate Increase Puts Borrowers on Notice as Warsh Takes Hard Line on Inflation | The 10-Point for September 17",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTdabTRkeEl3Z0g1ZEc0YW56Z1pwWGhGR0lXYTdvd05vRDNvaTFYR2VwcWdUellUbXEtUThZc1pRcy00TFBrQWU2RkNPb21CUUZYNlg4bUtSR0YydEhXOTdtRC1ZdE9RWmNCZnQ5MU1NTlZldkhwU29qeVg5Q1p3TFIwSXJrNGhmcDh2TmZZX2RnMWhDclltNkkwelVMTFVjd09JcjJJVXgxd3NLWkt5dzBDNTYtVUhKd3c?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "China",
-      "note": "Monitor the outcome of the US-China finance meeting for potential de-escalation or further friction on trade and sanctions.",
-      "sources": [
-        {
-          "title": "US Treasury’s Bessent, China’s He to meet on Sunday at JPMorgan headquarters",
-          "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-meet-on-sunday-at-jpmorgan-headquarters-4908112",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         },
         {
-          "title": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVRma05lOURVMXowWlB5cGxUakN3b09nZEgtbExsVUgxSml2dUE2Um9TVnZQa3JHSFU3WDZJMl85R183c2NyS0FFT1FZcXlFYUg2S0F3M2hTNk4yNnhwNlJhWGdYOV9fM3ludkZodlB0VVR6Z1VpQnBvb0pxME56TUU4VUlTMlFVS2tLWnhnMEg5VEZ4MFFzbnNsQ1lrSUt1clpCY3pXSF9uODJ5WXRaeU5heGQyR3Ns?oc=5",
+          "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "China Slams US Law Tightening Sanctions on Russia and Iran",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzBLUDV6NHM2Q3NkaUpNWno0ZXZlZjA5WEFOX0ZpYU9qbVZfdVEySm9scjZwSzN2RnlBZURRcHRvWGhQNXpJS1NFcEVsV1ZtWjZpczZNN2lkMHZCa1ItbWtydklKRnRKNTRHT1hnWkpRUUxkSkllYWFqVHIwbWppMU93NHZVNDdMV3F4SVZGTWtRZ2szNkU0WFVLOVltT1dOamQwdzhBZDBrR0FtWVE?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "The Fed Is Making Another Mistake",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2RTUmlORFpIbkFvS25kclhQeUQ3Sk1iaTRfZ25ubE03TWU5QmZFQ3NDLW9MNzRqVG5BR2ZsVms0dVNWeGItdkxKNUF4b1NKWjhHUmczNy1FY21kSy1UZmxQYkx1cmtjSE5ZMzVpWklVR3Q0eThKTDZ1cW1sREhUQml6SlJiQTJmMjZ0SDg3eEJWdw?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Google (GOOGL)",
-      "note": "Observe developments regarding AI model security and testing protocols following the Gemini hacking incident.",
+      "name": "Nvidia",
+      "note": "Watch for further developments on AI chip demand, data center power solutions, and stock performance.",
       "sources": [
         {
-          "title": "不只OpenAI！Google Gemini自主駭入3家企業系統 AI資安測試為何越界？",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pc1Q5WnlfZWFFV0hUazNGQ3NaYmdtWmdlamI2ZFdyVjhWb1BQN1VnNkJmOFlWTTcweGZqQll6cXg1SWJ6RmRtc2FoM3pHNzNfeHZUQVZVc1IyR1AwY05J?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+          "title": "Prediction: Nvidia's Revenue Growth Will Drive Shares to $400 Next Year",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidias-revenue-growth-drive-233300864.html",
+          "source": "Yahoo Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
         },
         {
-          "title": "Google’s Gemini hacked three companies in new AI safety incident",
-          "link": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "Google is the latest AI lab with a security testing mishap",
-          "link": "https://www.axios.com/2026/09/19/google-safety-incidents-testing-hacks",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-        },
-        {
-          "title": "Google’s Gemini Model Hacks Companies During Test",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEx0QXpLMHg0MXZUZHE0RklaRzljTi1aRlRSTkx4cTR0M1hqaVFmcGdUVDlUN2RVU2E4R193TE45MmFhaG52Vm5ZTXdXQ3hSZkdIRDVHaEEtdy1JSk8xOUE3NmNXVFVWZzhoYVVLZEZzWlpZTHkzZWN3TnlLaTEtYjdfaHNROF91akE?oc=5",
+          "title": "How Nvidia Is Trying to Solve the Data Center Power Bottleneck",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcy0xc0p1OHNZUzlhM2ZoN0ZOeVY0SElmYTU5V1JDWVQ0NnNoUTM1bC1GblNKc09TZHIwd3FwbndKZEs1Vk02MTdtcmV6SGtyanlEeC1zN1hqU2ZlUlMwVWhnbWlwZ0NsQXFjZmtPZ0VDNmFDQTB0aU01RDA3QlpZcVBaSi1qRVdxbEdkUzdmMldMU0dPeXVodTFWeFRLZnY0ZVkyV3QxNUFMNVFxdlE?oc=5",
           "source": "The Information",
           "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
@@ -411,12 +390,12 @@
       "x_mentions": []
     },
     {
-      "name": "SK Hynix (000660.KS)",
-      "note": "Keep an eye on geopolitical developments impacting HBM supply chains and potential diplomatic strategies.",
+      "name": "SK Hynix",
+      "note": "Monitor progress on US HBM plant construction and its implications for global memory supply.",
       "sources": [
         {
-          "title": "HBM 꽃길 뒤 ‘미·중 지뢰밭’…SK하이닉스에 ‘외교 방파제’ 세운 최...",
-          "link": "https://www.mediapen.com/news/view/1124778",
+          "title": "한미글로벌, SK하이닉스 美 HBM 패키징 공장 건설사업관리 총괄",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=212941",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
@@ -424,15 +403,48 @@
       "x_mentions": []
     },
     {
-      "name": "SpaceX",
-      "note": "Monitor for any further updates on autonomous rocket landings, signaling operational efficiency and potential future market impact.",
-      "sources": [],
-      "x_mentions": [
+      "name": "Oil",
+      "note": "Geopolitical events in the Middle East and supply concerns will continue to drive price volatility.",
+      "sources": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2096256303895081204"
+          "title": "Oil rises after Houthi attack on Saudi capital",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Oil Steady as Traders Look to Mideast Supply Risks and Diplomacy",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUZOX1dtVmt0TW1FYjVTbjR4aC1GVk01djVSSkJ1TEVSaGVpdUM2Ukl2XzNzc1ZSSDl5ckhTdlJUSDJKWTBZaWdxYkdRbjI3RjJzR2VicFdSS0NrWlZLa1RRYXFCRnZJWWN5Nl9KU19ObFptYXRQSWRMMHB0Ulp6azNqSGV3TUNwbUZJNzNMNGZDakdnYmJxWVpHZ2F4NGc?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Oil Futures Fall for Third Day on Easing Supply Concerns",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRjZGMnVLdmRRX0tKcXZDZnMzaFBGbXZwUVNDYW5BQnBNclpEZmVLVnFfSFJQM2gwVW1wQXlIWVRqNmU4c0ZPOE9Wd3NJUy1TVWJRNGtrcElWeWZzb0hnWjI5cDhYMGFraFFVX09CRlJKWlBFX2tJYW1YcTV1bEduS2dOYXhFUkR6SmEwUVJBeHlxRi15VnlLUXAzX3d0b2lhUV9z?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
-      ]
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "US-China Trade",
+      "note": "Ongoing discussions on AI, trade, and critical minerals will be key for market sentiment.",
+      "sources": [
+        {
+          "title": "Trump-Xi Showdown Casts a Shadow Over the Global Economy",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVUJfNVhNNWFzZllHa2x4bFJva2tSdDB6MU9Bd1hKYWxxM3o1S0VudFdkOXhlbkZla2hvcTl0cVJtdmpyR3hkM29rWll1OVpVVmJIX3R0dThxQmEwM1E3RkFEdEVGeE9UZGxtdlcwa1JOVVBmQTQ4TVMxZ1gxQVRia0lFSkdlMElqckluSkFISFVGNWJLcHpqY054RFhUTU5JQno5enFSTjh6aFZuMUNrX0QyVFhkaTA?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "US Treasury’s Bessent and China’s He launch talks on AI, trade and critical minerals",
+          "link": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals-4908142",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
     }
   ],
   "x_themes": [
@@ -548,11 +560,11 @@
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 47180.75,
-      "change": 867.94,
-      "change_pct": 1.87
+      "price": 47368.04,
+      "change": 1055.23,
+      "change_pct": 2.28
     }
   ],
-  "story_count": 47,
-  "bucket_count": 11
+  "story_count": 53,
+  "bucket_count": 12
 }
