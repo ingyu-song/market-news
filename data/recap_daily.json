@@ -1,171 +1,64 @@
 {
-  "generated_at": "2026-09-22T00:32:18+00:00",
+  "generated_at": "2026-09-22T23:58:08+00:00",
   "mode": "daily",
   "for_date": "2026-09-22",
-  "headline": "AI Optimism Drives Nasdaq to Record High; Semis and HBM Surge",
-  "summary": "Nasdaq closed at a record high, propelled by renewed AI optimism and retreating Treasury yields. Semiconductor and HBM stocks rallied significantly, with SK Hynix nearing ₩2,000,000. Fed officials, however, signaled potential for further rate hikes to combat inflation.",
+  "headline": "Fed Hikes Rates Amid Commodity Surge; AI Chips & Platforms in Focus",
+  "summary": "The Federal Reserve increased its key interest rate, leading to a 500-point Dow decline, while investors demanded higher yields at the two-year Treasury auction. Geopolitical tensions remained elevated with commodity prices rising ahead of US-China talks and a Trump-Xi dinner. AI sector activity saw Meta testing a new personal AI agent and Microsoft boosting Copilot discounts, even as Nvidia's stock valuation showed warning signs.",
   "sections": [
-    {
-      "label": "US Semis / AI Chips",
-      "bullets": [
-        {
-          "lead": "AMD is poised to reach a $1 trillion market valuation amid a broader surge in chip stocks.",
-          "segments": [
-            {
-              "text": "This milestone reflects strong investor confidence in the semiconductor sector, driven by increasing demand for AI chips.",
-              "sources": [
-                {
-                  "title": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblZZejdQaDFtRVUyc1A0d3RwdzVDQVlfSml6WTNHU3NhZ2FYbHhDdHl1elNiekhoTjFZakFoenZMZmpSTGljXzd0Y25zZV9qaE5rM3JTUFEtYXQ5UkZ1MXpFVWc3RGRoU1NFU092Z1c1dHBpdlJzSnJ2dkE4aVpKN1h3RDR1M0Z1SDM4clJGVVZtWnBuQ2lraTBEcEk5dFVFTUs2U3VXYnhpeVlIaE1qUHBn?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia's new Rubin architecture is driving increased demand for high-end MLCCs.",
-          "segments": [
-            {
-              "text": "This development solidifies the market leadership of companies like Murata and SEMCO in the multilayer ceramic capacitor industry.",
-              "sources": [
-                {
-                  "title": "Nvidia Rubin architecture drives high-end MLCC demand, solidifying Murata, SEMCO leadership",
-                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWC1Ka19sZ3lBSjRPSTdrbVVvbkRqT2ZYdF84cnpHR2pFU09VU21aNkdtdTRTemtWRndIRUlaVmhKcXY5ZTRDUThRc1BKamEtM3p6a2pHeXl0c1lBUUhJZE11d25kUTNiaFZOZFd1a2RSRTBwZlV6QWpmSE14cnBvYUluT21lM3RoRGpn?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia's CEO dismissed concerns about AI leading to global destruction by 2030.",
-          "segments": [
-            {
-              "text": "Jensen Huang stated there is \"0% chance\" of such an outcome, countering \"doomsday narratives\" surrounding artificial intelligence.",
-              "sources": [
-                {
-                  "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
-                  "link": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-                  "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
     {
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Nasdaq achieved a record-high close, fueled by renewed AI optimism and retreating Treasury yields.",
+          "lead": "The Federal Reserve raised its key interest rate.",
           "segments": [
             {
-              "text": "This market movement suggests a calming of \"rate shock\" fears, contributing to a broader rally in AI-related stocks and HBM manufacturers.",
+              "text": "The decision led to a 500-point fall in the Dow Jones Industrial Average.",
               "sources": [
                 {
-                  "title": "삼전닉스 나란히 껑충, HBM 관련주 들썩…미국 '금리 쇼크' 진정되나",
-                  "link": "https://www.cbci.co.kr/news/articleView.html?idxno=608928",
+                  "title": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate",
+                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxbFRYYU1qN0lvd0FyaWUyX3BKTVc0OThtOXk2MS0wU1Vwb1hjTEE4WFNyVkpnS216RENLTHh3bXFXeWRTSEd0SWpXbEpmUjBFV09YdHNRZDFiZER6a3J5VW5oaVhqMUF5cFpKZENNZFZ2TUtvSU5ZN0F1WS12NXNTNUV1ejJUOGhxMjNUTExnLXlXaEp5VjNPbmVhWWFUenBYSWxOYmpoWmVfNXNMMDVqaXdFdTJm?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Treasury yields climbed as investors demanded higher returns.",
+          "segments": [
+            {
+              "text": "The two-year U.S. Treasury auction recorded the highest yield since 2024, reflecting increased rate hike expectations.",
+              "sources": [
+                {
+                  "title": "Investors Demand Highest Yield at Two-Year U.S. Treasury Auction Since 2024",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0UwV1BmZDdxTS1YWUZxWFVoOUdkVDhGVnZqVXVTV01Rak45Q0tRSkg4RVRPUWsycXFIWFdMcU9ySUozSm80ZnVYUXBURVBucEVxOHNHMkZES1FNWVN6U05ZLVBuMi1NMGxBV3B1NWgxMGdwVkV3eVpBUWxRdWxFRGZfU2ZzT25PbUJoaUloWEU4alhQSlZtMzBsd0dBZjY3QVJPVG1oWVE2ekUxZnBPMGQ3NTBhXzRIUmd2S2l3?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Markets signal potential for consecutive rate hikes.",
+          "segments": [
+            {
+              "text": "Despite stable inflation expectations, robust employment data suggests the Federal Reserve may deliver multiple rate increases.",
+              "sources": [
+                {
+                  "title": "금리인상 전망 높은데 기대인플레이션 제자리···소비심리는 반등",
+                  "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=710870",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 },
                 {
-                  "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
-                  "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-ai-stocks-gain-oil-prices-slide-4908497",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "A Federal Reserve official indicated that more rate hikes are likely necessary to curb inflation.",
-          "segments": [
-            {
-              "text": "Fed's Musalem emphasized the need for further tightening to achieve price stability, despite recent market optimism.",
-              "sources": [
-                {
-                  "title": "EXCLUSIVE: Fed's Musalem says more rate hikes likely needed to quell inflation",
-                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "UK consumer confidence has fallen to a three-year low due to concerns over interest rate hikes and job market stability.",
-          "segments": [
-            {
-              "text": "This decline reflects growing economic anxieties among consumers in response to tightening monetary policy.",
-              "sources": [
-                {
-                  "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
-                  "link": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Memory (DRAM/HBM/NAND)",
-      "bullets": [
-        {
-          "lead": "Korean equities, including SK Hynix and Samsung Electronics, saw significant gains driven by the AI rally.",
-          "segments": [
-            {
-              "text": "SK Hynix neared ₩2,000,000 again, with the Kospi index surging over 2%, as investor sentiment improved for HBM and other semiconductor-related stocks.",
-              "sources": [
-                {
-                  "title": "\"AI 랠리 올라탔다\" … 코스피 2%대 급등, 하이닉스 200만원 다시 코앞",
-                  "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/22/2026092200058.html",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The strong performance in memory stocks is attributed to robust AI investment and easing international oil price burdens.",
-          "segments": [
-            {
-              "text": "Reduced oil price volatility contributed to a more favorable market environment, further boosting semiconductor and HBM-related equities.",
-              "sources": [
-                {
-                  "title": "[특징주] 삼성전자·SK하이닉스, 국제유가 등 부담 완화.. '강세'",
-                  "link": "https://www.g-enews.com/view.php?ud=20260922091032469644093b5d4e_1",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Markets Signal Fed Could Deliver Consecutive Rate Hikes",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmhNUmJsR2NFaFlETUgzc1RqWFd6SU52bUtsbFlaQ0dHVkVReXBoaFZkSmNHUWE1WF9zX29BNklWbmNIRGo5RFVPdkUxdXBJTUlQaFEwZzVwdUV2SFZudjBiLWFaRlBDT1NmNzdsc3VlYVZIc3lpZzdrUE9CdW5UTUp1dW5kM2JxWTNHcDlTdTdyaWwwdGM4d09Da0tQUFQ4b2VCVjZnYktCOGhj?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -178,56 +71,67 @@
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Key tech leaders, including Microsoft's Nadella and CEOs from OpenAI and Nvidia, are expected to attend a meal with Trump and Xi.",
+          "lead": "Meta CEO Mark Zuckerberg is expected to attend a Trump-Xi dinner.",
           "segments": [
             {
-              "text": "This gathering underscores the critical intersection of trade, AI, rare earths, and Iran policy in potential Xi-Trump 2.0 discussions.",
+              "text": "Zuckerberg is slated to join other tech leaders at a dinner between former President Trump and President Xi, indicating ongoing high-level engagement.",
               "sources": [
                 {
-                  "title": "Microsoft’s Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFCTVF2Y1VVYUVuQV82WU8wV3pObWVJMkhGVUF0YTQzQ3RXTUd5REdYX0hfSnh6SUdHUkg1b3QtRThaYUtkXy1aOU5OVVU0RDFNYTd3TWtfdmpDYU0tWF9uQWItdnVzXzlEazJWZW5Zc3NHX2xsbWs4UDhZcXgzOVAxZ2xPSXFVek5rNTNxTGtDTlRfMjFjVThkdU1JWU9oZGpxa0hQSWg1cnk5TzU3aEp1dGs?oc=5",
+                  "title": "Meta CEO Mark Zuckerberg to join tech leaders at Trump-Xi dinner, Bloomberg News reports",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkIxSExzOHdadlVOdG11bVdhcjI3YURzek5oSE1nUWU0V25NVWdHN21QM0czR0lfWnAtdUtSZUgxeVM0cFh6R0pDTmhHb19ZbUVfNzk0Z0x5Z1cyVDJvMHotOHdfZENkc2VUM0MzLXVYU1ZVaEx0VkllS1BwOWNuNkNRQ1F6OHh2WGVlNjd6UEM1d3p2anV0VHB4TFBRQ3ZpZVM1bndnV19sZTUwNllhaFFsSHlWYWV3cVRQbUx3?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Copper prices rose for the sixth consecutive day.",
+          "segments": [
+            {
+              "text": "Copper is nearing record highs due to tight supply conditions in China.",
+              "sources": [
+                {
+                  "title": "Copper Rises for a Sixth Day Toward Record on China Tightness",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1FrOWo2V3hvaWt4UFdmRjNyS0UxSkN6SUxEdTljaVdCOG1mSEhYWnU1ZHNWZXVoeXJPR2piOV9iRmlGNjdLUGpuTk5hQ2pPbGRZZjBXelNYRXdmTGJaRE5RMlB6U1JmVkhBUlVOZE5EUmVfSnQ1NWxJS2N4d0tTNlZLVkw1SEJwdGpxS21qcnpPdkE4R1BvWlhMVTZ5QUt1X3FPNFU1RUo2RTRkZ1l6TXlB?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Silver prices hit a high ahead of US-China talks.",
+          "segments": [
+            {
+              "text": "Silver prices surged in anticipation of upcoming U.S.-China discussions scheduled for this week.",
+              "sources": [
                 {
-                  "title": "Trade, AI, rare earths, and Iran shape Xi-Trump 2.0 talks",
-                  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxc2hUc3pJR0k5TFRpc1ZGTjA1RjNYdmNnVmpFcXhZUmFySmdPRTY3eGlEOGpQOHg3Uko5WVRpbUh3SjZzY01lb3VZWFdiTlF4NmdvaXNGdVZSN1RsSXVWVG9jY1p3a2poS3c?oc=5",
+                  "title": "Silver price today, Tuesday, September 22, 2026: Silver prices hit high mark ahead of U.S.- China talks this week",
+                  "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-tuesday-september-22-2026-silver-prices-hit-high-mark-ahead-of-us--china-talks-this-week-111536074.html",
+                  "source": "Yahoo Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=finance.yahoo.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Taiwan's Tmytek listed on the Innovation Board.",
+          "segments": [
+            {
+              "text": "The company is expanding its focus into 5G/6G, satellite, and defense technologies.",
+              "sources": [
+                {
+                  "title": "Tmytek lists on Taiwan Innovation Board, pushes 5G/6G, satellite, defense",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXo4WG1sbGxiOEcxYzBWNzR0ODVjOFgzaDN5NjV3ZUs3R1pXV1Y5ODEwbUNMMUNVTV9ISzRHa2F0ejRwRS1XY2tlX28wMEczVTZwaVN4ckl3SmNLUko1ajJqVzl2WjJVVVJvZFEyYkNlNDhNdGtfSjREemVpSVhBbXl6dTZvdmNBX213Z21Ucldtckw1Vmd0N29mWktJWUQtYjlhWE9OaHZVRmFvdjRnVUNqNk1TUQ?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Pharmaceutical companies are lobbying the Trump administration to protect their existing deals in China.",
-          "segments": [
-            {
-              "text": "This effort highlights industry concerns over potential trade disruptions and tariffs impacting their significant investments and market access in China.",
-              "sources": [
-                {
-                  "title": "Pharmaceutical Companies Push Trump Administration to Protect China Deals",
-                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjladnVzNHNFb01uMWJaQkVpVVdJdEhIbEJPYnhHbnA3SEdaclpMQk5xSmRELXUxaDVfVWNLOFd2MFdkRThRazQwYWVxZlRUTDZDMV92REZablRCQk9PV2lmSkpjU0FEc0lXY3NjRGM3NllOVUxwQXNONG1FdXdHWEs5cU5taUtleWtZMVludUphWkprSmJlcGtKb0MwbEp1NmRRRUxMcWwyaWJLS19HTkhfbXJLemM?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Vietnam's leader indicated a US deal is nearing completion, while denying re-routing Chinese goods.",
-          "segments": [
-            {
-              "text": "This suggests ongoing efforts to navigate complex trade relations between the US and China, with Vietnam playing a strategic role.",
-              "sources": [
-                {
-                  "title": "Vietnam Leader Says US Deal Close, Denies Re-Routing China Goods",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUU1rUFctLTlkYkRWTmdxZGttRFd5RE9lZWF4bmd4WWtNMzZyT0hfSlNSYnZhUzdsSmtFVk1TV2VZTW14M1ZWam02djUxUGl0cTkwNWMyV1VUMXJoV3lkNEZycEluY2pONzRXOEpBb1IyNF9CSGJ2MzZMSE1DMEVGV0w3WENUT2ZHbl9JMFRIbU9MemRCcFhERmJTaWpEVXR4SEUwZzgzSm1BdjNYb050emJLT0s?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -240,14 +144,31 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Meta is intensifying its competition with Amazon through its AI shopping platform, Muse.",
+          "lead": "Meta is testing a \"human concierge\" for its new AI agent, Muse.",
           "segments": [
             {
-              "text": "While Meta's Muse attempts to disrupt Amazon's dominance, Amazon has reportedly blocked Meta's agent from its platform.",
+              "text": "This feature is part of Meta's efforts to shape Muse into a new revenue engine.",
               "sources": [
                 {
-                  "title": "Meta’s Muse Tries (and Fails) to Disrupt Amazon",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVIwN01KX3lpN21aNHRFQWhId3R0V1ZnTFJFb3JIX05TLVVWaHpfdXNYRlNPTThHN2RWdXI0ZmwwRjlKSGplcmRPak55NXI5YXhvRFVhM3FweGJXWTBuWWxtcXNDMS1MV001MDBBdmYteVZqTjczTFdwbm5EWWw1RVhfdHRkajhadldscm1ucllsTXFnTlR6SGM3SXlFUQ?oc=5",
+                  "title": "EXCLUSIVE: Meta testing a 'human concierge' for its new personal AI agent, Muse",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRC1FTHlGVTZjNmVycUMzV3RjbnJycmN0cXo0eWd6RWM4WG9GZTJWLXBuLUJidnBxQ0p2SEpUeVZoSU9ibWZWSkNDd1NxTF9IYVFicDg3QWR1VWF6UkNweGlUSkRPdWxqLWpmVVZqbkkwa2w0Y2E5cEc2b016Z1N0bWc5cjBzQnd4Z25WV0FQclk4OHk5UWdPWG8zcFZ6VWRGWE8wVThaRQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Microsoft is boosting Copilot discounts.",
+          "segments": [
+            {
+              "text": "This comes as the company launches its AI \"Super App\" strategy.",
+              "sources": [
+                {
+                  "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJPWjhPUUkxZ2lXUFo1NGR5dGdJNUhqOTU0WTJmeThNbUpaOWxOaDhWRHlRdzVCcHYweXlZTGdFYXNaSXpaazlPc0NKVy1HcnNZbzVoNWN2bGEzQ2VoTG5LTHlCZjFWajVzeEZMTkM3TF8wRHF3cjhuX194R3JXVHl6ZTJSSFY2WDhwYm56WDNIeDE0aVdiRUNCa2t4R1BMUld5RWxYZzdFdw?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
@@ -257,88 +178,38 @@
           ]
         },
         {
-          "lead": "Shopify has integrated Meta's Muse for agentic checkout, enhancing its e-commerce capabilities.",
+          "lead": "AI could pose greater harm to children than social media.",
           "segments": [
             {
-              "text": "This partnership aims to leverage AI for improved shopping experiences, with Meta also announcing an AI shopping collaboration with Spotify.",
+              "text": "A former Google safety chief issued a warning regarding the potential negative impact of artificial intelligence on children.",
               "sources": [
                 {
-                  "title": "Meta announces AI shopping partnership with Spotify",
-                  "link": "https://www.investing.com/news/stock-market-news/meta-announces-ai-shopping-partnership-with-spotify-4909755",
+                  "title": "Ex-Google safety chief warns AI could harm children more than social media did",
+                  "link": "https://www.investing.com/news/stock-market-news/exgoogle-safety-chief-warns-ai-could-harm-children-more-than-social-media-did-4911398",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Shopify to Use Meta’s Muse for Agentic Checkout",
-                  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXZRWWh1U0dfTzhYWU9NRDBkVk5QbDlOb2dUZHcyQ3Z2V3VhRlo2YWtKc1k3STlsYTM4UHRBcTB4N3c4WFRsbldFLXZ3UUpPVkY4NFJjcVppMXJPYUs3TmQyOTNJM05VVmlacl8xQlZUd2htR2ozN2tqS1JWTXNOWl9OWlowTmM?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "OpenAI is developing new features to counter rival AI models like Grok and Meta's Muse.",
-          "segments": [
-            {
-              "text": "The company is actively working on strategies to maintain its competitive edge in the rapidly evolving AI platform landscape.",
-              "sources": [
-                {
-                  "title": "OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse",
-                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHk4c2RWM2lxN3Blc2JIMFJ5YXZ1XzhIVVNxbWJpb181c0wyZjZLVkd2TE1nMDNlT0ZVUDZYU0hqdU1yR0NVTjEtVE56Wlh4MkVvTEFqb3Y1VnpKY1p2NnczRzVlOGFieV9LVy1WS3BmY1YtRjI0WEJ3am53Qk02YXhlQzJmbGlTTDN0OGJtWW5QWC1LRHduSnk4VjNtOXBNTG9xS25wQ0s0M0pXeGo2dHdTYTdXNExGTHB2cQ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Elon Musk announced a reset of usage limits for the Grok AI chatbot.",
-          "segments": [
-            {
-              "text": "This adjustment aims to enhance user experience and accessibility for the AI platform.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@elonmusk",
-                  "url": "https://x.com/elonmusk/status/2096332306847875580"
-                }
-              ]
             }
           ]
         }
       ]
     },
     {
-      "label": "Energy / Commodities",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Crude oil futures posted back-to-back losses, contributing to a broader market rally in tech stocks.",
+          "lead": "Nvidia's stock valuation is flashing a warning sign.",
           "segments": [
             {
-              "text": "Falling oil prices eased inflationary pressures, benefiting Asian stocks and leading to gains in the technology sector.",
+              "text": "Indicators suggest that Nvidia's current valuation may be stretched.",
               "sources": [
                 {
-                  "title": "Asian Stocks to Gain on Tech Optimism, Oil Falls: Markets Wrap",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmVxRzlDSS1YVllGMmZuY29YWDUxZzZnSnlxTm1leVV2Z1Y0LVA2NkZrWHJNN0JxWXo0ampuSGE4LWUxdm9XY1J4ZEhxSmRSdWFPTFZ1WVlJVkRFOF9rLWJ3ekdQQXJVSnUtRFYtQUhzc0ZGUzVYOGZiMjhpWERyWTV6d2tZaGFDbFpKNHBBRUFiaGYw?oc=5",
+                  "title": "Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmZza3lFQmV4Y3NTNVlkOThiYTlkUWFGY1lPUWF1SEpPRkRNXy1GRnpNYWlDa1JqdEJRejYyVF9mSlQ2eldpbGR0dFRRM1dWVS1oY1RmMGNqRy1aVExud1duUXhTZHdZTW9SU2J6aVBrMTVUVmNubDlQc3F6TjNHem4zWTM1dlp6dWFtbzd6d3ZOOE43NDNXYkpGMzMwR1NqQ2VfT3FPVGMtbEJHdzFMNQ?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Crude Oil Futures Post Back-to Back Losses",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmNCdkk3TTktN0J2bEEtcnBPZW1yNG1HTjR4VDBaZWlOSHNqYk5VMTA2Y0JIWFZMN2Q5UmtvRm9UWmZCVWh1LXNGR3NRMzJVNTl3U0kxWGVJR2tEUGI0NHU5Wmo5ckZZV3R1b0VFaHRNTnI1R25WX2xteU1DQWo4MVpJcWQ1dTloR2FubDFaYUZqLVZRZXBZNDhWd3VCMHk0WDVZNFFxRTJ4QQ?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Meta leads tech rally as oil prices fall",
-                  "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -346,16 +217,145 @@
           ]
         },
         {
-          "lead": "Saudi Arabia has increased Gulf oil exports following a pipeline attack.",
+          "lead": "Wall Street's GPU futures push stalled at the CFTC.",
           "segments": [
             {
-              "text": "This move aims to stabilize supply amidst regional disruptions, impacting global oil market dynamics.",
+              "text": "Efforts to launch GPU futures have encountered a regulatory halt at the Commodity Futures Trading Commission.",
               "sources": [
                 {
-                  "title": "Saudi Arabia ramps up Gulf oil exports after pipeline attack, data shows",
-                  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcThldmdWd2c5aHdfck8zYk1XMWtsa3kweWlXaTNQWEpnV2NIUHhiNTh2cHhoSndCV2Z2QkhwNl9DZEJObFJha2pXWG1JcUZpVXlZU1RqQ2diZUJ0YVV2alRBRmRCampGOGdQQnM4UVV2R2ZMQ2p6WC1QSk5iOGJEWDZ2YXdaSzlLeGtZYnNuVld5MGZESG1tenNaMFlFcExWeVhlZjJBTlJOeHNmVkhBYzFkejJkNno5VWEwU05hRHU4NGlqT1U5UXcxUzU?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Wall Street’s GPU Futures Push Stalls at the CFTC",
+                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFMwTWJtYXY0TWNxU25QenNOVFhpYmhDQkNnZVJwR01tbTQtdGNHSW45VkRyUEdlNkRQLTR0V29mMGRVYmJCX3JWci1MejQ1ZVhFWkQ0aE9YUi1YRzRMZ3h0WnctZWxsUEZpZWh0MUFmNEQ3ZDhaekVyYTJrVWJHZGxpREE4UXRI?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "DeepSeek is betting on Huawei chips for AI model training.",
+          "segments": [
+            {
+              "text": "The Chinese AI firm is utilizing Huawei chips as Nvidia's sales in China experience a decline.",
+              "sources": [
+                {
+                  "title": "DeepSeek bets on Huawei chips for model training as Nvidia's China sales slip",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYjNVRDZabjkyblQ3U1lwOHcxUGdsVnp3ZVN1RFdkQTBvd01EbWRfSDNmRjl2SVk3QUJRNUZSa3ZITndiMnVwa0xJRkdLSllNbnRLVEVkTXhBVHhmWVNGOGwxa1FuZUJJRHRCdWRna25POV9TQ0JXVmU3SDkzRE1FTzFialRyckZPd1l1MExEZWpPUQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump is reportedly frustrated by a wave of setbacks.",
+          "segments": [
+            {
+              "text": "He is actively seeking credit for his policy actions.",
+              "sources": [
+                {
+                  "title": "Wave of Setbacks Leaves Trump Frustrated and Looking for Credit",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVBNVlVEMW44cEtZNmZRY1dhRHk2OFZYQmZqOXZtb0Y1NEFuSDhKMFVPc0xYYkpZYUlYSUNLLThUOUMtVXE5NVk0dUFsSXhNUXdyQXpwYmNsMFZpM3doS3NkWkZQOWxpeWNveExmN2xyVnpwMklXYktPS1RhamZ2WWtmRjRram5oR1paLXQ0LUhMa0Z0SlFZTW1BNjZlWDRJeXVSdlYzMU5xaVZ0ZkE4WA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump officials ejected 750,000 from Obamacare markets.",
+          "segments": [
+            {
+              "text": "The removals were made on claims of fraud.",
+              "sources": [
+                {
+                  "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
+                  "link": "https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump bought and sold shares in Musk’s SpaceX in July.",
+          "segments": [
+            {
+              "text": "Financial disclosures revealed the former President's investment activity in the aerospace company.",
+              "sources": [
+                {
+                  "title": "Trump bought and sold shares in Musk’s SpaceX in July, financial disclosure shows",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-4911482",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Micron Taiwan union is considering a strike vote.",
+          "segments": [
+            {
+              "text": "Profit-sharing negotiations with the board and earnings calendar remain stalled.",
+              "sources": [
+                {
+                  "title": "Micron Taiwan union heads for strike vote as board, earnings calendar stall profit-sharing talks",
+                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1hOdVZySTVDYi05OTcxWGxkSTBiQUo1ZGFBcGE4WGFPZXBxUS1NREZsd0RQR1p4SHV6R1ZvODFMaTV3N0Exdi1SaktBdmJZVW1meWNTdmxzelhCaXNzbzhISWNMX3Rvc3JDTk9YVXBaUFM5THg5UXZmREtMNUl4TnZReVljWWk4VEE?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Hyperscaler AI spending could hit $1 trillion next year.",
+          "segments": [
+            {
+              "text": "Jamie Dimon projects a significant escalation in AI infrastructure investment.",
+              "sources": [
+                {
+                  "title": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+                  "link": "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Wall Street is growing skeptical of the data center boom.",
+          "segments": [
+            {
+              "text": "Despite projections for massive AI spending, skepticism regarding the sustainability of the data center boom is increasing.",
+              "sources": [
+                {
+                  "title": "Wall Street Is Growing Skeptical of the Data Center Boom",
+                  "link": "https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -367,114 +367,96 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Watch for continued AI chip demand and architectural advancements driving market sentiment.",
-      "sources": [
-        {
-          "title": "Nvidia Rubin architecture drives high-end MLCC demand, solidifying Murata, SEMCO leadership",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWC1Ka19sZ3lBSjRPSTdrbVVvbkRqT2ZYdF84cnpHR2pFU09VU21aNkdtdTRTemtWRndIRUlaVmhKcXY5ZTRDUThRc1BKamEtM3p6a2pHeXl0c1lBUUhJZE11d25kUTNiaFZOZFd1a2RSRTBwZlV6QWpmSE14cnBvYUluT21lM3RoRGpn?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        },
-        {
-          "title": "Microsoft’s Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXFCTVF2Y1VVYUVuQV82WU8wV3pObWVJMkhGVUF0YTQzQ3RXTUd5REdYX0hfSnh6SUdHUkg1b3QtRThaYUtkXy1aOU5OVVU0RDFNYTd3TWtfdmpDYU0tWF9uQWItdnVzXzlEazJWZW5Zc3NHX2xsbWs4UDhZcXgzOVAxZ2xPSXFVek5rNTNxTGtDTlRfMjFjVThkdU1JWU9oZGpxa0hQSWg1cnk5TzU3aEp1dGs?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
-          "link": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-          "link": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "AMD",
-      "note": "Monitor market valuation growth as the AI chip sector continues to strengthen.",
-      "sources": [
-        {
-          "title": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQblZZejdQaDFtRVUyc1A0d3RwdzVDQVlfSml6WTNHU3NhZ2FYbHhDdHl1elNiekhoTjFZakFoenZMZmpSTGljXzd0Y25zZV9qaE5rM3JTUFEtYXQ5UkZ1MXpFVWc3RGRoU1NFU092Z1c1dHBpdlJzSnJ2dkE4aVpKN1h3RDR1M0Z1SDM4clJGVVZtWnBuQ2lraTBEcEk5dFVFTUs2U3VXYnhpeVlIaE1qUHBn?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "SK Hynix / Samsung Electronics",
-      "note": "Observe performance of HBM and the broader memory sector, influenced by AI investment and macro factors.",
-      "sources": [
-        {
-          "title": "삼전닉스 나란히 껑충, HBM 관련주 들썩…미국 '금리 쇼크' 진정되나",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=608928",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "Fed",
-      "note": "Key focus on any new signals regarding future rate hikes and the inflation outlook.",
+      "note": "Watch for further signals on rate hike trajectory and inflation commentary.",
       "sources": [
         {
-          "title": "삼전닉스 나란히 껑충, HBM 관련주 들썩…미국 '금리 쇼크' 진정되나",
-          "link": "https://www.cbci.co.kr/news/articleView.html?idxno=608928",
+          "title": "금리인상 전망 높은데 기대인플레이션 제자리···소비심리는 반등",
+          "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=710870",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "EXCLUSIVE: Fed's Musalem says more rate hikes likely needed to quell inflation",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Meta",
-      "note": "Track AI platform competition and new e-commerce integrations impacting its market position.",
-      "sources": [
-        {
-          "title": "Meta’s Muse Tries (and Fails) to Disrupt Amazon",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVIwN01KX3lpN21aNHRFQWhId3R0V1ZnTFJFb3JIX05TLVVWaHpfdXNYRlNPTThHN2RWdXI0ZmwwRjlKSGplcmRPak55NXI5YXhvRFVhM3FweGJXWTBuWWxtcXNDMS1MV001MDBBdmYteVZqTjczTFdwbm5EWWw1RVhfdHRkajhadldscm1ucllsTXFnTlR6SGM3SXlFUQ?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        },
-        {
-          "title": "Meta announces AI shopping partnership with Spotify",
-          "link": "https://www.investing.com/news/stock-market-news/meta-announces-ai-shopping-partnership-with-spotify-4909755",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Shopify to Use Meta’s Muse for Agentic Checkout",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXZRWWh1U0dfTzhYWU9NRDBkVk5QbDlOb2dUZHcyQ3Z2V3VhRlo2YWtKc1k3STlsYTM4UHRBcTB4N3c4WFRsbldFLXZ3UUpPVkY4NFJjcVppMXJPYUs3TmQyOTNJM05VVmlacl8xQlZUd2htR2ozN2tqS1JWTXNOWl9OWlowTmM?oc=5",
+          "title": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxbFRYYU1qN0lvd0FyaWUyX3BKTVc0OThtOXk2MS0wU1Vwb1hjTEE4WFNyVkpnS216RENLTHh3bXFXeWRTSEd0SWpXbEpmUjBFV09YdHNRZDFiZER6a3J5VW5oaVhqMUF5cFpKZENNZFZ2TUtvSU5ZN0F1WS12NXNTNUV1ejJUOGhxMjNUTExnLXlXaEp5VjNPbmVhWWFUenBYSWxOYmpoWmVfNXNMMDVqaXdFdTJm?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "Meta leads tech rally as oil prices fall",
-          "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+          "title": "Markets Signal Fed Could Deliver Consecutive Rate Hikes",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmhNUmJsR2NFaFlETUgzc1RqWFd6SU52bUtsbFlaQ0dHVkVReXBoaFZkSmNHUWE1WF9zX29BNklWbmNIRGo5RFVPdkUxdXBJTUlQaFEwZzVwdUV2SFZudjBiLWFaRlBDT1NmNzdsc3VlYVZIc3lpZzdrUE9CdW5UTUp1dW5kM2JxWTNHcDlTdTdyaWwwdGM4d09Da0tQUFQ4b2VCVjZnYktCOGhj?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Meta Platforms",
+      "note": "Monitor developments around its AI agent, Muse, and its potential to drive new revenue streams.",
+      "sources": [
+        {
+          "title": "Wall Street expects Meta's AI agent to shape into a new revenue engine",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSHZ3dUF2a3BDZVdNNW00Rm5jekRCZUlNeTdabXRaQUdNaHpqZG95QnlISWVGQTJYR3F0bWJ5MmkxUUZkYndqUkZsSG1EdXU4MFcwdE5taHp4UU1DTk16OWV0bWJDU0drdEVVb0FmMnJWUVdLbm5SRFdMdWtRMzd4NnRlUDB4bnVQd3d1Q1VmSmdVOFJQdlJtVTBQUExDeFVFdXRWbTRvVE9yTDFZdVE?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Meta’s Muse Drags Down Stocks That Depend on ‘Consumer Inertia’",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN1FjRlhGTWFIdHVFMTk2WU56Y0dsd0JYR09sQTI4WHJFbXZfd0RyY0tUa3ByRjJOLXYtLWlqQ2RqVk1UQy1XUGVOWFVjWU5JTTlfTTN1d3dabUhsamcwaHFxRXQyUTFHaGoxa2hBb2NJZkFaVUZtR01WSW15QWhoVVZWVW1VcXRUVl9LOU8tTXM5M2IyWnNXZ0lnUUlKRG95U1M0VkVyMmwwS2pzSG9sT0pB?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "Observe stock performance and valuation signals amidst market shifts and GPU futures stalls.",
+      "sources": [
+        {
+          "title": "Wall Street’s GPU Futures Push Stalls at the CFTC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFMwTWJtYXY0TWNxU25QenNOVFhpYmhDQkNnZVJwR01tbTQtdGNHSW45VkRyUEdlNkRQLTR0V29mMGRVYmJCX3JWci1MejQ1ZVhFWkQ0aE9YUi1YRzRMZ3h0WnctZWxsUEZpZWh0MUFmNEQ3ZDhaekVyYTJrVWJHZGxpREE4UXRI?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmZza3lFQmV4Y3NTNVlkOThiYTlkUWFGY1lPUWF1SEpPRkRNXy1GRnpNYWlDa1JqdEJRejYyVF9mSlQ2eldpbGR0dFRRM1dWVS1oY1RmMGNqRy1aVExud1duUXhTZHdZTW9SU2J6aVBrMTVUVmNubDlQc3F6TjNHem4zWTM1dlp6dWFtbzd6d3ZOOE43NDNXYkpGMzMwR1NqQ2VfT3FPVGMtbEJHdzFMNQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Copper",
+      "note": "Track price movements as China's demand and supply tightness continue to influence the commodity market.",
+      "sources": [
+        {
+          "title": "Copper Rises for a Sixth Day Toward Record on China Tightness",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1FrOWo2V3hvaWt4UFdmRjNyS0UxSkN6SUxEdTljaVdCOG1mSEhYWnU1ZHNWZXVoeXJPR2piOV9iRmlGNjdLUGpuTk5hQ2pPbGRZZjBXelNYRXdmTGJaRE5RMlB6U1JmVkhBUlVOZE5EUmVfSnQ1NWxJS2N4d0tTNlZLVkw1SEJwdGpxS21qcnpPdkE4R1BvWlhMVTZ5QUt1X3FPNFU1RUo2RTRkZ1l6TXlB?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "SpaceX",
+      "note": "Follow any news related to Trump's past investment and Elon Musk's updates on autonomous rocket landings.",
+      "sources": [
+        {
+          "title": "Trump bought and sold shares in Musk’s SpaceX in July, financial disclosure shows",
+          "link": "https://www.investing.com/news/stock-market-news/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-4911482",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
       ],
       "x_mentions": [
         {
           "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2096332306847875580"
+          "url": "https://x.com/elonmusk/status/2096256303895081204"
         }
       ]
     }
@@ -536,33 +518,33 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7764.7,
-      "change": 114.2,
-      "change_pct": 1.49
+      "price": 7764.64,
+      "change": -0.06,
+      "change_pct": -0.0
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 27122.09,
-      "change": 599.55,
-      "change_pct": 2.26
+      "price": 27244.28,
+      "change": 122.18,
+      "change_pct": 0.45
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52048.83,
-      "change": 366.19,
-      "change_pct": 0.71
+      "price": 51863.69,
+      "change": -185.14,
+      "change_pct": -0.36
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2875.36,
-      "change": 14.96,
-      "change_pct": 0.52
+      "price": 2889.92,
+      "change": 14.56,
+      "change_pct": 0.51
     },
     {
       "name": "Nikkei 225",
@@ -576,27 +558,27 @@
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 25042.71,
-      "change": 291.93,
-      "change_pct": 1.18
+      "price": 25087.75,
+      "change": 45.04,
+      "change_pct": 0.18
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 7166.79,
-      "change": 177.92,
-      "change_pct": 2.55
+      "price": 7017.91,
+      "change": 10.19,
+      "change_pct": 0.15
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 47718.84,
-      "change": 596.66,
-      "change_pct": 1.27
+      "price": 47800.17,
+      "change": 87.82,
+      "change_pct": 0.18
     }
   ],
-  "story_count": 61,
+  "story_count": 51,
   "bucket_count": 12
 }
