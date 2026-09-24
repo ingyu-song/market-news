@@ -1,57 +1,44 @@
 {
-  "generated_at": "2026-09-06T00:45:35+00:00",
+  "generated_at": "2026-09-24T01:15:38+00:00",
   "tweet_count": 10,
-  "account_count": 4,
+  "account_count": 3,
   "themes": [
     {
-      "topic": "AI Token Processing Growth",
+      "topic": "Samsung Hybrid Bonding Expertise",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "Discusses the projected growth in AI token processing, expecting to cross 120 Quadrillion tokens next year, up from over 30 Quadrillion by Q2 2026.",
+      "subcategory": "advanced_packaging",
+      "summary": "An interview with a Samsung expert on hybrid bonding, detailing the technology and its implications for advanced packaging.",
       "mentions": [
         {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2096397032437199162",
-          "text": "I'm pretty sure that we will cross 120 Quadrillion tokens processed next year\nIt was already over 30Q by the end of Q2 2026"
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2102879915335205343",
+          "text": "I interviewed a Samsung hybrid bonding expert. Check out the link below for the full details.\n\nhttps://t.co/cQawHnip0g"
         }
       ]
     },
     {
-      "topic": "AI Inference Capacity Revenue Metrics",
+      "topic": "Grok 4.7 AI Model Ranking Improvement",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Discusses the methodology for calculating blended revenue per MW of inference capacity for AI providers, including free, API, and subscription revenue streams.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2096252156739555377",
-          "text": "Well, this includes free + API + subscriptions \nI'm using blended revenue per MW of inference capacity (not just API) for each provider"
-        }
-      ]
-    },
-    {
-      "topic": "Grok Usage Limits Reset",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Elon Musk announced that the usage limits for the Grok AI chatbot have been reset.",
+      "summary": "Elon Musk reported that the Grok 4.7 AI model has shown an improvement in its ranking.",
       "mentions": [
         {
           "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2096332306847875580",
-          "text": "Grok @Bot usage limits reset"
+          "url": "https://x.com/elonmusk/status/2102873022789283985",
+          "text": "Grok 4.7 moves up in ranking"
         }
       ]
     },
     {
-      "topic": "SpaceX Autonomous Rocket Landings Milestone",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Elon Musk reported that SpaceX has achieved over 600 autonomous rocket landings.",
+      "topic": "Nokia's CPO Development and Hiring",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "Nokia ($NOK) is reportedly making significant strides in Co-Packaged Optics (CPO) development and is aggressively hiring for related positions.",
       "mentions": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2096256303895081204",
-          "text": "Over 600 autonomous rocket landings so far"
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2102862254320574794",
+          "text": "I’ve heard $NOK has been pushing hard on CPO development lately and hiring aggressively 👀"
         }
       ]
     }
