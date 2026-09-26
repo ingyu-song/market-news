@@ -1,122 +1,44 @@
 {
-  "generated_at": "2026-09-25T01:18:24+00:00",
-  "tweet_count": 10,
-  "account_count": 4,
+  "generated_at": "2026-09-26T01:20:20+00:00",
+  "tweet_count": 7,
+  "account_count": 2,
   "themes": [
     {
-      "topic": "Akamai's $11.6B Anthropic deal drives CPU demand",
+      "topic": "Tesla FSD quality concerns",
       "category": "sectors",
-      "subcategory": "cpu",
-      "summary": "Akamai's $11.6B compute deal with Anthropic over 7 years is expected to significantly drive demand for accelerated CPU workloads.",
+      "subcategory": "software",
+      "summary": "Tesla owners are reporting a recent decline in Full Self-Driving (FSD) quality, with instances of incorrect navigation and aggressive lane changes causing safety concerns and leading to reconsideration of Tesla purchases.",
       "mentions": [
         {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2103232350348001701",
-          "text": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain "
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2103607753684275529",
+          "text": "One of the things @PhotonCap and I talked about today was how FSD quality seems to have gotten strangely worse lately.\n\nIn his case, his Tesla actually took the wrong way and ended up driving against traffic. I have also had a few scary moments myself, including one where FSD tri"
         }
       ]
     },
     {
-      "topic": "Akamai's $11.6B Anthropic deal drives memory pre-purchases",
+      "topic": "Discussion of HBM architecture and related interfaces",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "Akamai plans to pre-purchase $1.7B in supply chain components, including memory, by 2026 to service its $11.6B compute commitment to Anthropic.",
-      "mentions": [
-        {
-          "handle": "@aleabitoreddit",
-          "url": "https://x.com/aleabitoreddit/status/2103232350348001701",
-          "text": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex specifically to pre-purchase supply chain "
-        }
-      ]
-    },
-    {
-      "topic": "Fabrinet ($FN) and Ciena ($CIEN) in optics \"scale-across\" opportunity",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "An article examines Fabrinet ($FN) and Ciena ($CIEN), highlighting their potential in the optics sector due to exposure to \"scale-across\" opportunities, despite differing business models.",
+      "summary": "An analyst clarifies that their expert call articles focus on general technical topics like SerDes, equalizers, and HBM architecture, emphasizing that all information is derived from public sources and contains no material nonpublic information (MNPI).",
       "mentions": [
         {
           "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2103253848857133065",
-          "text": "This article takes a closer look at Fabrinet ($FN) and Ciena ($CIEN), two companies that receive less attention than some of their peers in optics, but that I believe have significant potential.\n\nTheir business models are very different, yet both have exposure to the same opportu"
+          "url": "https://x.com/damnang2/status/2103598210183029004",
+          "text": "Just to clarify, since there seems to be some misunderstanding: my expert call articles focus on general technical topics. The discussion on interfaces mainly covers SerDes, equalizers, and how TSVs shape HBM architecture.\n\nWhen we discuss a company’s technology, it is primarily "
         }
       ]
     },
     {
-      "topic": "CoPoS advanced packaging technology interest",
-      "category": "sectors",
-      "subcategory": "advanced_packaging",
-      "summary": "There is an expressed interest in CoPoS (Chip-on-Package-on-Substrate), a specific type of advanced packaging technology.",
-      "mentions": [
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2103258107870859773",
-          "text": "Anyone interested in CoPoS?"
-        }
-      ]
-    },
-    {
-      "topic": "Technological disruption and incumbent company adaptation",
+      "topic": "Elon Musk's Starship aspirations",
       "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The author discusses how incumbent companies face existential threats from new technologies like AI, noting the difficulty in differentiating truly adaptable businesses from those facing irreversible disruption.",
+      "subcategory": "space",
+      "summary": "Elon Musk expresses a wish for Starship to \"have the Mandate of Heaven,\" referencing the successful progression of the SpaceX Starship program.",
       "mentions": [
         {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2103256952574767166",
-          "text": "How do companies act when they are being existentially threatened by new technology?\n\nThere’s a big difference between a stock worth buying and a stock worth owning, and we’re undoubtedly going to see a lot of the former in AI disrupted companies…but it’s more difficult to determ"
-        }
-      ]
-    },
-    {
-      "topic": "Banks' heightened interest rate risk awareness",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "Banks have become hyper-aware of interest rate risk since SIVB, making tail events from this specific risk unlikely due to increased preparedness.",
-      "mentions": [
-        {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2103290064063357186",
-          "text": "Counterpoint: like the attitude towards subprime credit risk in the years following the GFC, banks have become hyper aware of interest rate risk since SIVB and its extremely unlikely that tail events arise from a risk everyone is prepared for and paying attention to"
-        }
-      ]
-    },
-    {
-      "topic": "US Treasury buying temptation and UK gilt market parallel",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The author expresses a strong temptation to buy US treasuries, drawing a parallel to the period just before the UK gilt market's near-collapse due to levered pension funds.",
-      "mentions": [
-        {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2103274955509276710",
-          "text": "The last time I was this tempted to buy US treasuries we were only one near-collapse of the entire gilt market at the hands of levered pension funds away from the bottom."
-        }
-      ]
-    },
-    {
-      "topic": "Speculation on Oaktree Capital Management (OWL) future",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "A speculative comment suggests potential unforeseen issues with Oaktree Capital Management (OWL) in the future.",
-      "mentions": [
-        {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2103282406572921228",
-          "text": "There will be so many ways we “couldn’t have seen this coming” when OWL goes bye bye https://t.co/HFi737RYrZ"
-        }
-      ]
-    },
-    {
-      "topic": "Broadening investment perspective beyond engineering for Meta ($META)",
-      "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "The author reflects on investing in Meta ($META), noting that despite a less favorable semiconductor engineering view, its valuation and core business made it attractive, highlighting the need for broader investment perspectives.",
-      "mentions": [
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2103225208073318873",
-          "text": "About a month ago, one of my subscribers asked me about Meta. \n\nI told them that while I did not have a favorable view of the company from a semiconductor engineering perspective, its current valuation and strong core business made it an attractive investment.\n\nThis has reminded "
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2103537377239015827",
+          "text": "May Starship have the Mandate of Heaven https://t.co/YTgVhc9PY5"
         }
       ]
     }
