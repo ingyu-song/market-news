@@ -1,48 +1,31 @@
 {
-  "generated_at": "2026-09-27T00:09:24+00:00",
+  "generated_at": "2026-09-27T01:03:57+00:00",
   "mode": "daily",
   "for_date": "2026-09-27",
-  "headline": "Global Tensions Persist; Bond Yields Climb; Tech Security Concerns Emerge",
-  "summary": "Geopolitical concerns dominated, with President Trump rejecting an Iran peace deal and the US reaching a tariff agreement with China. Bond yields continued their ascent, impacting real estate, while a software glitch affected Boeing's 737 MAX. Oracle's PeopleSoft faced expanded hacker attacks.",
+  "headline": "US-China Advance Trade & AI Dialogue; Yields Surge, Stocks Drop",
+  "summary": "US and China progressed on trade and AI discussions, agreeing to tariff cuts and coal purchases. Meanwhile, US stocks declined as 10-year Treasury yields hit a two-decade high, impacting real estate and broader market sentiment. Geopolitical tensions in the Middle East also weighed on investor confidence.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "President Trump rejected a peace deal with Iran, maintaining geopolitical tensions.",
+          "lead": "US and China advanced trade and AI dialogues.",
           "segments": [
             {
-              "text": "The US President rejected a seven-day peace deal aimed at reopening the Strait of Hormuz, indicating ongoing conflict.",
+              "text": "The nations agreed to an AI dialogue and tariff cuts on $30 billion in goods during Xi's visit, with China also committing to buy 10 million tons of coal in 2027 and 2028.",
               "sources": [
                 {
-                  "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-                  "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "This rejection follows previous reports questioning the veracity of claims regarding a \"biggest oil deal in world history\" related to Iran.",
-              "sources": [
+                  "title": "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
                 {
-                  "title": "The truth behind Donald Trump’s ‘biggest oil deal in world history’",
-                  "link": "https://www.theguardian.com/us-news/2026/sep/26/donald-trump-oil-deal-with-venezuela",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The US and China finalized a significant tariff agreement.",
-          "segments": [
-            {
-              "text": "A $30 billion tariff deal was reached between the U.S. and China following a summit between President Trump and President Xi.",
-              "sources": [
+                  "title": "US Says China to Buy 10 Million Tons of Coal in 2027 and 2028",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUXVPZTZ1QnpkM01VelF4WWtydjg0QlplcHVJZzE1aHE0RDNpeVQ3V21UeUhnNTRiNFJWdWNnOFpxa05LckYwYldqbjZBNV9pd3lydG9aNUExZWMzUW9nV3V0aVNQZXRzUmhnNl9pdEQ4SV9acVVjTVFxMEdqd1NCbjhJVmY3UW15WGpvdkJTRVRnblcwSUYwQ2w0ejlmcWw4cF9YRW8tMVMwS1FlQ2VoNnlB?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
                 {
                   "title": "U.S., China reach $30 billion tariff deal after Trump-Xi summit",
                   "link": "https://www.axios.com/2026/09/26/us-china-tariffs-trade-30-billion",
@@ -51,15 +34,26 @@
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "Trump rejected Iran's Hormuz deal amid Houthi targets.",
+          "segments": [
             {
-              "text": "The absence of a CEO entourage with Xi Jinping at the summit may signal evolving dynamics in China-US relations.",
+              "text": "President Trump rejected a seven-day peace deal from Iran aimed at reopening the Strait of Hormuz, as Houthis targeted Riyadh.",
               "sources": [
                 {
-                  "title": "Xi Jinping Didn’t Bring a CEO Entourage. What That Says About China-US Relations.",
-                  "link": "https://www.nytimes.com/2026/09/25/business/trump-xi-jinping-chinese-executives.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Trump Rejects Iran’s Hormuz Deal as Houthis Target Riyadh",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmVDNTZYTWZqZkItVlQ4Z2wwbUljX3FjVU5xQVlHTUhzOUJ5OS1vWk1uZ2JpYUdXOFA5WVg0RzZ1VFl5YW9CV2Nhc2pPOHpGX2drYUVFS3ZuSVdnWDZqQkxZcWlpOGR0Y3ZLNWhEOS1pWjZ1MzhkdGZ3NTlLaDliOGxPREdjZHd5N1VObU1UWWZvVHVPNjlvbl85VG9vSmVucEgwRUt1OXhKZmZ0Y3pQWQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+                  "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -67,16 +61,22 @@
           ]
         },
         {
-          "lead": "High gas prices and rising mortgage rates are creating domestic political challenges for the Trump administration.",
+          "lead": "China's consumer stocks are nearing decade lows.",
           "segments": [
             {
-              "text": "Elevated gas prices and increasing mortgage rates are causing concern for President Trump as midterm elections approach.",
+              "text": "Investors are shifting focus to AI, causing China's consumer stocks to face a lost decade.",
               "sources": [
                 {
-                  "title": "High Gas and Rising Mortgage Rates Trouble Trump as Midterms Near",
-                  "link": "https://www.nytimes.com/2026/09/26/business/trump-economy-midterm-elections.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "China consumer stocks near decade lows as investors pile into AI",
+                  "link": "https://www.investing.com/news/stock-market-news/china-consumer-stocks-near-decade-lows-as-investors-pile-into-ai-4918679",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZldHZF9yQXljZXQ2UlBXaHF6cXNEWk9DOWxVZWlvR2pfV2ZvamNzeUtoR1ZOelJ6aE1QbkVHclJVRmZJYXRqOWNkWXNyZ2thQnAxZXpScE5OWThZQWl3Q1JJRlZQaGpiOHRWajdvVUFJbkRPYUtqMFkyS1ZWX1RNUXVNQWNVVnlJd3BMNzRleXB1bkhvSF9JTk1fRDhWTGdmeTRCbjAwT2VwWUd5R3htd25BcHQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -89,11 +89,23 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "The 10-year Treasury yield reached its highest level in nearly two decades.",
+          "lead": "US stocks dropped as Treasury yields surged to multi-decade highs.",
           "segments": [
             {
-              "text": "The benchmark 10-year Treasury yield climbed to its highest point in almost two decades, reflecting tightening financial conditions.",
+              "text": "The 10-year Treasury yield reached its highest level in nearly two decades, causing U.S. stocks to drop and real estate stocks to slump.",
               "sources": [
+                {
+                  "title": "U.S. Stocks Drop as Treasury Yields Surge",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFpoZ25MRHVkM25IWElidjV6R1FQVWkydHlnN1poQXFxamNPR1hMdzgtanpWS01KWjdMRW9FdDhUS1JJaDktemVHeHQ4TVhxV2dickt4SUw3WUxPRF9LVGJhaDRwM2NRSXZ4U21saDVZMXFRcmtoX3ZjbDY5UU85bm1pZ25pSGNQZUt0VnpSZzI?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology",
+                  "link": "https://seekingalpha.com/news/4647295-real-estate-stocks-slump-amid-rising-bond-yields-sector-rotation-into-technology?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                },
                 {
                   "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
                   "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
@@ -102,20 +114,54 @@
                 }
               ],
               "x_mentions": []
+            },
+            {
+              "text": "Ongoing Middle East conflict and rising yields further weighed on U.S. stocks.",
+              "sources": [
+                {
+                  "title": "Raging Conflict in the Middle East and Rising Yields Weigh on U.S. Stocks",
+                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFA3VE9nR1NMcmRzNHh4ZjB4UnRmWFFOTkZwcXl1RlJsSmhYQ21Ya2xYeFB6MXR4aGtYTE5sMXBubGZRb3JHV1k3N1M0QWhkcGRVYXc0LUZVWW1waEV2UHZXckk3Mk1YTHZCTzluVlpJcHYxd0M1dlpzZUR5WnRCYzRjMTdTUUFTaG9IOFItWS0zbDVVWWYxaUtkTFRjSVhQeE4xZy1JZmtqUUJSMG9KUzhTQ19zYkFtNEow?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         },
         {
-          "lead": "Real estate stocks experienced a slump amid rising bond yields.",
+          "lead": "McDonald's selloff hit 30% due to inflation pushback.",
           "segments": [
             {
-              "text": "Rising bond yields contributed to a decline in real estate stocks, with a noticeable sector rotation occurring towards technology shares.",
+              "text": "Big Mac inflation has spurred consumer pushback, contributing to a significant selloff in McDonald's shares.",
               "sources": [
                 {
-                  "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology",
-                  "link": "https://seekingalpha.com/news/4647295-real-estate-stocks-slump-amid-rising-bond-yields-sector-rotation-into-technology?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXVoVUxnbVRWNlVLbFMtQlpVRG16LVdXaUJXUHZmTU9YWG9lQjAxcmpUT28tbzdfTHFEbDdmenljaFZyZFExNF92dnFDbTA4a1pGandBZ2pzakRBQ28tMFdodzFJYzVDZzFzSmk5T3d1U19xOWplZ2RtMGxyR1NOZkR6c0pQeVFBT0ctVkhJdDNYcUdtMzlfMVJ5enZzemVLU0hyS1Z4R1RmT0FhTlNoVS1nOGs?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "LG Electronics became an official Nvidia cooling partner.",
+          "segments": [
+            {
+              "text": "LG Electronics was selected as an official partner for Nvidia's AI data center cooling solutions, including 2.5MW-class CDU systems.",
+              "sources": [
+                {
+                  "title": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 선정",
+                  "link": "https://n.news.naver.com/mnews/article/366/0001194544?sid=105",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -128,10 +174,27 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Oracle's PeopleSoft faced expanded cyberattacks.",
+          "lead": "Wall Street saw gains as investors bought AI stocks.",
           "segments": [
             {
-              "text": "ShinyHunters hackers reportedly expanded their attacks on Oracle's PeopleSoft, as confirmed by Google.",
+              "text": "Microsoft rallied, contributing to a higher close on Wall Street as investors continued to favor AI-related stocks.",
+              "sources": [
+                {
+                  "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies",
+                  "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Oracle's PeopleSoft faced expanded hacker attacks.",
+          "segments": [
+            {
+              "text": "ShinyHunters hackers reportedly expanded their attacks on Oracle's PeopleSoft, according to Google.",
               "sources": [
                 {
                   "title": "ShinyHunters hackers expanded attacks on Oracle’s PeopleSoft, Google says",
@@ -147,63 +210,36 @@
       ]
     },
     {
-      "label": "Defense / Aerospace",
+      "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "Boeing identified a software glitch in its 737 MAX aircraft.",
+          "lead": "China's memory makers are seeking scale and funding.",
           "segments": [
             {
-              "text": "Boeing flagged a software glitch affecting the landing navigation feature of its 737 MAX, as reported by the WSJ.",
+              "text": "Chinese memory manufacturers are actively pursuing scale and funding to bridge the gap with global leaders in the industry.",
               "sources": [
                 {
-                  "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
-                  "link": "https://www.investing.com/news/stock-market-news/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-reports-4918620",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "DIGITIMES Insight: China's memory makers seek scale, funding to close the gap with global leaders",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0JwQTNINjVpaHZPN0c4VG1tMnRxMlRmTGg2V1pLZ29MNFRlLVI5U0xwWC1LaURBODgwZno3OVlaWDhnZDFxNjZDemM0cl92TGNNNzBmWHNmRXNLcFZKb3pWQ1dBd29HNXhNQi1XTDNUbFBqbU5HZ3VEZTlfMWVzcHBCTzQwR2tIc0haVW1n?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Autos / EVs",
-      "bullets": [
+        },
         {
-          "lead": "Hyundai announced a strategy for re-entering the Chinese market.",
+          "lead": "DRAM outlook shows a split between Acer and Phison.",
           "segments": [
             {
-              "text": "Hyundai declared a strategy for re-entering China, emphasizing thorough localization efforts.",
+              "text": "Acer and Phison hold differing views on the DRAM market outlook as PC memory supply eases.",
               "sources": [
                 {
-                  "title": "[뉴(NEW) 희망의시대] \"철저한 현지화\" 中 재도약 선언한 현대차",
-                  "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7184914",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Energy / Commodities",
-      "bullets": [
-        {
-          "lead": "Gold Fields is reportedly pursuing a takeover of Northern Star.",
-          "segments": [
-            {
-              "text": "Gold Fields has approached Northern Star regarding a potential takeover, according to Bloomberg.",
-              "sources": [
-                {
-                  "title": "Gold Fields approaches Northern Star over potential takeover, Bloomberg reports",
-                  "link": "https://www.investing.com/news/stock-market-news/gold-fields-approaches-northern-star-over-potential-takeover-bloomberg-reports-4918575",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Acer, Phison split on DRAM outlook as PC memory supply eases",
+                  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSUpXRl9qemM4WHV2eW5ibVFsa0kydkdWaW96TGR6ei1idTZTWlptRV9CV0l4M0pjeXZqc1dtUU9Fb1pCdkc0SDlaT1BZLWszVXRwMERGNnF0S01mWWJUTGx3cUxrRF9nTzNpU29sUllGejJPdjFWX2s2WUxUVUp5Q1FMVW9Udw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -216,8 +252,14 @@
   "watchlist": [
     {
       "name": "Fed",
-      "note": "Watch for further commentary on inflation and interest rate policy given rising bond yields.",
+      "note": "Continued monitoring of bond yields and inflation data will be crucial for rate expectations.",
       "sources": [
+        {
+          "title": "Stocks Are Defying Surging Bond Yields. Here’s What History Says Could Come Next.",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZi11dmRDaGtOclFJMzJhSmlNSnVpdnFkQkZpeGFxbkh6c0ZTRW1tZ1JKNTFvVk1ULTF4X3FXb2VqcnV2dzIzUmp6dmxndlFOazNVUFhGVkluaFRyRG1ERlVTM3BPU3BWMllpZzRqRC1iZnVxU0VnN0thOUxvaVFjdDhaX3ZSTnlHRHA1eEdNQXVTYXlDYUNJZHdYNmVqR3d6X1c5T0Q0ZmN1X3BVNW5fVmtpN1huWWVQVmxScHBGaUNFQnc?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
         {
           "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology",
           "link": "https://seekingalpha.com/news/4647295-real-estate-stocks-slump-amid-rising-bond-yields-sector-rotation-into-technology?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
@@ -229,58 +271,94 @@
           "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
           "source": "CNBC Finance",
           "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        },
+        {
+          "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXVoVUxnbVRWNlVLbFMtQlpVRG16LVdXaUJXUHZmTU9YWG9lQjAxcmpUT28tbzdfTHFEbDdmenljaFZyZFExNF92dnFDbTA4a1pGandBZ2pzakRBQ28tMFdodzFJYzVDZzFzSmk5T3d1U19xOWplZ2RtMGxyR1NOZkR6c0pQeVFBT0ctVkhJdDNYcUdtMzlfMVJ5enZzemVLU0hyS1Z4R1RmT0FhTlNoVS1nOGs?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "The company's ecosystem expansion through partnerships like LG Electronics indicates ongoing AI infrastructure growth.",
+      "sources": [
+        {
+          "title": "LG전자, 엔비디아 AI 데이터센터 냉각 공식 파트너 선정",
+          "link": "https://n.news.naver.com/mnews/article/366/0001194544?sid=105",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "China Consumer Stocks",
+      "note": "Watch for further shifts in investor sentiment as AI continues to draw capital away from traditional consumer sectors.",
+      "sources": [
+        {
+          "title": "China consumer stocks near decade lows as investors pile into AI",
+          "link": "https://www.investing.com/news/stock-market-news/china-consumer-stocks-near-decade-lows-as-investors-pile-into-ai-4918679",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZldHZF9yQXljZXQ2UlBXaHF6cXNEWk9DOWxVZWlvR2pfV2ZvamNzeUtoR1ZOelJ6aE1QbkVHclJVRmZJYXRqOWNkWXNyZ2thQnAxZXpScE5OWThZQWl3Q1JJRlZQaGpiOHRWajdvVUFJbkRPYUtqMFkyS1ZWX1RNUXVNQWNVVnlJd3BMNzRleXB1bkhvSF9JTk1fRDhWTGdmeTRCbjAwT2VwWUd5R3htd25BcHQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil Prices",
+      "note": "Geopolitical developments, particularly regarding the Strait of Hormuz, will impact crude oil prices.",
+      "sources": [
+        {
+          "title": "Trump Rejects Iran’s Hormuz Deal as Houthis Target Riyadh",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSmVDNTZYTWZqZkItVlQ4Z2wwbUljX3FjVU5xQVlHTUhzOUJ5OS1vWk1uZ2JpYUdXOFA5WVg0RzZ1VFl5YW9CV2Nhc2pPOHpGX2drYUVFS3ZuSVdnWDZqQkxZcWlpOGR0Y3ZLNWhEOS1pWjZ1MzhkdGZ3NTlLaDliOGxPREdjZHd5N1VObU1UWWZvVHVPNjlvbl85VG9vSmVucEgwRUt1OXhKZmZ0Y3pQWQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
+          "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        },
+        {
+          "title": "Oil Prices Fall for Fourth Day as Supply Concerns Ease",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEZWRkFoeVdVQnQtNnE2OXRQM2ViMkhkdk41di05ZWhjQXgwRGJFaW12REM2ZnVxMl9zYUR6Vlh2NVVJRFk4X2RUUk9HRXZDUVVHWmw0YjRlcDFsTTlwQjYxZGlwRnVXTUUxTnU5ZzFXMy02Ri1TNkE3Y1ZTa29yWFR2VVZoYWQ0eEttX081M0w5bkpIZ1FmNFdOOGNINWR3LW9N?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Boeing",
-      "note": "Monitor developments regarding the 737 MAX software glitch and potential impacts on operations.",
+      "note": "The identified 737 Max software glitch may prompt delays and warrants close observation.",
       "sources": [
+        {
+          "title": "Boeing Identifies 737 Max Software Glitch That May Prompt Delays",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc0F6WVprb1RKTzVFWDhrUy0wbGVvUE5HNldBZ3NYRFhVdUZ6RzZiMjlwQ2F1VzkwVkF0N1JVeXFRMWl0M2pmV1ZFTndRWHdhY1RoVE9lUjM0cF9BR0hUWVk4ZGI2U1luUlltVFd2ZmpHb2U2VnZnNVBEMjRxRENBU2tiOFlGN0FyZkx2ZWlNUXNQSGdoZWwtTjA4dmFVd0NyT29WWGprRUJucUpzbXZ5YnVNdldLUQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
         {
           "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
           "link": "https://www.investing.com/news/stock-market-news/boeing-flags-737-max-software-glitch-affecting-landing-navigation-feature-wsj-reports-4918620",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Oracle",
-      "note": "Observe any further statements or actions regarding the reported cyberattacks on PeopleSoft.",
-      "sources": [
+        },
         {
-          "title": "ShinyHunters hackers expanded attacks on Oracle’s PeopleSoft, Google says",
-          "link": "https://www.investing.com/news/stock-market-news/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says-4918395",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Iran",
-      "note": "Geopolitical developments concerning the Strait of Hormuz remain a key watch point.",
-      "sources": [
-        {
-          "title": "Trump rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
-          "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Hyundai",
-      "note": "Track the progress of its localization strategy and re-entry into the Chinese market.",
-      "sources": [
-        {
-          "title": "[뉴(NEW) 희망의시대] \"철저한 현지화\" 中 재도약 선언한 현대차",
-          "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7184914",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Boeing flags 737 MAX software glitch affecting landing navigation feature, WSJ reports",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY19kcWVrRFgwYVV3YUthaWNIMWxkdHNVbWs0d2ZRTjZPOS1pRzlYVTJUeG43WnZ1Nnd0N3NfMlZ4RkJ4a1E4TXcyQ2RXQVBYOWExYXVRTkRSdXFxRkJFSzNvRjA4VFp1WGdocjVwUDdRWVJiVldMa1JnRklDYTlLLXF6SEN4RFFqdTVfUkh2RkNVV3JuVnNUZmtIdlNOeElrNE10bGpSOFNiRkI2RUVaVVhIcEhaQnY0UFhQd05kQjFzd0dzMFNZajZFWTQ2VS1rRldmN1dyUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -392,6 +470,6 @@
       "change_pct": -0.13
     }
   ],
-  "story_count": 19,
-  "bucket_count": 8
+  "story_count": 50,
+  "bucket_count": 11
 }
