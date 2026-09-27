@@ -1,44 +1,96 @@
 {
-  "generated_at": "2026-09-26T01:20:20+00:00",
-  "tweet_count": 7,
-  "account_count": 2,
+  "generated_at": "2026-09-27T01:14:25+00:00",
+  "tweet_count": 10,
+  "account_count": 5,
   "themes": [
     {
-      "topic": "Tesla FSD quality concerns",
+      "topic": "Qualcomm evaluating Samsung Foundry 2nm process",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "Tesla owners are reporting a recent decline in Full Self-Driving (FSD) quality, with instances of incorrect navigation and aggressive lane changes causing safety concerns and leading to reconsideration of Tesla purchases.",
+      "subcategory": "foundry",
+      "summary": "Qualcomm is closely partnering with both TSMC and Samsung Foundry, actively evaluating Samsung's 2nm process technology for integration into its future products, reaffirming Samsung as a key partner.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2103607753684275529",
-          "text": "One of the things @PhotonCap and I talked about today was how FSD quality seems to have gotten strangely worse lately.\n\nIn his case, his Tesla actually took the wrong way and ended up driving against traffic. I have also had a few scary moments myself, including one where FSD tri"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2104003331656204795",
+          "text": "Chris Patrick, Senior Vice President and General Manager of Mobile Handsets at Qualcomm, said in an interview with the press that \"Qualcomm maintains close partnerships not only with TSMC but also with Samsung Foundry, and we are doing quite a lot of in depth work related to Sams"
         }
       ]
     },
     {
-      "topic": "Discussion of HBM architecture and related interfaces",
+      "topic": "CXL DRAM pooling impact on eSSD capacity in AI clusters",
       "category": "sectors",
       "subcategory": "memory",
-      "summary": "An analyst clarifies that their expert call articles focus on general technical topics like SerDes, equalizers, and HBM architecture, emphasizing that all information is derived from public sources and contains no material nonpublic information (MNPI).",
+      "summary": "The expansion of CXL DRAM pooling raises questions about how much data currently stored on eSSDs could shift to DRAM, potentially affecting the total eSSD capacity and the mix of high-performance and high-capacity drives needed for AI clusters.",
       "mentions": [
         {
           "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2103598210183029004",
-          "text": "Just to clarify, since there seems to be some misunderstanding: my expert call articles focus on general technical topics. The discussion on interfaces mainly covers SerDes, equalizers, and how TSVs shape HBM architecture.\n\nWhen we discuss a company’s technology, it is primarily "
+          "url": "https://x.com/damnang2/status/2103982625463619587",
+          "text": "As CXL DRAM pooling expands, what data currently stored on eSSDs could move into DRAM? \n\nHow much could this affect the total eSSD capacity needed across AI clusters and the mix of high performance and high capacity drives?"
         }
       ]
     },
     {
-      "topic": "Elon Musk's Starship aspirations",
+      "topic": "Elon Musk's prediction on Moon and Mars production acceleration",
       "category": "out_of_ai",
       "subcategory": "space",
-      "summary": "Elon Musk expresses a wish for Starship to \"have the Mandate of Heaven,\" referencing the successful progression of the SpaceX Starship program.",
+      "summary": "Elon Musk predicts that production on the Moon and Mars will accelerate significantly year-over-year until natural limits are encountered.",
       "mentions": [
         {
           "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2103537377239015827",
-          "text": "May Starship have the Mandate of Heaven https://t.co/YTgVhc9PY5"
+          "url": "https://x.com/elonmusk/status/2103960796942516451",
+          "text": "Production on the Moon &amp; Mars will accelerate by far more than double every year, until natural limits are encountered"
+        }
+      ]
+    },
+    {
+      "topic": "Grok AI's financial management capabilities",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk states that Grok AI is capable of managing finances.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2103958249922072840",
+          "text": "Grok @Bot can manage your finances"
+        }
+      ]
+    },
+    {
+      "topic": "Terafab development gaining momentum",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "Discussions with semiconductor equipment company engineers suggest that developments related to Terafab, a concept for advanced semiconductor manufacturing, may be starting to gain serious momentum.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2103931624614449483",
+          "text": "I had some fascinating conversations with engineers here in Silicon Valley today. \n\nThe most interesting topic was Terafab. \n\nBased on what someone at a semiconductor equipment company told me, it sounds like things may be starting to move in earnest.\n\nI’ll share more on Substack"
+        }
+      ]
+    },
+    {
+      "topic": "DeepSeek v4.1 Flash throughput on GB300 GPUs",
+      "category": "sectors",
+      "subcategory": "gpu",
+      "summary": "A critique of ZeroHedge's ROIC calculation highlights that DeepSeek v4.1 Flash models can achieve 8x-10x higher output token throughput per GPU on a GB300 compared to the 2700 output tokens/s used in the calculation.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2103904838916706778",
+          "text": "Top-tier sleight of hand from ZeroHedge\nHe uses 2700 output tokens/s per GPU for super small and cheap models like DeepSeek v4.1 Flash to calculate ROIC (V4.1 can have 8x-10x higher output token throughput per GPU on a GB300) https://t.co/QkYamPv1qp"
+        }
+      ]
+    },
+    {
+      "topic": "Elon Musk's prediction of America becoming a one-party state",
+      "category": "out_of_ai",
+      "subcategory": "geopolitics",
+      "summary": "Elon Musk expresses concern that current events will lead to America becoming a one-party state.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2103894760838897922",
+          "text": "This is exactly what they will do. \n\nAfter that, America will become a one-party state."
         }
       ]
     }
