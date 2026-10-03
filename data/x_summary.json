@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-10-02T02:05:15+00:00",
-  "tweet_count": 9,
-  "account_count": 3,
+  "generated_at": "2026-10-03T01:48:53+00:00",
+  "tweet_count": 10,
+  "account_count": 5,
   "themes": [
     {
-      "topic": "NVIDIA's aggressive hiring and expansion",
+      "topic": "Laser ASPs and Michael Hurlston's decision",
       "category": "sectors",
-      "subcategory": "gpu",
-      "summary": "NVIDIA is aggressively expanding its team, with plans to hire at least six people in a specific area, indicating continued growth despite its current market capitalization.",
+      "subcategory": "optical",
+      "summary": "Discussion around the potential for squeezing Average Selling Prices (ASPs) of lasers, questioning if Michael Hurlston will initiate such a move.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2105788894667264487",
-          "text": "Today, an NVIDIA HR contact I know reached out and asked if I would be interested in making a move.\n\nThey are expanding the team, and from what I heard, they are planning to hire at least six people just for roles related to my area.\n\nNVIDIA is already the largest company in the "
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2106158758938427770",
+          "text": "They can easily squeeze the ASPs of their lasers\nWill Michael Hurlston pull the trigger??"
         }
       ]
     },
     {
-      "topic": "Forecast of 2028 memory downcycle",
+      "topic": "TSMC's potential Terafab participation and Intel collaboration",
       "category": "sectors",
-      "subcategory": "memory",
-      "summary": "An article forecasting a 2028 memory downcycle has gained significant traction, helping readers understand current market dynamics following $MU earnings. The author emphasizes a technology-grounded approach to memory market outlooks.",
+      "subcategory": "foundry",
+      "summary": "Rumors suggest TSMC is exploring participation in Terafab, with potential expansion into Texas to support this initiative. However, collaboration efforts with Intel on Terafab are reportedly not progressing.",
       "mentions": [
         {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2105760297181143347",
-          "text": "My article on the 2028 memory downcycle, published just three weeks ago, has already reached 230K views. I was especially happy to hear from so many people after yesterday’s $MU earnings that the earlier piece helped them make sense of what is happening now.\n\nMemory should not be"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106149596418470138",
+          "text": "Culpium: TSMC is looking to participate in Terafab.\n\nCulpium: Recent rumors of TSMC expanding into Texas are tied to efforts to support Terafab.\n\nCulpium: Collaboration with Intel on Terafab is not making progress. https://t.co/FJ2oKQ6ZjV"
         }
       ]
     },
     {
-      "topic": "Framework for bond market bottoming",
+      "topic": "SpaceX's taxpayer savings",
       "category": "out_of_ai",
-      "subcategory": "macro",
-      "summary": "A framework suggests bonds will bottom when market fear shifts from continued selloff in a hot economy to concerns about a lack of rally during an economic slowdown, signaling a buying opportunity.",
-      "mentions": [
-        {
-          "handle": "@citrini",
-          "url": "https://x.com/citrini/status/2105757136387182885",
-          "text": "The best framework for when bonds will bottom is when the crowd’s fear shifts broadly from their continued selloff in a hot economy to concerns that they won’t rally if we have an economic slowdown. \n\nIf people start saying that, it’s time to buy."
-        }
-      ]
-    },
-    {
-      "topic": "Grok AI's capabilities and improvements",
-      "category": "sectors",
-      "subcategory": "software",
-      "summary": "Elon Musk highlights Grok AI's capabilities as an amazing assistant and notes major speed improvements.",
+      "subcategory": "space",
+      "summary": "Elon Musk highlights that the actual amount of money SpaceX has saved taxpayers is now even higher.",
       "mentions": [
         {
           "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2105755817555436014",
-          "text": "Major speed improvements to @Bot"
+          "url": "https://x.com/elonmusk/status/2106100526744240519",
+          "text": "Actual amount that SpaceX saved taxpayers is even higher now"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink V3 deployment",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Elon Musk shares a positive view of the Starlink V3 deployment.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106098911840772412",
+          "text": "Beautiful view of Starlink V3 deployment"
         }
       ]
     }
