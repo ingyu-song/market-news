@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-04T00:20:03+00:00",
+  "generated_at": "2026-10-04T02:21:40+00:00",
   "mode": "daily",
   "for_date": "2026-10-04",
-  "headline": "China's DUV Hoarding, Trump's Economic Views, and Samsung's Q3 Outlook Drive Markets",
-  "summary": "Global markets are navigating geopolitical tensions as China's DUV stockpiling draws US ire and fuel export curbs tighten energy supplies. Former President Trump's economic commentary and policy proposals are shaping US political discourse. Meanwhile, high interest rates continue to pressure Korean equities, though Samsung Electronics projects strong Q3 earnings.",
+  "headline": "US Tightens AI Chip Controls, China Advances Domestic AI, Fed Minutes Show Inflation Fears",
+  "summary": "US intensifies AI server export controls, seizing $400M in Nvidia equipment, while China pushes its own AI GPU development. Fed and ECB minutes are expected to reveal ongoing inflation concerns, even as market rate hike bets fade. IG Group shares plunged 27% after slashing 2026 guidance.",
   "sections": [
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "China's DUV acquisition raises US concerns.",
+          "lead": "US intensifies crackdown on AI server smuggling to China.",
           "segments": [
             {
-              "text": "China is reportedly stockpiling 340 DUV lithography machines by exploiting regulatory loopholes, drawing strong opposition from the United States.",
+              "text": "US authorities arrested individuals suspected of smuggling $400 million worth of Nvidia AI servers to China, highlighting ongoing export control enforcement.",
               "sources": [
                 {
-                  "title": "\"규제 허점 파고들어 340대 비축\"…중국 반도체, DUV 싹쓸이에 미국 반발",
-                  "link": "https://n.news.naver.com/mnews/article/138/0002243610?sid=105",
+                  "title": "美, 4천억 원' 상당 엔비디아 AI 서버 中 밀수 혐의 기업인 체포",
+                  "link": "https://n.news.naver.com/mnews/article/422/0000912428?sid=104",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -26,79 +26,28 @@
           ]
         },
         {
-          "lead": "China tightens fuel exports, impacting global markets.",
+          "lead": "China advances its domestic AI chip capabilities.",
           "segments": [
             {
-              "text": "China has resumed curbs on fuel exports, a move expected to further tighten global energy markets.",
+              "text": "Biren is preparing its BR20X chip, aiming to challenge Nvidia in the AI GPU market and reduce China's reliance on foreign technology.",
               "sources": [
                 {
-                  "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
-                  "link": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "G7 to release oil reserves following Trump's threats.",
-          "segments": [
-            {
-              "text": "The G7 nations are set to release millions of barrels of oil and diesel from emergency reserves after threats from former President Trump.",
-              "sources": [
-                {
-                  "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-                  "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                },
-                {
-                  "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
-                  "link": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "bullets": [
-        {
-          "lead": "Trump's economic stance and policy proposals emerge.",
-          "segments": [
-            {
-              "text": "Former President Trump claims the economy suffers from a \"public relations problem\" amid high prices and slow hiring, while proposing a $40 trillion plan that could impact Bitcoin.",
-              "sources": [
-                {
-                  "title": "Trump Confirms Shocking $40 Trillion Plan That Could Be About To Explode The Bitcoin Price",
-                  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeks5X3FubmFaSnBxb1RhaWdpZDdXdllrSGJVd3lUaE4wSGh5cWhNMDRRa1lTUWZrY3o3OUJJNXFQMmlGMllEd0dUMUVIU2g0dGtGanlmTERpV1NsM3FQc2gzYkRSQ2YxS3pTRlZxNXZMMmRLaWctWE1CWXRDWGtBak1Idi1Pa29oSzBkbDRHWTNGLUZKMlhKalEyMi1PTWp6SkxYR0FITGlfMjczam50RkNOTy1uYnpmbEFrb2xWRlBCdXFKTExHaDVxQUMyTG9lWVNZ?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring",
-                  "link": "https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTG1rYklkellLN1ROeExuTmNpZktRS0puMVRwVmZ3LXk2MHB6Z1BxVHFldU1jSXkyVTlKTzU3Z0RpNlNocjNBRzR4SFVwbFpEcGRVZE8xUTVwd1hpbGFLd3lINmRGNkk5THc4bzZ6aVV0RG9sMkR3RlVWZlVLbHJ0ZFZ5NU42Tk9CU3d2d3FRNA?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
             },
             {
-              "text": "Trump also promised $100 checks for 20 million seniors for Medicare.",
+              "text": "Elon Musk and Jensen Huang anticipate China closing the lithography gap by 2030, indicating a long-term challenge to Western dominance in chip manufacturing.",
               "sources": [
                 {
-                  "title": "Trump promises $100 checks for 20 million seniors for Medicare",
-                  "link": "https://www.axios.com/2026/10/03/trump-medicare-100-seniors-improvement-fund",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Elon Musk, Jensen Huang see China closing lithography gap by 2030",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWXN4eHI4Z2dEYzluaUVfVDBRS2tIVEdldndneHFQS3hpMVV4amNsX3k4STJNcTViSWNoWXUzN2VvMFRZeFhwckYtOGN4dENxS0FmY1I5VGtYVUFDUjJLQk1ST1Z1SmphLTdHcFdYZFNSSXdCUzBCQjNQZHNkQ0xQcXVaYVFTWVdUSWlZUW5WX2E?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -106,10 +55,10 @@
           ]
         },
         {
-          "lead": "Elon Musk discusses TSMC and Tesla initiatives.",
+          "lead": "Elon Musk discusses TSMC collaboration for a Texas chip factory.",
           "segments": [
             {
-              "text": "Elon Musk confirmed ongoing discussions with TSMC regarding his Texas chip factory project.",
+              "text": "Elon Musk confirmed discussions with TSMC regarding his Texas chip factory project, potentially impacting US semiconductor manufacturing capacity.",
               "sources": [
                 {
                   "title": "Musk confirms talks with TSMC over his Texas chip factory project",
@@ -121,109 +70,7 @@
               "x_mentions": []
             },
             {
-              "text": "Musk also stated that Tesla is actively working to prevent robotaxis from running over cats at night.",
-              "sources": [
-                {
-                  "title": "Elon Musk says Tesla is trying to prevent robotaxis from running over cats at night",
-                  "link": "https://www.businessinsider.com/elon-musk-tesla-trying-to-stop-robotaxis-from-hitting-cats-2026-10",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "High interest rates impact Korean equities and AI ETFs.",
-          "segments": [
-            {
-              "text": "High interest rates are challenging the KOSPI's 7000-point level, with Samsung Electronics' performance being a key factor.",
-              "sources": [
-                {
-                  "title": "[증시 전망] 삼성전자 실적이 '7000피' 지킬까…고금리와 맞붙는 코스피",
-                  "link": "https://www.the-today.com/news/articleView.html?idxno=91169",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "The performance of AI-focused ETFs in October will be significantly influenced by high interest rates, bottlenecks, and supply-demand dynamics.",
-              "sources": [
-                {
-                  "title": "AI라고 다 같은 AI가 아니다⋯고금리ㆍ병목ㆍ수급이 가를 10월 ETF 성과",
-                  "link": "https://www.etoday.co.kr/news/view/2632040",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Bessent downplays yield and AI bubble concerns.",
-          "segments": [
-            {
-              "text": "Investor Bessent has downplayed worries regarding rising yields and concerns about an AI bubble.",
-              "sources": [
-                {
-                  "title": "Bessent Downplays Worries on Rising Yields, AI Bubble Concerns",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaThxNHd6Y1VVQWVGeExyUGRBa3hubktXaVNpQVFlVzhQaUh3UjFNWWdXMVo3b203NFllZmRUU0VwcG9FUjNHNE9jQy1meS1kMENnSDdYVlNMTkRWTGcweEdZVzIwYUthZzk3YlY2QTVSWjRfX2swRktOb1dwRFNjekJ5RVdSOXU2ek1ud2J2cWstRG5JYUpQNnZNcmhMSUFlNTlaS1NsSnJKZXBxOXVTUy1R?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "AI is significantly redefining Wall Street jobs, boosting demand for new skills by 1,721%.",
-              "sources": [
-                {
-                  "title": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
-                  "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "US Semis / AI Chips",
-      "bullets": [
-        {
-          "lead": "China's Biren challenges Nvidia in AI GPUs.",
-          "segments": [
-            {
-              "text": "China's Biren is preparing its BR20X chip, intensifying the country's challenge to Nvidia in the AI GPU market.",
-              "sources": [
-                {
-                  "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
-                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTG1rYklkellLN1ROeExuTmNpZktRS0puMVRwVmZ3LXk2MHB6Z1BxVHFldU1jSXkyVTlKTzU3Z0RpNlNocjNBRzR4SFVwbFpEcGRVZE8xUTVwd1hpbGFLd3lINmRGNkk5THc4bzZ6aVV0RG9sMkR3RlVWZlVLbHJ0ZFZ5NU42Tk9CU3d2d3FRNA?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "TSMC explores Terafab participation.",
-          "segments": [
-            {
-              "text": "Rumors suggest TSMC is exploring participation in Terafab, potentially expanding into Texas to support this initiative, though collaboration efforts with Intel on Terafab are also being discussed.",
+              "text": "Rumors suggest TSMC is exploring participation in Terafab, with potential expansion into Texas to support this initiative, possibly involving collaboration with Intel.",
               "sources": [],
               "x_mentions": [
                 {
@@ -237,29 +84,214 @@
       ]
     },
     {
-      "label": "Earnings / Guidance",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Samsung Electronics projects strong Q3 earnings.",
+          "lead": "Trump continues to influence policy discussions and public sentiment.",
           "segments": [
             {
-              "text": "Samsung Electronics is projected to report \"dream earnings\" for its third-quarter operating profit.",
+              "text": "Former President Trump shared a Republican senator's phone number amidst a feud over time switch legislation, demonstrating his direct engagement in political disputes.",
               "sources": [
                 {
-                  "title": "[오늘의 딜 PICK] [영상] 삼성전자, '꿈의 실적' 쓴다…3분기 영업이익 ...",
-                  "link": "https://dealsite.co.kr/articles/169894",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump shares Republican senator's phone number in feud over time switch",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOG5fMmFCNGZWV1djeWt5OXluem9lNTh6bjdxcV9lcFV5RklqdDFpQjVReUF0MWxTY3FubzNKQnJPNmlyZHhmWUlsT2J2enRJTWpacG1NQUxNdUJ3TmZXbTBrR2FfMkk1bHZDRVdRc2pEUWx0cEdOVkR4a1FhbFRGb29Zd1pROHMxekx0Um1QbF8zUU9vc1lyM096eXVtanpYS2RGOFhIaFdUU01PcDJEcU93?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
             },
             {
-              "text": "This strong performance is crucial for the KOSPI amid high interest rate pressures.",
+              "text": "Trump promised $100 checks for 20 million seniors for Medicare, indicating potential social spending policies under a future administration.",
               "sources": [
                 {
-                  "title": "[증시 전망] 삼성전자 실적이 '7000피' 지킬까…고금리와 맞붙는 코스피",
-                  "link": "https://www.the-today.com/news/articleView.html?idxno=91169",
+                  "title": "Trump promises $100 checks for 20 million seniors for Medicare",
+                  "link": "https://www.axios.com/2026/10/03/trump-medicare-100-seniors-improvement-fund",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump critiques the current economic narrative.",
+          "segments": [
+            {
+              "text": "Trump stated the economy has a \"public relations\" problem amid high prices and slow hiring, framing current economic conditions as a perception issue.",
+              "sources": [
+                {
+                  "title": "Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring",
+                  "link": "https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "China resumes fuel export curbs, impacting global energy markets.",
+          "segments": [
+            {
+              "text": "China has resumed curbs on fuel exports, a move expected to tighten global energy markets.",
+              "sources": [
+                {
+                  "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
+                  "link": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "G7 nations respond to energy supply threats.",
+          "segments": [
+            {
+              "text": "The G7 plans to release millions of barrels of oil and diesel following a threat from former President Trump, aiming to stabilize energy prices and supply.",
+              "sources": [
+                {
+                  "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+                  "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Iraq reported transporting 2 million barrels of crude through the Strait of Hormuz, a key chokepoint for global oil supply.",
+              "sources": [
+                {
+                  "title": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz",
+                  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWFXeUhOM2ZldTc1dEhPdGxOcjZ4MldhbHl1aWI3UE40akNDQnA3SWNHS2FrNjYtTFJDR2VVeUxsWnkxRXpMbU1jZUFlZFg5Y0xpSndJNUs4WTZWdDE1dXFJczJMUEVMRUVkMHVrZnFkdEMtMXZjSWRWdS1fb0R2enktclJCNlMwalZCREplbW5QdXlMT1lGbU43a2llczVqbS1pNW45RjN2ak1LV3JaOGxHWVhzLW56eTN4SGFiUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Central bank minutes reveal ongoing inflation concerns.",
+          "segments": [
+            {
+              "text": "Minutes from the Fed and ECB are expected to show persistent inflation fears, even as market bets on further rate hikes begin to fade.",
+              "sources": [
+                {
+                  "title": "Fed, ECB Minutes to Show Inflation Fears as Hike Bets Fade",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFpSQnpjU1hLeUJYN1dqN2VnbWhJV2FvMW03eFA4ZGk3TUE2ZlZnZFBoVVJTcVUySlZDeUM3dWViTDV5dlliNTAzRkw4SGhYOEwxZDBOcVNzdFlHRklvZGlaV1hUQmZHU3NzTGw3LXdSY1JFbm94czZfak43N2VDU1ZSTjYwd0h5MGVNYl9wdVN5MEltWGxWRlJTZm53SDMyS29ibXRXbTJzbVZU?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Market participants downplay rising yields and AI bubble concerns.",
+          "segments": [
+            {
+              "text": "Bessent downplayed worries regarding rising yields and concerns about an AI bubble, suggesting a more tempered outlook on these macro risks.",
+              "sources": [
+                {
+                  "title": "Bessent Downplays Worries on Rising Yields, AI Bubble Concerns",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaThxNHd6Y1VVQWVGeExyUGRBa3hubktXaVNpQVFlVzhQaUh3UjFNWWdXMVo3b203NFllZmRUU0VwcG9FUjNHNE9jQy1meS1kMENnSDdYVlNMTkRWTGcweEdZVzIwYUthZzk3YlY2QTVSWjRfX2swRktOb1dwRFNjekJ5RVdSOXU2ek1ud2J2cWstRG5JYUpQNnZNcmhMSUFlNTlaS1NsSnJKZXBxOXVTUy1R?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "South Korea's exports show strong performance driven by semiconductors.",
+          "segments": [
+            {
+              "text": "South Korea's September exports reached $120.9 billion, with strong performance in semiconductors complemented by a rebound in non-semiconductor items.",
+              "sources": [
+                {
+                  "title": "9월 수출 1천209억 달러…반도체 강세 속 비반도체 품목도 반등",
+                  "link": "https://kidd.co.kr/news/247617",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "IG Group shares plummeted following a guidance cut.",
+          "segments": [
+            {
+              "text": "IG Group shares dove 27% after the trading platform significantly slashed its 2026 guidance, signaling weaker future performance.",
+              "sources": [
+                {
+                  "title": "IG Group Shares Dive 27% After Trading Platform Slashes 2026 Guidance",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEZ6LXdWc2h0UFlqYVZla0IwUUVTR0c3R0NWbUZrNEtsRlliLUVlUTBJNHdlWms5Zy13bVdjV2VxbFlqWmFCbjFWVVFIaTJiNWtKZnN4REFYZ0I1bmxIbzdKUWwycjZoXzBLeWNzdEMwUEtDZ2VkR2xGRzBncDlpVjZJd2dqRWt5YU16eWR3Znp6cXVZczZ0TWFHRWlUNUN6X1dNSFNCNXV0TDVFN2ItM0p1WURhdw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Samsung Electronics earnings are a key focus for Korean equities.",
+          "segments": [
+            {
+              "text": "South Korea's KOSPI is testing the 7,000-point level ahead of Samsung Electronics' earnings report, with foreign investors showing renewed interest.",
+              "sources": [
+                {
+                  "title": "[증시 프리즘] 삼전 실적 앞둔 코스피, '7천피' 안착 시험대…외인 돌아...",
+                  "link": "https://www.moneystorm.kr/news/articleView.html?idxno=7033",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "AI Infrastructure / Hyperscaler Capex",
+      "bullets": [
+        {
+          "lead": "Amazon commits significant investment to AI data centers.",
+          "segments": [
+            {
+              "text": "Amazon is investing $1 billion to address conflicts related to AI data centers and expand community support, indicating continued high capex in AI infrastructure.",
+              "sources": [
+                {
+                  "title": "아마존, AI 데이터센터 갈등에 10억 달러 투입…지역사회 지원 확대",
+                  "link": "https://www.jemin.com/news/articleView.html?idxno=843809",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -273,12 +305,18 @@
   ],
   "watchlist": [
     {
-      "name": "Samsung Electronics",
-      "note": "Q3 earnings guidance is strong, but macro headwinds (high rates, foreign selling) remain.",
+      "name": "Nvidia",
+      "note": "US export controls and China's domestic AI chip efforts will continue to impact its market.",
       "sources": [
         {
-          "title": "[증시 전망] 삼성전자 실적이 '7000피' 지킬까…고금리와 맞붙는 코스피",
-          "link": "https://www.the-today.com/news/articleView.html?idxno=91169",
+          "title": "Biren readies BR20X, sharpening China's AI GPU challenge to Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTG1rYklkellLN1ROeExuTmNpZktRS0puMVRwVmZ3LXk2MHB6Z1BxVHFldU1jSXkyVTlKTzU3Z0RpNlNocjNBRzR4SFVwbFpEcGRVZE8xUTVwd1hpbGFLd3lINmRGNkk5THc4bzZ6aVV0RG9sMkR3RlVWZlVLbHJ0ZFZ5NU42Tk9CU3d2d3FRNA?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "美, 4천억 원' 상당 엔비디아 AI 서버 中 밀수 혐의 기업인 체포",
+          "link": "https://n.news.naver.com/mnews/article/422/0000912428?sid=104",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
@@ -287,7 +325,7 @@
     },
     {
       "name": "TSMC",
-      "note": "Discussions with Elon Musk for a Texas chip factory and potential Terafab involvement signal continued strategic importance.",
+      "note": "Discussions with Elon Musk on a Texas factory and potential Terafab participation highlight its strategic importance.",
       "sources": [
         {
           "title": "Musk confirms talks with TSMC over his Texas chip factory project",
@@ -304,8 +342,21 @@
       ]
     },
     {
-      "name": "Energy Sector",
-      "note": "Global oil markets face tightening from China's fuel export curbs and potential G7 reserve releases following geopolitical tensions.",
+      "name": "Fed",
+      "note": "Upcoming minutes will provide further insight into inflation fears and future rate policy.",
+      "sources": [
+        {
+          "title": "Fed, ECB Minutes to Show Inflation Fears as Hike Bets Fade",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFpSQnpjU1hLeUJYN1dqN2VnbWhJV2FvMW03eFA4ZGk3TUE2ZlZnZFBoVVJTcVUySlZDeUM3dWViTDV5dlliNTAzRkw4SGhYOEwxZDBOcVNzdFlHRklvZGlaV1hUQmZHU3NzTGw3LXdSY1JFbm94czZfak43N2VDU1ZSTjYwd0h5MGVNYl9wdVN5MEltWGxWRlJTZm53SDMyS29ibXRXbTJzbVZU?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil",
+      "note": "China's fuel export curbs and G7's strategic releases will influence global energy prices.",
       "sources": [
         {
           "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
@@ -320,21 +371,21 @@
           "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
         },
         {
-          "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
-          "link": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+          "title": "Iraq says it transported 2 million barrels of crude through Strait of Hormuz",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRWFXeUhOM2ZldTc1dEhPdGxOcjZ4MldhbHl1aWI3UE40akNDQnA3SWNHS2FrNjYtTFJDR2VVeUxsWnkxRXpMbU1jZUFlZFg5Y0xpSndJNUs4WTZWdDE1dXFJczJMUEVMRUVkMHVrZnFkdEMtMXZjSWRWdS1fb0R2enktclJCNlMwalZCREplbW5QdXlMT1lGbU43a2llczVqbS1pNW45RjN2ak1LV3JaOGxHWVhzLW56eTN4SGFiUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "AI ETFs",
-      "note": "Performance in October will be critical, influenced by high interest rates, supply bottlenecks, and demand dynamics.",
+      "name": "Samsung Electronics",
+      "note": "Its upcoming earnings report will be a key indicator for the Korean market and the memory sector.",
       "sources": [
         {
-          "title": "AI라고 다 같은 AI가 아니다⋯고금리ㆍ병목ㆍ수급이 가를 10월 ETF 성과",
-          "link": "https://www.etoday.co.kr/news/view/2632040",
+          "title": "[증시 프리즘] 삼전 실적 앞둔 코스피, '7천피' 안착 시험대…외인 돌아...",
+          "link": "https://www.moneystorm.kr/news/articleView.html?idxno=7033",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
@@ -460,6 +511,6 @@
       "change_pct": 0.4
     }
   ],
-  "story_count": 46,
+  "story_count": 40,
   "bucket_count": 12
 }
