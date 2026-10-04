@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-10-03T01:48:53+00:00",
+  "generated_at": "2026-10-04T02:30:41+00:00",
   "tweet_count": 10,
-  "account_count": 5,
+  "account_count": 4,
   "themes": [
     {
-      "topic": "Laser ASPs and Michael Hurlston's decision",
+      "topic": "Intel's early ABF adoption",
       "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Discussion around the potential for squeezing Average Selling Prices (ASPs) of lasers, questioning if Michael Hurlston will initiate such a move.",
+      "subcategory": "abf_substrate",
+      "summary": "Intel was an early adopter of ABF substrate technology, integrating it into their Pentium III processors in 1999.",
       "mentions": [
         {
           "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2106158758938427770",
-          "text": "They can easily squeeze the ASPs of their lasers\nWill Michael Hurlston pull the trigger??"
+          "url": "https://x.com/zephyr_z9/status/2106523263275086310",
+          "text": "Intel was the first company to adopt ABF with their Pentium III in 1999"
         }
       ]
     },
     {
-      "topic": "TSMC's potential Terafab participation and Intel collaboration",
+      "topic": "Google's TPU ASIC business evolution",
+      "category": "sectors",
+      "subcategory": "asic",
+      "summary": "Google's TPU ASIC business is evolving, and its \"scale-across strategy\" warrants close attention.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2106520685673853129",
+          "text": "Two takeaways🧐\n\n1. I plan to dig deeper into Google’s scale-across strategy\n\n2. It’s worth paying close attention to how the TPU ASIC business is evolving."
+        }
+      ]
+    },
+    {
+      "topic": "Starship deploying Starlink V3 satellites",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "SpaceX's Starship is being used for the deployment of Starlink V3 satellites.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106454808676716916",
+          "text": "Starship deploying Starlink V3 satellites https://t.co/TG7b8iHYkY"
+        }
+      ]
+    },
+    {
+      "topic": "Terafab and TSMC in talks",
       "category": "sectors",
       "subcategory": "foundry",
-      "summary": "Rumors suggest TSMC is exploring participation in Terafab, with potential expansion into Texas to support this initiative. However, collaboration efforts with Intel on Terafab are reportedly not progressing.",
+      "summary": "Terafab and TSMC are reportedly engaged in discussions.",
       "mentions": [
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106149596418470138",
-          "text": "Culpium: TSMC is looking to participate in Terafab.\n\nCulpium: Recent rumors of TSMC expanding into Texas are tied to efforts to support Terafab.\n\nCulpium: Collaboration with Intel on Terafab is not making progress. https://t.co/FJ2oKQ6ZjV"
-        }
-      ]
-    },
-    {
-      "topic": "SpaceX's taxpayer savings",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Elon Musk highlights that the actual amount of money SpaceX has saved taxpayers is now even higher.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106100526744240519",
-          "text": "Actual amount that SpaceX saved taxpayers is even higher now"
-        }
-      ]
-    },
-    {
-      "topic": "Starlink V3 deployment",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Elon Musk shares a positive view of the Starlink V3 deployment.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106098911840772412",
-          "text": "Beautiful view of Starlink V3 deployment"
+          "url": "https://x.com/jukan05/status/2106298928769679610",
+          "text": "Elon: Terafab and TSMC are indeed in talks.\n\nDon’t underestimate @tculpan."
         }
       ]
     }
