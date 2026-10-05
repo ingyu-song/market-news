@@ -1,57 +1,70 @@
 {
-  "generated_at": "2026-10-04T02:30:41+00:00",
+  "generated_at": "2026-10-05T01:46:46+00:00",
   "tweet_count": 10,
   "account_count": 4,
   "themes": [
     {
-      "topic": "Intel's early ABF adoption",
+      "topic": "Positive sentiment for Ibiden",
       "category": "sectors",
       "subcategory": "abf_substrate",
-      "summary": "Intel was an early adopter of ABF substrate technology, integrating it into their Pentium III processors in 1999.",
+      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
       "mentions": [
         {
           "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2106523263275086310",
-          "text": "Intel was the first company to adopt ABF with their Pentium III in 1999"
+          "url": "https://x.com/zephyr_z9/status/2106916539589177690",
+          "text": "More love for Ibiden"
         }
       ]
     },
     {
-      "topic": "Google's TPU ASIC business evolution",
+      "topic": "SPCX's vertical integration in datacenter cooling",
       "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Google's TPU ASIC business is evolving, and its \"scale-across strategy\" warrants close attention.",
-      "mentions": [
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2106520685673853129",
-          "text": "Two takeaways🧐\n\n1. I plan to dig deeper into Google’s scale-across strategy\n\n2. It’s worth paying close attention to how the TPU ASIC business is evolving."
-        }
-      ]
-    },
-    {
-      "topic": "Starship deploying Starlink V3 satellites",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "SpaceX's Starship is being used for the deployment of Starlink V3 satellites.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106454808676716916",
-          "text": "Starship deploying Starlink V3 satellites https://t.co/TG7b8iHYkY"
-        }
-      ]
-    },
-    {
-      "topic": "Terafab and TSMC in talks",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Terafab and TSMC are reportedly engaged in discussions.",
+      "subcategory": "liquid_cooling",
+      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
       "mentions": [
         {
           "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106298928769679610",
-          "text": "Elon: Terafab and TSMC are indeed in talks.\n\nDon’t underestimate @tculpan."
+          "url": "https://x.com/jukan05/status/2106910342983057576",
+          "text": "SPCX is aggressively pushing reverse engineering to get around bottlenecks...\n\nRacks, chillers, etc...\n\nSo they're going to vertically integrate everything they possibly can.\n\nHow do they get around patents and IP with this? Don't they get sued? https://t.co/gLpIxqDP5C"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's in-house optical fiber development",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106909462141542687",
+          "text": "WTF. SPCX is developing its own optical fiber too? https://t.co/AOydnfmRwI"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's 10GW power capacity and internal consumption",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106907946890457304",
+          "text": "Apparently 60% of $SPCX's 10GW goes to its own demand, and only 40% is for external customers. Could it be because Grok Bot has been a hit? https://t.co/QduPTCCOvH"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink's in-flight internet service",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822",
+          "text": "5 live football games streamed simultaneously on a commercial flight with @Starlink"
         }
       ]
     }
