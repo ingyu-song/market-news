@@ -1,19 +1,31 @@
 {
-  "generated_at": "2026-10-11T00:39:29+00:00",
+  "generated_at": "2026-10-11T01:29:47+00:00",
   "mode": "daily",
   "for_date": "2026-10-11",
-  "headline": "Trump's Russia Oil Deal Sparks Outcry; Nvidia Eyes AI Acquisition",
-  "summary": "President Trump's proposed deal to buy Russian diesel drew sharp criticism from Ukraine, while a House Republican moves to block it. Nvidia is reportedly in talks to acquire AI startup Reflection AI, signaling continued M&A in the sector. Samsung Electronics posted record quarterly earnings, but its stock declined, contributing to a KOSPI drop.",
+  "headline": "Trump's Russia Oil Deal Faces Opposition; Nvidia Eyes AI Startup; Jio Platforms IPO at $106B",
+  "summary": "Trump's proposed Russia oil deal faces significant political opposition, with a House Republican moving to block the diesel export agreement. Nvidia is in talks to invest further in or acquire AI startup Reflection AI, while Jio Platforms is pursuing India's largest IPO with a $106 billion valuation. SPCX demonstrates aggressive vertical integration in datacenter infrastructure and optical fiber development.",
   "sections": [
     {
-      "label": "Trump 2.0 / US Policy",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Trump's proposed Russia oil deal faces strong opposition and criticism.",
+          "lead": "Trump's proposed Russia oil deal faces political opposition.",
           "segments": [
             {
-              "text": "President Trump announced a deal to purchase Russian diesel, which Ukrainian President Zelensky called \"not fair and not honest\" and a \"gift to Putin.\"",
+              "text": "A House Republican, invoking Reagan, moved to block the deal, which would lift Russia's diesel export ban. This deal, announced by Trump, has been criticized by Ukraine's Zelensky as a gift to Putin.",
               "sources": [
+                {
+                  "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+                  "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                },
+                {
+                  "title": "Russia Lifts Ban on Diesel Exports as Part of Trump-Putin Deal",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDhlVFZLREFzdExSTEswU3d1N2RuU0lzMXdBaU9sSnI5UXhOcnZNOEhHT0xwN2xlald2VTJfZkFUMGYzbDk2WEJrVndfOWlBT2kxR0prMktwTjlaa1pOdzVTdTJvaXJHS3o0bll5SEJndVU5cUo5Y1NJRVc0Q0loQnFzQlhnTjRaZ1A4Sm50cFR0YmZXVEFCWlZiTUR5UXJvOW9xVkhSMjVEbm1CWWRmM1poNA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
                 {
                   "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
                   "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -25,48 +37,124 @@
                   "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
                   "source": "The Guardian Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China's NDRC pledged more policy tools.",
+          "segments": [
+            {
+              "text": "The National Development and Reform Commission aims to meet economic targets through additional policy measures.",
+              "sources": [
+                {
+                  "title": "China’s NDRC Pledges More Policy Tools to Meet Economic Targets",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVZXSWxIemR3Wm1BZmtUZ19MVmNxUS1BWlFLdlVZTnVROVpKeU1sZFBDZ081M0twemtyd1Q0NmRQVlRpaGZLNmJrV1Z3N0MxaHV0NVJDdXBLdkRHRXdncUZRNHY1cWcwRS02YnBJcFR5Zm1QeFlzbWhwcUlSTnJhY01lb3l4UWJFUHBTWmdFQzU0SXg5ZW04Y2FTaDE2QURJclgzZkNNVVNDbnNfYlVFcXFfdzU?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Jio Platforms is pursuing India's largest IPO.",
+          "segments": [
+            {
+              "text": "The company is targeting a $106 billion valuation for its initial public offering.",
+              "sources": [
+                {
+                  "title": "지오플랫폼, 1060억 달러 몸값으로 인도 역대 최대 IPO 추진",
+                  "link": "https://www.g-enews.com/view.php?ud=202610101042007533fda4f5ab74_1",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "UK savings accounts offer high interest rates.",
+          "segments": [
+            {
+              "text": "Experts suggest that 5% interest rate deals on UK savings may not be sustainable.",
+              "sources": [
+                {
+                  "title": "UK savings: 5% interest rate deals may not last, say experts",
+                  "link": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Buying bonds is a key strategy as yields rise.",
+          "segments": [
+            {
+              "text": "Investors are guided on how to approach bond purchases in an environment of increasing yields.",
+              "sources": [
+                {
+                  "title": "A Guide to Buying Bonds When Yields Are on the Rise",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZWR245eFNHVTF5SzY0bEhxak9JT3pwZlU5NGFYd1NnQXRDNzRPNUlMaC15aXVQY0VObG9HUEZvZTRURk44N0l0dUdKeGxHSjlvT1ItQWwwQldtaTZEbzdqU0t5Mk10cFFuOHhOZFlMNkNNaV9xeXl2VGNEbV9UekVnSkVVeGd2bzJCMXp3MEFibzNESkVZVFFNc1Q2U1U?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump has called for a change in Ukraine's leadership.",
+          "segments": [
+            {
+              "text": "He stated that Ukraine needs a new leader capable of dealing with Putin, directly telling Ukraine to replace Zelensky.",
+              "sources": [
+                {
+                  "title": "Trump Says Ukraine Needs New Leader Who Can Deal With Putin",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckxnVi1pcmhqQlhRVHp0ekxTc25odmRCZmhzTi1hdEpBbWloM2VFVzhFd0dHWkJtSUljNGlpUERBUDNrYWpibmFoSUJCTkJXZFdrTnVjcHhiUGl5Slp2NnZmd2gxc3BxM2NPYmRmQ21hcjQ4eEJ5VElpYjdnX1ZvSEZiZ2FVWWNNMTRTWUI3V3I2UFMzMFg1MzJqWnI2ZEZCMXl5WkFldVluM2xqVEI4bkNBVzk?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 },
                 {
-                  "title": "Exclusive: Zelensky tells Axios Trump's diesel deal with Putin \"not fair and not honest\"",
-                  "link": "https://www.axios.com/2026/10/09/exclusive-zelensky-putin-trump-diesel-deal",
+                  "title": "Trump tells Ukraine to replace Zelensky over Russia fuel deal",
+                  "link": "https://www.axios.com/2026/10/10/trump-ukraine-zelensky-replace-putin-diesel",
                   "source": "Axios",
                   "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "Trump expressed anger over his Nobel Peace Prize loss.",
+          "segments": [
             {
-              "text": "A U.S. official indicated Trump finalized the deal with Putin after Zelensky ignored his requests.",
+              "text": "His frustration over not receiving the Nobel Peace Prize was reported.",
               "sources": [
                 {
-                  "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
-                  "link": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
+                  "title": "Trump rages over Nobel Peace Prize loss",
+                  "link": "https://www.axios.com/2026/10/10/trump-nobel-peace-prize-reaction",
                   "source": "Axios",
                   "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "A House Republican, invoking Reagan, is moving to block the proposed Russia oil deal.",
-              "sources": [
-                {
-                  "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
-                  "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Analysis suggests Trump's unexpected Russia deal highlights mounting pressure to curb fuel prices.",
-              "sources": [
-                {
-                  "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-                  "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -79,22 +167,28 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Nvidia is exploring further investment or acquisition of Reflection AI.",
+          "lead": "Nvidia is in talks to expand its AI investments.",
           "segments": [
             {
-              "text": "Nvidia is reportedly in talks to acquire US 'open' model start-up Reflection AI, aiming to secure key talent and technology.",
+              "text": "The company is discussing further investment in or acquisition of Reflection AI, an \"open\" model startup.",
               "sources": [
                 {
-                  "title": "엔비디아, 스타트업 '리플렉션 AI' 인수 검토…핵심 인력·기술 확보도 ...",
-                  "link": "https://n.news.naver.com/mnews/article/654/0000204612?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Nvidia Discusses Boosting Reflection Investment, Computing Deal",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 },
                 {
                   "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
                   "link": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 },
                 {
                   "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
@@ -108,50 +202,33 @@
           ]
         },
         {
-          "lead": "ASML has increased component prices, impacting the semiconductor supply chain.",
+          "lead": "Advanced packaging is driving Malaysia's chip industry growth.",
           "segments": [
             {
-              "text": "ASML has increased component prices by 10%, which Samsung and SK Hynix have accepted, impacting the broader semiconductor supply chain.",
+              "text": "This trend is reshaping demand and pushing Malaysia up the chip value chain, according to a Yole analyst.",
               "sources": [
                 {
-                  "title": "ASML 부품값 10% 인상에도 삼성·SK하이닉스 수용… 반도체 공급망 전반...",
-                  "link": "https://www.g-enews.com/view.php?ud=202610110923187948fbbec65dfb_1",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Advanced packaging leads Malaysia's push up the chip value chain as AI reshapes demand, says Yole analyst",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzdLNUJfUF9rVllrWkdtZy1CeTBNRkIyOXAwVXJ2eGZ0NUtfb3pRRE1NZHJlMV9WOWczaEk5R2hXOFBZWXBSOWlKN3RZV3R5STRWR0lfSFVSbEZNZU1HVGZoMmRxMmZPWS1namp0UkQwMmxQM01QbXFCX3p1ZDlSNEgtaVN3M1VoUERxNjJLbDB6TDc0dXhZa0tqUQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
+        },
         {
-          "lead": "Samsung Electronics reported record quarterly earnings, yet its stock declined.",
+          "lead": "Nvidia's cash flow accounting change has implications for buybacks.",
           "segments": [
             {
-              "text": "Despite achieving its highest-ever quarterly performance, Samsung Electronics' stock experienced weakness, contributing to a 5.39% drop in the KOSPI.",
+              "text": "A subtle change in how Nvidia counts cash flow could significantly impact its buyback strategies.",
               "sources": [
                 {
-                  "title": "100조 버는데 주가는 내린다… '사상 최대 실적' 삼성전자 주가 약세 3가...",
-                  "link": "https://www.ngonews.kr/news/articleView.html?idxno=240238",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "The decline is attributed to factors beyond record earnings, with broader market sentiment impacting Korean equities.",
-              "sources": [
-                {
-                  "title": "코스피, 삼전 분기 최대 실적에도 5.39% 하락",
-                  "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=312876",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
+                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmJUdUJkbjREV3NKakY5WFJwN3k3dzhmYzZoMjN1QnJjVFo0QWhiUUh0aFpXQWQ5T21famNzdUdzR21rc1B0SFM2QjB4R0lsQ2Q3WV9haU9jLWZ1LU9kQ1E4VHdhXzFvSkFtQVo1VGZOMXRCRnZ4ODNsNUFmOTFSZFZKQ25VSFo3V0c5Z1A4dGVIZjBXYm1rY2pQc1c2Vm1TYTF1OGZnWGJlWDBGY2Y4cDhydUVXSmd2eTRncUx1OWFPcExSRTUybA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -167,7 +244,7 @@
           "lead": "SPCX is aggressively pursuing vertical integration in datacenter infrastructure.",
           "segments": [
             {
-              "text": "SPCX is reportedly reverse engineering datacenter components like racks and chillers, and developing its own optical fiber, indicating deep vertical integration.",
+              "text": "This includes reverse engineering datacenter components like racks and chillers, and developing its own optical fiber.",
               "sources": [],
               "x_mentions": [
                 {
@@ -175,9 +252,14 @@
                   "url": "https://x.com/jukan05/status/2106910342983057576"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "lead": "SPCX's power capacity is largely for internal demand.",
+          "segments": [
             {
-              "text": "The company's 10GW power capacity is primarily for internal demand (60%), potentially driven by Grok Bot's success, with 40% allocated to external customers.",
+              "text": "Out of its 10GW power capacity, 60% is used internally, potentially driven by the success of Grok Bot, with 40% allocated to external customers.",
               "sources": [],
               "x_mentions": [
                 {
@@ -189,10 +271,10 @@
           ]
         },
         {
-          "lead": "Starlink demonstrated significant in-flight internet capabilities.",
+          "lead": "Starlink demonstrated robust in-flight internet capabilities.",
           "segments": [
             {
-              "text": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, showcasing its in-flight internet capabilities.",
+              "text": "It successfully streamed five live football games simultaneously on a commercial flight.",
               "sources": [],
               "x_mentions": [
                 {
@@ -202,23 +284,40 @@
               ]
             }
           ]
+        },
+        {
+          "lead": "Microsoft's CEO called for caution on advanced AI.",
+          "segments": [
+            {
+              "text": "Satya Nadella advocated for an \"emergency brake\" on advanced AI development.",
+              "sources": [
+                {
+                  "title": "Microsoft CEO Nadella Calls for ‘Emergency Brake’ on Advanced AI",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2tYeVZwTkEwVmNuQnBYVnhKMHNnamZKeEtqeXlyT3AtRVlXbWtMS2wxRktaYWRyUUJfcDV5MktLeFZJRkFBYm9WN2xvT25VY2VsZFNnSzZhNXBoYzZSRzNCaGgwUFBiOFloZ3BwdzhnZzEyZzJKbFk2Q1ZDbW9udEZ5YklCSzNNd256aEN5elc4RlJfZVNrQ1FoVWlBOFBLWDNodUJBWVNVNVJEc2paY1pNQQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
         }
       ]
     },
     {
-      "label": "Fed / Rates / Macro",
+      "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "UK savings rates may not sustain current high levels.",
+          "lead": "Huawei faces a price reset due to surging memory costs.",
           "segments": [
             {
-              "text": "Experts suggest that 5% interest rate deals for UK savings may not last, indicating potential shifts in the macro environment.",
+              "text": "Memory costs are increasing, impacting Huawei's pricing strategies.",
               "sources": [
                 {
-                  "title": "UK savings: 5% interest rate deals may not last, say experts",
-                  "link": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "Huawei faces price reset as memory costs surge",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbV9iVHQyei15c0w0Wlc2U1hZS29IQzRwVmlfMGE1aktoejdiMjFHTXI5Y1BFNXAxbkRUeVBnSndYbE45bUlORUlLSkt6TG1nNU9tMVl0aHNUVmJTWXBrSXk3TVhoWk5yN3Z2MVl2NEIwTGhfbUR0RTN6TVQ4VGt5aWF4QWFhQUczTXZPenE4SnR6NUE?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -226,16 +325,33 @@
           ]
         },
         {
-          "lead": "AI surveillance startup Flock is cutting jobs amid backlash.",
+          "lead": "Unified memory is boosting AI PC ambitions.",
           "segments": [
             {
-              "text": "AI surveillance startup Flock is reportedly cutting several hundred jobs amidst backlash, reflecting challenges in certain AI sectors.",
+              "text": "This technology supports local-inference capabilities for Chinese open models.",
               "sources": [
                 {
-                  "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
-                  "link": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "Unified memory lifts AI PC ambitions as Chinese open models gain local-inference ground",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTE1Eejc3YXBUSzNVZnBhM1Q4bGFHMTgwRFdITmFJeWREUG1XVVBPSTNqaTNScVVBU0hnWWdoLVNDWm1OYThxNFFuRDBxMFpPYUFWbmxJekNhc0M3cU1jYnRKUkdVRlh5Tm5NR3JsV09ocEZEeS1oSmFlYWROTzBPRGVJbUw4T21WYzhZ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "SK Hynix is testing memory chips in orbit.",
+          "segments": [
+            {
+              "text": "The company sent memory chips into space for testing purposes.",
+              "sources": [
+                {
+                  "title": "SK Hynix sends memory chips into orbit for testing",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb2FMM1Q2aWxGWmkxZWNCUkdQMDhWZ0FSV0F1VHVfdXF1LXM1bWFFN3lvYm03WWdFYnFCWWZjYUtDOUNQS2lUV3VjNVpiOTdxbXpDUE9WNktMeGRoM21XVEF0X01ubExXaWtVNGYwQ3RLVk10MkVzMlRIblZWNzhDYllpMUItbzMxR202blluVzNEeDVTYWc?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -247,45 +363,32 @@
   ],
   "watchlist": [
     {
-      "name": "Trump Administration",
-      "note": "Policy decisions, especially on trade and energy, will continue to drive market volatility.",
-      "sources": [
-        {
-          "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
-          "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-        },
-        {
-          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        },
-        {
-          "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-          "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "Nvidia",
-      "note": "Potential M&A activity and AI chip sector developments remain key drivers.",
+      "note": "Watch for further developments on potential Reflection AI investment or acquisition, and implications of cash flow changes.",
       "sources": [
         {
-          "title": "엔비디아, 스타트업 '리플렉션 AI' 인수 검토…핵심 인력·기술 확보도 ...",
-          "link": "https://n.news.naver.com/mnews/article/654/0000204612?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmJUdUJkbjREV3NKakY5WFJwN3k3dzhmYzZoMjN1QnJjVFo0QWhiUUh0aFpXQWQ5T21famNzdUdzR21rc1B0SFM2QjB4R0lsQ2Q3WV9haU9jLWZ1LU9kQ1E4VHdhXzFvSkFtQVo1VGZOMXRCRnZ4ODNsNUFmOTFSZFZKQ25VSFo3V0c5Z1A4dGVIZjBXYm1rY2pQc1c2Vm1TYTF1OGZnWGJlWDBGY2Y4cDhydUVXSmd2eTRncUx1OWFPcExSRTUybA?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Nvidia Discusses Boosting Reflection Investment, Computing Deal",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEhNbm44LUd6U3ZnU2t4ZXVxVlBObW55LURVTlJjcnNOWHJmZEhwNEd4UDdiWHFwaDBZSGw0blpidEN3QldtTl9haFYwNjVpUFJYTVRUOHJ6bU9SZE5jLUVzT2ItQXk4cjNhVEk5TnlBZnIxeE5SZ2x2cW9XRFVRb2lDQkdlWUF5S01CN1RKZGxnRWQ0aVhFNmhaS2VFUXhYVlAtYjJnUlBoSFZ6VUE?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
           "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
           "link": "https://www.investing.com/news/stock-market-news/nvidia-in-talks-to-invest-further-in-reflection-ai-or-buy-it-ft-reports-4942221",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Nvidia in talks to invest further in Reflection AI or buy it, FT reports",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXpmTnVsdlhWdUt0a0hnSUg1YUVoRWNhT2JSQ24yeHFvRWVPdG5SNzNsWkNLVS0zbng0UWZrMS1zaGtXRmNzRThMamRUNXJPUGRwX09vN2J0dXFSUW9ZSThFeGZ6bTg5bnFqVVktSk91RzBNMkN0MGFOX2FSSEFZMzZ4TXhMb1dsc1hpLUwtY1pmeERoMnE0M2llTEI0X1V2cGxRc1UtMnpYUmc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
           "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
@@ -297,21 +400,8 @@
       "x_mentions": []
     },
     {
-      "name": "Samsung Electronics",
-      "note": "Performance in the memory and broader semiconductor market, influenced by ASML pricing and global demand.",
-      "sources": [
-        {
-          "title": "ASML 부품값 10% 인상에도 삼성·SK하이닉스 수용… 반도체 공급망 전반...",
-          "link": "https://www.g-enews.com/view.php?ud=202610110923187948fbbec65dfb_1",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "SPCX",
-      "note": "Continued vertical integration efforts and Starlink service expansion could impact related industries.",
+      "note": "Monitor vertical integration efforts in datacenters and optical fiber, and power capacity allocation.",
       "sources": [],
       "x_mentions": [
         {
@@ -325,12 +415,43 @@
       ]
     },
     {
-      "name": "AI Sector",
-      "note": "Broader sentiment and job market trends in AI startups warrant monitoring.",
+      "name": "Jio Platforms",
+      "note": "Observe progress on its $106 billion IPO, India's largest.",
       "sources": [
         {
-          "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
-          "link": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
+          "title": "지오플랫폼, 1060억 달러 몸값으로 인도 역대 최대 IPO 추진",
+          "link": "https://www.g-enews.com/view.php?ud=202610101042007533fda4f5ab74_1",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Trump Policy",
+      "note": "Track ongoing political responses to the Russia oil deal and comments on Ukraine leadership.",
+      "sources": [
+        {
+          "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
+          "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
+          "source": "Axios",
+          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+        },
+        {
+          "title": "Trump Says Ukraine Needs New Leader Who Can Deal With Putin",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNckxnVi1pcmhqQlhRVHp0ekxTc25odmRCZmhzTi1hdEpBbWloM2VFVzhFd0dHWkJtSUljNGlpUERBUDNrYWpibmFoSUJCTkJXZFdrTnVjcHhiUGl5Slp2NnZmd2gxc3BxM2NPYmRmQ21hcjQ4eEJ5VElpYjdnX1ZvSEZiZ2FVWWNNMTRTWUI3V3I2UFMzMFg1MzJqWnI2ZEZCMXl5WkFldVluM2xqVEI4bkNBVzk?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+        },
+        {
+          "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+          "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
           "source": "The Guardian Business",
           "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
         }
@@ -468,6 +589,6 @@
       "change_pct": -0.8
     }
   ],
-  "story_count": 29,
-  "bucket_count": 8
+  "story_count": 40,
+  "bucket_count": 11
 }
