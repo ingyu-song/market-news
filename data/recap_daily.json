@@ -1,72 +1,48 @@
 {
-  "generated_at": "2026-10-12T00:55:38+00:00",
+  "generated_at": "2026-10-13T02:49:18+00:00",
   "mode": "daily",
-  "for_date": "2026-10-12",
-  "headline": "Global Markets Eye Fed, Geopolitics; Semis Face Supply Pressure",
-  "summary": "Treasury yields held steady as markets anticipate upcoming CPI data and Fed insights. Geopolitical tensions persist with criticism over Trump's Russia-Ukraine energy deal, while China seeks to de-escalate trade friction with the EU. Semiconductor supply chains show strain as ASML raises component prices for major clients.",
+  "for_date": "2026-10-13",
+  "headline": "AI Chip Advancements Drive Tech Sector; Trump's Diesel Deal Sparks Debate",
+  "summary": "Microsoft unveiled new AI chips and reorganized its Azure unit, while AMD focused on agentic AI, signaling continued investment in the sector. Geopolitically, Trump's diesel deal with Russia drew GOP criticism, and China's memory chip advancements challenged Micron, contributing to market volatility. Inflation concerns persist, with central bankers hinting at rate hikes despite some retreat in US Treasury yields.",
   "sections": [
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Trump's proposed Russia-Ukraine energy ceasefire and diesel export deal faces significant opposition.",
+          "lead": "Microsoft is expanding its AI chip strategy with new homegrown silicon.",
           "segments": [
             {
-              "text": "The deal, aimed at easing global fuel shortages, has drawn criticism from Republican lawmakers and experts who question its effectiveness and geopolitical implications.",
+              "text": "Microsoft debuted a new homegrown AI chip and plans to deploy multiple gigawatts of capacity next year, aiming to save costs and complete its cloud AI ASIC lineup with the 2nm Maia 300 for a 2027 server supply-chain boom.",
               "sources": [
                 {
-                  "title": "Trump Pushes Russia-Ukraine Energy Ceasefire as Export Deal Draws Criticism",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1g0QVBLX2lGU0RUSUxWNDNYM2ZHUWlwVGVqTHNBMnB5VXp3eTVndndiM0VBTHJ2Qkw0SlVmWEU0clBBVWFiaTBvTjVRUDFxZTVEUnhWWVVOd0FfU1ZsRmxYZXR0RTdMcmFYbF9LMjlGY3pQdmNpQ3NSejh6NW5INjVzY3VNTVotNC1aN002aTNCVkdJR1Y3T0pXbVlzeWV0SnBKZEF6clhNZFJUNlZv?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Microsoft Debuts New Homegrown AI Chip, Plans to Deploy Multiple Gigawatts Next Year",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUI4bDBvSm92elpjbk5xbUxDUTdjbkN2NGJwenl4dExsRjBqQ0lRdEhadFFidDlMclJ5amN6b3VJWm04VzAxc3pIREQxeWZjRTdKZ0JXbVotc0Rzd0VZYUxQNDVDblZDSW9pQmhWN2lNU1B3RlE1cGRuOFFMOUNCZDV4bUhTQTJjQWZfdjBUUFUyb1FaUDV0OGJ2NV82NTFlQ254V3NfbklJU3UzdTkzSDZnUTR5UGRnZ3N4OXVB?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 },
                 {
-                  "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
-                  "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "Microsoft's 2nm Maia 300 completes cloud AI ASIC lineup, setting up 2027 server supply-chain boom",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWpsTU45UVpXZzZacUdHVU9sZ25iNm42SnE4RXNka1VhNmhQNFNvaTJxQVhuMDJUQ2p1OXZja2Z4Y3lOWjhWbEg2M183T09mWFZrcjA3THBYMEZ2eU10cGN2UF8tdExuNXZHZUZ5OWRxaXB5bXVrM0JqNXlwVkE4VlVaV0N6X1FmcHB3?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 },
                 {
-                  "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-                  "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "The Art Of The Tiny Deal: Trump’s Diesel Deal With Putin Does Nothing",
-                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWxoMWo3N1ZzUUphTkI3Wmg0MXJ3cEpUSDVzb3lqRFlGMmhTT1MzMTVHSU8tbFR3Z2FVczVQal84eW9HUWVfYzB1UXdrZU43U0dUR05FenFVcjc5MkZqZ2dtUGpvZDh2UUhhZWtSeS1GTmQ4MEZ1bkplN0Qtd2daSkZDaGlia0xyZ3A5RXRQTXBJRUgtMWRILVZsV1ZILXkwdHBJTVFrQVhYZzJ2NEJtempaS2RrcGs2ZWdaUnN3?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
-                  "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
             },
             {
-              "text": "Analysts suggest the agreement will have minimal impact on US diesel prices, with some House Republicans invoking Reagan-era principles to block it.",
+              "text": "The company is also reorganizing its Azure Cloud unit amid an AI overhaul, with its new Office Chief having fixed Copilot.",
               "sources": [
                 {
-                  "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-                  "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "The Art Of The Tiny Deal: Trump’s Diesel Deal With Putin Does Nothing",
-                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWxoMWo3N1ZzUUphTkI3Wmg0MXJ3cEpUSDVzb3lqRFlGMmhTT1MzMTVHSU8tbFR3Z2FVczVQal84eW9HUWVfYzB1UXdrZU43U0dUR05FenFVcjc5MkZqZ2dtUGpvZDh2UUhhZWtSeS1GTmQ4MEZ1bkplN0Qtd2daSkZDaGlia0xyZ3A5RXRQTXBJRUgtMWRILVZsV1ZILXkwdHBJTVFrQVhYZzJ2NEJtempaS2RrcGs2ZWdaUnN3?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "House Republican, invoking Reagan, moves to block Trump's Russia oil deal",
-                  "link": "https://www.axios.com/2026/10/10/fitzpatrick-trump-russia-diesel-discharge-petition",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -74,16 +50,136 @@
           ]
         },
         {
-          "lead": "China is actively working to prevent an escalating trade war with the European Union.",
+          "lead": "AMD is focusing on agentic AI for data center design.",
           "segments": [
             {
-              "text": "Beijing is pursuing a hybrid deal to de-escalate tensions and avoid broader trade conflicts with the EU.",
+              "text": "AMD's Helion initiative aims to reshape data center architecture for agentic AI applications.",
               "sources": [
                 {
-                  "title": "China Moves to Stave Off Wider EU Trade War With Hybrid Deal",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFFlQ2RWX2k2c19mRUlseHB2TDlOM0xYSVdXc29YSHBVS2o0OE1qRHFXQU1JR093ellFZ2xSNEg3cUZISWx1SllLdmpuQWNBaFoyQmJHU1RaMHZ0YlFXN3l0eVZkNlhvQlRaTElKWExxTFh4cmNOc0xIeVdpdWh0MHdicmVsajVQMEdtMkZRRzFMOXpyRzBXQmdDQ2lpUlFKVlRMdzVlSXR3aE51ZU9ZZA?oc=5",
+                  "title": "AMD Helion aims to reshape data center design for agentic AI",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0N1QTl0WHRJeDh6NjhweTRsbHd0YUV0Y2pBSS0wYnVfcWxQdDdhbDFOVFN3QnZDQUNWZFpHelFGNER4OXNsZ1d4N1ZISDQyWUZnNEhmekxVSVhuY1RsV3dvUmpHQS02dlRTV1cydzJxRUhGaUEwNnFqSWhJOVZqUWgweUdJQVl5b2JHSHFkSmNRQW8?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia is reportedly shifting GPU production focus.",
+          "segments": [
+            {
+              "text": "Nvidia may halt RTX 5090 production to prioritize RTX PRO cards, indicating a strategic shift towards professional-grade GPUs.",
+              "sources": [
+                {
+                  "title": "Nvidia reportedly may halt RTX 5090 production to favor RTX PRO cards, leakers claim",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVkclhUVzZqSU5mTU5talFDM0FTVjVJNjhScU9SaDdxejdFVmZpbGdKLTdoU1lyVlg4UXdOS2RycGNEcUY5dlFzYVJ3cG9qR1g5ODhRNDdNNmR0SEI3Rm5zbGNsSHdvUTJoVnc4LTZVSEhqOS1Gb2Q5LWpwRnVxM3NHNlJyM0szRmdhR1VtZW5hMThaMEFJ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China faces challenges in reducing reliance on foreign AI chips.",
+          "segments": [
+            {
+              "text": "China continues to face an uphill battle in its efforts to wean technology firms off Nvidia chips.",
+              "sources": [
+                {
+                  "title": "China faces uphill battle to wean tech firms off Nvidia chips",
+                  "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump's diesel deal with Russia draws criticism and political scrutiny.",
+          "segments": [
+            {
+              "text": "Trump's diesel deal with Putin is causing significant heartburn among Republicans ahead of a vote, with critics stating it betrays Ukraine.",
+              "sources": [
+                {
+                  "title": "Trump’s Diesel Deal With Putin Causes GOP Heartburn Before Vote",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGJjQUtSNmRsNEsySEFRRDR0ZklaVUt2dVpNeVk1ek85MzFjUWNFa0FOTGVpUDQ3czZBSnNGU0hvSklUdGVXenF6czVLQ0ZtbU5ST2FQbXp6VlpiZHMxVUlGd3IxSDd4M2hJYW5zSGdmeER4WEZRRHZhYV8yWTgwc1kwRk4tb01Jc190VW9JWUstR0prX2Vla2VoOWVlRFp4T1NwWFc2OVhfTE16bkMzNGMyT3I?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
+                  "link": "https://www.theguardian.com/news/video/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                },
+                {
+                  "title": "Trump's Russia deal leaves GOP candidates with a Putin problem",
+                  "link": "https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "This deal is not expected to significantly ease fuel prices, despite a $300 million windfall for a trust collecting funds for Trump projects.",
+              "sources": [
+                {
+                  "title": "A $300 Million Windfall for Trust Collecting Funds for Trump Projects",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3A5bmdOVFRoY0JnaXR0d3FkamlzRlQwNDFzTXFzaFdnSXhjYnlacU0ySXpuWWJFUkR0emxIRGFuSXZ2SEIyM2RWTTI0VExrVUZsNzV1SElXd2ZMeGF3bng5c0dLMVVxYzBPVTFEaTBxWlVRQ0JiODJ0ZW1sVy1ZbUthbElmMTkzWEtLME94UTJwSEVXVVF3RGdSbVNwWTJxWVRfYmpxWFY0UQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Elon Musk has made substantial contributions to Republican political campaigns.",
+          "segments": [
+            {
+              "text": "Elon Musk has injected $276 million into Republican efforts to retain control of Congress during the midterms.",
+              "sources": [
+                {
+                  "title": "Musk has spent $276 million on midterms to help Republicans retain control of Congress",
+                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Musk injects $275mn into Republicans’ fight to retain Congress",
+                  "link": "https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Musk is pushing for advanced AI system integration.",
+          "segments": [
+            {
+              "text": "Musk's Terafab initiative aims to fuse silicon, robotics, and space into one comprehensive AI system.",
+              "sources": [
+                {
+                  "title": "Terafab and beyond: Musk's push to fuse silicon, robotics, space into one AI system",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZk96bVN5YUNMY2ZsNm5aaFBrQUxUR3luVXRwTE1oSmY4bFp4RndxNnMzbnFHUVQxTGJVUTREZFJPOVI0Zkd3bHV6ZEl5ejhST3k0YzlmVFJ3QXJ5c2x2R2c2RzFSVXZfOEo0cHBoSnF1NmRUM09ZQTVZUGJzdVVfa3paNjB5dUZ5OEowMzNiZDJNMHJh?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -96,22 +192,28 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Treasury yields remained stable as markets processed a recent bond auction.",
+          "lead": "Inflation remains a key concern for central bankers.",
           "segments": [
             {
-              "text": "US Treasury yields held steady following a \"solid\" 30-year bond auction, with traders awaiting upcoming CPI data and insights from Fed officials like Warsh on the future rate path.",
+              "text": "Shin Hyun-song indicated that inflation is likely to remain above target for a considerable period, hinting at potential interest rate increases.",
               "sources": [
                 {
-                  "title": "Treasury Yields Steady After ‘Solid’ 30-Year Bond Auction",
-                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHpoUDlZaTJhQkpwQ1h1MzE5YnE2cllRMWpucWQwbXZLM2FQc1FnUHBvSHB6by0xc1hacnZuV0t2amJNaE9SRDdocnlnTWlCY0o1cnM4aXkyU0NDMW42ZXZwVktOQ2tUVXNta1dINEgwWVN6M0FpV2NFV1dvUmhXck9RbXBNZ2xj?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
+                  "title": "\"물가 상당 기간 목표 웃돌 것\"…신현송, 금리 인상 시사",
+                  "link": "https://n.news.naver.com/mnews/article/374/0000537507?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "While inflation likely peaked for 2026, prediction markets suggest it will remain sticky, with India's retail inflation jumping to 5.54% in September, exceeding estimates.",
+              "sources": [
                 {
-                  "title": "US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3lYa092MnRSV0FXYUtRRjVRSHN2akl0ZzM3UWlJcjh6bXNpbVE4dHJQUDM0bS1iWklWekQ0aENwMDRCdWhZbUZMTHFOMmVrZzZzYmFIMG5BamMzSTFfTE0wVjZsWjFBZ2ZQTmFWM0h4NUZkZlVseDlCM05QSFNyczJfdk5BV1IzVmd1NXlnaTdVVnNyOXV0TmxjSW9IRFZWWkEtZlZ1c25jcXU4WXQ1QmRNbw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+                  "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -119,34 +221,51 @@
           ]
         },
         {
-          "lead": "Inflation expectations are rising due to increased energy costs.",
+          "lead": "US Treasury yields saw a retreat, while Eurozone yields remained elevated.",
           "segments": [
             {
-              "text": "The upcoming US CPI report is anticipated to show overall inflation boosted by higher gasoline prices, though ICT inflation impact has been limited as supply shock falls short.",
+              "text": "US Treasury yields pulled back from earlier highs, contrasting with persistently elevated yields in the Eurozone.",
               "sources": [
                 {
-                  "title": "ICT inflation impact limited as supply shock falls short",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYnVjcEhzMUlLdVEwZ2l2eVA4cUVydmg2eF9tNldaTXdTdFJTWUdVelZkNFJzbDloVks3cnhtU2owUEN2WVhJWC1yclp5Z1IzWDZWR2J6djR4RkZ1dENDa2UyRFl0VXlmMmxlYUpfNnRXNTh0c1k4OXVaeXNvYnk0QmRIdkhHdm5MdlFSSmdwZVhWSV9mY19Pc2t5THFKZG84eUFua3c3Wjg4UQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                },
+                  "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVktTdlI3bkRJUTFtb0hZd1RNa1F2UmRlRy1LTWxpR0txNmgyX0R2TnNCbXFpZ3pVTUFuSTJGc2U2T3Z0WkZIenpzNDBtdUxqbEIzOTNtU0hNR3g3OXYxNFVxS192VTNaSGdfbl8xVXotMUVieHgzUlpTVkwxbHhMdTdJcjNuU0lXYTFYZFhtUkxiSjdIOUVDcS1DNnp6VzFPaWNrVWxVbnA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Fed aims to cool demand without impacting the job market.",
+          "segments": [
+            {
+              "text": "Fed's Hammack expressed hope to cool demand and inflation without causing pain in the job market.",
+              "sources": [
                 {
-                  "title": "US CPI to Show Overall Inflation Boosted by Higher Gasoline Prices",
-                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHNUeWNTY1NneVFOYnBzR0xFeWs2eWs3UWJCODFyaEtnNDZtamJJY1pSNFpyZ2xmcmNoR3FIc1VEeVU5bXdHSktiQlVqbFZTUHlTMjlsbjZOOU9fMFVwSUZoNGxNV0toMU1Sc3VZTnRWTmtnTXNlSnVCaDNMREVnWUtOSFctdGlTZ01EU1hnRVVsd1VnaHJiNEF0d3AwQVZubko5RVNjVDlKZ3FkbnI2bHFTbWdrN2JY?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Fed's Hammack: Hope to cool demand, and inflation, without job market pain",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpPOF8zbF9Ja0ZiR2lhdU5wUjR0SUhoS01ZU1d4SjVOeTZDZVBjdGs1RjBqaWhPcENod0Nja1J3bjIzQkdyN3dZcW5MNzhCZ2V2YVJKWnJwVXNabi1KOTIwLWwxVGF4dFRIbFRZM1VtNmpDNmRWd0t4THRhT0xuYUhnRzZwUlMzN2hmX2MydWtkcFZkQ0xQUUQ5cVVCWWdhaTQ5TmhheXlyOU92?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
             },
             {
-              "text": "Despite oil instability and a strong dollar, the won-dollar exchange rate saw a decline to the 1330s.",
+              "text": "The World Bank jobs council is urging 'crisis-era' employment support measures as the IMF warns of an AI 'tsunami' impact on jobs, while Kroger plans to slash 37% of its corporate jobs over the next three years.",
               "sources": [
                 {
-                  "title": "유가 불안·달러 강세에도…환율 1330원대로 하락",
-                  "link": "https://n.news.naver.com/mnews/article/018/0006386281?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Kroger Plans to Slash 37% of Corporate Jobs in Next Three Years",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2xGcWd5bFZuUHdadThvOEJfWUs0c2JEbkRKazNRSGJYOWFsa1MyT3o5MEd5Nkd4SXNRY3BLQkVGZHZ2QVowa0x5RHFtUkNjVVByOUQzZnE2ZW8wRHZIYXBCcXFtSVlUaFppbXM2d09WMVltVm5leXcycWxtem1RMy03RTk0MndOMFhqblNGV1lBQkJ6bUJHWlhHRGV1Rm1RUWM2TzRFSXpqYXVESlVTbGw1MA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+                  "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -156,17 +275,17 @@
       ]
     },
     {
-      "label": "US Semis / AI Chips",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "TSMC continues intensive research efforts amid high demand.",
+          "lead": "China's memory chip advancements are impacting global players.",
           "segments": [
             {
-              "text": "TSMC facilities are operating around the clock, with continuous research and development efforts to meet the surging demand for advanced semiconductors.",
+              "text": "China's pursuit in memory semiconductors is challenging Micron, intensifying the next-generation technology competition.",
               "sources": [
                 {
-                  "title": "휴일도 불켜진 TSMC 가보니..밤낮없이 연구 매진 [기술, 다시 공장(19)]",
-                  "link": "https://news.mtn.co.kr/news-detail/2026101208232488180",
+                  "title": "중국 메모리 반도체 추격에 마이크론 흔들…차세대 기술 경쟁 본격화",
+                  "link": "https://www.jemin.com/news/articleView.html?idxno=844341",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -176,16 +295,50 @@
           ]
         },
         {
-          "lead": "ASML has implemented a significant price increase for component parts.",
+          "lead": "Taiwan's AI server supply chain shows narrowed growth.",
           "segments": [
             {
-              "text": "Due to a severe supply-demand imbalance, ASML has reportedly raised component prices by 10% across the board for major clients like Samsung and SK Hynix.",
+              "text": "Taiwan's AI server chain grew 55% in September, but this growth was concentrated among fewer suppliers.",
               "sources": [
                 {
-                  "title": "設備供需嚴重失衡 ASML罕見對三星、SK海力士全面零組件漲價10％",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92ajhhLVBPeWNhVm5iVUdab1VBVmpwOE5ZTmJxdGEyRFdPQVRKYU1ZMkdwZDk5OVc5eDR5QXhyMDdPYWdjWUU0d3lIVTVmdEtLbGFWSW9iNFRRMlNTTU0w?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "AI Server tracker: Taiwan's AI server chain grew 55% in September, but the growth narrowed to fewer suppliers",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJLaFJYSjVRS2ttekpuWGNmTjQxYUFIeWN2eUJtdGRmVjNPMGtKMG0zdVN0OV9yTU1Ucko2QnFndUlDczFKYmN4Y0p2RXV6cDlCSTkteUduQ0tnVnlSS2hsVXlKRlVYX3hLNF9PSEFNRXBfOHJOZWxyU3pyTy1Na2RUT3ZMb3lFQlJkUXByU3NGNWNsOXNr?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Foxconn is developing battery storage systems in Taiwan.",
+          "segments": [
+            {
+              "text": "Foxconn is partnering on Taiwan-made battery storage systems, targeting a 2027 rollout.",
+              "sources": [
+                {
+                  "title": "Foxconn partners on Taiwan-made battery storage systems for 2027 rollout",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZU5yemxFd1FCcEZwOXBmNzNZa0JXTHBNYTIwaVh0MWY1M01GOFRWQ21odWRoSWh1Tm5NeFhyX3JoSEZGZUp4VThWM2FzNGRkWm1jTEw3THphSnZFWEtSQkRVTkZ6OHpWdVdIeDIzQ21DZFR5eW9YZ3dkX202N2dxdTc5NGZsdzRaSERRYmdUdGlWUTdvM3VEMHZDUXdBNVZJdUV1TzZpNXB2aHBmYnNWOGNkZnRMZw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Toyota is restructuring its joint venture in China.",
+          "segments": [
+            {
+              "text": "Toyota is rewiring its China JV structure, with GAC taking control of the FAW Toyota stake.",
+              "sources": [
+                {
+                  "title": "Toyota rewires China JV structure as GAC takes control of FAW Toyota stake",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNF8wZThYSS12c2Uxa0R1RUVMYlEycUJrUzRYTUo3RHg1QTFzdkczUXFxaEIxTXBhd0lHeC1QY3NOMlpRTktHblRfMThPOUw1aVFxaGRiQzNHdC1TRGptSVBZRmdiYmJUYkdoNmpOTUhHNUJDdkNmbm1mdW9kWUh3S1FCZk9QdGhwdVRIZGJYTG1vTWlJOHJmMG11SnFCZw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -198,143 +351,78 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Amazon is in discussions to acquire AI startup Decart for a substantial sum.",
+          "lead": "Meta is advancing its AI models to compete with industry leaders.",
           "segments": [
             {
-              "text": "Amazon is reportedly in talks to purchase AI startup Decart for approximately $7 billion, signaling continued investment in artificial intelligence capabilities.",
+              "text": "Meta has unveiled new AI models, positioning itself to challenge OpenAI and Anthropic in the AI space, with CEO Zuckerberg stating Meta has reached the AI 'frontier'.",
               "sources": [
                 {
-                  "title": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
-                  "link": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-acquire-ai-startup-decart-for-7-bln-wsj-4942892",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Amazon’s Bargains Include Its Stock",
-                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWxXdUg5azdXbzFfQU9aZ1NUY2dqYWVtZ2I1WFlRa1NDM2RBa1ZFdHhfYlJWemEwZ2Q2amhuU1JaUUJxS2t4dnZmVHV4cHhFZUU0OUp0RUQzQTc2ODFaTHZiVWtOSjdmTGNWRjFxS3VhS3lvVFlQSG9SMWR0dzBQZG5nQWdOdWY3Uk8zNU9sNA?oc=5",
+                  "title": "Meta Unveils New AI Models to Challenge OpenAI and Anthropic",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTMxRFB4MmxmdUJyaGtVV0RqZG9IUVVnOGtnd3ItUURwNDVMNTFZcFVkUzNlMUxlTDFIaE9lZjRfV3BqLVNObFFwRkRYdmFhOUotQXdUSFZpQktMRVlEVXNnNTRtSkdoTGdmekVVcHZ6aVFhdzJzUl85SDUxLVhLQ1pQOGp2V3dIY0FRVmxfUjlacEN2LUdwWGd3?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 },
                 {
-                  "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
-                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
+                  "title": "Zuckerberg says Meta has reached AI ‘frontier’",
+                  "link": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Microsoft is reorganizing its cloud unit for AI.",
+          "segments": [
+            {
+              "text": "Microsoft is reorganizing its Azure Cloud unit as part of a broader AI overhaul.",
+              "sources": [
                 {
-                  "title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5",
+                  "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
+        {
+          "lead": "NAND flash market sees surging profits.",
+          "segments": [
+            {
+              "text": "Samsung and SK Hynix are projected to see surging NAND profits driven by strong enterprise SSD demand.",
+              "sources": [
+                {
+                  "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2lqbmNvTGNnSEQ3NzBMQ2ZHclNnUkFNZDN0VFo0cnBwUlQwX0stVXJlRGs4ekoyMVVXb3NZdmd1NGVxQlY0dm5zdG9wRXFUM05HUjNraUFQWE5JU2dmN0s3bHJJeW1RLW9ieW9BUUNjWnZucHJ0WFdJMWx4Qm4yaUtENVpqU2t5aVpV?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Korean chip stocks reacted to competitive pressures.",
+          "segments": [
+            {
+              "text": "Korean chip stocks experienced declines amid concerns over Chinese rivals and remarks from Broadcom.",
+              "sources": [
+                {
+                  "title": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
-                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Regulatory concerns regarding AI are being voiced by industry leaders.",
-          "segments": [
-            {
-              "text": "Microsoft's president has stated that AI currently faces less regulation than milk, highlighting a potential gap in oversight.",
-              "sources": [
-                {
-                  "title": "AI is less regulated than milk, says Microsoft president",
-                  "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "bullets": [
-        {
-          "lead": "SPCX is aggressively pursuing vertical integration in datacenter infrastructure.",
-          "segments": [
-            {
-              "text": "SPCX is reportedly developing its own optical fiber and reverse engineering datacenter components like racks and chillers, indicating a strong push towards vertical integration.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106910342983057576"
-                }
-              ]
-            },
-            {
-              "text": "The company's 10GW power capacity is primarily allocated for internal demand, potentially driven by the success of Grok Bot, with 40% available for external customers.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106907946890457304"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "lead": "India is accelerating its AI data center buildout.",
-          "segments": [
-            {
-              "text": "India's AI data center infrastructure development is rapidly expanding as its semiconductor push continues to broaden.",
-              "sources": [
-                {
-                  "title": "India roundup: AI data center buildout accelerates as semiconductor push continues to broaden",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnNEckp0Q015aks2c1MwRjREOFdvLXQ2c2RXNGdnX0I2M1RrQnU5Z3BIb1kxdGlTUllSUjhBVTQ1WUN4QXgwemY0dWptS21ZYUlwMFUzZVBDRU0ydG5NQUtCV2hPQmtwd2k0OWp2bm94V3RqdlJLNFRrRmJJZjlmekZ2eXR1U0prZXhGdFVvNjY0akYwb0FiZw?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
-        {
-          "lead": "Samsung Electronics' stock performance lags despite strong earnings.",
-          "segments": [
-            {
-              "text": "Despite reporting record-high earnings, Samsung Electronics' stock has shown stagnation, leading the securities industry to focus on potential shareholder return initiatives.",
-              "sources": [
-                {
-                  "title": "삼성전자 역대급 실적에도 주가 '주춤'...증권가 시선은 주주환원으로 ...",
-                  "link": "https://n.news.naver.com/mnews/article/123/0002391613?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "MAtek reported its seventh consecutive month of record revenue.",
-          "segments": [
-            {
-              "text": "MAtek's September 2026 revenue reached a new record, marking the seventh consecutive month of such performance.",
-              "sources": [
-                {
-                  "title": "MAtek September 2026 revenue hits record for 7th straight month",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUC1EUnpYSnFhZEZUazZxUFVha3ZITldWTzZwY1dqTE9VelNaU1BUeWJPNDdVMnlDTlJwUGZ3cDgzTzFHd0xETGVKWi1zdW5peTJmUXdMTW03LXBDa1gzRkhOYlFwY1pBQlpoMmI4bm1BdEsxcUdGWHJETmlTQlRHQm8zbkkyR2dweDI1RUg4Uy13d3hlZklOcg?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -346,114 +434,120 @@
   ],
   "watchlist": [
     {
-      "name": "Fed",
-      "note": "Watch for CPI data and any statements from Fed officials like Warsh for clues on future rate policy.",
+      "name": "Nvidia",
+      "note": "Watch for continued focus on RTX PRO cards and China's efforts to reduce reliance on its chips.",
       "sources": [
         {
-          "title": "US Bond Traders Await CPI, Warsh For Insight on Fed’s Rate Path",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3lYa092MnRSV0FXYUtRRjVRSHN2akl0ZzM3UWlJcjh6bXNpbVE4dHJQUDM0bS1iWklWekQ0aENwMDRCdWhZbUZMTHFOMmVrZzZzYmFIMG5BamMzSTFfTE0wVjZsWjFBZ2ZQTmFWM0h4NUZkZlVseDlCM05QSFNyczJfdk5BV1IzVmd1NXlnaTdVVnNyOXV0TmxjSW9IRFZWWkEtZlZ1c25jcXU4WXQ1QmRNbw?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "China faces uphill battle to wean tech firms off Nvidia chips",
+          "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Nvidia reportedly may halt RTX 5090 production to favor RTX PRO cards, leakers claim",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVkclhUVzZqSU5mTU5talFDM0FTVjVJNjhScU9SaDdxejdFVmZpbGdKLTdoU1lyVlg4UXdOS2RycGNEcUY5dlFzYVJ3cG9qR1g5ODhRNDdNNmR0SEI3Rm5zbGNsSHdvUTJoVnc4LTZVSEhqOS1Gb2Q5LWpwRnVxM3NHNlJyM0szRmdhR1VtZW5hMThaMEFJ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Microsoft",
+      "note": "Monitor deployment of homegrown AI chips and the impact of Azure reorganization for AI initiatives.",
+      "sources": [
+        {
+          "title": "Microsoft Debuts New Homegrown AI Chip, Plans to Deploy Multiple Gigawatts Next Year",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUI4bDBvSm92elpjbk5xbUxDUTdjbkN2NGJwenl4dExsRjBqQ0lRdEhadFFidDlMclJ5amN6b3VJWm04VzAxc3pIREQxeWZjRTdKZ0JXbVotc0Rzd0VZYUxQNDVDblZDSW9pQmhWN2lNU1B3RlE1cGRuOFFMOUNCZDV4bUhTQTJjQWZfdjBUUFUyb1FaUDV0OGJ2NV82NTFlQ254V3NfbklJU3UzdTkzSDZnUTR5UGRnZ3N4OXVB?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Microsoft's 2nm Maia 300 completes cloud AI ASIC lineup, setting up 2027 server supply-chain boom",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWpsTU45UVpXZzZacUdHVU9sZ25iNm42SnE4RXNka1VhNmhQNFNvaTJxQVhuMDJUQ2p1OXZja2Z4Y3lOWjhWbEg2M183T09mWFZrcjA3THBYMEZ2eU10cGN2UF8tdExuNXZHZUZ5OWRxaXB5bXVrM0JqNXlwVkE4VlVaV0N6X1FmcHB3?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Fed",
+      "note": "Inflation outlook and potential rate hike signals from central bank officials remain key drivers.",
+      "sources": [
+        {
+          "title": "\"물가 상당 기간 목표 웃돌 것\"…신현송, 금리 인상 시사",
+          "link": "https://n.news.naver.com/mnews/article/374/0000537507?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Fed's Hammack: Hope to cool demand, and inflation, without job market pain",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpPOF8zbF9Ja0ZiR2lhdU5wUjR0SUhoS01ZU1d4SjVOeTZDZVBjdGs1RjBqaWhPcENod0Nja1J3bjIzQkdyN3dZcW5MNzhCZ2V2YVJKWnJwVXNabi1KOTIwLWwxVGF4dFRIbFRZM1VtNmpDNmRWd0t4THRhT0xuYUhnRzZwUlMzN2hmX2MydWtkcFZkQ0xQUUQ5cVVCWWdhaTQ5TmhheXlyOU92?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+          "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Oil",
-      "note": "Geopolitical developments and G-7 plans for crude/diesel release will influence prices, despite Mideast attacks.",
+      "note": "Geopolitical risks and Russia diesel supply prospects continue to influence prices.",
       "sources": [
         {
-          "title": "Oil Falls on Hopes That Russian Diesel Can Ease Global Fuel Shortages",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRUgtV0llLVhNSGExbHlQQUd6c3NzblBRNE5BNTZ3alYwTHAzMVRUSTUwUmRVMmRxMjhocXRPQ2RSRzNOdWFzbV9iQTR0aWY4N0FkVjl2c1dPNTFSU294M3Y4UzMxRXlzaEJWRFlUN1FaU1J5VkpCZmpVSFdRbDg2dXM1TnVKTF9kRllQWFJzdWUzeEUxd0c4eEpDQTBSRkZFc3hRbjFZdVJFTEhJYXA5RFV2N2p1TkRJU2VOaWw5RkNULWpO?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Oil Rises on Mideast Attacks, Dollar Edges Higher: Markets Wrap",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSG5VZWZFeXZZQzA0WjJpbFJWMlRKTld5TzZaTC10SF9VNGxJYnRwc1IwcHdMd2MteUlTcWNQTVhmNDFpWG9leERyYXFBSXkwckc1M2xUZWxJT1R6OG9EY1BlZExjMXBsUnNkdU5LQmlIcE90d3FvOHZKLUdaaFdnOUVhYlFhV2pic05yZkxTUDE4Z3JTZ1VZc2dsNFNEWGJMMmNnUTBwRFRBQ1M5ak9yWjdn?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Oil climbs as Mideast conflict, tanker attacks persist",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0xoWVo4eTNVMU5uQXk0Rk9WeWlMaWN0TFlDbWwzX1FqNy1iWW5iUzk0REtlMGNVSnlGWkRCb0tySkQwRFZ0NzVDQzRFVk1IcWNqVFIteWpOVTRVM01xblZ0TzN1dWdlNUdYWTRMUUFBOGhwQ2xTYl9NaTF0bmk5UllSanctMGJDT1g3MnVuX1IxTWpwR193RHoyV1BEd2FqOWlDcg?oc=5",
+          "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "Oil chiefs pull out of Riyadh energy congress after airport missile strike",
-          "link": "https://www.ft.com/content/a01776ea-4a12-4195-8820-e43a885ba5fe?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+          "title": "Oil Futures Little Changed as Market Weighs Export Recovery, Shipping Risks",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUtscjBad2NrYlFpckhZRUc0SUFnc3YzYjhqenRqaHlUUHE5Z1BpVGJlRjZWaE5BSzZxUWtoNnFoXzg1VVd5QlNWY3RMLVBiUW1QUXNaTUFBMExBMTNEaXQ3bU13QnlfbUJScW5yNUJDQTJ2SUJXMmo3NXZyOTBtb2FNOThkNjc1ZlgwU3JGRkRSclhaS25UQjk4QWNiZ2Y2bkpiMkJidk1LakNnTmNodTVYN0Q0cTg?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Oil Holds Advance as Expanding Middle East War Threatens Supply",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkhVUHZmTDFoVTNnbXBIZlBxdl9WcTNRd1hXck91OXpJcEhOdEdOamV3V21KbzZYaVpraENpOExKX0M0Y2xTaVNTY1FaY3NfVk5SR3FqdFFRQ0hIZENYTWVLTzVnRGFpTS0xeTBVaV9fbVhkY1FDQTFweDg4dTFWNnpfcDd4ZEVpcUY3V1FscHMxZjdmUmh3TS03eTRvUQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Samsung Electronics",
-      "note": "Monitor for announcements regarding shareholder returns following strong earnings but stagnant stock performance.",
+      "name": "Korean Chipmakers",
+      "note": "Observe the impact of Chinese competition and surging NAND demand on Samsung and SK Hynix.",
       "sources": [
         {
-          "title": "삼성전자 역대급 실적에도 주가 '주춤'...증권가 시선은 주주환원으로 ...",
-          "link": "https://n.news.naver.com/mnews/article/123/0002391613?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "TSMC / ASML",
-      "note": "Continued demand and supply chain dynamics in the semiconductor industry, especially given ASML's price hikes.",
-      "sources": [
-        {
-          "title": "휴일도 불켜진 TSMC 가보니..밤낮없이 연구 매진 [기술, 다시 공장(19)]",
-          "link": "https://news.mtn.co.kr/news-detail/2026101208232488180",
+          "title": "중국 메모리 반도체 추격에 마이크론 흔들…차세대 기술 경쟁 본격화",
+          "link": "https://www.jemin.com/news/articleView.html?idxno=844341",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "設備供需嚴重失衡 ASML罕見對三星、SK海力士全面零組件漲價10％",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92ajhhLVBPeWNhVm5iVUdab1VBVmpwOE5ZTmJxdGEyRFdPQVRKYU1ZMkdwZDk5OVc5eDR5QXhyMDdPYWdjWUU0d3lIVTVmdEtLbGFWSW9iNFRRMlNTTU0w?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Amazon",
-      "note": "Watch for developments on the potential acquisition of AI startup Decart.",
-      "sources": [
-        {
-          "title": "Amazon in talks to acquire AI startup Decart for $7 bln- WSJ",
-          "link": "https://www.investing.com/news/stock-market-news/amazon-in-talks-to-acquire-ai-startup-decart-for-7-bln-wsj-4942892",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Amazon’s Bargains Include Its Stock",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWxXdUg5azdXbzFfQU9aZ1NUY2dqYWVtZ2I1WFlRa1NDM2RBa1ZFdHhfYlJWemEwZ2Q2amhuU1JaUUJxS2t4dnZmVHV4cHhFZUU0OUp0RUQzQTc2ODFaTHZiVWtOSjdmTGNWRjFxS3VhS3lvVFlQSG9SMWR0dzBQZG5nQWdOdWY3Uk8zNU9sNA?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        },
-        {
-          "title": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5",
+          "title": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
           "source": "Bloomberg (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
-          "title": "Exclusive | Amazon in Talks to Buy AI Startup Decart for Around $7 Billion",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGxqNnJoTC12VnZiQm1ZTUhITmQ0RjZyTWhIRDYwcGQxZm9ZMW9tbVl2NU9BNk05LUlhQ3ZDbXZjdjNJNVZQRnhsU3ZveXFjRFBrRTlmMkJKc0JVREZiVlNZbVRKM3Z2bWd5XzVyMHFDdzk2MEJyaHpRRWRmWTlxQVg4c2l4UnZIM002Szhfem9kWHJUTlZZWktDb1NQU0JOb0xaV2hxNjE?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2lqbmNvTGNnSEQ3NzBMQ2ZHclNnUkFNZDN0VFo0cnBwUlQwX0stVXJlRGs4ekoyMVVXb3NZdmd1NGVxQlY0dm5zdG9wRXFUM05HUjNraUFQWE5JU2dmN0s3bHJJeW1RLW9ieW9BUUNjWnZucHJ0WFdJMWx4Qm4yaUtENVpqU2t5aVpV?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -528,67 +622,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7811.54,
-      "change": 46.18,
-      "change_pct": 0.59
+      "price": 7807.24,
+      "change": -4.3,
+      "change_pct": -0.06
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 27366.17,
-      "change": 172.83,
-      "change_pct": 0.64
+      "price": 27245.9,
+      "change": -120.27,
+      "change_pct": -0.44
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 51654.95,
-      "change": 423.31,
-      "change_pct": 0.83
+      "price": 51850.55,
+      "change": 195.6,
+      "change_pct": 0.38
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2806.98,
-      "change": 12.85,
-      "change_pct": 0.46
+      "price": 2794.48,
+      "change": -12.5,
+      "change_pct": -0.45
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 69030.92,
-      "change": -190.14,
-      "change_pct": -0.27
+      "price": 67292.39,
+      "change": -1746.81,
+      "change_pct": -2.53
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 24211.35,
-      "change": 425.56,
-      "change_pct": 1.79
+      "price": 23993.11,
+      "change": -278.09,
+      "change_pct": -1.15
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 6561.02,
-      "change": -107.01,
-      "change_pct": -1.6
+      "price": 5968.65,
+      "change": -439.78,
+      "change_pct": -6.86
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 49313.44,
-      "change": -397.48,
-      "change_pct": -0.8
+      "price": 48307.78,
+      "change": -985.63,
+      "change_pct": -2.0
     }
   ],
-  "story_count": 49,
-  "bucket_count": 12
+  "story_count": 63,
+  "bucket_count": 13
 }

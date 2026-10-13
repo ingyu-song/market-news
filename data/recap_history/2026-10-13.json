@@ -1,0 +1,688 @@
+{
+  "generated_at": "2026-10-13T02:49:18+00:00",
+  "mode": "daily",
+  "for_date": "2026-10-13",
+  "headline": "AI Chip Advancements Drive Tech Sector; Trump's Diesel Deal Sparks Debate",
+  "summary": "Microsoft unveiled new AI chips and reorganized its Azure unit, while AMD focused on agentic AI, signaling continued investment in the sector. Geopolitically, Trump's diesel deal with Russia drew GOP criticism, and China's memory chip advancements challenged Micron, contributing to market volatility. Inflation concerns persist, with central bankers hinting at rate hikes despite some retreat in US Treasury yields.",
+  "sections": [
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Microsoft is expanding its AI chip strategy with new homegrown silicon.",
+          "segments": [
+            {
+              "text": "Microsoft debuted a new homegrown AI chip and plans to deploy multiple gigawatts of capacity next year, aiming to save costs and complete its cloud AI ASIC lineup with the 2nm Maia 300 for a 2027 server supply-chain boom.",
+              "sources": [
+                {
+                  "title": "Microsoft Debuts New Homegrown AI Chip, Plans to Deploy Multiple Gigawatts Next Year",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUI4bDBvSm92elpjbk5xbUxDUTdjbkN2NGJwenl4dExsRjBqQ0lRdEhadFFidDlMclJ5amN6b3VJWm04VzAxc3pIREQxeWZjRTdKZ0JXbVotc0Rzd0VZYUxQNDVDblZDSW9pQmhWN2lNU1B3RlE1cGRuOFFMOUNCZDV4bUhTQTJjQWZfdjBUUFUyb1FaUDV0OGJ2NV82NTFlQ254V3NfbklJU3UzdTkzSDZnUTR5UGRnZ3N4OXVB?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "Microsoft's 2nm Maia 300 completes cloud AI ASIC lineup, setting up 2027 server supply-chain boom",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWpsTU45UVpXZzZacUdHVU9sZ25iNm42SnE4RXNka1VhNmhQNFNvaTJxQVhuMDJUQ2p1OXZja2Z4Y3lOWjhWbEg2M183T09mWFZrcjA3THBYMEZ2eU10cGN2UF8tdExuNXZHZUZ5OWRxaXB5bXVrM0JqNXlwVkE4VlVaV0N6X1FmcHB3?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                },
+                {
+                  "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The company is also reorganizing its Azure Cloud unit amid an AI overhaul, with its new Office Chief having fixed Copilot.",
+              "sources": [
+                {
+                  "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AMD is focusing on agentic AI for data center design.",
+          "segments": [
+            {
+              "text": "AMD's Helion initiative aims to reshape data center architecture for agentic AI applications.",
+              "sources": [
+                {
+                  "title": "AMD Helion aims to reshape data center design for agentic AI",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0N1QTl0WHRJeDh6NjhweTRsbHd0YUV0Y2pBSS0wYnVfcWxQdDdhbDFOVFN3QnZDQUNWZFpHelFGNER4OXNsZ1d4N1ZISDQyWUZnNEhmekxVSVhuY1RsV3dvUmpHQS02dlRTV1cydzJxRUhGaUEwNnFqSWhJOVZqUWgweUdJQVl5b2JHSHFkSmNRQW8?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia is reportedly shifting GPU production focus.",
+          "segments": [
+            {
+              "text": "Nvidia may halt RTX 5090 production to prioritize RTX PRO cards, indicating a strategic shift towards professional-grade GPUs.",
+              "sources": [
+                {
+                  "title": "Nvidia reportedly may halt RTX 5090 production to favor RTX PRO cards, leakers claim",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVkclhUVzZqSU5mTU5talFDM0FTVjVJNjhScU9SaDdxejdFVmZpbGdKLTdoU1lyVlg4UXdOS2RycGNEcUY5dlFzYVJ3cG9qR1g5ODhRNDdNNmR0SEI3Rm5zbGNsSHdvUTJoVnc4LTZVSEhqOS1Gb2Q5LWpwRnVxM3NHNlJyM0szRmdhR1VtZW5hMThaMEFJ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China faces challenges in reducing reliance on foreign AI chips.",
+          "segments": [
+            {
+              "text": "China continues to face an uphill battle in its efforts to wean technology firms off Nvidia chips.",
+              "sources": [
+                {
+                  "title": "China faces uphill battle to wean tech firms off Nvidia chips",
+                  "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Trump's diesel deal with Russia draws criticism and political scrutiny.",
+          "segments": [
+            {
+              "text": "Trump's diesel deal with Putin is causing significant heartburn among Republicans ahead of a vote, with critics stating it betrays Ukraine.",
+              "sources": [
+                {
+                  "title": "Trump’s Diesel Deal With Putin Causes GOP Heartburn Before Vote",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeGJjQUtSNmRsNEsySEFRRDR0ZklaVUt2dVpNeVk1ek85MzFjUWNFa0FOTGVpUDQ3czZBSnNGU0hvSklUdGVXenF6czVLQ0ZtbU5ST2FQbXp6VlpiZHMxVUlGd3IxSDd4M2hJYW5zSGdmeER4WEZRRHZhYV8yWTgwc1kwRk4tb01Jc190VW9JWUstR0prX2Vla2VoOWVlRFp4T1NwWFc2OVhfTE16bkMzNGMyT3I?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Trump rewards Putin and betrays Ukraine with Russia diesel deal - The Latest",
+                  "link": "https://www.theguardian.com/news/video/2026/oct/12/trump-rewards-putin-and-betrays-ukraine-with-russia-diesel-deal-the-latest",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                },
+                {
+                  "title": "Trump's Russia deal leaves GOP candidates with a Putin problem",
+                  "link": "https://www.axios.com/2026/10/12/trump-russia-diesel-deal-republicans-midterms",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "This deal is not expected to significantly ease fuel prices, despite a $300 million windfall for a trust collecting funds for Trump projects.",
+              "sources": [
+                {
+                  "title": "A $300 Million Windfall for Trust Collecting Funds for Trump Projects",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3A5bmdOVFRoY0JnaXR0d3FkamlzRlQwNDFzTXFzaFdnSXhjYnlacU0ySXpuWWJFUkR0emxIRGFuSXZ2SEIyM2RWTTI0VExrVUZsNzV1SElXd2ZMeGF3bng5c0dLMVVxYzBPVTFEaTBxWlVRQ0JiODJ0ZW1sVy1ZbUthbElmMTkzWEtLME94UTJwSEVXVVF3RGdSbVNwWTJxWVRfYmpxWFY0UQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Elon Musk has made substantial contributions to Republican political campaigns.",
+          "segments": [
+            {
+              "text": "Elon Musk has injected $276 million into Republican efforts to retain control of Congress during the midterms.",
+              "sources": [
+                {
+                  "title": "Musk has spent $276 million on midterms to help Republicans retain control of Congress",
+                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWhUR01GVWhzbTNaQnQwQzFIczJfNFdORnVIOTl1bkV1YmtRdC1TcjJrM3ZOeU1peENNenU1SXg3c1ZERDY0T2htbXpVQW5nY2dSQzFMRDR2SzFUNl9iUTVMaG9RakYxeGVXZ1V0UTJxeE1hakJWM256M2pfWTRQNEpOam5uTE9CcEZoa2hnZENJUTdCUWhsNlVKbF84ZVI3TzZVeE1FVVpiMldxdjJYZnlFaEJHX0J1Y2FpeW1BZjYyaVVs?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Musk injects $275mn into Republicans’ fight to retain Congress",
+                  "link": "https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Musk is pushing for advanced AI system integration.",
+          "segments": [
+            {
+              "text": "Musk's Terafab initiative aims to fuse silicon, robotics, and space into one comprehensive AI system.",
+              "sources": [
+                {
+                  "title": "Terafab and beyond: Musk's push to fuse silicon, robotics, space into one AI system",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZk96bVN5YUNMY2ZsNm5aaFBrQUxUR3luVXRwTE1oSmY4bFp4RndxNnMzbnFHUVQxTGJVUTREZFJPOVI0Zkd3bHV6ZEl5ejhST3k0YzlmVFJ3QXJ5c2x2R2c2RzFSVXZfOEo0cHBoSnF1NmRUM09ZQTVZUGJzdVVfa3paNjB5dUZ5OEowMzNiZDJNMHJh?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Inflation remains a key concern for central bankers.",
+          "segments": [
+            {
+              "text": "Shin Hyun-song indicated that inflation is likely to remain above target for a considerable period, hinting at potential interest rate increases.",
+              "sources": [
+                {
+                  "title": "\"물가 상당 기간 목표 웃돌 것\"…신현송, 금리 인상 시사",
+                  "link": "https://n.news.naver.com/mnews/article/374/0000537507?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "While inflation likely peaked for 2026, prediction markets suggest it will remain sticky, with India's retail inflation jumping to 5.54% in September, exceeding estimates.",
+              "sources": [
+                {
+                  "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+                  "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US Treasury yields saw a retreat, while Eurozone yields remained elevated.",
+          "segments": [
+            {
+              "text": "US Treasury yields pulled back from earlier highs, contrasting with persistently elevated yields in the Eurozone.",
+              "sources": [
+                {
+                  "title": "U.S. Treasury Yields Retreat From Early Highs; Eurozone Yields Remain Elevated",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVktTdlI3bkRJUTFtb0hZd1RNa1F2UmRlRy1LTWxpR0txNmgyX0R2TnNCbXFpZ3pVTUFuSTJGc2U2T3Z0WkZIenpzNDBtdUxqbEIzOTNtU0hNR3g3OXYxNFVxS192VTNaSGdfbl8xVXotMUVieHgzUlpTVkwxbHhMdTdJcjNuU0lXYTFYZFhtUkxiSjdIOUVDcS1DNnp6VzFPaWNrVWxVbnA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Fed aims to cool demand without impacting the job market.",
+          "segments": [
+            {
+              "text": "Fed's Hammack expressed hope to cool demand and inflation without causing pain in the job market.",
+              "sources": [
+                {
+                  "title": "Fed's Hammack: Hope to cool demand, and inflation, without job market pain",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpPOF8zbF9Ja0ZiR2lhdU5wUjR0SUhoS01ZU1d4SjVOeTZDZVBjdGs1RjBqaWhPcENod0Nja1J3bjIzQkdyN3dZcW5MNzhCZ2V2YVJKWnJwVXNabi1KOTIwLWwxVGF4dFRIbFRZM1VtNmpDNmRWd0t4THRhT0xuYUhnRzZwUlMzN2hmX2MydWtkcFZkQ0xQUUQ5cVVCWWdhaTQ5TmhheXlyOU92?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The World Bank jobs council is urging 'crisis-era' employment support measures as the IMF warns of an AI 'tsunami' impact on jobs, while Kroger plans to slash 37% of its corporate jobs over the next three years.",
+              "sources": [
+                {
+                  "title": "Kroger Plans to Slash 37% of Corporate Jobs in Next Three Years",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2xGcWd5bFZuUHdadThvOEJfWUs0c2JEbkRKazNRSGJYOWFsa1MyT3o5MEd5Nkd4SXNRY3BLQkVGZHZ2QVowa0x5RHFtUkNjVVByOUQzZnE2ZW8wRHZIYXBCcXFtSVlUaFppbXM2d09WMVltVm5leXcycWxtem1RMy03RTk0MndOMFhqblNGV1lBQkJ6bUJHWlhHRGV1Rm1RUWM2TzRFSXpqYXVESlVTbGw1MA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+                  "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "China's memory chip advancements are impacting global players.",
+          "segments": [
+            {
+              "text": "China's pursuit in memory semiconductors is challenging Micron, intensifying the next-generation technology competition.",
+              "sources": [
+                {
+                  "title": "중국 메모리 반도체 추격에 마이크론 흔들…차세대 기술 경쟁 본격화",
+                  "link": "https://www.jemin.com/news/articleView.html?idxno=844341",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Taiwan's AI server supply chain shows narrowed growth.",
+          "segments": [
+            {
+              "text": "Taiwan's AI server chain grew 55% in September, but this growth was concentrated among fewer suppliers.",
+              "sources": [
+                {
+                  "title": "AI Server tracker: Taiwan's AI server chain grew 55% in September, but the growth narrowed to fewer suppliers",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWJLaFJYSjVRS2ttekpuWGNmTjQxYUFIeWN2eUJtdGRmVjNPMGtKMG0zdVN0OV9yTU1Ucko2QnFndUlDczFKYmN4Y0p2RXV6cDlCSTkteUduQ0tnVnlSS2hsVXlKRlVYX3hLNF9PSEFNRXBfOHJOZWxyU3pyTy1Na2RUT3ZMb3lFQlJkUXByU3NGNWNsOXNr?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Foxconn is developing battery storage systems in Taiwan.",
+          "segments": [
+            {
+              "text": "Foxconn is partnering on Taiwan-made battery storage systems, targeting a 2027 rollout.",
+              "sources": [
+                {
+                  "title": "Foxconn partners on Taiwan-made battery storage systems for 2027 rollout",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZU5yemxFd1FCcEZwOXBmNzNZa0JXTHBNYTIwaVh0MWY1M01GOFRWQ21odWRoSWh1Tm5NeFhyX3JoSEZGZUp4VThWM2FzNGRkWm1jTEw3THphSnZFWEtSQkRVTkZ6OHpWdVdIeDIzQ21DZFR5eW9YZ3dkX202N2dxdTc5NGZsdzRaSERRYmdUdGlWUTdvM3VEMHZDUXdBNVZJdUV1TzZpNXB2aHBmYnNWOGNkZnRMZw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Toyota is restructuring its joint venture in China.",
+          "segments": [
+            {
+              "text": "Toyota is rewiring its China JV structure, with GAC taking control of the FAW Toyota stake.",
+              "sources": [
+                {
+                  "title": "Toyota rewires China JV structure as GAC takes control of FAW Toyota stake",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNF8wZThYSS12c2Uxa0R1RUVMYlEycUJrUzRYTUo3RHg1QTFzdkczUXFxaEIxTXBhd0lHeC1QY3NOMlpRTktHblRfMThPOUw1aVFxaGRiQzNHdC1TRGptSVBZRmdiYmJUYkdoNmpOTUhHNUJDdkNmbm1mdW9kWUh3S1FCZk9QdGhwdVRIZGJYTG1vTWlJOHJmMG11SnFCZw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Meta is advancing its AI models to compete with industry leaders.",
+          "segments": [
+            {
+              "text": "Meta has unveiled new AI models, positioning itself to challenge OpenAI and Anthropic in the AI space, with CEO Zuckerberg stating Meta has reached the AI 'frontier'.",
+              "sources": [
+                {
+                  "title": "Meta Unveils New AI Models to Challenge OpenAI and Anthropic",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTMxRFB4MmxmdUJyaGtVV0RqZG9IUVVnOGtnd3ItUURwNDVMNTFZcFVkUzNlMUxlTDFIaE9lZjRfV3BqLVNObFFwRkRYdmFhOUotQXdUSFZpQktMRVlEVXNnNTRtSkdoTGdmekVVcHZ6aVFhdzJzUl85SDUxLVhLQ1pQOGp2V3dIY0FRVmxfUjlacEN2LUdwWGd3?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "Zuckerberg says Meta has reached AI ‘frontier’",
+                  "link": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Microsoft is reorganizing its cloud unit for AI.",
+          "segments": [
+            {
+              "text": "Microsoft is reorganizing its Azure Cloud unit as part of a broader AI overhaul.",
+              "sources": [
+                {
+                  "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
+        {
+          "lead": "NAND flash market sees surging profits.",
+          "segments": [
+            {
+              "text": "Samsung and SK Hynix are projected to see surging NAND profits driven by strong enterprise SSD demand.",
+              "sources": [
+                {
+                  "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2lqbmNvTGNnSEQ3NzBMQ2ZHclNnUkFNZDN0VFo0cnBwUlQwX0stVXJlRGs4ekoyMVVXb3NZdmd1NGVxQlY0dm5zdG9wRXFUM05HUjNraUFQWE5JU2dmN0s3bHJJeW1RLW9ieW9BUUNjWnZucHJ0WFdJMWx4Qm4yaUtENVpqU2t5aVpV?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Korean chip stocks reacted to competitive pressures.",
+          "segments": [
+            {
+              "text": "Korean chip stocks experienced declines amid concerns over Chinese rivals and remarks from Broadcom.",
+              "sources": [
+                {
+                  "title": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Nvidia",
+      "note": "Watch for continued focus on RTX PRO cards and China's efforts to reduce reliance on its chips.",
+      "sources": [
+        {
+          "title": "China faces uphill battle to wean tech firms off Nvidia chips",
+          "link": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Nvidia reportedly may halt RTX 5090 production to favor RTX PRO cards, leakers claim",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkVkclhUVzZqSU5mTU5talFDM0FTVjVJNjhScU9SaDdxejdFVmZpbGdKLTdoU1lyVlg4UXdOS2RycGNEcUY5dlFzYVJ3cG9qR1g5ODhRNDdNNmR0SEI3Rm5zbGNsSHdvUTJoVnc4LTZVSEhqOS1Gb2Q5LWpwRnVxM3NHNlJyM0szRmdhR1VtZW5hMThaMEFJ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Microsoft",
+      "note": "Monitor deployment of homegrown AI chips and the impact of Azure reorganization for AI initiatives.",
+      "sources": [
+        {
+          "title": "Microsoft Debuts New Homegrown AI Chip, Plans to Deploy Multiple Gigawatts Next Year",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUI4bDBvSm92elpjbk5xbUxDUTdjbkN2NGJwenl4dExsRjBqQ0lRdEhadFFidDlMclJ5amN6b3VJWm04VzAxc3pIREQxeWZjRTdKZ0JXbVotc0Rzd0VZYUxQNDVDblZDSW9pQmhWN2lNU1B3RlE1cGRuOFFMOUNCZDV4bUhTQTJjQWZfdjBUUFUyb1FaUDV0OGJ2NV82NTFlQ254V3NfbklJU3UzdTkzSDZnUTR5UGRnZ3N4OXVB?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Microsoft's 2nm Maia 300 completes cloud AI ASIC lineup, setting up 2027 server supply-chain boom",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWpsTU45UVpXZzZacUdHVU9sZ25iNm42SnE4RXNka1VhNmhQNFNvaTJxQVhuMDJUQ2p1OXZja2Z4Y3lOWjhWbEg2M183T09mWFZrcjA3THBYMEZ2eU10cGN2UF8tdExuNXZHZUZ5OWRxaXB5bXVrM0JqNXlwVkE4VlVaV0N6X1FmcHB3?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "Microsoft plans huge deployment of its own AI chips, with an eye on saving costs",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Fed",
+      "note": "Inflation outlook and potential rate hike signals from central bank officials remain key drivers.",
+      "sources": [
+        {
+          "title": "\"물가 상당 기간 목표 웃돌 것\"…신현송, 금리 인상 시사",
+          "link": "https://n.news.naver.com/mnews/article/374/0000537507?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Fed's Hammack: Hope to cool demand, and inflation, without job market pain",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpPOF8zbF9Ja0ZiR2lhdU5wUjR0SUhoS01ZU1d4SjVOeTZDZVBjdGs1RjBqaWhPcENod0Nja1J3bjIzQkdyN3dZcW5MNzhCZ2V2YVJKWnJwVXNabi1KOTIwLWwxVGF4dFRIbFRZM1VtNmpDNmRWd0t4THRhT0xuYUhnRzZwUlMzN2hmX2MydWtkcFZkQ0xQUUQ5cVVCWWdhaTQ5TmhheXlyOU92?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
+          "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil",
+      "note": "Geopolitical risks and Russia diesel supply prospects continue to influence prices.",
+      "sources": [
+        {
+          "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2sxWTVlekZ2bXloVXNiOUltMm5iODVOMW9NTUo4Q016ZU02OFQ5TU9relFTcUZSaW8xV0c2YmNVbE5jWW5uQjhKeXNKaWxBcE92SU1fQUU0R2RVamdNUzRhTER3NzEzMFUtRVd3bzVnZ1g0ZmtRek95VHdYbVNNMmNacmlDd3dLTThmaGF2VVJDYTc4c1hQeUZfX0ZGQzZjTXlpLU52U3JuUGpjOHJjWndoS19LandSX0dtMmdUMzNKZw?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Oil Futures Little Changed as Market Weighs Export Recovery, Shipping Risks",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUtscjBad2NrYlFpckhZRUc0SUFnc3YzYjhqenRqaHlUUHE5Z1BpVGJlRjZWaE5BSzZxUWtoNnFoXzg1VVd5QlNWY3RMLVBiUW1QUXNaTUFBMExBMTNEaXQ3bU13QnlfbUJScW5yNUJDQTJ2SUJXMmo3NXZyOTBtb2FNOThkNjc1ZlgwU3JGRkRSclhaS25UQjk4QWNiZ2Y2bkpiMkJidk1LakNnTmNodTVYN0Q0cTg?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Oil Holds Advance as Expanding Middle East War Threatens Supply",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkhVUHZmTDFoVTNnbXBIZlBxdl9WcTNRd1hXck91OXpJcEhOdEdOamV3V21KbzZYaVpraENpOExKX0M0Y2xTaVNTY1FaY3NfVk5SR3FqdFFRQ0hIZENYTWVLTzVnRGFpTS0xeTBVaV9fbVhkY1FDQTFweDg4dTFWNnpfcDd4ZEVpcUY3V1FscHMxZjdmUmh3TS03eTRvUQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Korean Chipmakers",
+      "note": "Observe the impact of Chinese competition and surging NAND demand on Samsung and SK Hynix.",
+      "sources": [
+        {
+          "title": "중국 메모리 반도체 추격에 마이크론 흔들…차세대 기술 경쟁 본격화",
+          "link": "https://www.jemin.com/news/articleView.html?idxno=844341",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Korean Chip Stocks Sink on Chinese Rival Worry, Broadcom Remarks",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp4WmRxbkUtWXJISmNZVHZlcTljeWdlQmVfck9SUGdHckpwUDRQY1BjX1p5RW9GVGhqLUIzT1h0WERsTk1YakUtMFJvcjZIRlhRTm9hYlNrb0VYMmtYWThoMTBRd2hEalF4VDBUTWlfXzRzb0dzTTQ2TmMwdmFCbDZpZGxjdDlQMnY1c1p4VUFzZ0M5VnJYOVVlTW1VOXVRbEVCY3NhWm5SQUdtMDFkb2lHTzI?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Samsung, SK Hynix NAND profits seen surging on enterprise SSD demand",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2lqbmNvTGNnSEQ3NzBMQ2ZHclNnUkFNZDN0VFo0cnBwUlQwX0stVXJlRGs4ekoyMVVXb3NZdmd1NGVxQlY0dm5zdG9wRXFUM05HUjNraUFQWE5JU2dmN0s3bHJJeW1RLW9ieW9BUUNjWnZucHJ0WFdJMWx4Qm4yaUtENVpqU2t5aVpV?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Positive sentiment for Ibiden",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's vertical integration in datacenter cooling",
+      "category": "sectors",
+      "subcategory": "liquid_cooling",
+      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's in-house optical fiber development",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106909462141542687"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's 10GW power capacity and internal consumption",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106907946890457304"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink's in-flight internet service",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 4,
+  "x_generated_at": "2026-10-05T01:46:46+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7807.24,
+      "change": -4.3,
+      "change_pct": -0.06
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 27245.9,
+      "change": -120.27,
+      "change_pct": -0.44
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 51850.55,
+      "change": 195.6,
+      "change_pct": 0.38
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2794.48,
+      "change": -12.5,
+      "change_pct": -0.45
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 67292.39,
+      "change": -1746.81,
+      "change_pct": -2.53
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23993.11,
+      "change": -278.09,
+      "change_pct": -1.15
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5968.65,
+      "change": -439.78,
+      "change_pct": -6.86
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 48307.78,
+      "change": -985.63,
+      "change_pct": -2.0
+    }
+  ],
+  "story_count": 63,
+  "bucket_count": 13
+}
