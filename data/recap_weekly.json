@@ -1,58 +1,63 @@
 {
-  "generated_at": "2026-10-17T00:07:58+00:00",
+  "generated_at": "2026-10-17T23:43:25+00:00",
   "mode": "weekly",
   "for_week_start": "2026-10-11",
   "for_week_ending": "2026-10-17",
   "days_covered": 7,
-  "headline": "Inflation Fears Drive Market Sell-Off; Semis Decline Amid AI Warnings and Geopolitical Tensions",
-  "summary": "The week was dominated by persistent inflation concerns, with hotter-than-expected CPI and PPI data reigniting fears of Fed rate hikes and pushing Treasury yields to 5%. This macro backdrop triggered broad market sell-offs, particularly impacting semiconductor stocks which saw significant declines. Geopolitical tensions, including a surge in oil prices and debate over US policy, added to market uncertainty, while AI chip advancements and supply chain pressures continued to shape the tech sector.",
+  "headline": "Inflation Fears Drive Market Sell-Off; AI Chip Sector Faces Headwinds Amid Geopolitical Shifts",
+  "summary": "US equities experienced a broad sell-off this week, driven by hotter-than-expected inflation data that reignited concerns over potential Fed rate hikes. Chip stocks were particularly impacted, despite ongoing capacity expansion by TSMC and new AI initiatives from Microsoft and AMD. Geopolitical tensions persisted, with President Trump's controversial Russia deals and new sanctions waivers influencing energy markets and policy discussions. The macro environment remains cautious as markets anticipate further inflation signals.",
   "themes": [
     {
       "label": "Fed / Rates / Macro",
-      "narrative": "Hotter-than-expected CPI and PPI data signaled persistent inflation, leading to market sell-offs and renewed concerns over Fed rate hikes. Treasury yields surged to 5%, with Fed officials offering a mixed outlook despite Warsh signaling a steady approach.",
+      "narrative": "Inflation concerns intensified with hot PPI data and anticipation of high CPI, leading to market sell-offs and renewed fears of Fed rate hikes. Treasury yields remained elevated, reflecting persistent macro pressures and a mixed outlook from Fed officials, with the US $2 trillion deficit and 5% Treasury yields adding to the cautious sentiment.",
       "movers": [
-        "US Treasury",
-        "Federal Reserve",
         "S&P500",
-        "Nasdaq"
+        "Nasdaq",
+        "US Treasury",
+        "Fed",
+        "CPI",
+        "PPI"
       ],
       "sources": []
     },
     {
       "label": "US Semis / AI Chips",
-      "narrative": "Semiconductor stocks experienced sharp declines, with some falling over 5%, amid warnings about AI investing and broader market uncertainty. Despite this, TSMC projected significant revenue growth and expanded advanced node capacity for AI chips, while Nvidia explored further AI startup investments.",
+      "narrative": "The AI chip sector faced headwinds this week, with chip stocks experiencing a broad slide amid market sell-offs and warnings about AI investing. Despite this, TSMC continued to expand advanced node capacity to meet surging AI chip demand, while Microsoft and AMD unveiled new AI chip initiatives. Nvidia also explored further AI startup investments, but export control warnings added a layer of uncertainty.",
       "movers": [
         "TSMC",
         "Nvidia",
-        "AMD",
         "Microsoft",
-        "ASML"
-      ],
-      "sources": []
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical tensions escalated, driving oil prices to $110 on Middle East concerns. China continued its advancements in memory chips, challenging competitors, while also seeking to de-escalate trade friction with the EU.",
-      "movers": [
-        "Oil",
-        "Micron",
-        "EU",
-        "China"
+        "AMD",
+        "ASML",
+        "Micron"
       ],
       "sources": []
     },
     {
       "label": "Trump 2.0 / US Policy",
-      "narrative": "Trump's proposed diesel deal with Russia faced significant political opposition, with House Republicans moving to block the agreement. This highlighted ongoing debates over US energy policy and international relations.",
+      "narrative": "Trump's foreign policy moves dominated headlines, with his proposed Russia oil/diesel deal facing strong political opposition and criticism from the GOP. Despite this, Trump waived new Russia sanctions, impacting energy tariffs and raising geopolitical stability concerns. US policy discussions continue to be shaped by these evolving international dynamics.",
       "movers": [
         "Trump",
+        "Russia",
+        "GOP",
         "House Republicans"
       ],
       "sources": []
     },
     {
+      "label": "China / Tariffs / Geopolitics",
+      "narrative": "Geopolitical tensions remained a significant factor, particularly concerning US-Russia relations and their impact on energy markets. China continued its efforts to de-escalate trade friction with the EU, while its advancements in memory chip technology posed a challenge to established players like Micron, highlighting ongoing competition in the semiconductor space.",
+      "movers": [
+        "China",
+        "EU",
+        "Russia",
+        "Micron"
+      ],
+      "sources": []
+    },
+    {
       "label": "Earnings / Guidance",
-      "narrative": "Anthropic reported a significant revenue surge, signaling strong performance ahead of its anticipated IPO. This provided a positive counterpoint amidst broader market caution.",
+      "narrative": "While not a dominant theme, Anthropic reported a significant revenue surge ahead of its IPO, providing a positive data point for the AI sector amidst broader market uncertainty. This indicates continued strong demand for AI services despite chip supply concerns.",
       "movers": [
         "Anthropic"
       ],
@@ -60,39 +65,39 @@
     },
     {
       "label": "Software / Internet / Platforms",
-      "narrative": "Jio Platforms pursued India's largest IPO with a $106 billion valuation, reflecting strong growth in emerging market digital infrastructure. SpaceX continued its aggressive vertical integration in datacenter infrastructure and optical fiber development.",
+      "narrative": "The software and internet sector saw strategic moves this week, with Microsoft reorganizing its Azure unit to enhance AI integration. Jio Platforms announced a massive IPO, signaling strong growth in India's digital economy, while SPCX continued its aggressive vertical integration in datacenter infrastructure.",
       "movers": [
+        "Microsoft",
         "Jio Platforms",
-        "SpaceX",
-        "Microsoft"
+        "SPCX"
       ],
       "sources": []
     }
   ],
   "watchlist": [
     {
-      "name": "Federal Reserve",
-      "note": "Watch for further commentary on inflation and rate hike expectations."
+      "name": "Fed",
+      "note": "Watch for upcoming CPI data and any further signals on interest rate policy."
     },
     {
       "name": "TSMC",
-      "note": "Monitor advanced node capacity expansion and AI chip demand."
-    },
-    {
-      "name": "Oil",
-      "note": "Track geopolitical developments impacting Middle East tensions and crude prices."
-    },
-    {
-      "name": "Anthropic",
-      "note": "Observe IPO developments and continued revenue growth."
+      "note": "Monitor advanced node capacity expansion and AI chip demand outlook."
     },
     {
       "name": "Nvidia",
-      "note": "Look for updates on AI startup investments and overall AI chip market sentiment."
+      "note": "Track developments in AI chip export controls and potential startup investments."
     },
     {
-      "name": "Trump Administration",
-      "note": "Monitor developments regarding the proposed diesel deal and broader US policy."
+      "name": "Trump Policy",
+      "note": "Observe ongoing geopolitical impacts of Russia deals and sanctions waivers."
+    },
+    {
+      "name": "Anthropic",
+      "note": "Follow IPO developments and continued revenue growth in the AI services sector."
+    },
+    {
+      "name": "Micron",
+      "note": "Assess competitive pressures from China's advancements in memory chip technology."
     }
   ],
   "x_themes": [

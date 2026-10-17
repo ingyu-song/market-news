@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-10-17T00:07:42+00:00",
+  "generated_at": "2026-10-17T23:43:11+00:00",
   "mode": "daily",
   "for_date": "2026-10-17",
-  "headline": "Warsh Signals Steady Fed Amid Inflation, Semis Drop, Oil Hits $110",
-  "summary": "The U.S. faces a near $2 trillion budget deficit and 5% Treasury yields, as Fed's Warsh signals a steady outlook despite inflation concerns. Semiconductor stocks saw over 5% declines, while oil prices surged to $110 on Middle East tensions. Tesla unveiled a 'flying' Roadster, and SpaceX expanded its infrastructure plays.",
+  "headline": "Trump Waives Russia Sanctions; AI Chip Capacity, Inflation Concerns Persist",
+  "summary": "President Trump waived new Russia sanctions, impacting energy tariffs and geopolitical stability. Concerns remain over the US $2 trillion deficit and 5% Treasury yields, while AI chip supply chain dynamics evolve with TSMC's Japan expansion and Nvidia's export control warnings.",
   "sections": [
     {
-      "label": "Fed / Rates / Macro",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Fed's Warsh signals a steady outlook despite inflation concerns.",
+          "lead": "Trump waives Russia sanctions and energy tariffs.",
           "segments": [
             {
-              "text": "Kevin Warsh, a new Fed Chair candidate, emphasized taming inflation while acknowledging AI's economic impact, suggesting a steady policy stance despite recent inflation jumps.",
+              "text": "President Trump exempted Russia from further sanctions mandated by a new law and waived energy tariffs, citing national interests.",
               "sources": [
                 {
-                  "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
-                  "link": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+                  "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+                  "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 },
                 {
-                  "title": "Warsh signals steady Fed outlook despite inflation jump",
-                  "link": "https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Emerging-market stocks gained as Warsh backed AI optimism, while analysts anticipate the Fed to hold rates in October, though a surprise remains possible.",
-              "sources": [
-                {
-                  "title": "Emerging-Market Stocks Gain as Fed’s Warsh Backs AI Optimism",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVl2dHcyRGc2LWRmSVNPdW12aGxGMHBlVC13RTBGY3BNSW5vd3I0S2VRa01VRjhUbTdELUNBYS03RmpVNmRSblBNMERMaEJjQlRzT1FoMHhaVTk2MENIZk5FdUxmenE2WGJ4Q3hLRWt6YWxUNXd2WVJfNjdDN2Z6c2R0THprdGZFV1lnai1PRnFlbnZxQ05vbXZtX2lQVXQwWEZ0ZzRWRTByMERRM2Y0QQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+                  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUs3dld2NFNzN0ZzNE9RSHNXOHdJLW15UTFfeks3U3E0NVpzRGNrMk9IQlZvX0lyQ3NucllOZVY4TEo3dUxMNi1oUzRWSGZlM3FOdTlYMDdFNDBkMksyeVBFb0V1Y1dYcWdZTTMyREYxZWxQR0lJQi1HOEJ5THJDRGJiY2hFUGV0WmFDQTVTaE1oZEtpci1Uc0x6WGowdjhSZGJjMjF2ZzVtSnBiWFZSb1U4dm8xTjFjek1QR2F5SlotRk56WTNVMnFKR0RNYlJldjlwYlhMNUNyNHBFcDI0YUdqSVY?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
-                  "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-                  "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "Trump waives new Russia sanctions in the \"national interests\"",
+                  "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                },
+                {
+                  "title": "Trump exempts Russia from further sanctions mandated by new law",
+                  "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -50,34 +50,33 @@
           ]
         },
         {
-          "lead": "The U.S. faces a growing challenge from its $2 trillion budget deficit and 5% Treasury yields.",
+          "lead": "Musk warns of Chinese DRAM by 2028.",
           "segments": [
             {
-              "text": "The substantial U.S. budget deficit, nearing $2 trillion, combined with 5% Treasury yields, presents a significant economic challenge.",
+              "text": "Elon Musk has issued repeated warnings about the potential emergence of Chinese-produced DRAM by 2028.",
               "sources": [
                 {
-                  "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-                  "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                },
-                {
-                  "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump’s Cost Cutting",
-                  "link": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "\"2028년 중국산 D램 온다\"…머스크 잇단 경고, 속내는",
+                  "link": "https://n.news.naver.com/mnews/article/215/0001269518?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "Corporate tax revenue falls under Trump.",
+          "segments": [
             {
-              "text": "Metals rebounded as market sentiment improved following an initial shock from US inflation data.",
+              "text": "Corporate tax revenue has declined despite soaring profits during the Trump administration.",
               "sources": [
                 {
-                  "title": "Metals Rebound as Sentiment Improves After US Inflation Shock",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPakdEZHpLa0dUOWwyR29iWnRKbi1lemhKUDJDSDRKdWhyY3hocm45OXBpblRyRHZmYmtTUnBrU1lOb0lQS0ExczJQcmRUZjNyYkN6WW9TQ2xBTWNkRmdzTEw1REMwc0c1NHJUa2NSYWxDc0V4aWNZeHBkbjhaNG1XbzJHWGdXMldiWlhkek04ZzcydmFVNkxoRExQWV8zRW5SakFFci1Ed3NYakNSOWhTeVlR?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
+                  "link": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -87,18 +86,18 @@
       ]
     },
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "The U.S. is pressing China on market access for financial giants.",
+          "lead": "US faces $2 trillion deficit and 5% Treasury yields.",
           "segments": [
             {
-              "text": "During bilateral talks in Bangkok, the U.S. urged China to improve market access for companies like Mastercard and Citigroup.",
+              "text": "The United States is confronting a $2 trillion deficit and 5% Treasury yields, presenting a significant economic challenge.",
               "sources": [
                 {
-                  "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-                  "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-                  "source": "CNBC Finance",
+                  "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+                  "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+                  "source": "CNBC Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
@@ -107,16 +106,16 @@
           ]
         },
         {
-          "lead": "Republicans are increasingly opposing Trump's tariff policies.",
+          "lead": "Bank of Canada anticipates higher inflation.",
           "segments": [
             {
-              "text": "Some Republicans are turning against former President Trump's tariffs, viewing it as a matter of 'political survival'.",
+              "text": "The Bank of Canada projects a sharply higher inflation outlook, primarily due to surging oil prices.",
               "sources": [
                 {
-                  "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
-                  "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -124,49 +123,14 @@
           ]
         },
         {
-          "lead": "Taiwan's AI-driven exports are expected to fuel significant economic growth.",
+          "lead": "Warsh pledges to address inflation.",
           "segments": [
             {
-              "text": "Taiwan forecasts 6.04% growth in 2027, primarily driven by exports related to AI, with a telco giant building a high-speed computing network for the AI agent era.",
+              "text": "Kevin Warsh has vowed to tame inflation, noting the \"shock\" delivered to the economy by AI.",
               "sources": [
                 {
-                  "title": "Telco giant builds Taiwan's high-speed computing network for AI agent era",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSExEOGF6VWNibFZBeVdDMWFiMWZKNUtLZzZnMzI5bVo5SEhoMkUxcEdMc2xLOS1JdUpMX2pfZjZOQktraFlBd0JqS3lTbjYzTm8wZFhLaWFRRkZhYms4TXJ3ZTZ1OC00cGFFN2VMSkVoNlZLY2ZucllDbE1CTGVLWFBxdGxXWEN2SFFQN3ZZUjVVQjZjY1pPdVVIaw?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Middle East tensions continue to impact oil prices and shipping.",
-          "segments": [
-            {
-              "text": "Oil prices hit a five-month high of $110, with Brent crude tapping $110, amid escalating risks in the Middle East and a record number of ship attack reports near Hormuz, though Gulf oil flows continue.",
-              "sources": [
-                {
-                  "title": "Oil hits five-month high of $110 on new escalation in Middle East",
-                  "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                },
-                {
-                  "title": "Brent Oil Taps $110 for First Time Since May as Risks Swirl",
-                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGpNaEJ4bFlQS3h1ZVFqZU42ZG1vdUMyaFBQd3M4V1I0SkRSeXEyT0drSlUyM3ItODNSN2ktWENEUjRoUTNRMHJCNHZkdDlEWmx5eG5HX3kwakpaX0FUaUo4TXFrOU5WME5vU2FMTjhBTXFyaW56eVM1dTFILWliUVpnVi1pcE5wZVNRTjdFU2F0aXlCYnRRcWI1VHVoejZhN29EQXE4TWIyMHkwUkE?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-                  "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                },
-                {
-                  "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-                  "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
+                  "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
+                  "link": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
@@ -181,14 +145,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Major semiconductor stocks experienced significant declines.",
+          "lead": "Nvidia warns on export controls.",
           "segments": [
             {
-              "text": "Micron, AMD, and Intel shares each fell by over 5%, contributing to a broad downturn in U.S. semiconductor stocks.",
+              "text": "Nvidia has stated that export controls could impede the virtuous cycle of technological leadership.",
               "sources": [
                 {
-                  "title": "마이크론·AMD·인텔 5%대 급락…美 반도체주 일제히 '휘청'",
-                  "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496080",
+                  "title": "엔비디아 \"수출 통제, 기술 패권 선순환까지 막을 수 있어\"",
+                  "link": "https://www.tokenpost.kr/news/cryptocurrency/423836",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -198,136 +162,16 @@
           ]
         },
         {
-          "lead": "Nvidia's CEO remains optimistic despite recent AI market turmoil.",
+          "lead": "TSMC's Japan 3nm fab approved with $4.1B aid.",
           "segments": [
             {
-              "text": "Nvidia CEO Jensen Huang stated that 'all of this is going to pass' in response to current market volatility in the AI sector.",
+              "text": "TSMC's plan for a 3nm fabrication plant in Kumamoto, Japan, has been approved, qualifying for up to $4.1 billion in government assistance.",
               "sources": [
                 {
-                  "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "TSMC's deal with GlobalFoundries could impact AI packaging and China's semiconductor strategy.",
-          "segments": [
-            {
-              "text": "An analysis suggests the TSMC-GlobalFoundries deal will integrate mature nodes into AI packaging, potentially influencing China's semiconductor landscape.",
-              "sources": [
-                {
-                  "title": "Analysis: TSMC-GF deal moves mature nodes into AI packaging: What it means for China",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3NuRnc2NlpiWFp2X0dmak9WY3VOT05yZ1JsV0R2RWJvcFVNckF1bDlBODlsVTBwZFR3R0tWYTdMejM3Ui02N3lCci1pcjhUdGFHTU55bFVkVWZ6TjF4VzZyajZsZmNPWVZSS3EzVzR3NTB1VU5fQkxRSS1LbWdiNnBzQ3V4bjA3MFhaaEgyUUZvSHVKaVpKS0kwM3JubnozLTBEVnRQVQ?oc=5",
+                  "title": "TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcklRS1E0NlZkUVQxemRmNmtXazhvSzFNSFJVYzkxRGVZMkh1THZkdmlYc01GbVNfV0diSlFQZzBxakdYa0hpcGNubXZvcVo5WjYzTnBYNWhLNkI0YUJmSm5pX3A4c1YxY1NUdHdlVFpHX1VGek9fdy1fLW1qbWpiUTM5Y3o2bVQ2VjZheUJ3?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "CoreWeave and Broadcom object to the tokenization of their shares on a blockchain.",
-          "segments": [
-            {
-              "text": "Both CoreWeave and Broadcom have expressed objections to their shares being tokenized on a blockchain.",
-              "sources": [
-                {
-                  "title": "CoreWeave, Broadcom Object to Their Shares Tokenized on Blockchain",
-                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM1J6TUhBZkxmcGN0cjJIaExwTVJQY1NEamdMTExhS0pISkRHQkc1VVJUOUw3eVJ1TXo0S3k4enpoMVlBeWVxZ0lTM01Lcmo1UzJtVFNOaWpfRFhzTTFCck5uSU1Xd2c2blJLNDRpWTN1MmN6SVk0aUVpRXVla1lYVlpkN1hHU1ZGZGZKVXRMWlVyTU44UWZQdDd3?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Autos / EVs",
-      "bullets": [
-        {
-          "lead": "Tesla unveiled its new Roadster with 'flying' capabilities.",
-          "segments": [
-            {
-              "text": "Elon Musk revealed the 2026 Roadster, featuring 'flying' car capabilities, which briefly lifted Tesla stock despite a broader tech rout.",
-              "sources": [
-                {
-                  "title": "Tesla Stock Lifts After Musk Unveils Roadster ‘Flying’ Car",
-                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONS04ZkxiNU5HZDRSazBUVkp5ay1ueUx6MDM4eGdDMm9DMUdodGhPa2NfcU1GcXh1cXVlNjNIeDlNdlM3dkVzX0Vkc1RzUTlUNTVMbDJkNGFhUFhGTUZtT2JZU2EyNzZvbi1EdmM1NWdwVE9EekhsQmJCSVc3clhPcUhRcDk0SGZ1NUMxM0FHYUpzcnk0S1hINXR4dnVuM1VROXZpZExOZnBBWURo?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
-                  "link": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "Tesla shares caught up in tech rout despite new Roadster with flight capabilities",
-                  "link": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Tesla Debuts 2026 Roadster ‘Flying’ Electric Sports Car",
-                  "link": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Elon Musk also hinted at a 'massive $100 trillion' game-changing development, possibly related to the Roadster's advanced features.",
-              "sources": [
-                {
-                  "title": "Elon Musk Just Quietly Dropped A Massive ‘$100 Trillion’ Game-Changing Hint",
-                  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS2d6cU1nX25UbWtlVVcxQXZBNWgwWXZlLXlHWk02aGNCcTloemVrY3hVanh6UXBya0VJM2FndWNMYlFMc0pZZG9QQTl1Y2JDWlpzUkE2T2pvaVhtcGNtVlN1QU42VTRoLWpXY3lYZzc3Nm85NzJRSmtwaTZBNGpQV3NIWEJ2Z2pIYXZlUjFPZ1pNRWd1NXYtVEtlOUNlanNKbmdwRTBDQllPVEtlRVl0ckZRcUl5YTREc05JMFd0cVE5MXNWc1BJ?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "A U.S. appeals court blocked class actions against Tesla regarding its self-driving claims.",
-          "segments": [
-            {
-              "text": "A U.S. appeals court has halted class-action lawsuits concerning Tesla's self-driving technology claims.",
-              "sources": [
-                {
-                  "title": "US appeals court blocks class actions over Tesla's self-driving claims",
-                  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1jRE51Z3VxRjhwUXZnVmc5UncxU1h1VEJLMWtJV3JCRk44WEE1MWNvY0I3RGFONU51OHhWczRnb2R2UVA1WU9ZQi1sWDVCLXBCbXlXM1hsejJUazVNWDJsUWs1RXVuY3NucVpMQmhDazd1Y1dzREo2QUhRZ0RkTVhlT2g1RGZiWjBqbXg1U3YtOExkLXNfcVVhWTBOQ2M0am9wdTlrQmdVUHJkMDlaWEItSmZOaUR2eWZlQlUwSXlVbGpORkhN?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The UK government is considering Chinese EV tariffs.",
-          "segments": [
-            {
-              "text": "The UK government has left open the option to impose tariffs on Chinese EVs if it joins an EU scheme.",
-              "sources": [
-                {
-                  "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-                  "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -340,55 +184,14 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Netflix is undergoing significant leadership and strategic changes.",
+          "lead": "OpenAI accelerates ad push and considers price cuts.",
           "segments": [
             {
-              "text": "Netflix replaced Bela Bajaria as Chief Content Officer and is implementing layoffs as it works to redefine its narrative.",
+              "text": "OpenAI is reportedly intensifying its advertising efforts with new hires and exploring significant price reductions to compete.",
               "sources": [
                 {
-                  "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
-                  "link": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Despite internal changes, one of Netflix's top shows returned with a 100% Rotten Tomatoes score, and new content is available across streaming platforms.",
-              "sources": [
-                {
-                  "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-                  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSzZXdVFyRkV4dk5nWDlNQTRvYl9BVlJLYVlScFpldFZXS2c1bXNpSjNJWExxbGZZeEJXTFhnVDFTXzBjX3hKVUdGUktsbjlFc0VrT1htS3MxWUllTWNETFhOTmxFT3FLRmRfRi1vUFl3WFg4dXcxaXBDX0s2WEhYTGFXZ01WYjk4b2Fod0Y3ZC1RWVB0RktNM19Wd1dtZ2hhVk1jaU1kRjh0NHBEMmY2WnM1dkNQeUQ4bjUxNWpZcmN4bGI1Z2huT1N6TEoyRk4xOEcteldoS2ZoMkRObUdqQTkzNC0zcGoz?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Meta and OpenAI are advancing their AI models and competitive strategies.",
-          "segments": [
-            {
-              "text": "Meta released Muse Spark Open, a new 'open-weight' AI model, while OpenAI is accelerating its ad sprint with Meta hires and slashed prices to compete.",
-              "sources": [
-                {
-                  "title": "Alexandr Wang, Meta’s AI wunderkind",
-                  "link": "https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                },
-                {
-                  "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-                  "link": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "OpenAI Accelerates Ad Sprint With Meta Hires, Slashed Prices",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXQ1NFBFWm9zSnVkb1A4Z0hhdG4zaXFpZHJzZmJiUUgyTUlqSktZWENGcXJXaFdNRTBlaUQ0eDlkTl81TkdCd2FabmRhUTh6c29SaVl2Q2xMeGcwRzFzZGhIQlpZTmhacmZHVUxLb3FsQk9qa2Y1VmpfVlZXVG5fRHppa0NEVW1CbmRya3hwTkpTT0xHSlVkZkU4UQ?oc=5",
+                  "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
+                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VmhydWdNYk4tSUlIUVBQcmlYMGRrbGQxc1NOTF9KQnB6TlBnTnBJaG9OdFR2NVNCQkhYME52S3RQZzhRME5UQlNJZUIzazhIZzZJ?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
@@ -398,37 +201,41 @@
           ]
         },
         {
-          "lead": "SpaceX is aggressively pursuing vertical integration in its infrastructure.",
+          "lead": "Microsoft experiences executive departures.",
           "segments": [
             {
-              "text": "SpaceX is reportedly developing its own optical fiber and aggressively integrating vertically into datacenter cooling components like racks and chillers.",
-              "sources": [],
-              "x_mentions": [
+              "text": "An executive exodus at Microsoft may signal an impending business transition for the company.",
+              "sources": [
                 {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106910342983057576"
+                  "title": "Microsoft’s Executive Exodus Foreshadows Business Transition",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHhscU5SU3A5ZjZKZG9vdlFJbWdVN1c5YUFYTVdteE0wTDA4dTZyOGNZNXJ5QUxQY2Y5REZzNGhXMUhMdzBxc2RhVzl0OFg3VWFGSkpOXzVSNVY3czdDMTl5eC1MdUVMY1JKRW4tRDliZ3Myem14Sl9CbnhLbDBnWXlCa1g0ekVxZUJ6OVVDT2lzRVU0QzNPZW9GQXl4MWtwTmhXblU0bHJZQTFTZ1l4RHozVHJrdw?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
-              ]
-            },
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Bank earnings fail to boost US stocks.",
+          "segments": [
             {
-              "text": "SpaceX's 10GW power capacity is primarily used for internal demand (60%), with the remaining 40% allocated to external customers, possibly driven by Grok Bot's success.",
-              "sources": [],
-              "x_mentions": [
+              "text": "US stocks saw a slight decline as recent bank earnings did not generate strong market excitement.",
+              "sources": [
                 {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106907946890457304"
+                  "title": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
+                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjc4TmVBTEFXWVpxaDF4SlNaZmdGTE5XMk1oeEhUQkRhQlJJeTZVN1RNWGRuR3NHajNfdkNqc2ZxTk15MEFOMkxCcXRZMGhlYmRURkVrTl8xRUcxSGpuVVN0Sks1a2JYZ3RjNEpPbVFUMk5EampnbFdRMnBaMElxakM0dHNPSnp1VjRieC1FRXZpcVlDT0xFRQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
-              ]
-            },
-            {
-              "text": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@elonmusk",
-                  "url": "https://x.com/elonmusk/status/2106827233650147822"
-                }
-              ]
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -437,129 +244,96 @@
   ],
   "watchlist": [
     {
-      "name": "Fed",
-      "note": "Watch for further comments from Kevin Warsh and any shifts in the Fed's stance on inflation and rates, especially with the October meeting approaching.",
+      "name": "Trump Policy",
+      "note": "Watch for further policy shifts regarding sanctions and trade, particularly with Russia and China, as these actions continue to shape geopolitical and economic landscapes.",
       "sources": [
         {
-          "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
-          "link": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+          "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+          "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         },
         {
-          "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-          "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-          "source": "CNBC Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+          "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUs3dld2NFNzN0ZzNE9RSHNXOHdJLW15UTFfeks3U3E0NVpzRGNrMk9IQlZvX0lyQ3NucllOZVY4TEo3dUxMNi1oUzRWSGZlM3FOdTlYMDdFNDBkMksyeVBFb0V1Y1dYcWdZTTMyREYxZWxQR0lJQi1HOEJ5THJDRGJiY2hFUGV0WmFDQTVTaE1oZEtpci1Uc0x6WGowdjhSZGJjMjF2ZzVtSnBiWFZSb1U4dm8xTjFjek1QR2F5SlotRk56WTNVMnFKR0RNYlJldjlwYlhMNUNyNHBFcDI0YUdqSVY?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "Warsh signals steady Fed outlook despite inflation jump",
-          "link": "https://www.axios.com/2026/10/16/warsh-federal-reserve-interest-rates",
+          "title": "Trump waives new Russia sanctions in the \"national interests\"",
+          "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
           "source": "Axios",
           "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+        },
+        {
+          "title": "Trump exempts Russia from further sanctions mandated by new law",
+          "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "\"2028년 중국산 D램 온다\"…머스크 잇단 경고, 속내는",
+          "link": "https://n.news.naver.com/mnews/article/215/0001269518?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Tesla",
-      "note": "Monitor market reaction to the Roadster's 'flying' capabilities and any developments regarding self-driving claims or potential tariffs on EVs.",
+      "name": "Oil Prices",
+      "note": "Monitor oil price movements given the Bank of Canada's inflation outlook and the impact of geopolitical events on energy markets.",
       "sources": [
         {
-          "title": "Tesla Stock Lifts After Musk Unveils Roadster ‘Flying’ Car",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONS04ZkxiNU5HZDRSazBUVkp5ay1ueUx6MDM4eGdDMm9DMUdodGhPa2NfcU1GcXh1cXVlNjNIeDlNdlM3dkVzX0Vkc1RzUTlUNTVMbDJkNGFhUFhGTUZtT2JZU2EyNzZvbi1EdmM1NWdwVE9EekhsQmJCSVc3clhPcUhRcDk0SGZ1NUMxM0FHYUpzcnk0S1hINXR4dnVuM1VROXZpZExOZnBBWURo?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        },
-        {
-          "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
-          "link": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Tesla shares caught up in tech rout despite new Roadster with flight capabilities",
-          "link": "https://www.investing.com/news/stock-market-news/tesla-unveils-new-roadster-with-flight-capabilities-set-for-production-in-2028-4952962",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "US appeals court blocks class actions over Tesla's self-driving claims",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1jRE51Z3VxRjhwUXZnVmc5UncxU1h1VEJLMWtJV3JCRk44WEE1MWNvY0I3RGFONU51OHhWczRnb2R2UVA1WU9ZQi1sWDVCLXBCbXlXM1hsejJUazVNWDJsUWs1RXVuY3NucVpMQmhDazd1Y1dzREo2QUhRZ0RkTVhlT2g1RGZiWjBqbXg1U3YtOExkLXNfcVVhWTBOQ2M0am9wdTlrQmdVUHJkMDlaWEItSmZOaUR2eWZlQlUwSXlVbGpORkhN?oc=5",
+          "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "Tesla Debuts 2026 Roadster ‘Flying’ Electric Sports Car",
-          "link": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Observe market sentiment and any further statements from CEO Jensen Huang regarding AI market volatility.",
+      "note": "Keep an eye on Nvidia's statements and actions regarding export controls and their potential impact on the global technology supply chain.",
       "sources": [
         {
-          "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnVUc280UUFsc3NKaDM5VU5Bbng3WXA4bGhETWY4RE1NVTY5Yk5qVmhsN2VFdHE2M1pIUTRrTTk3QjZsYUMxWTQ3QmRacGhiUzdMM1VwQnh3c0c0Tk5zandkMjhhdnUxb0tMZzZDc3dIOUZhT2ZGSlRnVG5qdGp2RUplaWFxU1NiSXZGZHhBZTZjekdLSU1WZUhvZXMzUzd4YXRmMS0yYnNkTkp1cndfNQ?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "엔비디아 \"수출 통제, 기술 패권 선순환까지 막을 수 있어\"",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/423836",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "SpaceX",
-      "note": "Monitor its vertical integration efforts in datacenter infrastructure and the expansion of Starlink's services.",
+      "name": "TSMC",
+      "note": "Observe developments around TSMC's global fab expansion, especially the Kumamoto 3nm plan, as it impacts future AI chip capacity.",
       "sources": [
         {
-          "title": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
-          "link": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-premarket-tsla-spcx-aa-crwv.html",
-          "source": "CNBC Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+          "title": "TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcklRS1E0NlZkUVQxemRmNmtXazhvSzFNSFJVYzkxRGVZMkh1THZkdmlYc01GbVNfV0diSlFQZzBxakdYa0hpcGNubXZvcVo5WjYzTnBYNWhLNkI0YUJmSm5pX3A4c1YxY1NUdHdlVFpHX1VGek9fdy1fLW1qbWpiUTM5Y3o2bVQ2VjZheUJ3?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
-      "x_mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106910342983057576"
-        },
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106827233650147822"
-        }
-      ]
+      "x_mentions": []
     },
     {
-      "name": "Oil Prices",
-      "note": "Keep an eye on geopolitical developments in the Middle East, which continue to influence crude oil prices and supply chain stability.",
+      "name": "OpenAI",
+      "note": "Track OpenAI's strategic moves in advertising and pricing as it navigates competition and aims for profitability.",
       "sources": [
         {
-          "title": "Oil hits five-month high of $110 on new escalation in Middle East",
-          "link": "https://www.ft.com/content/8ee22d89-03eb-48dc-99a5-27555373a89c?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "Brent Oil Taps $110 for First Time Since May as Risks Swirl",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGpNaEJ4bFlQS3h1ZVFqZU42ZG1vdUMyaFBQd3M4V1I0SkRSeXEyT0drSlUyM3ItODNSN2ktWENEUjRoUTNRMHJCNHZkdDlEWmx5eG5HX3kwakpaX0FUaUo4TXFrOU5WME5vU2FMTjhBTXFyaW56eVM1dTFILWliUVpnVi1pcE5wZVNRTjdFU2F0aXlCYnRRcWI1VHVoejZhN29EQXE4TWIyMHkwUkE?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        },
-        {
-          "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-          "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VmhydWdNYk4tSUlIUVBQcmlYMGRrbGQxc1NOTF9KQnB6TlBnTnBJaG9OdFR2NVNCQkhYME52S3RQZzhRME5UQlNJZUIzazhIZzZJ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -643,8 +417,8 @@
       "symbol": "^IXIC",
       "group": "US",
       "price": 26140.03,
-      "change": -572.99,
-      "change_pct": -2.14
+      "change": -573.0,
+      "change_pct": -2.15
     },
     {
       "name": "Dow Jones",
@@ -695,6 +469,6 @@
       "change_pct": 0.31
     }
   ],
-  "story_count": 59,
-  "bucket_count": 12
+  "story_count": 43,
+  "bucket_count": 13
 }
