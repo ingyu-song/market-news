@@ -1,44 +1,100 @@
 {
-  "generated_at": "2026-10-10T01:28:08+00:00",
+  "generated_at": "2026-10-17T00:07:58+00:00",
   "mode": "weekly",
-  "for_week_start": "2026-10-04",
-  "for_week_ending": "2026-10-10",
+  "for_week_start": "2026-10-11",
+  "for_week_ending": "2026-10-17",
   "days_covered": 7,
-  "headline": "Weekly tape, by editorial weight",
-  "summary": "Compiled from 7 daily recap(s). Themes ordered by coverage volume across the week.",
+  "headline": "Inflation Fears Drive Market Sell-Off; Semis Decline Amid AI Warnings and Geopolitical Tensions",
+  "summary": "The week was dominated by persistent inflation concerns, with hotter-than-expected CPI and PPI data reigniting fears of Fed rate hikes and pushing Treasury yields to 5%. This macro backdrop triggered broad market sell-offs, particularly impacting semiconductor stocks which saw significant declines. Geopolitical tensions, including a surge in oil prices and debate over US policy, added to market uncertainty, while AI chip advancements and supply chain pressures continued to shape the tech sector.",
   "themes": [
     {
-      "label": "US Semis / AI Chips",
-      "narrative": "US Semis / AI Chips accounted for 24 bullets across the week's daily recaps.",
-      "movers": [],
-      "sources": []
-    },
-    {
       "label": "Fed / Rates / Macro",
-      "narrative": "Fed / Rates / Macro accounted for 22 bullets across the week's daily recaps.",
-      "movers": [],
+      "narrative": "Hotter-than-expected CPI and PPI data signaled persistent inflation, leading to market sell-offs and renewed concerns over Fed rate hikes. Treasury yields surged to 5%, with Fed officials offering a mixed outlook despite Warsh signaling a steady approach.",
+      "movers": [
+        "US Treasury",
+        "Federal Reserve",
+        "S&P500",
+        "Nasdaq"
+      ],
       "sources": []
     },
     {
-      "label": "Earnings / Guidance",
-      "narrative": "Earnings / Guidance accounted for 18 bullets across the week's daily recaps.",
-      "movers": [],
+      "label": "US Semis / AI Chips",
+      "narrative": "Semiconductor stocks experienced sharp declines, with some falling over 5%, amid warnings about AI investing and broader market uncertainty. Despite this, TSMC projected significant revenue growth and expanded advanced node capacity for AI chips, while Nvidia explored further AI startup investments.",
+      "movers": [
+        "TSMC",
+        "Nvidia",
+        "AMD",
+        "Microsoft",
+        "ASML"
+      ],
       "sources": []
     },
     {
       "label": "China / Tariffs / Geopolitics",
-      "narrative": "China / Tariffs / Geopolitics accounted for 16 bullets across the week's daily recaps.",
-      "movers": [],
+      "narrative": "Geopolitical tensions escalated, driving oil prices to $110 on Middle East concerns. China continued its advancements in memory chips, challenging competitors, while also seeking to de-escalate trade friction with the EU.",
+      "movers": [
+        "Oil",
+        "Micron",
+        "EU",
+        "China"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "narrative": "Trump's proposed diesel deal with Russia faced significant political opposition, with House Republicans moving to block the agreement. This highlighted ongoing debates over US energy policy and international relations.",
+      "movers": [
+        "Trump",
+        "House Republicans"
+      ],
+      "sources": []
+    },
+    {
+      "label": "Earnings / Guidance",
+      "narrative": "Anthropic reported a significant revenue surge, signaling strong performance ahead of its anticipated IPO. This provided a positive counterpoint amidst broader market caution.",
+      "movers": [
+        "Anthropic"
+      ],
       "sources": []
     },
     {
       "label": "Software / Internet / Platforms",
-      "narrative": "Software / Internet / Platforms accounted for 14 bullets across the week's daily recaps.",
-      "movers": [],
+      "narrative": "Jio Platforms pursued India's largest IPO with a $106 billion valuation, reflecting strong growth in emerging market digital infrastructure. SpaceX continued its aggressive vertical integration in datacenter infrastructure and optical fiber development.",
+      "movers": [
+        "Jio Platforms",
+        "SpaceX",
+        "Microsoft"
+      ],
       "sources": []
     }
   ],
-  "watchlist": [],
+  "watchlist": [
+    {
+      "name": "Federal Reserve",
+      "note": "Watch for further commentary on inflation and rate hike expectations."
+    },
+    {
+      "name": "TSMC",
+      "note": "Monitor advanced node capacity expansion and AI chip demand."
+    },
+    {
+      "name": "Oil",
+      "note": "Track geopolitical developments impacting Middle East tensions and crude prices."
+    },
+    {
+      "name": "Anthropic",
+      "note": "Observe IPO developments and continued revenue growth."
+    },
+    {
+      "name": "Nvidia",
+      "note": "Look for updates on AI startup investments and overall AI chip market sentiment."
+    },
+    {
+      "name": "Trump Administration",
+      "note": "Monitor developments regarding the proposed diesel deal and broader US policy."
+    }
+  ],
   "x_themes": [
     {
       "topic": "Positive sentiment for Ibiden",
@@ -97,102 +153,6 @@
         {
           "handle": "@elonmusk",
           "url": "https://x.com/elonmusk/status/2106827233650147822"
-        }
-      ]
-    },
-    {
-      "topic": "Intel's early ABF adoption",
-      "category": "sectors",
-      "subcategory": "abf_substrate",
-      "summary": "Intel was an early adopter of ABF substrate technology, integrating it into their Pentium III processors in 1999.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2106523263275086310"
-        }
-      ]
-    },
-    {
-      "topic": "Google's TPU ASIC business evolution",
-      "category": "sectors",
-      "subcategory": "asic",
-      "summary": "Google's TPU ASIC business is evolving, and its \"scale-across strategy\" warrants close attention.",
-      "mentions": [
-        {
-          "handle": "@damnang2",
-          "url": "https://x.com/damnang2/status/2106520685673853129"
-        }
-      ]
-    },
-    {
-      "topic": "Starship deploying Starlink V3 satellites",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "SpaceX's Starship is being used for the deployment of Starlink V3 satellites.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106454808676716916"
-        }
-      ]
-    },
-    {
-      "topic": "Terafab and TSMC in talks",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Terafab and TSMC are reportedly engaged in discussions.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106298928769679610"
-        }
-      ]
-    },
-    {
-      "topic": "Laser ASPs and Michael Hurlston's decision",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "Discussion around the potential for squeezing Average Selling Prices (ASPs) of lasers, questioning if Michael Hurlston will initiate such a move.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2106158758938427770"
-        }
-      ]
-    },
-    {
-      "topic": "TSMC's potential Terafab participation and Intel collaboration",
-      "category": "sectors",
-      "subcategory": "foundry",
-      "summary": "Rumors suggest TSMC is exploring participation in Terafab, with potential expansion into Texas to support this initiative. However, collaboration efforts with Intel on Terafab are reportedly not progressing.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106149596418470138"
-        }
-      ]
-    },
-    {
-      "topic": "SpaceX's taxpayer savings",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Elon Musk highlights that the actual amount of money SpaceX has saved taxpayers is now even higher.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106100526744240519"
-        }
-      ]
-    },
-    {
-      "topic": "Starlink V3 deployment",
-      "category": "out_of_ai",
-      "subcategory": "space",
-      "summary": "Elon Musk shares a positive view of the Starlink V3 deployment.",
-      "mentions": [
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106098911840772412"
         }
       ]
     }
