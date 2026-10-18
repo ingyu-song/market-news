@@ -1,0 +1,484 @@
+{
+  "generated_at": "2026-10-18T00:33:45+00:00",
+  "mode": "daily",
+  "for_date": "2026-10-18",
+  "headline": "Trump Waives Russia Sanctions; Central Banks Warn on Rates; TSMC Expands Japan 3nm.",
+  "summary": "The Trump administration waived new sanctions on Russia, offering economic relief despite congressional mandates. Central banks globally are signaling prolonged high interest rates, citing the AI boom's capital demands and surging oil prices. TSMC secured significant aid for its 3nm Kumamoto plan in Japan.",
+  "sections": [
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "The Trump administration has waived new sanctions on Russia.",
+          "segments": [
+            {
+              "text": "This move offers economic relief to Russia, despite a new law mandating further sanctions, with the administration citing \"national interests\" for the exemption.",
+              "sources": [
+                {
+                  "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+                  "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Trump waives new Russia sanctions in the \"national interests\"",
+                  "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                },
+                {
+                  "title": "Trump exempts Russia from further sanctions mandated by new law",
+                  "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The decision raises questions from lawmakers regarding the legality of a diesel deal with Russia.",
+              "sources": [
+                {
+                  "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+                  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUs3dld2NFNzN0ZzNE9RSHNXOHdJLW15UTFfeks3U3E0NVpzRGNrMk9IQlZvX0lyQ3NucllOZVY4TEo3dUxMNi1oUzRWSGZlM3FOdTlYMDdFNDBkMksyeVBFb0V1Y1dYcWdZTTMyREYxZWxQR0lJQi1HOEJ5THJDRGJiY2hFUGV0WmFDQTVTaE1oZEtpci1Uc0x6WGowdjhSZGJjMjF2ZzVtSnBiWFZSb1U4dm8xTjFjek1QR2F5SlotRk56WTNVMnFKR0RNYlJldjlwYlhMNUNyNHBFcDI0YUdqSVY?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Corporate tax revenue has declined under the Trump administration.",
+          "segments": [
+            {
+              "text": "This fall occurred even as corporate profits soared, impacting overall government revenue.",
+              "sources": [
+                {
+                  "title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
+                  "link": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Central banks are signaling a prolonged period of high interest rates.",
+          "segments": [
+            {
+              "text": "This outlook is driven by the intense capital demands of the ongoing AI boom, which is creating a scramble for funds.",
+              "sources": [
+                {
+                  "title": "AI 붐 자금 쟁탈전에…중앙은행 \"고금리 장기화\" 경고",
+                  "link": "https://www.g-enews.com/view.php?ud=202610171145017619fda4f5ab74_1",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The Bank of Canada anticipates a sharply higher inflation outlook, primarily due to surging oil prices.",
+              "sources": [
+                {
+                  "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The U.S. faces significant economic challenges from its $2 trillion deficit.",
+          "segments": [
+            {
+              "text": "This deficit, coupled with 5% Treasury yields, is becoming a major concern for the American economy.",
+              "sources": [
+                {
+                  "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+                  "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "TSMC's 3nm Kumamoto plan in Japan has received government approval.",
+          "segments": [
+            {
+              "text": "The plan qualifies for up to $4.1 billion in aid, supporting the expansion of advanced semiconductor manufacturing capacity.",
+              "sources": [
+                {
+                  "title": "TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcklRS1E0NlZkUVQxemRmNmtXazhvSzFNSFJVYzkxRGVZMkh1THZkdmlYc01GbVNfV0diSlFQZzBxakdYa0hpcGNubXZvcVo5WjYzTnBYNWhLNkI0YUJmSm5pX3A4c1YxY1NUdHdlVFpHX1VGek9fdy1fLW1qbWpiUTM5Y3o2bVQ2VjZheUJ3?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "OpenAI is accelerating its advertising push and considering price reductions.",
+          "segments": [
+            {
+              "text": "The company is hiring Meta executives and slashing prices to compete for enterprise customers, while also facing Apple antitrust concerns from developers.",
+              "sources": [
+                {
+                  "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
+                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VmhydWdNYk4tSUlIUVBQcmlYMGRrbGQxc1NOTF9KQnB6TlBnTnBJaG9OdFR2NVNCQkhYME52S3RQZzhRME5UQlNJZUIzazhIZzZJ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Microsoft is experiencing an executive exodus.",
+          "segments": [
+            {
+              "text": "This outflow of leadership may foreshadow a significant business transition for the tech giant.",
+              "sources": [
+                {
+                  "title": "Microsoft’s Executive Exodus Foreshadows Business Transition",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHhscU5SU3A5ZjZKZG9vdlFJbWdVN1c5YUFYTVdteE0wTDA4dTZyOGNZNXJ5QUxQY2Y5REZzNGhXMUhMdzBxc2RhVzl0OFg3VWFGSkpOXzVSNVY3czdDMTl5eC1MdUVMY1JKRW4tRDliZ3Myem14Sl9CbnhLbDBnWXlCa1g0ekVxZUJ6OVVDT2lzRVU0QzNPZW9GQXl4MWtwTmhXblU0bHJZQTFTZ1l4RHozVHJrdw?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Oil prices are surging, impacting inflation forecasts.",
+          "segments": [
+            {
+              "text": "The Bank of Canada specifically noted that higher oil prices are expected to boost both economic growth and inflation.",
+              "sources": [
+                {
+                  "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "A Woodside natural gas project unit was paused due to a Greenpeace protest.",
+          "segments": [
+            {
+              "text": "This incident occurred off Western Australia, highlighting environmental activism's impact on energy projects.",
+              "sources": [
+                {
+                  "title": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia",
+                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtSYkpzYzU2WUhsb0V2bGwyamh6Z3dVYzZnaThBanotNU0wakx2RHdsLURpNWlTWXpDZllDZUQ1ZktNUThWXzVKWkZ4LVVWSWk2bXBwREd3MGRDelpPRHAtTmxfclh0WG1MQXBZQ01tbWxZa0VhZEFyWWJfdTV6cWpXWDFHb0syMFdTb3NfWl9TcjhzUm9pYUlTbDNVQ0t4RDEwb1RTRi1vVXpIeXh4YmZmN05zNVpHZkNiUi00ZUVheWcwazBhNw?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "The Kospi market shows a paradox of strong earnings against low stock valuations.",
+          "segments": [
+            {
+              "text": "Despite record-high corporate earnings, the Kospi's stock prices are at levels typically seen during a financial crisis.",
+              "sources": [
+                {
+                  "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
+                  "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439777",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Fed",
+      "note": "Watch for further signals on interest rate policy, given central bank warnings on prolonged high rates.",
+      "sources": [
+        {
+          "title": "AI 붐 자금 쟁탈전에…중앙은행 \"고금리 장기화\" 경고",
+          "link": "https://www.g-enews.com/view.php?ud=202610171145017619fda4f5ab74_1",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+          "source": "CNBC Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "TSMC",
+      "note": "Monitor developments in global expansion and government aid for advanced node manufacturing.",
+      "sources": [
+        {
+          "title": "TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcklRS1E0NlZkUVQxemRmNmtXazhvSzFNSFJVYzkxRGVZMkh1THZkdmlYc01GbVNfV0diSlFQZzBxakdYa0hpcGNubXZvcVo5WjYzTnBYNWhLNkI0YUJmSm5pX3A4c1YxY1NUdHdlVFpHX1VGek9fdy1fLW1qbWpiUTM5Y3o2bVQ2VjZheUJ3?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil Futures",
+      "note": "Track price movements as surging oil is a key factor in inflation outlooks.",
+      "sources": [
+        {
+          "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "OpenAI",
+      "note": "Observe strategic shifts in pricing and advertising as competition for enterprise AI customers intensifies.",
+      "sources": [
+        {
+          "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VmhydWdNYk4tSUlIUVBQcmlYMGRrbGQxc1NOTF9KQnB6TlBnTnBJaG9OdFR2NVNCQkhYME52S3RQZzhRME5UQlNJZUIzazhIZzZJ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "SPCX",
+      "note": "Monitor vertical integration efforts in datacenter infrastructure and power capacity utilization.",
+      "sources": [],
+      "x_mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Positive sentiment for Ibiden",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's vertical integration in datacenter cooling",
+      "category": "sectors",
+      "subcategory": "liquid_cooling",
+      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's in-house optical fiber development",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106909462141542687"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's 10GW power capacity and internal consumption",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106907946890457304"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink's in-flight internet service",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 4,
+  "x_generated_at": "2026-10-05T01:46:46+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7659.44,
+      "change": -84.62,
+      "change_pct": -1.09
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 52002.41,
+      "change": -175.28,
+      "change_pct": -0.34
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2721.37,
+      "change": -45.9,
+      "change_pct": -1.66
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 65324.29,
+      "change": 839.27,
+      "change_pct": 1.3
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 24186.83,
+      "change": 124.11,
+      "change_pct": 0.52
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5668.05,
+      "change": 113.83,
+      "change_pct": 2.05
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 47111.26,
+      "change": 145.29,
+      "change_pct": 0.31
+    }
+  ],
+  "story_count": 45,
+  "bucket_count": 13
+}

@@ -1,30 +1,24 @@
 {
-  "generated_at": "2026-10-17T23:43:11+00:00",
+  "generated_at": "2026-10-18T00:33:45+00:00",
   "mode": "daily",
-  "for_date": "2026-10-17",
-  "headline": "Trump Waives Russia Sanctions; AI Chip Capacity, Inflation Concerns Persist",
-  "summary": "President Trump waived new Russia sanctions, impacting energy tariffs and geopolitical stability. Concerns remain over the US $2 trillion deficit and 5% Treasury yields, while AI chip supply chain dynamics evolve with TSMC's Japan expansion and Nvidia's export control warnings.",
+  "for_date": "2026-10-18",
+  "headline": "Trump Waives Russia Sanctions; Central Banks Warn on Rates; TSMC Expands Japan 3nm.",
+  "summary": "The Trump administration waived new sanctions on Russia, offering economic relief despite congressional mandates. Central banks globally are signaling prolonged high interest rates, citing the AI boom's capital demands and surging oil prices. TSMC secured significant aid for its 3nm Kumamoto plan in Japan.",
   "sections": [
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump waives Russia sanctions and energy tariffs.",
+          "lead": "The Trump administration has waived new sanctions on Russia.",
           "segments": [
             {
-              "text": "President Trump exempted Russia from further sanctions mandated by a new law and waived energy tariffs, citing national interests.",
+              "text": "This move offers economic relief to Russia, despite a new law mandating further sanctions, with the administration citing \"national interests\" for the exemption.",
               "sources": [
                 {
                   "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
                   "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
-                  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUs3dld2NFNzN0ZzNE9RSHNXOHdJLW15UTFfeks3U3E0NVpzRGNrMk9IQlZvX0lyQ3NucllOZVY4TEo3dUxMNi1oUzRWSGZlM3FOdTlYMDdFNDBkMksyeVBFb0V1Y1dYcWdZTTMyREYxZWxQR0lJQi1HOEJ5THJDRGJiY2hFUGV0WmFDQTVTaE1oZEtpci1Uc0x6WGowdjhSZGJjMjF2ZzVtSnBiWFZSb1U4dm8xTjFjek1QR2F5SlotRk56WTNVMnFKR0RNYlJldjlwYlhMNUNyNHBFcDI0YUdqSVY?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
                   "title": "Trump waives new Russia sanctions in the \"national interests\"",
@@ -46,20 +40,15 @@
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Musk warns of Chinese DRAM by 2028.",
-          "segments": [
+            },
             {
-              "text": "Elon Musk has issued repeated warnings about the potential emergence of Chinese-produced DRAM by 2028.",
+              "text": "The decision raises questions from lawmakers regarding the legality of a diesel deal with Russia.",
               "sources": [
                 {
-                  "title": "\"2028년 중국산 D램 온다\"…머스크 잇단 경고, 속내는",
-                  "link": "https://n.news.naver.com/mnews/article/215/0001269518?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
+                  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUs3dld2NFNzN0ZzNE9RSHNXOHdJLW15UTFfeks3U3E0NVpzRGNrMk9IQlZvX0lyQ3NucllOZVY4TEo3dUxMNi1oUzRWSGZlM3FOdTlYMDdFNDBkMksyeVBFb0V1Y1dYcWdZTTMyREYxZWxQR0lJQi1HOEJ5THJDRGJiY2hFUGV0WmFDQTVTaE1oZEtpci1Uc0x6WGowdjhSZGJjMjF2ZzVtSnBiWFZSb1U4dm8xTjFjek1QR2F5SlotRk56WTNVMnFKR0RNYlJldjlwYlhMNUNyNHBFcDI0YUdqSVY?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -67,10 +56,10 @@
           ]
         },
         {
-          "lead": "Corporate tax revenue falls under Trump.",
+          "lead": "Corporate tax revenue has declined under the Trump administration.",
           "segments": [
             {
-              "text": "Corporate tax revenue has declined despite soaring profits during the Trump administration.",
+              "text": "This fall occurred even as corporate profits soared, impacting overall government revenue.",
               "sources": [
                 {
                   "title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
@@ -89,33 +78,34 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "US faces $2 trillion deficit and 5% Treasury yields.",
+          "lead": "Central banks are signaling a prolonged period of high interest rates.",
           "segments": [
             {
-              "text": "The United States is confronting a $2 trillion deficit and 5% Treasury yields, presenting a significant economic challenge.",
+              "text": "This outlook is driven by the intense capital demands of the ongoing AI boom, which is creating a scramble for funds.",
               "sources": [
                 {
-                  "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-                  "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "AI 붐 자금 쟁탈전에…중앙은행 \"고금리 장기화\" 경고",
+                  "link": "https://www.g-enews.com/view.php?ud=202610171145017619fda4f5ab74_1",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Bank of Canada anticipates higher inflation.",
-          "segments": [
+            },
             {
-              "text": "The Bank of Canada projects a sharply higher inflation outlook, primarily due to surging oil prices.",
+              "text": "The Bank of Canada anticipates a sharply higher inflation outlook, primarily due to surging oil prices.",
               "sources": [
                 {
                   "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
                   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -123,16 +113,16 @@
           ]
         },
         {
-          "lead": "Warsh pledges to address inflation.",
+          "lead": "The U.S. faces significant economic challenges from its $2 trillion deficit.",
           "segments": [
             {
-              "text": "Kevin Warsh has vowed to tame inflation, noting the \"shock\" delivered to the economy by AI.",
+              "text": "This deficit, coupled with 5% Treasury yields, is becoming a major concern for the American economy.",
               "sources": [
                 {
-                  "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy",
-                  "link": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+                  "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -145,27 +135,10 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Nvidia warns on export controls.",
+          "lead": "TSMC's 3nm Kumamoto plan in Japan has received government approval.",
           "segments": [
             {
-              "text": "Nvidia has stated that export controls could impede the virtuous cycle of technological leadership.",
-              "sources": [
-                {
-                  "title": "엔비디아 \"수출 통제, 기술 패권 선순환까지 막을 수 있어\"",
-                  "link": "https://www.tokenpost.kr/news/cryptocurrency/423836",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "TSMC's Japan 3nm fab approved with $4.1B aid.",
-          "segments": [
-            {
-              "text": "TSMC's plan for a 3nm fabrication plant in Kumamoto, Japan, has been approved, qualifying for up to $4.1 billion in government assistance.",
+              "text": "The plan qualifies for up to $4.1 billion in aid, supporting the expansion of advanced semiconductor manufacturing capacity.",
               "sources": [
                 {
                   "title": "TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid",
@@ -184,10 +157,10 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "OpenAI accelerates ad push and considers price cuts.",
+          "lead": "OpenAI is accelerating its advertising push and considering price reductions.",
           "segments": [
             {
-              "text": "OpenAI is reportedly intensifying its advertising efforts with new hires and exploring significant price reductions to compete.",
+              "text": "The company is hiring Meta executives and slashing prices to compete for enterprise customers, while also facing Apple antitrust concerns from developers.",
               "sources": [
                 {
                   "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
@@ -201,10 +174,10 @@
           ]
         },
         {
-          "lead": "Microsoft experiences executive departures.",
+          "lead": "Microsoft is experiencing an executive exodus.",
           "segments": [
             {
-              "text": "An executive exodus at Microsoft may signal an impending business transition for the company.",
+              "text": "This outflow of leadership may foreshadow a significant business transition for the tech giant.",
               "sources": [
                 {
                   "title": "Microsoft’s Executive Exodus Foreshadows Business Transition",
@@ -220,19 +193,64 @@
       ]
     },
     {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Oil prices are surging, impacting inflation forecasts.",
+          "segments": [
+            {
+              "text": "The Bank of Canada specifically noted that higher oil prices are expected to boost both economic growth and inflation.",
+              "sources": [
+                {
+                  "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "A Woodside natural gas project unit was paused due to a Greenpeace protest.",
+          "segments": [
+            {
+              "text": "This incident occurred off Western Australia, highlighting environmental activism's impact on energy projects.",
+              "sources": [
+                {
+                  "title": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia",
+                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtSYkpzYzU2WUhsb0V2bGwyamh6Z3dVYzZnaThBanotNU0wakx2RHdsLURpNWlTWXpDZllDZUQ1ZktNUThWXzVKWkZ4LVVWSWk2bXBwREd3MGRDelpPRHAtTmxfclh0WG1MQXBZQ01tbWxZa0VhZEFyWWJfdTV6cWpXWDFHb0syMFdTb3NfWl9TcjhzUm9pYUlTbDNVQ0t4RDEwb1RTRi1vVXpIeXh4YmZmN05zNVpHZkNiUi00ZUVheWcwazBhNw?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Bank earnings fail to boost US stocks.",
+          "lead": "The Kospi market shows a paradox of strong earnings against low stock valuations.",
           "segments": [
             {
-              "text": "US stocks saw a slight decline as recent bank earnings did not generate strong market excitement.",
+              "text": "Despite record-high corporate earnings, the Kospi's stock prices are at levels typically seen during a financial crisis.",
               "sources": [
                 {
-                  "title": "U.S. Stocks Tick Down as Bank Earnings Don’t Excite",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjc4TmVBTEFXWVpxaDF4SlNaZmdGTE5XMk1oeEhUQkRhQlJJeTZVN1RNWGRuR3NHajNfdkNqc2ZxTk15MEFOMkxCcXRZMGhlYmRURkVrTl8xRUcxSGpuVVN0Sks1a2JYZ3RjNEpPbVFUMk5EampnbFdRMnBaMElxakM0dHNPSnp1VjRieC1FRXZpcVlDT0xFRQ?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "실적은 역대급인데 주가는 금융위기 수준…\"코스피의 역설\"",
+                  "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439777",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -244,77 +262,39 @@
   ],
   "watchlist": [
     {
-      "name": "Trump Policy",
-      "note": "Watch for further policy shifts regarding sanctions and trade, particularly with Russia and China, as these actions continue to shape geopolitical and economic landscapes.",
+      "name": "Fed",
+      "note": "Watch for further signals on interest rate policy, given central bank warnings on prolonged high rates.",
       "sources": [
         {
-          "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
-          "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        },
-        {
-          "title": "The Morning Risk Report: Trump’s Diesel Deal With Russia Faces Questions From Lawmakers on Legality",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUs3dld2NFNzN0ZzNE9RSHNXOHdJLW15UTFfeks3U3E0NVpzRGNrMk9IQlZvX0lyQ3NucllOZVY4TEo3dUxMNi1oUzRWSGZlM3FOdTlYMDdFNDBkMksyeVBFb0V1Y1dYcWdZTTMyREYxZWxQR0lJQi1HOEJ5THJDRGJiY2hFUGV0WmFDQTVTaE1oZEtpci1Uc0x6WGowdjhSZGJjMjF2ZzVtSnBiWFZSb1U4dm8xTjFjek1QR2F5SlotRk56WTNVMnFKR0RNYlJldjlwYlhMNUNyNHBFcDI0YUdqSVY?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Trump waives new Russia sanctions in the \"national interests\"",
-          "link": "https://www.axios.com/2026/10/17/trump-russia-sanctions",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-        },
-        {
-          "title": "Trump exempts Russia from further sanctions mandated by new law",
-          "link": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "Trump Waives Russia Energy Tariffs, Sanctions in Graham Law",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "\"2028년 중국산 D램 온다\"…머스크 잇단 경고, 속내는",
-          "link": "https://n.news.naver.com/mnews/article/215/0001269518?sid=101",
+          "title": "AI 붐 자금 쟁탈전에…중앙은행 \"고금리 장기화\" 경고",
+          "link": "https://www.g-enews.com/view.php?ud=202610171145017619fda4f5ab74_1",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Oil Prices",
-      "note": "Monitor oil price movements given the Bank of Canada's inflation outlook and the impact of geopolitical events on energy markets.",
-      "sources": [
+        },
         {
           "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Nvidia",
-      "note": "Keep an eye on Nvidia's statements and actions regarding export controls and their potential impact on the global technology supply chain.",
-      "sources": [
+        },
         {
-          "title": "엔비디아 \"수출 통제, 기술 패권 선순환까지 막을 수 있어\"",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/423836",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+          "source": "CNBC Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "TSMC",
-      "note": "Observe developments around TSMC's global fab expansion, especially the Kumamoto 3nm plan, as it impacts future AI chip capacity.",
+      "note": "Monitor developments in global expansion and government aid for advanced node manufacturing.",
       "sources": [
         {
           "title": "TSMC’s 3nm Kumamoto plan wins Japan’s approval, qualifying for up to $4.1 billion in aid",
@@ -326,8 +306,27 @@
       "x_mentions": []
     },
     {
+      "name": "Oil Futures",
+      "note": "Track price movements as surging oil is a key factor in inflation outlooks.",
+      "sources": [
+        {
+          "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Macklem Sees Higher Oil Prices Boosting Growth, Inflation",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFdZUl90M1NDSVJCLWlrUUY3ZlI0aTFVYTJDTDBPajhaNF9sVGRiYTk0SXdwRHlUN3BZN2R1M3B2V1I2UXpnelBDYnVOalZ4Y0ltT3dxZXAxelczQ3Y1TTh2cE9ZeVc1VlU1WjN6dDNlNi1RZ3NjU2xUZFJJNkRUdE9EUDFselc5cFFnNHo0VGZUbDFnNGkyMEY2anFSanBxeWphZ1VMVEJ0eE9VaklZdjNUYXc?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
       "name": "OpenAI",
-      "note": "Track OpenAI's strategic moves in advertising and pricing as it navigates competition and aims for profitability.",
+      "note": "Observe strategic shifts in pricing and advertising as competition for enterprise AI customers intensifies.",
       "sources": [
         {
           "title": "OpenAI Accelerates Ad Push with Meta Hires & Slashed Prices, Apple Antitrust Worries Developers — TITV [Video]",
@@ -337,6 +336,17 @@
         }
       ],
       "x_mentions": []
+    },
+    {
+      "name": "SPCX",
+      "note": "Monitor vertical integration efforts in datacenter infrastructure and power capacity utilization.",
+      "sources": [],
+      "x_mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
     }
   ],
   "x_themes": [
@@ -469,6 +479,6 @@
       "change_pct": 0.31
     }
   ],
-  "story_count": 43,
+  "story_count": 45,
   "bucket_count": 13
 }
