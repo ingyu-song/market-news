@@ -1,48 +1,30 @@
 {
-  "generated_at": "2026-10-18T23:52:43+00:00",
+  "generated_at": "2026-10-20T00:53:28+00:00",
   "mode": "daily",
-  "for_date": "2026-10-18",
-  "headline": "Oil Slips on Russia Deal, BoE Cautious on Inflation, Tech Earnings in Focus",
-  "summary": "Oil prices declined following a US-Russia diesel deal, while the Bank of England maintained a hawkish stance on inflation. US stock futures edged higher ahead of a critical earnings week, with tech giants like Meta and Microsoft facing scrutiny on guidance and infrastructure projects.",
+  "for_date": "2026-10-20",
+  "headline": "China's Export-Driven Growth Continues; AI Chip Deals and Musk's SpaceX Pledge Drive Market Focus",
+  "summary": "China's economy saw stronger-than-forecast growth, driven by an AI boom and robust exports, despite global trade tensions. Key developments in the AI sector include a potential $45 billion cloud deal involving Nvidia-backed Nscale and Anthropic, alongside Nvidia's guidance to suppliers for next-gen memory chips. Elon Musk's pledge to distribute SpaceX shares to U.S. children also garnered significant attention.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "The Trump administration offered economic relief to Russia through a diesel deal.",
+          "lead": "China's economy surpassed growth forecasts, driven by exports and AI.",
           "segments": [
             {
-              "text": "This agreement, intended to facilitate ongoing talks with Russia, has contributed to a slip in oil prices due to the potential for increased Russian fuel supplies.",
+              "text": "Official statistics indicate strong exports stabilized economic growth, with an AI boom boosting overall figures.",
               "sources": [
                 {
-                  "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
-                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Trump Says Diesel Deal Aimed to Keep Talks With Russia Going",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGpqRFJsOUJCSUdaaC1ydDY0QXMyU1luaEIwWjFIS0RyYzNVc2o5QUdXR2l4cndpcG8wQ0g2VHJPWFFuZEtGRUpUNmR1RHBVNWdfOU9fRGNMYzROT0ZteTBXR1JkY2tETU4zTHEtRGFGSEoyQnFCOEFMRUFaRXJ0eUxSNF9rVDBRcGJDdnNyODV6b05JTG8zLTk4dUwzMlBfdHNWcGlrVnYxMFVOcnpVMg?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
-                  "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+                  "title": "Strong Exports Stabilize China’s Economic Growth in Official Statistics",
+                  "link": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
                   "source": "NYT Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "While some interpret the diesel deal as an incentive for peace, others contend that Russia would sell its oil regardless of such arrangements.",
-              "sources": [
+                },
                 {
-                  "title": "Wright calls Trump's diesel deal a peace incentive. Rubio says Russia would sell anyway.",
-                  "link": "https://www.axios.com/2026/10/18/trump-russia-diesel-deal-rubio-wright-sanctions",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+                  "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -50,10 +32,10 @@
           ]
         },
         {
-          "lead": "EU tariffs aimed at China are inadvertently affecting other nations.",
+          "lead": "EU tariffs targeting China are reportedly impacting Ukraine's steel sector.",
           "segments": [
             {
-              "text": "A steel industry executive reported that these tariffs are having an impact on Ukraine.",
+              "text": "A steel executive noted that tariffs intended for China are inadvertently affecting Ukraine's steel industry.",
               "sources": [
                 {
                   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
@@ -65,23 +47,18 @@
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
+        },
         {
-          "lead": "The Bank of England Governor expressed caution regarding inflation.",
+          "lead": "South Korea's $1 trillion chip investment risks U.S. policy backlash.",
           "segments": [
             {
-              "text": "It is considered premature to assess whether second-round inflation effects are materializing.",
+              "text": "The ambitious plan to revive a left-behind region through chip manufacturing could draw the ire of a potential Trump administration.",
               "sources": [
                 {
-                  "title": "Bank of England Governor Says Too Early to Make Call on Second-Round Inflation",
-                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVdrN3A1QTljaWt2QUhlR0l6RkljY3JiX3RUU2tLOEF4cDBOSXRqT1BOOWxvNmJlNmQ3bEh4YkdPS28waDZOT3FiNi10TTY1U2REX3c1RjJWMjRhTXhjY0NZckx3QXBIdkpsNXJQSElDYWsxWElXdW96dEZibUZOMDRJMm1FTmZWQVNsWnBqLWptT2RDT19VZ3JKNzdYd0REbWZOaTVqTEdlaVRaM2JpLXhVVWszb1ozVjFTQXlnR3J4SXc0NWc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Korea’s $1 Trillion Chip Bet to Revive Left-Behind Region Risks Trump’s Ire",
+                  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0Z4YUdWZXFjTWJKTHRwSlRmaGRXakpLN194V2J2RjhiU1UySVBtWTZxOXNRLUZSZHhKcVZZTkpMVmxEOXp6MlRWZXRRLXgxNkNXMFljT0ZqSXJCa1FKU0kxeWN2VDlTSDV2eUFydXhmcnczVGNEak1JQVh4TzJnWEtwUDRiQUtETENpWV9Nc1hoc09jcUF0ZjBYUkVrUG9sQlNxRkF3cmZzQkw1ZmRTeFhvanlMQW8wWUM4b3Q4M2w?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -89,34 +66,16 @@
           ]
         },
         {
-          "lead": "Oil prices experienced fluctuations amidst geopolitical tensions.",
+          "lead": "China's securities regulator prioritizes market stability amid global risks.",
           "segments": [
             {
-              "text": "Brent crude maintained levels near $110, influenced by ongoing conflicts in the Middle East and Ukraine, which also contributed to an overall climb in oil prices.",
+              "text": "The regulator has vowed to maintain market stability as global risks continue to mount.",
               "sources": [
                 {
-                  "title": "Brent Crude Holds Near $110 on Mideast and Ukraine Conflicts",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
-                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Japanese equities are projected to decline, driven by a tech share selloff and elevated oil prices.",
-              "sources": [
-                {
-                  "title": "Japanese Equities Set to Fall on Tech Share Selloff, Higher Oil",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclp0cmlPVzk4TGpWXy1MMWY5OG95aUtWR0YzZk56ZmZrd1pFaklZMHVFeXE0Um5GVzZOWERjMDJoSWJpeGc1RjRaak1rVlgxanNieF9fR2tYOE1vZllTQlE0ampXMVVXUlpBUzFqZ2VibXEtaG5mMkNFY1VsOXJvcHE4WGlYeU1PYVZTWUVRQnVTMzlHZDY5cDZsUEhXZC1ET1h3amdQb2NxakYtWlo1S2gxTQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "China's securities regulator vows to prioritise market stability as global risks mount",
+                  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmZGVFlJV21Id3g4Z3g4ZkNnRExYaGtuRVZORFpYb2pRZkRBYmpjbzNZVWotUUVhYzdyOHNtU3VOVldqWnRFVERMR1NqNWtzVlBqcWVPTkdVcVdKSGRLQTFrUVpoc3JoaktaX3YtalFTcDdCdXd4c0RiNWxRTjdGYnlaVWZJclp6RFBuTVlxRWw0SHBQTzJOMmhZclJqSWNqVnFFSUVMaEwwYXc2UUo4c2lwOEFzUXJrZ1VvRVlpOEFNb0JUNFpqV1lySXA?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -129,44 +88,22 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "A shakeout in the Neocloud sector is anticipated.",
+          "lead": "Nvidia-backed Nscale and Anthropic are negotiating a $45 billion AI cloud deal.",
           "segments": [
             {
-              "text": "Nvidia is positioned to incur significant losses in this forthcoming market adjustment.",
+              "text": "This potential agreement highlights significant investment in AI infrastructure and services.",
               "sources": [
                 {
-                  "title": "Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose",
-                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVVydlVtRDNpV0d6X3JIZlJENk5sSzU2YmlWYlBvRFllQTBTRjZEMk9lblVPMno3aG9Jc1NRRFlhQy1IdktiVUUtM1JoWEI1UHVlV1RuaVp6WDBaS01rTktSU0hLZE82RkFPaWI5ekk0TU04RHphakZKbGtmNmVLWFJGRGkxbkNsdFozNXBudC1ObjIxbjNDdUtYSHVVRjdqLUE?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
-        {
-          "lead": "US stock futures advanced ahead of a busy earnings reporting week.",
-          "segments": [
-            {
-              "text": "The market's attention is shifting towards corporate earnings as the AI rally shows signs of instability.",
-              "sources": [
-                {
-                  "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "As AI rally wobbles, stock market’s spotlight turns to earnings",
-                  "link": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913",
+                  "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+                  "link": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -174,16 +111,50 @@
           ]
         },
         {
-          "lead": "Investors are advised to exercise caution before Meta's upcoming earnings.",
+          "lead": "Nvidia has directed suppliers to utilize TSMC processes for next-generation memory chips.",
           "segments": [
             {
-              "text": "Analysts suggest a conservative approach to buying at low prices prior to Meta's results, with potential for the KOSPI to decline to 5,150.",
+              "text": "This move signals a continued reliance on TSMC for advanced memory manufacturing capabilities.",
               "sources": [
                 {
-                  "title": "“코스피 5,150선까지 하락할 수도…메타 실적 전 저가매수 신중”<한국...",
-                  "link": "https://www.news2day.co.kr/article/20261019500026",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcENpWHJUV2Z2SS1SbWYwbWVuaWZsMzc2NVBqMkpBbjViZ1dNaklBY1JMRXVjS2VoNzZ5LUVGZkM1aktLV3ZHb2pxQ3pyTnYzYXpSaERMZzFaN0U0dHBrQkYxUWNKWDZwejBuMEJsTW55R2Z1d0JMejNmdUNnSklBMDBKS0lpN3d4SWg0VHJDZWFhZG5EVVR3dlJyaXNnZDBCR0NIQjJUWTluMnc1U1E?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Huawei's DeepSeek is advancing its AI chips, posing a challenge to Nvidia.",
+          "segments": [
+            {
+              "text": "DeepSeek is reportedly shaping Huawei's AI chip development, intensifying competition in the sector.",
+              "sources": [
+                {
+                  "title": "How DeepSeek Is Shaping Huawei’s AI Chips in a Growing Challenge to Nvidia",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2RQSmZ0elVhQmxYNy1qajBvNDl5NlVmRlFfWlg1WHBtUGVicUNEZEFEbmR5eTVyOGY4cnpRc0tMVGxFTFIyV2pQTEtSLXpTT09KeUFndkV5bktmSERxQmcxX1FUNnhRMlZHdHQ4MnRMRzhuQ1JfajZ3Q1RncXRlVFcwNVBQdV93a0xvUVFEb2VfQlNvbG41dmVNSktQRk0?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Former Nvidia researchers secured $90 million for developing \"robot brains.\"",
+          "segments": [
+            {
+              "text": "Their startup aims to provide AI processing solutions at a cost of 75 cents per hour.",
+              "sources": [
+                {
+                  "title": "Robot Brains For 75 Cents/Hour? Former Nvidia Researchers Raise $90 Million",
+                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORFhxaTNnTWgwcFE2d0RnTGtkRFNOWm92aE9lY016Um1zbjJfNTB0VE5DbU8tQjJmeHAwMnF2QzdXbU1BX1pBU0VLQVo0V21CQ0VlWENPLURSQUNoUnBjREFVb0RTbGVQYS1wM2tMcm1Iejd6RmRtbE1KbTJsMUt5dl9VS1BNM0RQQ0dVenVSLXJfTU82djVYT3JCaDIxMU5LdmoxV05TVlg4RFRLUnpCUFB3V18wNExZOE9pLUw3Z195RGRo?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -193,37 +164,43 @@
       ]
     },
     {
-      "label": "Software / Internet / Platforms",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Microsoft withdrew from a significant UK data center project.",
+          "lead": "Elon Musk pledged to give a SpaceX share to every child in America.",
           "segments": [
             {
-              "text": "The company pulled out of Nscale's UK data center, which was slated to be the largest AI data center, citing delays and concerns over power supply.",
+              "text": "This widely reported announcement is part of a broader AI plan.",
               "sources": [
                 {
-                  "title": "Microsoft Pulls Out of Nscale U.K. Data Center Following Delays",
-                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGt5dnNxY2lxRzJpbFhwYUxxb0ZMTzF2bjN2cnhhQ0ZQaVN1cFNwdEdISWRpdk5zU2RqOEF5T1BkX2pVVWIyai1YVTJ6cmhkbHJOLVdqSDd5bjMzM05FOUl5S3dVVXVNTk05T2RtcW0yM2UtRno5OXBmS25wajdnRkNNNlNqdjZhbG5oY0NyaGk1M29ja2ppaHkwVUI?oc=5",
+                  "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+                  "link": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnEzdmRoVkFpTFdKZnNNTjBrUXVkdXVUOUp5cmVoYzlscUFydDd2SWpKYjhta080R3ZQTFlwY0FHX0wtWVVjTDR1T3dxZUNyaC1JcXlsSm9hOHFJdjlUY0hXNWF3QTBaX3I4SHdLeGlET3NBVjlMSHc3WGVBZEdva25Uc1ZZUmpZWjlhN093?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Musk’s Pledge To Give Every American Child A SpaceX Share Is Latest Hyped Philanthropic Promise",
+                  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZFdqTTZGVjlhbFN4VEE1UmtnRXAtMDRPajVzYVZLaFRvNWprNGtqMGxtS2M3YlFjeHZJblFQSlpYVjFNb1VpQ3FMaVo0YmRuZ3MxSVFWRi0zRE54eFZpcnNuRDdSSnd2UHZuT1AtNUxibmJhZnJPNXhFTjNCZ1g1LXJDOGxMNFh5SE16aVVnUUNUN3R0eXpzOEx1ZlhUbC1pTE5uVkZRZ0wzRmgzRGxTejY1NVh4WnhhSFF2cEpzQ2V6V2NWbm5NbGdUZkZIM3p4czBJNElVR2NHeTQ?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                },
+                {
+                  "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVU3N1Y2RVlSUlE3d3hJU0pkeGVscndiNEJMeUJSY1NBRFg5TnpWcWVGRnJKYm1uNTV5eVVGcEcteFRkWGlkc1duMzBXc2cwZG8tcXpUSkRMSm1mRkFVV0N5eTlKMEFoQVhENTVjTXNjR0FaX01XQ1p4SGFiUUdvQ0JlcVRkdXhoOVM0dVo3WUU?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 },
                 {
-                  "title": "Microsoft pulls out of UK data center deal with Nscale, Telegraph reports",
-                  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Microsoft pulls out of UK's largest AI data centre",
-                  "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                },
-                {
-                  "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
-                  "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "Musk pledges 1 SpaceX share for every child in America",
+                  "link": "https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -231,16 +208,85 @@
           ]
         },
         {
-          "lead": "Key technology companies are scheduled to release their Q3 updates this week.",
+          "lead": "SpaceX is pursuing vertical integration in datacenter cooling and optical fiber.",
           "segments": [
             {
-              "text": "Meta, Tesla, and Netflix are among the firms expected to report their third-quarter financial results.",
+              "text": "The company is reportedly developing its own optical fiber and reverse engineering datacenter components like racks and chillers.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106910342983057576"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "SpaceX's 10GW power capacity is primarily for internal demand.",
+          "segments": [
+            {
+              "text": "Approximately 60% of its power capacity is used internally, potentially driven by the success of Grok Bot, with 40% allocated to external customers.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106907946890457304"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "The Federal Reserve views the AI boom as a potential contributor to inflation.",
+          "segments": [
+            {
+              "text": "While the AI boom adds to inflation concerns, the costs may be borne by other sectors.",
               "sources": [
                 {
-                  "title": "Meta, Tesla and Netflix Q3 Updates Coming This Week",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbW9lcjBTSl8tMElzazgxbURkV2wzZF9FeEVzUlpUaEw4OHVVX0xfU0IzTzJlZ1gydk9PZ3A2VEQwQ3BSemNseVQtR1VpU2hXWXFvcy1kS0JRS3JzTGprbE1lS3NaV3o5VUdkcUp2NUVNYTZEclkzdmFHaUhwSk1FR0xELVN4U09KMlpQX1BKSDRoa2NOcjgxRHQwNy1Idw?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+                  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "New Zealand's year-end inflation surge suggests further rate hikes.",
+          "segments": [
+            {
+              "text": "An unexpected rise in inflation points to continued monetary tightening by the central bank.",
+              "sources": [
+                {
+                  "title": "New Zealand’s Year-End Inflation Surge Points to More Rate Hikes",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVFJQVhBQlh1YUItVTRicU00R2ZoVS1tNEFvbjlyRVB2a1M2Z041dmF1dmlkTkVQaUpEYjJyQk1OMFNNT2ItNURySnlldHpaOVB1RWkzMUMtdmFqUnQ2M2xzMnhzbUZfMWEtT09YQlgxRWR2SURSdC1uOE5LM29XVUgwdUg5NmN3bE9lcXdNZHdLcFR6Mk5lQW92T0gtVHNRaE1zNFByZWNzeERZblpZdDdhNFlHdw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "National Australia Bank plans to cut 2,500 jobs in a cost overhaul.",
+          "segments": [
+            {
+              "text": "This restructuring comes as credit growth slows for the bank.",
+              "sources": [
+                {
+                  "title": "National Australia Bank to cut 2,500 jobs in cost overhaul as credit growth slows",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1NXdDBPdHE1QktYQVlGcFhraENxRlVHbEFSczlSS1RrLUtVcmJWOTZaN0Q3azVjbnowbzg3ZFpHTTZsY3hSNlRHQklyV2tfZldwMFJpVVNkdjRsYzRCV2FHQmo2WkdXOTVRTGI1NWlHaFcyeDdySUhIMGJveGtjY0JydWdNRThLaUFtOE1qdDlHV3RWNGgxYXdwWlkxTVY2anhJRHBzalB5VVhPYXZXMG1RYk5zVzZ0c0xnNQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -253,32 +299,14 @@
       "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "SK Hynix experienced a notable stock decline.",
+          "lead": "SK Hynix is receiving significant financial support for its supply chain partners.",
           "segments": [
             {
-              "text": "SK Hynix ADR saw a sharp drop, with the KOSPI also falling by 4.75% in pre-market trading and SK Hynix itself plummeting 6.84%.",
+              "text": "Korean banks and government agencies are providing 1 trillion KRW and 2 trillion KRW, respectively, to SK Hynix's collaborators.",
               "sources": [
                 {
-                  "title": "프리마켓서 코스피 4.75%↓…SK하이닉스 6.84% 급락",
-                  "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=302880",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                },
-                {
-                  "title": "SK hynix Inc. ADR (SKHY) Stock Price Today - The Wall Street Journal",
-                  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TNS1odXZqVDRablNUVmtKQmlQa2N5V2wwUW5helN0bXlZUXV0REROSUFHNXVickFLbVlWajBBYTd5LU9lU2dSYmp6TG55RW5YZWtxUw?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "The National Pension Service's stock valuation decreased by 182 trillion won over three and a half months, affecting holdings in companies like Samsung and SK Hynix.",
-              "sources": [
-                {
-                  "title": "국민연금, 석 달 반 새 주식 평가액 182조원 증발…삼성·SK하이닉스에 ...",
-                  "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=65987",
+                  "title": "하나·KB국민은행, SK하이닉스 협력사에 1조원 금융지원",
+                  "link": "http://www.srtimes.kr/news/articleView.html?idxno=215262",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -288,16 +316,50 @@
           ]
         },
         {
-          "lead": "Political figures have commented on SK Hynix's subsidiaries.",
+          "lead": "SK Hynix is shifting AI data centers to a memory-centric design.",
           "segments": [
             {
-              "text": "Ahn Cheol-soo made strong statements regarding SK Hynix, asserting that Solidigm's listing must be prevented.",
+              "text": "This strategic move aims to optimize performance for demanding AI workloads.",
               "sources": [
                 {
-                  "title": "안철수, SK하이닉스 작심 발언…\"솔리다임 상장 반드시 막아야",
-                  "link": "https://n.news.naver.com/mnews/article/015/0005343821?sid=100",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "SK Hynix moves AI data centers from processor-centric to memory-centric design",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEY2OWw3c3BVeVNiWE9iWTRVMVF0OFdrcVUxVHZSZFFqNEQ5UmNMbVFaTUNEV21BbUJnTlpwb0FIN0MyX3BCWGZUYUpXanZROGZ4WUwtdDlkNmF5TmYxTTVXZDJIVjVXTkhyVFRraVpQZS1velppaWJqcFY5ZFhyN1FaYmZLTVhyYVFkelZLcnMtd2xtX1l3SHR2MVM?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "NAND flash prices are projected to rise by 30% in Q4.",
+          "segments": [
+            {
+              "text": "Market analysts anticipate a substantial increase in NAND pricing during the fourth quarter.",
+              "sources": [
+                {
+                  "title": "記憶體雜音多法人：Q4 NAND漲價三成- 日報",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jSmQyMHFsQzJodE45cEZ0T3NLTEprWFJEOVlqaHdodUpoN0JIUnRpU3dZcnZaOWFoSnFjRmNodjh5WHoyVVY2MlVZdTFCNWFYdEllMGZncnhQclBkbkFV?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China's HBM yield is reportedly targeting 50% within six months.",
+          "segments": [
+            {
+              "text": "This improvement could be a turning point for domestic AI chip production, though cost remains a significant challenge.",
+              "sources": [
+                {
+                  "title": "陸AI晶片迎轉機！HBM良率傳半年內拚升至50％ 成本仍是一大挑戰- 兩岸",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hX2FaY2EycWdHUnRHcVVnbGJ3MHBFbm9UMTh6R3p6MXd5OGxjSFlYWm15dnBtbVJzM3BGbkhqcVRnUlROdG5fOUtQNHZaN0gyZjM3S1NiVTBUY3I2MkdB?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
               ],
               "x_mentions": []
@@ -309,96 +371,137 @@
   ],
   "watchlist": [
     {
-      "name": "Oil",
-      "note": "Watch for further price movements influenced by geopolitical developments and supply changes.",
+      "name": "Nvidia",
+      "note": "Monitor continued focus on AI chip demand and strategic partnerships, especially regarding next-gen memory and cloud deals.",
       "sources": [
         {
-          "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+          "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+          "link": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "Trump Says Diesel Deal Aimed to Keep Talks With Russia Going",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGpqRFJsOUJCSUdaaC1ydDY0QXMyU1luaEIwWjFIS0RyYzNVc2o5QUdXR2l4cndpcG8wQ0g2VHJPWFFuZEtGRUpUNmR1RHBVNWdfOU9fRGNMYzROT0ZteTBXR1JkY2tETU4zTHEtRGFGSEoyQnFCOEFMRUFaRXJ0eUxSNF9rVDBRcGJDdnNyODV6b05JTG8zLTk4dUwzMlBfdHNWcGlrVnYxMFVOcnpVMg?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
+          "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcENpWHJUV2Z2SS1SbWYwbWVuaWZsMzc2NVBqMkpBbjViZ1dNaklBY1JMRXVjS2VoNzZ5LUVGZkM1aktLV3ZHb2pxQ3pyTnYzYXpSaERMZzFaN0U0dHBrQkYxUWNKWDZwejBuMEJsTW55R2Z1d0JMejNmdUNnSklBMDBKS0lpN3d4SWg0VHJDZWFhZG5EVVR3dlJyaXNnZDBCR0NIQjJUWTluMnc1U1E?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "SpaceX",
+      "note": "Watch for further details on Elon Musk's share pledge and updates on its vertical integration efforts in infrastructure.",
+      "sources": [
         {
-          "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
-          "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+          "title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+          "link": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         },
         {
-          "title": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
+          "title": "Musk Vows to Give Each U.S. Child a SpaceX Share",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnEzdmRoVkFpTFdKZnNNTjBrUXVkdXVUOUp5cmVoYzlscUFydDd2SWpKYjhta080R3ZQTFlwY0FHX0wtWVVjTDR1T3dxZUNyaC1JcXlsSm9hOHFJdjlUY0hXNWF3QTBaX3I4SHdLeGlET3NBVjlMSHc3WGVBZEdva25Uc1ZZUmpZWjlhN093?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Fed / BoE",
-      "note": "Central bank commentary on inflation and rates will be key for market direction.",
-      "sources": [
-        {
-          "title": "Bank of England Governor Says Too Early to Make Call on Second-Round Inflation",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcVdrN3A1QTljaWt2QUhlR0l6RkljY3JiX3RUU2tLOEF4cDBOSXRqT1BOOWxvNmJlNmQ3bEh4YkdPS28waDZOT3FiNi10TTY1U2REX3c1RjJWMjRhTXhjY0NZckx3QXBIdkpsNXJQSElDYWsxWElXdW96dEZibUZOMDRJMm1FTmZWQVNsWnBqLWptT2RDT19VZ3JKNzdYd0REbWZOaTVqTEdlaVRaM2JpLXhVVWszb1ozVjFTQXlnR3J4SXc0NWc?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Nvidia",
-      "note": "The looming Neocloud shakeout could impact AI chip sector leaders.",
-      "sources": [
-        {
-          "title": "Neocloud Shakeout Looms, and Nvidia Has a Lot to Lose",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVVydlVtRDNpV0d6X3JIZlJENk5sSzU2YmlWYlBvRFllQTBTRjZEMk9lblVPMno3aG9Jc1NRRFlhQy1IdktiVUUtM1JoWEI1UHVlV1RuaVp6WDBaS01rTktSU0hLZE82RkFPaWI5ekk0TU04RHphakZKbGtmNmVLWFJGRGkxbkNsdFozNXBudC1ObjIxbjNDdUtYSHVVRjdqLUE?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Meta",
-      "note": "Upcoming earnings will set the tone for the software and internet platform sector.",
-      "sources": [
-        {
-          "title": "“코스피 5,150선까지 하락할 수도…메타 실적 전 저가매수 신중”<한국...",
-          "link": "https://www.news2day.co.kr/article/20261019500026",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "Meta, Tesla and Netflix Q3 Updates Coming This Week",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbW9lcjBTSl8tMElzazgxbURkV2wzZF9FeEVzUlpUaEw4OHVVX0xfU0IzTzJlZ1gydk9PZ3A2VEQwQ3BSemNseVQtR1VpU2hXWXFvcy1kS0JRS3JzTGprbE1lS3NaV3o5VUdkcUp2NUVNYTZEclkzdmFHaUhwSk1FR0xELVN4U09KMlpQX1BKSDRoa2NOcjgxRHQwNy1Idw?oc=5",
+          "title": "Musk’s Pledge To Give Every American Child A SpaceX Share Is Latest Hyped Philanthropic Promise",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZFdqTTZGVjlhbFN4VEE1UmtnRXAtMDRPajVzYVZLaFRvNWprNGtqMGxtS2M3YlFjeHZJblFQSlpYVjFNb1VpQ3FMaVo0YmRuZ3MxSVFWRi0zRE54eFZpcnNuRDdSSnd2UHZuT1AtNUxibmJhZnJPNXhFTjNCZ1g1LXJDOGxMNFh5SE16aVVnUUNUN3R0eXpzOEx1ZlhUbC1pTE5uVkZRZ0wzRmgzRGxTejY1NVh4WnhhSFF2cEpzQ2V6V2NWbm5NbGdUZkZIM3p4czBJNElVR2NHeTQ?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        },
+        {
+          "title": "Musk Plans to Give a SpaceX share to “Every Kid in America”",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTVU3N1Y2RVlSUlE3d3hJU0pkeGVscndiNEJMeUJSY1NBRFg5TnpWcWVGRnJKYm1uNTV5eVVGcEcteFRkWGlkc1duMzBXc2cwZG8tcXpUSkRMSm1mRkFVV0N5eTlKMEFoQVhENTVjTXNjR0FaX01XQ1p4SGFiUUdvQ0JlcVRkdXhoOVM0dVo3WUU?oc=5",
           "source": "The Information",
           "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Musk pledges 1 SpaceX share for every child in America",
+          "link": "https://www.axios.com/2026/10/19/elon-musk-spacex-shares-kids",
+          "source": "Axios",
+          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+        }
+      ],
+      "x_mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "note": "Observe developments in its AI cloud deals and strategic partnerships, following reports of Google CEO Schmidt's stake.",
+      "sources": [
+        {
+          "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+          "link": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "SK Hynix",
-      "note": "Monitor memory sector performance and any political developments impacting its subsidiaries.",
+      "note": "Keep an eye on its memory-centric AI data center strategy and the impact of financial support for its supply chain.",
       "sources": [
         {
-          "title": "안철수, SK하이닉스 작심 발언…\"솔리다임 상장 반드시 막아야",
-          "link": "https://n.news.naver.com/mnews/article/015/0005343821?sid=100",
+          "title": "하나·KB국민은행, SK하이닉스 협력사에 1조원 금융지원",
+          "link": "http://www.srtimes.kr/news/articleView.html?idxno=215262",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "SK hynix Inc. ADR (SKHY) Stock Price Today - The Wall Street Journal",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TNS1odXZqVDRablNUVmtKQmlQa2N5V2wwUW5helN0bXlZUXV0REROSUFHNXVickFLbVlWajBBYTd5LU9lU2dSYmp6TG55RW5YZWtxUw?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "SK Hynix moves AI data centers from processor-centric to memory-centric design",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEY2OWw3c3BVeVNiWE9iWTRVMVF0OFdrcVUxVHZSZFFqNEQ5UmNMbVFaTUNEV21BbUJnTlpwb0FIN0MyX3BCWGZUYUpXanZROGZ4WUwtdDlkNmF5TmYxTTVXZDJIVjVXTkhyVFRraVpQZS1velppaWJqcFY5ZFhyN1FaYmZLTVhyYVFkelZLcnMtd2xtX1l3SHR2MVM?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "China Tech/EV",
+      "note": "Observe how China's export-driven growth and EV brand expansion navigate global trade policies and tariffs.",
+      "sources": [
+        {
+          "title": "Commentary: China's EV brands own the Paris Motor Show floor, but still yet to land on Macron's guest list",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlBxRjUxbHVTOFRpbURXUEh1TFpabXBHamVKN1VlQVlMUGxndzZxTHZYODBCdmJqUnpwRGIzaU1Qc1l0TjcxNTdqejA1MFI2VldOb0F2QS1JV1ZtMmpjTW9NaUdQV0xETU1KYWNfR1ZhdWNTSVAtS3FibWRMVEZUNTNTUHVGa2t5V0ZUR0p3aFJneU9MWjlLWm1laXQwZw?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "Strong Exports Stabilize China’s Economic Growth in Official Statistics",
+          "link": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+          "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        },
+        {
+          "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+          "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -473,41 +576,41 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7659.44,
-      "change": -84.62,
-      "change_pct": -1.09
+      "price": 7690.73,
+      "change": 31.29,
+      "change_pct": 0.41
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 26140.03,
-      "change": -573.0,
-      "change_pct": -2.15
+      "price": 26430.89,
+      "change": 290.85,
+      "change_pct": 1.11
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52002.41,
-      "change": -175.28,
-      "change_pct": -0.34
+      "price": 51966.03,
+      "change": -36.38,
+      "change_pct": -0.07
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2721.37,
-      "change": -45.9,
-      "change_pct": -1.66
+      "price": 2728.3,
+      "change": 6.93,
+      "change_pct": 0.25
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 65324.29,
-      "change": 839.27,
-      "change_pct": 1.3
+      "price": 64326.72,
+      "change": -621.32,
+      "change_pct": -0.96
     },
     {
       "name": "Hang Seng",
@@ -521,19 +624,19 @@
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5668.05,
-      "change": 113.83,
-      "change_pct": 2.05
+      "price": 5648.7,
+      "change": -73.25,
+      "change_pct": -1.28
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 47111.26,
-      "change": 145.29,
-      "change_pct": 0.31
+      "price": 46822.08,
+      "change": -360.44,
+      "change_pct": -0.76
     }
   ],
-  "story_count": 43,
-  "bucket_count": 12
+  "story_count": 65,
+  "bucket_count": 13
 }
