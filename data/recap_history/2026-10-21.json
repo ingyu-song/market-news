@@ -1,0 +1,746 @@
+{
+  "generated_at": "2026-10-21T00:21:08+00:00",
+  "mode": "daily",
+  "for_date": "2026-10-21",
+  "headline": "Musk Confirms Tesla-SpaceX Merger Talks; AI Server Demand Boosts Earnings",
+  "summary": "Elon Musk confirmed discussions for a potential Tesla-SpaceX merger, with special committees formed to evaluate the proposal. AI server demand drove strong earnings for Super Micro Computer, Nvidia, Samsung, and SK Hynix. Meanwhile, the AI industry faces power consumption bottlenecks, and the housing market shows warning signs.",
+  "sections": [
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Elon Musk confirmed discussions for a potential merger between SpaceX and Tesla.",
+          "segments": [
+            {
+              "text": "Special committees have been formed by both companies to evaluate the potential combination, with Musk citing \"considerable advantages\" and calling it a \"good idea.\"",
+              "sources": [
+                {
+                  "title": "머스크, 스페이스X·테슬라 합병 추진 공식화… \"상당한 장점\"",
+                  "link": "https://n.news.naver.com/mnews/article/469/0000960685?sid=104",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                },
+                {
+                  "title": "SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger",
+                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY00zSkw4YmpBaWNxVldDUDVjMWhWSUhfdzVTZWI5SFhUcUMwa0VUZ21xLW1rYmpnTTNjN0RCTnRWeXQ3UnFOYlgzQVU3LUhyeTBZZTNNdkdxZk4xM3BkYW5oZXVOOW9TY29ES2kzWTdzVkdfZGJVd3M2Q0VHVVJyQTZBYVdzTlNsYmZaOGhzTXJtb2N3M2REUzEzYnRaOEVJYUJiYjRvQUZYMzhuSWNPR3lFR2pfRGlCY0xF?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "Elon Musk says Tesla-SpaceX merger being considered",
+                  "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                },
+                {
+                  "title": "Musk calls Tesla-SpaceX merger a 'good idea' as SpaceX posts first profit as a public company",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "SpaceX and Tesla form special committees to evaluate potential merger, Musk says",
+                  "link": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-form-special-committees-to-evaluate-potential-merger-musk-says-4961262",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "SpaceX and Tesla boards explore potential merger",
+                  "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "SpaceX's Terafab aims for volume chip production by 2028, further integrating its operations.",
+              "sources": [
+                {
+                  "title": "SpaceX and Tesla’s Terafab targets 2028 for volume chip production, Musk says",
+                  "link": "https://www.investing.com/news/stock-market-news/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-musk-says-4961351",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Former President Trump faces new legal challenges and continues political spending.",
+          "segments": [
+            {
+              "text": "Trump Media shares hit a record low, down over 51% in a year.",
+              "sources": [
+                {
+                  "title": "Trump Media Shares Hit Record Low, Down Over 51% In A Year",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORW1fTHZ0b09NWERXSGowd3pSaF9mbXp4Nlc3b1ljN0hqaEhLNFhiOERFLWo0dTBnd0dlMWptd0FwRGlDcUczX0pBa2FBRHA3azRPWWVaZWNtdFZfTUZvUEsteWF0N2NsSTNranhlTjhMZzZKWXptazB5cmpzTURMQTNnS01QSkNRRE9EWVpNSG1KX0xvdVNzbFMwMTBBNHZ0WkE?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Trump is being sued over Canadian tariffs, adding to legal challenges regarding trade powers.",
+              "sources": [
+                {
+                  "title": "Trump sued over Canadian tariffs in latest legal challenge",
+                  "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                },
+                {
+                  "title": "Trump Tariffs on Canada Spark Latest Lawsuit Over Trade Powers",
+                  "link": "https://www.nytimes.com/2026/10/20/business/trump-tariffs-canada-lawsuit.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "He also announced an $8 billion plan to cover farm losses and plans to spend over $400 million to elect Republicans in midterms.",
+              "sources": [
+                {
+                  "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+                  "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Trump Says He’ll Spend More Than $400 Million To Elect Republicans In Midterms",
+                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNlA2ZE14cFVJU1lSdC1zQnZpZVF2bDBRZkdyb19FMDB5amdLeTZ1MEJ2UExYQXFrZ2Vnc0Z1dHRhbTlvbkNaSzFCNzNaQXdPV1NwblFqY2ZTQWF1Ul9YVUQxc2FleHBMNTRKTXRGdzFLUEhUZHNvVTlYQ1JudFRZOVFTSzcxSzVkeHNvTG5nWmdpZ0FzM0NkU2xsSk15Vy1sRldtVms0MGZtUV9aVHV5eHIyZXNpN1loVW5lYVA0NTBSbFJB?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "AI server demand boosted Super Micro Computer's preliminary revenue.",
+          "segments": [
+            {
+              "text": "Super Micro Computer shares rose after preliminary revenue exceeded guidance, driven by the AI server boom.",
+              "sources": [
+                {
+                  "title": "Super Micro sees quarterly revenue soaring on AI server boom",
+                  "link": "https://www.investing.com/news/stock-market-news/super-micro-expects-firstquarter-revenue-above-estimates-4961142",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Super Micro Computer Shares Up as Preliminary Revenue Tops Guidance",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmVYTXA1OU5xU3A2b3JfUFo1VTZvcXJfM3RFZFgwYmdqZEwtUHFvSjdMTTJWbGw1RmNBejlEemlRN2E3cTBMcUZIc3kzYzBNTDNnUWdPYWVXTkQzTnFSMUtScjNTWV9xSGhOVW1KVnZkeUVrU1lTUkpEVFAxUHZ5VFRQdndKMklFLVpseVdOMzFwRGJhRGcwMEl5Mnl3T2NsbklCcGo4UWJWZk91ZkMtMnk2d2I?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+                  "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia's strong guidance led to a market rally.",
+          "segments": [
+            {
+              "text": "Nvidia shares rallied following a beat on guidance, signaling robust performance in the AI sector.",
+              "sources": [
+                {
+                  "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+                  "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Samsung Electronics and SK Hynix saw significant rebounds.",
+          "segments": [
+            {
+              "text": "Both companies experienced 4-5% gains, respectively, on strong US AI server performance.",
+              "sources": [
+                {
+                  "title": "美 AI 서버 실적 호조에 삼성전자 4%·SK하이닉스 5%대 반등 [이런국장 ...",
+                  "link": "https://n.news.naver.com/mnews/article/011/0004673454?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Netflix reported a slowdown in revenue growth and a downbeat outlook.",
+          "segments": [
+            {
+              "text": "Revenue growth hit a three-year low, and the company's co-CEO acknowledged the need for improvement after a weak forecast.",
+              "sources": [
+                {
+                  "title": "Netflix Revenue Growth Hits Three-Year Low",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNem4ybk9yTkN4Y3FsRTFWekRUMmtSekprMW5qQUxXTmtjNjVsUW9IZGhza3J6QlRmZWVwUUQyWVpCY3NZMDVoQ0IyM09zek1HVmxrbGZMY082YmMtMVR1ZTlybm9heXlJZlVxQUc5VVNrRU5BTF9iTHVMLUhRQUxsNU9RdXZ3R0pGLVIw?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast",
+                  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+                  "link": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEliUElBYzE0WlcxV2VLNkZJSlFYcDJlZXBLeDZxOTZKNmlkMGRlQ003RWRjdE1YUVpZakxYaHZsY2YyVnAwYkhFSmhaUEZzWXJlalBHNFRSb2RhbUk3ZkhMRWJTNmZLaXhLX1NPRFk1Nks4TzNKNEpwUktvYWdKOE5Bb01QeUlVbGM0ZVhuTnNoNFBRd0RxdTd3Zjc4cVd4T1NrcXVaYlF4TWd2dnc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Netflix gives downbeat outlook as streaming hits dry up",
+                  "link": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Nvidia is expanding its investment in GPU cloud providers.",
+          "segments": [
+            {
+              "text": "Nvidia is moving to back GPU cloud provider Firmus after its IPO faced investor hesitation.",
+              "sources": [
+                {
+                  "title": "Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO",
+                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUhDX045dFpuNEV5Ul9vOGlYb2prbGg4X1dVMGdHYkR2bThwWGFpV1pFejNfMGtEd3dHaGtKTFc0UHh6d3pIYjZVQWE5c2R0U3R5OElfLWhYWmJldVJmWHZhRGRQUDJTWmRpZUVaWjdKem8xVWRkT01BZG1zUlpRblY0ak5nckRNU3RkRjNuRVhMdzBWWmVycHJvbHBXQjVId3BPaQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The company has committed over $170 billion towards Neoclouds, indicating significant investment in AI infrastructure.",
+              "sources": [
+                {
+                  "title": "Nvidia Has Put More Than $170 Billion on the Line for Neoclouds",
+                  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOODVkMllFWHVFZGhLWXdiSGdOVHF3UjBsVUdMMGxoRFF2aUJNRU13TkhKSzdjblI3a0FGVjE2TjRFUS1vRXJjLVJ5Z1A1M0Y4UTFmT0lGWXQ4NU9XNG1mNjZaU2c4NHU1REFLMXA4cC1hcDhsRFc3aF9zbEFsUDBqbEJmdw?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Nvidia also backed Pigment, which raised $250 million to compete with Microsoft.",
+              "sources": [
+                {
+                  "title": "Nvidia-Backed Pigment Raises $250 Million to Take on Microsoft",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzdiTy10MkxyX0NHZzZHU1djY1c1LVE5MDFhNlh1V0tfczVfLXNueGpaT0NySVJXSFAzYUJxNTFpUEM2OEt1VTlyUFdjcEJ2NDFsX2t1cDBsT0NvOWVTdUtNc19INmE5d2JneFVOVUhpczN1ZE9saU93WE95VzB3Ml9TMGxJTGdTNUlkdG5ET09qeFJKQVNDN3lBdXNGOU5uZE1Ma1k3OWFjMUxvTGlLUEtR?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Power consumption is emerging as a major bottleneck for the AI industry.",
+          "segments": [
+            {
+              "text": "Goldman Sachs estimates that $7.6 trillion will be poured into the AI industry, but power will be the biggest obstacle.",
+              "sources": [
+                {
+                  "title": "AI 산업에 7조6000억달러 쏟아져도…골드만삭스 \"전력이 최대 걸림돌\"",
+                  "link": "https://www.joongangenews.com/news/articleView.html?idxno=556840",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "HSBC's CEO warned that not every data center will be a good investment despite the AI boom.",
+              "sources": [
+                {
+                  "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+                  "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The housing market is showing warning signs amidst potential Fed rate hikes.",
+          "segments": [
+            {
+              "text": "Housing indicators are flashing red as the Federal Reserve considers further interest rate increases.",
+              "sources": [
+                {
+                  "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+                  "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "South Korea's exports reached a record high for October.",
+          "segments": [
+            {
+              "text": "Exports totaled $61.6 billion by the 20th of the month, marking the highest figure for the same period in October.",
+              "sources": [
+                {
+                  "title": "20일까지 수출 616억달러…10월 동기간 역대 최대",
+                  "link": "https://n.news.naver.com/mnews/article/028/0002828388?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Oil prices stabilized after a volatile session.",
+          "segments": [
+            {
+              "text": "Oil futures settled lower, with traders weighing conflicting signals regarding Iran talks.",
+              "sources": [
+                {
+                  "title": "Oil Steadies as Traders Weigh Conflicting Signals on Iran Talks",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblJWeWlxaDBENVkyZVNvTWhzNVFvNldZd01GVE9venlBdk5IRkw1RHpJQ2UtaWFrQmtnR1NNbVpsb0hzcTR2X0VBaWdhckRVd3BwYkphakFYcWJtZk1IZWZlcDAwMmxGbkpOaTk0M1hiaTFpMmZPVFRMUXhEZFpoazZtSnoyczE5akRHNVpBYnBPcHl6dDFoSHV6MjJ4UQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Morgan Stanley Raises Dated Brent Forecast on High Shipping Costs",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0h3dHJHbGNpS1RWZkd2TElGRDJzQlRvYTcyMWEzZDFyekF3cWE1V1ZTS05NTXlsNWhSNUxHbGkzZ21xVnVXOGxKaFROemdKSG0yaUVRWFVFQU9jeDJXZ2xVbUhTcVJQYTNHeVFEZ25QdzA4X09oRkc3VzJlNmtCalF6QURXRkdyemlUUTFLdkpLSXFtaWIxamwwWEszT0dHQUE?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "North Dakota oil companies speed up well completions as prices rise, state regulator says",
+                  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUkzdkdLbmthMWJveTRsTWs4U2p2VV9ZQlo3VkRmWHhubU5ZOTVfaXpBOFBaQ0Y0Y1FEcWwxUURhcnUtOHVreDl1VXRwNUFvczE0UFVVNmM0N0lzNnVMQkNwclFtclJzOVY3bUUyOVVidjRHVW1Ydnc1Vl9KWUZkeDEzdHR0dlhNUl9IbGJBYXFhZFRnaHJMbzFLYXh3NFZNVW5VX29EWkhxamx6a2lJNTN1LXoxTEZfbElJZzJHWjlRQ1FuWGY5WTNjZl8?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Morgan Stanley raised its Dated Brent forecast due to high shipping costs.",
+              "sources": [
+                {
+                  "title": "Morgan Stanley Raises Dated Brent Forecast on High Shipping Costs",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc0h3dHJHbGNpS1RWZkd2TElGRDJzQlRvYTcyMWEzZDFyekF3cWE1V1ZTS05NTXlsNWhSNUxHbGkzZ21xVnVXOGxKaFROemdKSG0yaUVRWFVFQU9jeDJXZ2xVbUhTcVJQYTNHeVFEZ25QdzA4X09oRkc3VzJlNmtCalF6QURXRkdyemlUUTFLdkpLSXFtaWIxamwwWEszT0dHQUE?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "South Korean firm Koyoung Technology is expanding into the Chinese AI and semiconductor markets.",
+          "segments": [
+            {
+              "text": "The company is strengthening its presence by participating in 'NEPCON ASIA 2026' to target the Chinese AI and semiconductor sectors.",
+              "sources": [
+                {
+                  "title": "고영테크놀러지, 중국 AI·반도체 시장 공략 강화…'NEPCON ASIA 2026' 참가",
+                  "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=367743",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Brazil is preparing for its debut China bond offering.",
+          "segments": [
+            {
+              "text": "Brazil is readying its first bond issuance in China, expected as soon as next week.",
+              "sources": [
+                {
+                  "title": "Brazil Readies China Bond Debut for as Soon as Next Week",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaW9hdE1yNlB3bzJTV3RZdHFUUG94aXdIdUF2S2prMHpZMWdBQkNwQnlza05pS050aHA1T3owN1FVeHNDN2JaOWY5bG1wbzBMajRsRWNodFM5ajU5RHg3ek14V0dJd2hYa0lXX25GenlHd1phQ2tXaGsta2puQVNjbWd2aXlRUklPbTVodXFIR0lqb2dkcGwxTHJCMmpZdF8wN1JrdHNLX3huYVU?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Japan's MMX mission successfully launched, gaining an edge in space exploration.",
+          "segments": [
+            {
+              "text": "Japan's MMX mission launched successfully, giving it an advantage over China in the race for the first Mars system sample return.",
+              "sources": [
+                {
+                  "title": "Japan's MMX mission launches successfully, gains edge over China in race for first Mars system sample return",
+                  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLYlJHVkhkYlJJTmFrajVPMUxtRzJRSGJhYnVtbVpaNVJ1NnM2SFhTMHJlakJMY3JQY2tuQkJmaUhWT21kQWxFV2VEcTg0dlE2VlhoQk9TbHVrZ0hFRmdfLTJTM1VvRy1pUHZ4c2R2ZnJqWHNqQTc0cg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Tesla / SpaceX",
+      "note": "Watch for further details on the potential merger between Tesla and SpaceX as special committees evaluate the proposal.",
+      "sources": [
+        {
+          "title": "머스크, 스페이스X·테슬라 합병 추진 공식화… \"상당한 장점\"",
+          "link": "https://n.news.naver.com/mnews/article/469/0000960685?sid=104",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "SpaceX’s Musk Lauds Its Soaring Cloud Business and Possible Tesla Merger",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY00zSkw4YmpBaWNxVldDUDVjMWhWSUhfdzVTZWI5SFhUcUMwa0VUZ21xLW1rYmpnTTNjN0RCTnRWeXQ3UnFOYlgzQVU3LUhyeTBZZTNNdkdxZk4xM3BkYW5oZXVOOW9TY29ES2kzWTdzVkdfZGJVd3M2Q0VHVVJyQTZBYVdzTlNsYmZaOGhzTXJtb2N3M2REUzEzYnRaOEVJYUJiYjRvQUZYMzhuSWNPR3lFR2pfRGlCY0xF?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Elon Musk says Tesla-SpaceX merger being considered",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+        },
+        {
+          "title": "SpaceX and Tesla’s Terafab targets 2028 for volume chip production, Musk says",
+          "link": "https://www.investing.com/news/stock-market-news/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-musk-says-4961351",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Musk calls Tesla-SpaceX merger a 'good idea' as SpaceX posts first profit as a public company",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHZoMzBtaGg1TmlMN19NRUEzM1lOZkpYb1ZXeWlLTnR4SkxObm1xbDBlN0RsQ2huaHBCMzRxU0VLb3ZPSS1ZeEdhampNY3VNclpoU2xGOWpoQjNfVzVDTHpqOVVRd0pZcVY3eGlpVkxjWTRrMGh4aWtCbVJVVnZ1Nnd1RkU1dFNtcUZCUnVxX1pRWXRTd09QUnpodWJSeEhpS3BKcmxsQkM1aFA1eExGSkNMMVIteV93OXZWa0Q2Vl9yUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "SpaceX and Tesla boards explore potential merger",
+          "link": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "Monitor Nvidia's ongoing investments in GPU cloud providers and Neoclouds, following strong guidance and market rally.",
+      "sources": [
+        {
+          "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+          "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Nvidia Moves to Back GPU Cloud Provider Firmus After Investors Balk at Its IPO",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSUhDX045dFpuNEV5Ul9vOGlYb2prbGg4X1dVMGdHYkR2bThwWGFpV1pFejNfMGtEd3dHaGtKTFc0UHh6d3pIYjZVQWE5c2R0U3R5OElfLWhYWmJldVJmWHZhRGRQUDJTWmRpZUVaWjdKem8xVWRkT01BZG1zUlpRblY0ak5nckRNU3RkRjNuRVhMdzBWWmVycHJvbHBXQjVId3BPaQ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Nvidia-Backed Pigment Raises $250 Million to Take on Microsoft",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzdiTy10MkxyX0NHZzZHU1djY1c1LVE5MDFhNlh1V0tfczVfLXNueGpaT0NySVJXSFAzYUJxNTFpUEM2OEt1VTlyUFdjcEJ2NDFsX2t1cDBsT0NvOWVTdUtNc19INmE5d2JneFVOVUhpczN1ZE9saU93WE95VzB3Ml9TMGxJTGdTNUlkdG5ET09qeFJKQVNDN3lBdXNGOU5uZE1Ma1k3OWFjMUxvTGlLUEtR?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Super Micro Computer",
+      "note": "Keep an eye on Super Micro Computer's performance as AI server demand continues to drive revenue growth.",
+      "sources": [
+        {
+          "title": "Super Micro sees quarterly revenue soaring on AI server boom",
+          "link": "https://www.investing.com/news/stock-market-news/super-micro-expects-firstquarter-revenue-above-estimates-4961142",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Super Micro Computer Shares Up as Preliminary Revenue Tops Guidance",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmVYTXA1OU5xU3A2b3JfUFo1VTZvcXJfM3RFZFgwYmdqZEwtUHFvSjdMTTJWbGw1RmNBejlEemlRN2E3cTBMcUZIc3kzYzBNTDNnUWdPYWVXTkQzTnFSMUtScjNTWV9xSGhOVW1KVnZkeUVrU1lTUkpEVFAxUHZ5VFRQdndKMklFLVpseVdOMzFwRGJhRGcwMEl5Mnl3T2NsbklCcGo4UWJWZk91ZkMtMnk2d2I?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+          "link": "https://www.cnbc.com/2026/10/20/stocks-making-the-biggest-moves-after-hours-isrg-nflx-spcx.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Fed",
+      "note": "The Federal Reserve's stance on interest rates will be key, especially with housing market warning signs and AI's power demands.",
+      "sources": [
+        {
+          "title": "AI 산업에 7조6000억달러 쏟아져도…골드만삭스 \"전력이 최대 걸림돌\"",
+          "link": "https://www.joongangenews.com/news/articleView.html?idxno=556840",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+          "source": "CNBC Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Netflix",
+      "note": "Monitor Netflix's efforts to address slowing revenue growth and its content strategy after a downbeat outlook.",
+      "sources": [
+        {
+          "title": "Netflix Revenue Growth Hits Three-Year Low",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNem4ybk9yTkN4Y3FsRTFWekRUMmtSekprMW5qQUxXTmtjNjVsUW9IZGhza3J6QlRmZWVwUUQyWVpCY3NZMDVoQ0IyM09zek1HVmxrbGZMY082YmMtMVR1ZTlybm9heXlJZlVxQUc5VVNrRU5BTF9iTHVMLUhRQUxsNU9RdXZ3R0pGLVIw?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Netflix co-CEO Sarandos says 'we could do better' after weak forecast",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmJuWl84Zk9TanlERndybWRsaTVoaF95bUgzbldjVzJKNzcwZEFEUFh4Z0xVa2o0aGFSSEVJT3d2WENIeURzMWV3VUFTY2NxRWF2WHBjTVRjZURraFVHMkZ6M0pkOXJOb01FYW5OWTdkcmM3WkVFcXR5UC1QbDVqOFRIYWpsc1VxaUdhMENKa0I1S1ZWSk1BZ3BrYmRYVVQ5Q1FpRHBlY1NZbndHMVZnYjBfRnQ3cGktWkcwZ28tVDVQSFNqR1dZaFJGSTJ0b0U?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+          "link": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        },
+        {
+          "title": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEliUElBYzE0WlcxV2VLNkZJSlFYcDJlZXBLeDZxOTZKNmlkMGRlQ003RWRjdE1YUVpZakxYaHZsY2YyVnAwYkhFSmhaUEZzWXJlalBHNFRSb2RhbUk3ZkhMRWJTNmZLaXhLX1NPRFk1Nks4TzNKNEpwUktvYWdKOE5Bb01QeUlVbGM0ZVhuTnNoNFBRd0RxdTd3Zjc4cVd4T1NrcXVaYlF4TWd2dnc?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Netflix gives downbeat outlook as streaming hits dry up",
+          "link": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Positive sentiment for Ibiden",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's vertical integration in datacenter cooling",
+      "category": "sectors",
+      "subcategory": "liquid_cooling",
+      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's in-house optical fiber development",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106909462141542687"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's 10GW power capacity and internal consumption",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106907946890457304"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink's in-flight internet service",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 4,
+  "x_generated_at": "2026-10-05T01:46:46+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7712.57,
+      "change": 21.84,
+      "change_pct": 0.28
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 52495.88,
+      "change": 529.85,
+      "change_pct": 1.02
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2773.42,
+      "change": 45.12,
+      "change_pct": 1.65
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 64970.26,
+      "change": 933.0,
+      "change_pct": 1.46
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23867.74,
+      "change": -319.09,
+      "change_pct": -1.32
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5666.34,
+      "change": 137.17,
+      "change_pct": 2.48
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 46292.93,
+      "change": -435.41,
+      "change_pct": -0.93
+    }
+  ],
+  "story_count": 68,
+  "bucket_count": 13
+}
