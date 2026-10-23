@@ -1,185 +1,39 @@
 {
-  "generated_at": "2026-10-22T00:23:12+00:00",
+  "generated_at": "2026-10-23T00:21:52+00:00",
   "mode": "daily",
-  "for_date": "2026-10-22",
-  "headline": "Tesla-SpaceX Merger Talks Emerge Amid Mixed Tech Earnings; UK Inflation Jumps",
-  "summary": "Tech stocks exhibited mixed performance, with Tesla's earnings beating estimates despite flat revenue, while CEO Elon Musk confirmed exploration of a Tesla-SpaceX merger. Nvidia and its partners saw positive sentiment, though broader tech earnings rallies showed signs of fading. Macroeconomic concerns resurfaced as UK inflation jumped to 3.5%, cementing expectations for further rate hikes.",
+  "for_date": "2026-10-23",
+  "headline": "China / Tariffs / Geopolitics leads today's tape",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 73 headlines bucketed into 6 editorial themes. X chatter highlights Positive sentiment for Ibiden.",
   "sections": [
     {
-      "label": "Trump 2.0 / US Policy",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Tesla is exploring a potential merger with SpaceX, according to CEO Elon Musk.",
+          "lead": "Trump Waives Sanctions Against Russia Just Before New Law Takes Effect.",
           "segments": [
             {
-              "text": "Elon Musk confirmed that Tesla and SpaceX are actively discussing a merger, a move he believes could create a $3.5 trillion entity.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Elon Musk Thinks $3.5 Trillion Tesla-SpaceX Mashup Is a Good Idea",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0M2MzA3LVVDM01zMC1MeUJKZ2JadWw0dlRyRHMtMGJwLXNCRjBkOW85Tmd6YU14eUIwWGtaR0JuR0hWcXd4VG5ZRTJXR3hpcks1c1I0QmF3My1XMTFWaWdGUXN0QXp6NWloYzV3LUNuSk1fY2R4endRWlhZQUt3WVhabkpkWWM1UW4ya3Z2Si1qY2R0cG9fZ25pN1VpSXBjUXlTb2dyWDBLYy1CYXJJdmEtNVQ0ckp2Mmc?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-                  "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The merger consideration comes as Tesla navigates spending cuts and sales targets.",
-          "segments": [
-            {
-              "text": "This consideration comes as Tesla cuts spending and sets lower sales targets, despite beating Q3 earnings projections.",
-              "sources": [
-                {
-                  "title": "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI, robots",
-                  "link": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
-                  "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                },
-                {
-                  "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-                  "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "The announcement briefly pushed Musk's net worth up by $88 billion, making him a trillionaire again.",
-              "sources": [
-                {
-                  "title": "Elon Musk Was Briefly A Trillionaire Again After SpaceX, Tesla Surge Pushed Net Worth Up $88 Billion",
-                  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1lUd185Ym1DV2Q0N0t3ZC11UjJYeldXSklwOFBramRnUVZyajdUSXRtQjV0YVRoSFU5bkhQUlpTbmdsUkRDc3ozdXd5VVpISzdZdUNmNWRMSjVfcUl3TmxITDVqWU0xd2ZZSmxjY2o3RWsweXVlYzAyYUZaVERTc1dxRjVEeUdvZWswenc1UEFlamZneDRMWFZRY1VDMF9mSTBpYkhVZ2xfYlNkeDVIak9oTk45QUprRktNaHo1RUhEMFd5NjlvdmRQWG1QUGlKOWc?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "US Semis / AI Chips",
-      "bullets": [
-        {
-          "lead": "Nvidia continues to expand its AI ecosystem with new partnerships and component supplier deals.",
-          "segments": [
-            {
-              "text": "Samsung Electro-Mechanics saw a 5% surge after establishing a partnership with Nvidia, while LG Innotek is developing robot sensing solutions with Nvidia for physical AI.",
-              "sources": [
-                {
-                  "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
-                  "link": "https://n.news.naver.com/mnews/article/001/0016393049?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Nvidia has expanded deals with six chip component suppliers, and CEO Jensen Huang emphasized Europe's AI potential, advocating for every country to build its own AI infrastructure.",
-              "sources": [
-                {
-                  "title": "Nvidia Expands Deals with Six Chip Component Suppliers",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2lZNDdNTjA2WnRNR041MzRJU1BlaDlRS0p2d2M4TlZmSEpZNDYwMzByZHVsbjhNZjBhOUlMaFpjeWtTSE1qNWVabjJnSGxtRUVjNVJYN0NaTGNqUXJVRFd1NjJmdzhRaHVvUVpncnBpQlpOdEswVi0wRHJmQWRrVXNqbnJCTkNQbGEwaE82bjlVUW1m?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                },
-                {
-                  "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
-                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
-                  "link": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Advanced packaging bottlenecks are being addressed as AI infrastructure expands.",
-          "segments": [
-            {
-              "text": "Advanced packaging bottlenecks in AI system integration are being addressed by Unimicron, STATS ChipPAC, and Wistron.",
-              "sources": [
-                {
-                  "title": "Unimicron, STATS ChipPAC, Wistron address advanced packaging bottlenecks in AI system integration",
-                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTGljZFpoM1FNemxnYmhreTFQaDBWVkpUeHliYU5rZDJYeEpJWVVTM3p4MEZBZE1Zb3dyS0tsaHhlTmFPNWdwdUN5WGhkSkdRcnBVQXlYMDVEZFFQZDFXVDJ5YVNzM1JxYWdrTkFQZzQtaHFUNmNlaUYwZzRWT1RPNFRlUzZzOWszanpuMUhVU0RQbnZtelpuYlJxMWE0UTVrLWtwcUE3U0paQXlU?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "SpaceX is pursuing vertical integration for its datacenter and AI infrastructure.",
-          "segments": [
-            {
-              "text": "SpaceX's aggressive vertical integration into datacenter cooling, including reverse engineering racks and chillers, and developing its own optical fiber, suggests a push for self-sufficiency in AI infrastructure.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106910342983057576"
-                }
-              ]
-            },
-            {
-              "text": "SpaceX's 10GW power capacity is primarily for internal demand, potentially driven by Grok Bot, with 40% allocated to external customers.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106907946890457304"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
-        {
-          "lead": "Tech earnings presented a mixed picture, with some companies exceeding expectations while broader market rallies faded.",
-          "segments": [
-            {
-              "text": "Tesla reported flat revenue but increased cash flow, beating Wall Street's Q3 earnings estimates.",
-              "sources": [
-                {
-                  "title": "Tesla Reports Flat Revenue, Increased Cash Flow as SpaceX Merger Talk Looms",
-                  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
+                  "title": "Trump Waives Sanctions Against Russia Just Before New Law Takes Effect",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVnOEloY0J4aFRTZFZ2N2hTeHBWeUVXV3VPQmR0c04zcFlCdEs0aW1jUDRNM05Za3NMQnhtQ3BmVXNQRUFNMms5eXJJdVE4Q01ud0ZlYVVKOGhhSHBncjFLaVl6djRPb1NPVDZ6MkFtbHlYWmV0cWJ5VEdpTW1adFREWXRHVmUtcjR0MEl5QXhmSnMyamtrTUxiZjZkLTQ?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump and Crypto Firm Sued for Profiting From Foreign Government.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
                 {
-                  "title": "Tesla’s Third-Quarter Earnings Beat Wall Street Estimates",
-                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFBvVE14dWlibVV3THM1MXM5M2ptaVRFMjE3cnZmWVJqd2NLMEVfMGtDaTNSU0tsclVjSHE5d0l4T3ljQXZXTFBJQVZyTXplVndSdDgzTXk0M1hoVjVyUlV5RExrS2lFSXU1Y2JvWlFDZnJaTXFUYXRQaUZFVE1hUjQ5QU5NUFd4NmRHS1lDVi1JUmtXOUN3TWt2dFRVd2tSTm5xV3ZxTzJJLUFh?oc=5",
+                  "title": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGxaUlpKOWZLdHc2YWVuMEJxc0FieDd4cDVWX0sweDJQUzhnQ2Y4Mng1MkdtaW15UE4tMXZxWDR3OW5HWUVpZ1RKQzZYdHVTUDJJcXl4MVRoc1BvTERtZXExOW82MEktblNtdnprbTNOa2FKelJIMV9qUTZnZ1ZQVmsyMVNST0J0XzZQbFEwTlZpM09VckljRWpsZnZWcjZTUGlZVFRtNFlLVEQySFZ0bWtqVTV0Zw?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -189,37 +43,14 @@
           ]
         },
         {
-          "lead": "Major tech firms announced strong revenues and strategic financial moves.",
+          "lead": "Typhoon Champi Shuts Taiwan’s $5 Trillion Stock Market.",
           "segments": [
             {
-              "text": "Meta Platforms posted $64 billion in revenue and announced a stock split, while IBM raised its annual software revenue outlook as deal delays eased.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Meta Posts $64 Billion In Revenue And Announces Stock Split In Q3 Earnings",
-                  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWWhib0o4ZGpzQXc0Q21qRTFEZkl1WXJyNmFFVldvb2NHdEFidmNjU3RPTjJ4R2ZyeVNvZ2pZM0ZtellIUG01cmpTcFdveVBRNzVHeGdfSWs1ZHd2NjFwX0hlRGlqYlh1b0Z1VXJzVmhCMmdjRS1ZQ0pPNUtrdlRkUXZfeEx4X0ZtOEpJS1Izc0JnbUZXOFIyT09KNWUtQmtPX0xqTXc4TjF4WElXM1B2aEJNM1BVRWhuOEg2LWRrWG5lTVpNd18wUFM2bw?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "IBM raises annual software revenue outlook as deal delays ease",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNXc4eW5mMHAyRUs0dWk0eVM3UkdXYW9GRUdXRzAtWXZjWFpqeGIzeC1vZUMzSGZETFFQRFdrWGFjTHQxMmFYdDN4VHlUb0hjTVlEdEN0NWEzT3ZCVlhzRmVNSlNTTWFMVGVKMG9rR0Z0d3ZUdnhQeUxadHdTcjRZTVhGRURsMlM1Q0hLXzAtMTRkdnVxRjdRUFJZbTl1YWxFRXU4blEyWQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Despite individual company successes, the broader tech earnings rally showed signs of weakening.",
-          "segments": [
-            {
-              "text": "US stock futures slipped as the tech earnings rally showed signs of fading.",
-              "sources": [
-                {
-                  "title": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
+                  "title": "Typhoon Champi Shuts Taiwan’s $5 Trillion Stock Market",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamV3emJJOWdua2gwT1ZyYnV2U3pQZ0UwaVVneEdwR2I0c3hUaHpGU3JxOXVGMll5MGxyYmY3NTFnWW1ocktQbFdLb1c1RGxFZWFubWxkZUxuc3RIcm02eFdJLVJVQXpjajZvR2l2SjI4d0Z5aEVPZkJHS1cweEtITi03Q0N4WUFEanhsTENNeUY0cUZrcWxheG55c0FLR0cwUUJKd1JYaw?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -234,28 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "UK inflation surged to 3.5%, intensifying expectations for further interest rate hikes.",
+          "lead": "US Treasury proposes tighter rules on investing in sensitive Chinese tech.",
           "segments": [
             {
-              "text": "The jump in UK inflation, coupled with a £24 billion monthly deficit, presents a significant challenge for the Chancellor's Budget.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Double blow to Healey as inflation rises to 3.5% and monthly deficit hits £24bn",
-                  "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-                  "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                },
-                {
-                  "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-                  "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+                  "link": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -263,22 +82,16 @@
           ]
         },
         {
-          "lead": "Economists and housing markets signal caution regarding persistent inflation and potential rate increases.",
+          "lead": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests.",
           "segments": [
             {
-              "text": "An economist suggested that interest rates should be raised as insurance against persistent inflation, while housing markets are flashing warning signs as the Fed considers more hikes.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Interest rates should be raised as insurance against persistent inflation – economist",
-                  "link": "https://seekingalpha.com/news/4655415-interest-rates-should-be-raised-as-insurance-against-persistent-inflation-economist?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-                },
-                {
-                  "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-                  "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "U.S. Treasury Yields Turn Higher With Oil; French Bond Yields Rise on Protests",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -286,16 +99,16 @@
           ]
         },
         {
-          "lead": "Shin Hyun-song's remarks are being closely watched for signals on future rate policy.",
+          "lead": "Bank of Canada Survey Records Notable Rise in Inflation Expectations.",
           "segments": [
             {
-              "text": "Shin Hyun-song's remarks on interest rates are being watched for signals of potential additional rate increases.",
+              "text": "",
               "sources": [
                 {
-                  "title": "신현송 '미소 띤 표정'…기준금리 동결 전망 속 '추가 인상 신호' 주목",
-                  "link": "https://n.news.naver.com/mnews/article/421/0009243046?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDBwUUhTck9tQ3ZiSUlQVXVGRWxMMWExUlJaWDVRTENTVHU0anA4NDZmdWR1NEVjMmQ2ZURVcDZkV0VUeXhBUEhBb1JwemM5czY3X0loRFRSQkFQNHkzZDVpbHcwNHJ6OGFiUE1VZzJlcy1rX0I2WU9Dc2pUWElnUWh2V01GNVJOR3VQSEhYTF9OUVhtcWE5QmdhdGpmMVV0bkJJNFZLN2gwWjRjaGdGSENnX1ZCanMxdGV6dTNn?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -305,19 +118,19 @@
       ]
     },
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "US tech firms are adjusting strategies in Asia amid evolving geopolitical and trade dynamics.",
+          "lead": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal.",
           "segments": [
             {
-              "text": "Samsung and SK Hynix are reportedly upgrading their China NAND fabs to counter YMTC, signaling a softening US stance.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Samsung, SK Hynix reportedly upgrading China NAND fabs to fend off YMTC amid softening US stance",
-                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYlVCNnpzTjVsdzBkV3drREdVMk5qMkdrX3hEazJfd0ExWDFtZVl6UUxRRklCVTc0TXVBV3owTU5PZC1oUU5nVzhhcHlYTEkzbW84QXFWdWdjWjAtc2FjWUNScUpkbkNIbHJkbWthTW9WWkNoY2FGVVg4MnFvclZoaDB2M1Joejdhdk9Z?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
+                  "link": "https://www.investing.com/news/stock-market-news/analysismusks-political-baggage-clouds-prospects-for-spacextesla-deal-4965229",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -325,16 +138,16 @@
           ]
         },
         {
-          "lead": "Taiwan's tech supply chain is exploring new US industrial clusters and labor agreements.",
+          "lead": "Trump Waives Sanctions Against Russia Just Before New Law Takes Effect.",
           "segments": [
             {
-              "text": "Taiwan's tech supply chain is exploring Texas for its first US industrial cluster, while Micron reached a deal with a Taiwan union for quarterly profit bonuses.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Taiwan tech supply chain eyes Texas for first US industrial cluster",
-                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTRYZlhpcFhWd3JRNmp1dGxmaG9QcGlneHRCdEZkN0N0Ul9TUkZrZzhHcGc5UHdkQjNtSDJtZ0lWWjRhNWlCQzU4aTBIU29GUDJ6c1Y1b3FrdWIzZzVhM3Y1Qlk3eHgtbHZPMi1kYjZyUjh5QzZoTkU4QlJFeGZQNVc3VGlmb2p0TmZacDRsWHA5anpuVUlZSkREQlB3aUhGMWc?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Trump Waives Sanctions Against Russia Just Before New Law Takes Effect",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVnOEloY0J4aFRTZFZ2N2hTeHBWeUVXV3VPQmR0c04zcFlCdEs0aW1jUDRNM05Za3NMQnhtQ3BmVXNQRUFNMms5eXJJdVE4Q01ud0ZlYVVKOGhhSHBncjFLaVl6djRPb1NPVDZ6MkFtbHlYWmV0cWJ5VEdpTW1adFREWXRHVmUtcjR0MEl5QXhmSnMyamtrTUxiZjZkLTQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -342,22 +155,111 @@
           ]
         },
         {
-          "lead": "Former President Trump faces legal challenges and announced new agricultural support.",
+          "lead": "Trump and Crypto Firm Sued for Profiting From Foreign Government.",
           "segments": [
             {
-              "text": "Former President Trump faces a lawsuit over Canadian tariffs and announced an $8 billion plan to cover farm losses.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Trump sued over Canadian tariffs in latest legal challenge",
-                  "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                },
+                  "title": "Trump and Crypto Firm Sued for Profiting From Foreign Government",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGxaUlpKOWZLdHc2YWVuMEJxc0FieDd4cDVWX0sweDJQUzhnQ2Y4Mng1MkdtaW15UE4tMXZxWDR3OW5HWUVpZ1RKQzZYdHVTUDJJcXl4MVRoc1BvTERtZXExOW82MEktblNtdnprbTNOa2FKelJIMV9qUTZnZ1ZQVmsyMVNST0J0XzZQbFEwTlZpM09VckljRWpsZnZWcjZTUGlZVFRtNFlLVEQySFZ0bWtqVTV0Zw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Nvidia’s Powerful B300 Chips Spotted on Chinese State-Owned Network.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
                 {
-                  "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
-                  "link": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Nvidia’s Powerful B300 Chips Spotted on Chinese State-Owned Network",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEFRa0JURUphT0tQUERUU09JTlBqSG1FWVlzeUszZHVPaE16bFlfeDcwdHpTWElQR0VJT0tjcmZPZUk3aEFnRVVRX2xUZHdZcW1pR3VoX3RSTUlwUUNMOE1SeW5PWk1HaGd5X1NGTW03RFZ1czJTdDQwWHl0SGVNd0V2WFh4bS1LWk5FTVlKNmNSMWxndFR6bVRnZVlHekdmaWY0UGNzVQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "達梭系統出席NVIDIA GTC Berlin 2026大會展示AI驅動的虛擬雙生工廠- 產業.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "達梭系統出席NVIDIA GTC Berlin 2026大會展示AI驅動的虛擬雙生工廠- 產業",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85WERMdFloSkRZSXpMbXFXR0FHbnRoYmNXMFhSMkxhQXNJdmhNaHpncUJWVGVRUklwaGtaN3VVZVd0QkdDTVhCWUMxZjRTcUxCY3ZkbEJBVFRCVVU2dXRN?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Infineon, Nvidia push gallium nitride power for 800-volt AI data centers.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Infineon, Nvidia push gallium nitride power for 800-volt AI data centers",
+                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkxkZ0pZaWM0X0s3TkdyZkxFUWVPaTFMdGIydXJnTlROczdmOVpUdDlCdHdRTS1yYndORmV2aF9KcXJZYWlOVU1FTTVReG1OMzBKZG5pTVk5Q3p1aEpyWjIwX1NNWjRNTVhtVFlEMElLYUpxRE83em5BWEI3b0dMdzBwLXktekNh?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Meta’s AI Funding Push, a Major PHP Security Flaw and Tesla’s Flat Revenue & Positive Free Cash Flow.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Meta’s AI Funding Push, a Major PHP Security Flaw and Tesla’s Flat Revenue & Positive Free Cash Flow",
+                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WaEpCQ0ZQcUM2NmNuLXRxX2ZIXzRUQWc2VE5sMVlwcjNaNUp6QS1CUjVWZ3BLSTFYemFFbjJOaHF5cjYtaUhtOFpfb2k4S3hHZDAw?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "AI Stocks Slide As Spending Anxiety Festers After Tesla, Meta Earnings",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVU3cnA1OUVuOGpQUVM4ak5nMWxVUDEyZ3hmTk45YVJxdkF2WXhVUUVOVjczT0NCbUZ1REtQVVlkelFPXy12TGc0cDJSWV9TWlRmZEFHbjdDS3BpX0pPUlB1TEQ4WFhueGZnd0t1MlNoOEZSX3JPekVmUEtNcG9hZWltejZWS1lWV3MxZ3FZRTNja2lqbGZhWnlBaW1YVjZBcmdkLWRjRVpKeEhtQVZ1VlRXZmJ5OVVmMjFSTWZR?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -370,22 +272,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Meta is restructuring its strategy to fund AI investments and address regulatory challenges.",
+          "lead": "Steep bill for AI buildout punishes Meta, other tech favorites.",
           "segments": [
             {
-              "text": "Meta plans a stock split and a new class of stock to fund its massive AI investments, placing its Muse agent at the core of its AI strategy.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments",
-                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+                  "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Meta Is Getting Creative to Fund Its Massive AI Investments",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3g4ZE5XUU1TakhLTFpLUjhESkRHVWdvZHpLZFBHTlVZU1RNMHR0RmpoZHlrZmo3ZnNQNVFRNXRVSlkzYndPV3o1RzJlRjJZei1zSFF4M1RhaXo4RWxMRDVsalh3dml2bWdtaUpHbjBWSXNVQmtVMFpwWGQ0MF9vdk9ldTlGU3AwbFV5QjBoWmRfeDFTenE2Sg?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -393,45 +289,33 @@
           ]
         },
         {
-          "lead": "The company faces significant penalties over data privacy.",
+          "lead": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears.",
           "segments": [
             {
-              "text": "The company was ordered to pay a $25 billion penalty to New Mexico in a data privacy case, highlighting ongoing regulatory scrutiny.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case",
-                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Meta fined $25bn for 'lies' over user data privacy",
-                  "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Cybersecurity threats are emerging, with Chinese-linked hackers targeting global networks.",
-          "segments": [
-            {
-              "text": "Chinese-linked hackers compromised ConnectWise, targeting hundreds in a global attack, and Amazon warned of new AI-detected cyber flaws being broadly exploited.",
-              "sources": [
-                {
-                  "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
-                  "link": "https://www.investing.com/news/stock-market-news/chineselinked-hackers-compromise-connectwise-target-hundreds-in-global-attack-microsoft-says-4964230",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
-                  "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+                  "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
+                  "link": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
                   "source": "Financial Times",
                   "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AI基建燒錢Meta自由現金流轉負降至負21.2億美元- 日報.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "AI基建燒錢Meta自由現金流轉負降至負21.2億美元- 日報",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xSzgyQzUwcFN6TkxIM1pPYVdOZW5yX1FLcVhIVVhDaHFFWlg1WDNvYUVoRGRjZWI5UTYxWXZmb1htdllibkk2aFY3MDRrZkl0ZHJDWWdXYVBIZWpEMy1z?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
               ],
               "x_mentions": []
@@ -443,48 +327,12 @@
   ],
   "watchlist": [
     {
-      "name": "Tesla (TSLA)",
-      "note": "Watch for further details on the potential SpaceX merger and its implications for capital allocation and sales targets.",
+      "name": "TRUMP",
+      "note": "Trump Waives Sanctions Against Russia Just Before New Law Takes Effect",
       "sources": [
         {
-          "title": "Tesla cuts spending before potential SpaceX deal even as Musk bets future on AI, robots",
-          "link": "https://www.investing.com/news/stock-market-news/musks-tesla-revenue-beats-estimates-as-deliveries-rebound-energy-storage-grows-4963934",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Elon Musk Thinks $3.5 Trillion Tesla-SpaceX Mashup Is a Good Idea",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0M2MzA3LVVDM01zMC1MeUJKZ2JadWw0dlRyRHMtMGJwLXNCRjBkOW85Tmd6YU14eUIwWGtaR0JuR0hWcXd4VG5ZRTJXR3hpcks1c1I0QmF3My1XMTFWaWdGUXN0QXp6NWloYzV3LUNuSk1fY2R4endRWlhZQUt3WVhabkpkWWM1UW4ya3Z2Si1qY2R0cG9fZ25pN1VpSXBjUXlTb2dyWDBLYy1CYXJJdmEtNVQ0ckp2Mmc?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
-          "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
-          "link": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        },
-        {
-          "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-          "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Elon Musk Was Briefly A Trillionaire Again After SpaceX, Tesla Surge Pushed Net Worth Up $88 Billion",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1lUd185Ym1DV2Q0N0t3ZC11UjJYeldXSklwOFBramRnUVZyajdUSXRtQjV0YVRoSFU5bkhQUlpTbmdsUkRDc3ozdXd5VVpISzdZdUNmNWRMSjVfcUl3TmxITDVqWU0xd2ZZSmxjY2o3RWsweXVlYzAyYUZaVERTc1dxRjVEeUdvZWswenc1UEFlamZneDRMWFZRY1VDMF9mSTBpYkhVZ2xfYlNkeDVIak9oTk45QUprRktNaHo1RUhEMFd5NjlvdmRQWG1QUGlKOWc?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        },
-        {
-          "title": "Tesla Reports Flat Revenue, Increased Cash Flow as SpaceX Merger Talk Looms",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
+          "title": "Trump Waives Sanctions Against Russia Just Before New Law Takes Effect",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUnVnOEloY0J4aFRTZFZ2N2hTeHBWeUVXV3VPQmR0c04zcFlCdEs0aW1jUDRNM05Za3NMQnhtQ3BmVXNQRUFNMms5eXJJdVE4Q01ud0ZlYVVKOGhhSHBncjFLaVl6djRPb1NPVDZ6MkFtbHlYWmV0cWJ5VEdpTW1adFREWXRHVmUtcjR0MEl5QXhmSnMyamtrTUxiZjZkLTQ?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
@@ -492,131 +340,53 @@
       "x_mentions": []
     },
     {
-      "name": "Nvidia (NVDA)",
-      "note": "Monitor new collaborations and statements from CEO Huang regarding AI ecosystem growth and global AI infrastructure build-out.",
+      "name": "Meta",
+      "note": "Meta’s AI Funding Push, a Major PHP Security Flaw and Tesla’s Flat Revenue & Positive Free Cash Flow",
       "sources": [
         {
-          "title": "[특징주] 삼성전기, 엔비디아와 파트너십 구축에 장 초반 5%대↑",
-          "link": "https://n.news.naver.com/mnews/article/001/0016393049?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGRlMHl1WTZEajZ1em9odVlVQzlDd1FDX3VXQzYwaFlkZ2tFcktZT3g0Y1JLcGJVbTZxSzdHM3pSNzY3Q1MyZlpjYXRfVTZrRDVEM09velVsbk52MXdDbjJwUHkyUTlUZHR4X2d6SlkzeHFONlktS01wcVZJMDRyWW02NDN2ZVpyWDdLdk1ZbkpraDdYdWx5a2FEeFFYZklzNGZQSTE2UHNGYVZYVERiOUdjUzhpU2dCQWx1UkJB?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Nvidia Expands Deals with Six Chip Component Suppliers",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2lZNDdNTjA2WnRNR041MzRJU1BlaDlRS0p2d2M4TlZmSEpZNDYwMzByZHVsbjhNZjBhOUlMaFpjeWtTSE1qNWVabjJnSGxtRUVjNVJYN0NaTGNqUXJVRFd1NjJmdzhRaHVvUVpncnBpQlpOdEswVi0wRHJmQWRrVXNqbnJCTkNQbGEwaE82bjlVUW1m?oc=5",
+          "title": "Meta’s AI Funding Push, a Major PHP Security Flaw and Tesla’s Flat Revenue & Positive Free Cash Flow",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WaEpCQ0ZQcUM2NmNuLXRxX2ZIXzRUQWc2VE5sMVlwcjNaNUp6QS1CUjVWZ3BLSTFYemFFbjJOaHF5cjYtaUhtOFpfb2k4S3hHZDAw?oc=5",
           "source": "The Information",
           "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        },
-        {
-          "title": "Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY2tqVW5kZ3c4OEhReHAxR3M5a3NXZnVyTTM3LTdsZjduQnJmZHZkNkNsVk1COWU1Ri1UVF90TE5xR2MwbkpiX1dHU0locHh5TGQwMGFucy1xQ05WNndXRHJHdEwyc0s3NE1WaHdMaXpjbC1keEluc2s4UnRQMzQ2S2ZHeTNMYk9TOV80VmFJT0RHUF9LUTZZRV82SENHZGs3ZkZNTzJZVHNnWjIyZWo0cA?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Nvidia's Huang hails Europe's AI potential, flanked by robot ducks",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUI3QU5iX211d3BmcjFoa3dpWXROZjd4bm5rZ0ZaVkRQaEtlVmdUdkhoWlVTQzd4NkJ3Y1NBQWF0WXBtRklveXBhNzRuUHlsdnVCXzNGVzR4MG9TRU5QMUoyTzUtc0UtZEZJdVl6VGpKY05ZV2tBbEJwc0o2M2VnUHVaR1dlOE5pcU5pNWUweHZHMFkweDNXTUpzUWtJUDkwTmhqZ2dqRjZ2blhTMlE?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
-          "link": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Fed / BOE",
-      "note": "Focus on upcoming inflation reports and any signals from central bankers regarding future interest rate policy, especially given rising UK inflation.",
+      "name": "Tesla",
+      "note": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
       "sources": [
         {
-          "title": "신현송 '미소 띤 표정'…기준금리 동결 전망 속 '추가 인상 신호' 주목",
-          "link": "https://n.news.naver.com/mnews/article/421/0009243046?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "Interest rates should be raised as insurance against persistent inflation – economist",
-          "link": "https://seekingalpha.com/news/4655415-interest-rates-should-be-raised-as-insurance-against-persistent-inflation-economist?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-          "source": "Business Insider Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-        },
-        {
-          "title": "Double blow to Healey as inflation rises to 3.5% and monthly deficit hits £24bn",
-          "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-          "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-          "source": "CNBC Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        },
-        {
-          "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-          "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+          "title": "Analysis-Musk’s political baggage clouds prospects for SpaceX-Tesla deal",
+          "link": "https://www.investing.com/news/stock-market-news/analysismusks-political-baggage-clouds-prospects-for-spacextesla-deal-4965229",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Meta Platforms (META)",
-      "note": "Observe developments related to its stock split, new stock class for AI investments, and any further regulatory actions on data privacy.",
+      "name": "Nvidia",
+      "note": "Nvidia’s Powerful B300 Chips Spotted on Chinese State-Owned Network",
       "sources": [
         {
-          "title": "Meta Posts $64 Billion In Revenue And Announces Stock Split In Q3 Earnings",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWWhib0o4ZGpzQXc0Q21qRTFEZkl1WXJyNmFFVldvb2NHdEFidmNjU3RPTjJ4R2ZyeVNvZ2pZM0ZtellIUG01cmpTcFdveVBRNzVHeGdfSWs1ZHd2NjFwX0hlRGlqYlh1b0Z1VXJzVmhCMmdjRS1ZQ0pPNUtrdlRkUXZfeEx4X0ZtOEpJS1Izc0JnbUZXOFIyT09KNWUtQmtPX0xqTXc4TjF4WElXM1B2aEJNM1BVRWhuOEg2LWRrWG5lTVpNd18wUFM2bw?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        },
-        {
-          "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
-          "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "Meta fined $25bn for 'lies' over user data privacy",
-          "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        },
-        {
-          "title": "Meta Is Getting Creative to Fund Its Massive AI Investments",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3g4ZE5XUU1TakhLTFpLUjhESkRHVWdvZHpLZFBHTlVZU1RNMHR0RmpoZHlrZmo3ZnNQNVFRNXRVSlkzYndPV3o1RzJlRjJZei1zSFF4M1RhaXo4RWxMRDVsalh3dml2bWdtaUpHbjBWSXNVQmtVMFpwWGQ0MF9vdk9ldTlGU3AwbFV5QjBoWmRfeDFTenE2Sg?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "Nvidia’s Powerful B300 Chips Spotted on Chinese State-Owned Network",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEFRa0JURUphT0tQUERUU09JTlBqSG1FWVlzeUszZHVPaE16bFlfeDcwdHpTWElQR0VJT0tjcmZPZUk3aEFnRVVRX2xUZHdZcW1pR3VoX3RSTUlwUUNMOE1SeW5PWk1HaGd5X1NGTW03RFZ1czJTdDQwWHl0SGVNd0V2WFh4bS1LWk5FTVlKNmNSMWxndFR6bVRnZVlHekdmaWY0UGNzVQ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Samsung / SK Hynix",
-      "note": "Track progress on China fab upgrades and any shifts in the US stance on memory technology, impacting competition with YMTC.",
+      "name": "SK Hynix",
+      "note": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
       "sources": [
         {
-          "title": "Samsung, SK Hynix reportedly upgrading China NAND fabs to fend off YMTC amid softening US stance",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYlVCNnpzTjVsdzBkV3drREdVMk5qMkdrX3hEazJfd0ExWDFtZVl6UUxRRklCVTc0TXVBV3owTU5PZC1oUU5nVzhhcHlYTEkzbW84QXFWdWdjWjAtc2FjWUNScUpkbkNIbHJkbWthTW9WWkNoY2FGVVg4MnFvclZoaDB2M1Joejdhdk9Z?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+          "title": "SK Hynix scraps Solidigm IPO plans, citing market conditions",
+          "link": "https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -691,67 +461,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7757.17,
-      "change": 45.47,
-      "change_pct": 0.59
+      "price": 7663.43,
+      "change": -93.79,
+      "change_pct": -1.21
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 26702.86,
-      "change": 281.02,
-      "change_pct": 1.06
+      "price": 26008.86,
+      "change": -692.75,
+      "change_pct": -2.59
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52856.09,
-      "change": 355.97,
-      "change_pct": 0.68
+      "price": 52867.98,
+      "change": 16.2,
+      "change_pct": 0.03
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2781.02,
-      "change": 7.4,
-      "change_pct": 0.27
+      "price": 2784.03,
+      "change": 2.67,
+      "change_pct": 0.1
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 64792.59,
-      "change": 115.66,
-      "change_pct": 0.18
+      "price": 61938.13,
+      "change": -1201.46,
+      "change_pct": -1.9
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 23651.87,
-      "change": -215.87,
-      "change_pct": -0.9
+      "price": 22934.68,
+      "change": -717.19,
+      "change_pct": -3.03
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5695.37,
-      "change": -7.9,
-      "change_pct": -0.14
+      "price": 5427.54,
+      "change": -103.83,
+      "change_pct": -1.88
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 46887.77,
-      "change": 653.48,
-      "change_pct": 1.41
+      "price": 46041.43,
+      "change": -667.77,
+      "change_pct": -1.43
     }
   ],
-  "story_count": 71,
+  "story_count": 73,
   "bucket_count": 14
 }
