@@ -1,103 +1,93 @@
 {
-  "generated_at": "2026-10-17T23:43:25+00:00",
+  "generated_at": "2026-10-24T00:12:43+00:00",
   "mode": "weekly",
-  "for_week_start": "2026-10-11",
-  "for_week_ending": "2026-10-17",
+  "for_week_start": "2026-10-18",
+  "for_week_ending": "2026-10-24",
   "days_covered": 7,
-  "headline": "Inflation Fears Drive Market Sell-Off; AI Chip Sector Faces Headwinds Amid Geopolitical Shifts",
-  "summary": "US equities experienced a broad sell-off this week, driven by hotter-than-expected inflation data that reignited concerns over potential Fed rate hikes. Chip stocks were particularly impacted, despite ongoing capacity expansion by TSMC and new AI initiatives from Microsoft and AMD. Geopolitical tensions persisted, with President Trump's controversial Russia deals and new sanctions waivers influencing energy markets and policy discussions. The macro environment remains cautious as markets anticipate further inflation signals.",
+  "headline": "Geopolitics, AI Chip Demand, and Tesla-SpaceX Merger Talks Drive Market Focus",
+  "summary": "The week was marked by persistent geopolitical tensions, with China's export-driven growth and Trump's waiver of Russia sanctions influencing global stability. Strong demand for AI chips fueled robust earnings for key players, while the tech sector saw mixed performance. Significant attention was drawn to Elon Musk's confirmation of Tesla-SpaceX merger talks, adding a unique M&A dynamic. Macroeconomic concerns resurfaced with rising UK inflation and hawkish central bank stances.",
   "themes": [
     {
-      "label": "Fed / Rates / Macro",
-      "narrative": "Inflation concerns intensified with hot PPI data and anticipation of high CPI, leading to market sell-offs and renewed fears of Fed rate hikes. Treasury yields remained elevated, reflecting persistent macro pressures and a mixed outlook from Fed officials, with the US $2 trillion deficit and 5% Treasury yields adding to the cautious sentiment.",
+      "label": "China / Tariffs / Geopolitics",
+      "narrative": "Geopolitical concerns remained prominent, with China's economy showing stronger-than-forecast growth driven by exports and an AI boom. President Trump's waiver of new Russia sanctions impacted energy tariffs and global stability, while broader trade tensions persisted.",
       "movers": [
-        "S&P500",
-        "Nasdaq",
-        "US Treasury",
-        "Fed",
-        "CPI",
-        "PPI"
+        "Ibiden",
+        "TSMC",
+        "Russia",
+        "China"
       ],
       "sources": []
     },
     {
       "label": "US Semis / AI Chips",
-      "narrative": "The AI chip sector faced headwinds this week, with chip stocks experiencing a broad slide amid market sell-offs and warnings about AI investing. Despite this, TSMC continued to expand advanced node capacity to meet surging AI chip demand, while Microsoft and AMD unveiled new AI chip initiatives. Nvidia also explored further AI startup investments, but export control warnings added a layer of uncertainty.",
+      "narrative": "AI chip demand continued to be a major market driver, leading to strong earnings for AI server providers and memory manufacturers. Nvidia provided guidance for next-gen memory chips, but concerns emerged regarding AI power consumption bottlenecks and evolving supply chain dynamics.",
       "movers": [
-        "TSMC",
         "Nvidia",
-        "Microsoft",
-        "AMD",
-        "ASML",
-        "Micron"
+        "Super Micro Computer",
+        "Samsung",
+        "SK Hynix",
+        "TSMC"
       ],
       "sources": []
     },
     {
       "label": "Trump 2.0 / US Policy",
-      "narrative": "Trump's foreign policy moves dominated headlines, with his proposed Russia oil/diesel deal facing strong political opposition and criticism from the GOP. Despite this, Trump waived new Russia sanctions, impacting energy tariffs and raising geopolitical stability concerns. US policy discussions continue to be shaped by these evolving international dynamics.",
+      "narrative": "Elon Musk's confirmation of Tesla-SpaceX merger talks dominated policy-related headlines, with special committees formed to evaluate the proposal. Separately, President Trump's decision to waive new Russia sanctions had geopolitical implications, impacting energy tariffs.",
       "movers": [
-        "Trump",
-        "Russia",
-        "GOP",
-        "House Republicans"
-      ],
-      "sources": []
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical tensions remained a significant factor, particularly concerning US-Russia relations and their impact on energy markets. China continued its efforts to de-escalate trade friction with the EU, while its advancements in memory chip technology posed a challenge to established players like Micron, highlighting ongoing competition in the semiconductor space.",
-      "movers": [
-        "China",
-        "EU",
-        "Russia",
-        "Micron"
+        "Tesla",
+        "SpaceX",
+        "Elon Musk",
+        "Russia"
       ],
       "sources": []
     },
     {
       "label": "Earnings / Guidance",
-      "narrative": "While not a dominant theme, Anthropic reported a significant revenue surge ahead of its IPO, providing a positive data point for the AI sector amidst broader market uncertainty. This indicates continued strong demand for AI services despite chip supply concerns.",
+      "narrative": "Tech earnings presented a mixed picture, with Tesla exceeding estimates despite flat revenue, and strong performance from AI server and memory companies. However, broader tech rallies showed signs of fading, and upcoming guidance from giants like Meta and Microsoft faced scrutiny.",
       "movers": [
-        "Anthropic"
+        "Tesla",
+        "Super Micro Computer",
+        "Nvidia",
+        "Samsung",
+        "SK Hynix"
       ],
       "sources": []
     },
     {
-      "label": "Software / Internet / Platforms",
-      "narrative": "The software and internet sector saw strategic moves this week, with Microsoft reorganizing its Azure unit to enhance AI integration. Jio Platforms announced a massive IPO, signaling strong growth in India's digital economy, while SPCX continued its aggressive vertical integration in datacenter infrastructure.",
+      "label": "Fed / Rates / Macro",
+      "narrative": "Macroeconomic concerns resurfaced as UK inflation jumped to 3.5%, solidifying expectations for further rate hikes. The Bank of England maintained a hawkish stance, and persistent worries over the US $2 trillion deficit and 5% Treasury yields continued to weigh on sentiment.",
       "movers": [
-        "Microsoft",
-        "Jio Platforms",
-        "SPCX"
+        "UK",
+        "Bank of England",
+        "US Treasury"
       ],
       "sources": []
     }
   ],
   "watchlist": [
     {
-      "name": "Fed",
-      "note": "Watch for upcoming CPI data and any further signals on interest rate policy."
-    },
-    {
-      "name": "TSMC",
-      "note": "Monitor advanced node capacity expansion and AI chip demand outlook."
+      "name": "Tesla",
+      "note": "Monitor developments on the potential merger with SpaceX."
     },
     {
       "name": "Nvidia",
-      "note": "Track developments in AI chip export controls and potential startup investments."
-    },
-    {
-      "name": "Trump Policy",
-      "note": "Observe ongoing geopolitical impacts of Russia deals and sanctions waivers."
+      "note": "Watch for further updates on next-gen memory chips and AI infrastructure demand."
     },
     {
       "name": "Anthropic",
-      "note": "Follow IPO developments and continued revenue growth in the AI services sector."
+      "note": "Track progress on the Nscale cloud deal and AI chip consumption."
     },
     {
-      "name": "Micron",
-      "note": "Assess competitive pressures from China's advancements in memory chip technology."
+      "name": "Meta",
+      "note": "Upcoming earnings and guidance will set the tone for software/internet."
+    },
+    {
+      "name": "Samsung",
+      "note": "Observe continued strength in AI memory and foundry segments."
+    },
+    {
+      "name": "UK Economy",
+      "note": "Monitor inflation data and central bank policy actions."
     }
   ],
   "x_themes": [
