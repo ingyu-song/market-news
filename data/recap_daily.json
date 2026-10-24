@@ -1,80 +1,36 @@
 {
-  "generated_at": "2026-10-24T00:12:30+00:00",
+  "generated_at": "2026-10-24T23:57:30+00:00",
   "mode": "daily",
   "for_date": "2026-10-24",
-  "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 52 headlines bucketed into 6 editorial themes. X chatter highlights Positive sentiment for Ibiden.",
+  "headline": "US-China Investment Curbs Escalate; HBM4 Boosts Korean Semis Outlook",
+  "summary": "China has pushed back against proposed US outbound investment curbs, signaling continued geopolitical tensions. Meanwhile, Korean memory giants Samsung and SK Hynix anticipate a significant Q3 operating profit surge driven by HBM4. Industrial and Financial sectors reported strong EPS beat rates, while global oil prices saw an uptick.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins.",
+          "lead": "China opposes proposed US outbound investment restrictions.",
           "segments": [
             {
-              "text": "",
+              "text": "Beijing has urged the US to halt its planned expansion of curbs on outbound investments, indicating escalating economic tensions.",
               "sources": [
                 {
-                  "title": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins",
-                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
+                  "title": "China urges US to halt proposed expansion of outbound investment curbs",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump to cut Canadian tariffs after pressure from Republicans.",
-          "segments": [
+            },
             {
-              "text": "",
+              "text": "This follows China's direct retaliation against the US proposal to tighten investment limits.",
               "sources": [
                 {
-                  "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-                  "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "중동 전운 재격화에 유가 116달러…뉴욕증시 일제히 '털썩'.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "중동 전운 재격화에 유가 116달러…뉴욕증시 일제히 '털썩'",
-                  "link": "https://n.news.naver.com/mnews/article/629/0000545148?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "China Hits Back at US Proposal to Tighten Investment Limits",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlp5bGcwM2ZPTXQzcDRSbGlJUmszQnVRYUlRa3plck1XUi10d0l2RDlQNkowb2pFcW1ZanRxa2JrNkRhRFhHS2tYUGw5VVRIYjB1akdDWERKTXBXNWdTM2VPWnA0dnFEZS12UUNiSmg2V3VpN0xzWTN3a2RROFJ4N0dBdE9TempnSmhxdUpWQkZkMm9vTWV1VTdmRjdZTmpkb1k5U0QzVmZTLXdiN3o0?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,31 +38,14 @@
           ]
         },
         {
-          "lead": "반도체 수출 달러에 힘받는 원화…환율 2년 만에 최저 수준.",
+          "lead": "IMF forecasts Korea's current account surplus to be second globally.",
           "segments": [
             {
-              "text": "",
+              "text": "The International Monetary Fund predicts Korea will achieve the second-largest current account surplus globally this year, following China, with the highest increase in surplus worldwide.",
               "sources": [
                 {
-                  "title": "반도체 수출 달러에 힘받는 원화…환율 2년 만에 최저 수준",
-                  "link": "http://www.segyebiz.com/newsView/20261024502778?OutUrl=naver",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "\"올라도 울고 내려도 운다\" 길 잃은 증시, 범인은 금리가 아닌 'AI 청구서...",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "\"올라도 울고 내려도 운다\" 길 잃은 증시, 범인은 금리가 아닌 'AI 청구서...",
-                  "link": "https://n.news.naver.com/mnews/article/014/0005593794?sid=101",
+                  "title": "IMF \"올해 한국 흑자 중국 이어 2위...증가폭은 세계 1위\"",
+                  "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81976",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -121,16 +60,22 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins.",
+          "lead": "Trump eases tariffs on Canadian goods ahead of a tight race.",
           "segments": [
             {
-              "text": "",
+              "text": "Former President Trump has dropped some tariffs on Canadian goods in an effort to bolster embattled Senator Susan Collins in Maine.",
               "sources": [
                 {
-                  "title": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+                  "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                },
+                {
+                  "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+                  "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,16 +83,16 @@
           ]
         },
         {
-          "lead": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins.",
+          "lead": "Volkswagen plans a new Audi plant in Georgia.",
           "segments": [
             {
-              "text": "",
+              "text": "Volkswagen is planning a new Audi plant in Georgia, a move seen as a win for the Trump administration's manufacturing agenda.",
               "sources": [
                 {
-                  "title": "Trump ends tariffs on some Canadian products, aiming to help Senator Collins",
-                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRWdrcmlzeVVGU0lLY2lmdVZHQ094Uk80eXhLb25UQkVoYjhXX3lXSERuOW1pVzNpRGEzQWMtMUVfVEp5bERnM2hqM0hFZFNrb1B5Y1QxRG9tMDUtTFNQSFFoMFZodXFPbmtDUUhpYXVIOXhNRTdkNU9RcDkzRW8xTkM0REpYZ0k3TlhDOGx6WEhYSUJIWG5WSE1Ia1FLWHVTVHN5UFhjVmhtb1J4TkpDTU90LVp4eWR0MnBxaA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Volkswagen Plans New Audi Plant in Georgia, Handing Trump a Win",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTljNWhPMFR6ZzdEa1BndW10VHVmT3dMLVJYMTJiRi00ZXBoOGMxa1hYTFRVRUxnSzFLZGhvbDlWcnpGOEJIb2xxU3JxR0x5RXZLWHI0S2xUUEhIcDBMRXp4cjRYUUl4emktQUtuQWJkSWU2SkJmQXZlMThzTVh3RE0welNsaTNwZzAzWm1JRnAycHllbVN1a001N29JYzlmcmI1QXpZUFRTNVBwWXJ5dlZRSQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -155,16 +100,33 @@
           ]
         },
         {
-          "lead": "Trump to cut Canadian tariffs after pressure from Republicans.",
+          "lead": "Trump's economic approval rating hits an all-time low.",
           "segments": [
             {
-              "text": "",
+              "text": "A recent CNBC survey indicates that Trump's approval rating on the economy has reached an all-time low as midterm elections approach.",
               "sources": [
                 {
-                  "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-                  "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+                  "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Concerns rise over potential for Trump's early lame duck period.",
+          "segments": [
+            {
+              "text": "Speculation suggests a possibility of an early lame duck period for Trump, which could impact defense stocks negatively while benefiting power equipment sectors.",
+              "sources": [
+                {
+                  "title": "트럼프 조기 레임덕 가능성…“방산주 부담·전력기기 수혜”",
+                  "link": "https://www.kukinews.com/article/view/kuk202610250003",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +139,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Apple tops Nvidia to become world's most valuable company.",
+          "lead": "Samsung and SK Hynix anticipate significant Q3 HBM4-driven profit.",
           "segments": [
             {
-              "text": "",
+              "text": "Samsung and SK Hynix are projected to report a combined operating profit of 185 trillion KRW in Q3, driven by the full-scale effect of HBM4.",
               "sources": [
                 {
-                  "title": "Apple tops Nvidia to become world's most valuable company",
-                  "link": "https://seekingalpha.com/news/4656580-apple-tops-nvidia-to-become-worlds-most-valuable-company?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "삼성·SK하이닉스, 3Q 영업익 185조원 전망…HBM4 효과 본격화",
+                  "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729034",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,14 +156,14 @@
           ]
         },
         {
-          "lead": "Japan targets 2nm medical AI chip with IBM design, Rapidus eyed for foundry.",
+          "lead": "Nvidia dismisses immediate memory glut fears.",
           "segments": [
             {
-              "text": "",
+              "text": "Nvidia has rejected concerns about a near-term memory glut and remains open to cooperation with CXMT.",
               "sources": [
                 {
-                  "title": "Japan targets 2nm medical AI chip with IBM design, Rapidus eyed for foundry",
-                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFpqczQ3THhFYnNRS0ozTFh2Qjhxb3Z0aVhoUnlSYXdVNFlRSnJrZE9hMlJvZUpzdm9WRE90bVZOb0xOZmo4Nm9WbVVhRkgtUUNnZ3RrMEJ1c1FMcjEzVVpxQzVDcm5RbmpDMk5LNUl4V1NfUFVHLUc0UFVYYVB6M1ZnY1FLTmZr?oc=5",
+                  "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhSOVJYREg0V2h6bUxFR1YtUjhOa3hQcUtoelJfcHpVendKM3hfQVgycG9WN09NNkxITUhZUDVpWWpXNEZSaDlGNHIzald1NmNVOC0wOUZsNjFROHFNWXl1clFrLWhTSjMtMW01aF9VelpRdDJfY2EtaXUxbUI0Yndwa2g2M3JIdnk3dUpoTlQ?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -209,21 +171,59 @@
               "x_mentions": []
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "label": "AI Infrastructure / Hyperscaler Capex",
+      "bullets": [
         {
-          "lead": "Nvidia B300 chips reportedly surface on China Telecom-linked network, raising export-control questions.",
+          "lead": "SPCX is aggressively pursuing vertical integration in datacenter components.",
           "segments": [
             {
-              "text": "",
-              "sources": [
+              "text": "SPCX is reportedly reverse engineering datacenter components, including racks and chillers, as part of an aggressive vertical integration strategy.",
+              "sources": [],
+              "x_mentions": [
                 {
-                  "title": "Nvidia B300 chips reportedly surface on China Telecom-linked network, raising export-control questions",
-                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTm45TFNpM3gzWWtOV3JVVjl5TDV0OGRIR3ZMTTFWZTNEeFRpUVJONTlZWHNlOFo1ekthbEJOU2JCQU1iVXE1UFV4YVVmSG5HaGJpcjJUNEdFcnBEZkdrSTRsbzI0SGNaQ1NIaWxSWE5mOGZMMVE1NE5hNWxUWncxemF2U1ExZHVXZWswRktlVVR5c3lWaTVtbGh0dEY?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106910342983057576"
                 }
-              ],
-              "x_mentions": []
+              ]
+            },
+            {
+              "text": "The company is also developing its own optical fiber, further expanding its in-house networking infrastructure capabilities.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106909462141542687"
+                }
+              ]
+            },
+            {
+              "text": "SPCX's 10GW power capacity is primarily for internal demand, with 60% used internally and 40% allocated to external customers.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106907946890457304"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Starlink demonstrated robust in-flight internet service.",
+          "segments": [
+            {
+              "text": "Starlink successfully streamed five live football games simultaneously on a commercial flight, showcasing its in-flight internet capabilities.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2106827233650147822"
+                }
+              ]
             }
           ]
         }
@@ -233,14 +233,31 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Texas Instruments Posts Higher Profit, Revenue.",
+          "lead": "Industrial and Financial sectors show strong EPS beat rates.",
           "segments": [
             {
-              "text": "",
+              "text": "This week, 17 out of 20 industrial companies beat EPS estimates, while the financial sector logged an 80% EPS beat rate against revenue.",
               "sources": [
                 {
-                  "title": "Texas Instruments Posts Higher Profit, Revenue",
-                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXM0aUt0bTJHV3gyOS1mYl9UQ1hvMGx3c0ZTSHRTMElTbXc3Sjhjb1d0VkFLTXNZU0Q4Zkx3QVpIM2h5Y05kcTkwdGZPNkJ5NXNzbkgwWEs0NDFoRkVWLXZlWFI5SkZObm9hSV91d1pGNElVVFZIN0J5Nk5JdmZiUm1JajFINXpkUWZldUp2cW9NT09oUGdB?oc=5",
+                  "title": "Earnings scorecard: 17 out of 20 industrial companies beat EPS estimates this week",
+                  "link": "https://seekingalpha.com/news/4656678-earnings-scorecard-17-out-of-20-industrial-companies-beat-eps-estimates-this-week?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Molina Healthcare reported lower third-quarter profit and revenue.",
+          "segments": [
+            {
+              "text": "Molina Healthcare posted reduced profit and revenue for its third quarter.",
+              "sources": [
+                {
+                  "title": "Molina Healthcare Posts Lower Third-Quarter Profit, Revenue",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTVTcHZaU0lCbmhMSFAxTzkxWDNsNVVvRXlLeFFFbzROT3RzUGNnRHVnT0VESlpLbkhPRFdDRzRzYmhvdmgyazd2UjFxTlJfdTFxY2hVMm9ySmVYWHlSbFIyYUYyZzNVSWlqaXZDbUxyMjdaX1RWcHMwOV9IRllyVFVpUDZMbkxVX2o0aFlHdS02VFFhSXJBZ2Vjb3pqUlotdERhWkhIeW4?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -250,33 +267,16 @@
           ]
         },
         {
-          "lead": "Oregon Bancorp GAAP EPS of $0.30, revenue of $4.87M.",
+          "lead": "Southwest Airlines cut its earnings outlook.",
           "segments": [
             {
-              "text": "",
+              "text": "Southwest Airlines revised its earnings outlook downwards, citing rising fuel costs as a primary factor.",
               "sources": [
                 {
-                  "title": "Oregon Bancorp GAAP EPS of $0.30, revenue of $4.87M",
-                  "link": "https://seekingalpha.com/news/4656589-oregon-bancorp-gaap-eps-of-0_30-revenue-of-4_87m?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "North Dallas Bank & Trust Co. Announces Third Quarter Earnings.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "North Dallas Bank & Trust Co. Announces Third Quarter Earnings",
-                  "link": "https://markets.businessinsider.com/news/stocks/north-dallas-bank-trust-co-announces-third-quarter-earnings-1036659952",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
+                  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDl5MXNpaUFmM2s4V3hMNXRIN2FXNlVSUXp0V1Z1blBHZnJjc3FTTkI1b19rSmQycXhDSEpiVS13X2VMdFo0cHpDZFRQajV6MDRrZ1hqRkp3VWVURFJnTTA3dGpnRmd4UlA1QnFqeHdYcDNfSTN2VlMwS1dQbGxzcFNSRC13ZU1nMWJFUG1DRldBOV9lV08xYzdYYjhFMXpDay13?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -286,53 +286,59 @@
       ]
     },
     {
-      "label": "Software / Internet / Platforms",
+      "label": "Energy / Commodities",
       "bullets": [
         {
-          "lead": "Amazon cloud capacity sold out through 2027, CEO Jassy says.",
+          "lead": "Global oil prices rose while US natural gas futures declined.",
           "segments": [
             {
-              "text": "",
+              "text": "Global oil prices hit $116 a barrel, the highest since April, while US natural gas futures extended their decline due to weather outlooks.",
               "sources": [
                 {
-                  "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-                  "link": "https://www.investing.com/news/stock-market-news/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-4970506",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Amazon cloud capacity sold out through 2027, CEO Jassy says.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-                  "link": "https://www.investing.com/news/stock-market-news/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-4970506",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-                  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HNFhFTFhpTzRXbFdHSzNMY3RaWHFIVllmc0VsdGdrUEYxTzdwNGRqb2Y4b3ZhUUt1RUJnZTN2QlpKdW8xQVRjYTIwQktIOGVyaHhINjJPVjFVTFN1NFEwYUd3?oc=5",
+                  "title": "U.S. Natural Gas Futures Extend Decline on Weather Outlook",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkVEamFZT29zUjlIYmtrb0UzcDRCeEZHUTNLVlV2NC05R1YwUzBDSHFKWkw0UlY3TTljVzFTcHpzaHdsNmFOZDJZd1Y0LTdTNW16MUFNdkVkaDN1N3FURi1mOUFtYjF0VlNnUUpCTksxa1lSTXYxMUNVNW1QelpNMkpkSnc0aDZqSm05ZnB2QTMtYnVxdkNmb2R5ZTVHT05MbkR0NkNfYWRlQ08zQkFULTdmTQ?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
+                  "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Houthi rebels claimed attacks on Saudi oil sites.",
+          "segments": [
+            {
+              "text": "Houthis stated they targeted Saudi oil sites, with additional attacks reported in Aden.",
+              "sources": [
+                {
+                  "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
+                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "A strike began at Highland Valley Copper mine.",
+          "segments": [
+            {
+              "text": "Teck Resources confirmed a strike has commenced at its Highland Valley Copper mine in British Columbia.",
+              "sources": [
+                {
+                  "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
+                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakVPU2RYUmNtdHIyMXdTdE4xVGkzREs2Z2VxUFVndmUzOXJaSUxfYmV1QnBzaHNfUU9QTFFUODNZdGg2S2xJTmg0Z1RBYkNtRDQ0MXYzeW85ZnNRZFV4Rm9IVDZJYTJUc0E3U1ZVSnU2akdmYUc4Z0NrZW1qeTJuV19JQ1g4X2ltVXA0Z2hScHBxTzBkN3RiZDM3SHVjTDRyUEpvN0FwcVEtRkdMWmdQcm1HNFg5d2RpOXBYb0hFWks4Vkp6Znc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -344,66 +350,80 @@
   ],
   "watchlist": [
     {
-      "name": "TRUMP",
-      "note": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
+      "name": "China Policy",
+      "note": "Watch for further US and Chinese actions regarding investment curbs and trade.",
       "sources": [
         {
-          "title": "Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmZYSFVLdHB5ZTlUdnVQWFQxTURvTlVUdGJZWlJmVGxJRWdkWWw4aXJpN0pCTUg4UDdMaDhQX0tIcDlLbG5tM3BFOEduZkxtbmhncmJIRVZMUUJNNDBWN0lISzV3WWhmUnY2Z05UcEUxVzdyeVRqVmhuLWlnRnhyb2hDYkgxS250UG8wTzB1YWNsQkFKWTZuYzM4SldUVlhfWDJtMGplOFRCUjdkVGlkX2VfXzRUWHlJajVHWVN3?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "China urges US to halt proposed expansion of outbound investment curbs",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "China Hits Back at US Proposal to Tighten Investment Limits",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlp5bGcwM2ZPTXQzcDRSbGlJUmszQnVRYUlRa3plck1XUi10d0l2RDlQNkowb2pFcW1ZanRxa2JrNkRhRFhHS2tYUGw5VVRIYjB1akdDWERKTXBXNWdTM2VPWnA0dnFEZS12UUNiSmg2V3VpN0xzWTN3a2RROFJ4N0dBdE9TempnSmhxdUpWQkZkMm9vTWV1VTdmRjdZTmpkb1k5U0QzVmZTLXdiN3o0?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Meta",
-      "note": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+      "name": "Samsung / SK Hynix",
+      "note": "Monitor HBM4 production ramp-up and Q3 earnings reports for confirmation of projected profit surge.",
       "sources": [
         {
-          "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HNFhFTFhpTzRXbFdHSzNMY3RaWHFIVllmc0VsdGdrUEYxTzdwNGRqb2Y4b3ZhUUt1RUJnZTN2QlpKdW8xQVRjYTIwQktIOGVyaHhINjJPVjFVTFN1NFEwYUd3?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "삼성·SK하이닉스, 3Q 영업익 185조원 전망…HBM4 효과 본격화",
+          "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729034",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Apple tops Nvidia to become world's most valuable company",
+      "note": "Observe any further statements on memory market dynamics and potential partnerships.",
       "sources": [
         {
-          "title": "Apple tops Nvidia to become world's most valuable company",
-          "link": "https://seekingalpha.com/news/4656580-apple-tops-nvidia-to-become-worlds-most-valuable-company?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-          "source": "Business Insider Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+          "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhSOVJYREg0V2h6bUxFR1YtUjhOa3hQcUtoelJfcHpVendKM3hfQVgycG9WN09NNkxITUhZUDVpWWpXNEZSaDlGNHIzald1NmNVOC0wOUZsNjFROHFNWXl1clFrLWhTSjMtMW01aF9VelpRdDJfY2EtaXUxbUI0Yndwa2g2M3JIdnk3dUpoTlQ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Apple",
-      "note": "Apple tops Nvidia to become world's most valuable company",
-      "sources": [
+      "name": "SPCX",
+      "note": "Track developments in its datacenter vertical integration and power capacity utilization.",
+      "sources": [],
+      "x_mentions": [
         {
-          "title": "Apple tops Nvidia to become world's most valuable company",
-          "link": "https://seekingalpha.com/news/4656580-apple-tops-nvidia-to-become-worlds-most-valuable-company?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-          "source": "Business Insider Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
         }
-      ],
-      "x_mentions": []
+      ]
     },
     {
-      "name": "Amazon",
-      "note": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "name": "Oil Prices",
+      "note": "Keep an eye on geopolitical developments in the Middle East and their impact on crude supply.",
       "sources": [
         {
-          "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
-          "link": "https://www.investing.com/news/stock-market-news/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-4970506",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+          "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
+          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -539,6 +559,6 @@
       "change_pct": -1.43
     }
   ],
-  "story_count": 52,
-  "bucket_count": 10
+  "story_count": 38,
+  "bucket_count": 11
 }
