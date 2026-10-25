@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-25T00:44:34+00:00",
+  "generated_at": "2026-10-25T23:45:10+00:00",
   "mode": "daily",
   "for_date": "2026-10-25",
-  "headline": "US-China Tensions Rise on Investment Curbs; Nvidia Dismisses Memory Glut Fears",
-  "summary": "US-China trade relations saw increased friction as China pushed back on proposed outbound investment limits. Nvidia rejected near-term memory oversupply concerns, while Southwest Airlines cut guidance on rising fuel costs. Industrials and Financials reported strong Q3 EPS beats, 85% and 80% respectively.",
+  "headline": "SpaceX Secures $40B Debt, Trump Nears Iran Decision; Big Tech Earnings Loom",
+  "summary": "SpaceX raised $40 billion in debt, with Elon Musk predicting a neocloud shakeout, while the US military granted Starlink access to sensitive tracking data. President Trump indicated a decision on Iran is imminent, weighing a deal against finishing off the conflict. Major tech earnings are anticipated this week, alongside a focus on the upcoming FOMC meeting and semiconductor sector developments.",
   "sections": [
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "China opposes US investment curbs.",
+          "lead": "SpaceX secured $40 billion in debt financing.",
           "segments": [
             {
-              "text": "Beijing urged the US to halt its proposed expansion of outbound investment restrictions, directly hitting back at the tightening limits.",
+              "text": "Elon Musk stated the capital raise and predicted a shakeout in the neocloud market.",
               "sources": [
                 {
-                  "title": "China urges US to halt proposed expansion of outbound investment curbs",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+                  "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+                  "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "China Hits Back at US Proposal to Tighten Investment Limits",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlp5bGcwM2ZPTXQzcDRSbGlJUmszQnVRYUlRa3plck1XUi10d0l2RDlQNkowb2pFcW1ZanRxa2JrNkRhRFhHS2tYUGw5VVRIYjB1akdDWERKTXBXNWdTM2VPWnA0dnFEZS12UUNiSmg2V3VpN0xzWTN3a2RROFJ4N0dBdE9TempnSmhxdUpWQkZkMm9vTWV1VTdmRjdZTmpkb1k5U0QzVmZTLXdiN3o0?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -32,22 +32,16 @@
           ]
         },
         {
-          "lead": "Trump eases Canadian tariffs.",
+          "lead": "US military granted SpaceX access to sensitive tracking data.",
           "segments": [
             {
-              "text": "Former President Trump dropped some tariffs on Canadian aluminum imports, aiming to bolster a key senator in Maine ahead of a tight race.",
+              "text": "This move highlights the company's expanding role in national security infrastructure.",
               "sources": [
                 {
-                  "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-                  "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+                  "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+                  "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
                   "source": "The Guardian Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
-                  "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -55,16 +49,33 @@
           ]
         },
         {
-          "lead": "Volkswagen expands US presence.",
+          "lead": "President Trump signaled an impending decision on Iran.",
           "segments": [
             {
-              "text": "Volkswagen announced plans for a new Audi plant in Georgia, a development seen as a political win for Trump.",
+              "text": "He suggested a choice between a deal or “finishing it off,” indicating a critical juncture in US-Iran relations.",
               "sources": [
                 {
-                  "title": "Volkswagen Plans New Audi Plant in Georgia, Handing Trump a Win",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTljNWhPMFR6ZzdEa1BndW10VHVmT3dMLVJYMTJiRi00ZXBoOGMxa1hYTFRVRUxnSzFLZGhvbDlWcnpGOEJIb2xxU3JxR0x5RXZLWHI0S2xUUEhIcDBMRXp4cjRYUUl4emktQUtuQWJkSWU2SkJmQXZlMThzTVh3RE0welNsaTNwZzAzWm1JRnAycHllbVN1a001N29JYzlmcmI1QXpZUFRTNVBwWXJ5dlZRSQ?oc=5",
+                  "title": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWlhSjFRRmFoTWYxSW82enFyZlljYXNEQ1d2TXpFYnRIZmh2N3dCdTZTT3RUWE1zTENzcU9Sd2JnU2FhcS0weVg0NTdFZGF6SXlxRnREMzdQUUpQTlV6Ulk3N195SjdWQ29od0trQzdLamd4ZW9zX1pucEg1bHJjekNrLXdSaHZvQnNoLUczTUkzeEhGSVhNUEVGU1FUXzdiTnFWdHktbzd4TWhITDZNYg?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Audi defended its $4 billion US factory investment in Georgia.",
+          "segments": [
+            {
+              "text": "The automaker reaffirmed its commitment to the project despite political uncertainties.",
+              "sources": [
+                {
+                  "title": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -74,19 +85,53 @@
       ]
     },
     {
-      "label": "US Semis / AI Chips",
+      "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Nvidia dismisses memory glut.",
+          "lead": "Traders continue to monitor Federal Reserve communications.",
           "segments": [
             {
-              "text": "Nvidia stated it does not foresee a near-term memory oversupply and remains open to cooperation with CXMT.",
+              "text": "Kevin Warsh advised focusing on economic data, though market participants often prioritize Fed statements.",
               "sources": [
                 {
-                  "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
-                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhSOVJYREg0V2h6bUxFR1YtUjhOa3hQcUtoelJfcHpVendKM3hfQVgycG9WN09NNkxITUhZUDVpWWpXNEZSaDlGNHIzald1NmNVOC0wOUZsNjFROHFNWXl1clFrLWhTSjMtMW01aF9VelpRdDJfY2EtaXUxbUI0Yndwa2g2M3JIdnk3dUpoTlQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Warsh Tells Traders to Watch the Data. They Still Follow the Fed",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9LMWRyT2twSklnZmlGUkxQV3RHTzg1dDVXcVdRUWJuUHdqUWdjS1J6YXVNdEY4SDRXWXBhcnZ1VlhHTDNlck9ySXM4SlhvMTkwZVBYaHI0LWFBQ2lRdjVMdENfNHRwU0N4Yk9nTTJjM0RxcEhnMndDVDl3dS15QUIzejNORm1yWkQ3UWVqZGZXOWt3NnRxeTVKdE9Gbm9Ic2kzaTNBcVIyNE5xdzR6STFUcEg?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "UBS is reportedly considering cutting 12,000 Swiss jobs.",
+          "segments": [
+            {
+              "text": "This potential move follows reports of tightening capital rules for the banking sector.",
+              "sources": [
+                {
+                  "title": "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
+                  "link": "https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nationwide announced 275 job cuts.",
+          "segments": [
+            {
+              "text": "The reductions are part of ongoing restructuring efforts following its acquisition of Virgin Money.",
+              "sources": [
+                {
+                  "title": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
+                  "link": "https://www.theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,16 +144,16 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Molina Healthcare reports lower profit.",
+          "lead": "Big Tech companies are set for a busy earnings week.",
           "segments": [
             {
-              "text": "The healthcare provider posted reduced third-quarter profit and revenue figures.",
+              "text": "Alphabet, Microsoft, and Amazon are among those reporting, with investor focus on AI infrastructure and cloud growth.",
               "sources": [
                 {
-                  "title": "Molina Healthcare Posts Lower Third-Quarter Profit, Revenue",
-                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTVTcHZaU0lCbmhMSFAxTzkxWDNsNVVvRXlLeFFFbzROT3RzUGNnRHVnT0VESlpLbkhPRFdDRzRzYmhvdmgyazd2UjFxTlJfdTFxY2hVMm9ySmVYWHlSbFIyYUYyZzNVSWlqaXZDbUxyMjdaX1RWcHMwOV9IRllyVFVpUDZMbkxVX2o0aFlHdS02VFFhSXJBZ2Vjb3pqUlotdERhWkhIeW4?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Alphabet, Microsoft And Amazon Lead The Busiest Week Of Earnings Season",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejc2bTI5S0tyekp3bHVMcnhSNk9TUHR3QXJpeldDM0lqcXJ5X2JKZ0loY3NyR2w1X3FtZlFOc2puRG8tQ25zNEIyOWpZVTJfakJPSGtKX0hQSEhQdTJ6cXFJamNQY2xQN1pram5RTWJUR2E1T3g5M3hMOGZCdkVNTmhNS1NPa1ZQVDZKQU5CZm1FX0JMdzZmVzdaMnVUaUxaZWhWTE1YU0xGTDJMOV80eGhFWEhrM09oV3c?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -116,33 +161,16 @@
           ]
         },
         {
-          "lead": "Southwest cuts outlook on fuel costs.",
+          "lead": "Samsung and SK Hynix are projected for record-high earnings.",
           "segments": [
             {
-              "text": "Southwest Airlines revised its earnings outlook downwards, citing increasing fuel expenses.",
+              "text": "Expectations are high for the semiconductor giants, with an eye on shareholder returns.",
               "sources": [
                 {
-                  "title": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
-                  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDl5MXNpaUFmM2s4V3hMNXRIN2FXNlVSUXp0V1Z1blBHZnJjc3FTTkI1b19rSmQycXhDSEpiVS13X2VMdFo0cHpDZFRQajV6MDRrZ1hqRkp3VWVURFJnTTA3dGpnRmd4UlA1QnFqeHdYcDNfSTN2VlMwS1dQbGxzcFNSRC13ZU1nMWJFUG1DRldBOV9lV08xYzdYYjhFMXpDay13?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Industrial and Financials beat EPS.",
-          "segments": [
-            {
-              "text": "Industrial companies reported 17 out of 20 Q3 EPS beats, while Financials achieved an 80% EPS beat rate against revenue estimates.",
-              "sources": [
-                {
-                  "title": "Earnings scorecard: 17 out of 20 industrial companies beat EPS estimates this week",
-                  "link": "https://seekingalpha.com/news/4656678-earnings-scorecard-17-out-of-20-industrial-companies-beat-eps-estimates-this-week?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "“삼전닉스 ‘역대급 실적’ 온다”",
+                  "link": "https://n.news.naver.com/mnews/article/050/0000112365?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -152,19 +180,19 @@
       ]
     },
     {
-      "label": "Energy / Commodities",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Persian Gulf oil output rises.",
+          "lead": "Nvidia unveiled an OOI CPO prototype for post-2028 AI applications.",
           "segments": [
             {
-              "text": "Oil production from the Persian Gulf has surpassed pre-Iran War levels.",
+              "text": "This development targets future AI needs, emphasizing advanced packaging solutions.",
               "sources": [
                 {
-                  "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDZ4LVhJRGluTDV5SXJ4WWVoanZwdFJGLVVHVHlENElabUNZWDhxbTkxMGZHc1ZfLTVkZzhNVnBpR0NPVVNsYWlGQm01NGJ1REpmVEZyaHloR29zUHpuMXBIbEZpbURTR0pYUFl0VURTRXhRVGU1UG9GaGhLYWRSMlFFSUpNalpEZDV5TjJJQmk0QQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -172,33 +200,16 @@
           ]
         },
         {
-          "lead": "Houthi attacks target Saudi oil.",
+          "lead": "China approved DeepSeek and MiniMax for overseas AI model deployment.",
           "segments": [
             {
-              "text": "Houthi forces claimed attacks on Saudi oil sites, with additional incidents reported in Aden.",
+              "text": "This move signals Beijing's push for its domestic AI firms to expand internationally.",
               "sources": [
                 {
-                  "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
-                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Copper mine strike initiated.",
-          "segments": [
-            {
-              "text": "A strike has commenced at Teck's Highland Valley Copper mine in British Columbia.",
-              "sources": [
-                {
-                  "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
-                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakVPU2RYUmNtdHIyMXdTdE4xVGkzREs2Z2VxUFVndmUzOXJaSUxfYmV1QnBzaHNfUU9QTFFUODNZdGg2S2xJTmg0Z1RBYkNtRDQ0MXYzeW85ZnNRZFV4Rm9IVDZJYTJUc0E3U1ZVSnU2akdmYUc4Z0NrZW1qeTJuV19JQ1g4X2ltVXA0Z2hScHBxTzBkN3RiZDM3SHVjTDRyUEpvN0FwcVEtRkdMWmdQcm1HNFg5d2RpOXBYb0hFWks4Vkp6Znc?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
+                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDh5VWJWOEg3WTVranpFRmZkTElMd0k4MW1CNTV4LWRZZlVwQUhWbGlmSE1TUkMyV0RQRGhEV3lPVjNWajBNWlRYSFFRYTFTcWUzanczSzFuUHNnSHlUMmhKWU9zMDZVQXYyYzRGd2hxYzFGaDg3REVreHYwQzVaTVNyMG1CdUlf?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +222,95 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Netflix struggles with audience engagement.",
+          "lead": "Meta's AI commitments have surged to $825 billion.",
           "segments": [
             {
-              "text": "Netflix is reportedly facing challenges in effectively reaching and retaining its audience.",
+              "text": "This substantial investment tests the company's financing capabilities amid aggressive AI development.",
               "sources": [
                 {
-                  "title": "Why Netflix Is Struggling to Find Its Audience",
-                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFoyeDlKekNKSVI5TU5PdXRMWGpES1ViX3k0LVNCVVpITVdOcjRpMXlHUE9ZU3E4blNLbVBnRldwZVlTZEV4NURaclBUQWllM19nekdoV1o3TmVDR3I1WGwtQ1FuRFNLV1NOcDluMFBNOVg3YUh6NTdhX01hanFVVjllRC03WTREYWdBSzJtVGV0OEl5MkpJX2NwUG5vNVlnS0w5Sg?oc=5",
+                  "title": "Meta’s Unending AI Spending",
+                  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Meta’s AI commitments surge to US$825 billion, testing financing power",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXVNbjd3UU5Lb2FHUURMSnNIbjFuSWN2SUh0a2hQaUJlUTJNS3ZvWE1jVGp6cEc0WGJPSTMyb3JobE13ejJIaG1CNkszV0dNUGh3TDhMOHZRalVnV2lvbFQ5Y1ZLLU5mbUI4N2JrZUh6M1cyb1Vyb0puaFBuZEUyZzQwYmdtaUdEazM4ekh0Q3Q1ZmJXalJzTE5DcnRvUQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Google services experienced a recovery after a UK cloud outage.",
+          "segments": [
+            {
+              "text": "The disruption impacted businesses relying on its cloud infrastructure.",
+              "sources": [
+                {
+                  "title": "Google Says Services Are Recovering After U.K. Cloud Outage Hits Businesses",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZU9oaGJacEZnOFoyeHBZS3k4cVJHTFdjelUxbkozMWN0QkVFSkJSZXE3cFp2VDFJM2kycjdOb2dkMU95WFlwZGNtdmprbzFpRUdDOTM1MXdld3hYakNyX0VNOEQ1NXhGSFBqT19wM3JkQlN4ZG1BNjN1MDZ3QS1fR0Q0LXhTdlZVd0lHcThJMlNaaXpLRGF4ZnNSS1VMTGd2dHAzcnBOSXBMUW9IVTFtcFBOSlBDMThlbGc2Nw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Netflix user engagement shows signs of decline.",
+          "segments": [
+            {
+              "text": "Users are reportedly watching less content and opening the app less frequently.",
+              "sources": [
+                {
+                  "title": "Netflix Users Are Watching Less, Not Opening the App as Often",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMW1TVGRaNmJ6UVlnYmZ4X3hzdEg4eVg4UVpDN2V4Zmd1aTduMzVUYlR6LXFDbWpxOTFRNzR0bVZoWTEweE1QNEFNelBvaXpobFFFUk9TcHYzZGpGMXAwd01QLWlidGp6azN5S2libGp1ekhUdDdtbkxncHM2MG92SzhLUkRzck5JNHZpbEp4eUE1V2JkdW92WW1jZk5scHVTVHI5azhtck0zMkJERVgtRA?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "A Korean investment firm launched a semiconductor ETF in Hong Kong.",
+          "segments": [
+            {
+              "text": "The fund aims to attract mainland Chinese investors, expanding its overseas ETF business.",
+              "sources": [
+                {
+                  "title": "한투운용, 홍콩에 반도체 ETF 첫 상장…중국 본토 투자자 공략 나선다",
+                  "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729078",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Taiwan's electrical firms are shifting to modular and EPC markets.",
+          "segments": [
+            {
+              "text": "This transition is driven by the demand for AI data centers.",
+              "sources": [
+                {
+                  "title": "AI data centers drive Taiwan's electrical firms into modular, EPC markets",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDdsM191NWh5U3pFZl8ta2U5S0xQRWNBaGtiemRyX0J4dDdiR2xFSkdaUFgzSTMxVHAzVGtWeldlNjZPZWptUEVzYUdnaHhtMzFGZ2VaZ0R0eGYxLUlVZzdlS1ZmOGFjMHhGTXpXN00wRW9PX2NwcUJnaGdhVUdqX0p2ckJkczNkb0xR?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -232,43 +322,78 @@
   ],
   "watchlist": [
     {
-      "name": "China-US Trade",
-      "note": "Watch for further developments on investment restrictions and tariff policies.",
+      "name": "SpaceX",
+      "note": "Watch for further details on its $40 billion debt deal and potential impact on the neocloud market, alongside ongoing vertical integration efforts.",
       "sources": [
         {
-          "title": "China urges US to halt proposed expansion of outbound investment curbs",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+          "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+          "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         },
         {
-          "title": "China Hits Back at US Proposal to Tighten Investment Limits",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlp5bGcwM2ZPTXQzcDRSbGlJUmszQnVRYUlRa3plck1XUi10d0l2RDlQNkowb2pFcW1ZanRxa2JrNkRhRFhHS2tYUGw5VVRIYjB1akdDWERKTXBXNWdTM2VPWnA0dnFEZS12UUNiSmg2V3VpN0xzWTN3a2RROFJ4N0dBdE9TempnSmhxdUpWQkZkMm9vTWV1VTdmRjdZTmpkb1k5U0QzVmZTLXdiN3o0?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-          "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+          "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+          "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
           "source": "The Guardian Business",
           "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        }
+      ],
+      "x_mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
         },
         {
-          "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
-          "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    },
+    {
+      "name": "Fed",
+      "note": "Monitor upcoming FOMC statements and economic data for cues on monetary policy direction.",
+      "sources": [
+        {
+          "title": "코스피 5500선 지킬까…빅테크 실적·FOMC·삼전닉스 주주환원 주목",
+          "link": "https://n.news.naver.com/mnews/article/009/0005753778?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Warsh Tells Traders to Watch the Data. They Still Follow the Fed",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9LMWRyT2twSklnZmlGUkxQV3RHTzg1dDVXcVdRUWJuUHdqUWdjS1J6YXVNdEY4SDRXWXBhcnZ1VlhHTDNlck9ySXM4SlhvMTkwZVBYaHI0LWFBQ2lRdjVMdENfNHRwU0N4Yk9nTTJjM0RxcEhnMndDVDl3dS15QUIzejNORm1yWkQ3UWVqZGZXOWt3NnRxeTVKdE9Gbm9Ic2kzaTNBcVIyNE5xdzR6STFUcEg?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Big Tech (Alphabet, Microsoft, Amazon)",
+      "note": "Earnings reports this week will provide critical insights into AI spending and cloud growth.",
+      "sources": [
+        {
+          "title": "Alphabet, Microsoft And Amazon Lead The Busiest Week Of Earnings Season",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejc2bTI5S0tyekp3bHVMcnhSNk9TUHR3QXJpeldDM0lqcXJ5X2JKZ0loY3NyR2w1X3FtZlFOc2puRG8tQ25zNEIyOWpZVTJfakJPSGtKX0hQSEhQdTJ6cXFJamNQY2xQN1pram5RTWJUR2E1T3g5M3hMOGZCdkVNTmhNS1NPa1ZQVDZKQU5CZm1FX0JMdzZmVzdaMnVUaUxaZWhWTE1YU0xGTDJMOV80eGhFWEhrM09oV3c?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Monitor statements on memory market dynamics and potential strategic collaborations.",
+      "note": "Its OOI CPO prototype indicates long-term AI strategy; watch for further AI chip developments.",
       "sources": [
         {
-          "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhSOVJYREg0V2h6bUxFR1YtUjhOa3hQcUtoelJfcHpVendKM3hfQVgycG9WN09NNkxITUhZUDVpWWpXNEZSaDlGNHIzald1NmNVOC0wOUZsNjFROHFNWXl1clFrLWhTSjMtMW01aF9VelpRdDJfY2EtaXUxbUI0Yndwa2g2M3JIdnk3dUpoTlQ?oc=5",
+          "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDZ4LVhJRGluTDV5SXJ4WWVoanZwdFJGLVVHVHlENElabUNZWDhxbTkxMGZHc1ZfLTVkZzhNVnBpR0NPVVNsYWlGQm01NGJ1REpmVEZyaHloR29zUHpuMXBIbEZpbURTR0pYUFl0VURTRXhRVGU1UG9GaGhLYWRSMlFFSUpNalpEZDV5TjJJQmk0QQ?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
@@ -276,46 +401,20 @@
       "x_mentions": []
     },
     {
-      "name": "Southwest Airlines",
-      "note": "Observe airline sector responses to rising fuel costs and their impact on guidance.",
+      "name": "Meta",
+      "note": "The company's escalating AI commitments will be scrutinized for financing implications and strategic execution.",
       "sources": [
         {
-          "title": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDl5MXNpaUFmM2s4V3hMNXRIN2FXNlVSUXp0V1Z1blBHZnJjc3FTTkI1b19rSmQycXhDSEpiVS13X2VMdFo0cHpDZFRQajV6MDRrZ1hqRkp3VWVURFJnTTA3dGpnRmd4UlA1QnFqeHdYcDNfSTN2VlMwS1dQbGxzcFNSRC13ZU1nMWJFUG1DRldBOV9lV08xYzdYYjhFMXpDay13?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Oil Prices",
-      "note": "Geopolitical events in the Middle East and supply-side developments will drive volatility.",
-      "sources": [
-        {
-          "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+          "title": "Meta’s Unending AI Spending",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Netflix",
-      "note": "Focus on subscriber trends and content strategy effectiveness.",
-      "sources": [
-        {
-          "title": "Why Netflix Is Struggling to Find Its Audience",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFoyeDlKekNKSVI5TU5PdXRMWGpES1ViX3k0LVNCVVpITVdOcjRpMXlHUE9ZU3E4blNLbVBnRldwZVlTZEV4NURaclBUQWllM19nekdoV1o3TmVDR3I1WGwtQ1FuRFNLV1NOcDluMFBNOVg3YUh6NTdhX01hanFVVjllRC03WTREYWdBSzJtVGV0OEl5MkpJX2NwUG5vNVlnS0w5Sg?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "Meta’s AI commitments surge to US$825 billion, testing financing power",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXVNbjd3UU5Lb2FHUURMSnNIbjFuSWN2SUh0a2hQaUJlUTJNS3ZvWE1jVGp6cEc0WGJPSTMyb3JobE13ejJIaG1CNkszV0dNUGh3TDhMOHZRalVnV2lvbFQ5Y1ZLLU5mbUI4N2JrZUh6M1cyb1Vyb0puaFBuZEUyZzQwYmdtaUdEazM4ekh0Q3Q1ZmJXalJzTE5DcnRvUQ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -451,6 +550,6 @@
       "change_pct": -1.43
     }
   ],
-  "story_count": 36,
-  "bucket_count": 10
+  "story_count": 53,
+  "bucket_count": 12
 }
