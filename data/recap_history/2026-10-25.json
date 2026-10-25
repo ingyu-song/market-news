@@ -1,0 +1,456 @@
+{
+  "generated_at": "2026-10-25T00:44:34+00:00",
+  "mode": "daily",
+  "for_date": "2026-10-25",
+  "headline": "US-China Tensions Rise on Investment Curbs; Nvidia Dismisses Memory Glut Fears",
+  "summary": "US-China trade relations saw increased friction as China pushed back on proposed outbound investment limits. Nvidia rejected near-term memory oversupply concerns, while Southwest Airlines cut guidance on rising fuel costs. Industrials and Financials reported strong Q3 EPS beats, 85% and 80% respectively.",
+  "sections": [
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "China opposes US investment curbs.",
+          "segments": [
+            {
+              "text": "Beijing urged the US to halt its proposed expansion of outbound investment restrictions, directly hitting back at the tightening limits.",
+              "sources": [
+                {
+                  "title": "China urges US to halt proposed expansion of outbound investment curbs",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "China Hits Back at US Proposal to Tighten Investment Limits",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlp5bGcwM2ZPTXQzcDRSbGlJUmszQnVRYUlRa3plck1XUi10d0l2RDlQNkowb2pFcW1ZanRxa2JrNkRhRFhHS2tYUGw5VVRIYjB1akdDWERKTXBXNWdTM2VPWnA0dnFEZS12UUNiSmg2V3VpN0xzWTN3a2RROFJ4N0dBdE9TempnSmhxdUpWQkZkMm9vTWV1VTdmRjdZTmpkb1k5U0QzVmZTLXdiN3o0?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump eases Canadian tariffs.",
+          "segments": [
+            {
+              "text": "Former President Trump dropped some tariffs on Canadian aluminum imports, aiming to bolster a key senator in Maine ahead of a tight race.",
+              "sources": [
+                {
+                  "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+                  "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                },
+                {
+                  "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+                  "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Volkswagen expands US presence.",
+          "segments": [
+            {
+              "text": "Volkswagen announced plans for a new Audi plant in Georgia, a development seen as a political win for Trump.",
+              "sources": [
+                {
+                  "title": "Volkswagen Plans New Audi Plant in Georgia, Handing Trump a Win",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTljNWhPMFR6ZzdEa1BndW10VHVmT3dMLVJYMTJiRi00ZXBoOGMxa1hYTFRVRUxnSzFLZGhvbDlWcnpGOEJIb2xxU3JxR0x5RXZLWHI0S2xUUEhIcDBMRXp4cjRYUUl4emktQUtuQWJkSWU2SkJmQXZlMThzTVh3RE0welNsaTNwZzAzWm1JRnAycHllbVN1a001N29JYzlmcmI1QXpZUFRTNVBwWXJ5dlZRSQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Nvidia dismisses memory glut.",
+          "segments": [
+            {
+              "text": "Nvidia stated it does not foresee a near-term memory oversupply and remains open to cooperation with CXMT.",
+              "sources": [
+                {
+                  "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhSOVJYREg0V2h6bUxFR1YtUjhOa3hQcUtoelJfcHpVendKM3hfQVgycG9WN09NNkxITUhZUDVpWWpXNEZSaDlGNHIzald1NmNVOC0wOUZsNjFROHFNWXl1clFrLWhTSjMtMW01aF9VelpRdDJfY2EtaXUxbUI0Yndwa2g2M3JIdnk3dUpoTlQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Molina Healthcare reports lower profit.",
+          "segments": [
+            {
+              "text": "The healthcare provider posted reduced third-quarter profit and revenue figures.",
+              "sources": [
+                {
+                  "title": "Molina Healthcare Posts Lower Third-Quarter Profit, Revenue",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTVTcHZaU0lCbmhMSFAxTzkxWDNsNVVvRXlLeFFFbzROT3RzUGNnRHVnT0VESlpLbkhPRFdDRzRzYmhvdmgyazd2UjFxTlJfdTFxY2hVMm9ySmVYWHlSbFIyYUYyZzNVSWlqaXZDbUxyMjdaX1RWcHMwOV9IRllyVFVpUDZMbkxVX2o0aFlHdS02VFFhSXJBZ2Vjb3pqUlotdERhWkhIeW4?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Southwest cuts outlook on fuel costs.",
+          "segments": [
+            {
+              "text": "Southwest Airlines revised its earnings outlook downwards, citing increasing fuel expenses.",
+              "sources": [
+                {
+                  "title": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
+                  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDl5MXNpaUFmM2s4V3hMNXRIN2FXNlVSUXp0V1Z1blBHZnJjc3FTTkI1b19rSmQycXhDSEpiVS13X2VMdFo0cHpDZFRQajV6MDRrZ1hqRkp3VWVURFJnTTA3dGpnRmd4UlA1QnFqeHdYcDNfSTN2VlMwS1dQbGxzcFNSRC13ZU1nMWJFUG1DRldBOV9lV08xYzdYYjhFMXpDay13?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Industrial and Financials beat EPS.",
+          "segments": [
+            {
+              "text": "Industrial companies reported 17 out of 20 Q3 EPS beats, while Financials achieved an 80% EPS beat rate against revenue estimates.",
+              "sources": [
+                {
+                  "title": "Earnings scorecard: 17 out of 20 industrial companies beat EPS estimates this week",
+                  "link": "https://seekingalpha.com/news/4656678-earnings-scorecard-17-out-of-20-industrial-companies-beat-eps-estimates-this-week?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Persian Gulf oil output rises.",
+          "segments": [
+            {
+              "text": "Oil production from the Persian Gulf has surpassed pre-Iran War levels.",
+              "sources": [
+                {
+                  "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Houthi attacks target Saudi oil.",
+          "segments": [
+            {
+              "text": "Houthi forces claimed attacks on Saudi oil sites, with additional incidents reported in Aden.",
+              "sources": [
+                {
+                  "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
+                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Copper mine strike initiated.",
+          "segments": [
+            {
+              "text": "A strike has commenced at Teck's Highland Valley Copper mine in British Columbia.",
+              "sources": [
+                {
+                  "title": "Teck says strike begins at Highland Valley Copper mine in British Columbia",
+                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakVPU2RYUmNtdHIyMXdTdE4xVGkzREs2Z2VxUFVndmUzOXJaSUxfYmV1QnBzaHNfUU9QTFFUODNZdGg2S2xJTmg0Z1RBYkNtRDQ0MXYzeW85ZnNRZFV4Rm9IVDZJYTJUc0E3U1ZVSnU2akdmYUc4Z0NrZW1qeTJuV19JQ1g4X2ltVXA0Z2hScHBxTzBkN3RiZDM3SHVjTDRyUEpvN0FwcVEtRkdMWmdQcm1HNFg5d2RpOXBYb0hFWks4Vkp6Znc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Netflix struggles with audience engagement.",
+          "segments": [
+            {
+              "text": "Netflix is reportedly facing challenges in effectively reaching and retaining its audience.",
+              "sources": [
+                {
+                  "title": "Why Netflix Is Struggling to Find Its Audience",
+                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFoyeDlKekNKSVI5TU5PdXRMWGpES1ViX3k0LVNCVVpITVdOcjRpMXlHUE9ZU3E4blNLbVBnRldwZVlTZEV4NURaclBUQWllM19nekdoV1o3TmVDR3I1WGwtQ1FuRFNLV1NOcDluMFBNOVg3YUh6NTdhX01hanFVVjllRC03WTREYWdBSzJtVGV0OEl5MkpJX2NwUG5vNVlnS0w5Sg?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "China-US Trade",
+      "note": "Watch for further developments on investment restrictions and tariff policies.",
+      "sources": [
+        {
+          "title": "China urges US to halt proposed expansion of outbound investment curbs",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY3V2bWpZckhlWExlaDZRLTR0NG1MY3l4NmpfZzJCUkVpSkJGblR1S0RScmxSa2tWWVhtZFdBNzkyc0ZaUnlDU2lVNEh3WUpUTkw3d0tIdGlzeTNrRnpWNFhiUk9xTEw4bENXWmxuRlRYTXQtU2N4MXRLVURsUkVxYUpGMks3R0hUaXA4eUZHSXNBWXRLRUN4VVkyVW5WQlBVUFo1dnRSVGxPYmxqMXRXUnVn?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "China Hits Back at US Proposal to Tighten Investment Limits",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlp5bGcwM2ZPTXQzcDRSbGlJUmszQnVRYUlRa3plck1XUi10d0l2RDlQNkowb2pFcW1ZanRxa2JrNkRhRFhHS2tYUGw5VVRIYjB1akdDWERKTXBXNWdTM2VPWnA0dnFEZS12UUNiSmg2V3VpN0xzWTN3a2RROFJ4N0dBdE9TempnSmhxdUpWQkZkMm9vTWV1VTdmRjdZTmpkb1k5U0QzVmZTLXdiN3o0?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+          "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        },
+        {
+          "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+          "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "Monitor statements on memory market dynamics and potential strategic collaborations.",
+      "sources": [
+        {
+          "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXhSOVJYREg0V2h6bUxFR1YtUjhOa3hQcUtoelJfcHpVendKM3hfQVgycG9WN09NNkxITUhZUDVpWWpXNEZSaDlGNHIzald1NmNVOC0wOUZsNjFROHFNWXl1clFrLWhTSjMtMW01aF9VelpRdDJfY2EtaXUxbUI0Yndwa2g2M3JIdnk3dUpoTlQ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Southwest Airlines",
+      "note": "Observe airline sector responses to rising fuel costs and their impact on guidance.",
+      "sources": [
+        {
+          "title": "Southwest Cuts Earnings Outlook Amid Rising Fuel Costs",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcDl5MXNpaUFmM2s4V3hMNXRIN2FXNlVSUXp0V1Z1blBHZnJjc3FTTkI1b19rSmQycXhDSEpiVS13X2VMdFo0cHpDZFRQajV6MDRrZ1hqRkp3VWVURFJnTTA3dGpnRmd4UlA1QnFqeHdYcDNfSTN2VlMwS1dQbGxzcFNSRC13ZU1nMWJFUG1DRldBOV9lV08xYzdYYjhFMXpDay13?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil Prices",
+      "note": "Geopolitical events in the Middle East and supply-side developments will drive volatility.",
+      "sources": [
+        {
+          "title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Houthis say they targeted Saudi oil sites; attacks reported in Aden",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1JpTkpxd3RUSFgwb29mWkRuSmg5UFd5d1RMQkZMdE5tV3F4cEN6SXFOODhTQUZTbTZucHJGVnpxMWpGZVFuSXJzZ045Q0o1Uzh5NFNvVENFX1M2dFQ0NzRGYjUtWk9TYjBWcldGNS1hY21yS2IyOXBsX29hcFg5N2ZENUlIV2oyTE1OT3hJQUFaS1pjTHV3VnZUTkRWbVFnd0JqYV9iZmVwUW4xcGNVOUdUZmgtaWpkVGdsVzJ1SXR1U1hyWG5uWg?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Netflix",
+      "note": "Focus on subscriber trends and content strategy effectiveness.",
+      "sources": [
+        {
+          "title": "Why Netflix Is Struggling to Find Its Audience",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFoyeDlKekNKSVI5TU5PdXRMWGpES1ViX3k0LVNCVVpITVdOcjRpMXlHUE9ZU3E4blNLbVBnRldwZVlTZEV4NURaclBUQWllM19nekdoV1o3TmVDR3I1WGwtQ1FuRFNLV1NOcDluMFBNOVg3YUh6NTdhX01hanFVVjllRC03WTREYWdBSzJtVGV0OEl5MkpJX2NwUG5vNVlnS0w5Sg?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Positive sentiment for Ibiden",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's vertical integration in datacenter cooling",
+      "category": "sectors",
+      "subcategory": "liquid_cooling",
+      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's in-house optical fiber development",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106909462141542687"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's 10GW power capacity and internal consumption",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106907946890457304"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink's in-flight internet service",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 4,
+  "x_generated_at": "2026-10-05T01:46:46+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7623.68,
+      "change": -39.77,
+      "change_pct": -0.52
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 25955.34,
+      "change": -62.41,
+      "change_pct": -0.24
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 52215.16,
+      "change": -646.28,
+      "change_pct": -1.22
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2775.9,
+      "change": -8.06,
+      "change_pct": -0.29
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 62693.16,
+      "change": -446.43,
+      "change_pct": -0.71
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23093.37,
+      "change": 158.69,
+      "change_pct": 0.69
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5550.3,
+      "change": 18.93,
+      "change_pct": 0.34
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 46041.43,
+      "change": -667.77,
+      "change_pct": -1.43
+    }
+  ],
+  "story_count": 36,
+  "bucket_count": 10
+}
