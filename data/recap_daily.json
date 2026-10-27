@@ -1,30 +1,24 @@
 {
-  "generated_at": "2026-10-25T23:45:10+00:00",
+  "generated_at": "2026-10-27T01:03:56+00:00",
   "mode": "daily",
-  "for_date": "2026-10-25",
-  "headline": "SpaceX Secures $40B Debt, Trump Nears Iran Decision; Big Tech Earnings Loom",
-  "summary": "SpaceX raised $40 billion in debt, with Elon Musk predicting a neocloud shakeout, while the US military granted Starlink access to sensitive tracking data. President Trump indicated a decision on Iran is imminent, weighing a deal against finishing off the conflict. Major tech earnings are anticipated this week, alongside a focus on the upcoming FOMC meeting and semiconductor sector developments.",
+  "for_date": "2026-10-27",
+  "headline": "China / Tariffs / Geopolitics leads today's tape",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 50 headlines bucketed into 6 editorial themes. X chatter highlights Positive sentiment for Ibiden.",
   "sections": [
     {
-      "label": "Trump 2.0 / US Policy",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "SpaceX secured $40 billion in debt financing.",
+          "lead": "“대미 투자는 미국 제조업 재건 돕는 ‘역마셜플랜’… 관세로도 미·...",
           "segments": [
             {
-              "text": "Elon Musk stated the capital raise and predicted a shakeout in the neocloud market.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
-                  "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
-                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "“대미 투자는 미국 제조업 재건 돕는 ‘역마셜플랜’… 관세로도 미·...",
+                  "link": "https://www.mediapen.com/news/view/1132482",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -32,16 +26,16 @@
           ]
         },
         {
-          "lead": "US military granted SpaceX access to sensitive tracking data.",
+          "lead": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth.",
           "segments": [
             {
-              "text": "This move highlights the company's expanding role in national security infrastructure.",
+              "text": "",
               "sources": [
                 {
-                  "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
-                  "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXVIVWkzMzQ2SzNjV3BwdHcwQ2FzeXhrRGpoSnFQU2RtQ0lCR1Q1NHpGbk5pcEZsd2gwMlFjZjlxbnFodFZDRFlJeEdkbFMtUDNlbzBqUTl5dHNFbTdLb19BNFNBU1Uzem1ZajdWY2RMS0lCci03MG44dDNLVFdrXzdEUlZKVUphay1nR3Jid29pU05iRkZsaFprRDNpbTlTNVpBMjZzdHJlNHdo?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -49,33 +43,16 @@
           ]
         },
         {
-          "lead": "President Trump signaled an impending decision on Iran.",
+          "lead": "Trump offers $1mn reward for tips leading to election fraud conviction.",
           "segments": [
             {
-              "text": "He suggested a choice between a deal or “finishing it off,” indicating a critical juncture in US-Iran relations.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWlhSjFRRmFoTWYxSW82enFyZlljYXNEQ1d2TXpFYnRIZmh2N3dCdTZTT3RUWE1zTENzcU9Sd2JnU2FhcS0weVg0NTdFZGF6SXlxRnREMzdQUUpQTlV6Ulk3N195SjdWQ29od0trQzdLamd4ZW9zX1pucEg1bHJjekNrLXdSaHZvQnNoLUczTUkzeEhGSVhNUEVGU1FUXzdiTnFWdHktbzd4TWhITDZNYg?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Audi defended its $4 billion US factory investment in Georgia.",
-          "segments": [
-            {
-              "text": "The automaker reaffirmed its commitment to the project despite political uncertainties.",
-              "sources": [
-                {
-                  "title": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
-                  "link": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Trump offers $1mn reward for tips leading to election fraud conviction",
+                  "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -88,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Traders continue to monitor Federal Reserve communications.",
+          "lead": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises.",
           "segments": [
             {
-              "text": "Kevin Warsh advised focusing on economic data, though market participants often prioritize Fed statements.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Warsh Tells Traders to Watch the Data. They Still Follow the Fed",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9LMWRyT2twSklnZmlGUkxQV3RHTzg1dDVXcVdRUWJuUHdqUWdjS1J6YXVNdEY4SDRXWXBhcnZ1VlhHTDNlck9ySXM4SlhvMTkwZVBYaHI0LWFBQ2lRdjVMdENfNHRwU0N4Yk9nTTJjM0RxcEhnMndDVDl3dS15QUIzejNORm1yWkQ3UWVqZGZXOWt3NnRxeTVKdE9Gbm9Ic2kzaTNBcVIyNE5xdzR6STFUcEg?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
+                  "link": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -105,16 +82,16 @@
           ]
         },
         {
-          "lead": "UBS is reportedly considering cutting 12,000 Swiss jobs.",
+          "lead": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge.",
           "segments": [
             {
-              "text": "This potential move follows reports of tightening capital rules for the banking sector.",
+              "text": "",
               "sources": [
                 {
-                  "title": "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
-                  "link": "https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+                  "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -122,14 +99,14 @@
           ]
         },
         {
-          "lead": "Nationwide announced 275 job cuts.",
+          "lead": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far.",
           "segments": [
             {
-              "text": "The reductions are part of ongoing restructuring efforts following its acquisition of Virgin Money.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
-                  "link": "https://www.theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
+                  "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+                  "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
                   "source": "The Guardian Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
@@ -141,19 +118,19 @@
       ]
     },
     {
-      "label": "Earnings / Guidance",
+      "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Big Tech companies are set for a busy earnings week.",
+          "lead": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth.",
           "segments": [
             {
-              "text": "Alphabet, Microsoft, and Amazon are among those reporting, with investor focus on AI infrastructure and cloud growth.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Alphabet, Microsoft And Amazon Lead The Busiest Week Of Earnings Season",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejc2bTI5S0tyekp3bHVMcnhSNk9TUHR3QXJpeldDM0lqcXJ5X2JKZ0loY3NyR2w1X3FtZlFOc2puRG8tQ25zNEIyOWpZVTJfakJPSGtKX0hQSEhQdTJ6cXFJamNQY2xQN1pram5RTWJUR2E1T3g5M3hMOGZCdkVNTmhNS1NPa1ZQVDZKQU5CZm1FX0JMdzZmVzdaMnVUaUxaZWhWTE1YU0xGTDJMOV80eGhFWEhrM09oV3c?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXVIVWkzMzQ2SzNjV3BwdHcwQ2FzeXhrRGpoSnFQU2RtQ0lCR1Q1NHpGbk5pcEZsd2gwMlFjZjlxbnFodFZDRFlJeEdkbFMtUDNlbzBqUTl5dHNFbTdLb19BNFNBU1Uzem1ZajdWY2RMS0lCci03MG44dDNLVFdrXzdEUlZKVUphay1nR3Jid29pU05iRkZsaFprRDNpbTlTNVpBMjZzdHJlNHdo?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -161,16 +138,33 @@
           ]
         },
         {
-          "lead": "Samsung and SK Hynix are projected for record-high earnings.",
+          "lead": "Trump offers $1mn reward for tips leading to election fraud conviction.",
           "segments": [
             {
-              "text": "Expectations are high for the semiconductor giants, with an eye on shareholder returns.",
+              "text": "",
               "sources": [
                 {
-                  "title": "“삼전닉스 ‘역대급 실적’ 온다”",
-                  "link": "https://n.news.naver.com/mnews/article/050/0000112365?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump offers $1mn reward for tips leading to election fraud conviction",
+                  "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump Offers $1 Million For Voter Fraud Tips That Lead To Arrest And Conviction.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump Offers $1 Million For Voter Fraud Tips That Lead To Arrest And Conviction",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazFDLVJKYXlxMWJlNTZrZUpxT0w3MGQzR3ptczZhMnYtQm1ZZ3ZnY3dISklRblZXYXFIVGU1ZzNYM20ycnpBeWxvdkJWbUNUMGRaLXllUWdNbWZfQTlsQUpxMnI5NWd3dGp5cFM4aTVwdkNfTXNzTFNfVkVMMUh1Mk1PaHVvUm1mSVRMRURvT05lTV9ES0xncEdNeWw2TVprc1hIVzd1U3did3Ro?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -183,14 +177,31 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Nvidia unveiled an OOI CPO prototype for post-2028 AI applications.",
+          "lead": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic.",
           "segments": [
             {
-              "text": "This development targets future AI needs, emphasizing advanced packaging solutions.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDZ4LVhJRGluTDV5SXJ4WWVoanZwdFJGLVVHVHlENElabUNZWDhxbTkxMGZHc1ZfLTVkZzhNVnBpR0NPVVNsYWlGQm01NGJ1REpmVEZyaHloR29zUHpuMXBIbEZpbURTR0pYUFl0VURTRXhRVGU1UG9GaGhLYWRSMlFFSUpNalpEZDV5TjJJQmk0QQ?oc=5",
+                  "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+                  "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Cheng Mei develops materials for advanced packaging glass substrates.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Cheng Mei develops materials for advanced packaging glass substrates",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1Jyb1hNaV92elNadXZBa1pVdVczUHIyalRzSEx2Ri1QbE9pN0dMd19DT2Myb0xQZ2F0LUxNdjFxQ2RKVTYtcVZUTzFoSWpzbU9vY2kyczh4Qmhfa3BxYjdrRDV0Uml4MGwwWmZHV0dPVm5WVlNjZGtMVWZTdUZ4RGpjR3VFS3JmRDN2akJUa2F0RC1fbGFSU0ZWZEM?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -200,16 +211,72 @@
           ]
         },
         {
-          "lead": "China approved DeepSeek and MiniMax for overseas AI model deployment.",
+          "lead": "Nvidia, Intel, Other Major Tech Stocks Surge After Anthropic’s IPO Filing.",
           "segments": [
             {
-              "text": "This move signals Beijing's push for its domestic AI firms to expand internationally.",
+              "text": "",
               "sources": [
                 {
-                  "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
-                  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDh5VWJWOEg3WTVranpFRmZkTElMd0k4MW1CNTV4LWRZZlVwQUhWbGlmSE1TUkMyV0RQRGhEV3lPVjNWajBNWlRYSFFRYTFTcWUzanczSzFuUHNnSHlUMmhKWU9zMDZVQXYyYzRGd2hxYzFGaDg3REVreHYwQzVaTVNyMG1CdUlf?oc=5",
+                  "title": "Nvidia, Intel, Other Major Tech Stocks Surge After Anthropic’s IPO Filing",
+                  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQy13QVhWcnlNN0VOMGc2UmRUWDJBbVFiaFFmalhpYWNCZ1JiVGVOSGpPejBXemladmNjYUxhU1c3MXJJeGZLS1RqcVlmN19lZi05c0xOM3RVdU96M2JKUC10clBoNklXUnZaNzdBd1VRSzB4emZsVkVsamJxQmROcnl6Qnh3QzdLXzVJZ2hLbHpWeERjV2lKZm5ycVdlbTB6YjRScTFyeWY2NEZJc1VkcXQtSUlyQU5nLU5ERENpSm8?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Celestica's AI growth puts capacity in focus as revenue outlook reaches US$40 billion.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Celestica's AI growth puts capacity in focus as revenue outlook reaches US$40 billion",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzJjMm5EOGpTeHp2YVdKLWpJUl81T0w1TVdkLW1FR2QtUk1QWXZuLUlpV1NwOGZaTHByX3FLd0lNZUExUFREQXpfdlFYZDF5aThPUVFUMzZNNkdmaDBaaGRodzhUakhWbG5WSkU3SUhWbHVYVEJ4ckk0MldXd0J0bnZLdEQtcjlNZHFxM0ZLM29kZDZHN25Z?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXVIVWkzMzQ2SzNjV3BwdHcwQ2FzeXhrRGpoSnFQU2RtQ0lCR1Q1NHpGbk5pcEZsd2gwMlFjZjlxbnFodFZDRFlJeEdkbFMtUDNlbzBqUTl5dHNFbTdLb19BNFNBU1Uzem1ZajdWY2RMS0lCci03MG44dDNLVFdrXzdEUlZKVUphay1nR3Jid29pU05iRkZsaFprRDNpbTlTNVpBMjZzdHJlNHdo?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "EM Stocks Fall Before Key Earnings, Brazil in Focus as Lula Wins",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVE2akJ2V1E1aU91WFdEVWpINTdOSFVKNTFkLXUxR2dna001RU9sek10OTd3QU9nb0E3R1o2Z2tjUVNRaU94UTZqNlNUVXV1MElEU0pPTnhmMk95Ny0wbG11YXdJbjZoRmNFc3ladThialB4SGdJZUhJRWNiaDYxdW9TbXlIc1NuRW5tRWh3SmdmbnN1b2diem5IX29BUjZubXdCRTJudW1NdUgzM2dYRnowRmU?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -222,37 +289,14 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Meta's AI commitments have surged to $825 billion.",
+          "lead": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case.",
           "segments": [
             {
-              "text": "This substantial investment tests the company's financing capabilities amid aggressive AI development.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Meta’s Unending AI Spending",
-                  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Meta’s AI commitments surge to US$825 billion, testing financing power",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXVNbjd3UU5Lb2FHUURMSnNIbjFuSWN2SUh0a2hQaUJlUTJNS3ZvWE1jVGp6cEc0WGJPSTMyb3JobE13ejJIaG1CNkszV0dNUGh3TDhMOHZRalVnV2lvbFQ5Y1ZLLU5mbUI4N2JrZUh6M1cyb1Vyb0puaFBuZEUyZzQwYmdtaUdEazM4ekh0Q3Q1ZmJXalJzTE5DcnRvUQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Google services experienced a recovery after a UK cloud outage.",
-          "segments": [
-            {
-              "text": "The disruption impacted businesses relying on its cloud infrastructure.",
-              "sources": [
-                {
-                  "title": "Google Says Services Are Recovering After U.K. Cloud Outage Hits Businesses",
-                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZU9oaGJacEZnOFoyeHBZS3k4cVJHTFdjelUxbkozMWN0QkVFSkJSZXE3cFp2VDFJM2kycjdOb2dkMU95WFlwZGNtdmprbzFpRUdDOTM1MXdld3hYakNyX0VNOEQ1NXhGSFBqT19wM3JkQlN4ZG1BNjN1MDZ3QS1fR0Q0LXhTdlZVd0lHcThJMlNaaXpLRGF4ZnNSS1VMTGd2dHAzcnBOSXBMUW9IVTFtcFBOSlBDMThlbGc2Nw?oc=5",
+                  "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
+                  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmJqMmZWZkpDckJlZUtXQ3NDWjhjeUx4RWpzWmxtc0tzTnJhLS11dkRkRHZYNzJtbGU2NU1GcTR5bDZJX2NQbUs5QXVXTS1ZNzRwNjNFOE9pUDUwNFUwZEJLdmNTT09leDhpR1lCVzhBaGZLZlNyVHpjWWJYeklQZ19jbWFpanhrdGRzUlJTbll0NzNPTFcyOWJUS3RIZmpxOS0xOTZub3JhX3g3TGJCMGNQejhqbnNsWGxLRWw5MnpWLW56cUlBdktxSEViLXdiNk52Z2daaGRmdw?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -262,38 +306,16 @@
           ]
         },
         {
-          "lead": "Netflix user engagement shows signs of decline.",
+          "lead": "Anthropic, SpaceX and Meta Cash Grabs.",
           "segments": [
             {
-              "text": "Users are reportedly watching less content and opening the app less frequently.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Netflix Users Are Watching Less, Not Opening the App as Often",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMW1TVGRaNmJ6UVlnYmZ4X3hzdEg4eVg4UVpDN2V4Zmd1aTduMzVUYlR6LXFDbWpxOTFRNzR0bVZoWTEweE1QNEFNelBvaXpobFFFUk9TcHYzZGpGMXAwd01QLWlidGp6azN5S2libGp1ekhUdDdtbkxncHM2MG92SzhLUkRzck5JNHZpbEp4eUE1V2JkdW92WW1jZk5scHVTVHI5azhtck0zMkJERVgtRA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "A Korean investment firm launched a semiconductor ETF in Hong Kong.",
-          "segments": [
-            {
-              "text": "The fund aims to attract mainland Chinese investors, expanding its overseas ETF business.",
-              "sources": [
-                {
-                  "title": "한투운용, 홍콩에 반도체 ETF 첫 상장…중국 본토 투자자 공략 나선다",
-                  "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729078",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Anthropic, SpaceX and Meta Cash Grabs",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWxDeGs2ZTdzb095M3ZackNoU1oyOW1EdGhBVUxkZ3NwV3hBYkY1d1YtZ0lpOV9MT29QcnZOQUg1dGJvTk5sTHloLUdWU0RHWlFYUk5QZWFHY0R4bG10WkNrcktmblFtVVhWeTI2anIzYVY0TFpxNVRUdzBfeHlCMGtZMU9zd1NJdkx3VEpWdWFMZw?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -301,16 +323,16 @@
           ]
         },
         {
-          "lead": "Taiwan's electrical firms are shifting to modular and EPC markets.",
+          "lead": "Meta plans $95bn stock offering to help cover AI expansion.",
           "segments": [
             {
-              "text": "This transition is driven by the demand for AI data centers.",
+              "text": "",
               "sources": [
                 {
-                  "title": "AI data centers drive Taiwan's electrical firms into modular, EPC markets",
-                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDdsM191NWh5U3pFZl8ta2U5S0xQRWNBaGtiemRyX0J4dDdiR2xFSkdaUFgzSTMxVHAzVGtWeldlNjZPZWptUEVzYUdnaHhtMzFGZ2VaZ0R0eGYxLUlVZzdlS1ZmOGFjMHhGTXpXN00wRW9PX2NwcUJnaGdhVUdqX0p2ckJkczNkb0xR?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Meta plans $95bn stock offering to help cover AI expansion",
+                  "link": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -322,97 +344,64 @@
   ],
   "watchlist": [
     {
-      "name": "SpaceX",
-      "note": "Watch for further details on its $40 billion debt deal and potential impact on the neocloud market, alongside ongoing vertical integration efforts.",
+      "name": "TRUMP",
+      "note": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
       "sources": [
         {
-          "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
-          "link": "https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXFtN2R4aGlycUhma055anhqaWRzSVFqRHg3NDJHQXpJb1ZXZGtqZF8wSENhc2xNTjlBNmJyMWdzaWdQZmU2d0NvWDJ1VzI4RlVCUG1ERDFnWlJpUmlEdTJDZUt2ckM1bjBleS11a3ZQaDF1QjByVzNYV1Y4YV9CWEFOYWFVaHhhM1l3d29kQm55MjFUUTlZWm9mVnlnamJBUWg3NWVR?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
-          "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        }
-      ],
-      "x_mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106910342983057576"
-        },
-        {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106827233650147822"
-        }
-      ]
-    },
-    {
-      "name": "Fed",
-      "note": "Monitor upcoming FOMC statements and economic data for cues on monetary policy direction.",
-      "sources": [
-        {
-          "title": "코스피 5500선 지킬까…빅테크 실적·FOMC·삼전닉스 주주환원 주목",
-          "link": "https://n.news.naver.com/mnews/article/009/0005753778?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "Warsh Tells Traders to Watch the Data. They Still Follow the Fed",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9LMWRyT2twSklnZmlGUkxQV3RHTzg1dDVXcVdRUWJuUHdqUWdjS1J6YXVNdEY4SDRXWXBhcnZ1VlhHTDNlck9ySXM4SlhvMTkwZVBYaHI0LWFBQ2lRdjVMdENfNHRwU0N4Yk9nTTJjM0RxcEhnMndDVDl3dS15QUIzejNORm1yWkQ3UWVqZGZXOWt3NnRxeTVKdE9Gbm9Ic2kzaTNBcVIyNE5xdzR6STFUcEg?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Big Tech (Alphabet, Microsoft, Amazon)",
-      "note": "Earnings reports this week will provide critical insights into AI spending and cloud growth.",
-      "sources": [
-        {
-          "title": "Alphabet, Microsoft And Amazon Lead The Busiest Week Of Earnings Season",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNejc2bTI5S0tyekp3bHVMcnhSNk9TUHR3QXJpeldDM0lqcXJ5X2JKZ0loY3NyR2w1X3FtZlFOc2puRG8tQ25zNEIyOWpZVTJfakJPSGtKX0hQSEhQdTJ6cXFJamNQY2xQN1pram5RTWJUR2E1T3g5M3hMOGZCdkVNTmhNS1NPa1ZQVDZKQU5CZm1FX0JMdzZmVzdaMnVUaUxaZWhWTE1YU0xGTDJMOV80eGhFWEhrM09oV3c?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Nvidia",
-      "note": "Its OOI CPO prototype indicates long-term AI strategy; watch for further AI chip developments.",
-      "sources": [
-        {
-          "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDZ4LVhJRGluTDV5SXJ4WWVoanZwdFJGLVVHVHlENElabUNZWDhxbTkxMGZHc1ZfLTVkZzhNVnBpR0NPVVNsYWlGQm01NGJ1REpmVEZyaHloR29zUHpuMXBIbEZpbURTR0pYUFl0VURTRXhRVGU1UG9GaGhLYWRSMlFFSUpNalpEZDV5TjJJQmk0QQ?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+          "title": "Trump Hands Out $8 Billion to Farmers; Kroger Targets Earnings Growth",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXVIVWkzMzQ2SzNjV3BwdHcwQ2FzeXhrRGpoSnFQU2RtQ0lCR1Q1NHpGbk5pcEZsd2gwMlFjZjlxbnFodFZDRFlJeEdkbFMtUDNlbzBqUTl5dHNFbTdLb19BNFNBU1Uzem1ZajdWY2RMS0lCci03MG44dDNLVFdrXzdEUlZKVUphay1nR3Jid29pU05iRkZsaFprRDNpbTlTNVpBMjZzdHJlNHdo?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Meta",
-      "note": "The company's escalating AI commitments will be scrutinized for financing implications and strategic execution.",
+      "note": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
       "sources": [
         {
-          "title": "Meta’s Unending AI Spending",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14Tmg2cXRWUzNFZEY0dzl1dzFkZElUOTIyNzhRUEh6SXRDMnJRYW5sVTVoY2pJS2VZNFVQMThXX2FvWXZpbjlYQ0xzQWhTSnRHUGZEd243c1VvVnM4WXNuMWRnTy1RSDNMSDBYV1ZkTlg?oc=5",
+          "title": "The Morning Risk Report: Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdmJqMmZWZkpDckJlZUtXQ3NDWjhjeUx4RWpzWmxtc0tzTnJhLS11dkRkRHZYNzJtbGU2NU1GcTR5bDZJX2NQbUs5QXVXTS1ZNzRwNjNFOE9pUDUwNFUwZEJLdmNTT09leDhpR1lCVzhBaGZLZlNyVHpjWWJYeklQZ19jbWFpanhrdGRzUlJTbll0NzNPTFcyOWJUS3RIZmpxOS0xOTZub3JhX3g3TGJCMGNQejhqbnNsWGxLRWw5MnpWLW56cUlBdktxSEViLXdiNk52Z2daaGRmdw?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Anthropic",
+      "note": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+      "sources": [
         {
-          "title": "Meta’s AI commitments surge to US$825 billion, testing financing power",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXVNbjd3UU5Lb2FHUURMSnNIbjFuSWN2SUh0a2hQaUJlUTJNS3ZvWE1jVGp6cEc0WGJPSTMyb3JobE13ejJIaG1CNkszV0dNUGh3TDhMOHZRalVnV2lvbFQ5Y1ZLLU5mbUI4N2JrZUh6M1cyb1Vyb0puaFBuZEUyZzQwYmdtaUdEazM4ekh0Q3Q1ZmJXalJzTE5DcnRvUQ?oc=5",
+          "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+          "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Microsoft",
+      "note": "Microsoft offers buyouts to around 60,000 employees to contain costs",
+      "sources": [
+        {
+          "title": "Microsoft offers buyouts to around 60,000 employees to contain costs",
+          "link": "https://www.investing.com/news/stock-market-news/microsoft-is-offering-buyouts-to-around-60000-employees-business-insider-reports-4973294",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Samsung",
+      "note": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+      "sources": [
+        {
+          "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGZ1aU42bDhxd0swUkZZWk1jMURwS1FxdERtRVZvQ2xKZlFCQ2ZBdWlqRFpMMDVzcUp2UXB4M1VDM2piX3hjT2V2YkRZcW9YQlhEcjR5d0gwdmpyNnBKVGRPczFhc3VSYlg1ekZBNnVHemlfWmtWT3ZEUU5SelpNUmVMazA?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
@@ -489,57 +478,57 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7623.68,
-      "change": -39.77,
-      "change_pct": -0.52
+      "price": 7676.77,
+      "change": 53.78,
+      "change_pct": 0.71
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 25955.34,
-      "change": -62.41,
-      "change_pct": -0.24
+      "price": 26169.38,
+      "change": 215.37,
+      "change_pct": 0.83
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52215.16,
-      "change": -646.28,
-      "change_pct": -1.22
+      "price": 52361.58,
+      "change": 152.42,
+      "change_pct": 0.29
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2775.9,
-      "change": -8.06,
-      "change_pct": -0.29
+      "price": 2786.42,
+      "change": 11.29,
+      "change_pct": 0.41
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 62693.16,
-      "change": -446.43,
-      "change_pct": -0.71
+      "price": 63396.19,
+      "change": 1110.58,
+      "change_pct": 1.78
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 23093.37,
-      "change": 158.69,
-      "change_pct": 0.69
+      "price": 23211.81,
+      "change": 118.44,
+      "change_pct": 0.51
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5550.3,
-      "change": 18.93,
-      "change_pct": 0.34
+      "price": 5681.64,
+      "change": 184.85,
+      "change_pct": 3.36
     },
     {
       "name": "TAIEX",
@@ -550,6 +539,6 @@
       "change_pct": -1.43
     }
   ],
-  "story_count": 53,
-  "bucket_count": 12
+  "story_count": 50,
+  "bucket_count": 11
 }
