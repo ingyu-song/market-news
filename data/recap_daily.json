@@ -1,36 +1,134 @@
 {
-  "generated_at": "2026-10-28T00:55:46+00:00",
+  "generated_at": "2026-10-29T01:29:38+00:00",
   "mode": "daily",
-  "for_date": "2026-10-28",
-  "headline": "SK Hynix Posts Record Q3 Profit on AI Memory; Fed Holds Rates; Google Diversifies TPU Supply",
-  "summary": "SK Hynix reported a record Q3 operating profit of 83 trillion KRW, driven by robust AI memory demand, which propelled the Kospi index above 5800. Markets anticipate the Federal Reserve will maintain current interest rates, while Google explores Samsung for future TPU production amidst tightening TSMC capacity. Geopolitical tensions continue as the US bans BYD vehicles at a Japan military base.",
+  "for_date": "2026-10-29",
+  "headline": "Fed Holds Rates, Samsung Posts Record Profit on AI Chip Boom",
+  "summary": "The Federal Reserve maintained interest rates, with limited forward guidance, impacting Treasury yields. Samsung Electronics reported a record Q3 operating profit of 107.4 trillion KRW, largely driven by its semiconductor division's strong performance in the AI chip market. Meanwhile, Alphabet shares declined after missing revenue expectations and increasing AI investments.",
   "sections": [
     {
-      "label": "Memory / Earnings",
+      "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "SK Hynix reported record Q3 operating profit, fueled by robust AI memory demand.",
+          "lead": "The Federal Reserve held interest rates steady, providing limited forward guidance.",
           "segments": [
             {
-              "text": "The company's Q3 operating profit soared to 83 trillion KRW, marking its highest quarterly performance to date, primarily driven by the AI memory boom.",
+              "text": "Gold prices edged lower following the Fed's decision to hold rates, with Treasury yields showing mixed movements as markets priced in the hold.",
               "sources": [
                 {
-                  "title": "SK하이닉스, 3분기 영업이익 83조원 돌파… AI 메모리 호황에 분기 최대...",
-                  "link": "https://www.jemin.com/news/articleView.html?idxno=845530",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzc5eDBRUXkxOGFMamVVSDgwYW50VUV2anJjUGhKTzVTRjZpTDhoQWpTcXV6bXlWY19CMTF6cXBSenJMOGswaVFmVGtDeDNpcXowbG9XVExVN000aDMxMjZQWnJRbjQ0blBYTUwzclB6M3E3QS1zSEptcUR6elJZWUxVTHB2bFdJUWtrVjN3cDE1S2ZkRWhGWkhqbWh6VkJaTFIyN1BCZXpBd24xUEVrNw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 },
                 {
-                  "title": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
-                  "link": "https://www.investing.com/news/stock-market-news/sk-hynix-q3-profit-jumps-more-than-7fold-beats-forecasts-4977256",
+                  "title": "Treasury Yields Mixed as Markets Price In a Fed Hold",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORHVSTWFPVVFZQzNWYi1jREpsUXRlQ1RmY05ja1pma1NTX1Q1a28wdk1UT0xPMkdqb1RHMmhmTjFpR21HZFI4S3VBQzZublZMRHhQSFBuWlVYUTR0ZzhvYWdWeWI4ZjdOb2FqYkdUZlc4Vmp0OUpxdzNLX3FnTlNUeGVxQTVZQzI0bU5RMG15TUhXVWhKS1l0RTBDUQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Fed holds fire on interest rates despite intensifying inflation",
+                  "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "US short-end yields fell after Kevin Warsh signaled fewer Fed meetings, a key takeaway from the news conference.",
+              "sources": [
+                {
+                  "title": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+                  "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Despite intensifying inflation, the Fed opted to maintain current rates.",
+          "segments": [
+            {
+              "text": "The decision to hold rates came despite a lack of significant progress on inflation, as noted by some reports.",
+              "sources": [
+                {
+                  "title": "Fed holds fire on interest rates despite intensifying inflation",
+                  "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+                  "link": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Samsung Electronics reported a record-breaking third-quarter operating profit.",
+          "segments": [
+            {
+              "text": "Samsung's Q3 operating profit reached an unprecedented 107.4 trillion KRW, marking the first time the company surpassed 100 trillion KRW in quarterly operating profit.",
+              "sources": [
+                {
+                  "title": "삼성전자, 분기 영업익 첫 100조원 돌파⋯반도체 호황 역대급 실적",
+                  "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601597",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Alphabet shares declined significantly after missing revenue expectations.",
+          "segments": [
+            {
+              "text": "Alphabet's stock sank due to search woes, a revenue miss, and concerns over increased cash burn from AI investments.",
+              "sources": [
+                {
+                  "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens",
+                  "link": "https://www.investing.com/news/stock-market-news/alphabets-heavy-cloud-spending-drives-biggerthanexpected-cash-burn-4980612",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 },
                 {
-                  "title": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
+                  "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Alphabet財報遜預期、AI投資引疑慮 盤後跳水逾10％",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51c1VETUxrZ1JoMkd4TjYwWUd4SlNhbGRBVnVreFdMVl9RTmV2OXQ0MmFFNEZ4cElxYWt0cmJKRmRFdVNzMVBJZHZGVV9WOWotRmlIcFlhQXNheWNhUGdB?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                },
+                {
+                  "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+                  "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -38,50 +136,16 @@
           ]
         },
         {
-          "lead": "Exceptional financial results spurred a rally in Korean equities.",
+          "lead": "Porsche reiterated its full-year guidance as turnaround efforts began to yield results.",
           "segments": [
             {
-              "text": "This performance led to a significant rally in Korean equities, with the Kospi index surging nearly 4% to reclaim the 5800-point level.",
+              "text": "Porsche maintained its guidance, indicating that its strategic turnaround initiatives are starting to pay off.",
               "sources": [
                 {
-                  "title": "SK하닉 '역대급 실적'에 코스피도 날았다…4% 가까이 급등하며 5800선 돌...",
-                  "link": "https://www.hidomin.com/news/articleView.html?idxno=726797",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "SK Hynix plans a substantial shareholder return package.",
-          "segments": [
-            {
-              "text": "SK Hynix is now planning an annual 100 trillion KRW shareholder return package, reflecting strong confidence in sustained AI-driven growth.",
-              "sources": [
-                {
-                  "title": "역대급 실적 쌓은 SK하이닉스…‘연간 100조’ 주주환원 보따리 푼다",
-                  "link": "https://n.news.naver.com/mnews/article/277/0005834481?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Despite strong earnings, some memory stocks show waning momentum.",
-          "segments": [
-            {
-              "text": "Despite these strong earnings, some memory stocks have seen their momentum wane, raising questions about the broader impact of the AI rush on the sector.",
-              "sources": [
-                {
-                  "title": "Memory Stocks Lost Their Mojo and Strong Earnings Aren’t Helping",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUF1MUZpZW5VQU9rOE5rOTMzQVZ3REhjNFNBMHd2cXpzQlhqcUFRcG5EaHVtZk9INGVzYTZTcVQ1cjA2NjBwOWZvaTd5U2xjS1RUalA1bE1NUktzS1RBNkJuS2RXWlhLRGJxeC1wNnoydTBoLVlyNFdaVFNNc29ZU1hjN3ZYRUtkeHJLa1VTVVVzb2xrbTJ2U1JmdHFkMGJPNV9GMjZ0QmVTQ1JTbklFcVdlT1hMdw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Porsche Sticks to Guidance as Turnaround Efforts Begin to Pay Off",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUtFd3IzTEl6dl8tSkc3SVJfdWd4ZDlCT3pQNk83TTRxcXRXeTRoTGlOa2l0bnZrUWJiRE8zUlVmd1dfdzc3TlBtQ0E2WnROUFhRR3dzVEtMZTNkNjBULWFYcGloclZoZkFXV3lMVkVnY0JRMS1xa3VvVjhlb1BXMWtva0NJdTJmVGZVYTNhUThtcVRmLUtIUkxMdDFNMGYzQmItTFpWUzNoakxIU3c?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -94,20 +158,66 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Google is diversifying its AI chip supply chain, considering Samsung for future TPU production.",
+          "lead": "Samsung's record profit was largely fueled by the booming AI chip market.",
           "segments": [
             {
-              "text": "Google is reportedly exploring Samsung for partial production of its next-generation 10th-gen TPU, 'Icefish', as TSMC's capacity tightens due to high AI chip demand.",
+              "text": "The AI chip boom contributed significantly to Samsung's strong Q3 performance, with the semiconductor division posting 106.5 trillion KRW in profit.",
               "sources": [
                 {
-                  "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Samsung posts record profit in Q3 on AI chip boom",
+                  "link": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 },
                 {
-                  "title": "Google prioritizes frontier AI as cloud capacity runs short",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUW0wNUttdm9yemxLWWdoSGtjZFY4M2Z3NXJtd1Z3NGtERm1XTllwX01fZ1F6Y2Uxb1NlTFc5eFg1eEFxbmp5WGwxRGNXLVVCZndwS3NmWGVPbXd0Ti1maDEzeXZBdmpCNXJzUFZUNVpMZUw5dUFqa2xQWHlZWE1aSkFxeW9fMXRrLS1CNERWNktnV3FhZ0paNEhkdw?oc=5",
+                  "title": "삼성전자, 분기 영업익 첫 100조원 돌파⋯반도체 호황 역대급 실적",
+                  "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601597",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Google is reportedly considering Samsung for the production of its next-generation AI chips.",
+          "segments": [
+            {
+              "text": "Google's AI chip business is becoming harder for Nvidia to ignore, and the tech giant is exploring Samsung as a supplier for future AI chip capacity due to tight production at TSMC.",
+              "sources": [
+                {
+                  "title": "Google's AI chip business is getting harder for Nvidia to ignore",
+                  "link": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Advanced packaging is becoming a critical area for AI chip growth.",
+          "segments": [
+            {
+              "text": "Powertech is shifting towards advanced packaging solutions to meet the growing demand driven by AI, while Kinsus Tech identifies three key challenges for larger AI chip packages.",
+              "sources": [
+                {
+                  "title": "Powertech shifts to advanced packaging as AI demand drives growth",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdW1EbS1uMzJOT1Q2bGlRUmlTVllxaTBya0pjUWRuWERwM0JUZU1yQW1NZ29ZSkVSdjFKNkZrdkhrRGMxTmVjeUhEY0NxakUzbUlJbkFhckRqajZEaVg2eWdvUHc0UWI4LUhtbnVUeDVfLUlJUEJ1eDZFYTBvTXV1dzBONlY5UnNLT1RkVzNtYWpfUGhTRDgw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Kinsus is also exploring AlN ceramics as an alternative to glass for advanced AI packaging, indicating innovation in materials.",
+              "sources": [
+                {
+                  "title": "Kinsus explores AlN ceramics beyond glass for AI advanced packaging",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUndNbTJ5MGFoWlVWNGN6ZmNYVFZsYS1BSUtVMURIOWxRWEhZcE9nUTNqbFdnSmFJTHZBVFdTa054U05MLTNIaDBySTZoNWctblBuZUM1Z05TSTA5NlBXRU8wSUo0aUlpSk40UUZwOVAtSmFMYVZjZGVhZy1Od0UwV1pwM1dHbExHbVg5VDRuaUMzNVlDVG10ekc2cWo?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -115,86 +225,23 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "Samsung could handle specific components for Google's advanced chips.",
-          "segments": [
-            {
-              "text": "This strategic move could involve Samsung handling the memory I/O dies using its 2nm process, while TSMC focuses on the core compute engines with its 1.4nm technology.",
-              "sources": [
-                {
-                  "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia continues to strengthen its AI partnerships with major tech firms.",
-          "segments": [
-            {
-              "text": "Nvidia continues to strengthen its AI partnerships, investing $3 billion in Meta to deepen their collaboration in AI infrastructure.",
-              "sources": [
-                {
-                  "title": "Nvidia Invests $3 Billion in Meta in Deeper AI Partnership",
-                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONHpmQkNoMXNXTjdkVWRtMVViNlVISW41N3hialhDdkFBNlNXQUx1MmtvbXJObDdyZ3Yzd0ZkM2FrTGpBNEp4TDVkRUhyemdyNWZoTVNYM2NzTWJGdWJaRlMtR0tGU3EyLWNfaEo2V0JQY2J5bzBuMG5tNlpzQVJsb2xZOWVZSl9McmkzaGEtVHZGR1kzSDBz?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                },
-                {
-                  "title": "輝達斥30億美元認購Meta新股 加強AI合作",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwY2U5SXBfWlkxQ1E2QnVkbndDZW4zVWNsMDd2Tm1aUjJoNlRRZFg2Q2puRWZMdkRGbFk2UEQ2SHZiNm92b0NwaUZtWEhlZUpOSE5obmhWaDhfOXhIZHlV?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Significant capital is flowing into the semiconductor sector for chip-related deals.",
-          "segments": [
-            {
-              "text": "Banks are preparing $21 billion in bonds to finance Broadcom's chip-related deals, indicating significant capital flow into the semiconductor sector.",
-              "sources": [
-                {
-                  "title": "Banks Eye $21 Billion of Bonds for Broadcom Chip-Financing Deal",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObENDd2ZaNmE1VUlBR0d6Q1YydGNyX1dNZUV1YVVoTlpfb1hJckdOV1VKTDJqLXZhbzNWdnpUOWNwc2huLVBXWUF5ZFZzUU1meXhPTzlGMmc4cUt5VzBCeEJwb0NLQ3p3d2xhc0NVb0tuOFRHS3JmbjRHMXp4UDd5WEZiUUJKbHBrTFNJLVVMSnFLZmU1ZHRhMzVVZnBFS2xjY05LQzdDSTFPSGMxVzVQNkFocw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
     {
-      "label": "Fed / Rates / Macro",
+      "label": "Memory (DRAM/HBM/NAND)",
       "bullets": [
         {
-          "lead": "Markets widely anticipate the Federal Reserve to maintain current interest rates.",
+          "lead": "Samsung's semiconductor division was the primary driver of its record Q3 earnings.",
           "segments": [
             {
-              "text": "Investors are pricing in over 90% odds that the Fed will leave rates unchanged at its upcoming meeting, with focus shifting to potential future guidance.",
+              "text": "The semiconductor business alone accounted for 106.5 trillion KRW of Samsung's operating profit, while the finished product division recorded an 800 billion KRW deficit.",
               "sources": [
                 {
-                  "title": "Markets Predict Over 90% Odds Fed Will Leave Rates Unchanged This Month",
-                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGdNRFRYOFBzXzg1RnUxSXVyYU9xenFndXgxaHJnZC1USklYanFYbVpGSU1nQ1ZiLW1WbjZWRUlIR1BlbVFmX3l3Zk51OTlLakFyakg4RjQtYkRjeFpQbnZFYWlHcXBBcF9POVlvSXZXWTZTOUM5OWdySnl0LVFoQWdqSkY0eFBzbzNmWFFVaTJndkJDUjJYcnV2ZFItQjR4clg3WXJKUmVOcDZ2Y3BlZVBvWFVfbDY5RXRuNTJ1aS0xR3Ay?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-                  "link": "https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "삼성전자 3분기 반도체 영업익 106.5조…완제품은 8천억 적자",
+                  "link": "https://n.news.naver.com/mnews/article/001/0016408103?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -202,135 +249,16 @@
           ]
         },
         {
-          "lead": "Treasury yields show volatility amidst market uncertainties.",
+          "lead": "Samsung is at the forefront of the AI supercycle, with significant capital expenditure.",
           "segments": [
             {
-              "text": "Treasury yields have shown volatility, rising on some concerns but generally falling as investors seek safe haven assets amidst broader market uncertainties.",
+              "text": "Samsung's Q3 results confirm its position at the peak of the AI supercycle, with the company announcing an 84.4 trillion KRW facility investment for the year, a 67.8% increase year-over-year.",
               "sources": [
                 {
-                  "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Treasury Rates Today: October 27, 2026",
-                  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Gold prices remain steady with the Fed's decision in focus.",
-          "segments": [
-            {
-              "text": "Gold prices have steadied above $4,000, with the Fed's rate decision remaining a key driver for commodity markets.",
-              "sources": [
-                {
-                  "title": "Gold Steadies Above $4,000 With Fed Rate Decision in Focus",
-                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLTRVUHViYXZZWTg4WHdFSXgxV1ZMS2FqdHgtUUxQSlJxN0JzbG5ZNXdOVTJFMUR2VmEtaU9MUGl5T2VXUHg0YmliUFdIOEIzVjhYdHNmUmo2aXVtMll3eGp6WkJCTVRtUl9SQmd0NmFTZXBma1VrVDNXZDVSc3V4M3hrVlFFeU9iV3VmNDhGM2FVQnRvZnA1bFBpSjRfZmRYeGJDX2ZWVEk4OXhE?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Comex Gold Settles 2.12% Lower at $4042.80",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUN2OVctVWtHbFg4a1ZTUUFScko5TzR4Zlg0MzVSd2FpZlhfN19idWpqZS1iUjQ3aFctbXhwb3Q4N1l4bUZKQmFrU2pQTnhzOGwyY2p2d0FkeUVZZHJ4ZXpyVU5ZQ0xRdHZGdjk2ZVRaQWNRaHFxUTVyVmZJRDVJdmY0RGNKWWQ4S2pNdUw1ci1VRXJOZjZGWURPNVZpVVcxci1lSnZmUkg4TmU3V1VCM1VucXc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Eurozone bond yields have fallen due to French political concerns.",
-          "segments": [
-            {
-              "text": "Eurozone bond yields have fallen, reflecting concerns over French political developments.",
-              "sources": [
-                {
-                  "title": "Treasury Yields Rise, Eurozone Bond Yields Fall Amid French Concerns",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUh5anllcENIVlhXM0xrczNZWEVERVdFSE5lRzVkUFY1STBRUUtSZmdHbkRXX2pqNDY1TGxWdDJxTFZKRkc3cFhmUzBjTGUtdmlZaFYybG9tOFVaNk5IZTVpd1FVOW9mZUlRY2I1MFJwblJ3S1hqNVNkSVIyVmg0VzcyTEpncGhaWmUyYnFibVZqUUN2aU41MWxyc1QxYmJpSHVGVG1Jb2RGY1doTWln?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Geopolitics / US Policy",
-      "bullets": [
-        {
-          "lead": "US policy under Trump continues to target China and reshape energy regulations.",
-          "segments": [
-            {
-              "text": "The US has banned vehicles from China's BYD at a Japan military base, citing them as an \"unacceptable risk\" to national security.",
-              "sources": [
-                {
-                  "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
-                  "link": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump is moving to weaken methane emissions rules for oil and gas.",
-          "segments": [
-            {
-              "text": "Trump is moving to weaken methane emissions rules for oil and gas, a policy shift that could impact energy sector regulations.",
-              "sources": [
-                {
-                  "title": "Trump Moves to Weaken Methane Emissions Rules for Oil and Gas",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3UtZm1JOGV0S1VXZ09nTW15RjdsVmdnZ2gtempfQkt1REhoVmpKRXczenNsOWxBTXozQ2k1dU1CMk1oLTRuZmpDMHVkcnFhNTFjN3JUa0lxSjdyNjU4Q2lTcS1zZVR3NWNlY2hYVktZTzU0WGNYMkM1QXQ2WE9JdGFzeGgtVnlFLTJlbGtrbGVRemJ0TTBrRlNlUjRCQmk2TVVUWTI1ZXVQQQ?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "China's government has intervened to support its stock market.",
-          "segments": [
-            {
-              "text": "China's government has intervened to support its stock market, though the market continues to experience declines.",
-              "sources": [
-                {
-                  "title": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
-                  "link": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump highlights shifts in US energy diplomacy with Venezuela oil deal.",
-          "segments": [
-            {
-              "text": "Trump announced plans to visit a tanker in Texas carrying the first oil from a Venezuela deal, highlighting shifts in US energy diplomacy.",
-              "sources": [
-                {
-                  "title": "Trump says he will visit tanker in Texas with first oil from Venezuela deal",
-                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xReG5IbDd2VEVRZXJ1VUtaNGtlSFhpa3paSkFQVWhLWVk3NzNkendFMXNTZ3p5b3R6aTJTUzluYk1PUGlySXNEaDZPdXN2ZEx2WTF0SlRZZ1lmRmtRZnpFSVU4WGp0ZkdfY18tQlYwck9GbVBRUXR0Q2x2bVlkWDdMbVNFSVVZNnh2bXpjMm9hRjd3eThsYXRqQ0JhT05hc2hIWG93U005R2pFOXlORmZmNV9uYW02cGM4?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "삼성전자 'AI 슈퍼사이클'의 정점에 서다...3Q 영업익 100조 원 돌파",
+                  "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=146360",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -343,31 +271,32 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Amazon Leo's acquisition of Globalstar has been approved.",
+          "lead": "Microsoft reported soaring profits, driven by strong cloud growth.",
           "segments": [
             {
-              "text": "The US agency has approved Amazon Leo's $11.5 billion acquisition of Globalstar, expanding its satellite communication capabilities.",
+              "text": "Microsoft's profits surged, with its cloud growth outperforming infrastructure spending delays, even days after announcing thousands of layoffs.",
               "sources": [
                 {
-                  "title": "US agency approves Amazon Leo’s $11.5 billion acquisition of Globalstar",
-                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Microsoft profits soar days after announcing thousands of layoffs",
+                  "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                },
+                {
+                  "title": "Microsoft's cloud growth outpaces infrastructure spending delays",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFFBTjhiZk1IRm9SSk1iN0lNYUNHV1lZR1JZVUVEc0Q5MklkNmFtRWFtMEs3b3JiTGdVWXRrN3p5djg1N0dhY3JUSTN6YVlKSnp0SVpmV0VYT3ROU2xxZUNfeFVsTXlKMHJUNjVMUW9zalp2NUtSekotdmJZTHJQVkJnZi1TMTlQLTRSLU9mRVJ0ZERDV2V4Y0RnbUZ1RTQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Microsoft is offering buyouts to a large number of employees.",
-          "segments": [
+            },
             {
-              "text": "Microsoft is offering buyouts to 60,000 employees, signaling potential restructuring efforts within the tech giant.",
+              "text": "Google Cloud is closing in on Azure, but Microsoft's overall performance won over investors for the day.",
               "sources": [
                 {
-                  "title": "Microsoft Offers Buyouts to 60,000 Employees, DoorDash Nears Deal to Buy Instacart for $17B — TITV [Video]",
-                  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4ySkhfbEdkUWpxWFhGTEMwSEtXSDFjc1dqeGtQaF9vQllSaEZlZXFieFNkZ29YWkNyVzR5dWhuSmlGeXh0QVhhRnFpUmd4TjRCV2dj?oc=5",
+                  "title": "Google Cloud Closes In on Azure, but Microsoft Wins the Day With Investors",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb0oweTVqenIwbk1TUTdlWU5vZDBmVzE2M0djYlhvZlFnZ2pEOFhhVFlPcVFTUFMzS1Y3ZUN4bkUzYnd5SzNlUUpwdGNIOUNKcEh4ZXk4YkJXemNNUm50dkZnQmNfUTNRSEV3VUNIMnk2Z242eVhMdjZKRkhuYVFUVFR3eDR4RnNmbDcyTHJnTG1pUm9VeG9KelVvcEtucmF4ZUFfU3ViY0EwMlNHOXc4?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
@@ -377,14 +306,48 @@
           ]
         },
         {
-          "lead": "Oracle is set to run Google TPUs in its cloud.",
+          "lead": "Alphabet's significant AI outlay deepened its cash burn, contributing to stock declines.",
           "segments": [
             {
-              "text": "Oracle is set to begin running Google TPUs in its cloud, indicating deeper collaboration in AI infrastructure.",
+              "text": "Google shares tumbled 10% after its $51 billion AI outlay deepened cash burn, alongside sales misses across its core businesses.",
               "sources": [
                 {
-                  "title": "Oracle To Start Running Google TPUs in Its Cloud",
-                  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVNDb09uZ1pEMTd6aE83R05xVDAtZE16MlZRZE1lNW54VE8xcGJnbnFucXd6d3NhcDRLX2cyNGkyd19NVzZUTlQ4czcxbFRPcFA4eGdrelVvQ290c285VDlSbU13XzM4SE03d29uTGprU3JyMVpqbVRoNWtwbV84ZFcwWnRUZw?oc=5",
+                  "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Alphabet財報遜預期、AI投資引疑慮 盤後跳水逾10％",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51c1VETUxrZ1JoMkd4TjYwWUd4SlNhbGRBVnVreFdMVl9RTmV2OXQ0MmFFNEZ4cElxYWt0cmJKRmRFdVNzMVBJZHZGVV9WOWotRmlIcFlhQXNheWNhUGdB?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                },
+                {
+                  "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+                  "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "OpenAI's Astra model has become a prime target for Chinese AI labs.",
+          "segments": [
+            {
+              "text": "OpenAI's Astra model is reportedly the top distillation target for AI research labs in China, indicating its influence and potential for reverse engineering.",
+              "sources": [
+                {
+                  "title": "OpenAI’s Astra Model Becomes Top Distillation Target for China’s AI Labs",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1AtYlMxWEZUSDhweUUydXZtVTZPaXRHTkdzREh1aVJycUIwdTZubDlnRmdyUVpycEhoSHVkelZjV0RqV3puWWxKQ3BicU04V2s5V0NYZ0ZXVEhoOVoyWXlKSkRoYUxzTGNTUE0tSVJtV0ZQamVBTG5vdktDZ01qNHVPa0JYMlE5ckp4N2czS01NVTR2S0M1MVphUXBWcWp3T2NwSmhpdnBCUQ?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
@@ -394,16 +357,45 @@
           ]
         },
         {
-          "lead": "OpenAI plans to diversify its hardware strategy by buying Google's AI chips.",
+          "lead": "A tanker carrying Russian diesel signaled a U.S. port following a reported Trump-Putin deal.",
           "segments": [
             {
-              "text": "OpenAI, a longtime Nvidia customer, plans to buy Google's AI chips, diversifying its hardware strategy.",
+              "text": "A tanker loaded with Russian diesel was observed signaling a U.S. port, suggesting a potential shift in policy following a deal between Trump and Putin.",
               "sources": [
                 {
-                  "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal",
+                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkRQT3NXRk1GdlBLTnc0VnZMQXYtQkptNU4tbnUxWDBhN3BmazdyMUJ0V0VRWm5aNmJaM1VrWWp5WjIxTjlIZGJ4bnpZdl94U2xhV0lqUXQ5THoya3pleXZILW90SVRpblRiR1VvcnlKVHRjZ2ZtTklMaVhwci1ZMmlzdHlYZFc4a2FxaXUtamZqdUlhX1lyalVndTlFWFUyODR4QUFIUy1qWkJUSFRSVjRjTEZHNFhBbTlWeGhhTXY0Wk9lX1E?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Trump also showcased a tanker with \"1 million barrels of oil\" and controversially floated the idea of Venezuela becoming the 51st state.",
+              "sources": [
+                {
+                  "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+                  "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Taiwan is implementing a dual approach to manage carbon emissions.",
+          "segments": [
+            {
+              "text": "Taiwan plans to introduce both a carbon fee and an Emissions Trading System (ETS) to address its emissions targets.",
+              "sources": [
+                {
+                  "title": "Taiwan plans carbon fee-ETS dual approach to tackle emissions",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1hfQm54RmNYTmpMUVh0LURFNDhBRWh3c0lXUmx0RURLYi1qOWNmOWNkQUQySmZITDlLWUZCVGlWWWRCbEtUYW05Q3g4N25FUFVaRGlWOUg0U0lpTGpwRW5lSEtoejEwcWdyNkpPRGpIRHhoS19IWDd3VTNBUS11RmpuZWoySFJWbUZGMHlmVDFweVdz?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -415,68 +407,36 @@
   ],
   "watchlist": [
     {
-      "name": "SK Hynix",
-      "note": "Record earnings and shareholder returns signal strong AI memory demand.",
+      "name": "Fed",
+      "note": "Watch for further commentary on inflation and future rate path after holding steady.",
       "sources": [
         {
-          "title": "역대급 실적 쌓은 SK하이닉스…‘연간 100조’ 주주환원 보따리 푼다",
-          "link": "https://n.news.naver.com/mnews/article/277/0005834481?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "SK Hynix's record quarter shows AI demand turning memory into a contracted, supply-limited business",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGxWbC1GQVVvc0RrVUtBTHR6NTg4RDZzREsyUkRISDVMTlNMUkRPdVVZc2w0TXRSa0hmV29lTlhQUzdaTmVFdUVYZ1hVRTBva1l5amZ6Qm5yRFlHcXpDUlN0Qjl6eTVFMVp4RGl1OHpJaVFZd2N4dWp6YjIzVEpYTUZzVnUtVWV4N1c3LTR5UTF2SkUzV0E?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        },
-        {
-          "title": "SK Hynix Q3 profit jumps more than 7-fold, beats forecasts",
-          "link": "https://www.investing.com/news/stock-market-news/sk-hynix-q3-profit-jumps-more-than-7fold-beats-forecasts-4977256",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "SK Hynix Profit Jumps Seven-Fold to Soothe Doubts Over AI Rush",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzhINFhrV3VnOG40ZnJlUGZjVW0zemZlb3l3QVFWdmhBREp4Y2hhTVJ1bU5ETnJlN3VHdnd1V2d1cWo3SGlWeVlqZzV6ZFlJQlVuOXBNYi1wNDc2dXpqT1FRU2k2ajY2M0hXeF82S1lBekhMOEctUnRyTlg1MGY4dHVrT2dJM0FkM1NRY015c0NJLVNhYUFFNkJIenNyLVRnYVFVT3I2VUg4cnhUcUZsdkVYQQ?oc=5",
+          "title": "Gold Edges Lower After Fed Holds Rates With Limited Guidance",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzc5eDBRUXkxOGFMamVVSDgwYW50VUV2anJjUGhKTzVTRjZpTDhoQWpTcXV6bXlWY19CMTF6cXBSenJMOGswaVFmVGtDeDNpcXowbG9XVExVN000aDMxMjZQWnJRbjQ0blBYTUwzclB6M3E3QS1zSEptcUR6elJZWUxVTHB2bFdJUWtrVjN3cDE1S2ZkRWhGWkhqbWh6VkJaTFIyN1BCZXpBd24xUEVrNw?oc=5",
           "source": "Bloomberg (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Google",
-      "note": "Diversifying TPU supply chain and expanding AI cloud partnerships.",
-      "sources": [
-        {
-          "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         },
         {
-          "title": "Google prioritizes frontier AI as cloud capacity runs short",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUW0wNUttdm9yemxLWWdoSGtjZFY4M2Z3NXJtd1Z3NGtERm1XTllwX01fZ1F6Y2Uxb1NlTFc5eFg1eEFxbmp5WGwxRGNXLVVCZndwS3NmWGVPbXd0Ti1maDEzeXZBdmpCNXJzUFZUNVpMZUw5dUFqa2xQWHlZWE1aSkFxeW9fMXRrLS1CNERWNktnV3FhZ0paNEhkdw?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Fed",
-      "note": "Upcoming rate decision and forward guidance will set macro tone.",
-      "sources": [
-        {
-          "title": "Markets Predict Over 90% Odds Fed Will Leave Rates Unchanged This Month",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGdNRFRYOFBzXzg1RnUxSXVyYU9xenFndXgxaHJnZC1USklYanFYbVpGSU1nQ1ZiLW1WbjZWRUlIR1BlbVFmX3l3Zk51OTlLakFyakg4RjQtYkRjeFpQbnZFYWlHcXBBcF9POVlvSXZXWTZTOUM5OWdySnl0LVFoQWdqSkY0eFBzbzNmWFFVaTJndkJDUjJYcnV2ZFItQjR4clg3WXJKUmVOcDZ2Y3BlZVBvWFVfbDY5RXRuNTJ1aS0xR3Ay?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "Treasury Yields Mixed as Markets Price In a Fed Hold",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORHVSTWFPVVFZQzNWYi1jREpsUXRlQ1RmY05ja1pma1NTX1Q1a28wdk1UT0xPMkdqb1RHMmhmTjFpR21HZFI4S3VBQzZublZMRHhQSFBuWlVYUTR0ZzhvYWdWeWI4ZjdOb2FqYkdUZlc4Vmp0OUpxdzNLX3FnTlNUeGVxQTVZQzI0bU5RMG15TUhXVWhKS1l0RTBDUQ?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-          "link": "https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html",
+          "title": "Fed holds fire on interest rates despite intensifying inflation",
+          "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+          "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+          "source": "CNBC Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        },
+        {
+          "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+          "link": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
           "source": "NYT Business",
           "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
@@ -484,33 +444,77 @@
       "x_mentions": []
     },
     {
-      "name": "BYD",
-      "note": "US ban at military bases highlights ongoing geopolitical tensions impacting Chinese companies.",
+      "name": "Samsung Electronics",
+      "note": "Monitor AI chip demand and capex plans following record Q3 earnings.",
       "sources": [
         {
-          "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
-          "link": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+          "title": "Samsung posts record profit in Q3 on AI chip boom",
+          "link": "https://www.investing.com/news/stock-market-news/samsung-posts-record-profit-in-q3-on-ai-chip-boom-4981289",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "삼성전자, 분기 영업익 첫 100조원 돌파⋯반도체 호황 역대급 실적",
+          "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=601597",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Alphabet",
+      "note": "Observe investor reaction to continued AI investment and efforts to address search revenue challenges.",
+      "sources": [
+        {
+          "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens",
+          "link": "https://www.investing.com/news/stock-market-news/alphabets-heavy-cloud-spending-drives-biggerthanexpected-cash-burn-4980612",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNl94WE51TlQ2Q2dVVTBDNlZZbzF5Mk02UjZRaEJwQnhoM1lGX0dWODk3b1RwZDB1SDVHYmYtOUQzaWJyTEc0ZXlTNmpyQU50WVhaQUpJX3dyMkVFbmgyVXJFVy1fb21TQUxEOXFIWmtzdFEyYVk5SkU3ZGF4LTdnN0EyTlo1NklicFg4TzlpSHYwRE9VYzdUUTZ4N0ZLaG9XWUs1Nm5vM3FfSktn?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Alphabet財報遜預期、AI投資引疑慮 盤後跳水逾10％",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51c1VETUxrZ1JoMkd4TjYwWUd4SlNhbGRBVnVreFdMVl9RTmV2OXQ0MmFFNEZ4cElxYWt0cmJKRmRFdVNzMVBJZHZGVV9WOWotRmlIcFlhQXNheWNhUGdB?oc=5",
+          "source": "Commercial Times 工商時報",
+          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+        },
+        {
+          "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+          "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Nvidia",
-      "note": "Continued investments in Meta and OpenAI's shift to Google TPUs could impact future chip demand.",
+      "note": "Assess competitive landscape as Google's AI chip business grows and explores Samsung for production.",
       "sources": [
         {
-          "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        },
+          "title": "Google's AI chip business is getting harder for Nvidia to ignore",
+          "link": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
+          "source": "Business Insider Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "AI Chip Sector",
+      "note": "Track developments in advanced packaging and material innovation for larger AI chip packages.",
+      "sources": [
         {
-          "title": "輝達斥30億美元認購Meta新股 加強AI合作",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwY2U5SXBfWlkxQ1E2QnVkbndDZW4zVWNsMDd2Tm1aUjJoNlRRZFg2Q2puRWZMdkRGbFk2UEQ2SHZiNm92b0NwaUZtWEhlZUpOSE5obmhWaDhfOXhIZHlV?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+          "title": "Powertech shifts to advanced packaging as AI demand drives growth",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdW1EbS1uMzJOT1Q2bGlRUmlTVllxaTBya0pjUWRuWERwM0JUZU1yQW1NZ29ZSkVSdjFKNkZrdkhrRGMxTmVjeUhEY0NxakUzbUlJbkFhckRqajZEaVg2eWdvUHc0UWI4LUhtbnVUeDVfLUlJUEJ1eDZFYTBvTXV1dzBONlY5UnNLT1RkVzNtYWpfUGhTRDgw?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -585,67 +589,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7722.6,
-      "change": 45.99,
-      "change_pct": 0.6
+      "price": 7743.98,
+      "change": 21.0,
+      "change_pct": 0.27
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 26477.81,
-      "change": 308.45,
-      "change_pct": 1.18
+      "price": 26549.85,
+      "change": 74.95,
+      "change_pct": 0.28
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52377.57,
-      "change": 18.78,
-      "change_pct": 0.04
+      "price": 52475.1,
+      "change": 87.92,
+      "change_pct": 0.17
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2818.87,
-      "change": 32.2,
-      "change_pct": 1.16
+      "price": 2830.51,
+      "change": 11.43,
+      "change_pct": 0.41
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 63879.53,
-      "change": 625.25,
-      "change_pct": 0.99
+      "price": 64750.21,
+      "change": 708.15,
+      "change_pct": 1.11
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 23041.32,
-      "change": -170.49,
-      "change_pct": -0.73
+      "price": 23094.83,
+      "change": 53.51,
+      "change_pct": 0.23
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5836.23,
-      "change": 181.66,
-      "change_pct": 3.21
+      "price": 5970.41,
+      "change": -27.96,
+      "change_pct": -0.47
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 46096.23,
-      "change": -3.05,
-      "change_pct": -0.01
+      "price": 46963.03,
+      "change": -97.43,
+      "change_pct": -0.21
     }
   ],
-  "story_count": 62,
+  "story_count": 63,
   "bucket_count": 13
 }
