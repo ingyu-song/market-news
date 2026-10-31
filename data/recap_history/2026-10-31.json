@@ -1,0 +1,577 @@
+{
+  "generated_at": "2026-10-31T01:23:57+00:00",
+  "mode": "daily",
+  "for_date": "2026-10-31",
+  "headline": "Tech Sell-off Deepens on AI Spending Fears; Apple Overtakes Nvidia",
+  "summary": "US markets experienced a tech sell-off, with major indices declining as Amazon and Intel earnings reports fueled concerns over AI infrastructure spending. Apple surpassed Nvidia to become the world's most valuable company amid this shift. Fed officials continue to advocate for rate hikes, citing ongoing inflation concerns.",
+  "sections": [
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Apple has reclaimed the title of the world's most valuable company, surpassing Nvidia.",
+          "segments": [
+            {
+              "text": "This shift occurred amidst a broader tech sell-off driven by concerns over AI spending and earnings reports.",
+              "sources": [
+                {
+                  "title": "애플, 엔비디아 제치고 시총 1위 탈환",
+                  "link": "https://n.news.naver.com/mnews/article/366/0001201682?sid=105",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                },
+                {
+                  "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia is expanding its role beyond GPUs, integrating deeper into AI infrastructure with Meta's Muse agent stack.",
+          "segments": [
+            {
+              "text": "This strategic move highlights Nvidia's ambition to provide comprehensive AI solutions.",
+              "sources": [
+                {
+                  "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Marvell and Lumentum discussions are bringing the optical supply chain into focus.",
+          "segments": [
+            {
+              "text": "This signals increasing attention on critical components for AI data centers.",
+              "sources": [
+                {
+                  "title": "Marvell-Lumentum talks put optical supply chain in focus",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNudXNiSFpUSVdQVGxDN3RUcWUyWnFlTnRNZzhqYmVQY3luMlBMOHU1ekUxQmlLYUtoZjFjSGZ6d09nSW1aTERPeVREQTNoZ2F5ZmxuSW9GMVlmclVPT1hPaHliNGp3c0J4ZDcxUnJiYU96ZTh3TjVVYTNad0E0UkZOOWkwTUIwcUg2bnQxdWZsbWQtSlBmR3BRN3J0V0hKYWNpVEFqSQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "TSMC capacity is becoming a binding constraint for hyperscaler capital expenditure through 2027.",
+          "segments": [
+            {
+              "text": "Taiwan's semiconductor resilience faces manpower challenges, even as AI breaks traditional supply chain models.",
+              "sources": [
+                {
+                  "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01fSHUzMlM4NWdXNFlsS3ozRFRMaEYtbFJnVVpxRVJmMXlJS3BWVWlRNDFweFFQWFRqdDJTUV8yLUhjX2YxUGJnSUZBdlJ3aERETEdUZHRrb3luX2dxbXMxM2xlalJhbVNFZzIzd3FvUG1ES1ZPbUhSNkktYzdzM1FoZlgtc3FhaEJPZkhWSk1TZmZRQVoxMTNB?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "S&P Global has revised Meta's credit outlook to 'negative' due to soaring AI spending and cash flow concerns.",
+          "segments": [
+            {
+              "text": "The company's substantial investments in AI infrastructure are raising investor scrutiny.",
+              "sources": [
+                {
+                  "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
+                  "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Tech stocks experienced a significant sell-off, with Amazon and Intel earnings reports sparking further AI-related selling pressure.",
+          "segments": [
+            {
+              "text": "This deepened market declines as investors reacted to guidance and spending outlooks.",
+              "sources": [
+                {
+                  "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+                  "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "The tech sector saw a broad sell-off, with nearly $1 trillion wiped from US markets following subpar earnings reports.",
+          "segments": [
+            {
+              "text": "This downturn was exacerbated by concerns over AI spending and future guidance from major tech players.",
+              "sources": [
+                {
+                  "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+                  "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "MediaTek has raised its ASIC outlook, projecting a potential 32% jump in fourth-quarter revenue.",
+          "segments": [
+            {
+              "text": "This positive guidance contrasts with broader tech sector concerns.",
+              "sources": [
+                {
+                  "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0t6cGtueFV1Vk45a01VR0dHQ2Q5amtXVjRJckJlUDBVajNlenVqUC10dURFN2M5Qkl1Ylc1dHVtT0lyeVA3NWxsTEdSX0RXV1hlQWJsczdYYUhJeGtpQVlyWVhaWUpzMDljaWJ2Zkg2d1dNSVlEZEpKckhFQjNjUG1reEZHS0tZMHN5Zk5R?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AUO is targeting significant revenue contributions from optical engines and glass core substrates within the next 2 to 3 years.",
+          "segments": [
+            {
+              "text": "This indicates a strategic shift towards high-growth areas in display and semiconductor technology.",
+              "sources": [
+                {
+                  "title": "AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzBKVzVQQjJtU3V3aHhPQkZURVhlcndCWGdHYjRPNkprUXFYZXZWNllUSlVpektfb1p4cmhUdlZITVBzc1lSaTF1dFdBdHBXMW1ySVRTa3JkelZjNGFRb0dBdDZGNzc0NWJFWXRJQjFKUnZfY09LUE54UFNzcWpOVFpxMmJCNmlGNHVsVFoxU1FzSGt4dzNMampZb0E2bkU5Qnc?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Federal Reserve officials are making a strong case for continued rate hikes amid persistent inflation concerns.",
+          "segments": [
+            {
+              "text": "The ongoing debate over monetary policy continues to influence market sentiment.",
+              "sources": [
+                {
+                  "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump's policies have been cited as a factor fueling US inflation, despite his vows to reduce prices.",
+          "segments": [
+            {
+              "text": "This highlights the complex interplay between political decisions and economic outcomes.",
+              "sources": [
+                {
+                  "title": "Trump vowed to reduce prices, but his policies have fueled US inflation | Steven Greenhouse",
+                  "link": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Alaska Air plans to cut 200 jobs and warns of a potential $700 million annual loss.",
+          "segments": [
+            {
+              "text": "This signals economic headwinds impacting the airline sector.",
+              "sources": [
+                {
+                  "title": "Alaska Air to cut 200 jobs, warns of potential $700 million annual loss",
+                  "link": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Oil prices climbed on signs the US may resume military strikes against Iran, fueling supply worries.",
+          "segments": [
+            {
+              "text": "Geopolitical tensions in the Middle East continue to impact global energy markets.",
+              "sources": [
+                {
+                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+                  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+                  "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US natural gas futures settled higher, with hedge funds boosting short positions to record levels.",
+          "segments": [
+            {
+              "text": "This reflects volatility and speculative activity in the natural gas market.",
+              "sources": [
+                {
+                  "title": "U.S. Natural Gas Futures Settle Higher",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQV81YTRMMHZPSHlYRFZTS3dvN3VMbTVpc2tIeXlyWFZodFZCTzlRUVAwVzMyOWp2VEc0ZmU3ZXdwWHJmUThISXZaTE5SdUJQdlA1Yjg2MXV0a29BZ1d4ejdLeDFoQjJoQUxrQ0xQRFJtZXZFVGQtcU9WazVfMnJhSG82a2VMb3NMOUV1TVQ0YTNmb3Vhb3Z2YzEtU3d3Sm1ONjh3N0dDNlllbm1saTlWSA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1VKS3VzYy1LaVpySXlQd1JVb1RjT2tKQVkzZDRPYUcwU3RyVDJTdk05ZlVmdXZsUjNoUWRzLWIzME9FYWZ3UnNfQU1iMHhrUGZmQ3ZPcmkteXhYVHA3TUliR0VXeWdTd1lGdjJfM1ZEZFZjZnZWRllCSmttLThVLV9EbnNWcjhYLVZ4ZzRtWGFwWmo5UnN5QnJZYlB5X3BIa24tX3RQWllfUG00elNwTEc5Y2s?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "The 2026 APEC summit is poised to address the future of the global economy, with leaders like Xi Jinping and Trump expected to participate.",
+          "segments": [
+            {
+              "text": "Geopolitical dynamics and trade policies will likely dominate discussions.",
+              "sources": [
+                {
+                  "title": "APEC 2026, 시진핑·트럼프·이재명, 2026 APEC이 묻는 세계의 미래",
+                  "link": "http://www.breaknews.com/1247315",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Nvidia",
+      "note": "Watch for continued market reaction to Apple's market cap overtake and any further developments in AI infrastructure.",
+      "sources": [
+        {
+          "title": "애플, 엔비디아 제치고 시총 1위 탈환",
+          "link": "https://n.news.naver.com/mnews/article/366/0001201682?sid=105",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Meta",
+      "note": "Monitor credit outlook and investor sentiment regarding its aggressive AI spending.",
+      "sources": [
+        {
+          "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
+          "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Fed",
+      "note": "Focus on upcoming statements from officials regarding inflation and potential rate hike trajectories.",
+      "sources": [
+        {
+          "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil Futures",
+      "note": "Geopolitical developments in the Middle East and their impact on supply will be key drivers.",
+      "sources": [
+        {
+          "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+          "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "TSMC",
+      "note": "Capacity constraints remain a critical factor for the AI chip supply chain, impacting major tech players.",
+      "sources": [
+        {
+          "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01fSHUzMlM4NWdXNFlsS3ozRFRMaEYtbFJnVVpxRVJmMXlJS3BWVWlRNDFweFFQWFRqdDJTUV8yLUhjX2YxUGJnSUZBdlJ3aERETEdUZHRrb3luX2dxbXMxM2xlalJhbVNFZzIzd3FvUG1ES1ZPbUhSNkktYzdzM1FoZlgtc3FhaEJPZkhWSk1TZmZRQVoxMTNB?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Positive sentiment for Ibiden",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's vertical integration in datacenter cooling",
+      "category": "sectors",
+      "subcategory": "liquid_cooling",
+      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's in-house optical fiber development",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106909462141542687"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's 10GW power capacity and internal consumption",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106907946890457304"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink's in-flight internet service",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 4,
+  "x_generated_at": "2026-10-05T01:46:46+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7580.07,
+      "change": -140.95,
+      "change_pct": -1.83
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 25437.0,
+      "change": -751.0,
+      "change_pct": -2.87
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 51770.31,
+      "change": -573.03,
+      "change_pct": -1.09
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2811.84,
+      "change": -47.14,
+      "change_pct": -1.65
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 63290.11,
+      "change": -1290.53,
+      "change_pct": -2.0
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23294.42,
+      "change": 335.77,
+      "change_pct": 1.46
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5730.74,
+      "change": -212.53,
+      "change_pct": -3.58
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 45211.83,
+      "change": -1114.74,
+      "change_pct": -2.41
+    }
+  ],
+  "story_count": 57,
+  "bucket_count": 11
+}

@@ -1,53 +1,172 @@
 {
-  "generated_at": "2026-10-30T01:30:47+00:00",
+  "generated_at": "2026-10-31T01:23:57+00:00",
   "mode": "daily",
-  "for_date": "2026-10-30",
-  "headline": "Tech Earnings Mixed: Nvidia Rallies, Amazon & Alphabet Miss Amid AI Capex Concerns",
-  "summary": "US markets saw mixed tech earnings, with Amazon and Alphabet missing revenue estimates, driving Nasdaq down 2%. Nvidia, however, posted strong guidance, while US GDP grew 3.4% but inflation accelerated to 3.7%. The ECB held key interest rates at 2.5%.",
+  "for_date": "2026-10-31",
+  "headline": "Tech Sell-off Deepens on AI Spending Fears; Apple Overtakes Nvidia",
+  "summary": "US markets experienced a tech sell-off, with major indices declining as Amazon and Intel earnings reports fueled concerns over AI infrastructure spending. Apple surpassed Nvidia to become the world's most valuable company amid this shift. Fed officials continue to advocate for rate hikes, citing ongoing inflation concerns.",
   "sections": [
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Apple has reclaimed the title of the world's most valuable company, surpassing Nvidia.",
+          "segments": [
+            {
+              "text": "This shift occurred amidst a broader tech sell-off driven by concerns over AI spending and earnings reports.",
+              "sources": [
+                {
+                  "title": "애플, 엔비디아 제치고 시총 1위 탈환",
+                  "link": "https://n.news.naver.com/mnews/article/366/0001201682?sid=105",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                },
+                {
+                  "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia is expanding its role beyond GPUs, integrating deeper into AI infrastructure with Meta's Muse agent stack.",
+          "segments": [
+            {
+              "text": "This strategic move highlights Nvidia's ambition to provide comprehensive AI solutions.",
+              "sources": [
+                {
+                  "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Marvell and Lumentum discussions are bringing the optical supply chain into focus.",
+          "segments": [
+            {
+              "text": "This signals increasing attention on critical components for AI data centers.",
+              "sources": [
+                {
+                  "title": "Marvell-Lumentum talks put optical supply chain in focus",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNudXNiSFpUSVdQVGxDN3RUcWUyWnFlTnRNZzhqYmVQY3luMlBMOHU1ekUxQmlLYUtoZjFjSGZ6d09nSW1aTERPeVREQTNoZ2F5ZmxuSW9GMVlmclVPT1hPaHliNGp3c0J4ZDcxUnJiYU96ZTh3TjVVYTNad0E0UkZOOWkwTUIwcUg2bnQxdWZsbWQtSlBmR3BRN3J0V0hKYWNpVEFqSQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "TSMC capacity is becoming a binding constraint for hyperscaler capital expenditure through 2027.",
+          "segments": [
+            {
+              "text": "Taiwan's semiconductor resilience faces manpower challenges, even as AI breaks traditional supply chain models.",
+              "sources": [
+                {
+                  "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01fSHUzMlM4NWdXNFlsS3ozRFRMaEYtbFJnVVpxRVJmMXlJS3BWVWlRNDFweFFQWFRqdDJTUV8yLUhjX2YxUGJnSUZBdlJ3aERETEdUZHRrb3luX2dxbXMxM2xlalJhbVNFZzIzd3FvUG1ES1ZPbUhSNkktYzdzM1FoZlgtc3FhaEJPZkhWSk1TZmZRQVoxMTNB?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "S&P Global has revised Meta's credit outlook to 'negative' due to soaring AI spending and cash flow concerns.",
+          "segments": [
+            {
+              "text": "The company's substantial investments in AI infrastructure are raising investor scrutiny.",
+              "sources": [
+                {
+                  "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
+                  "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Tech stocks experienced a significant sell-off, with Amazon and Intel earnings reports sparking further AI-related selling pressure.",
+          "segments": [
+            {
+              "text": "This deepened market declines as investors reacted to guidance and spending outlooks.",
+              "sources": [
+                {
+                  "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+                  "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
     {
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Major tech firms reported mixed Q3 results, with Amazon and Intel underperforming expectations.",
+          "lead": "The tech sector saw a broad sell-off, with nearly $1 trillion wiped from US markets following subpar earnings reports.",
           "segments": [
             {
-              "text": "U.S. stock futures sank, with the Nasdaq down 2%, as Amazon and Intel's earnings underwhelmed market expectations, while Alphabet's revenue miss revived AI capex jitters.",
+              "text": "This downturn was exacerbated by concerns over AI spending and future guidance from major tech players.",
               "sources": [
                 {
-                  "title": "U.S. stock futures sink, Nasdaq down 2% as Amazon, Intel earnings underwhelm",
-                  "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
-                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia defied the trend, rallying on strong guidance and continued AI demand.",
-          "segments": [
-            {
-              "text": "Nvidia rallied on a guidance beat, with Micron also driving an earnings boom, indicating robust demand in the semiconductor sector.",
-              "sources": [
-                {
-                  "title": "China’s stock markets are the great global exception",
-                  "link": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
-                  "source": "The Economist Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
-                },
-                {
-                  "title": "Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg?oc=5",
+                  "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+                  "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -55,16 +174,16 @@
           ]
         },
         {
-          "lead": "Anthropic's contributions significantly boosted SpaceX's Q3 revenue.",
+          "lead": "MediaTek has raised its ASIC outlook, projecting a potential 32% jump in fourth-quarter revenue.",
           "segments": [
             {
-              "text": "Anthropic accounted for over a third of SpaceX's revenue in Q3, highlighting the growing financial impact of AI partnerships.",
+              "text": "This positive guidance contrasts with broader tech sector concerns.",
               "sources": [
                 {
-                  "title": "Anthropic accounts for over a third of SpaceX revenue in Q3, Bloomberg reports",
-                  "link": "https://www.investing.com/news/stock-market-news/anthropic-accounts-for-over-a-third-of-spacex-revenue-in-q3-bloomberg-reports-4985678",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0t6cGtueFV1Vk45a01VR0dHQ2Q5amtXVjRJckJlUDBVajNlenVqUC10dURFN2M5Qkl1Ylc1dHVtT0lyeVA3NWxsTEdSX0RXV1hlQWJsczdYYUhJeGtpQVlyWVhaWUpzMDljaWJ2Zkg2d1dNSVlEZEpKckhFQjNjUG1reEZHS0tZMHN5Zk5R?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -72,14 +191,14 @@
           ]
         },
         {
-          "lead": "Several semiconductor material and component suppliers posted record revenues.",
+          "lead": "AUO is targeting significant revenue contributions from optical engines and glass core substrates within the next 2 to 3 years.",
           "segments": [
             {
-              "text": "Silicon Motion posted its fourth straight revenue record and eyes 100% growth in 2026, while Elite Material also reported record 3Q26 revenue driven by AI demand.",
+              "text": "This indicates a strategic shift towards high-growth areas in display and semiconductor technology.",
               "sources": [
                 {
-                  "title": "Silicon Motion posts fourth straight revenue record, eyes 100% 2026 growth",
-                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX1pyRnlVSVBvZjlqbFQ4bjg2WHR4aWJaTVRQV0ZzQVNZQ1prNlZpVGphNnZMVnpZY2Y1QkRvNC03MDFELWdBcktsRFJaR3BFdHVaOGlMREFNdzJrWkF6VGxnTXdUVWJhRloyUXJzQzJlVW10aFNmTk9pLTFQbTcyVHo1Tlc4REI0U1hyT0JQeVRySnZzQ3NoT3FKY3BiTmc?oc=5",
+                  "title": "AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzBKVzVQQjJtU3V3aHhPQkZURVhlcndCWGdHYjRPNkprUXFYZXZWNllUSlVpektfb1p4cmhUdlZITVBzc1lSaTF1dFdBdHBXMW1ySVRTa3JkelZjNGFRb0dBdDZGNzc0NWJFWXRJQjFKUnZfY09LUE54UFNzcWpOVFpxMmJCNmlGNHVsVFoxU1FzSGt4dzNMampZb0E2bkU5Qnc?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -94,26 +213,31 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "The U.S. economy grew faster than expected in Q3, but inflation continued to accelerate.",
+          "lead": "Federal Reserve officials are making a strong case for continued rate hikes amid persistent inflation concerns.",
           "segments": [
             {
-              "text": "Third-quarter U.S. GDP increased a better-than-expected 3.4%, however, September inflation accelerated and the PCE Index showed inflation accelerated in October.",
+              "text": "The ongoing debate over monetary policy continues to influence market sentiment.",
               "sources": [
                 {
-                  "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-                  "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                },
+                  "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump's policies have been cited as a factor fueling US inflation, despite his vows to reduce prices.",
+          "segments": [
+            {
+              "text": "This highlights the complex interplay between political decisions and economic outcomes.",
+              "sources": [
                 {
-                  "title": "Inflation Accelerated in October, PCE Index Shows",
-                  "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                },
-                {
-                  "title": "US economy grows faster than expected but inflation rises to 3.7%",
-                  "link": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+                  "title": "Trump vowed to reduce prices, but his policies have fueled US inflation | Steven Greenhouse",
+                  "link": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
                   "source": "The Guardian Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
@@ -123,39 +247,16 @@
           ]
         },
         {
-          "lead": "The European Central Bank maintained its key interest rate.",
+          "lead": "Alaska Air plans to cut 200 jobs and warns of a potential $700 million annual loss.",
           "segments": [
             {
-              "text": "The European Central Bank kept its key interest rate on hold at 2.5%, signaling a pause in monetary tightening.",
+              "text": "This signals economic headwinds impacting the airline sector.",
               "sources": [
                 {
-                  "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-                  "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Treasury rates remain a key indicator amidst ongoing inflation concerns.",
-          "segments": [
-            {
-              "text": "Treasury rates today reflect the market's response to inflation and economic growth data, with the Fed potentially needing to play catch-up to quell inflation.",
-              "sources": [
-                {
-                  "title": "Treasury Rates Today: October 29, 2026",
-                  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-                  "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Alaska Air to cut 200 jobs, warns of potential $700 million annual loss",
+                  "link": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -165,52 +266,29 @@
       ]
     },
     {
-      "label": "US Semis / AI Chips",
+      "label": "Energy / Commodities",
       "bullets": [
         {
-          "lead": "Nvidia is in talks to provide substantial credit support for a cloud provider's Anthropic deal.",
+          "lead": "Oil prices climbed on signs the US may resume military strikes against Iran, fueling supply worries.",
           "segments": [
             {
-              "text": "Nvidia is reportedly in talks to provide billions in credit support for a cloud provider's $45 billion Anthropic deal, underscoring its strategic investments in the AI ecosystem.",
+              "text": "Geopolitical tensions in the Middle East continue to impact global energy markets.",
               "sources": [
                 {
-                  "title": "Nvidia in Talks to Provide Billions in Credit Support For a Cloud Provider’s $45 Billion Anthropic Deal",
-                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia's CEO was reportedly targeted by a suspected Chinese informant.",
-          "segments": [
-            {
-              "text": "Nvidia's Huang stated dealings with a firm in a US spy probe were 'normal', following reports that the CEO was targeted by an alleged Chinese spy.",
-              "sources": [
-                {
-                  "title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal', Bloomberg News reports",
-                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJwa3VEMVZBTzlycmloVGNCSVdBTjU3d1RlNlA1OFFDdkpBVXZBNi13S1JOV3MwRDFtUkk2M0t2UzQ5aFUweGl3RGFQQ1I3blJpMHlEV2lhUEEtNkJYdEhXeU5mVGxNWjlXUmpWd2NLejFiUkJyYUxOR0dZWlB6RUtUejhwQWV2ek41cm14V0dfM1I4cVNHQTBVeWpyRzRwQzNjMlNkcjVlZkdrbWd0aGhrbE1EUzlEQXpIWGhERkxmcjA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 },
                 {
-                  "title": "Nvidia CEO Reportedly Targeted By Suspected Chinese Informant",
-                  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTMwc0pVRVN6blpZcFBiMGhoWHVQekRJN0c3cVdKdmg2X3hjWlhxWWtiN2M3M1JLUFlSbFFEWC1ZSW5mbUFQdFllNkJGMUpqZ2ZNT3JpSGxlU0c2QnVrNDY2N3d6VmpuMEJOQVVsN0dFNEdsUWZKYXVvdmlITFNlVG5IbTN4eFdGdThYZUNwMTBPZ0ZvcE1PYV9ud05mQjl2?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+                  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
-                  "title": "Trump Knew Of China Spy Concerns Around Nvidia Chief, Report Finds",
-                  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYjlGVm50OGhGNnBvLTVpSE80MkxwdV80QWg2eVNpbnAxNHlDc3lGd2ZFaWJ2Rkh2TGEzaDlMM1RsaWV5UE0zN3pZaGFWRXk5RlU0UzBCSmFKbE9GYXlvQnVrTXdEaVBSczBTUGEzdGQ5R0xpaU1QREJDODdKaUZhQTJPNkpiTUt6V1pKR2lPdjE5ZHk3QTB6bFVsMm1IODIwcWhqOEJ0UjFjbGFlTGFaX1RrTmtxN3FLSXBNRldDUDdPa1FJQUVveHpKeTBqV1I1N2hkRDZmWWpZN1J0aWc5VmJZb09iaDZnOFhJ?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
-                  "link": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+                  "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+                  "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
                   "source": "The Guardian Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
@@ -218,93 +296,24 @@
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Software / Internet / Platforms",
-      "bullets": [
-        {
-          "lead": "Amazon's cloud acceleration lifted profitability, but AI spending absorbed cash.",
-          "segments": [
-            {
-              "text": "Amazon's cloud acceleration lifted profitability, but AI spending absorbed cash, leading to a mixed financial picture and a slide in shares on a lower Christmas sales forecast.",
-              "sources": [
-                {
-                  "title": "Amazon gives Wall Street mixed financial picture in earnings report",
-                  "link": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "Amazon burns cash, Intel flags weak PC demand as AI boom’s costs ripple across markets",
-                  "link": "https://www.investing.com/news/stock-market-news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks-4985272",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Amazon's cloud acceleration lifts profitability as AI spending absorbs cash",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlE1NHdvSkk5VDRyOUQ1bDBVRmxhNGJuXy10TkV5a0RhVHpkam5Qam1fNVQ1R01oOEd3ZngwWUJFTDVCcnlPOTdVUThSd0s0NWN0M1hNX3JvMmVqdmVkemdzNkE4Y2M3STNVVmJtY3R4Qk5jN0M4bzMtZzdnTXhMdlpSYzF0eHprMmwzQmxHSUlYMmtmUEtnVA?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                },
-                {
-                  "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "Amazon shares slide on lower Christmas sales forecast",
-                  "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                },
-                {
-                  "title": "AWS Revenue Rises To $46 Billion In Amazon’s Third Quarter",
-                  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY3hUX2RUeHNxaUNlWllBRDBPLTB5R3AtRF9oazBIQ0EyNXdPLWZneGRPOWg3M2x2YjZ6QUJGUmk5Q2JrODgwdFB1czAtZjMwMlhCRjNUdTdkcTJTd0t1X0p2TFpENUttZkg5aFdkV3Q0SV9OX3Bzd0sza1dyLXpDVjRpa3o2MkxmZ1FxNk1sNzNLRXZtUVNrZFk4MXFHdTV1TWN3YlVEbFB5VU9wcGR0U1p5ZUVQd1FnVTFMelFybVBEV1hUZVhuc19HeVY2RV9sdzFpeA?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         },
         {
-          "lead": "Alphabet's revenue miss caused a significant plunge in Google's market value.",
+          "lead": "US natural gas futures settled higher, with hedge funds boosting short positions to record levels.",
           "segments": [
             {
-              "text": "Alphabet's revenue miss revived AI capex jitters, causing Google's value to plunge by $500 billion as AI fears rattled Wall Street.",
+              "text": "This reflects volatility and speculative activity in the natural gas market.",
               "sources": [
                 {
-                  "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
-                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "U.S. Natural Gas Futures Settle Higher",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQV81YTRMMHZPSHlYRFZTS3dvN3VMbTVpc2tIeXlyWFZodFZCTzlRUVAwVzMyOWp2VEc0ZmU3ZXdwWHJmUThISXZaTE5SdUJQdlA1Yjg2MXV0a29BZ1d4ejdLeDFoQjJoQUxrQ0xQRFJtZXZFVGQtcU9WazVfMnJhSG82a2VMb3NMOUV1TVQ0YTNmb3Vhb3Z2YzEtU3d3Sm1ONjh3N0dDNlllbm1saTlWSA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 },
                 {
-                  "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-                  "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Microsoft expects to raise $25 billion in a US bond sale.",
-          "segments": [
-            {
-              "text": "Microsoft expects to raise $25 billion in a US bond sale, according to sources, indicating significant capital raising for future initiatives.",
-              "sources": [
-                {
-                  "title": "Microsoft expects to raise $25 billion in US bond sale, sources say",
-                  "link": "https://www.investing.com/news/stock-market-news/microsoft-expects-to-raise-25-billion-in-us-bond-sale-source-says-4984856",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1VKS3VzYy1LaVpySXlQd1JVb1RjT2tKQVkzZDRPYUcwU3RyVDJTdk05ZlVmdXZsUjNoUWRzLWIzME9FYWZ3UnNfQU1iMHhrUGZmQ3ZPcmkteXhYVHA3TUliR0VXeWdTd1lGdjJfM1ZEZFZjZnZWRllCSmttLThVLV9EbnNWcjhYLVZ4ZzRtWGFwWmo5UnN5QnJZYlB5X3BIa24tX3RQWllfUG00elNwTEc5Y2s?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -317,89 +326,16 @@
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Taiwan's semiconductor output is projected to reach NT$9.1 trillion, with calls for stable power.",
+          "lead": "The 2026 APEC summit is poised to address the future of the global economy, with leaders like Xi Jinping and Trump expected to participate.",
           "segments": [
             {
-              "text": "Taiwan's semiconductor output is expected to hit NT$9.1 trillion, with the TSIA urging stable power supply to support this growth.",
+              "text": "Geopolitical dynamics and trade policies will likely dominate discussions.",
               "sources": [
                 {
-                  "title": "Taiwan semiconductor output to hit NT$9.1 trillion as TSIA urges stable power",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZjFrcTF0a1ZJWGw0UFYxWWotQjVyczhqV1RnOFJjY3dzN1NFYzlGM0pHWGN3S3BNR0w4U25JdkJNYlJlejA3S3B3VG9GeHVHOG9sWllFZXJRbDlzb1BpZktCUHlpakRHRzh5NXlNVkF1TUxSbUtBSjh4LXlTWUdqU1c5RFhObkRaa1JpQW5ISk5lZ2c?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Starbucks plans to resume share buybacks, but its China strategy faces growth uncertainties.",
-          "segments": [
-            {
-              "text": "Starbucks will resume share buybacks, but its growth outlook is clouded by its shift in China, indicating potential challenges in the market.",
-              "sources": [
-                {
-                  "title": "Starbucks to resume share buybacks but China shift clouds growth outlook",
-                  "link": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Reports suggest Trump was aware of China spy concerns regarding Nvidia's chief.",
-          "segments": [
-            {
-              "text": "A report indicates that Trump knew of China spy concerns around Nvidia's chief, adding a geopolitical layer to semiconductor industry dynamics.",
-              "sources": [
-                {
-                  "title": "Trump Knew Of China Spy Concerns Around Nvidia Chief, Report Finds",
-                  "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYjlGVm50OGhGNnBvLTVpSE80MkxwdV80QWg2eVNpbnAxNHlDc3lGd2ZFaWJ2Rkh2TGEzaDlMM1RsaWV5UE0zN3pZaGFWRXk5RlU0UzBCSmFKbE9GYXlvQnVrTXdEaVBSczBTUGEzdGQ5R0xpaU1QREJDODdKaUZhQTJPNkpiTUt6V1pKR2lPdjE5ZHk3QTB6bFVsMm1IODIwcWhqOEJ0UjFjbGFlTGFaX1RrTmtxN3FLSXBNRldDUDdPa1FJQUVveHpKeTBqV1I1N2hkRDZmWWpZN1J0aWc5VmJZb09iaDZnOFhJ?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Memory (DRAM/HBM/NAND)",
-      "bullets": [
-        {
-          "lead": "Memory prices are surging, with Alibaba, Tencent, and ByteDance reportedly seeking long-term DRAM deals.",
-          "segments": [
-            {
-              "text": "Alibaba, Tencent, and ByteDance are reportedly seeking 10-year DRAM deals, signaling strong demand and a potential memory crunch.",
-              "sources": [
-                {
-                  "title": "Alibaba, Tencent, ByteDance reportedly seek 10-year DRAM deals",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQy0takJEMDRMSzJPV01mVHZvMWFTN1V5MmFZblktS3lQSlN5aDBjRUg1RmFsY251QnY1MGUzQVZUcTM3MmVnVHY5N2wyQy16NGg1a2JiRzhMYXJTUnU1djFjeDFMcmhaXzZ4cnhFdUZHVkNHZ2lfRWo3T2k0SURTcFJhMDFyejZVZzhrQnEwdFJWNTA?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Samsung and SK Hynix anticipate memory crunch could persist for years despite increased spending.",
-          "segments": [
-            {
-              "text": "Samsung and SK Hynix indicate that the memory crunch could drag on for years despite a surge in spending, impacting global supply.",
-              "sources": [
-                {
-                  "title": "Samsung, SK Hynix say memory crunch could drag on for years despite spending surge",
-                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYko0QXFxLTFhY1lKOHp4SVFWNDBGWFdJRERWS0VoRERic1pwQlBPaWJRaW9NVkFfME9pczdBRUFJcEtSajVwdE42bUlaNV8yOVFIR2k3cE5Odlp6Wl9DV2RCTjhadTVTMk8zMmY5NGN2cG12Si1WNFotZFZzYU93OXNGdmNnVlpjTmRDalJhaWh1SWZOSnJoSll1a0k?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "APEC 2026, 시진핑·트럼프·이재명, 2026 APEC이 묻는 세계의 미래",
+                  "link": "http://www.breaknews.com/1247315",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -412,115 +348,80 @@
   "watchlist": [
     {
       "name": "Nvidia",
-      "note": "Watch for developments on AI chip demand, credit support for cloud providers, and any further geopolitical scrutiny.",
+      "note": "Watch for continued market reaction to Apple's market cap overtake and any further developments in AI infrastructure.",
       "sources": [
         {
-          "title": "China’s stock markets are the great global exception",
-          "link": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
-          "source": "The Economist Finance",
-          "favicon": "https://www.google.com/s2/favicons?domain=economist.com&sz=64"
+          "title": "애플, 엔비디아 제치고 시총 1위 탈환",
+          "link": "https://n.news.naver.com/mnews/article/366/0001201682?sid=105",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         },
         {
-          "title": "Nvidia in Talks to Provide Billions in Credit Support For a Cloud Provider’s $45 Billion Anthropic Deal",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+          "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         },
         {
-          "title": "Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "Nvidia's Huang says dealings with firm in US spy probe were 'normal', Bloomberg News reports",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaXJwa3VEMVZBTzlycmloVGNCSVdBTjU3d1RlNlA1OFFDdkpBVXZBNi13S1JOV3MwRDFtUkk2M0t2UzQ5aFUweGl3RGFQQ1I3blJpMHlEV2lhUEEtNkJYdEhXeU5mVGxNWjlXUmpWd2NLejFiUkJyYUxOR0dZWlB6RUtUejhwQWV2ek41cm14V0dfM1I4cVNHQTBVeWpyRzRwQzNjMlNkcjVlZkdrbWd0aGhrbE1EUzlEQXpIWGhERkxmcjA?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "Trump Knew Of China Spy Concerns Around Nvidia Chief, Report Finds",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYjlGVm50OGhGNnBvLTVpSE80MkxwdV80QWg2eVNpbnAxNHlDc3lGd2ZFaWJ2Rkh2TGEzaDlMM1RsaWV5UE0zN3pZaGFWRXk5RlU0UzBCSmFKbE9GYXlvQnVrTXdEaVBSczBTUGEzdGQ5R0xpaU1QREJDODdKaUZhQTJPNkpiTUt6V1pKR2lPdjE5ZHk3QTB6bFVsMm1IODIwcWhqOEJ0UjFjbGFlTGFaX1RrTmtxN3FLSXBNRldDUDdPa1FJQUVveHpKeTBqV1I1N2hkRDZmWWpZN1J0aWc5VmJZb09iaDZnOFhJ?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        },
-        {
-          "title": "Nvidia CEO reportedly targeted by an alleged Chinese spy",
-          "link": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+          "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Amazon",
-      "note": "Monitor AI capex spending, cloud growth trajectory, and holiday sales forecasts for impact on profitability.",
+      "name": "Meta",
+      "note": "Monitor credit outlook and investor sentiment regarding its aggressive AI spending.",
       "sources": [
         {
-          "title": "U.S. stock futures sink, Nasdaq down 2% as Amazon, Intel earnings underwhelm",
-          "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-sink-nasdaq-down-2-as-amazon-intel-earnings-underwhelm-4985675",
+          "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
+          "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Amazon gives Wall Street mixed financial picture in earnings report",
-          "link": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        },
-        {
-          "title": "Amazon's cloud acceleration lifts profitability as AI spending absorbs cash",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlE1NHdvSkk5VDRyOUQ1bDBVRmxhNGJuXy10TkV5a0RhVHpkam5Qam1fNVQ1R01oOEd3ZngwWUJFTDVCcnlPOTdVUThSd0s0NWN0M1hNX3JvMmVqdmVkemdzNkE4Y2M3STNVVmJtY3R4Qk5jN0M4bzMtZzdnTXhMdlpSYzF0eHprMmwzQmxHSUlYMmtmUEtnVA?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        },
-        {
-          "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXhDSjU4RmlrZmUyT0E5dzJNbmJNaXBBdGhndktXeGUtZVItTWlpNDBZcXR5LTZDMjFOdzdXenRpTnhNd01pZXBXX0V0OTVlYkMtVlJnN2l4YS1QeENxeWlzUUN6bDZkeThpc1VBMUZDQjFYcGxrQWFrVzBVOXdueV9Tb0drZjZ4T3JYWmRXS2MwWnMwMGpoT05FU1lUVWhRbXlPZEpYUjZQbnlrQWh3SGdsTQ?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "Amazon shares slide on lower Christmas sales forecast",
-          "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        },
-        {
-          "title": "AWS Revenue Rises To $46 Billion In Amazon’s Third Quarter",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY3hUX2RUeHNxaUNlWllBRDBPLTB5R3AtRF9oazBIQ0EyNXdPLWZneGRPOWg3M2x2YjZ6QUJGUmk5Q2JrODgwdFB1czAtZjMwMlhCRjNUdTdkcTJTd0t1X0p2TFpENUttZkg5aFdkV3Q0SV9OX3Bzd0sza1dyLXpDVjRpa3o2MkxmZ1FxNk1sNzNLRXZtUVNrZFk4MXFHdTV1TWN3YlVEbFB5VU9wcGR0U1p5ZUVQd1FnVTFMelFybVBEV1hUZVhuc19HeVY2RV9sdzFpeA?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Fed",
-      "note": "Upcoming inflation data and any signals regarding future rate hike possibilities will be critical for market direction.",
+      "note": "Focus on upcoming statements from officials regarding inflation and potential rate hike trajectories.",
       "sources": [
         {
-          "title": "Treasury Rates Today: October 29, 2026",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil Futures",
+      "note": "Geopolitical developments in the Middle East and their impact on supply will be key drivers.",
+      "sources": [
+        {
+          "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         },
         {
-          "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-          "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         },
         {
-          "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-          "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-          "source": "CNBC Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        },
-        {
-          "title": "US economy grows faster than expected but inflation rises to 3.7%",
-          "link": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+          "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+          "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
           "source": "The Guardian Business",
           "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
         }
@@ -528,18 +429,12 @@
       "x_mentions": []
     },
     {
-      "name": "Samsung",
-      "note": "Keep an eye on potential Google TPU deals and the broader memory market dynamics amidst surging prices and supply concerns.",
+      "name": "TSMC",
+      "note": "Capacity constraints remain a critical factor for the AI chip supply chain, impacting major tech players.",
       "sources": [
         {
-          "title": "삼성전자 57주년⋯DS '호황 경계'·DX 'AI 혁신' 강조 [종합]",
-          "link": "https://n.news.naver.com/mnews/article/031/0001070773?sid=101",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
-        {
-          "title": "Samsung, SK Hynix say memory crunch could drag on for years despite spending surge",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYko0QXFxLTFhY1lKOHp4SVFWNDBGWFdJRERWS0VoRERic1pwQlBPaWJRaW9NVkFfME9pczdBRUFJcEtSajVwdE42bUlaNV8yOVFIR2k3cE5Odlp6Wl9DV2RCTjhadTVTMk8zMmY5NGN2cG12Si1WNFotZFZzYU93OXNGdmNnVlpjTmRDalJhaWh1SWZOSnJoSll1a0k?oc=5",
+          "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01fSHUzMlM4NWdXNFlsS3ozRFRMaEYtbFJnVVpxRVJmMXlJS3BWVWlRNDFweFFQWFRqdDJTUV8yLUhjX2YxUGJnSUZBdlJ3aERETEdUZHRrb3luX2dxbXMxM2xlalJhbVNFZzIzd3FvUG1ES1ZPbUhSNkktYzdzM1FoZlgtc3FhaEJPZkhWSk1TZmZRQVoxMTNB?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
@@ -616,67 +511,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7720.39,
-      "change": -27.64,
-      "change_pct": -0.36
+      "price": 7580.07,
+      "change": -140.95,
+      "change_pct": -1.83
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 26184.72,
-      "change": -376.51,
-      "change_pct": -1.42
+      "price": 25437.0,
+      "change": -751.0,
+      "change_pct": -2.87
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52342.56,
-      "change": -177.39,
-      "change_pct": -0.34
+      "price": 51770.31,
+      "change": -573.03,
+      "change_pct": -1.09
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2859.22,
-      "change": 29.22,
-      "change_pct": 1.03
+      "price": 2811.84,
+      "change": -47.14,
+      "change_pct": -1.65
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 62917.87,
-      "change": -1662.77,
-      "change_pct": -2.57
+      "price": 63290.11,
+      "change": -1290.53,
+      "change_pct": -2.0
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 22958.65,
-      "change": -136.18,
-      "change_pct": -0.59
+      "price": 23294.42,
+      "change": 335.77,
+      "change_pct": 1.46
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5643.45,
-      "change": -299.82,
-      "change_pct": -5.04
+      "price": 5730.74,
+      "change": -212.53,
+      "change_pct": -3.58
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 44907.54,
-      "change": -1419.03,
-      "change_pct": -3.06
+      "price": 45211.83,
+      "change": -1114.74,
+      "change_pct": -2.41
     }
   ],
-  "story_count": 65,
-  "bucket_count": 13
+  "story_count": 57,
+  "bucket_count": 11
 }

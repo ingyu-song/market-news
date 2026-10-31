@@ -1,105 +1,44 @@
 {
-  "generated_at": "2026-10-24T23:57:45+00:00",
+  "generated_at": "2026-10-31T01:24:32+00:00",
   "mode": "weekly",
-  "for_week_start": "2026-10-18",
-  "for_week_ending": "2026-10-24",
+  "for_week_start": "2026-10-25",
+  "for_week_ending": "2026-10-31",
   "days_covered": 7,
-  "headline": "AI Chip Demand Fuels Korean Semis; Geopolitical Tensions Persist; Musk Eyes Tesla-SpaceX Merger",
-  "summary": "The market was largely driven by robust AI chip demand, particularly boosting Korean memory giants like Samsung and SK Hynix on HBM4 prospects. Geopolitical tensions remained elevated as China pushed back on US investment curbs, while Elon Musk's potential Tesla-SpaceX merger talks captured significant attention. Earnings season delivered mixed results, with AI server demand driving strong beats, even as macroeconomic concerns like rising UK inflation and US deficit worries lingered.",
+  "headline": "Weekly tape, by editorial weight",
+  "summary": "Compiled from 7 daily recap(s). Themes ordered by coverage volume across the week.",
   "themes": [
     {
       "label": "US Semis / AI Chips",
-      "narrative": "AI chip demand remained a primary market driver, with Korean memory giants anticipating significant Q3 operating profit surges from HBM4. Nvidia and its partners experienced positive sentiment, though broader tech earnings rallies showed signs of moderating. The AI industry also faces emerging power consumption bottlenecks.",
-      "movers": [
-        "Samsung",
-        "SK Hynix",
-        "Nvidia",
-        "Super Micro Computer",
-        "Ibiden"
-      ],
-      "sources": []
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "narrative": "Geopolitical tensions continued, marked by China's pushback against proposed US outbound investment curbs. Despite this, China's economy demonstrated stronger-than-forecast growth, fueled by an AI boom and robust exports. Trump's waiver of Russia sanctions also influenced the geopolitical landscape.",
-      "movers": [
-        "China",
-        "US",
-        "Russia"
-      ],
-      "sources": []
-    },
-    {
-      "label": "Trump 2.0 / US Policy",
-      "narrative": "Elon Musk's potential Tesla-SpaceX merger discussions dominated headlines, with special committees formed to evaluate the proposal. Musk's pledge to distribute SpaceX shares to U.S. children further highlighted his influence on market sentiment and future policy implications.",
-      "movers": [
-        "Tesla",
-        "SpaceX",
-        "Elon Musk"
-      ],
+      "narrative": "US Semis / AI Chips accounted for 20 bullets across the week's daily recaps.",
+      "movers": [],
       "sources": []
     },
     {
       "label": "Earnings / Guidance",
-      "narrative": "Earnings season presented a mixed picture, with AI server demand driving strong performance for key players including Super Micro Computer, Nvidia, Samsung, and SK Hynix. Tesla reported an EPS beat despite flat revenue, while industrial and financial sectors also showed strong EPS beat rates. Scrutiny intensified on guidance from tech giants like Meta and Microsoft.",
-      "movers": [
-        "Super Micro Computer",
-        "Nvidia",
-        "Samsung",
-        "SK Hynix",
-        "Tesla",
-        "Meta",
-        "Microsoft"
-      ],
+      "narrative": "Earnings / Guidance accounted for 18 bullets across the week's daily recaps.",
+      "movers": [],
       "sources": []
     },
     {
       "label": "Fed / Rates / Macro",
-      "narrative": "Macroeconomic concerns resurfaced as UK inflation jumped to 3.5%, solidifying expectations for further rate hikes. The Bank of England maintained a hawkish stance, while persistent worries over the US $2 trillion deficit and 5% Treasury yields, alongside housing market warning signs, impacted broader sentiment.",
-      "movers": [
-        "Bank of England",
-        "UK",
-        "US Treasury"
-      ],
+      "narrative": "Fed / Rates / Macro accounted for 18 bullets across the week's daily recaps.",
+      "movers": [],
       "sources": []
     },
     {
-      "label": "Energy / Commodities",
-      "narrative": "Global oil prices saw an uptick towards the end of the week, recovering from an earlier decline that followed a US-Russia diesel deal.",
-      "movers": [
-        "Oil",
-        "US",
-        "Russia"
-      ],
+      "label": "Software / Internet / Platforms",
+      "narrative": "Software / Internet / Platforms accounted for 17 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "narrative": "China / Tariffs / Geopolitics accounted for 14 bullets across the week's daily recaps.",
+      "movers": [],
       "sources": []
     }
   ],
-  "watchlist": [
-    {
-      "name": "Tesla",
-      "note": "Monitor developments on the potential Tesla-SpaceX merger."
-    },
-    {
-      "name": "SpaceX",
-      "note": "Watch for further details on merger talks and share distribution."
-    },
-    {
-      "name": "Samsung",
-      "note": "Track HBM4 production ramp-up and Q3 earnings impact."
-    },
-    {
-      "name": "SK Hynix",
-      "note": "Observe HBM4 production ramp-up and Q3 earnings impact."
-    },
-    {
-      "name": "Nvidia",
-      "note": "Look for updates on next-gen memory chip guidance and AI cloud deals."
-    },
-    {
-      "name": "China",
-      "note": "Watch for official responses to US investment curbs and upcoming export data."
-    }
-  ],
+  "watchlist": [],
   "x_themes": [
     {
       "topic": "Positive sentiment for Ibiden",
