@@ -1,0 +1,560 @@
+{
+  "generated_at": "2026-11-01T00:37:43+00:00",
+  "mode": "daily",
+  "for_date": "2026-11-01",
+  "headline": "US Stocks Up, Korea Exports Soar; Trump Lawsuit Dismissed, Meta Expands Robotics",
+  "summary": "US markets saw gains with mixed Treasury yields after the Fed held rates. South Korea's exports achieved a record $900 billion, with $1 trillion projected for November. Meanwhile, Trump's $10 billion defamation lawsuit against The Wall Street Journal was dismissed.",
+  "sections": [
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "Trump's defamation lawsuit against The Wall Street Journal was dismissed.",
+          "segments": [
+            {
+              "text": "A judge ended former President Trump's attempts to sue the WSJ publisher for $10 billion over Epstein reporting, marking another dismissal.",
+              "sources": [
+                {
+                  "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+                  "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTZaWExtazhWZXEwbVJWOUJHWGE4QU1qbFBRaU9xeHhaUEtCY2I5N3docmhqa1pQN09GX3JkaVZYOW45WFhEM1dHT3hZQ2FxTUNZeC0xdDA5MlFKQ2NfMjMzM3lJYWlUVEtQMEg2cXg3UUVkYndCd2V0SDFMMy1ocVJnTlAyZXNXWl94QXl6TFNPRmdsS01GSGI0dEhUV01CMW5uanV4R0RhYms?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+                  "link": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Meta is expanding its home robot initiative with a new humanoid prototype.",
+          "segments": [
+            {
+              "text": "The company built a humanoid robot with Chinese startup Fourier, signaling a deeper push into robotics.",
+              "sources": [
+                {
+                  "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
+                  "link": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Taiwan's semiconductor industry shows resilience amid evolving AI supply chains.",
+          "segments": [
+            {
+              "text": "The island's robust manpower and adaptable structure may be well-suited for the non-sequential supply chain demands of AI.",
+              "sources": [
+                {
+                  "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01fSHUzMlM4NWdXNFlsS3ozRFRMaEYtbFJnVVpxRVJmMXlJS3BWVWlRNDFweFFQWFRqdDJTUV8yLUhjX2YxUGJnSUZBdlJ3aERETEdUZHRrb3luX2dxbXMxM2xlalJhbVNFZzIzd3FvUG1ES1ZPbUhSNkktYzdzM1FoZlgtc3FhaEJPZkhWSk1TZmZRQVoxMTNB?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "South Korea's exports achieved a historic milestone.",
+          "segments": [
+            {
+              "text": "Exports surpassed $900 billion for the first time, with October figures reaching $115.3 billion, and $1 trillion is projected for November.",
+              "sources": [
+                {
+                  "title": "우리나라 수출 사상 첫 9천억 달러 돌파…10월 수출 1153억 달러",
+                  "link": "https://www.sejungilbo.com/news/articleView.html?idxno=60894",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US markets reacted to the Federal Reserve's latest decision.",
+          "segments": [
+            {
+              "text": "US stocks saw gains while Treasury yields were mixed following the Fed's decision to hold rates steady.",
+              "sources": [
+                {
+                  "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Nvidia is expanding its role in AI infrastructure beyond GPUs.",
+          "segments": [
+            {
+              "text": "The company is moving deeper into AI infrastructure with Meta's Muse agent stack, indicating a broader strategy.",
+              "sources": [
+                {
+                  "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The optical supply chain is under scrutiny following acquisition talks.",
+          "segments": [
+            {
+              "text": "Discussions between Marvell and Lumentum are highlighting the importance of optical components for future AI infrastructure.",
+              "sources": [
+                {
+                  "title": "Marvell-Lumentum talks put optical supply chain in focus",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNudXNiSFpUSVdQVGxDN3RUcWUyWnFlTnRNZzhqYmVQY3luMlBMOHU1ekUxQmlLYUtoZjFjSGZ6d09nSW1aTERPeVREQTNoZ2F5ZmxuSW9GMVlmclVPT1hPaHliNGp3c0J4ZDcxUnJiYU96ZTh3TjVVYTNad0E0UkZOOWkwTUIwcUg2bnQxdWZsbWQtSlBmR3BRN3J0V0hKYWNpVEFqSQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Ibiden is receiving positive market sentiment.",
+          "segments": [
+            {
+              "text": "The ABF substrate manufacturer is viewed favorably by market participants.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Haleon shares declined after a guidance cut.",
+          "segments": [
+            {
+              "text": "The Advil maker revised its outlook downwards, leading to a drop in its stock price.",
+              "sources": [
+                {
+                  "title": "Haleon Shares Dive After Advil Maker Cuts Guidance",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHFyTjdCU1FKWW95eFJRRVVsYWJEUE1xR2M4SEREU25DaFhPcXFtQ3RZempzRGdpRE0zY2REUnIxNkVGRVBZZU9zYVFScS1FZGlKeUd0TGtLblp3bFNUaEhkUjlGMTNNVkpmNlc4WHdnWVlHTWlTX3JqaHpIaWlSOUlFeEp0bmVWR0EyZ0tQbUhlbUs2eG1DTEdQZw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Q3 earnings season shows mixed signals for AI-related stocks.",
+          "segments": [
+            {
+              "text": "While 83% of reporting firms beat EPS estimates and 79% posted year-over-year earnings growth, AI enthusiasm is reportedly collapsing, making for a \"trick-or-treat\" season for tech earnings.",
+              "sources": [
+                {
+                  "title": "Earnings Scoreboard: 83% of reporting firms beat EPS estimates, 79% post Y/Y earnings growth",
+                  "link": "https://seekingalpha.com/news/4661167-earnings-scoreboard-83-of-reporting-firms-beat-eps-estimates-79-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                },
+                {
+                  "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVcxT2RHa3JpRWd5czIwSlFuR1Q0ZGszc2o1TE9JNmhmVTdwUzhYWm5nSVhhNUU3aFZOYWc2bVdtUVowMjhqaXdMbnZSbGJ4N0ZrUkZkM09nT1F6blc4MnZzamI3VGQydVRqT25zTEZlbW5GUFB4Q3ZjU3lsMmpMTWJZR3ZnYm04eEFxTm93VWpBNUVQaW9Gb2ZPZG9WNjFQSE1tc3ExdHBzYVVoNFVjM21TMEQtQQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "The AI trade's trick-or-treat earnings season",
+                  "link": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "MediaTek raised its ASIC outlook.",
+          "segments": [
+            {
+              "text": "The company anticipates a 32% jump in fourth-quarter revenue, driven by strong ASIC performance.",
+              "sources": [
+                {
+                  "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0t6cGtueFV1Vk45a01VR0dHQ2Q5amtXVjRJckJlUDBVajNlenVqUC10dURFN2M5Qkl1Ylc1dHVtT0lyeVA3NWxsTEdSX0RXV1hlQWJsczdYYUhJeGtpQVlyWVhaWUpzMDljaWJ2Zkg2d1dNSVlEZEpKckhFQjNjUG1reEZHS0tZMHN5Zk5R?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Meta's credit outlook was lowered by S&P.",
+          "segments": [
+            {
+              "text": "S&P cited soaring AI spending as the reason for the downgrade in Meta's credit outlook.",
+              "sources": [
+                {
+                  "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "SpaceX is vertically integrating its datacenter operations.",
+          "segments": [
+            {
+              "text": "The company is reportedly reverse engineering datacenter components like racks and chillers, and developing its own optical fiber.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106910342983057576"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "SpaceX's power capacity is largely for internal use.",
+          "segments": [
+            {
+              "text": "The company's 10GW power capacity is primarily used for internal demand, possibly driven by Grok Bot, with 40% allocated to external customers.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106907946890457304"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lead": "Starlink demonstrated robust in-flight internet capabilities.",
+          "segments": [
+            {
+              "text": "The service successfully streamed five live football games simultaneously on a commercial flight.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2106827233650147822"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Meta",
+      "note": "Watch for further developments on AI spending and robotics initiatives.",
+      "sources": [
+        {
+          "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
+          "link": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "Monitor its expansion into broader AI infrastructure and non-GPU offerings.",
+      "sources": [
+        {
+          "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "South Korea Exports",
+      "note": "Track continued growth, especially in semiconductors, towards the $1 trillion target.",
+      "sources": [
+        {
+          "title": "우리나라 수출 사상 첫 9천억 달러 돌파…10월 수출 1153억 달러",
+          "link": "https://www.sejungilbo.com/news/articleView.html?idxno=60894",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Trump",
+      "note": "Legal challenges and their market implications remain a focus.",
+      "sources": [
+        {
+          "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+          "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTZaWExtazhWZXEwbVJWOUJHWGE4QU1qbFBRaU9xeHhaUEtCY2I5N3docmhqa1pQN09GX3JkaVZYOW45WFhEM1dHT3hZQ2FxTUNZeC0xdDA5MlFKQ2NfMjMzM3lJYWlUVEtQMEg2cXg3UUVkYndCd2V0SDFMMy1ocVJnTlAyZXNXWl94QXl6TFNPRmdsS01GSGI0dEhUV01CMW5uanV4R0RhYms?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+          "link": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "SPCX (SpaceX)",
+      "note": "Observe its vertical integration efforts in datacenters and networking, alongside Starlink's service expansion.",
+      "sources": [],
+      "x_mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Positive sentiment for Ibiden",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's vertical integration in datacenter cooling",
+      "category": "sectors",
+      "subcategory": "liquid_cooling",
+      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's in-house optical fiber development",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106909462141542687"
+        }
+      ]
+    },
+    {
+      "topic": "SPCX's 10GW power capacity and internal consumption",
+      "category": "sectors",
+      "subcategory": "power_behind",
+      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106907946890457304"
+        }
+      ]
+    },
+    {
+      "topic": "Starlink's in-flight internet service",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 4,
+  "x_generated_at": "2026-10-05T01:46:46+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7580.07,
+      "change": -140.95,
+      "change_pct": -1.83
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 25437.0,
+      "change": -751.0,
+      "change_pct": -2.87
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 51770.31,
+      "change": -573.03,
+      "change_pct": -1.09
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2811.84,
+      "change": -47.14,
+      "change_pct": -1.65
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 63290.11,
+      "change": -1290.53,
+      "change_pct": -2.0
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23294.42,
+      "change": 335.77,
+      "change_pct": 1.46
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5730.74,
+      "change": -212.53,
+      "change_pct": -3.58
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 45211.83,
+      "change": -1114.74,
+      "change_pct": -2.41
+    }
+  ],
+  "story_count": 51,
+  "bucket_count": 11
+}

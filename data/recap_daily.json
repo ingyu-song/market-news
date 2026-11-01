@@ -1,30 +1,48 @@
 {
-  "generated_at": "2026-10-31T01:23:57+00:00",
+  "generated_at": "2026-11-01T00:37:43+00:00",
   "mode": "daily",
-  "for_date": "2026-10-31",
-  "headline": "Tech Sell-off Deepens on AI Spending Fears; Apple Overtakes Nvidia",
-  "summary": "US markets experienced a tech sell-off, with major indices declining as Amazon and Intel earnings reports fueled concerns over AI infrastructure spending. Apple surpassed Nvidia to become the world's most valuable company amid this shift. Fed officials continue to advocate for rate hikes, citing ongoing inflation concerns.",
+  "for_date": "2026-11-01",
+  "headline": "US Stocks Up, Korea Exports Soar; Trump Lawsuit Dismissed, Meta Expands Robotics",
+  "summary": "US markets saw gains with mixed Treasury yields after the Fed held rates. South Korea's exports achieved a record $900 billion, with $1 trillion projected for November. Meanwhile, Trump's $10 billion defamation lawsuit against The Wall Street Journal was dismissed.",
   "sections": [
     {
-      "label": "US Semis / AI Chips",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Apple has reclaimed the title of the world's most valuable company, surpassing Nvidia.",
+          "lead": "Trump's defamation lawsuit against The Wall Street Journal was dismissed.",
           "segments": [
             {
-              "text": "This shift occurred amidst a broader tech sell-off driven by concerns over AI spending and earnings reports.",
+              "text": "A judge ended former President Trump's attempts to sue the WSJ publisher for $10 billion over Epstein reporting, marking another dismissal.",
               "sources": [
                 {
-                  "title": "애플, 엔비디아 제치고 시총 1위 탈환",
-                  "link": "https://n.news.naver.com/mnews/article/366/0001201682?sid=105",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+                  "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 },
                 {
-                  "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
+                  "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTZaWExtazhWZXEwbVJWOUJHWGE4QU1qbFBRaU9xeHhaUEtCY2I5N3docmhqa1pQN09GX3JkaVZYOW45WFhEM1dHT3hZQ2FxTUNZeC0xdDA5MlFKQ2NfMjMzM3lJYWlUVEtQMEg2cXg3UUVkYndCd2V0SDFMMy1ocVJnTlAyZXNXWl94QXl6TFNPRmdsS01GSGI0dEhUV01CMW5uanV4R0RhYms?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+                  "link": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -32,33 +50,22 @@
           ]
         },
         {
-          "lead": "Nvidia is expanding its role beyond GPUs, integrating deeper into AI infrastructure with Meta's Muse agent stack.",
+          "lead": "Meta is expanding its home robot initiative with a new humanoid prototype.",
           "segments": [
             {
-              "text": "This strategic move highlights Nvidia's ambition to provide comprehensive AI solutions.",
+              "text": "The company built a humanoid robot with Chinese startup Fourier, signaling a deeper push into robotics.",
               "sources": [
                 {
-                  "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Marvell and Lumentum discussions are bringing the optical supply chain into focus.",
-          "segments": [
-            {
-              "text": "This signals increasing attention on critical components for AI data centers.",
-              "sources": [
+                  "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
+                  "link": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
                 {
-                  "title": "Marvell-Lumentum talks put optical supply chain in focus",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNudXNiSFpUSVdQVGxDN3RUcWUyWnFlTnRNZzhqYmVQY3luMlBMOHU1ekUxQmlLYUtoZjFjSGZ6d09nSW1aTERPeVREQTNoZ2F5ZmxuSW9GMVlmclVPT1hPaHliNGp3c0J4ZDcxUnJiYU96ZTh3TjVVYTNad0E0UkZOOWkwTUIwcUg2bnQxdWZsbWQtSlBmR3BRN3J0V0hKYWNpVEFqSQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -66,10 +73,10 @@
           ]
         },
         {
-          "lead": "TSMC capacity is becoming a binding constraint for hyperscaler capital expenditure through 2027.",
+          "lead": "Taiwan's semiconductor industry shows resilience amid evolving AI supply chains.",
           "segments": [
             {
-              "text": "Taiwan's semiconductor resilience faces manpower challenges, even as AI breaks traditional supply chain models.",
+              "text": "The island's robust manpower and adaptable structure may be well-suited for the non-sequential supply chain demands of AI.",
               "sources": [
                 {
                   "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
@@ -85,25 +92,19 @@
       ]
     },
     {
-      "label": "Software / Internet / Platforms",
+      "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "S&P Global has revised Meta's credit outlook to 'negative' due to soaring AI spending and cash flow concerns.",
+          "lead": "South Korea's exports achieved a historic milestone.",
           "segments": [
             {
-              "text": "The company's substantial investments in AI infrastructure are raising investor scrutiny.",
+              "text": "Exports surpassed $900 billion for the first time, with October figures reaching $115.3 billion, and $1 trillion is projected for November.",
               "sources": [
                 {
-                  "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                },
-                {
-                  "title": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
-                  "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "우리나라 수출 사상 첫 9천억 달러 돌파…10월 수출 1153억 달러",
+                  "link": "https://www.sejungilbo.com/news/articleView.html?idxno=60894",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -111,28 +112,16 @@
           ]
         },
         {
-          "lead": "Tech stocks experienced a significant sell-off, with Amazon and Intel earnings reports sparking further AI-related selling pressure.",
+          "lead": "US markets reacted to the Federal Reserve's latest decision.",
           "segments": [
             {
-              "text": "This deepened market declines as investors reacted to guidance and spending outlooks.",
+              "text": "US stocks saw gains while Treasury yields were mixed following the Fed's decision to hold rates steady.",
               "sources": [
                 {
-                  "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
-                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5",
+                  "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-                  "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -142,31 +131,19 @@
       ]
     },
     {
-      "label": "Earnings / Guidance",
+      "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "The tech sector saw a broad sell-off, with nearly $1 trillion wiped from US markets following subpar earnings reports.",
+          "lead": "Nvidia is expanding its role in AI infrastructure beyond GPUs.",
           "segments": [
             {
-              "text": "This downturn was exacerbated by concerns over AI spending and future guidance from major tech players.",
+              "text": "The company is moving deeper into AI infrastructure with Meta's Muse agent stack, indicating a broader strategy.",
               "sources": [
                 {
-                  "title": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
-                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemJPWElvMW9JX2pxLThMQ1VVVDhyaGhjelVIZC12OFk2VjNCOVpVQy1hYkdQRUlpOERsWG9XZDk1SkVtZmxCQlB5V0M0bjZQeUNEOGJpVC1xaGFtaTN3dTJBdzVRWDUwVFZlcDFpMFByMl9zRmxhZjFMX2VrZldZaTdTSVViTThneVdweHpfOVpkUW8wekQyem9sMUFmNFE3YlJnVHJmOTJxLWc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-                  "link": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -174,10 +151,93 @@
           ]
         },
         {
-          "lead": "MediaTek has raised its ASIC outlook, projecting a potential 32% jump in fourth-quarter revenue.",
+          "lead": "The optical supply chain is under scrutiny following acquisition talks.",
           "segments": [
             {
-              "text": "This positive guidance contrasts with broader tech sector concerns.",
+              "text": "Discussions between Marvell and Lumentum are highlighting the importance of optical components for future AI infrastructure.",
+              "sources": [
+                {
+                  "title": "Marvell-Lumentum talks put optical supply chain in focus",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNudXNiSFpUSVdQVGxDN3RUcWUyWnFlTnRNZzhqYmVQY3luMlBMOHU1ekUxQmlLYUtoZjFjSGZ6d09nSW1aTERPeVREQTNoZ2F5ZmxuSW9GMVlmclVPT1hPaHliNGp3c0J4ZDcxUnJiYU96ZTh3TjVVYTNad0E0UkZOOWkwTUIwcUg2bnQxdWZsbWQtSlBmR3BRN3J0V0hKYWNpVEFqSQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Ibiden is receiving positive market sentiment.",
+          "segments": [
+            {
+              "text": "The ABF substrate manufacturer is viewed favorably by market participants.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@zephyr_z9",
+                  "url": "https://x.com/zephyr_z9/status/2106916539589177690"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Haleon shares declined after a guidance cut.",
+          "segments": [
+            {
+              "text": "The Advil maker revised its outlook downwards, leading to a drop in its stock price.",
+              "sources": [
+                {
+                  "title": "Haleon Shares Dive After Advil Maker Cuts Guidance",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHFyTjdCU1FKWW95eFJRRVVsYWJEUE1xR2M4SEREU25DaFhPcXFtQ3RZempzRGdpRE0zY2REUnIxNkVGRVBZZU9zYVFScS1FZGlKeUd0TGtLblp3bFNUaEhkUjlGMTNNVkpmNlc4WHdnWVlHTWlTX3JqaHpIaWlSOUlFeEp0bmVWR0EyZ0tQbUhlbUs2eG1DTEdQZw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Q3 earnings season shows mixed signals for AI-related stocks.",
+          "segments": [
+            {
+              "text": "While 83% of reporting firms beat EPS estimates and 79% posted year-over-year earnings growth, AI enthusiasm is reportedly collapsing, making for a \"trick-or-treat\" season for tech earnings.",
+              "sources": [
+                {
+                  "title": "Earnings Scoreboard: 83% of reporting firms beat EPS estimates, 79% post Y/Y earnings growth",
+                  "link": "https://seekingalpha.com/news/4661167-earnings-scoreboard-83-of-reporting-firms-beat-eps-estimates-79-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                },
+                {
+                  "title": "AI Enthusiasm Is Collapsing and Tech Earnings Just Made It Worse",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVcxT2RHa3JpRWd5czIwSlFuR1Q0ZGszc2o1TE9JNmhmVTdwUzhYWm5nSVhhNUU3aFZOYWc2bVdtUVowMjhqaXdMbnZSbGJ4N0ZrUkZkM09nT1F6blc4MnZzamI3VGQydVRqT25zTEZlbW5GUFB4Q3ZjU3lsMmpMTWJZR3ZnYm04eEFxTm93VWpBNUVQaW9Gb2ZPZG9WNjFQSE1tc3ExdHBzYVVoNFVjM21TMEQtQQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "The AI trade's trick-or-treat earnings season",
+                  "link": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "MediaTek raised its ASIC outlook.",
+          "segments": [
+            {
+              "text": "The company anticipates a 32% jump in fourth-quarter revenue, driven by strong ASIC performance.",
               "sources": [
                 {
                   "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
@@ -189,40 +249,23 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "AUO is targeting significant revenue contributions from optical engines and glass core substrates within the next 2 to 3 years.",
-          "segments": [
-            {
-              "text": "This indicates a strategic shift towards high-growth areas in display and semiconductor technology.",
-              "sources": [
-                {
-                  "title": "AUO targets major revenue contribution from optical engines, glass core substrates within 2 to 3 years",
-                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzBKVzVQQjJtU3V3aHhPQkZURVhlcndCWGdHYjRPNkprUXFYZXZWNllUSlVpektfb1p4cmhUdlZITVBzc1lSaTF1dFdBdHBXMW1ySVRTa3JkelZjNGFRb0dBdDZGNzc0NWJFWXRJQjFKUnZfY09LUE54UFNzcWpOVFpxMmJCNmlGNHVsVFoxU1FzSGt4dzNMampZb0E2bkU5Qnc?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
     {
-      "label": "Fed / Rates / Macro",
+      "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Federal Reserve officials are making a strong case for continued rate hikes amid persistent inflation concerns.",
+          "lead": "Meta's credit outlook was lowered by S&P.",
           "segments": [
             {
-              "text": "The ongoing debate over monetary policy continues to influence market sentiment.",
+              "text": "S&P cited soaring AI spending as the reason for the downgrade in Meta's credit outlook.",
               "sources": [
                 {
-                  "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
-                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -230,115 +273,47 @@
           ]
         },
         {
-          "lead": "Trump's policies have been cited as a factor fueling US inflation, despite his vows to reduce prices.",
+          "lead": "SpaceX is vertically integrating its datacenter operations.",
           "segments": [
             {
-              "text": "This highlights the complex interplay between political decisions and economic outcomes.",
-              "sources": [
+              "text": "The company is reportedly reverse engineering datacenter components like racks and chillers, and developing its own optical fiber.",
+              "sources": [],
+              "x_mentions": [
                 {
-                  "title": "Trump vowed to reduce prices, but his policies have fueled US inflation | Steven Greenhouse",
-                  "link": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106910342983057576"
                 }
-              ],
-              "x_mentions": []
+              ]
             }
           ]
         },
         {
-          "lead": "Alaska Air plans to cut 200 jobs and warns of a potential $700 million annual loss.",
+          "lead": "SpaceX's power capacity is largely for internal use.",
           "segments": [
             {
-              "text": "This signals economic headwinds impacting the airline sector.",
-              "sources": [
+              "text": "The company's 10GW power capacity is primarily used for internal demand, possibly driven by Grok Bot, with 40% allocated to external customers.",
+              "sources": [],
+              "x_mentions": [
                 {
-                  "title": "Alaska Air to cut 200 jobs, warns of potential $700 million annual loss",
-                  "link": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2106907946890457304"
                 }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Energy / Commodities",
-      "bullets": [
-        {
-          "lead": "Oil prices climbed on signs the US may resume military strikes against Iran, fueling supply worries.",
-          "segments": [
-            {
-              "text": "Geopolitical tensions in the Middle East continue to impact global energy markets.",
-              "sources": [
-                {
-                  "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-                  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
-                  "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
+              ]
             }
           ]
         },
         {
-          "lead": "US natural gas futures settled higher, with hedge funds boosting short positions to record levels.",
+          "lead": "Starlink demonstrated robust in-flight internet capabilities.",
           "segments": [
             {
-              "text": "This reflects volatility and speculative activity in the natural gas market.",
-              "sources": [
+              "text": "The service successfully streamed five live football games simultaneously on a commercial flight.",
+              "sources": [],
+              "x_mentions": [
                 {
-                  "title": "U.S. Natural Gas Futures Settle Higher",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQV81YTRMMHZPSHlYRFZTS3dvN3VMbTVpc2tIeXlyWFZodFZCTzlRUVAwVzMyOWp2VEc0ZmU3ZXdwWHJmUThISXZaTE5SdUJQdlA1Yjg2MXV0a29BZ1d4ejdLeDFoQjJoQUxrQ0xQRFJtZXZFVGQtcU9WazVfMnJhSG82a2VMb3NMOUV1TVQ0YTNmb3Vhb3Z2YzEtU3d3Sm1ONjh3N0dDNlllbm1saTlWSA?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Hedge Funds Boost Natural Gas Short Positions to Most on Record",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1VKS3VzYy1LaVpySXlQd1JVb1RjT2tKQVkzZDRPYUcwU3RyVDJTdk05ZlVmdXZsUjNoUWRzLWIzME9FYWZ3UnNfQU1iMHhrUGZmQ3ZPcmkteXhYVHA3TUliR0VXeWdTd1lGdjJfM1ZEZFZjZnZWRllCSmttLThVLV9EbnNWcjhYLVZ4ZzRtWGFwWmo5UnN5QnJZYlB5X3BIa24tX3RQWllfUG00elNwTEc5Y2s?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2106827233650147822"
                 }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "China / Tariffs / Geopolitics",
-      "bullets": [
-        {
-          "lead": "The 2026 APEC summit is poised to address the future of the global economy, with leaders like Xi Jinping and Trump expected to participate.",
-          "segments": [
-            {
-              "text": "Geopolitical dynamics and trade policies will likely dominate discussions.",
-              "sources": [
-                {
-                  "title": "APEC 2026, 시진핑·트럼프·이재명, 2026 APEC이 묻는 세계의 미래",
-                  "link": "http://www.breaknews.com/1247315",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
+              ]
             }
           ]
         }
@@ -347,99 +322,107 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Watch for continued market reaction to Apple's market cap overtake and any further developments in AI infrastructure.",
+      "name": "Meta",
+      "note": "Watch for further developments on AI spending and robotics initiatives.",
       "sources": [
         {
-          "title": "애플, 엔비디아 제치고 시총 1위 탈환",
-          "link": "https://n.news.naver.com/mnews/article/366/0001201682?sid=105",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
+          "link": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         },
         {
           "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        },
-        {
-          "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemhEdzVEaEpkYUJtQ2dYN2c3MlQ1N01MR0oxMnNheDZlbXVzaEJJd2k3bksyWGZwR0stcFZUOTNJZFB5dU1jajQ3RVZZYTBodlRJQXR4TG5tbjRibWYtUk9pUVpOWFZ5UGNOQV9sNnUyR3dfZllSSm81U2FjMDJFQTBsOU9XN2ZhRkVoTVBNdWxtVmJzdEVLRElxU2dkdG1HdjU4cGp6WmhjLVVEenJqQU80aw?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Meta",
-      "note": "Monitor credit outlook and investor sentiment regarding its aggressive AI spending.",
+      "name": "Nvidia",
+      "note": "Monitor its expansion into broader AI infrastructure and non-GPU offerings.",
       "sources": [
         {
-          "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        },
-        {
-          "title": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
-          "link": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Fed",
-      "note": "Focus on upcoming statements from officials regarding inflation and potential rate hike trajectories.",
-      "sources": [
-        {
-          "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Oil Futures",
-      "note": "Geopolitical developments in the Middle East and their impact on supply will be key drivers.",
-      "sources": [
-        {
-          "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-        },
-        {
-          "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        },
-        {
-          "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
-          "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "TSMC",
-      "note": "Capacity constraints remain a critical factor for the AI chip supply chain, impacting major tech players.",
-      "sources": [
-        {
-          "title": "TSIA 30: The manpower problem behind Taiwan's semiconductor resilience",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc01fSHUzMlM4NWdXNFlsS3ozRFRMaEYtbFJnVVpxRVJmMXlJS3BWVWlRNDFweFFQWFRqdDJTUV8yLUhjX2YxUGJnSUZBdlJ3aERETEdUZHRrb3luX2dxbXMxM2xlalJhbVNFZzIzd3FvUG1ES1ZPbUhSNkktYzdzM1FoZlgtc3FhaEJPZkhWSk1TZmZRQVoxMTNB?oc=5",
+          "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
+    },
+    {
+      "name": "South Korea Exports",
+      "note": "Track continued growth, especially in semiconductors, towards the $1 trillion target.",
+      "sources": [
+        {
+          "title": "우리나라 수출 사상 첫 9천억 달러 돌파…10월 수출 1153억 달러",
+          "link": "https://www.sejungilbo.com/news/articleView.html?idxno=60894",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Trump",
+      "note": "Legal challenges and their market implications remain a focus.",
+      "sources": [
+        {
+          "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+          "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        },
+        {
+          "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTZaWExtazhWZXEwbVJWOUJHWGE4QU1qbFBRaU9xeHhaUEtCY2I5N3docmhqa1pQN09GX3JkaVZYOW45WFhEM1dHT3hZQ2FxTUNZeC0xdDA5MlFKQ2NfMjMzM3lJYWlUVEtQMEg2cXg3UUVkYndCd2V0SDFMMy1ocVJnTlAyZXNXWl94QXl6TFNPRmdsS01GSGI0dEhUV01CMW5uanV4R0RhYms?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+          "link": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "SPCX (SpaceX)",
+      "note": "Observe its vertical integration efforts in datacenters and networking, alongside Starlink's service expansion.",
+      "sources": [],
+      "x_mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2106910342983057576"
+        },
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2106827233650147822"
+        }
+      ]
     }
   ],
   "x_themes": [
@@ -572,6 +555,6 @@
       "change_pct": -2.41
     }
   ],
-  "story_count": 57,
+  "story_count": 51,
   "bucket_count": 11
 }
