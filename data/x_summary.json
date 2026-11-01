@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-10-05T01:46:46+00:00",
-  "tweet_count": 10,
-  "account_count": 4,
+  "generated_at": "2026-11-01T02:00:39+00:00",
+  "tweet_count": 9,
+  "account_count": 3,
   "themes": [
     {
-      "topic": "Positive sentiment for Ibiden",
-      "category": "sectors",
-      "subcategory": "abf_substrate",
-      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2106916539589177690",
-          "text": "More love for Ibiden"
-        }
-      ]
-    },
-    {
-      "topic": "SPCX's vertical integration in datacenter cooling",
-      "category": "sectors",
-      "subcategory": "liquid_cooling",
-      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106910342983057576",
-          "text": "SPCX is aggressively pushing reverse engineering to get around bottlenecks...\n\nRacks, chillers, etc...\n\nSo they're going to vertically integrate everything they possibly can.\n\nHow do they get around patents and IP with this? Don't they get sued? https://t.co/gLpIxqDP5C"
-        }
-      ]
-    },
-    {
-      "topic": "SPCX's in-house optical fiber development",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106909462141542687",
-          "text": "WTF. SPCX is developing its own optical fiber too? https://t.co/AOydnfmRwI"
-        }
-      ]
-    },
-    {
-      "topic": "SPCX's 10GW power capacity and internal consumption",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106907946890457304",
-          "text": "Apparently 60% of $SPCX's 10GW goes to its own demand, and only 40% is for external customers. Could it be because Grok Bot has been a hit? https://t.co/QduPTCCOvH"
-        }
-      ]
-    },
-    {
-      "topic": "Starlink's in-flight internet service",
+      "topic": "Anthropic's premium payment to SpaceX",
       "category": "out_of_ai",
       "subcategory": "space",
-      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "summary": "Anthropic reportedly paid a significant premium to SpaceX, contrasting with its price renegotiations with other cloud providers.",
       "mentions": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106827233650147822",
-          "text": "5 live football games streamed simultaneously on a commercial flight with @Starlink"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2116707485801381938",
+          "text": "Why did Anthropic pay SpaceX such a hefty premium while renegotiating prices with other cloud providers?"
+        }
+      ]
+    },
+    {
+      "topic": "Intel's restructuring and management issues",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "Intel has undergone restructuring and layoffs in recent years, but there are concerns about the effectiveness and competence of its former management.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116689411115253873",
+          "text": "At least Intel has been restructuring over the past few years. They’ve let go of quite a few people who needed to go.\n\nBut former Intel managers do seem pretty clueless. I can see it on my own team."
+        }
+      ]
+    },
+    {
+      "topic": "Qualcomm's core business pressures and restructuring",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "Qualcomm is facing significant pressure across its core businesses, including Snapdragon (due to Exynos and Apple's modems) and RF, leading to recent layoffs and a need for strategic restructuring beyond cost-cutting.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116684045736374398",
+          "text": "I’ve maintained a positive view of $QCOM but a lot of what I’ve been hearing from industry contacts lately has been concerning. \n\nSeveral core businesses are facing pressure, including Snapdragon (Exynos gaining ground), modems (Apple’s own modems), and RF (growing supply from Ch"
+        }
+      ]
+    },
+    {
+      "topic": "Research on semiconductor substrates",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "An analyst is actively researching and preparing an article on semiconductor substrates.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116658914385449145",
+          "text": "Hard at work on an article about semiconductor substrates..."
+        }
+      ]
+    },
+    {
+      "topic": "Market bottoming and November rebound prediction",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "An analyst predicts the market is poised to bottom out and begin a rebound in November.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116657889473605902",
+          "text": "The market looks set to bottom out and start rebounding in November.\n\nSource: me"
         }
       ]
     }
