@@ -1,87 +1,24 @@
 {
-  "generated_at": "2026-11-01T01:47:01+00:00",
+  "generated_at": "2026-11-02T01:12:23+00:00",
   "mode": "daily",
-  "for_date": "2026-11-01",
-  "headline": "US Stocks Up on Fed Hold; Meta Robotics Push, Trump Lawsuit Dismissed",
-  "summary": "US equities advanced after the Federal Reserve maintained interest rates, while South Korea's exports neared $1 trillion, boosted by semiconductors. Former President Trump's defamation suit against The Wall Street Journal was dismissed, and Meta Platforms expanded its robotics efforts with a Chinese partner.",
+  "for_date": "2026-11-02",
+  "headline": "China / Tariffs / Geopolitics leads today's tape",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 48 headlines bucketed into 6 editorial themes. X chatter highlights Anthropic's premium payment to SpaceX.",
   "sections": [
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "US stocks rose as the Federal Reserve maintained its interest rates.",
-          "segments": [
-            {
-              "text": "Following the Fed's decision to hold rates steady, US stocks saw gains while Treasury yields showed mixed movements.",
-              "sources": [
-                {
-                  "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
-                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "South Korea is on track to achieve $1 trillion in annual exports.",
-          "segments": [
-            {
-              "text": "Driven by strong semiconductor demand, South Korea's cumulative exports surpassed $900 billion by October, positioning the nation to reach $1 trillion in annual exports this month, making it the fourth country globally to do so.",
-              "sources": [
-                {
-                  "title": "못 말리는 한국 제품 인기… 연간 수출 1조 달러 달성 눈앞에(종합)",
-                  "link": "https://n.news.naver.com/mnews/article/658/0000160008?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "A judge dismissed former President Trump's defamation lawsuit against The Wall Street Journal.",
+          "lead": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm.",
           "segments": [
             {
-              "text": "The $10 billion defamation suit filed by Donald Trump against the Wall Street Journal's publisher was again dismissed by a judge, marking an end to his attempts to sue the publication over its Epstein reporting.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
-                  "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDh2Tk1SWVpMWE1Mc1NmZ2JHUlFDOEFqVjg4T29yc1BLNXBibGFRSWNDUEhadDZiaEhiZXg4UFlfNV8tRVM3UVdfTkdzRzZVR2dmN2JwWjlIc3BHeVU0eVlJR0h1UThmaXhVWS1GcHZqb0c1NGR0VWoxU3k0Q3dLYU1hQVExZVJJd2FxZHpWOXc0NDRJWlZvUDk2Rm5GRUh1bXFITDBUZGFVWjY4T3VTWGh2NlFKaVBKLWc?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "WSJ Wins Dismissal of Trump’s $10 Billion Defamation Suit",
-                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTZaWExtazhWZXEwbVJWOUJHWGE4QU1qbFBRaU9xeHhaUEtCY2I5N3docmhqa1pQN09GX3JkaVZYOW45WFhEM1dHT3hZQ2FxTUNZeC0xdDA5MlFKQ2NfMjMzM3lJYWlUVEtQMEg2cXg3UUVkYndCd2V0SDFMMy1ocVJnTlAyZXNXWl94QXl6TFNPRmdsS01GSGI0dEhUV01CMW5uanV4R0RhYms?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Judge Dismisses Trump’s Lawsuit Against Wall Street Journal Publisher Again",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdDVoalRRMUFiekR3Q0hia3NEVkJjb29JY2xhZEF1RE85ZWZia25IblNMdVE3WnY5c1A4ZDh3aTVlSXhTTDl6cWxxVk5uNmNaNUJSUlRUTUdTU0d3ZFo3WW4wdmpRQXZ4Sk9zTHpXdVBRV2VIQnpNMnBDR2JyTDNjd2w1V20xRXJEenJtRUZ4VXYyYTNwQ2ZWWEJMYWFoaThSeTM2MmktQ0JhMlBvOWh3dVFUZ0ZPdw?oc=5",
+                  "title": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm",
+                  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRwekFmempKN290a2l6a2E3aHcwalpvNDZFQk5QN1pnZ0pHb21nWWwzWTFRQUZGMTU5eDc0am1Gd2NzTnNyWVJwTkdNU3JTeGZLcGlLYlQ0RG90YTB3UUg5MlRmUGNZTHo0TlhxR2dCTDBwMC1NaDREOU1uOUxsX1ZQVy1PUDJRTjN0bFkyLXptSWo1anMyZy11OUhLTC0ybi1qSzRDYVNaMGxvN3RNQ0ZxeGg2UERkb0VMaWdBWkt4ZGdFc1VoOFJB?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                },
-                {
-                  "title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
-                  "link": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -89,16 +26,33 @@
           ]
         },
         {
-          "lead": "A Toyota-backed truckmaker is focusing on aftersales service to compete with Chinese EV rivals.",
+          "lead": "Trump Banks on Rallies to Turn Out MAGA Faithful One More Time.",
           "segments": [
             {
-              "text": "The truck manufacturer is emphasizing aftersales service as a strategy to fend off increasing competition from Chinese EV rivals.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
-                  "link": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "Trump Banks on Rallies to Turn Out MAGA Faithful One More Time",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVFfMG13M19BeWJMNllla2xhRzc3Z0RZNWZZcnp1TWZoeVpTcHhjX1daSFdHWFdESVA5M3pPLS13azhUSkRBWVBqUmkxdkJoWWYwc3YwdnNIU1E4TWVUc1JleXJDUGZtOTU3UVc0eTFZQjRwOG8wMGc5SzMzTWxQd3l1SDVUVkg0MWk1NHhZQnlJS0pDbzhkOUM2VFBVVGVPNjYwdUsyVUdyRHMxU3Q3NXJDdw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China’s big banks post fastest quarterly profit growth in years as margins stabilise.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "China’s big banks post fastest quarterly profit growth in years as margins stabilise",
+                  "link": "https://www.investing.com/news/stock-market-news/chinas-big-banks-post-fastest-quarterly-profit-growth-in-years-as-margins-stabilise-4989783",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -108,25 +62,19 @@
       ]
     },
     {
-      "label": "Software / Internet / Platforms",
+      "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Meta Platforms is expanding its robotics initiatives with a new humanoid robot.",
+          "lead": "Gold Settles Lower Ahead of Fed Decision.",
           "segments": [
             {
-              "text": "Meta has reportedly partnered with China's Fourier to build a humanoid robot prototype, signaling an intensified push into home robotics.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
-                  "link": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                },
-                {
-                  "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Gold Settles Lower Ahead of Fed Decision",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeVEweGpTcFBEQ3R5aDdnOUhnaG84X2xJN2JmZ0lNVlRHU0xnOHdxVGd4dW94NmhoSTRuODVVVUtnMzg3VHJrcno5eFhoNjFOV2RQWk80ajlsYkMxUTdTUFJGOHUtenMxM0Q0TkVIVURydGRSZy1QNnlkYUFTTkcwVUs5aWJwS3p2VFFSWXdsemRiSzdsTXRrTFVOYmRRc1BqSnlpZk9EQW1qQ0xWd3Y0?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -134,33 +82,72 @@
           ]
         },
         {
-          "lead": "S&P Global lowered Meta's credit outlook.",
+          "lead": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years.",
           "segments": [
             {
-              "text": "The downgrade cited concerns over Meta's soaring AI spending.",
+              "text": "",
               "sources": [
                 {
-                  "title": "S&P Lowers Meta’s Credit Outlook Amid Soaring AI Spending",
-                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQTZzcVBtNmowZE5oM3VRdlgzd1l5Q01UcE9DRzQwbS1JLUdxdDR5UDhCaWJHTzdfZ1pTZW5xaTd1VXVua0VPTldQZWNzNkU5VExzTS1LbThNUUVETnFGVGxZVVV6Y1k1ZzU2aE51bk9LUWlsSTN2X0sxRk9DSktZVGpmODNwcldCTG82YTFuU1NsQno0ZDE1Qk9QYVFOUQ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Wall Street Braces for Biggest Treasury Sales Overhaul in Years",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ3N2ZVdrWVZaekU3UUdvbWgzZE4wTUF5X2tsajg4V042UDRJeEpwa2RqY1RxLWlNNk5sWTl4QUFlQk1mQjhsTzh3STlDR0lVN3ByaVQyUFRFUnlpZG95dGpuZjVtN3lMX3lfQkZRWnUyM3FqSnAyeE9sQ25fSHI1Mmo2M1dPT3d4RkwxM1hjSkRYbFBrdlFtUXpnUlNCc05aRkJvOWNFSFZBQjRqaXFHUVVGZzQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
         {
-          "lead": "Nvidia is extending its reach beyond GPUs into AI infrastructure.",
+          "lead": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls.",
           "segments": [
             {
-              "text": "The company is integrating deeper into AI infrastructure through Meta's Muse agent stack.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
+                  "title": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump Banks on Rallies to Turn Out MAGA Faithful One More Time.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump Banks on Rallies to Turn Out MAGA Faithful One More Time",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVFfMG13M19BeWJMNllla2xhRzc3Z0RZNWZZcnp1TWZoeVpTcHhjX1daSFdHWFdESVA5M3pPLS13azhUSkRBWVBqUmkxdkJoWWYwc3YwdnNIU1E4TWVUc1JleXJDUGZtOTU3UVc0eTFZQjRwOG8wMGc5SzMzTWxQd3l1SDVUVkg0MWk1NHhZQnlJS0pDbzhkOUM2VFBVVGVPNjYwdUsyVUdyRHMxU3Q3NXJDdw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump says US, Canada have 'concept' of a new trade deal.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump says US, Canada have 'concept' of a new trade deal",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYkdVQi1MWlZSQ24xUkR6aC12d0llYjlUWlFDcmVuX1ByZk5tZ3JoQ3NTd01CM2piUFV2MGlEMWdCSnRTV1ExRDFUVGhYNjVVU2ZQT3lIS1UxbEVxSzNfZmdlY2duVXkySm8yNGNpbWRCdXpOMEF4ZFk3NXlJME5yZmRJTVVnVXUwa3VmcVBwWkNIejVkVjYtQWlYblJmdmVZbzI0eHR6YlMwTUJpWTZyR3hwZ1g?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -173,80 +160,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Marvell Technology and Lumentum are reportedly in acquisition talks.",
+          "lead": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm.",
           "segments": [
             {
-              "text": "Discussions between Marvell and Lumentum are focusing attention on the optical supply chain, indicating potential consolidation in the sector.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Marvell-Lumentum talks put optical supply chain in focus",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNudXNiSFpUSVdQVGxDN3RUcWUyWnFlTnRNZzhqYmVQY3luMlBMOHU1ekUxQmlLYUtoZjFjSGZ6d09nSW1aTERPeVREQTNoZ2F5ZmxuSW9GMVlmclVPT1hPaHliNGp3c0J4ZDcxUnJiYU96ZTh3TjVVYTNad0E0UkZOOWkwTUIwcUg2bnQxdWZsbWQtSlBmR3BRN3J0V0hKYWNpVEFqSQ?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Ibiden, a key ABF substrate manufacturer, is receiving positive market sentiment.",
-          "segments": [
-            {
-              "text": "Market chatter suggests positive sentiment for Ibiden, a critical player in the advanced packaging substrate market.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@zephyr_z9",
-                  "url": "https://x.com/zephyr_z9/status/2106916539589177690"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
-        {
-          "lead": "Corporate earnings reports show strong performance, with AI influencing outcomes.",
-          "segments": [
-            {
-              "text": "83% of reporting firms have beaten EPS estimates, with 79% posting year-over-year earnings growth, though the AI trade has created a \"trick-or-treat\" earnings season.",
-              "sources": [
-                {
-                  "title": "Earnings Jump 30% As AI Divides Big Tech Winners And Losers",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdEZhaHpNYkZ2cTV6Vkh6OEg2T0l2MU1Ec1ZySnMyNnBmcmE5akk2OTVUellsclVJRjQ1Y1hUZG1nbGRsdkRyOXFOZDZNUEtqNkg2cl96MHFxR2RFbVN6RWszRjUxLXIyRkVoQmdxSEVPcGZiSW9MN3FQWnpVLW9abDA5VmE4UGFnRFAzRGp3TWZfcnNJZHlRT1QtclJfbkR2R05WVkVaR0RVOGdvU25B?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                },
-                {
-                  "title": "Earnings Scoreboard: 83% of reporting firms beat EPS estimates, 79% post Y/Y earnings growth",
-                  "link": "https://seekingalpha.com/news/4661167-earnings-scoreboard-83-of-reporting-firms-beat-eps-estimates-79-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-                },
-                {
-                  "title": "The AI trade's trick-or-treat earnings season",
-                  "link": "https://www.axios.com/2026/10/31/tech-earnings-ai-hyperscaler-risks-trick-or-treat",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Haleon shares declined after the Advil maker cut its guidance.",
-          "segments": [
-            {
-              "text": "Haleon, the consumer health company behind Advil, saw its shares dive following a reduction in its financial guidance.",
-              "sources": [
-                {
-                  "title": "Haleon Shares Dive After Advil Maker Cuts Guidance",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHFyTjdCU1FKWW95eFJRRVVsYWJEUE1xR2M4SEREU25DaFhPcXFtQ3RZempzRGdpRE0zY2REUnIxNkVGRVBZZU9zYVFScS1FZGlKeUd0TGtLblp3bFNUaEhkUjlGMTNNVkpmNlc4WHdnWVlHTWlTX3JqaHpIaWlSOUlFeEp0bmVWR0EyZ0tQbUhlbUs2eG1DTEdQZw?oc=5",
+                  "title": "Asian Private-Equity Firm to Buy Beleaguered China Evergrande’s Property-Management Arm",
+                  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHRwekFmempKN290a2l6a2E3aHcwalpvNDZFQk5QN1pnZ0pHb21nWWwzWTFRQUZGMTU5eDc0am1Gd2NzTnNyWVJwTkdNU3JTeGZLcGlLYlQ0RG90YTB3UUg5MlRmUGNZTHo0TlhxR2dCTDBwMC1NaDREOU1uOUxsX1ZQVy1PUDJRTjN0bFkyLXptSWo1anMyZy11OUhLTC0ybi1qSzRDYVNaMGxvN3RNQ0ZxeGg2UERkb0VMaWdBWkt4ZGdFc1VoOFJB?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -256,14 +177,31 @@
           ]
         },
         {
-          "lead": "MediaTek raised its ASIC outlook, projecting significant revenue growth.",
+          "lead": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls.",
           "segments": [
             {
-              "text": "MediaTek anticipates a 32% jump in fourth-quarter revenue, driven by an increased outlook for its ASIC business.",
+              "text": "",
               "sources": [
                 {
-                  "title": "MediaTek raises ASIC outlook as fourth-quarter revenue could jump 32%",
-                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0t6cGtueFV1Vk45a01VR0dHQ2Q5amtXVjRJckJlUDBVajNlenVqUC10dURFN2M5Qkl1Ylc1dHVtT0lyeVA3NWxsTEdSX0RXV1hlQWJsczdYYUhJeGtpQVlyWVhaWUpzMDljaWJ2Zkg2d1dNSVlEZEpKckhFQjNjUG1reEZHS0tZMHN5Zk5R?oc=5",
+                  "title": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "The pioneer behind TSMC's FinFET leap: a personal look at Chenming Hu",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQTVPSWpIcmszeC1VUENlYVQyV1BSZmJzTzg0U1pvbktYZE5NWmhKMFE4QWJab3o0M0Q3UWJwV2xfWFBHYXFEbTIzRDdOTWpValNCZnJkTElKQWlnelJKRlp1QlpIU2k0d2dyQ3hjcDgxWW1ycy1pcy0ybk9ISndkY1ZPSzdEb2ZKTXpDNmpqVkVqRGQzV3c?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -275,19 +213,19 @@
       ]
     },
     {
-      "label": "AI Infrastructure / Hyperscaler Capex",
+      "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Hyosung Heavy Industries is collaborating with Siemens on digital power grid technology.",
+          "lead": "LyondellBasell Revenue Rises; Warns of Slow Recovery in Middle East.",
           "segments": [
             {
-              "text": "Hyosung Heavy Industries is partnering with Siemens to develop digital power grid technologies, with a focus on AI data centers.",
+              "text": "",
               "sources": [
                 {
-                  "title": "효성중공업, 지멘스와 디지털 전력망 기술 협력",
-                  "link": "https://www.thelec.kr/news/articleView.html?idxno=64630",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "LyondellBasell Revenue Rises; Warns of Slow Recovery in Middle East",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekMydkR1MFc3SFRhbjc3SDVrQ1V6akpoc0dqM0pVSGQxVUNacnhnbVpVdDFrZjhoT1FtTjVoZU9WbDVTZU4zbW9EdWxjMlpla2huaWlTVk5ManpLd0ZrcjE1Unp6TkxxYWd4eldROXgwQjRBLS1PWkM1THZVZEJyNjdFZ1JRNFpJNTQ5eEZVeXY5aXo2SkFabl9JZmVwSXpVOW1ucHdMRXN5bnR3M0JZSFFjSQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -295,27 +233,92 @@
           ]
         },
         {
-          "lead": "SPCX is aggressively pursuing vertical integration in datacenter components.",
+          "lead": "Asia shares bend under AI stress; Apple earnings loom.",
           "segments": [
             {
-              "text": "SPCX is reportedly reverse engineering datacenter components like racks and chillers, indicating a strategy of deep vertical integration.",
-              "sources": [],
-              "x_mentions": [
+              "text": "",
+              "sources": [
                 {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106910342983057576"
+                  "title": "Asia shares bend under AI stress; Apple earnings loom",
+                  "link": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
-              ]
-            },
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "U.S. stock futures edge high after bruising Oct; earnings, elections in focus.",
+          "segments": [
             {
-              "text": "The company is also developing its own optical fiber and utilizes 60% of its 10GW power capacity for internal demand, potentially driven by Grok Bot's success.",
-              "sources": [],
-              "x_mentions": [
+              "text": "",
+              "sources": [
                 {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2106909462141542687"
+                  "title": "U.S. stock futures edge high after bruising Oct; earnings, elections in focus",
+                  "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
-              ]
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Meta Faces U.K. Antitrust Probe Over Publisher Content Terms.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Meta Faces U.K. Antitrust Probe Over Publisher Content Terms",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUNHd1JHMlE0cUhrNjNXOVpqTVRJUi1SUzl0R0JUajFkWmVkOHRGNjdTc3pkTnV2TXFMY29ZRk9HTTN4NVJvNmlPZ01mYVRWTnl5MWtQcUtJV2lpaGNOZjlWZThZQ3BtNkwta3BmdGl4aE5MRDNFTk9kajdweGdWQzlnRFMzMHFvYVhfYVlwWXhsVUc4WWc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Alphabet’s Market Value Drops $500 Billion.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Alphabet’s Market Value Drops $500 Billion",
+                  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CdlNVWGZuakx2cUE0NTYzaHNNRXRoaUVrd1pfaVRsd0JmOS01UjNyeWxZdGQ1c0t0UVlzOE90c1M5THdkREdLM0QtU00yNGNVbGloN2NhdVJyOTczYzlXb2c2NTJzYzZmM2NHSld3RC1LZTNSdTB6aTlwaFY4N1E?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+                  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYkM2dktuMlJtYUItSFRiNnc1WVotNmtIaHBZOUpHWE5ZNlpYSkhEUmRWMVc1RWk4SzM3Qnc5LTZxNTBLNktIUkRhSzBCMjhMdnVqNVVmeTRDRFFVVnZPT3F1QmVEejZTSVgyWmJyZ0NHTS12Nm96YU1nZ1hkaWtjdXUzamF4c3RtQTJsQ1lmWE02UkxpSnRpbXFRVFY4eHJOQ0ZhTWZfN003VVZvb3FaWTViaTFZMHI3bENLZi1wWjVhd3pCRlYzdTE4MW51Z05DbW9qdlJHOTl0WkI0ZzByNk1IbmdSdmg0?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
             }
           ]
         }
@@ -324,72 +327,66 @@
   ],
   "watchlist": [
     {
-      "name": "Fed",
-      "note": "The Federal Reserve's stance on interest rates remains a key driver for market sentiment.",
+      "name": "TRUMP",
+      "note": "Trump Banks on Rallies to Turn Out MAGA Faithful One More Time",
       "sources": [
         {
-          "title": "U.S. Stocks Up, Treasury Yields Mixed After Fed Hold",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVpkc0tPSDBPVHptQ0w1dG1CTjVvTXpYZTAwbWlJOVpJUHc3UTN5R2pPeTA0QnoyVWpRVGpLS3JFd0xSeDdoWjJtRlJBNHZXVm5kcTBRaUdxQTNNeGdNQmFxYWE0MjBoZG80SVlscnJSaGRDdDBmUFRsT3BtWnd5TjlwZ3dqWDNDRnFVamJ4RlVqZThYTm5tVTJB?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+          "title": "Trump Banks on Rallies to Turn Out MAGA Faithful One More Time",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVFfMG13M19BeWJMNllla2xhRzc3Z0RZNWZZcnp1TWZoeVpTcHhjX1daSFdHWFdESVA5M3pPLS13azhUSkRBWVBqUmkxdkJoWWYwc3YwdnNIU1E4TWVUc1JleXJDUGZtOTU3UVc0eTFZQjRwOG8wMGc5SzMzTWxQd3l1SDVUVkg0MWk1NHhZQnlJS0pDbzhkOUM2VFBVVGVPNjYwdUsyVUdyRHMxU3Q3NXJDdw?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Meta Platforms",
-      "note": "Watch for further developments in its AI spending and robotics initiatives.",
+      "name": "TSMC",
+      "note": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
       "sources": [
         {
-          "title": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
-          "link": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+          "title": "Musk may let TSMC run his Texas chip fab as his go-it-alone plan stalls",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaVpnV0xUc2NSZ0xJaXdtVzNhWWhrSzdncjFlUXB3YlViSFFCekFFeXRTOHlTWWQwckhGam9HMjhKYnRHelYyMXdwd01Mb05TSk9acHBZQ1I5NUpWeDZiMUxBQ0lTRVoxRlJ3MEpuVWIzbWVnYk9KcXRpU0FuNnhTRzQzX0NvNm1idEVyN3hXZEs0R1plVjZIZ2pB?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Tesla",
+      "note": "Tesla at a historic crossroads as Musk bets on AI, space to revive growth",
+      "sources": [
+        {
+          "title": "Tesla at a historic crossroads as Musk bets on AI, space to revive growth",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFZTVGxlUzdKd2RZQUZaWnhJNEx6OGdVRDg5RGhvUWFha2dZTy1uUlN0NExIcWlwczZId0N2Y2dCODFsY0JhNE0wVWFrRURnUVp6WmFfcjcwSHgtVXpWRnlRaEJqbDJvSEhZbGtXZVFMeWpmdkVaV3hjR2pnTVk5WFdHR1B1bWtMZVZIeWdiU3l1UQ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Bitcoin",
+      "note": "Elon Musk Issues Serious Hack Warning Amid Bitcoin And Crypto Price Crash Fear",
+      "sources": [
+        {
+          "title": "Elon Musk Issues Serious Hack Warning Amid Bitcoin And Crypto Price Crash Fear",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGVtZWZOemduWHo0dWxNVmllNjd1TE5NZnZCalo2Ty1sYXMzSDFNaTFBR2dhUEppRmxuaXlSdTdfVVdYdTl6NnF0N1BCNmR4b2JjY25LdEtHOVoyV1pZSGN2ck1KTXRXUER4dEI0YUpXNXVoY0tnLWZ0N0F6QXhjOW9Hbkxnb0hrMURJejdLbExRak1FN0Q3d3VkdHFjODVkOUliLWw0RXB3RWpLbmc3M3duQzQ0SmdCZVgwancxUmF1dGhIRV96ZDFWRlVkeWNtdFE3Y2pRTDFvRWJ5dTBEeVFoeE5ZRWllWFE?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Apple",
+      "note": "Asia shares bend under AI stress; Apple earnings loom",
+      "sources": [
+        {
+          "title": "Asia shares bend under AI stress; Apple earnings loom",
+          "link": "https://www.investing.com/news/stock-market-news/asia-shares-bend-under-ai-stress-apple-earnings-loom-4989790",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "Meta Built Humanoid Prototype With Chinese Startup To Ramp Up Robotics Push",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTRaOVBSZ3JDRTFyM2FSVWNjdWFhOU9VNjVSSGxfUzh4T0h2Vzg3eTlYUGFzaHhScDk1Yl9hd200aVl3QVl1ekNhVjRHS2YtczJiaHB0Q0ViZXlNMzRzOTI5QjVaS2c3czdLb3E4c2x1LWJYeTBHWTVYQ2dNd2lKWkRrUnlpTlRXMDN0M2dLUEhtOXZIeWJTcTRxYlFBMW9XZXFNalZxWQ?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Nvidia",
-      "note": "Continued expansion into AI infrastructure beyond GPUs will be critical.",
-      "sources": [
-        {
-          "title": "Nvidia moves beyond GPUs as Meta's Muse agent stack pulls it deeper into AI infrastructure",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUJzdzRZTGQ1NWNIWkFTODloUTJJX0ZlLTlpLW5YTXdwOElaWWtaamxkek9HNHc5UEVhUTlDeENZSF9CUHpieTFUbXB4ci1rdVBCbElxWnBWeFNRVVl0VnJpMzFFeU9YbF9BOXczM3YzdVE2c3RjdXBXVGp3cjIzU180czBSYXl2TTFQSUdOMmt0Znp5YV9Odg?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Marvell Technology",
-      "note": "Potential M&A activity in the optical supply chain could impact the stock.",
-      "sources": [
-        {
-          "title": "Marvell-Lumentum talks put optical supply chain in focus",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSmNudXNiSFpUSVdQVGxDN3RUcWUyWnFlTnRNZzhqYmVQY3luMlBMOHU1ekUxQmlLYUtoZjFjSGZ6d09nSW1aTERPeVREQTNoZ2F5ZmxuSW9GMVlmclVPT1hPaHliNGp3c0J4ZDcxUnJiYU96ZTh3TjVVYTNad0E0UkZOOWkwTUIwcUg2bnQxdWZsbWQtSlBmR3BRN3J0V0hKYWNpVEFqSQ?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Haleon",
-      "note": "Monitor for any further updates on its guidance and market reaction.",
-      "sources": [
-        {
-          "title": "Haleon Shares Dive After Advil Maker Cuts Guidance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHFyTjdCU1FKWW95eFJRRVVsYWJEUE1xR2M4SEREU25DaFhPcXFtQ3RZempzRGdpRE0zY2REUnIxNkVGRVBZZU9zYVFScS1FZGlKeUd0TGtLblp3bFNUaEhkUjlGMTNNVkpmNlc4WHdnWVlHTWlTX3JqaHpIaWlSOUlFeEp0bmVWR0EyZ0tQbUhlbUs2eG1DTEdQZw?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -397,68 +394,68 @@
   ],
   "x_themes": [
     {
-      "topic": "Positive sentiment for Ibiden",
-      "category": "sectors",
-      "subcategory": "abf_substrate",
-      "summary": "General positive sentiment or \"love\" expressed for Ibiden, a key player in ABF substrate manufacturing.",
-      "mentions": [
-        {
-          "handle": "@zephyr_z9",
-          "url": "https://x.com/zephyr_z9/status/2106916539589177690"
-        }
-      ]
-    },
-    {
-      "topic": "SPCX's vertical integration in datacenter cooling",
-      "category": "sectors",
-      "subcategory": "liquid_cooling",
-      "summary": "SPCX is aggressively pursuing vertical integration, including reverse engineering for datacenter components like racks and chillers, raising questions about intellectual property.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106910342983057576"
-        }
-      ]
-    },
-    {
-      "topic": "SPCX's in-house optical fiber development",
-      "category": "sectors",
-      "subcategory": "optical",
-      "summary": "SPCX is reportedly developing its own optical fiber, indicating further vertical integration into networking infrastructure.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106909462141542687"
-        }
-      ]
-    },
-    {
-      "topic": "SPCX's 10GW power capacity and internal consumption",
-      "category": "sectors",
-      "subcategory": "power_behind",
-      "summary": "SPCX's 10GW power capacity is primarily used for internal demand (60%), possibly driven by the success of Grok Bot, with 40% allocated to external customers.",
-      "mentions": [
-        {
-          "handle": "@jukan05",
-          "url": "https://x.com/jukan05/status/2106907946890457304"
-        }
-      ]
-    },
-    {
-      "topic": "Starlink's in-flight internet service",
+      "topic": "Anthropic's premium payment to SpaceX",
       "category": "out_of_ai",
       "subcategory": "space",
-      "summary": "Starlink successfully demonstrated streaming five live football games simultaneously on a commercial flight, highlighting its in-flight internet capabilities.",
+      "summary": "Anthropic reportedly paid a significant premium to SpaceX, contrasting with its price renegotiations with other cloud providers.",
       "mentions": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2106827233650147822"
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2116707485801381938"
+        }
+      ]
+    },
+    {
+      "topic": "Intel's restructuring and management issues",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "Intel has undergone restructuring and layoffs in recent years, but there are concerns about the effectiveness and competence of its former management.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116689411115253873"
+        }
+      ]
+    },
+    {
+      "topic": "Qualcomm's core business pressures and restructuring",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "Qualcomm is facing significant pressure across its core businesses, including Snapdragon (due to Exynos and Apple's modems) and RF, leading to recent layoffs and a need for strategic restructuring beyond cost-cutting.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116684045736374398"
+        }
+      ]
+    },
+    {
+      "topic": "Research on semiconductor substrates",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "An analyst is actively researching and preparing an article on semiconductor substrates.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116658914385449145"
+        }
+      ]
+    },
+    {
+      "topic": "Market bottoming and November rebound prediction",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "An analyst predicts the market is poised to bottom out and begin a rebound in November.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116657889473605902"
         }
       ]
     }
   ],
-  "x_account_count": 4,
-  "x_generated_at": "2026-10-05T01:46:46+00:00",
+  "x_account_count": 3,
+  "x_generated_at": "2026-11-01T02:00:39+00:00",
   "indices": [
     {
       "name": "S&P 500",
@@ -496,9 +493,9 @@
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 63290.11,
-      "change": -1290.53,
-      "change_pct": -2.0
+      "price": 62980.91,
+      "change": -101.36,
+      "change_pct": -0.16
     },
     {
       "name": "Hang Seng",
@@ -512,9 +509,9 @@
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5730.74,
-      "change": -212.53,
-      "change_pct": -3.58
+      "price": 5771.02,
+      "change": 105.05,
+      "change_pct": 1.85
     },
     {
       "name": "TAIEX",
@@ -525,6 +522,6 @@
       "change_pct": -2.41
     }
   ],
-  "story_count": 53,
+  "story_count": 48,
   "bucket_count": 12
 }
