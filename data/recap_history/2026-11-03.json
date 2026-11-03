@@ -1,0 +1,644 @@
+{
+  "generated_at": "2026-11-03T03:16:47+00:00",
+  "mode": "daily",
+  "for_date": "2026-11-03",
+  "headline": "Oil Dips on Iran Deal Hopes; Palantir, SK Hynix Post Strong Earnings, Apple Warns on Margins",
+  "summary": "Global oil prices declined on optimism surrounding potential US-Iran deal progress. Palantir Technologies raised its 2026 revenue outlook due to robust commercial sales and AI demand. SK Hynix announced substantial shareholder returns after strong earnings, while Apple reported higher-than-expected revenue but cautioned on future margin compression from rising memory costs.",
+  "sections": [
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "Oil prices fall on Iran deal optimism.",
+          "segments": [
+            {
+              "text": "Khamenei has empowered talks, with President Trump suggesting a deal could materialize, easing Middle East tensions.",
+              "sources": [
+                {
+                  "title": "Khamenei Empowers Talks as Trump Says Iran Deal Could Happen",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ19KMnR3VkhXQVpwVGNCTkJWNnVlay0zMTFzMDkwMkRkRDQxc01Rb3dnVXdWWFh4Ri1iTHR6Ul9DWWdyZ21RMnhRRGJKRTN5MHN5N1RsMG41UDA4TDZuQnFhV3J0VHF5Q2JXa1BTYlh2T203RHFiMHFaX3E2cVJsaXVjbS13NjlyekNlNnkwMTNySHpXWTJ3UW9OcGl5VXl4eGZQWFlQQmYtMDNvRnFWRw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "This sentiment drove WTI crude lower.",
+              "sources": [
+                {
+                  "title": "Nasdaq Slide Clouds Asian Open, Oil Falls on Iran: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGEyREpLdzRYM3VsY3NTclQ1Y2xud2pYNVl6Y0JhZ3RNczRVVjJ0aG43NmgyWkQ5SU85SmtVWGVCU0wySnBTdkhzZXR3R3RpMWloMWdlckxKM3BBUFB4VU9FbzhDQ2l2dm5xZlIwbFZJTHdJQVVyaU1Qc3djSmowcHdGMDNOVUIyMDdURnFwWWpUbmZN?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Oil Falls as Market Tracks Mideast Developments",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdklVdk9TRHJEWlc5cVJoS3M2Zkt2U2o4SnhMUndxSlduTU52S3p6WHJBOXlVOVp0aDRMR3lJUlJqVjZXaVVXbk1qdTdGbC1qOHJYblYwVjd5Q2EtN2Etb2FVcnlUMXVPVTMwWFE0QjkyNnByZl8zNGFOakw5WkVyZ0FoMXc4OTNJWTB5Ui1CWW10dU1MOWVTd2p5WlBfYWdtdE1lUEJqaw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalhUUG9VTkRaNkpZM1BUTlpIYVM0WmJMU3UxZHpaSm5KRUhDdmNNTUVNbEJncFYyS1RqUVZmd2RaMUh3eUVINWt6Wm9WeGgzZmFoR2U1TzlnZ3dkUFVkdjJIclFHaEc2X2NWYnlLRnZGREs3RDg0WWdZbEJWc3d1RERMZHZESnhDb05HQXVlMjRCbnNxNVM4TFpvdzVPQ1hDMVlXVGpNMmx0Q0gzbXVFZGl3UERXYjllcmx5MUEyeGVHUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+                  "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China's central bank adjusts Yuan stability rules.",
+          "segments": [
+            {
+              "text": "The People's Bank of China modified foreign exchange reserve requirements to stabilize the Yuan.",
+              "sources": [
+                {
+                  "title": "China’s Central Bank Tweaks Forex Reserve Rules to Steady Yuan",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUVpai1RSG9LWk82anFJT1hrZlgtM0t3LTQ5ZDBHLXFOLVpyOFhiR0xZa3pLMkluNnpOdzBHWDdwbnZESzk2bWhybUhmdGZUSFFVd0owXzV1ZXJlcXliazhtclhMTV9vQzlSOGlZd0VlNUFLM2V2RUFwNG9SUjFWSG5aeXNUdzBlcmlvRl9RR3JvNUJwZFluUGVrVGduVXpNUEdCcjFTVFI5RktrU1JyMnd0R2E?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Automakers back Trump's fuel economy rollback.",
+          "segments": [
+            {
+              "text": "Major automakers support the Trump administration's initiative to relax US fuel economy regulations.",
+              "sources": [
+                {
+                  "title": "Automakers back Trump administration's rollback of US fuel economy rules",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWG9Tc1hYaXEwVVJLTmxpc2VWcDN3NldaTDhfMUtlMGdrNThGYmkzTkl3V0pRdmUwYjRiVDdzMUp4T3BJUnZTSXNHWjM4VUtMcGFQRWJocGpiMmo3MG9UVHptalI2SlgzWWVsejV2Y0drenRCS0xMd0pOSW5Bc0pyR2RMeFlReS1NNE0wcnZPNzg4cUV6REMxbFcwOE1fZU1TbGlZUGxXUXlRUDZoRWNvWDNn?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "China's memory chip sector extends Q3 boom.",
+          "segments": [
+            {
+              "text": "Chinese memory chipmakers continue strong performance into the third quarter, facing capacity and policy risks.",
+              "sources": [
+                {
+                  "title": "China's memory chipmakers extend their boom into the third quarter as capacity, policy risks build",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnpVWEFvdG5tMEEwbWZWWnFpV0QtOFZVNkRfQ1Z3R0ZGWnI4ZmFHUlNDTjBhNEVPMkVFazBLenpWWU9HZzhXQVN2OXljY1c5OVdOMFIyV2MxSGZuODJoSElaVHdwUC11UTRlaGU0bm8ydXRvNWhNNkZ4LVpLdkJyZkhuclA5eDV6VEdrTElZN3piWXYyams3VjA5QQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Palantir raises 2026 revenue outlook.",
+          "segments": [
+            {
+              "text": "The data analytics firm increased its 2026 revenue forecast, citing robust commercial sales and strong AI platform demand.",
+              "sources": [
+                {
+                  "title": "Palantir Boosts 2026 Revenue Outlook on Strong Commercial Sales",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEtVWWY0N2lwNzJ6NVpTWFpSSHdRV3hNSnlnSnppYnBvM2paNVVmTTdhWl9wcnVmMFRHRTROaENxUDlvM01nOHRPLWxXd3gzX0lBR1Itc0ZuZHFzODJEbzFDeUlVbXNlMFpTc1JzaTlaM2JLRjhoUHJTYmVmckxaaUtIQTJUcEJGQnZyeWsyQmpmeWxKUE5WV2tiSEVMUnhPMnJMdkY4MlBQb3AzSEVLVU9pcnU?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Palantir forecasts strong quarterly revenue on AI demand",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl2TXR3V1NLdWxVUGFhNHludjhnOGY2M3g4TnktS19Pakw2dkM4VjAxMHQxcDEya0NtXzlGU29qc25GdEdrQ2o1WEI1MjlSc19ZZTBvVVZwRk1XZm9SQTJ5eEdRMm5mQ1p5aVZILWdXREdNU1d3RTBfSGRRRTJYLWVaZk5oR1U1Q0NSNGJHb2h3RUk5czl6bHJKQnBaTUREOWJmZHNKU2VsNGo3bHpldmo3SjRsbUcyRWc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "SK Hynix plans $75B shareholder returns.",
+          "segments": [
+            {
+              "text": "Following blockbuster earnings, SK Hynix announced $75 billion in shareholder returns.",
+              "sources": [
+                {
+                  "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+                  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORS13MExBQ0RLMjJkM1FxVkF0aVVJVzRib0Uxa0FTejhNTlY5M216LURtMFRrZ1Bwc1ZZU2E2cHRwS3FocGtvanZMRmdTWGxYUnRUd3FzMnMySDFZMmRBVVBvR3dsVDFqemZCdmdHcnpXZTZobTF0TlpaejgydmtkUUIwWGhaWGVNU1VEa3dwOFJEb1dkNUxNbXZBNFhPQVMxMjRQcWZ0dnl2VWR4TDZCdWFoeVBNcHM4eElJaGFTTQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Apple reports strong revenue, warns on margins.",
+          "segments": [
+            {
+              "text": "Apple posted stronger-than-expected revenue, but anticipates a holiday quarter margin drop due to rising memory costs.",
+              "sources": [
+                {
+                  "title": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
+                  "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                },
+                {
+                  "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+                  "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Apple forecasts margin drop in holiday quarter as rising memory costs bite",
+                  "link": "https://www.investing.com/news/stock-market-news/apple-results-beat-wall-street-expectationson-strong-iphone-sales-4992898",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Anthropic revenue growth slows pre-IPO.",
+          "segments": [
+            {
+              "text": "Anthropic's revenue growth has decelerated, with compute financing risks mounting ahead of its potential IPO, despite reporting $17 billion in revenue.",
+              "sources": [
+                {
+                  "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
+                  "link": "https://www.investing.com/news/stock-market-news/anthropics-quarterly-loss-shrinks-revenue-jumps-ahead-of-blockbuster-ipo-4992139",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                },
+                {
+                  "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
+                  "link": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Marvell to acquire Lumentum for AI data centers.",
+          "segments": [
+            {
+              "text": "Marvell Technology will acquire Lumentum in an $80 billion all-stock deal, targeting AI data center demand.",
+              "sources": [
+                {
+                  "title": "Marvell斥資1,150億美元收購Lumentum 押注AI資料中心需求- 國際",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MMjZzdUpmdjFHZkd5cVlsbTZvUnlCYjdld0JxNFdlRXdCUktYR1NxTU5aZ2VCUVAwRGZVcVkwaWlGR3B6WTVOVUFTUlVyVEwzempfcFRLb0Y3R1E0c25V?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                },
+                {
+                  "title": "Marvell to Buy Lumentum in $80 Billion All-Stock Deal",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkxZS213QnZ0YWpYWjNwcWh6YkhJWWdLWjV0bmhxWU5wY2E4MGJEaUNWTnEycEJfY2pNamxxYXkxYUFLd0U2UG9yR1NYb1lvVk94engydDhXNXlVSU5SWmdNazd5c3dUdXZYZk0ydXBTX0VqMzNzaEwyX2hGQjFDLUtQZm1sM2RtclNTMXZ6YklvQQ?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia strengthens South Korea ties.",
+          "segments": [
+            {
+              "text": "Nvidia is enhancing partnerships in South Korea, as highlighted during its AI Day Seoul event.",
+              "sources": [
+                {
+                  "title": "Nvidia strengthens South Korea ties at AI Day Seoul",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT0FtX1NNU245LTVFdmJaNjN6WlFtRXVVa3MyNWZRT09aRU4tdDB4em9rSUVadUJiZDlnMUJJeHVLTkxOQmFLdTFXdXcwZzVqbGdZa282blNRM3NUenAzR3JGZHVGMzEzWm13ZjdHNjVYV1NQQ2dOV0RoaWduSDM3SzhYY1BkcjZpWHd6Z2hmelE0MzBLZmhBclZpS2ZkYnZkeHc?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "ASIC supply battle intensifies through 2028.",
+          "segments": [
+            {
+              "text": "MediaTek, Marvell, and Broadcom are competing for ASIC supply contracts through 2028.",
+              "sources": [
+                {
+                  "title": "MediaTek, Marvell, Broadcom battle for ASIC supply through 2028",
+                  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalJDOEQ0ZDRyMFlsVll5Um9OSkREZWp3T2JjQ0x1ZEE3RXc2ZTVHaC1CM0tkSlBzZzlKSmxuZTdMandLVTFjQ3B4Mkh1ZzNwcHpHUE5zV2RPZTJ6Z1hkbVEycnU2NWdtdlRzUlZWTDlCdDI4QjBhNmlKbXJPYUEtYTR1UjVIdmxBQ0JrVmh3?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "US Treasury cuts Q4 borrowing estimate.",
+          "segments": [
+            {
+              "text": "The US Treasury reduced its fourth-quarter borrowing estimate to $618 billion.",
+              "sources": [
+                {
+                  "title": "US Treasury cuts fourth-quarter borrowing estimate to $618 billion",
+                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa24zc1dZcF9ab1hPdmlNanR5cXExUTNjMmpzMzlwN2RlV0JIQkZkVmJLX1VTdWctaHV6MVppUkNfZVBKX3NSd0lZTHFwXzN3Y2sxYURZalFHVUFZN3Zab3hXbkM5VlBGQmlaYU1yMlhtSDU2TVVEek40MF9vZF9vcUJNRlRya3MyZHA4SkZnbnJ2WTRuS201RlRJVVlIWUNyV1BzcXFGbWphSWhzN0JwSE9XdUtFNWlwM0E?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Voters disapprove of Trump's inflation handling.",
+          "segments": [
+            {
+              "text": "A majority of US voters disapprove of former President Trump's inflation management, per a Financial Times poll.",
+              "sources": [
+                {
+                  "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+                  "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Apple's holiday outlook faces memory inflation.",
+          "segments": [
+            {
+              "text": "Apple's record holiday sales outlook is challenged by rising memory inflation and increased AI spending.",
+              "sources": [
+                {
+                  "title": "Apple's record holiday sales outlook faces costly test from memory inflation, AI spending",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkM0aks1Wm5hclhRZHgwX3Z2UlhHVHdEc2RsSTV0bVBQQTRBemo3ZXZBcG02NHh6Zl9aUmNVT1Z5ZS02VG1uU29KemZ3NldWNzMxaUhYd0F3RWRrSnBSSVFWeWhJZ1JPSzl6aHZoZk52VzUtcy1RQkpoTV9DSmMxSXFKdTVWY0JwZnhndEd4eHpHNTQ?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Oracle seeks $20B for AI expansion.",
+          "segments": [
+            {
+              "text": "Oracle is raising $20 billion via stock and bond sales to fund its AI expansion initiatives.",
+              "sources": [
+                {
+                  "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnczY1BoREE4MUxrXzNMSHR2RTF3WC1xbk1MYWZsSld3SnA0S09fRXZMM3NlbkR3N2pBazJaMlBzRWZwR3ctQ3M2T3UxcGc0UWtWdmVndWV4WXFSV0lLWEU1MGpMSVFVVV91YWxjTkEwTy1BenpOQVR3dzhmSlJyVzMtSkJPQjIydXY0TmUyRGpXYUV6ak9yaE5sSU9qQWpSQzhIMDZ5TFMwcjBsdk5N?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Oracle taps investors for $20 billion to finance AI expansion",
+                  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVGUyeXVqQlVYMEx3TEhEVHY5ekZLX3paamdqNUF1ek80VE9RZVhuSFl2d3dsVkF6T2JyVFdJdF8xR1FuWU5EdU9OWG03SmRoLUloaEFCc3pGLXFxN0FyOUNnVkM3T3prb1NMYXBOanNGT2RMYjNxcTZsdUEwbGs?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Oracle Launches $20 Billion in Stock and Bond Sales",
+                  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbndXVjIzSVNKcXQ3SE5uYTJNSnJrcVRjekZnZzFueXR0cFdVT1NpUW54U1VRWDdNcEtMT1hGZ3E5UHJmZnpxcVdmSS1zNXp3ZmF6RTZhSEhpNXRVY0ZyOHlzbHE3NWJwUzNpZFJKZGFlandNV1QzQjRUXzhxUlBjT0ZURW5IczRLUGZmeg?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                },
+                {
+                  "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+                  "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Grok AI chatbot adds new features.",
+          "segments": [
+            {
+              "text": "Elon Musk highlighted continuous Grok AI chatbot improvements, including gift research and purchasing capabilities.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2117033967782113327"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Memory",
+      "bullets": [
+        {
+          "lead": "SK Hynix utilizes deposit-backed ABCP.",
+          "segments": [
+            {
+              "text": "SK Hynix has reverted to using deposit-backed asset-backed commercial paper (ABCP) for financing.",
+              "sources": [
+                {
+                  "title": "[마켓인]채권 끊고 예금 가더니…SK하이닉스, 예금담보 ABCP로 돌아왔다",
+                  "link": "https://n.news.naver.com/mnews/article/018/0006402725?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Micron dismisses 4F-squared DRAM.",
+          "segments": [
+            {
+              "text": "Micron is dismissing 4F-squared DRAM technology, while Samsung and SK Hynix remain divided on its adoption as CXMT advances.",
+              "sources": [
+                {
+                  "title": "Micron dismisses 4F-squared DRAM as CXMT presses ahead — why Samsung, SK Hynix remain divided",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkp4clVrSUJibEJmcHNZanBxQkdmcjAya3Vzem5Ic2NsWUdHakpSY2JDOUtzV2p5N1Q1Nkc1VnliVk1OODBvYTFVRmdRNjlSdmdNQmU2TE1HWVdWS1FDRldqX2dwZlJNYmVXeTgtN05JeTdnMm5IS1l4ZmFEMGpzM3Npdm14Y3djWlcxekFReDc?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Oil Prices",
+      "note": "Monitor US-Iran deal progress for continued impact on crude benchmarks.",
+      "sources": [
+        {
+          "title": "Khamenei Empowers Talks as Trump Says Iran Deal Could Happen",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ19KMnR3VkhXQVpwVGNCTkJWNnVlay0zMTFzMDkwMkRkRDQxc01Rb3dnVXdWWFh4Ri1iTHR6Ul9DWWdyZ21RMnhRRGJKRTN5MHN5N1RsMG41UDA4TDZuQnFhV3J0VHF5Q2JXa1BTYlh2T203RHFiMHFaX3E2cVJsaXVjbS13NjlyekNlNnkwMTNySHpXWTJ3UW9OcGl5VXl4eGZQWFlQQmYtMDNvRnFWRw?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Oil Falls as Market Tracks Mideast Developments",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdklVdk9TRHJEWlc5cVJoS3M2Zkt2U2o4SnhMUndxSlduTU52S3p6WHJBOXlVOVp0aDRMR3lJUlJqVjZXaVVXbk1qdTdGbC1qOHJYblYwVjd5Q2EtN2Etb2FVcnlUMXVPVTMwWFE0QjkyNnByZl8zNGFOakw5WkVyZ0FoMXc4OTNJWTB5Ui1CWW10dU1MOWVTd2p5WlBfYWdtdE1lUEJqaw?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalhUUG9VTkRaNkpZM1BUTlpIYVM0WmJMU3UxZHpaSm5KRUhDdmNNTUVNbEJncFYyS1RqUVZmd2RaMUh3eUVINWt6Wm9WeGgzZmFoR2U1TzlnZ3dkUFVkdjJIclFHaEc2X2NWYnlLRnZGREs3RDg0WWdZbEJWc3d1RERMZHZESnhDb05HQXVlMjRCbnNxNVM4TFpvdzVPQ1hDMVlXVGpNMmx0Q0gzbXVFZGl3UERXYjllcmx5MUEyeGVHUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+          "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Palantir",
+      "note": "Track commercial sales momentum and AI platform adoption following strong revenue guidance.",
+      "sources": [
+        {
+          "title": "Palantir Boosts 2026 Revenue Outlook on Strong Commercial Sales",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEtVWWY0N2lwNzJ6NVpTWFpSSHdRV3hNSnlnSnppYnBvM2paNVVmTTdhWl9wcnVmMFRHRTROaENxUDlvM01nOHRPLWxXd3gzX0lBR1Itc0ZuZHFzODJEbzFDeUlVbXNlMFpTc1JzaTlaM2JLRjhoUHJTYmVmckxaaUtIQTJUcEJGQnZyeWsyQmpmeWxKUE5WV2tiSEVMUnhPMnJMdkY4MlBQb3AzSEVLVU9pcnU?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Palantir forecasts strong quarterly revenue on AI demand",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORHl2TXR3V1NLdWxVUGFhNHludjhnOGY2M3g4TnktS19Pakw2dkM4VjAxMHQxcDEya0NtXzlGU29qc25GdEdrQ2o1WEI1MjlSc19ZZTBvVVZwRk1XZm9SQTJ5eEdRMm5mQ1p5aVZILWdXREdNU1d3RTBfSGRRRTJYLWVaZk5oR1U1Q0NSNGJHb2h3RUk5czl6bHJKQnBaTUREOWJmZHNKU2VsNGo3bHpldmo3SjRsbUcyRWc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "SK Hynix",
+      "note": "Observe market reaction to shareholder return plans and ongoing memory chip demand.",
+      "sources": [
+        {
+          "title": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORS13MExBQ0RLMjJkM1FxVkF0aVVJVzRib0Uxa0FTejhNTlY5M216LURtMFRrZ1Bwc1ZZU2E2cHRwS3FocGtvanZMRmdTWGxYUnRUd3FzMnMySDFZMmRBVVBvR3dsVDFqemZCdmdHcnpXZTZobTF0TlpaejgydmtkUUIwWGhaWGVNU1VEa3dwOFJEb1dkNUxNbXZBNFhPQVMxMjRQcWZ0dnl2VWR4TDZCdWFoeVBNcHM4eElJaGFTTQ?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "[마켓인]채권 끊고 예금 가더니…SK하이닉스, 예금담보 ABCP로 돌아왔다",
+          "link": "https://n.news.naver.com/mnews/article/018/0006402725?sid=101",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Apple",
+      "note": "Focus on how rising memory costs affect holiday quarter margins despite strong sales.",
+      "sources": [
+        {
+          "title": "Apple posts stronger-than-expected revenue in first earnings report for new CEO John Ternus",
+          "link": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+        },
+        {
+          "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+          "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Apple forecasts margin drop in holiday quarter as rising memory costs bite",
+          "link": "https://www.investing.com/news/stock-market-news/apple-results-beat-wall-street-expectationson-strong-iphone-sales-4992898",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oracle",
+      "note": "Track investor reception to its $20 billion financing efforts for AI infrastructure expansion.",
+      "sources": [
+        {
+          "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnczY1BoREE4MUxrXzNMSHR2RTF3WC1xbk1MYWZsSld3SnA0S09fRXZMM3NlbkR3N2pBazJaMlBzRWZwR3ctQ3M2T3UxcGc0UWtWdmVndWV4WXFSV0lLWEU1MGpMSVFVVV91YWxjTkEwTy1BenpOQVR3dzhmSlJyVzMtSkJPQjIydXY0TmUyRGpXYUV6ak9yaE5sSU9qQWpSQzhIMDZ5TFMwcjBsdk5N?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Oracle taps investors for $20 billion to finance AI expansion",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVGUyeXVqQlVYMEx3TEhEVHY5ekZLX3paamdqNUF1ek80VE9RZVhuSFl2d3dsVkF6T2JyVFdJdF8xR1FuWU5EdU9OWG03SmRoLUloaEFCc3pGLXFxN0FyOUNnVkM3T3prb1NMYXBOanNGT2RMYjNxcTZsdUEwbGs?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Oracle Launches $20 Billion in Stock and Bond Sales",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbndXVjIzSVNKcXQ3SE5uYTJNSnJrcVRjekZnZzFueXR0cFdVT1NpUW54U1VRWDdNcEtMT1hGZ3E5UHJmZnpxcVdmSS1zNXp3ZmF6RTZhSEhpNXRVY0ZyOHlzbHE3NWJwUzNpZFJKZGFlandNV1QzQjRUXzhxUlBjT0ZURW5IczRLUGZmeg?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+          "link": "https://www.cnbc.com/2026/11/02/stocks-making-the-biggest-moves-midday-orcl-spcx-tem-rivn.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Grok AI chatbot development",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk highlights continuous fixes, features, and powers being added to the Grok AI chatbot, emphasizing user feedback for improvements.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2117033967782113327"
+        }
+      ]
+    },
+    {
+      "topic": "Grok AI gift research and purchasing feature",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk announces a new feature for the Grok AI chatbot, enabling it to research and purchase gifts for friends and family.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2116989604104392969"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 1,
+  "x_generated_at": "2026-11-02T02:12:59+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7541.4,
+      "change": -39.55,
+      "change_pct": -0.52
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 25164.36,
+      "change": -276.31,
+      "change_pct": -1.09
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 51983.98,
+      "change": 209.8,
+      "change_pct": 0.41
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2805.88,
+      "change": -6.17,
+      "change_pct": -0.22
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 63081.86,
+      "change": -0.41,
+      "change_pct": -0.0
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23484.84,
+      "change": 91.52,
+      "change_pct": 0.39
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5664.06,
+      "change": -227.48,
+      "change_pct": -3.86
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 44215.38,
+      "change": -801.49,
+      "change_pct": -1.78
+    }
+  ],
+  "story_count": 65,
+  "bucket_count": 14
+}
