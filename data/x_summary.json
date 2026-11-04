@@ -1,31 +1,70 @@
 {
-  "generated_at": "2026-11-02T02:12:59+00:00",
-  "tweet_count": 5,
-  "account_count": 1,
+  "generated_at": "2026-11-04T02:57:50+00:00",
+  "tweet_count": 10,
+  "account_count": 5,
   "themes": [
     {
-      "topic": "Grok AI chatbot development",
+      "topic": "Semiconductor equipment suppliers securing 2028-2029 POs",
       "category": "sectors",
-      "subcategory": "software",
-      "summary": "Elon Musk highlights continuous fixes, features, and powers being added to the Grok AI chatbot, emphasizing user feedback for improvements.",
+      "subcategory": "semicap",
+      "summary": "Leading semiconductor equipment suppliers (AMAT, ASML, LRCX, TEL, KLA) are finalizing equipment supply contracts for 2028 and discussing 2029 POs, driven by chipmakers' concerns over AI dominance and extended lead times. This trend of early ordering is expected to continue through at least 2030.",
       "mentions": [
         {
-          "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2117033967782113327",
-          "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible."
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2117796874392609013",
+          "text": "According to Korean media reports, the world’s leading semiconductor equipment suppliers—including Applied Materials, ASML, Lam Research, Tokyo Electron (TEL), and KLA—are nearing the final stages of securing equipment supply contracts for 2028. Some have also begun discussions o"
         }
       ]
     },
     {
-      "topic": "Grok AI gift research and purchasing feature",
+      "topic": "AAOI InP supply agreement with Yunnan Germanium",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "AAOI secured a significant Indium Phosphide (InP) supply agreement with Yunnan Germanium for $194M, covering 180k 4-inch wafers at a cost of $1077 per wafer.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2117681468738777552",
+          "text": "AAOI signed a pretty big InP supply agreement with Yunnan Germanium\nAAOI got a pretty good deal\n$194M for 180k 4-inch wafers is basically $1077 per InP wafer https://t.co/lVTJ7iBp2W"
+        }
+      ]
+    },
+    {
+      "topic": "Market reaction to Abbott's potential loss",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Citrini questions why market futures are not down more given the expectation of Abbott losing by 4-5 points.",
+      "mentions": [
+        {
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2117812815239262664",
+          "text": "So if Abbott is going to lose by 4-5…why aren’t futures down more?"
+        }
+      ]
+    },
+    {
+      "topic": "Upcoming article on chip substrates",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "@damnang2 is preparing to publish an article on chip substrates this week, indicating recent significant news flow in the area.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2117674282818195509",
+          "text": "There’s been so much news lately that I keep pushing back my article on chip substrates. I’ll make sure to publish it this week...... https://t.co/81CJboAGeU"
+        }
+      ]
+    },
+    {
+      "topic": "Elon Musk promotes Grok for making calls",
       "category": "sectors",
       "subcategory": "software",
-      "summary": "Elon Musk announces a new feature for the Grok AI chatbot, enabling it to research and purchase gifts for friends and family.",
+      "summary": "Elon Musk suggests using Grok, an AI bot, for making calls, highlighting its potential application.",
       "mentions": [
         {
           "handle": "@elonmusk",
-          "url": "https://x.com/elonmusk/status/2116989604104392969",
-          "text": "Grok @Bot will research gifts that your friends and family would love and buy them"
+          "url": "https://x.com/elonmusk/status/2117722703738310713",
+          "text": "Try asking Grok @Bot to make calls!"
         }
       ]
     }
