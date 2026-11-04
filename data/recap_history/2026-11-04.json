@@ -1,0 +1,579 @@
+{
+  "generated_at": "2026-11-04T01:51:25+00:00",
+  "mode": "daily",
+  "for_date": "2026-11-04",
+  "headline": "AMD AI Chip Demand Surges, Global Inflation Persists, China Boosts Markets",
+  "summary": "AMD projects rapid Q4 revenue acceleration driven by AI chip demand, with CEO Lisa Su emphasizing expanded cooperation in Korea. Global inflation concerns persist as Australia hikes rates to an 18-year high and Swiss inflation jumps. China intervenes to boost stocks and stabilize the Yuan, while Nvidia advises cloud clients to reduce China business.",
+  "sections": [
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "AMD forecasts strong Q4 revenue on surging AI chip demand.",
+          "segments": [
+            {
+              "text": "The company projects rapid revenue acceleration, exceeding estimates due to robust AI chip demand.",
+              "sources": [
+                {
+                  "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYURlOUxxRUMybEdmbkJoTHZiZEVTTUtCN0gyZ1RsV0s3YlEteXR1NFZIWDNwXzJKTUdCRUpJY0RWNlRqVC02M0VaMFgtY0piUFNGSkhKQmZ3bTVwMHFERHN6ZExPSnVFbWdBWDYxQnNnX0RJRnF6QVlld0FBeDhySGlrUEZ4bEtmWkkybFFVRU9EcnhRd2F5c1M1eGc2OFk5VG95X0dUa1dWUGhPZzJJ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "AMD Projects Rapid Revenue Acceleration in Fourth Quarter",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMkI0a29XRFNuRVB1Ym1abUVUT1VqZVZEZmtGMkFvbEI4cl9paEE4TFlST2hUeWZfN3hGMGpiQ3NZUjY3YzBOSmF2dDg4czY3dzY3N1pJcUFCZzlXc3J5eVpsWHA1WjJGUlJNTWQ4OFFHV25CSGY3TFBoQ3hKQ1hIOUh3enhXRnBDY0E3WURuM21fOE1MUUhFb1ZZdw?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "South Korea is a critical partner for AMD's AI future.",
+          "segments": [
+            {
+              "text": "AMD CEO Lisa Su highlighted Korea's importance in AI development, indicating expanded collaboration and investment.",
+              "sources": [
+                {
+                  "title": "리사 수 AMD CEO \"한국은 AI 미래 핵심…협력·투자 확대\"",
+                  "link": "https://n.news.naver.com/mnews/article/008/0005436353?sid=105",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "Vice Minister Ryu Je-myung pledged active government support for practical AI cooperation with AMD.",
+              "sources": [
+                {
+                  "title": "류제명 차관 \"AMD와 AI 협력, 실질적 성과 내도록 적극 지원\"",
+                  "link": "https://n.news.naver.com/mnews/article/008/0005436350?sid=105",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Marvell's Lumentum deal may shift AI optics orders to Taiwan.",
+          "segments": [
+            {
+              "text": "This acquisition could lead to more AI optics orders being directed to Taiwan.",
+              "sources": [
+                {
+                  "title": "Why Marvell's Lumentum deal could send more AI optics orders to Taiwan",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1ktV3hhUGhtVGplNHI1MWdkM25vV0J5bFp4RFlyLUhUMkNrUmlmNzNDZkFQM3YtQ09nRXFxd0VrYXRzTXlld2hlUF9ZbmNzS2FNR1U3OTJyRmtWWHJJVi1ENUNnbkFPc183Smt0NW9fZ2RsbVE1c1p5NU1ack44MEx2R1JadTdRRWxybFBWUDg2cUE0MnRB?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AMD's data center growth is increasingly driven by AI systems.",
+          "segments": [
+            {
+              "text": "The surge in AMD's data center business is shifting towards AI systems, though cash conversion is weakening.",
+              "sources": [
+                {
+                  "title": "AMD's data center surge shifts growth toward AI systems as cash conversion weakens",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rZlM5MVJseW90OG9aSmtjZ0lfN00wM05FWkZLVkJXbTZYckhoUE5IdzQxTFZsV3BSYm1STU5yNkRseHNLVXhnWC1aZkJZOWFNVzlBck5rR0w2LXROSGxR?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "Global inflation concerns drive rate hikes and currency shifts.",
+          "segments": [
+            {
+              "text": "Australia raised rates to an 18-year high to combat inflation, while Swiss inflation reached its highest since 2023 due to energy costs.",
+              "sources": [
+                {
+                  "title": "Swiss Inflation Jumps to Highest Since 2023 as Energy Costs Climb",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTh1ZHB4cXRqMXNRTG1OLVR3ckMzRGprZnp4d203SEtfU2tVSEtpM1ZsODJXdWpfQXM0NnJtZDB1c216ZUJOR2h2bzN4Zk5CZFQ5NFBzQkZYam5DZnlkUUpzOTJpbWFDVThtcFdoYXhubm4ycmFwbDNaNkNBOHFlbmxsZGNyS0c4TXhrdlhsU1RFdFc4TTRJdnplT1lXb0lTUklCRUIxeDE4WkxwVnN2V2h3?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Australia hikes rates to 18-year high to fight inflation",
+                  "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The US Dollar strengthens on higher yields and robust data.",
+          "segments": [
+            {
+              "text": "The dollar experienced its largest monthly rise, supported by increased US yields and strong economic indicators.",
+              "sources": [
+                {
+                  "title": "Dollar Rises Most in a Month on Higher US Yields, Strong Data",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFQ3WWNUdmpsME9pTGJxOEVCZGZoNkZ0RDV2dFZMcDVRUTAycFRwNUFRNWdwbHBmTHV6SlRhOW96SkFIVlc0cDRpdXRUM3R5MVphNmJDZlpKdGgxV1BHVzRDU0FRRnNFVmMtU1VKM1dXN1I0V19HdHAwcTFPU3JDUHZkRGNQUV9yaHNvTldzVmM5Qi1ZNUhTU0ppb0VINnF1Vm9wTC05WjZlMTU1MnY1czEyRmI?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Treasury traders show less bearish sentiment ahead of key data.",
+          "segments": [
+            {
+              "text": "Sentiment among traders for Treasuries is less bearish in anticipation of upcoming refunding and jobs data.",
+              "sources": [
+                {
+                  "title": "Traders Turn Less Bearish on Treasuries Before Refunding, Jobs",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdUk3Sm5rdV92VUpXYUN6TUlKd213ek5sV3dwZUowWVB2TXNtaDh4UElJUWlBT21kNTFDMC1lSElLQnIxYXgtMmE3R0RscVhWQlh0TFVEckY3dmY0NUYwY1JwWFpTemtqZDluMVBDYm8yRWstbGItdDVFMXNsS1p2eUVKVU5OdUlrVW1ka2pkR2dBUTJEYUJZYUpwQlJkOTlfWGxUS0Y3Vk16U2I3OG1MZnZB?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "China intervenes to stabilize its stock market and currency.",
+          "segments": [
+            {
+              "text": "The Chinese government has taken measures to boost stocks and cool off the Yuan.",
+              "sources": [
+                {
+                  "title": "China Steps in to Boost Stocks, Cool Off Yuan",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXZZcm5qZDJaUl9uVG45eUJGaldNd3hzU3R2TFkycXZHeHRoY1pLaHc2Rko4cUplM2d5ZXZMMWtjSmZmdTQtRE1JVV95R2V2RGNRcFZKb3ZhVFY3bW9xSzNfaUwyTVVYSnl0NUhOWjNFYnFEY000Y214c2hmQWFKOC1YbWpEV0I3Smo2ak5aVWJ3cGtMcEp0R1lvcDdxdWs?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia advises cloud clients to reduce China business.",
+          "segments": [
+            {
+              "text": "Nvidia has reportedly instructed its cloud clients to decrease their business exposure in China.",
+              "sources": [
+                {
+                  "title": "Nvidia Tells Cloud Clients to Take on Less China Business",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGtoQlE0LXdzU3MzQmhGZF9ncC1WdnozOFJRbTRsRGFzS21wOUlxTHRjS0kxMXNkUENDajFxdGxuRDlTTld2Snd5dmVESVlxS2RVLVdIdm9meWtjbGdseEhtbEdGXzN3bVQ1UGtwc3FZYWprVk1neEI0RWpkS1B4T1lFV1htMUlmZmFCOFpSYmsxVXhrRW9z?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump's tariffs remain a significant policy point.",
+          "segments": [
+            {
+              "text": "The impact of Trump's tariffs is a key issue, particularly highlighted in Michigan.",
+              "sources": [
+                {
+                  "title": "Trump’s Tariffs Are On the Ballot in Michigan",
+                  "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Super Micro forecasts strong revenue on robust AI server demand.",
+          "segments": [
+            {
+              "text": "The company expects quarterly revenue to exceed estimates, driven by strong demand for AI servers.",
+              "sources": [
+                {
+                  "title": "Super Micro forecasts quarterly revenue above estimates on strong AI server demand",
+                  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGxzdV85Qy15NnlQQ1Z0b0Rxbno1UFp3STZ6YVhKS0N5cUpyREUwR2c4ajMxRjJEUWE5SEdoMmJWR0Q2YnhfV3ExZHpvNVlKZ0ItUVE2S0E5QmZ4c0ZoUVJsaUNwX181dVI5aXdtZGpBLTBqZWlWYkMwYjc0YU1landiYkg2SVN5YjlqeEVNYURfX0ZBajlOM2pmU1pfMmpqaHFkTGFicmYzSlRaTnlpZ29WV05TckpKcVBqZGwycmktUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Palantir's revenue nearly doubles but faces high investor expectations.",
+          "segments": [
+            {
+              "text": "Palantir's Q3 revenue almost doubled, yet it is a victim of investors' elevated earnings expectations.",
+              "sources": [
+                {
+                  "title": "Palantir nearly doubles 3Q26 revenue, riding wave of commercial demand",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXNja241Uk9YY1V4SmdobWhWX0Z6NUtUemdMaVlvMnA0VWQ3YUdqSUU2Y2lJVFN6cjc2RHhCUm00Qk90RkZKa3FBb2dEeDVJX2hjc1VRR1B5dzd5WUhLbV8wQUlCeU5rbEtKaUpVV19hRnZFb2ZzVUMtNnc5X1BNRXFQSVhKNWluNTZ4N1pia2VYenA5STdEZ0tpakc?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                },
+                {
+                  "title": "Palantir is the latest victim of investors' sky-high earnings expectations",
+                  "link": "https://www.businessinsider.com/palantir-stock-falls-high-earnings-expectations-ai-trade-tech-pltr-2026-11",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                },
+                {
+                  "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+                  "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "UOB profits miss estimates due to lower trading income.",
+          "segments": [
+            {
+              "text": "UOB reported profits below estimates, primarily impacted by a decline in trading income.",
+              "sources": [
+                {
+                  "title": "UOB Profits Miss Estimates as Lower Trading Income Dampens Gains",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDc3UlNLV2lUUl9tWndsdVdGNUVUMjF6QjY1T0Y3YkxocllGOW5pc1hZeEFHb1Q0V1JrcXZFYmhZY0toVWQ2NER0TXNpTXowVTVhNC0tak5uUjl5dkFWdThkMW41eFpVaHBzS3VRMkM0aE5wSm1oZEt5UG9UaWpGcHBiU0dqMmxRdVJxNjN3Y1pick9KUV8xSkJmSFppTVdCbDVEczZkcktzSUQ5UUFGTDZhVmJpdw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Google adjusts AI policy for schools amid pushback.",
+          "segments": [
+            {
+              "text": "Google is curbing AI use in school accounts following pushback, but also requires AI for search.",
+              "sources": [
+                {
+                  "title": "Google Curbs AI in School Accounts After Pushback",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                },
+                {
+                  "title": "Google Gives Schools More AI Control, But Requires AI for Search",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTlR1TmduTllfT2VFM2tEczhQNFpSWVZ5TTBHSlVKZnZObmtyQjlKSnJPWURXU0gtN3FYZEdlcjhfeWJielN3OUd3b3U3UlJTeEoyeDE0bVJES1plcW1JUFUtYnR3NzZ3WGZ3dDQyUXQ5UDJIQ3ZsSkYyd3RaanB5bXFQbldBN1pQYV80VWNhRExiQ1NQTmc?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            },
+            {
+              "text": "The company will cut off search engine access to schools banning generative AI.",
+              "sources": [
+                {
+                  "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
+                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOU9DYnFLdUJNeXVzdV9TV2hVWnhXQnZTdGk1UmVreHdOLUU4RUFnUmM4SVRGR0dDcVdDQmJvN09LRzg0eVRTOEpZTERHcU9QcGlacGxHNlZ1V0xWSEVNcEUyTTA5TmN1dDBvWHM5Q0lSWDlDX0VQdnpOSERXU2FVUms5eWVkZ1o4cjU5WEQxNjRoaF9malMyazVPaXY3cEFFWlJGLW1sUUhfZHNnRzlKM1RtcklBSEsyNkdKX3puYmh1TzdRb0E?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Meta initiates debt offering to fund AI investments.",
+          "segments": [
+            {
+              "text": "Meta has launched a debt offering to finance its substantial AI investments.",
+              "sources": [
+                {
+                  "title": "Meta Kicks Off Debt Offering in Push to Fund AI Investments",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0x3bUYydl9CYlNVOHlNaVZrMFgxU29fQVo4Yko3SVZvUUxZVkJZOVZUenRyZkxIREoxdE50MUFoY2FlMHY1Tm1xRmNKOW1FQ1phSkdoc1d5dGV2ZlV1ejVPNUI4b0dWeTMtVWV6WEh4bFZIcnlTNG9SZ3pOSzhxaDJleFdYVnVTV2RSSVRsQ21SUktPd2Z1TmtGLVF0RjNrSTI4Z1BkR2Q0YjFaSkdv?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Elon Musk's Grok AI chatbot sees continuous development and new features.",
+          "segments": [
+            {
+              "text": "Musk highlights ongoing fixes, features, and powers being added to Grok, emphasizing user feedback.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2117033967782113327"
+                }
+              ]
+            },
+            {
+              "text": "A new feature will enable Grok to research and purchase gifts for friends and family.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@elonmusk",
+                  "url": "https://x.com/elonmusk/status/2116989604104392969"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "AMD",
+      "note": "Strong AI chip demand and Korean partnership suggest continued momentum.",
+      "sources": [
+        {
+          "title": "리사 수 AMD CEO \"한국은 AI 미래 핵심…협력·투자 확대\"",
+          "link": "https://n.news.naver.com/mnews/article/008/0005436353?sid=105",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "AMD Forecast Exceeds Estimates After AI Chip Demand Soars",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYURlOUxxRUMybEdmbkJoTHZiZEVTTUtCN0gyZ1RsV0s3YlEteXR1NFZIWDNwXzJKTUdCRUpJY0RWNlRqVC02M0VaMFgtY0piUFNGSkhKQmZ3bTVwMHFERHN6ZExPSnVFbWdBWDYxQnNnX0RJRnF6QVlld0FBeDhySGlrUEZ4bEtmWkkybFFVRU9EcnhRd2F5c1M1eGc2OFk5VG95X0dUa1dWUGhPZzJJ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "AMD Projects Rapid Revenue Acceleration in Fourth Quarter",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMkI0a29XRFNuRVB1Ym1abUVUT1VqZVZEZmtGMkFvbEI4cl9paEE4TFlST2hUeWZfN3hGMGpiQ3NZUjY3YzBOSmF2dDg4czY3dzY3N1pJcUFCZzlXc3J5eVpsWHA1WjJGUlJNTWQ4OFFHV25CSGY3TFBoQ3hKQ1hIOUh3enhXRnBDY0E3WURuM21fOE1MUUhFb1ZZdw?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Super Micro",
+      "note": "AI server demand drives positive revenue forecasts.",
+      "sources": [
+        {
+          "title": "Super Micro forecasts quarterly revenue above estimates on strong AI server demand",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGxzdV85Qy15NnlQQ1Z0b0Rxbno1UFp3STZ6YVhKS0N5cUpyREUwR2c4ajMxRjJEUWE5SEdoMmJWR0Q2YnhfV3ExZHpvNVlKZ0ItUVE2S0E5QmZ4c0ZoUVJsaUNwX181dVI5aXdtZGpBLTBqZWlWYkMwYjc0YU1landiYkg2SVN5YjlqeEVNYURfX0ZBajlOM2pmU1pfMmpqaHFkTGFicmYzSlRaTnlpZ29WV05TckpKcVBqZGwycmktUQ?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Palantir",
+      "note": "Despite strong revenue growth, investor expectations remain high, warranting close monitoring.",
+      "sources": [
+        {
+          "title": "Palantir nearly doubles 3Q26 revenue, riding wave of commercial demand",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXNja241Uk9YY1V4SmdobWhWX0Z6NUtUemdMaVlvMnA0VWQ3YUdqSUU2Y2lJVFN6cjc2RHhCUm00Qk90RkZKa3FBb2dEeDVJX2hjc1VRR1B5dzd5WUhLbV8wQUlCeU5rbEtKaUpVV19hRnZFb2ZzVUMtNnc5X1BNRXFQSVhKNWluNTZ4N1pia2VYenA5STdEZ0tpakc?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        },
+        {
+          "title": "Palantir is the latest victim of investors' sky-high earnings expectations",
+          "link": "https://www.businessinsider.com/palantir-stock-falls-high-earnings-expectations-ai-trade-tech-pltr-2026-11",
+          "source": "Business Insider Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies & more",
+          "link": "https://www.cnbc.com/2026/11/03/stocks-making-the-biggest-moves-premarket-pfe-pltr-aapl-zbra.html",
+          "source": "CNBC Finance",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Fed",
+      "note": "Global inflation and dollar strength will keep the Fed's policy under scrutiny.",
+      "sources": [
+        {
+          "title": "Swiss Inflation Jumps to Highest Since 2023 as Energy Costs Climb",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTh1ZHB4cXRqMXNRTG1OLVR3ckMzRGprZnp4d203SEtfU2tVSEtpM1ZsODJXdWpfQXM0NnJtZDB1c216ZUJOR2h2bzN4Zk5CZFQ5NFBzQkZYam5DZnlkUUpzOTJpbWFDVThtcFdoYXhubm4ycmFwbDNaNkNBOHFlbmxsZGNyS0c4TXhrdlhsU1RFdFc4TTRJdnplT1lXb0lTUklCRUIxeDE4WkxwVnN2V2h3?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Dollar Rises Most in a Month on Higher US Yields, Strong Data",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFQ3WWNUdmpsME9pTGJxOEVCZGZoNkZ0RDV2dFZMcDVRUTAycFRwNUFRNWdwbHBmTHV6SlRhOW96SkFIVlc0cDRpdXRUM3R5MVphNmJDZlpKdGgxV1BHVzRDU0FRRnNFVmMtU1VKM1dXN1I0V19HdHAwcTFPU3JDUHZkRGNQUV9yaHNvTldzVmM5Qi1ZNUhTU0ppb0VINnF1Vm9wTC05WjZlMTU1MnY1czEyRmI?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Australia hikes rates to 18-year high to fight inflation",
+          "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+          "source": "CNBC Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Google",
+      "note": "AI policy changes for schools and search integration will be key.",
+      "sources": [
+        {
+          "title": "Google Curbs AI in School Accounts After Pushback",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEpoOVBCTWZMaE5yTk5JeG0tX0FWdk5OZkY1d1dWQXQycUZGR2xwTks3VDlNaTJENmF6ZjM1QzFTN3QzRENuNFFlUjRqdk1FTW5WSWRDU2o3N1dEMEJsaFEzUGt2NGEyUXhXSHB6dF92R2U4d0U4SUN4UHN6LVhCNnJWamlqM2NzenBDWjAyVQ?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        },
+        {
+          "title": "Google Gives Schools More AI Control, But Requires AI for Search",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTlR1TmduTllfT2VFM2tEczhQNFpSWVZ5TTBHSlVKZnZObmtyQjlKSnJPWURXU0gtN3FYZEdlcjhfeWJielN3OUd3b3U3UlJTeEoyeDE0bVJES1plcW1JUFUtYnR3NzZ3WGZ3dDQyUXQ5UDJIQ3ZsSkYyd3RaanB5bXFQbldBN1pQYV80VWNhRExiQ1NQTmc?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        },
+        {
+          "title": "Google Will Cut Off Search Engine Access To Schools Banning Generative AI",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOU9DYnFLdUJNeXVzdV9TV2hVWnhXQnZTdGk1UmVreHdOLUU4RUFnUmM4SVRGR0dDcVdDQmJvN09LRzg0eVRTOEpZTERHcU9QcGlacGxHNlZ1V0xWSEVNcEUyTTA5TmN1dDBvWHM5Q0lSWDlDX0VQdnpOSERXU2FVUms5eWVkZ1o4cjU5WEQxNjRoaF9malMyazVPaXY3cEFFWlJGLW1sUUhfZHNnRzlKM1RtcklBSEsyNkdKX3puYmh1TzdRb0E?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Grok AI chatbot development",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk highlights continuous fixes, features, and powers being added to the Grok AI chatbot, emphasizing user feedback for improvements.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2117033967782113327"
+        }
+      ]
+    },
+    {
+      "topic": "Grok AI gift research and purchasing feature",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk announces a new feature for the Grok AI chatbot, enabling it to research and purchase gifts for friends and family.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2116989604104392969"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 1,
+  "x_generated_at": "2026-11-02T02:12:59+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7568.92,
+      "change": 26.59,
+      "change_pct": 0.35
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 25372.01,
+      "change": 201.06,
+      "change_pct": 0.8
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 51786.72,
+      "change": -200.99,
+      "change_pct": -0.39
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2812.45,
+      "change": 6.88,
+      "change_pct": 0.25
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 61331.07,
+      "change": -1733.44,
+      "change_pct": -2.75
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 23477.44,
+      "change": -48.53,
+      "change_pct": -0.21
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5583.23,
+      "change": -66.2,
+      "change_pct": -1.17
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 43187.5,
+      "change": -12.83,
+      "change_pct": -0.03
+    }
+  ],
+  "story_count": 57,
+  "bucket_count": 14
+}
