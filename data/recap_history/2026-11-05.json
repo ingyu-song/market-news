@@ -1,0 +1,620 @@
+{
+  "generated_at": "2026-11-05T01:57:51+00:00",
+  "mode": "daily",
+  "for_date": "2026-11-05",
+  "headline": "Blue Wave Shifts US Policy, Markets Rally; Oil Plunges on Iran Hopes",
+  "summary": "US markets saw a strong rally post-midterm elections, with the Dow gaining 1,500 points, as a Democratic sweep eased geopolitical tensions and lowered Treasury yields. Oil prices plunged over 8% on increased bets for an Iran war exit, while AI infrastructure and data center stocks faced headwinds. South Korea reported a record current account surplus of $61.46 billion in September, driven by surging semiconductor exports.",
+  "sections": [
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Midterm elections delivered a \"Blue Wave,\" shifting the political landscape.",
+          "segments": [
+            {
+              "text": "The Democratic sweep led to a strong market rebound, though Trump Media\b's shares fell to a record low, with DJT stock tanking 25%.",
+              "sources": [
+                {
+                  "title": "Trump Media’s Shares Fall to Record Low After Midterms",
+                  "link": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Trump’s Net Worth Tumbles $168 Million As DJT Stock Tanks 25%",
+                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0ZnR2RBTzUyYVhicDNJejBuM1dYU2ZCZGxwRy05VEZHdTdkYV8wVWF3OE1BQzZpeGdWdDcyTkNJT3oteENQZmY1NUFOT3NPcnoyY0RvTFFnMGZ2TS1oM24wb2diajliYWVPQTJlb1otNVRiT3g0b3JPNk9jSGE2UXNlRlhjeE5zUUNxcXRlNF9XbU5ZdEFrZk9wVFRpMHVMY0RGVjdURF81UnlSektzZlVOcENReDNrMV85eUt6bGg0YXY0NGc?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The election outcome limits Trump's options on Iran and his ability to influence the Fed.",
+          "segments": [
+            {
+              "text": "Analysts suggest Trump faces mostly bad options in Iran and can no longer easily pack the Fed board with allies.",
+              "sources": [
+                {
+                  "title": "After midterm defeat, Trump faces mostly bad options in Iran",
+                  "link": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "SpaceX and Tesla stocks tumbled following the defeat of Elon Musk-backed candidates.",
+          "segments": [
+            {
+              "text": "This contributed to a broader decline in AI-linked stocks despite overall market gains.",
+              "sources": [
+                {
+                  "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
+                  "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                },
+                {
+                  "title": "Stocks making the biggest moves premarket: Trump Media, Tesla, CoreWeave, Novo Nordisk and more",
+                  "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-premarket-djt-tsla-crwv-nvo.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "The 10-year Treasury yield slid as traders reacted to Democratic midterm victories.",
+          "segments": [
+            {
+              "text": "Gold held above $4,000, with the dollar and yields falling.",
+              "sources": [
+                {
+                  "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVJrRWVPZ19DM1pLb3UzNEtBc0hseHNtMUY4RTRTRDdMb3Fnb19MM200Q05YNG8yN1VFYURtNjdqTE1EQUgxZG41R3ZQa0t3Z2JpQjFYUEY4VVlhLVk2dzR0dmhaaWdlUmdINE9Cb1cwRVdpbHJNTGZsejlmYkluVmdOSEZEVEpudmFZNENkZzFWSnFELUViV2NNTGUzUHBuMU9Wa3dpclhyZ2hPVUJTVGV4cw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+                  "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The election results are seen as stiffening the Fed's guardrails, preserving its independence.",
+          "segments": [
+            {
+              "text": "This outcome reduces the risk of Trump packing the Fed board with allies.",
+              "sources": [
+                {
+                  "title": "Election stiffens the Fed's guardrails, but independence risks remain",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Trump can't pack the Fed board with allies now",
+                  "link": "https://www.axios.com/2026/11/04/fed-trump-appointees-democrats",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "South Korea's current account surplus surged to a record $61.46 billion in September.",
+          "segments": [
+            {
+              "text": "This was a 4.3x increase year-over-year, primarily driven by a sharp rise in semiconductor exports.",
+              "sources": [
+                {
+                  "title": "9월 경상흑자 614억6000만달러…전년 대비 4.3배",
+                  "link": "http://www.newskr.kr/news/articleView.html?idxno=107726",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "bullets": [
+        {
+          "lead": "Oil prices plummeted on hopes for an end to the US-Iran conflict following the midterm election results.",
+          "segments": [
+            {
+              "text": "WTI crude fell below $100 per barrel, with an 8% plunge.",
+              "sources": [
+                {
+                  "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Oil Steadies After 8% Plunge on Hopes for End to US-Iran War",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Oil tumbles below $100 on post-election peace hopes",
+                  "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Oil prices plunge after Vance post on Iran war",
+                  "link": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Canada and China extended a tariff deal aimed at boosting Canadian exports.",
+          "segments": [
+            {
+              "text": "This indicates ongoing trade relations despite broader geopolitical tensions.",
+              "sources": [
+                {
+                  "title": "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Taiwan and the Netherlands launched four new photonics R&D partnerships.",
+          "segments": [
+            {
+              "text": "This collaboration highlights strategic technology development.",
+              "sources": [
+                {
+                  "title": "Taiwan-Netherlands launch four photonics R&D partnerships",
+                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzBqYzVkZEZraFJaY2d2RF8tYlZUbVQ4X0lJQlZwd1RNNmgtcXdYZ0hBaVB6V05YRVFDM2xsZUUtM0VzWU5USFVkQ0JaTWJBa0V3S0Q5dU1MZDFsa1hQUWtuZ0dIdXNDNWtxY2FhblB6YjhvQmRDSHJGMXYxTzFkTXhIeEk4LWpxOEFjeWZpVWVKOVczOGw4NU1ZRFFFQnJTUi10eg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "bullets": [
+        {
+          "lead": "Google is reportedly considering Samsung for partial production of its next-generation AI chip, Icefish.",
+          "segments": [
+            {
+              "text": "This 10th-gen TPU, expected by 2028, may see Samsung produce memory I/O dies on its 2nm process, while TSMC handles the core compute on 1.4nm, due to TSMC's tight capacity.",
+              "sources": [
+                {
+                  "title": "DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock",
+                  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGRBckZVeEZkNnIyXzNlUnUtZDJrLWdoTU1XbXhqc1pDbUFuNnFRbjA5Sy1fck83enhuOTVmNnc3ckFWdk5GNVhTdE1VNVpRZ19QUW1rMG5Zd2hqZlpnX1dpcmc2djg3b0QxY2h2ei1BU0QzVTktMFpIbWZxcnRsaWRFS1hJUV9ORDlQUg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Arm's quarterly revenue rose 27%, with licensing outpacing smartphone-weighed royalties.",
+          "segments": [
+            {
+              "text": "The company forecasts third-quarter revenue above estimates, driven by an AI spending boom.",
+              "sources": [
+                {
+                  "title": "Arm's quarterly revenue rises 27% as licensing outpaces smartphone-weighed royalties",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSE5JaDBRUUljWkNBUTQtb0NBckNOZ1JVZmgxUXpGX0NMcnN0R3h2NEEtMTlxb3NlWEpXZFhMMV9JZGpmUjdQNkNfYjhDRXRpNDV0aWhpWlZ6LS1aUHRRMkdjWl8ya1dXQU1paFIyZGdSV1hMVFpDT3ZvZ2U0bHo5eUY5bEFzMHFCeFE1RmJLMmlCMHBf?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                },
+                {
+                  "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Leading semiconductor equipment suppliers are securing equipment supply contracts for 2028 and discussing 2029 POs.",
+          "segments": [
+            {
+              "text": "This is driven by chipmakers' concerns over future capacity.",
+              "sources": [],
+              "x_mentions": [
+                {
+                  "handle": "@jukan05",
+                  "url": "https://x.com/jukan05/status/2117796874392609013"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Energy / Commodities",
+      "bullets": [
+        {
+          "lead": "Oil prices experienced a significant decline, falling below $100 per barrel.",
+          "segments": [
+            {
+              "text": "This 8% plunge was attributed to hopes for an end to the US-Iran war after the midterm election results.",
+              "sources": [
+                {
+                  "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                },
+                {
+                  "title": "Oil Steadies After 8% Plunge on Hopes for End to US-Iran War",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                },
+                {
+                  "title": "Oil tumbles below $100 on post-election peace hopes",
+                  "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                },
+                {
+                  "title": "Oil prices plunge after Vance post on Iran war",
+                  "link": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Gold held above $4,000 as the dollar and Treasury yields fell.",
+          "segments": [
+            {
+              "text": "This movement was in response to the Democratic midterm victories.",
+              "sources": [
+                {
+                  "title": "Gold Holds Above $4,000 as Dollar, Yields Fall on Midterm Result",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVJrRWVPZ19DM1pLb3UzNEtBc0hseHNtMUY4RTRTRDdMb3Fnb19MM200Q05YNG8yN1VFYURtNjdqTE1EQUgxZG41R3ZQa0t3Z2JpQjFYUEY4VVlhLVk2dzR0dmhaaWdlUmdINE9Cb1cwRVdpbHJNTGZsejlmYkluVmdOSEZEVEpudmFZNENkZzFWSnFELUViV2NNTGUzUHBuMU9Wa3dpclhyZ2hPVUJTVGV4cw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "Arm reported a 27% increase in quarterly revenue, with strong licensing performance.",
+          "segments": [
+            {
+              "text": "The company also provided an optimistic third-quarter revenue forecast, citing an AI spending boom.",
+              "sources": [
+                {
+                  "title": "Arm's quarterly revenue rises 27% as licensing outpaces smartphone-weighed royalties",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSE5JaDBRUUljWkNBUTQtb0NBckNOZ1JVZmgxUXpGX0NMcnN0R3h2NEEtMTlxb3NlWEpXZFhMMV9JZGpmUjdQNkNfYjhDRXRpNDV0aWhpWlZ6LS1aUHRRMkdjWl8ya1dXQU1paFIyZGdSV1hMVFpDT3ZvZ2U0bHo5eUY5bEFzMHFCeFE1RmJLMmlCMHBf?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                },
+                {
+                  "title": "Arm forecasts third-quarter revenue above estimates on AI spending boom",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGV2UGo5V1FRUGxkUzdPWVo1NGhFM2lvM2N5NVUycUUya2VIX3N2aHM5am8tNUhCQ21oMng4LVQ2UllCWnRpdlNqUDd4MTM2ZVhpUTBlR3NQTTdBZFNMVlRDVV9LQ2d4Vjc1M0ZBcldwZmVEaGpDTENnVHR2bmp3Sm9ENnF6YWU1TDRjcmxiSWQwTjY5clQwb2V2a1JMdUhxLXRfLUZwUlNwR0Rob1E?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "GlobalFoundries saw a 13% rise in revenue, as data center demand offset a decline in mobile.",
+          "segments": [
+            {
+              "text": "In contrast, Qualcomm's September-quarter revenue fell 8% due to the handset slump, despite gains in automotive.",
+              "sources": [
+                {
+                  "title": "GlobalFoundries revenue rises 13% as data center demand offsets mobile decline",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG9qYXNPNlFnWVp6dGtBekZaSHZUa1FyeC1IQUxiMmI4a3JWc1BsMGZkcFRqM2s0ZmtjM2dZYl9oSUU0Y01Kbmtmb1ZEaVhEbnhFdXhlV1RJSnduMXdLMVlndDBVazhkMkt6Y1RFbDBSQ0M3NTdsUGZ3WXNBeE9jWU13ZGdiUWJxZ0NONC0zcTVteWVXQ01RbklCLVNGMDJmQ0E?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "EcoPro BM's Q3 performance was weak, with operating profit down 76%.",
+          "segments": [
+            {
+              "text": "This decline was attributed to a slowdown in the North American electric vehicle market.",
+              "sources": [
+                {
+                  "title": "에코프로비엠, 북미 전기차 시장 둔화에 3Q 실적 부진...영업익 76% 급감",
+                  "link": "https://www.livebiz.today/news/articleView.html?idxno=206234",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Fed",
+      "note": "Midterm results may reinforce Fed independence; watch for any shifts in monetary policy outlook.",
+      "sources": [
+        {
+          "title": "Election stiffens the Fed's guardrails, but independence risks remain",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Trump can't pack the Fed board with allies now",
+          "link": "https://www.axios.com/2026/11/04/fed-trump-appointees-democrats",
+          "source": "Axios",
+          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oil",
+      "note": "Geopolitical developments around Iran will continue to drive price volatility after the post-election slump.",
+      "sources": [
+        {
+          "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Oil Steadies After 8% Plunge on Hopes for End to US-Iran War",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        },
+        {
+          "title": "Oil tumbles below $100 on post-election peace hopes",
+          "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        },
+        {
+          "title": "Oil prices plunge after Vance post on Iran war",
+          "link": "https://www.axios.com/2026/11/04/oil-prices-plunge-midterms-vance-democrats-iran",
+          "source": "Axios",
+          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Samsung Electronics",
+      "note": "Google's potential consideration for next-gen AI chip production could boost its advanced foundry prospects.",
+      "sources": [
+        {
+          "title": "DIGITIMES Insight: TSMC, ASML's 2031 photomask target puts High NA EUV suppliers on the clock",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGRBckZVeEZkNnIyXzNlUnUtZDJrLWdoTU1XbXhqc1pDbUFuNnFRbjA5Sy1fck83enhuOTVmNnc3ckFWdk5GNVhTdE1VNVpRZ19QUW1rMG5Zd2hqZlpnX1dpcmc2djg3b0QxY2h2ei1BU0QzVTktMFpIbWZxcnRsaWRFS1hJUV9ORDlQUg?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "AI Infrastructure",
+      "note": "Data center stocks tumbled post-election; monitor for further capex adjustments by hyperscalers.",
+      "sources": [
+        {
+          "title": "美 중간선거 '블루 쓰나미'에 AI 인프라 급제동…데이터센터 1000곳 건설...",
+          "link": "https://www.widedaily.com/news/articleView.html?idxno=302937",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+        },
+        {
+          "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWpBY1VHMFd5a2tJXzM1RFFFQTl5Y09aVDgza095UkJKVzNnQ3F4VW1pMzBEazJKMGhlS21zUEdCLXJPOVhWdXRnZmlLRHliMDdqYmt2b2ZWYk5FeW85VnBSalpRd1E5b3BVSUZDU2VLMUNiQm41YWw1SUgxV2dWaUFZUkI2MllhY0Z5ZkZHcWNuQmdCaHBKbVRhck1meTRz?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        },
+        {
+          "title": "Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYVJ5WmdRNU81TGVkcGpRby1jRGx5QnV6ZVFUUTgxc1U1Q2JxOUFCYXNrQVhnTlZMRlhGdW80RUZObUVudjl6QTlNVlM4X2t4ek9KNkw1N3dyVG1jUUVuZFlyb0drYm55Z29DNVctWjVYQVJIVDVaeHZXR1Q4SkVHaW9aS2hYWWNEbGhrc1JNcjBQbXVDUjl4MEZIUFFYS1RHOFp1R0FFdDV2NjZJb1lVb05PTDZOTF81RWJhUGFESQ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    }
+  ],
+  "x_themes": [
+    {
+      "topic": "Semiconductor equipment suppliers securing 2028-2029 POs",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "Leading semiconductor equipment suppliers (AMAT, ASML, LRCX, TEL, KLA) are finalizing equipment supply contracts for 2028 and discussing 2029 POs, driven by chipmakers' concerns over AI dominance and extended lead times. This trend of early ordering is expected to continue through at least 2030.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2117796874392609013"
+        }
+      ]
+    },
+    {
+      "topic": "AAOI InP supply agreement with Yunnan Germanium",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "AAOI secured a significant Indium Phosphide (InP) supply agreement with Yunnan Germanium for $194M, covering 180k 4-inch wafers at a cost of $1077 per wafer.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2117681468738777552"
+        }
+      ]
+    },
+    {
+      "topic": "Market reaction to Abbott's potential loss",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Citrini questions why market futures are not down more given the expectation of Abbott losing by 4-5 points.",
+      "mentions": [
+        {
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2117812815239262664"
+        }
+      ]
+    },
+    {
+      "topic": "Upcoming article on chip substrates",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "@damnang2 is preparing to publish an article on chip substrates this week, indicating recent significant news flow in the area.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2117674282818195509"
+        }
+      ]
+    },
+    {
+      "topic": "Elon Musk promotes Grok for making calls",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk suggests using Grok, an AI bot, for making calls, highlighting its potential application.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2117722703738310713"
+        }
+      ]
+    }
+  ],
+  "x_account_count": 5,
+  "x_generated_at": "2026-11-04T02:57:50+00:00",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "group": "US",
+      "price": 7688.62,
+      "change": 120.04,
+      "change_pct": 1.59
+    },
+    {
+      "name": "Nasdaq",
+      "symbol": "^IXIC",
+      "group": "US",
+      "price": 25736.51,
+      "change": 370.84,
+      "change_pct": 1.46
+    },
+    {
+      "name": "Dow Jones",
+      "symbol": "^DJI",
+      "group": "US",
+      "price": 53356.12,
+      "change": 1579.45,
+      "change_pct": 3.05
+    },
+    {
+      "name": "Russell 2000",
+      "symbol": "^RUT",
+      "group": "US",
+      "price": 2856.95,
+      "change": 43.36,
+      "change_pct": 1.54
+    },
+    {
+      "name": "Nikkei 225",
+      "symbol": "^N225",
+      "group": "Asia",
+      "price": 61785.7,
+      "change": -235.63,
+      "change_pct": -0.38
+    },
+    {
+      "name": "Hang Seng",
+      "symbol": "^HSI",
+      "group": "Asia",
+      "price": 24502.99,
+      "change": 583.49,
+      "change_pct": 2.44
+    },
+    {
+      "name": "KOSPI",
+      "symbol": "^KS11",
+      "group": "Asia",
+      "price": 5439.79,
+      "change": -211.24,
+      "change_pct": -3.74
+    },
+    {
+      "name": "TAIEX",
+      "symbol": "^TWII",
+      "group": "Asia",
+      "price": 42151.0,
+      "change": -840.0,
+      "change_pct": -1.95
+    }
+  ],
+  "story_count": 67,
+  "bucket_count": 14
+}
