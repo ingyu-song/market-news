@@ -1,0 +1,188 @@
+{
+  "generated_at": "2026-11-07T01:32:37+00:00",
+  "mode": "weekly",
+  "for_week_start": "2026-11-01",
+  "for_week_ending": "2026-11-07",
+  "days_covered": 7,
+  "headline": "Weekly tape, by editorial weight",
+  "summary": "Compiled from 7 daily recap(s). Themes ordered by coverage volume across the week.",
+  "themes": [
+    {
+      "label": "US Semis / AI Chips",
+      "narrative": "US Semis / AI Chips accounted for 21 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "narrative": "China / Tariffs / Geopolitics accounted for 19 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "narrative": "Fed / Rates / Macro accounted for 18 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "Earnings / Guidance",
+      "narrative": "Earnings / Guidance accounted for 18 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "narrative": "Software / Internet / Platforms accounted for 14 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    }
+  ],
+  "watchlist": [],
+  "x_themes": [
+    {
+      "topic": "Semiconductor equipment suppliers securing 2028-2029 POs",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "Leading semiconductor equipment suppliers (AMAT, ASML, LRCX, TEL, KLA) are finalizing equipment supply contracts for 2028 and discussing 2029 POs, driven by chipmakers' concerns over AI dominance and extended lead times. This trend of early ordering is expected to continue through at least 2030.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2117796874392609013"
+        }
+      ]
+    },
+    {
+      "topic": "AAOI InP supply agreement with Yunnan Germanium",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "AAOI secured a significant Indium Phosphide (InP) supply agreement with Yunnan Germanium for $194M, covering 180k 4-inch wafers at a cost of $1077 per wafer.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2117681468738777552"
+        }
+      ]
+    },
+    {
+      "topic": "Market reaction to Abbott's potential loss",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Citrini questions why market futures are not down more given the expectation of Abbott losing by 4-5 points.",
+      "mentions": [
+        {
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2117812815239262664"
+        }
+      ]
+    },
+    {
+      "topic": "Upcoming article on chip substrates",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "@damnang2 is preparing to publish an article on chip substrates this week, indicating recent significant news flow in the area.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2117674282818195509"
+        }
+      ]
+    },
+    {
+      "topic": "Elon Musk promotes Grok for making calls",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk suggests using Grok, an AI bot, for making calls, highlighting its potential application.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2117722703738310713"
+        }
+      ]
+    },
+    {
+      "topic": "Grok AI chatbot development",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk highlights continuous fixes, features, and powers being added to the Grok AI chatbot, emphasizing user feedback for improvements.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2117033967782113327"
+        }
+      ]
+    },
+    {
+      "topic": "Grok AI gift research and purchasing feature",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk announces a new feature for the Grok AI chatbot, enabling it to research and purchase gifts for friends and family.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2116989604104392969"
+        }
+      ]
+    },
+    {
+      "topic": "Anthropic's premium payment to SpaceX",
+      "category": "out_of_ai",
+      "subcategory": "space",
+      "summary": "Anthropic reportedly paid a significant premium to SpaceX, contrasting with its price renegotiations with other cloud providers.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2116707485801381938"
+        }
+      ]
+    },
+    {
+      "topic": "Intel's restructuring and management issues",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "Intel has undergone restructuring and layoffs in recent years, but there are concerns about the effectiveness and competence of its former management.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116689411115253873"
+        }
+      ]
+    },
+    {
+      "topic": "Qualcomm's core business pressures and restructuring",
+      "category": "sectors",
+      "subcategory": "cpu",
+      "summary": "Qualcomm is facing significant pressure across its core businesses, including Snapdragon (due to Exynos and Apple's modems) and RF, leading to recent layoffs and a need for strategic restructuring beyond cost-cutting.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116684045736374398"
+        }
+      ]
+    },
+    {
+      "topic": "Research on semiconductor substrates",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "An analyst is actively researching and preparing an article on semiconductor substrates.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116658914385449145"
+        }
+      ]
+    },
+    {
+      "topic": "Market bottoming and November rebound prediction",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "An analyst predicts the market is poised to bottom out and begin a rebound in November.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2116657889473605902"
+        }
+      ]
+    }
+  ]
+}

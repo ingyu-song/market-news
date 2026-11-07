@@ -1,42 +1,24 @@
 {
-  "generated_at": "2026-11-06T01:58:36+00:00",
+  "generated_at": "2026-11-07T01:32:37+00:00",
   "mode": "daily",
-  "for_date": "2026-11-06",
-  "headline": "KOSPI plunges 8% amid AI chip selloff; US midterms weigh on tech, yields.",
-  "summary": "South Korea's KOSPI index halted trading after an 8% wipeout, driven by escalating AI chip sector concerns. US midterm election results fueled market uncertainty, with tech and EV stocks extending losses and Treasury yields sliding. Political fallout saw former President Trump's net worth tumble as he blamed Democrats for broader market declines.",
+  "for_date": "2026-11-07",
+  "headline": "China / Tariffs / Geopolitics leads today's tape",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 66 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
-      "label": "Trump 2.0 / US Policy",
+      "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "US midterm election results led to market uncertainty and declines in tech and EV stocks.",
+          "lead": "마이크론, 노조와 성과급 갈등에 대만 HBM 공장 건설 사실상 중단.",
           "segments": [
             {
-              "text": "SpaceX and Tesla stocks tumbled following the defeat of Elon Musk-backed candidates in Texas, extending losses and clouding data center and merger outlooks.",
+              "text": "",
               "sources": [
                 {
-                  "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
-                  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                },
-                {
-                  "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
-                  "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Former President Trump's net worth fell over $200 million as DJT stock plunged amidst the political shifts.",
-              "sources": [
-                {
-                  "title": "Trump’s Net Worth Tumbles Over $200 Million As DJT Stock Plunges",
-                  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFFFQkEyRVVLRllqMEFaQjlVVlVyd1R0UU5VS3psMlhaV0JDdlVGV2ZEVHAxaTdyUW9rUzlDdUlGTjkwSDlrdFRXbmp3U1F5ZFg0Nnl4ejRDd2tGVzlZWDJHbG5SUjFSNkRnTTd6RTFZampVNDN3NzZvQVBFQnlfNnZOcDI5eXUyNVZjS3JpaV9kVlUwV0VMRXowVWRMdjkxa3BVdU16VWZlRXpEdEpvcEFBa0tHNU5reDJqSjFxM2hQU2hKWHhR?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "마이크론, 노조와 성과급 갈등에 대만 HBM 공장 건설 사실상 중단",
+                  "link": "https://n.news.naver.com/mnews/article/011/0004679704?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -44,40 +26,145 @@
           ]
         },
         {
-          "lead": "Trump attributed significant market losses to Democratic midterm successes.",
+          "lead": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses.",
           "segments": [
             {
-              "text": "Trump pointed fingers at Democrats for massive stock market losses, urging voters to blame themselves for the rout.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Trump Points Finger at Democrats Over Massive Market Losses",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWk5EZ2ZpTjRveG85SUIxeWE1OTBGU3ljanRHSXk4bktSakplVzhLUjhSU3BZb0llVXJsblRUWjRlWElmSEpKMlpfT1Z0cXhxbEdraGZHQ0hma2p4T3o5bl9UU0dTWjZJOHdNcGZuQ0M2SEozMG1RamRYOWRBck01MzZRMXFoR0ZrQ1EzUHlBNlVjOGx4Vy1vZTJKcVY5MDdrWDJfazRfa2VvbUtmQk04?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                },
-                {
-                  "title": "Trump says voters should blame themselves for stock market rout",
-                  "link": "https://www.axios.com/2026/11/06/trump-stock-market-sell-off",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                },
-                {
-                  "title": "Trump Blames Massive Stock Market Selloff On Democrats’ Midterm Success",
-                  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjZvaEVyTm5RN1hBZU81MUszQzNZMWR0OGpWa1hTQXpuZ3haXzVzbEVVZ3o2LUxLeTdETDZYWlhnZndDQnJvRlFFcElFM3B0YjlRcklOcFhOdkNrZjlDbFZIcnp2b2djbUpLamhEUkdOc05BcDhnLUt2NURZZ3FDNmwyQW13aHNoY3k0YVZtemZSbEY1V3FhM3hkVGYwbnlsVENNZDZNalNaTndyak93eF9rbTRXLWR3OTMwMjI2d3g1WFo1a3I4?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay.",
+          "segments": [
             {
-              "text": "However, voters largely cited the economy as their primary concern and held Trump responsible for their financial troubles.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
-                  "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjlZNndUUWszSWpsTnNaZXdjZXF4Y1ZSNzhWT083RERweFdKMUFpX2NNRFhSUnozeFk4VElJdHM3Z3V0U3JEU1d4U19ZVmN2Z3RGYnVoaXZrR3JyWmpCV05FVkpmTDU1NnpHUVp2RlRTbThMb1hFdVU5X2VFbW5JWmNlOTBXam9Ga1Y0RFlwMUF6ODZUY0Riby1aeXB4U18wUzhXRENwQmhTNWRHYk9KSFJ3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "bullets": [
+        {
+          "lead": "프랑스 재정위기 우려 확산…국채금리 급등 60만명 거리 시위.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "프랑스 재정위기 우려 확산…국채금리 급등 60만명 거리 시위",
+                  "link": "https://n.news.naver.com/mnews/article/011/0004679703?sid=102",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "As tech swoon roils market, US inflation data on tap.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "As tech swoon roils market, US inflation data on tap",
+                  "link": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US Treasury sanctions Canadian money services firms over Iran-related transactions.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+                  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "bullets": [
+        {
+          "lead": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjlZNndUUWszSWpsTnNaZXdjZXF4Y1ZSNzhWT083RERweFdKMUFpX2NNRFhSUnozeFk4VElJdHM3Z3V0U3JEU1d4U19ZVmN2Z3RGYnVoaXZrR3JyWmpCV05FVkpmTDU1NnpHUVp2RlRTbThMb1hFdVU5X2VFbW5JWmNlOTBXam9Ga1Y0RFlwMUF6ODZUY0Riby1aeXB4U18wUzhXRENwQmhTNWRHYk9KSFJ3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
+                  "link": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -90,201 +177,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Major chipmakers experienced a significant selloff.",
+          "lead": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나.",
           "segments": [
             {
-              "text": "Nvidia, Micron, and Intel plunged amidst a worsening chipmaker selloff, impacting the broader semiconductor sector.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Nvidia, Micron, Intel Plunge In Worsening Chipmaker Selloff",
-                  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelJaalRuaTgySnhJTzR4OGhTRXF0Y1R4d3pZN0lxSDZPc2l5LTdsNUM4LWoyX3JGaFNBQ2JsOE9NZW9NRmxyTjlFdTg0N0pVTE5Jd05uOEpNWEJnazM0NlNPM1F3d2xRVEw5RU1SOVJsRnNUcC1TRkNocVJib2h3RmZmUnRDN1RsU0RQQkQzM1BQb2hoMEZsWjM4amJ4cVR3Zlk1NzF3eVR2RUU1cTdEek5EUnpqWmNJLVE0Ul9hRWliM1A1VVpPNkdoTTV6dlk?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Nvidia CEO Jensen Huang's personal wealth also saw a decline, dropping him to No. 9 in billionaire rankings.",
-              "sources": [
-                {
-                  "title": "Nvidia’s Jensen Huang Drops To No. 9 In Billionaire Rankings Amid Chipmaker Selloff",
-                  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVGpfdkk1Mlc2Y1JkV0RBS05HYzR0U3dYY1o4OGNrQV9GTFh4c2hYQjYxNVJRZklkdmc2NUxpMW82dmJSQXlmS3RzR2YyU3otMmhia01DSFhhTFZiT3NIc2E3aEI3U0VxdU5Cb29pNGtCU2UxM3VqU3BiRnFla2FMeWQxbHROQVY5RVZIbjBMNnA3cmk2V3NEamV3bFJiN1hyRXJSS3NiREFiazQ2MDRmQjNQQlFHTF9YOE1QVF9BNjFqQ0hSckQ4TXRNTF9PYnJsTmlkWGdCVFBKVHo4LUE?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Nvidia faces scrutiny and operational challenges.",
-          "segments": [
-            {
-              "text": "Nvidia's CEO was reportedly called in by lawmakers regarding alleged ties to a Chinese spy.",
-              "sources": [
-                {
-                  "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
-                  "link": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "In response to data center backlash, Nvidia is exploring retrofitting Apollo's old phone buildings to expand capacity.",
-              "sources": [
-                {
-                  "title": "Nvidia’s Answer to Data Center Backlash: Retrofitting Apollo’s Old Phone Buildings",
-                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdk42anJHNXZZdl9CY3ZJRGRNODcxR2x5V2tleWNwVkNvSWZaaWN4cW9RUEM3OVo1U0RTWTFoUjV2a3lGZXFHRkpjOGR2OVF2enNVYWpEMTloMVFEMDNLOW00Ul82THNXaTBua3U4c0VKV0lSWEVRZk9IVWVZblRtd3V6TjJUVG1DaUF3WEtfSU9oTE4wODdEN3UtT2dGc3RFMTFyWGpqSTM5UHdTdF84R1R4MmR0NHc?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Semiconductor equipment suppliers are securing long-term orders.",
-          "segments": [
-            {
-              "text": "Leading semiconductor equipment suppliers are finalizing equipment supply contracts for 2028 and discussing 2029 purchase orders, driven by chipmakers' concerns over future capacity.",
-              "sources": [],
-              "x_mentions": [
-                {
-                  "handle": "@jukan05",
-                  "url": "https://x.com/jukan05/status/2117796874392609013"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "bullets": [
-        {
-          "lead": "Hyperscalers face delays and increased oversight in data center projects.",
-          "segments": [
-            {
-              "text": "IREN reported delays in some Microsoft AI infrastructure deliveries, despite topping quarterly revenue estimates.",
-              "sources": [
-                {
-                  "title": "IREN tops quarterly revenue estimates, delays some Microsoft AI infrastructure deliveries",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Microsoft is tightening oversight of its neocloud data center projects, indicating a more cautious approach to expansion.",
-              "sources": [
-                {
-                  "title": "Microsoft tightens oversight of neocloud data center projects, Bloomberg News reports",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0lzRWp3SlczTDBjS2gyYnZPX194TnVxQVZCTWdaTTlScTVVT2dYZU55dGg1eGQ3LXNySlIzaDZ2NkNEMXktTVotakRNZ215bUwzS041X2k4dGFHaEw5VDVLYVpJb3JPYnBWVFNVTkxHTk5zZGhYd01CdmVPazM5X1I3X2xvTGg2Tk9HS3RMQUp4cFRZV2lvdXR6dVAtQVozaWgxMFRrV0N5NDFib3pydHhVdS1ZQWJ1cWc?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "US data center expansion faces potential regulatory hurdles.",
-          "segments": [
-            {
-              "text": "Approximately 40% of planned US data center capacity is located in states considering pauses on new developments.",
-              "sources": [
-                {
-                  "title": "Some 40% of US Planned Data Center Capacity Is in States Wanting to Hit Pause",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWllSzJhdDJkQzRJSGRqb3hTaDJ5SnlFMGhYMDByS3dQRV9BdjR6eXRXSU9Cd2g2UDhlR1A5N2VWNnVkSmtBVzViVGRTdlU1bk90cVNDa3BfVld1aEtyNG5WWUdLYmRMWHhDSklHOUFhZllVcVRCN0NZdnp2NUpyOVF5WnA1Mkd1ZnZlMDFwb3otMldnZV9kdVUteHRBbUlPeHRmWl9DU3NoQUxjQkhwRnR5eDU5dw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Hyperscaler capex is projected to reach $400 billion through 2027, with TSMC capacity expected to become a binding constraint by the second half of 2026.",
-              "sources": [],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Fed / Rates / Macro",
-      "bullets": [
-        {
-          "lead": "Treasury yields declined following midterm results and falling oil prices.",
-          "segments": [
-            {
-              "text": "The 10-year Treasury yield slid as traders assessed the impact of Democratic midterm victories and a drop in oil prices.",
-              "sources": [
-                {
-                  "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-                  "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Central banks are signaling continued monetary tightening.",
-          "segments": [
-            {
-              "text": "Bank of England hiked interest rates for the first time since the Iran war, warning that inflation could approach 5%.",
-              "sources": [
-                {
-                  "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-                  "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                },
-                {
-                  "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-                  "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                },
-                {
-                  "title": "Three ways the interest rate rise could affect you",
-                  "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "Richmond Fed President Barkin indicated that further interest rate hikes are likely, albeit at a gradual pace.",
-              "sources": [
-                {
-                  "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-                  "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            },
-            {
-              "text": "The dollar showed weakness while the Korean Won fluctuated around the 1350 level, reflecting currency market volatility.",
-              "sources": [
-                {
-                  "title": "[포커스] 달러는 주춤, 원화는 휘청…1350원대 환율 향방은",
-                  "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=818311",
+                  "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+                  "link": "https://www.aitimes.com/news/articleView.html?idxno=217123",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -292,47 +192,35 @@
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "Korean Equities",
-      "bullets": [
+        },
         {
-          "lead": "South Korea's KOSPI index experienced a significant market downturn.",
+          "lead": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg.",
           "segments": [
             {
-              "text": "The KOSPI index halted trading after an 8% wipeout, with some reports indicating a collapse below the 5000-point mark.",
+              "text": "",
               "sources": [
                 {
-                  "title": "\"어제가 바닥인 줄 알았는데\"…코스피 5000선마저 붕괴, 서킷·사이드카...",
-                  "link": "https://www.thepowernews.co.kr/view.php?ud=202611061051147057de3f0aa1be_7",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                },
-                {
-                  "title": "South Korea’s KOSPI halts trade after 8% wipeout on AI losses",
-                  "link": "https://www.investing.com/news/stock-market-news/south-koreas-kospi-halts-trade-after-8-wipeout-on-ai-losses-5006208",
+                  "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+                  "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "Arm Holdings Sales Climb 27% on AI Demand.",
+          "segments": [
             {
-              "text": "The sharp decline was largely attributed to escalating concerns over AI regulation and a broader selloff in AI-related stocks.",
+              "text": "",
               "sources": [
                 {
-                  "title": "[코스피 5000 붕괴] 증권가 \"블루 웨이브發 '데이터센터 우려' 과도\"...소...",
-                  "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285213",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                },
-                {
-                  "title": "《韓股》AI監管趨嚴疑慮升溫，KOSPI重挫5.28%",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nQmd0T3dhZWZ6Rm1yWmZ4UVl3WHl2RW9tdWRzWGNIenZGdUhpcVl2LVJyVXNyS3pJbHhDT1g0d2JQME84TVRCRTlZZ2tzcnI2NF9JUUNNLVpONHhQQjBv?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "Arm Holdings Sales Climb 27% on AI Demand",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -342,31 +230,92 @@
       ]
     },
     {
-      "label": "China / Tariffs / Geopolitics",
+      "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Taiwan's tech sector faces ongoing geopolitical risks.",
+          "lead": "Plug Power Q3 2026 earnings preview: Company, analysts optimistic.",
           "segments": [
             {
-              "text": "Macronix chair warned that Taiwan Strait risks are expected to persist until 2027, despite the relentless advance of AI technology.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Macronix chair warns AI will not brake, Taiwan Strait risks persist to 2027",
-                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT05HaVRXTV8xemVBdDhBb2Z0M2lqRVNaSjF4VGRDb3ZBdHBqMm9EU2h3dXVKeDhrMlljeG5OendrNFMzdjFmRVVLc25vb0pfOC0zNTEzdktJUWRzNlQydDgtdlQ5ZnY4R0VIMjFha3JaUmJRWjFOWURtWjMtRmtJU3EtQ0Z6U0tWRzAxbTlqaFJKajRqTVhWRTRodm9mdnFrd2ZVbA?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Plug Power Q3 2026 earnings preview: Company, analysts optimistic",
+                  "link": "https://seekingalpha.com/news/4668473-plug-power-q3-2026-earnings-preview-company-analysts-optimistic?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
                 }
               ],
               "x_mentions": []
-            },
+            }
+          ]
+        },
+        {
+          "lead": "Rocket Lab Q3 earnings preview: Investors await Neutron timeline, growth outlook.",
+          "segments": [
             {
-              "text": "Taiwan's automotive supply chain, including panel makers, is aiming for a global net-zero force and has secured Tier 1 footholds in automotive displays.",
+              "text": "",
               "sources": [
                 {
-                  "title": "Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnR2S0V3aHFPVVhLemVTdGJybmZkbGRkdXhFSVAtVUlhYTV4MlZpTncwWG91Q0JmTXY4cWJIV1BabnoxVDBZNnFzQ1J5c3hIdjNCMG9DUlpnTE00ZmctcUs3VkNVM1ZoTk1VbUE4MkxCZjd3dW1GS2EyUDY1d3hzZThILWExaGJXZU44WHJRVWlTM0pfTTNjX3BXdm1ldF93Sm1EU3U5VlY0STNJcmQ4Qg?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Rocket Lab Q3 earnings preview: Investors await Neutron timeline, growth outlook",
+                  "link": "https://seekingalpha.com/news/4668468-rocket-lab-q3-earnings-preview-investors-await-neutron-timeline-growth-outlook?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "bullets": [
+        {
+          "lead": "Google executive Donald Harrison resigns from SpaceX board.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Google executive Donald Harrison resigns from SpaceX board",
+                  "link": "https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Google executive Donald Harrison resigns from SpaceX board.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Google executive Donald Harrison resigns from SpaceX board",
+                  "link": "https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Meta’s Muse app adds customizable spaces feature.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Meta’s Muse app adds customizable spaces feature",
+                  "link": "https://www.investing.com/news/stock-market-news/metas-muse-app-adds-customizable-spaces-feature-93CH-5009233",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -378,90 +327,66 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Watch for continued volatility following chipmaker selloff and regulatory scrutiny over alleged China ties.",
+      "name": "TRUMP",
+      "note": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
       "sources": [
         {
-          "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy",
-          "link": "https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-        },
-        {
-          "title": "Nvidia, Micron, Intel Plunge In Worsening Chipmaker Selloff",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelJaalRuaTgySnhJTzR4OGhTRXF0Y1R4d3pZN0lxSDZPc2l5LTdsNUM4LWoyX3JGaFNBQ2JsOE9NZW9NRmxyTjlFdTg0N0pVTE5Jd05uOEpNWEJnazM0NlNPM1F3d2xRVEw5RU1SOVJsRnNUcC1TRkNocVJib2h3RmZmUnRDN1RsU0RQQkQzM1BQb2hoMEZsWjM4amJ4cVR3Zlk1NzF3eVR2RUU1cTdEek5EUnpqWmNJLVE0Ul9hRWliM1A1VVpPNkdoTTV6dlk?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Microsoft",
-      "note": "Monitor impact of AI infrastructure delivery delays and increased oversight on neocloud data center projects.",
+      "name": "Nvidia",
+      "note": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
       "sources": [
         {
-          "title": "IREN tops quarterly revenue estimates, delays some Microsoft AI infrastructure deliveries",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+          "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+          "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Tesla",
-      "note": "Further losses possible as midterm election results continue to weigh on Musk-affiliated companies.",
+      "note": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
       "sources": [
         {
-          "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        },
-        {
-          "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas",
-          "link": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+          "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Fed",
-      "note": "Focus on upcoming October jobs report for inflation signals and any further commentary on gradual rate hikes.",
+      "name": "TSMC",
+      "note": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
       "sources": [
         {
-          "title": "The October jobs report is out Friday. Here's everything to expect",
-          "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-          "source": "CNBC Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "KOSPI",
-      "note": "Observe for stabilization after significant market halt and potential for further AI-related selloffs.",
-      "sources": [
-        {
-          "title": "\"어제가 바닥인 줄 알았는데\"…코스피 5000선마저 붕괴, 서킷·사이드카...",
-          "link": "https://www.thepowernews.co.kr/view.php?ud=202611061051147057de3f0aa1be_7",
+          "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217123",
           "source": "Naver 뉴스 · 반도체",
           "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-        },
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "OpenAI",
+      "note": "Nvidia's Data Center Threat, AI Stock Rebound, OpenAI's Codex Strategy — TITV [Video]",
+      "sources": [
         {
-          "title": "South Korea’s KOSPI halts trade after 8% wipeout on AI losses",
-          "link": "https://www.investing.com/news/stock-market-news/south-koreas-kospi-halts-trade-after-8-wipeout-on-ai-losses-5006208",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        },
-        {
-          "title": "《韓股》AI監管趨嚴疑慮升溫，KOSPI重挫5.28%",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nQmd0T3dhZWZ6Rm1yWmZ4UVl3WHl2RW9tdWRzWGNIenZGdUhpcVl2LVJyVXNyS3pJbHhDT1g0d2JQME84TVRCRTlZZ2tzcnI2NF9JUUNNLVpONHhQQjBv?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+          "title": "Nvidia's Data Center Threat, AI Stock Rebound, OpenAI's Codex Strategy — TITV [Video]",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FWjQ0Yll1TVdpbkd2aDBlanRwbFVOaGg2b3V5OGFNc3U5YUQxel82bVNjZ01EZlpyLWRvSHU4cFRZcTl6SFRndTR1dktWWUtybUtV?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -536,67 +461,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7353.73,
-      "change": -335.0,
-      "change_pct": -4.36
+      "price": 7376.86,
+      "change": 20.13,
+      "change_pct": 0.27
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 24315.0,
-      "change": -1424.72,
-      "change_pct": -5.54
+      "price": 24579.42,
+      "change": 252.06,
+      "change_pct": 1.04
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 51523.06,
-      "change": -1833.97,
-      "change_pct": -3.44
+      "price": 51285.73,
+      "change": -238.4,
+      "change_pct": -0.46
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2729.89,
-      "change": -127.07,
-      "change_pct": -4.45
+      "price": 2754.11,
+      "change": 24.91,
+      "change_pct": 0.91
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 57231.23,
-      "change": -3858.08,
-      "change_pct": -6.32
+      "price": 57434.77,
+      "change": -3654.54,
+      "change_pct": -5.98
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 24468.65,
-      "change": -328.33,
-      "change_pct": -1.32
+      "price": 24481.86,
+      "change": -315.12,
+      "change_pct": -1.27
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5009.05,
-      "change": -332.04,
-      "change_pct": -6.22
+      "price": 5059.69,
+      "change": -281.4,
+      "change_pct": -5.27
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 38340.37,
-      "change": -3201.25,
-      "change_pct": -7.71
+      "price": 39701.64,
+      "change": -1839.98,
+      "change_pct": -4.43
     }
   ],
-  "story_count": 59,
+  "story_count": 66,
   "bucket_count": 13
 }
