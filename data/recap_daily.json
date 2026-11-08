@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-07T01:32:37+00:00",
+  "generated_at": "2026-11-08T01:00:43+00:00",
   "mode": "daily",
-  "for_date": "2026-11-07",
+  "for_date": "2026-11-08",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 66 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 50 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "마이크론, 노조와 성과급 갈등에 대만 HBM 공장 건설 사실상 중단.",
+          "lead": "\"중국 스파이와 연인 관계?\"…젠슨 황 의혹 속 장녀 한국행 취소.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "마이크론, 노조와 성과급 갈등에 대만 HBM 공장 건설 사실상 중단",
-                  "link": "https://n.news.naver.com/mnews/article/011/0004679704?sid=101",
+                  "title": "\"중국 스파이와 연인 관계?\"…젠슨 황 의혹 속 장녀 한국행 취소",
+                  "link": "https://n.news.naver.com/mnews/article/014/0005600857?sid=104",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -26,16 +26,16 @@
           ]
         },
         {
-          "lead": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses.",
+          "lead": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+                  "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -43,14 +43,14 @@
           ]
         },
         {
-          "lead": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay.",
+          "lead": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjlZNndUUWszSWpsTnNaZXdjZXF4Y1ZSNzhWT083RERweFdKMUFpX2NNRFhSUnozeFk4VElJdHM3Z3V0U3JEU1d4U19ZVmN2Z3RGYnVoaXZrR3JyWmpCV05FVkpmTDU1NnpHUVp2RlRTbThMb1hFdVU5X2VFbW5JWmNlOTBXam9Ga1Y0RFlwMUF6ODZUY0Riby1aeXB4U18wUzhXRENwQmhTNWRHYk9KSFJ3?oc=5",
+                  "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDExNUNVYUxJcVdMUy1GZ1pfMFFVVVkwdlBfY2FYWmZTa2RpOEhkbExNZE03NDhrbFVJczJ5WTBmRy1WOVcwa0s2SDBGWVNNZ2ljRXR5U2R4RFNaemo1Y2p2YkFuMzhRdUFkbXZIVzVRdVhCXzMtX2V1SS1talB4ZVBtQ1psemJVQ3JqT3hOTVp3YlBOOWxNT2ZqMUJpSUllT2xNTGc3SUx2Mnh6?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -65,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "프랑스 재정위기 우려 확산…국채금리 급등 60만명 거리 시위.",
+          "lead": "Treasury Yields Down Following Democrats Midterm Win.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "프랑스 재정위기 우려 확산…국채금리 급등 60만명 거리 시위",
-                  "link": "https://n.news.naver.com/mnews/article/011/0004679703?sid=102",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Treasury Yields Down Following Democrats Midterm Win",
+                  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "As tech swoon roils market, US inflation data on tap.",
+          "lead": "U.S. Adds 165,000 Jobs. But 4.8 Million Workers Want Full-Time Jobs.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "As tech swoon roils market, US inflation data on tap",
-                  "link": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "U.S. Adds 165,000 Jobs. But 4.8 Million Workers Want Full-Time Jobs",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2JvYkktbTNiMFhuYy1JWlZsMk5Na09ZU21KZmFUcVhURGVCN3RpX0VzMDBIakRIUHlBUEp1MVZFMzVwbHVNMzJlR1BLZTFsaWhVc1ZLTDNaeFdZNnB6enIyQkRIV2lRc1JFQ056WFN3Z3Mzam5JY3ZWQko4U0pzeFliMkhDSjVDeDQxdkg4SzlKQUt5eVVWNUl1bVdsTVNyVnRUSmF0cng5MEZqQjdDWmpCcU02dw?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,16 +99,16 @@
           ]
         },
         {
-          "lead": "US Treasury sanctions Canadian money services firms over Iran-related transactions.",
+          "lead": "US Inflation Set to Simmer Down Some After Recent Pickup.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-                  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
+                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHB3c0hUZDUwNkFjQmh3VW9PTGE3dmpzRkUwRWI2d25MZWhOcmRPOHhmaVdBNGp0YTF3WU9IaVQ0NVNtVG1nZDZTbXlYRVNWdmdpcUJ3cVdVcE5mMUltMWdwZE10Q3lmcFdHR2RINEtlcW54RW56ZkY1MnNsell5b3VLanVoTnh1Y0FKUVhZampkZ2xWUHJPOWxhSWVxa0VFRWhPbzdITTdjRzA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses.",
+          "lead": "Elon Musk and Elizabeth Holmes share a 'superpower,' says documentary director Alex Gibney.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Elon Musk and Elizabeth Holmes share a 'superpower,' says documentary director Alex Gibney",
+                  "link": "https://www.businessinsider.com/elon-musk-elizabeth-holmes-similarities-alex-gibney-2026-11",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,33 +138,33 @@
           ]
         },
         {
-          "lead": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay.",
+          "lead": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "How a Bank Scandal Is Taking Down Trump’s Ally in Paraguay",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjlZNndUUWszSWpsTnNaZXdjZXF4Y1ZSNzhWT083RERweFdKMUFpX2NNRFhSUnozeFk4VElJdHM3Z3V0U3JEU1d4U19ZVmN2Z3RGYnVoaXZrR3JyWmpCV05FVkpmTDU1NnpHUVp2RlRTbThMb1hFdVU5X2VFbW5JWmNlOTBXam9Ga1Y0RFlwMUF6ODZUY0Riby1aeXB4U18wUzhXRENwQmhTNWRHYk9KSFJ3?oc=5",
+                  "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+                  "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
+                  "source": "The Guardian Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDExNUNVYUxJcVdMUy1GZ1pfMFFVVVkwdlBfY2FYWmZTa2RpOEhkbExNZE03NDhrbFVJczJ5WTBmRy1WOVcwa0s2SDBGWVNNZ2ljRXR5U2R4RFNaemo1Y2p2YkFuMzhRdUFkbXZIVzVRdVhCXzMtX2V1SS1talB4ZVBtQ1psemJVQ3JqT3hOTVp3YlBOOWxNT2ZqMUJpSUllT2xNTGc3SUx2Mnh6?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal",
-                  "link": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +177,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나.",
+          "lead": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
-                  "link": "https://www.aitimes.com/news/articleView.html?idxno=217123",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+                  "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,33 +194,33 @@
           ]
         },
         {
-          "lead": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg.",
+          "lead": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
-                  "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486",
+                  "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
+                  "link": "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "U.S. memo alleges Nvidia’s CEO was romantically linked to suspected Beijing spy.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "U.S. memo alleges Nvidia’s CEO was romantically linked to suspected Beijing spy",
+                  "link": "https://www.investing.com/news/stock-market-news/us-intelligence-memo-ties-nvidias-huang-to-alleged-chinese-spy-ft-reports-5009930",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Arm Holdings Sales Climb 27% on AI Demand.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Arm Holdings Sales Climb 27% on AI Demand",
-                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXpoNFE4WG9aNjkwazZlZEM1VWtKWlU2d21jZFRjWm12a0ZjckU0SDAxWWYwSzJhLWY1SmtQaTRSdVFoV1FvOE5KNHJMOXo5bG15amtKdGdMdmpZUFJScF9RNHNyMGFDcFhPT3ZpVDFhSVFTc0xXbnJ2blUwT3VnMHFmYUJtcWxYX0liQUhkUlc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,14 +233,31 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Plug Power Q3 2026 earnings preview: Company, analysts optimistic.",
+          "lead": "Berkshire Hathaway Q3 Earnings Miss On Insurance, Not On Strategy.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Plug Power Q3 2026 earnings preview: Company, analysts optimistic",
-                  "link": "https://seekingalpha.com/news/4668473-plug-power-q3-2026-earnings-preview-company-analysts-optimistic?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "title": "Berkshire Hathaway Q3 Earnings Miss On Insurance, Not On Strategy",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUlKZVllVlVCdXlfa2VfbnY5a2ljTHI0ZV9QakR1aUExeGNzczkzZDdOamxKQm9DZW5mTnhUd0N0MnRtRGZybDlzNUJwUnNYaWY0MDV2aVFtOWk2dDRaS3IzVFBqemtna1lVbVVtYVE0bkw1bWJEeFVxbGhkNTN2SkFOOU5NU01iWWRBb1RDS1FwYUlXV1VYc2E1bnJwOHViZWNFcXZLd3pPbFVBQlJEcFZ0bFFxQTQ?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth",
+                  "link": "https://seekingalpha.com/news/4667797-earnings-scoreboard-86-of-reporting-firms-beat-eps-estimates-78-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
                   "source": "Business Insider Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
                 }
@@ -250,16 +267,16 @@
           ]
         },
         {
-          "lead": "Rocket Lab Q3 earnings preview: Investors await Neutron timeline, growth outlook.",
+          "lead": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Rocket Lab Q3 earnings preview: Investors await Neutron timeline, growth outlook",
-                  "link": "https://seekingalpha.com/news/4668468-rocket-lab-q3-earnings-preview-investors-await-neutron-timeline-growth-outlook?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+                  "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -272,16 +289,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Google executive Donald Harrison resigns from SpaceX board.",
+          "lead": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Google executive Donald Harrison resigns from SpaceX board",
-                  "link": "https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y25XVGRIYWtiVVFMckpNT1FjNmxvQ2lvNGlJeF94WVB3VXlucWFfczBDTFZYSlV0NjZmUmNSQlJPM1J4Z0h1WG53ZFVITDNUX3psd2JQX0YtTzNRYk1J?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
               ],
               "x_mentions": []
@@ -289,16 +306,16 @@
           ]
         },
         {
-          "lead": "Google executive Donald Harrison resigns from SpaceX board.",
+          "lead": "Meta’s Bond Sale Shows New Reality for Tech Debt.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Google executive Donald Harrison resigns from SpaceX board",
-                  "link": "https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Meta’s Bond Sale Shows New Reality for Tech Debt",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0h6NGhPQzBpZTdwV29ra0U5UUhycGhPb3FHT3JvUksyYTZFZjVPbVpBdURxeVMxM2dxS0Z1Y21XbVctWVY5Q3ltR09IOG9tNUdSMXZ5eUFHYUpaaWpaVGZoQzFvVnZOdUhEclJKVENTbVpNeFMwbC1pV1ppa3JhWjZMQzEtWkQ4UGlVWXJENXNWRGNEVEotZjBnMnJ6WFJzQWFTcnI1Wi1WZzAwXzRUdy1YMA?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -306,16 +323,16 @@
           ]
         },
         {
-          "lead": "Meta’s Muse app adds customizable spaces feature.",
+          "lead": "The Meta Key NFT Latest Floor Price, Charts, and Market Cap Data.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Meta’s Muse app adds customizable spaces feature",
-                  "link": "https://www.investing.com/news/stock-market-news/metas-muse-app-adds-customizable-spaces-feature-93CH-5009233",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "The Meta Key NFT Latest Floor Price, Charts, and Market Cap Data",
+                  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcXpMWjRnSkNzMTVid25zdmVVbjFZMm96WUtPOFpqUllKa2NZTHZhZnFlYVI3ZWMzaGJUZlMwalZIZDRvMnphZTJib1paRFlFV3dVRHpZYXJlRm5CWlB4R3JTRjF0bjVKazgzOXZsQ2VJQQ?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -328,37 +345,11 @@
   "watchlist": [
     {
       "name": "TRUMP",
-      "note": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+      "note": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
       "sources": [
         {
-          "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTdDcl95ZWRjVHlORVdINFFmUnpoa1hEVVAyd09haUZvOEpLdGNJNV9aZlh0ejR1MEFYWkFla2lFcnlmWjVRUnBQc0piRGtvRjBhb1h3TlhPZmlZaVBiT0hDRjY1akEyOTNqalZ3SlBqLWZQZUZ0b0FsVm10TkZLZ01mSEVDRW1kNG02d0hiQ0otOFJYTi1vUXBaSld5NXVickpfZ2xNbmhJUFdPdHU0dW9WUXdmQQ?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Nvidia",
-      "note": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
-      "sources": [
-        {
-          "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
-          "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-groq-seeks-8-billion-valuation-in-new-funding-round--bloomberg-5009486",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Tesla",
-      "note": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-      "sources": [
-        {
-          "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-          "link": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+          "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+          "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
           "source": "The Guardian Business",
           "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
         }
@@ -366,14 +357,40 @@
       "x_mentions": []
     },
     {
-      "name": "TSMC",
-      "note": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+      "name": "Nvidia",
+      "note": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
       "sources": [
         {
-          "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217123",
-          "source": "Naver 뉴스 · 반도체",
-          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+          "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Meta",
+      "note": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際",
+      "sources": [
+        {
+          "title": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y25XVGRIYWtiVVFMckpNT1FjNmxvQ2lvNGlJeF94WVB3VXlucWFfczBDTFZYSlV0NjZmUmNSQlJPM1J4Z0h1WG53ZFVITDNUX3psd2JQX0YtTzNRYk1J?oc=5",
+          "source": "Commercial Times 工商時報",
+          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Tesla",
+      "note": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
+      "sources": [
+        {
+          "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -469,7 +486,7 @@
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 24579.42,
+      "price": 24579.43,
       "change": 252.06,
       "change_pct": 1.04
     },
@@ -522,6 +539,6 @@
       "change_pct": -4.43
     }
   ],
-  "story_count": 66,
-  "bucket_count": 13
+  "story_count": 50,
+  "bucket_count": 12
 }
