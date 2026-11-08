@@ -1,24 +1,41 @@
 {
-  "generated_at": "2026-11-08T01:00:43+00:00",
+  "generated_at": "2026-11-08T01:59:21+00:00",
   "mode": "daily",
   "for_date": "2026-11-08",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 50 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 44 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "\"중국 스파이와 연인 관계?\"…젠슨 황 의혹 속 장녀 한국행 취소.",
+          "lead": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "\"중국 스파이와 연인 관계?\"…젠슨 황 의혹 속 장녀 한국행 취소",
-                  "link": "https://n.news.naver.com/mnews/article/014/0005600857?sid=104",
+                  "title": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선",
+                  "link": "https://www.ajunews.com/view/20261107175936969",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "AI stock selloff drives investors to China, India, and overlooked Asian sectors.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
+                  "link": "https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -41,23 +58,6 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
-                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDExNUNVYUxJcVdMUy1GZ1pfMFFVVVkwdlBfY2FYWmZTa2RpOEhkbExNZE03NDhrbFVJczJ5WTBmRy1WOVcwa0s2SDBGWVNNZ2ljRXR5U2R4RFNaemo1Y2p2YkFuMzhRdUFkbXZIVzVRdVhCXzMtX2V1SS1talB4ZVBtQ1psemJVQ3JqT3hOTVp3YlBOOWxNT2ZqMUJpSUllT2xNTGc3SUx2Mnh6?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
@@ -65,14 +65,31 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Treasury Yields Down Following Democrats Midterm Win.",
+          "lead": "Latest U.S.-Canada Trade Talks Yield Progress Toward Pact, Carney Says.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Treasury Yields Down Following Democrats Midterm Win",
-                  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdkVMZXBIOElzYmpRaVNwbmNZOWxvT1ZsUWgwamhobmRBNklNOGZGSGNWNG5jZjZPTUtPT2c2V0ZTNmM0SU1MNGdhV2plaVZNbDVOclUzSXMxa3NGM3ZQMl9feDdEQWhramMzMnVycHpCTm1haEFhRFZnYnpNb0hJcjVOR3pTazJ5b1FXeHFkQWRNRUszNEZFVkpmYVNoOWJKclNnM3JYTnY4bWVrdEhkalNxMGIxR2ttRFI3czliVjVXaVh4SHpNSEVR?oc=5",
+                  "title": "Latest U.S.-Canada Trade Talks Yield Progress Toward Pact, Carney Says",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXdxcENkS0NGZk9rd0ZHT2VHaVNfMmJZd2pTZ2lYdDVpQlhyNXU3c0s1dGFhTkJlV3VJSjgxMXU2Zk80Q09xMGQzQ0FwUnRSTDg0UmItdG1fbkFCTXA1S0Qxc0NaQS1Db3dpSm94ZzBTNDFhRUh5MjZwSXRXTWFHXzFrRUdxV194clBHdm8yazRLZnBrSmZ1QnFWRGdRV1BFcVBnMEwzanQzSUpIcEtpSXlB?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "The Argument for Buying Treasury Bonds Is Still Strong.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "The Argument for Buying Treasury Bonds Is Still Strong",
+                  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhYVjNQODJTZ1VjYmVpYTQwdTNSWVBSVEZvdXpWS3JwN3JjV084TnZqVk41MTFUcWliTTlGTEJ2TU1oSDNoeUtfMjBwT2pFRGstQjROUHJualZBbW1keWs2UHZWalJDYjF2Sm5PN2ZRbjVKb2h5b3dXZWtWVmpWTUM2U05BanF4WFZteWVwVFJia2pQTldXYWcxaU4yNmlZTHZ3?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -97,29 +114,29 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "US Inflation Set to Simmer Down Some After Recent Pickup.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "US Inflation Set to Simmer Down Some After Recent Pickup",
-                  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHB3c0hUZDUwNkFjQmh3VW9PTGE3dmpzRkUwRWI2d25MZWhOcmRPOHhmaVdBNGp0YTF3WU9IaVQ0NVNtVG1nZDZTbXlYRVNWdmdpcUJ3cVdVcE5mMUltMWdwZE10Q3lmcFdHR2RINEtlcW54RW56ZkY1MnNsell5b3VLanVoTnh1Y0FKUVhZampkZ2xWUHJPOWxhSWVxa0VFRWhPbzdITTdjRzA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
     {
       "label": "Trump 2.0 / US Policy",
       "bullets": [
+        {
+          "lead": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선",
+                  "link": "https://www.ajunews.com/view/20261107175936969",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
         {
           "lead": "Elon Musk and Elizabeth Holmes share a 'superpower,' says documentary director Alex Gibney.",
           "segments": [
@@ -148,23 +165,6 @@
                   "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
                   "source": "The Guardian Business",
                   "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
-                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDExNUNVYUxJcVdMUy1GZ1pfMFFVVVkwdlBfY2FYWmZTa2RpOEhkbExNZE03NDhrbFVJczJ5WTBmRy1WOVcwa0s2SDBGWVNNZ2ljRXR5U2R4RFNaemo1Y2p2YkFuMzhRdUFkbXZIVzVRdVhCXzMtX2V1SS1talB4ZVBtQ1psemJVQ3JqT3hOTVp3YlBOOWxNT2ZqMUJpSUllT2xNTGc3SUx2Mnh6?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +211,16 @@
           ]
         },
         {
-          "lead": "U.S. memo alleges Nvidia’s CEO was romantically linked to suspected Beijing spy.",
+          "lead": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "U.S. memo alleges Nvidia’s CEO was romantically linked to suspected Beijing spy",
-                  "link": "https://www.investing.com/news/stock-market-news/us-intelligence-memo-ties-nvidias-huang-to-alleged-chinese-spy-ft-reports-5009930",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+                  "link": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -232,6 +232,23 @@
     {
       "label": "Earnings / Guidance",
       "bullets": [
+        {
+          "lead": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnR5alZYWS1uMGotUm1BTlBPRjRyaVBHbXh4NVh4WF9QQzFtU3hRNHVLVVZWbmZ5TXlZRXkydEs0RjBBQjVpVjBnZWpfV1V5R0Z3bDhxdlFMTWYwNFAyT1RKdUFVQXFiLUxzTVVjejhhZTNwZWZRbWJ4dFlKMU1EY2VEN2VVR1duZlV6LUJCN2RLRHJIbHlTcjhtVE9NSW84dUZsSzlCdnN2VUZhQ2ZR?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
         {
           "lead": "Berkshire Hathaway Q3 Earnings Miss On Insurance, Not On Strategy.",
           "segments": [
@@ -265,23 +282,6 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-                  "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
@@ -306,6 +306,23 @@
           ]
         },
         {
+          "lead": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More",
+                  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSU16bEtJdWt5R0V4M1pCUU5UdHVOV1dYa3RyUXRXLVRLRHZFQ1lrYVRMRWJjYXhqUi1adi1KLWNqaXNsNDBpRXB5SWVXVXR4eGU4RUFoczRmTWR3RzVxQlN3VzA5X1ZfS21aRXhsQ1Y3dzFlVGdJTFJpdXY3aEw0RzNJNDRSZWlZZ3phTkE4MFM5cXh3N09aOGpBd0Jud0VCZ3ZVeHZMMm9rNzBtejlkV3BPREx6ZUIxV2tTSE5nbU1qMVlBc0VBTktZQW9iZ3J2YXgteXpJaUJGX2YzSkxXV0NtblRVMWxK?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
           "lead": "Meta’s Bond Sale Shows New Reality for Tech Debt.",
           "segments": [
             {
@@ -316,23 +333,6 @@
                   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0h6NGhPQzBpZTdwV29ra0U5UUhycGhPb3FHT3JvUksyYTZFZjVPbVpBdURxeVMxM2dxS0Z1Y21XbVctWVY5Q3ltR09IOG9tNUdSMXZ5eUFHYUpaaWpaVGZoQzFvVnZOdUhEclJKVENTbVpNeFMwbC1pV1ppa3JhWjZMQzEtWkQ4UGlVWXJENXNWRGNEVEotZjBnMnJ6WFJzQWFTcnI1Wi1WZzAwXzRUdy1YMA?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The Meta Key NFT Latest Floor Price, Charts, and Market Cap Data.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "The Meta Key NFT Latest Floor Price, Charts, and Market Cap Data",
-                  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcXpMWjRnSkNzMTVid25zdmVVbjFZMm96WUtPOFpqUllKa2NZTHZhZnFlYVI3ZWMzaGJUZlMwalZIZDRvMnphZTJib1paRFlFV3dVRHpZYXJlRm5CWlB4R3JTRjF0bjVKazgzOXZsQ2VJQQ?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -357,19 +357,6 @@
       "x_mentions": []
     },
     {
-      "name": "Nvidia",
-      "note": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-      "sources": [
-        {
-          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-          "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "Meta",
       "note": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際",
       "sources": [
@@ -378,6 +365,19 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y25XVGRIYWtiVVFMckpNT1FjNmxvQ2lvNGlJeF94WVB3VXlucWFfczBDTFZYSlV0NjZmUmNSQlJPM1J4Z0h1WG53ZFVITDNUX3psd2JQX0YtTzNRYk1J?oc=5",
           "source": "Commercial Times 工商時報",
           "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+      "sources": [
+        {
+          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+          "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -396,14 +396,14 @@
       "x_mentions": []
     },
     {
-      "name": "OpenAI",
-      "note": "Nvidia's Data Center Threat, AI Stock Rebound, OpenAI's Codex Strategy — TITV [Video]",
+      "name": "Netflix",
+      "note": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More",
       "sources": [
         {
-          "title": "Nvidia's Data Center Threat, AI Stock Rebound, OpenAI's Codex Strategy — TITV [Video]",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FWjQ0Yll1TVdpbkd2aDBlanRwbFVOaGg2b3V5OGFNc3U5YUQxel82bVNjZ01EZlpyLWRvSHU4cFRZcTl6SFRndTR1dktWWUtybUtV?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+          "title": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSU16bEtJdWt5R0V4M1pCUU5UdHVOV1dYa3RyUXRXLVRLRHZFQ1lrYVRMRWJjYXhqUi1adi1KLWNqaXNsNDBpRXB5SWVXVXR4eGU4RUFoczRmTWR3RzVxQlN3VzA5X1ZfS21aRXhsQ1Y3dzFlVGdJTFJpdXY3aEw0RzNJNDRSZWlZZ3phTkE4MFM5cXh3N09aOGpBd0Jud0VCZ3ZVeHZMMm9rNzBtejlkV3BPREx6ZUIxV2tTSE5nbU1qMVlBc0VBTktZQW9iZ3J2YXgteXpJaUJGX2YzSkxXV0NtblRVMWxK?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -539,6 +539,6 @@
       "change_pct": -4.43
     }
   ],
-  "story_count": 50,
+  "story_count": 44,
   "bucket_count": 12
 }
