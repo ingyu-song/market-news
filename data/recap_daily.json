@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-08T01:59:21+00:00",
+  "generated_at": "2026-11-09T01:23:08+00:00",
   "mode": "daily",
-  "for_date": "2026-11-08",
+  "for_date": "2026-11-09",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 44 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 39 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선.",
+          "lead": "Trump backs Nvidia's Huang amid affair, spy investigation.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선",
-                  "link": "https://www.ajunews.com/view/20261107175936969",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+                  "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,14 +26,14 @@
           ]
         },
         {
-          "lead": "AI stock selloff drives investors to China, India, and overlooked Asian sectors.",
+          "lead": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors",
-                  "link": "https://www.investing.com/news/stock-market-news/ai-stock-selloff-drives-investors-to-china-india-and-overlooked-asian-sectors-5010098",
+                  "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -43,16 +43,16 @@
           ]
         },
         {
-          "lead": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing.",
+          "lead": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-                  "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Latest U.S.-Canada Trade Talks Yield Progress Toward Pact, Carney Says.",
+          "lead": "삼성운용, KODEX미국나스닥100미국채혼합50 ETF 출시.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Latest U.S.-Canada Trade Talks Yield Progress Toward Pact, Carney Says",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXdxcENkS0NGZk9rd0ZHT2VHaVNfMmJZd2pTZ2lYdDVpQlhyNXU3c0s1dGFhTkJlV3VJSjgxMXU2Zk80Q09xMGQzQ0FwUnRSTDg0UmItdG1fbkFCTXA1S0Qxc0NaQS1Db3dpSm94ZzBTNDFhRUh5MjZwSXRXTWFHXzFrRUdxV194clBHdm8yazRLZnBrSmZ1QnFWRGdRV1BFcVBnMEwzanQzSUpIcEtpSXlB?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "삼성운용, KODEX미국나스닥100미국채혼합50 ETF 출시",
+                  "link": "https://www.smarttoday.co.kr/ko-kr/articles/113544",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "The Argument for Buying Treasury Bonds Is Still Strong.",
+          "lead": "[PPSS [경제진단] 수출 9300억 달러의 역설…나라 경제는 뛰는데 서민 지...",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "The Argument for Buying Treasury Bonds Is Still Strong",
-                  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUhYVjNQODJTZ1VjYmVpYTQwdTNSWVBSVEZvdXpWS3JwN3JjV084TnZqVk41MTFUcWliTTlGTEJ2TU1oSDNoeUtfMjBwT2pFRGstQjROUHJualZBbW1keWs2UHZWalJDYjF2Sm5PN2ZRbjVKb2h5b3dXZWtWVmpWTUM2U05BanF4WFZteWVwVFJia2pQTldXYWcxaU4yNmlZTHZ3?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "[PPSS [경제진단] 수출 9300억 달러의 역설…나라 경제는 뛰는데 서민 지...",
+                  "link": "https://www.ppss.kr/news/articleView.html?idxno=319774",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,16 +99,16 @@
           ]
         },
         {
-          "lead": "U.S. Adds 165,000 Jobs. But 4.8 Million Workers Want Full-Time Jobs.",
+          "lead": "Wall St futures mixed amid AI spending concerns; inflation data awaited.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "U.S. Adds 165,000 Jobs. But 4.8 Million Workers Want Full-Time Jobs",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2JvYkktbTNiMFhuYy1JWlZsMk5Na09ZU21KZmFUcVhURGVCN3RpX0VzMDBIakRIUHlBUEp1MVZFMzVwbHVNMzJlR1BLZTFsaWhVc1ZLTDNaeFdZNnB6enIyQkRIV2lRc1JFQ056WFN3Z3Mzam5JY3ZWQko4U0pzeFliMkhDSjVDeDQxdkg4SzlKQUt5eVVWNUl1bVdsTVNyVnRUSmF0cng5MEZqQjdDWmpCcU02dw?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "Wall St futures mixed amid AI spending concerns; inflation data awaited",
+                  "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-amid-ai-spending-concerns-inflation-data-awaited-5010386",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선.",
+          "lead": "Trump backs Nvidia's Huang amid affair, spy investigation.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "[고유환 칼럼] 흔들리는 트럼프…한반도의 위험한 단층선",
-                  "link": "https://www.ajunews.com/view/20261107175936969",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+                  "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,16 +138,16 @@
           ]
         },
         {
-          "lead": "Elon Musk and Elizabeth Holmes share a 'superpower,' says documentary director Alex Gibney.",
+          "lead": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Elon Musk and Elizabeth Holmes share a 'superpower,' says documentary director Alex Gibney",
-                  "link": "https://www.businessinsider.com/elon-musk-elizabeth-holmes-similarities-alex-gibney-2026-11",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -155,16 +155,16 @@
           ]
         },
         {
-          "lead": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing.",
+          "lead": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-                  "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,14 +177,31 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy.",
+          "lead": "[자막뉴스] \"아내에게 불충실\" 젠슨 황 불륜 인정…조사 나선 엔비디아.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-                  "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+                  "title": "[자막뉴스] \"아내에게 불충실\" 젠슨 황 불륜 인정…조사 나선 엔비디아",
+                  "link": "https://n.news.naver.com/mnews/article/055/0001401629?sid=104",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+                  "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
                   "source": "Financial Times",
                   "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
@@ -194,89 +211,16 @@
           ]
         },
         {
-          "lead": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties.",
+          "lead": "Nvidia launches investigation into CEO's affair with suspected Chinese spy.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "\"Congress will investigate\": Nvidia CEO Jensen Huang faces probe over alleged Chinese spy ties",
-                  "link": "https://www.axios.com/2026/11/07/jensen-huang-nvidia-congress-china-spy",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
-                  "link": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
-        {
-          "lead": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Alstom Shares Plunge After Technical Issues Prompt Guidance Cut",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnR5alZYWS1uMGotUm1BTlBPRjRyaVBHbXh4NVh4WF9QQzFtU3hRNHVLVVZWbmZ5TXlZRXkydEs0RjBBQjVpVjBnZWpfV1V5R0Z3bDhxdlFMTWYwNFAyT1RKdUFVQXFiLUxzTVVjejhhZTNwZWZRbWJ4dFlKMU1EY2VEN2VVR1duZlV6LUJCN2RLRHJIbHlTcjhtVE9NSW84dUZsSzlCdnN2VUZhQ2ZR?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Berkshire Hathaway Q3 Earnings Miss On Insurance, Not On Strategy.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Berkshire Hathaway Q3 Earnings Miss On Insurance, Not On Strategy",
-                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObUlKZVllVlVCdXlfa2VfbnY5a2ljTHI0ZV9QakR1aUExeGNzczkzZDdOamxKQm9DZW5mTnhUd0N0MnRtRGZybDlzNUJwUnNYaWY0MDV2aVFtOWk2dDRaS3IzVFBqemtna1lVbVVtYVE0bkw1bWJEeFVxbGhkNTN2SkFOOU5NU01iWWRBb1RDS1FwYUlXV1VYc2E1bnJwOHViZWNFcXZLd3pPbFVBQlJEcFZ0bFFxQTQ?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth",
-                  "link": "https://seekingalpha.com/news/4667797-earnings-scoreboard-86-of-reporting-firms-beat-eps-estimates-78-post-yy-earnings-growth?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+                  "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -304,35 +248,23 @@
               "x_mentions": []
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "label": "AI Infrastructure / Hyperscaler Capex",
+      "bullets": [
         {
-          "lead": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More.",
+          "lead": "AI 데이터센터 투자 확대에 광통신주 급등…머큐리·RFHIC '불기둥'.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More",
-                  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSU16bEtJdWt5R0V4M1pCUU5UdHVOV1dYa3RyUXRXLVRLRHZFQ1lrYVRMRWJjYXhqUi1adi1KLWNqaXNsNDBpRXB5SWVXVXR4eGU4RUFoczRmTWR3RzVxQlN3VzA5X1ZfS21aRXhsQ1Y3dzFlVGdJTFJpdXY3aEw0RzNJNDRSZWlZZ3phTkE4MFM5cXh3N09aOGpBd0Jud0VCZ3ZVeHZMMm9rNzBtejlkV3BPREx6ZUIxV2tTSE5nbU1qMVlBc0VBTktZQW9iZ3J2YXgteXpJaUJGX2YzSkxXV0NtblRVMWxK?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Meta’s Bond Sale Shows New Reality for Tech Debt.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Meta’s Bond Sale Shows New Reality for Tech Debt",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0h6NGhPQzBpZTdwV29ra0U5UUhycGhPb3FHT3JvUksyYTZFZjVPbVpBdURxeVMxM2dxS0Z1Y21XbVctWVY5Q3ltR09IOG9tNUdSMXZ5eUFHYUpaaWpaVGZoQzFvVnZOdUhEclJKVENTbVpNeFMwbC1pV1ppa3JhWjZMQzEtWkQ4UGlVWXJENXNWRGNEVEotZjBnMnJ6WFJzQWFTcnI1Wi1WZzAwXzRUdy1YMA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "AI 데이터센터 투자 확대에 광통신주 급등…머큐리·RFHIC '불기둥'",
+                  "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502290",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -345,13 +277,26 @@
   "watchlist": [
     {
       "name": "TRUMP",
-      "note": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
+      "note": "Trump backs Nvidia's Huang amid affair, spy investigation",
       "sources": [
         {
-          "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-          "link": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+          "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+          "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+          "source": "Axios",
+          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "Trump backs Nvidia's Huang amid affair, spy investigation",
+      "sources": [
+        {
+          "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
+          "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
+          "source": "Axios",
+          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -370,40 +315,14 @@
       "x_mentions": []
     },
     {
-      "name": "Nvidia",
-      "note": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+      "name": "BYD",
+      "note": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
       "sources": [
         {
-          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
-          "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Tesla",
-      "note": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
-      "sources": [
-        {
-          "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRUhMT1JwanVVTTN4eGhvcXBNTHo3UV80QXFDU2hMWTRuUGppME9ab3RkNVkwZnFOWXh6VEZ5WUNHaHcwclAtOEZFb09CLWwteW5pN0JMY1lydFVhbzV2OVE4a0FqY1lJRGhIeEN6SVNnSTBfTTBuZm5GeGJFYjdMMUVTVFVFcGNlQ2x0RnF0allhVDV5MlQ4MlV6b1luV21tOVdNQTBzNG1RaHJBU3IxSlBGV25fRm5KTUEza0I4M2xRYnZwZFVIR29vMEY0bXBBaGMtWGJNOEw2Z1VjVXc?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Netflix",
-      "note": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More",
-      "sources": [
-        {
-          "title": "What To Watch This Weekend (Nov. 6-8): New Movies And Shows On Netflix, Hulu And More",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSU16bEtJdWt5R0V4M1pCUU5UdHVOV1dYa3RyUXRXLVRLRHZFQ1lrYVRMRWJjYXhqUi1adi1KLWNqaXNsNDBpRXB5SWVXVXR4eGU4RUFoczRmTWR3RzVxQlN3VzA5X1ZfS21aRXhsQ1Y3dzFlVGdJTFJpdXY3aEw0RzNJNDRSZWlZZ3phTkE4MFM5cXh3N09aOGpBd0Jud0VCZ3ZVeHZMMm9rNzBtejlkV3BPREx6ZUIxV2tTSE5nbU1qMVlBc0VBTktZQW9iZ3J2YXgteXpJaUJGX2YzSkxXV0NtblRVMWxK?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+          "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+          "source": "The Guardian Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -510,9 +429,9 @@
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 57434.77,
-      "change": -3654.54,
-      "change_pct": -5.98
+      "price": 58913.86,
+      "change": 1502.95,
+      "change_pct": 2.62
     },
     {
       "name": "Hang Seng",
@@ -526,19 +445,19 @@
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5059.69,
-      "change": -281.4,
-      "change_pct": -5.27
+      "price": 5113.31,
+      "change": 11.87,
+      "change_pct": 0.23
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 39701.64,
-      "change": -1839.98,
-      "change_pct": -4.43
+      "price": 40736.95,
+      "change": 1019.73,
+      "change_pct": 2.57
     }
   ],
-  "story_count": 44,
-  "bucket_count": 12
+  "story_count": 39,
+  "bucket_count": 9
 }
