@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-09T01:23:08+00:00",
+  "generated_at": "2026-11-10T03:56:29+00:00",
   "mode": "daily",
-  "for_date": "2026-11-09",
+  "for_date": "2026-11-10",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 39 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 65 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Trump backs Nvidia's Huang amid affair, spy investigation.",
+          "lead": "China exports, imports soar past expectations in October — surplus narrows sharply.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
-                  "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+                  "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,33 +26,33 @@
           ]
         },
         {
-          "lead": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him.",
+          "lead": "China’s Trade Surplus Passes $1 Trillion at Record Pace.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
-                  "link": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358",
+                  "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+                  "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+                  "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
-                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,14 +65,14 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "삼성운용, KODEX미국나스닥100미국채혼합50 ETF 출시.",
+          "lead": "건설수주 49.3% 늘었지만…주택·고용 부진 지속.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "삼성운용, KODEX미국나스닥100미국채혼합50 ETF 출시",
-                  "link": "https://www.smarttoday.co.kr/ko-kr/articles/113544",
+                  "title": "건설수주 49.3% 늘었지만…주택·고용 부진 지속",
+                  "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420705",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "[PPSS [경제진단] 수출 9300억 달러의 역설…나라 경제는 뛰는데 서민 지...",
+          "lead": "Inflation Data to Test Limits of Treasury Rally After Haven Bid.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "[PPSS [경제진단] 수출 9300억 달러의 역설…나라 경제는 뛰는데 서민 지...",
-                  "link": "https://www.ppss.kr/news/articleView.html?idxno=319774",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGdKazB3cGVKLUR0VG45X1hQNEpxeVdwaVdUNEdSUl96YnlaQzRuSVgxa2F6NVE2dHU3SmRpOG5xNHdhT2pKS3RSOTdsbGxGYlVWMmxXQm9EUC1YQ1VudlVYeG5pLUJKbnRiczJDRVg2TXlJQlh0OE81dVNDLW1jdU1vT2tMZGRzV1VOeHR6TlVSbEFBTGNBMjh4Z2Zlc3VUei11SFkxcjI3U2EzS0llOEl1SnE?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,16 +99,16 @@
           ]
         },
         {
-          "lead": "Wall St futures mixed amid AI spending concerns; inflation data awaited.",
+          "lead": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Wall St futures mixed amid AI spending concerns; inflation data awaited",
-                  "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-amid-ai-spending-concerns-inflation-data-awaited-5010386",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -121,31 +121,14 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump backs Nvidia's Huang amid affair, spy investigation.",
+          "lead": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
-                  "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump calls Nvidia’s Huang ’honorable,’ says he has not discussed allegations with him",
-                  "link": "https://www.investing.com/news/stock-market-news/trump-calls-nvidias-huang-honorable-says-he-has-not-discussed-allegations-with-him-5010358",
+                  "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+                  "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -155,16 +138,33 @@
           ]
         },
         {
-          "lead": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'.",
+          "lead": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
-                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+                  "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,14 +177,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "[자막뉴스] \"아내에게 불충실\" 젠슨 황 불륜 인정…조사 나선 엔비디아.",
+          "lead": "엔비디아, 국내 AI 산업 본격 확장...젠슨 황 논란에 업계 '촉각'.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "[자막뉴스] \"아내에게 불충실\" 젠슨 황 불륜 인정…조사 나선 엔비디아",
-                  "link": "https://n.news.naver.com/mnews/article/055/0001401629?sid=104",
+                  "title": "엔비디아, 국내 AI 산업 본격 확장...젠슨 황 논란에 업계 '촉각'",
+                  "link": "https://www.cwn.kr/news/articleView.html?idxno=61402",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -194,16 +194,16 @@
           ]
         },
         {
-          "lead": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy.",
+          "lead": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
-                  "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+                  "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +211,72 @@
           ]
         },
         {
-          "lead": "Nvidia launches investigation into CEO's affair with suspected Chinese spy.",
+          "lead": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-                  "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                  "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
+                  "link": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "汎瑋AI伺服器高導熱及人形機器人緩衝材料訂單拉貨看俏 全年EPS上看5~5.5元.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "汎瑋AI伺服器高導熱及人形機器人緩衝材料訂單拉貨看俏 全年EPS上看5~5.5元",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nMGtxLWhQMmFObnlQZ1N0SEM2SjFyakdIRE9GcFhGWWF5OVJlVGJZQTJESFQzS1pHMUVkZ2oyR1paZElza05yel9aLVFUTi1zY1p6ZXlOaXB0TW9HX3hV?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "KHGEARS posts record October revenue as new product shipments continue.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "KHGEARS posts record October revenue as new product shipments continue",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWlzZjFWUnJ2LUVCYTdvM0FyOXBycXh6OC1NLTZtZjYxdTJvVDRiRzB3Mkx3enVrLWJKald6R3Y2QUpEY3dTSVdfZHF3VGNVaTdBSmtfZ0ZhY1FWU3Y0MnVfb0hNRm9vNUpxNGVObVp0WFNEeGpxVXVPOWNINEptR3Z0V0tnNVZFdmVUbFQ2NTFrNWdvVFE?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Environmental engineering and advanced process materials drive Topco's revenue above full-year 2025 level in first 10 months.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Environmental engineering and advanced process materials drive Topco's revenue above full-year 2025 level in first 10 months",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRjBkWTVmTjl3cHFrZzBRd1RUZzFWRUF4UGZISXlOTFRYNjBUT1QyWUo2bUx4YnFORERlbWFCRlA3TGpWX2ptVGVoQmxjQ3FHX3Y2eUFOdDNkYjFBNmZkUEdfNGxGUU1ya2U5R3dMLTZPNmc0TnhsTnpzWjE3bFZRcV92dXlMZTVOcjNYLVhxNzRHSzU5bmRKSHVSbEg?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,38 +289,50 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際.",
+          "lead": "Google expands eighth-generation TPU portfolio to target secure, high-context agentic AI.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y25XVGRIYWtiVVFMckpNT1FjNmxvQ2lvNGlJeF94WVB3VXlucWFfczBDTFZYSlV0NjZmUmNSQlJPM1J4Z0h1WG53ZFVITDNUX3psd2JQX0YtTzNRYk1J?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "Google expands eighth-generation TPU portfolio to target secure, high-context agentic AI",
+                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3VfV2Zhdml4UjNvTEdZMWhkZ1IxLW9aY2VnSWJwU0p2MTJLUC01RUMwckNyODdGYTlnMTZDN3lUSEtPb2VjcGxrZ0dhMDJfM3Zyc29TVi1fZ21JQk5NSkFxdUJKOUpobU9tT0RQcmFHbmJnTHhYVld1bDdMV3lGT0lXX0huSy0xOEFFa1dKamE?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
             }
           ]
-        }
-      ]
-    },
-    {
-      "label": "AI Infrastructure / Hyperscaler Capex",
-      "bullets": [
+        },
         {
-          "lead": "AI 데이터센터 투자 확대에 광통신주 급등…머큐리·RFHIC '불기둥'.",
+          "lead": "Taiwan's proposed Amazon Leo network would broaden emergency communications.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "AI 데이터센터 투자 확대에 광통신주 급등…머큐리·RFHIC '불기둥'",
-                  "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502290",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Taiwan's proposed Amazon Leo network would broaden emergency communications",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVBEOGllcWNJbl9TUEs4N2x2Y3JzRWNlbjlRRTBrbktjdVlhRWwzUm81VlQ2OFdQd1RpWGROOU8tcnkyTFYycnZiWXdPWUFWZWdYMFVZWDcwbEt0bURobXF6THYzZXZXX3VBOFNnWWRvOXQ0WEpHSmRLYUxVbWN4YXRXSWtxcFViS0ZvSGFzcGxQOU10?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "FTC Claims Amazon Tripled Ad Prices for Black Friday, Prime Day.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "FTC Claims Amazon Tripled Ad Prices for Black Friday, Prime Day",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWQzYVZxYzJPRGR0QWlRVFUxNzdhU0xQeF9vTmhsaHpkSXZDLVFsRlhNeWZ0VTFwWmJVYWE2N3Z5d2JIeGZhaWhrV2xiSmFPV0VLdEliMk04djljLXlRLTJlT1F3Xzl0Y3IxdDJ2NlFuNHNzRUVxYVJfQW03QXVYOGdFdFM0b2JjREhESUN3am5TNks1Y01hYU1UeGo?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -276,53 +344,66 @@
   ],
   "watchlist": [
     {
-      "name": "TRUMP",
-      "note": "Trump backs Nvidia's Huang amid affair, spy investigation",
-      "sources": [
-        {
-          "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
-          "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "Nvidia",
-      "note": "Trump backs Nvidia's Huang amid affair, spy investigation",
+      "note": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
       "sources": [
         {
-          "title": "Trump backs Nvidia's Huang amid affair, spy investigation",
-          "link": "https://www.axios.com/2026/11/09/trump-jensen-huang-nvidia",
-          "source": "Axios",
-          "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+          "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+          "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Meta",
-      "note": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際",
+      "name": "TRUMP",
+      "note": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
       "sources": [
         {
-          "title": "AI獲利壓力大？2027年誰能把算力變現？ Google、微軟、Meta財報揭兩難- 國際",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Y25XVGRIYWtiVVFMckpNT1FjNmxvQ2lvNGlJeF94WVB3VXlucWFfczBDTFZYSlV0NjZmUmNSQlJPM1J4Z0h1WG53ZFVITDNUX3psd2JQX0YtTzNRYk1J?oc=5",
-          "source": "Commercial Times 工商時報",
-          "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+          "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+          "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "BYD",
-      "note": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+      "name": "Amazon",
+      "note": "Taiwan's proposed Amazon Leo network would broaden emergency communications",
       "sources": [
         {
-          "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
-          "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
-          "source": "The Guardian Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+          "title": "Taiwan's proposed Amazon Leo network would broaden emergency communications",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVBEOGllcWNJbl9TUEs4N2x2Y3JzRWNlbjlRRTBrbktjdVlhRWwzUm81VlQ2OFdQd1RpWGROOU8tcnkyTFYycnZiWXdPWUFWZWdYMFVZWDcwbEt0bURobXF6THYzZXZXX3VBOFNnWWRvOXQ0WEpHSmRLYUxVbWN4YXRXSWtxcFViS0ZvSGFzcGxQOU10?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Palantir",
+      "note": "White House nominates Palantir's LoSapio to lead Homeland Security's cyber agency",
+      "sources": [
+        {
+          "title": "White House nominates Palantir's LoSapio to lead Homeland Security's cyber agency",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1lESnFEMDFzczJfZ1RlWGhlUmhjX3RlSFR6b2VGbjRQOWhNMHN4WWs2ZlpSTm05NGFUVXYyU3VkcnZzY29jZDVWZWhmMzR2NWZzMWwzN0FzSVA2UnpOa2xzYUlnSFJrSGRvNWRmeEUtbGF1YWo3SnNIRlJOX0drNXNuaHczVXVNYU56d0tTMkdBeUZ5TGdtTmtkQzM4SE9YMWNyWllZZ3ZnWDZWdXdjSnpIRTFvOUFLTmc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Tesla",
+      "note": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+      "sources": [
+        {
+          "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -397,67 +478,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7376.86,
-      "change": 20.13,
-      "change_pct": 0.27
+      "price": 7549.94,
+      "change": 175.09,
+      "change_pct": 2.37
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 24579.43,
-      "change": 252.06,
-      "change_pct": 1.04
+      "price": 25253.14,
+      "change": 679.92,
+      "change_pct": 2.77
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 51285.73,
-      "change": -238.4,
-      "change_pct": -0.46
+      "price": 52389.75,
+      "change": 1118.17,
+      "change_pct": 2.18
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2754.11,
-      "change": 24.91,
-      "change_pct": 0.91
+      "price": 2840.81,
+      "change": 87.16,
+      "change_pct": 3.17
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 58913.86,
-      "change": 1502.95,
-      "change_pct": 2.62
+      "price": 60003.79,
+      "change": 1253.34,
+      "change_pct": 2.13
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 24481.86,
-      "change": -315.12,
-      "change_pct": -1.27
+      "price": 24492.28,
+      "change": 43.33,
+      "change_pct": 0.18
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5113.31,
-      "change": 11.87,
-      "change_pct": 0.23
+      "price": 5215.71,
+      "change": 187.23,
+      "change_pct": 3.72
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 40736.95,
-      "change": 1019.73,
-      "change_pct": 2.57
+      "price": 42142.17,
+      "change": 462.06,
+      "change_pct": 1.11
     }
   ],
-  "story_count": 39,
-  "bucket_count": 9
+  "story_count": 65,
+  "bucket_count": 12
 }
