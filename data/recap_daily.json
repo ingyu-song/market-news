@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-10T03:56:29+00:00",
+  "generated_at": "2026-11-11T01:40:07+00:00",
   "mode": "daily",
-  "for_date": "2026-11-10",
+  "for_date": "2026-11-11",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 65 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 63 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "China exports, imports soar past expectations in October — surplus narrows sharply.",
+          "lead": "[시선집중] 젠슨황 쇼크...“삼전닉스, 중국 생산 줄이고 한국 늘려야 할...",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
-                  "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "[시선집중] 젠슨황 쇼크...“삼전닉스, 중국 생산 줄이고 한국 늘려야 할...",
+                  "link": "https://n.news.naver.com/mnews/article/214/0001534857?sid=100",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,16 +26,16 @@
           ]
         },
         {
-          "lead": "China’s Trade Surplus Passes $1 Trillion at Record Pace.",
+          "lead": "美 민주당, 젠슨 황·트럼프 행정부 압박…대중 AI칩 로비 조사.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-                  "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "美 민주당, 젠슨 황·트럼프 행정부 압박…대중 AI칩 로비 조사",
+                  "link": "https://n.news.naver.com/mnews/article/003/0014314932?sid=104",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -43,14 +43,14 @@
           ]
         },
         {
-          "lead": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns.",
+          "lead": "US lawmakers push China chip rules after Nvidia CEO allegations.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-                  "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+                  "title": "US lawmakers push China chip rules after Nvidia CEO allegations",
+                  "link": "https://www.investing.com/news/stock-market-news/schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo-5016683",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -65,14 +65,14 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "건설수주 49.3% 늘었지만…주택·고용 부진 지속.",
+          "lead": "수출 1조 달러ⵈ 363억 달러 남았다.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "건설수주 49.3% 늘었지만…주택·고용 부진 지속",
-                  "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420705",
+                  "title": "수출 1조 달러ⵈ 363억 달러 남았다",
+                  "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082158",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "Inflation Data to Test Limits of Treasury Rally After Haven Bid.",
+          "lead": "[오늘증시] 美금리·엔비디아發 악재에도 코스피 선방…코스닥도 강세.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGdKazB3cGVKLUR0VG45X1hQNEpxeVdwaVdUNEdSUl96YnlaQzRuSVgxa2F6NVE2dHU3SmRpOG5xNHdhT2pKS3RSOTdsbGxGYlVWMmxXQm9EUC1YQ1VudlVYeG5pLUJKbnRiczJDRVg2TXlJQlh0OE81dVNDLW1jdU1vT2tMZGRzV1VOeHR6TlVSbEFBTGNBMjh4Z2Zlc3VUei11SFkxcjI3U2EzS0llOEl1SnE?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "[오늘증시] 美금리·엔비디아發 악재에도 코스피 선방…코스닥도 강세",
+                  "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=818692",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,14 +99,14 @@
           ]
         },
         {
-          "lead": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes.",
+          "lead": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Gold Holds Gain Above $4,100 as Lower Oil Eases Inflation Woes",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWZxX1NKb3NlaFNCOHJlcE1kN2NRZjh0OEVaM3hQS1dQX0t4VkFadURVZzJhVE45Mlk0a2RWajItRjdDdWxBSU1mcWZBYng4cnBFUTNSSWE3VnQyOUE0WnRVWGtpcFNZejlNWlJLelgwNk9hWjRsZ3ZyYU1ERnQ1cS1VRWk5dG1PcUJoU01SeURPQUZoN3RnVEFTM1FkVzRORU9PWUpHN20wYXZpOU9jNGd3?oc=5",
+                  "title": "Asian Stocks, Bonds to Drop as Fed Hike Bets Mount: Markets Wrap",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -121,14 +121,31 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns.",
+          "lead": "美 민주당, 젠슨 황·트럼프 행정부 압박…대중 AI칩 로비 조사.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-                  "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+                  "title": "美 민주당, 젠슨 황·트럼프 행정부 압박…대중 AI칩 로비 조사",
+                  "link": "https://n.news.naver.com/mnews/article/003/0014314932?sid=104",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
+                  "link": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -138,33 +155,16 @@
           ]
         },
         {
-          "lead": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal.",
+          "lead": "Trump administration finalizes $480 million loan to Arena, in first such aid to oil and gas.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
-                  "link": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-                  "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                  "title": "Trump administration finalizes $480 million loan to Arena, in first such aid to oil and gas",
+                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRktLNWo1UVNPc3A4Yy0zWDFESVl1TDVwRnluOXVDY2w0RmF1OGFWb05icUx2ckVJLWViRy1Ra0ZUUXFCdndHNjVjdzNkY3hSTEl1WWtReGs3N3Y0ZUZTNDBkMy1ORFRQaVFWR0lVOHR3VE81bnQ2U3pqaHV3MzNPWmdmd252bTNPV25wdkNfWnhJUEFDSWxJU1JSWWg3YTRZaFY3cGk4dDVSUEU1SWlfYkpTUS14MUtJVHF0OHpVZTFNa0k?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,14 +177,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "엔비디아, 국내 AI 산업 본격 확장...젠슨 황 논란에 업계 '촉각'.",
+          "lead": "[오늘증시] 美금리·엔비디아發 악재에도 코스피 선방…코스닥도 강세.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "엔비디아, 국내 AI 산업 본격 확장...젠슨 황 논란에 업계 '촉각'",
-                  "link": "https://www.cwn.kr/news/articleView.html?idxno=61402",
+                  "title": "[오늘증시] 美금리·엔비디아發 악재에도 코스피 선방…코스닥도 강세",
+                  "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=818692",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -194,14 +194,14 @@
           ]
         },
         {
-          "lead": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns.",
+          "lead": "US lawmakers push China chip rules after Nvidia CEO allegations.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-                  "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+                  "title": "US lawmakers push China chip rules after Nvidia CEO allegations",
+                  "link": "https://www.investing.com/news/stock-market-news/schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo-5016683",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -211,14 +211,14 @@
           ]
         },
         {
-          "lead": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal.",
+          "lead": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
-                  "link": "https://www.investing.com/news/stock-market-news/trump-says-fbi-investigating-nvidia-ceo-huang-over-chinese-scandal-5014009",
+                  "title": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
+                  "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -233,16 +233,16 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "汎瑋AI伺服器高導熱及人形機器人緩衝材料訂單拉貨看俏 全年EPS上看5~5.5元.",
+          "lead": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "汎瑋AI伺服器高導熱及人形機器人緩衝材料訂單拉貨看俏 全年EPS上看5~5.5元",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nMGtxLWhQMmFObnlQZ1N0SEM2SjFyakdIRE9GcFhGWWF5OVJlVGJZQTJESFQzS1pHMUVkZ2oyR1paZElza05yel9aLVFUTi1zY1p6ZXlOaXB0TW9HX3hV?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+                  "link": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -250,16 +250,16 @@
           ]
         },
         {
-          "lead": "KHGEARS posts record October revenue as new product shipments continue.",
+          "lead": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "KHGEARS posts record October revenue as new product shipments continue",
-                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWlzZjFWUnJ2LUVCYTdvM0FyOXBycXh6OC1NLTZtZjYxdTJvVDRiRzB3Mkx3enVrLWJKald6R3Y2QUpEY3dTSVdfZHF3VGNVaTdBSmtfZ0ZhY1FWU3Y0MnVfb0hNRm9vNUpxNGVObVp0WFNEeGpxVXVPOWNINEptR3Z0V0tnNVZFdmVUbFQ2NTFrNWdvVFE?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+                  "link": "https://www.investing.com/news/stock-market-news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports-5017353",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -267,16 +267,16 @@
           ]
         },
         {
-          "lead": "Environmental engineering and advanced process materials drive Topco's revenue above full-year 2025 level in first 10 months.",
+          "lead": "CoreWeave raises revenue forecast as AI demand defies growing doubts.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Environmental engineering and advanced process materials drive Topco's revenue above full-year 2025 level in first 10 months",
-                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRjBkWTVmTjl3cHFrZzBRd1RUZzFWRUF4UGZISXlOTFRYNjBUT1QyWUo2bUx4YnFORERlbWFCRlA3TGpWX2ptVGVoQmxjQ3FHX3Y2eUFOdDNkYjFBNmZkUEdfNGxGUU1ya2U5R3dMLTZPNmc0TnhsTnpzWjE3bFZRcV92dXlMZTVOcjNYLVhxNzRHSzU5bmRKSHVSbEg?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "CoreWeave raises revenue forecast as AI demand defies growing doubts",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYW16c2FCODY2R0c2NmhNcXU4aldCVDlBZDNRR3l6M0hxNmI0WUd3VjZRdmwxZGx2bTlOQ2VVSUZrdTlQemxiY2I4b2tMdGs2Qm4xNEo4UDBlaDJ2S3VzZzNOZF9QTFZ3X1NuRDFwVWM4N0h1endtYVFJVUpiNHVGdmU0X19sTmhzR3c3bVdVdUJ2WTJIZURmYVlGUkRJWWsxM3hfLXp6YzB6dnQxbWhQSnR0bXhpbjFWTVdNbA?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -289,16 +289,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Google expands eighth-generation TPU portfolio to target secure, high-context agentic AI.",
+          "lead": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Google expands eighth-generation TPU portfolio to target secure, high-context agentic AI",
-                  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3VfV2Zhdml4UjNvTEdZMWhkZ1IxLW9aY2VnSWJwU0p2MTJLUC01RUMwckNyODdGYTlnMTZDN3lUSEtPb2VjcGxrZ0dhMDJfM3Zyc29TVi1fZ21JQk5NSkFxdUJKOUpobU9tT0RQcmFHbmJnTHhYVld1bDdMV3lGT0lXX0huSy0xOEFFa1dKamE?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
+                  "link": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -306,16 +306,16 @@
           ]
         },
         {
-          "lead": "Taiwan's proposed Amazon Leo network would broaden emergency communications.",
+          "lead": "Amazon and Google Win Big From Anthropic IPO.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Taiwan's proposed Amazon Leo network would broaden emergency communications",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVBEOGllcWNJbl9TUEs4N2x2Y3JzRWNlbjlRRTBrbktjdVlhRWwzUm81VlQ2OFdQd1RpWGROOU8tcnkyTFYycnZiWXdPWUFWZWdYMFVZWDcwbEt0bURobXF6THYzZXZXX3VBOFNnWWRvOXQ0WEpHSmRLYUxVbWN4YXRXSWtxcFViS0ZvSGFzcGxQOU10?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Amazon and Google Win Big From Anthropic IPO",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDE4S1RTcDdIQUg3SXN2VURMbFBURlZDcWp0eHJBbTYyTVpXd3l3Y0g3c0V2dkUzMHF2LVpxZlZUVVlhUUFBZUdIdDdLSGRkclU0SlV4M3FpcERTTTNIV1lHWW9BZ0ZLOGtfMVR2Tk5EZDdUQkhNZHZTSGNYM1VuSFBHNkc5TVNsMHNZZzNIZ1Z2SWo2UkE?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -323,16 +323,16 @@
           ]
         },
         {
-          "lead": "FTC Claims Amazon Tripled Ad Prices for Black Friday, Prime Day.",
+          "lead": "More than 30 states WILL join the FTC's case against Amazon by year-end.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "FTC Claims Amazon Tripled Ad Prices for Black Friday, Prime Day",
-                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWQzYVZxYzJPRGR0QWlRVFUxNzdhU0xQeF9vTmhsaHpkSXZDLVFsRlhNeWZ0VTFwWmJVYWE2N3Z5d2JIeGZhaWhrV2xiSmFPV0VLdEliMk04djljLXlRLTJlT1F3Xzl0Y3IxdDJ2NlFuNHNzRUVxYVJfQW03QXVYOGdFdFM0b2JjREhESUN3am5TNks1Y01hYU1UeGo?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "More than 30 states WILL join the FTC's case against Amazon by year-end",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMzVEcjktYWd5QVFGMmktTmFXRUlrcTdZOUhSVW5VWHA3aGwycFY4VW5GUXJFWEN6TnpyQzY2RHNfVHJJRHp3UWNNS2FXNkl5dGViYkItSmYyeDR5Y1ZpeXQ0N1BlaEFfMWZBdkZQaUIyQmd6NkQ2ampFckVSOXVlbmI1ZGkzcmdmbkxiNUJmbThZYVRoVXFtV2hQbENXVWdVR3VOd1hBQm53QQ?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -344,25 +344,12 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-      "sources": [
-        {
-          "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-          "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "TRUMP",
-      "note": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
+      "note": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
       "sources": [
         {
-          "title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-          "link": "https://www.investing.com/news/stock-market-news/trumps-close-ties-to-nvidias-huang-scrutinized-after-foreign-intelligence-concerns-5012979",
+          "title": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
+          "link": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
@@ -370,12 +357,38 @@
       "x_mentions": []
     },
     {
-      "name": "Amazon",
-      "note": "Taiwan's proposed Amazon Leo network would broaden emergency communications",
+      "name": "Nvidia",
+      "note": "US lawmakers push China chip rules after Nvidia CEO allegations",
       "sources": [
         {
-          "title": "Taiwan's proposed Amazon Leo network would broaden emergency communications",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVBEOGllcWNJbl9TUEs4N2x2Y3JzRWNlbjlRRTBrbktjdVlhRWwzUm81VlQ2OFdQd1RpWGROOU8tcnkyTFYycnZiWXdPWUFWZWdYMFVZWDcwbEt0bURobXF6THYzZXZXX3VBOFNnWWRvOXQ0WEpHSmRLYUxVbWN4YXRXSWtxcFViS0ZvSGFzcGxQOU10?oc=5",
+          "title": "US lawmakers push China chip rules after Nvidia CEO allegations",
+          "link": "https://www.investing.com/news/stock-market-news/schumer-says-congress-must-have-answers-on-trump-defense-of-nvidia-ceo-5016683",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Microsoft",
+      "note": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
+      "sources": [
+        {
+          "title": "Exclusive-Microsoft presses Trump to scuttle ban on Chinese data center tech",
+          "link": "https://www.investing.com/news/stock-market-news/exclusivemicrosoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology-5014745",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "OpenAI",
+      "note": "TSMC plans investments in Anthropic, OpenAI; sets up investment firm to expand semiconductor strategy",
+      "sources": [
+        {
+          "title": "TSMC plans investments in Anthropic, OpenAI; sets up investment firm to expand semiconductor strategy",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnhKZVRwNmpEbklRcG03cEdQUi1yZmFEYURJRW02UFFRZThhUVpZVVp2c0hxYnFQZmdmVHVjV01Ob3l3MlEySkpZcUJhdWhfVUdBVnRXbUlueDR2NENyNTBUZ24zOXdyQkdTVzhOSmFkSXVUU291U19GalBNTGhGQ0lYLUVta1hWNWNZZmltekctSlVn?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
@@ -383,27 +396,14 @@
       "x_mentions": []
     },
     {
-      "name": "Palantir",
-      "note": "White House nominates Palantir's LoSapio to lead Homeland Security's cyber agency",
+      "name": "Anthropic",
+      "note": "TSMC plans investments in Anthropic, OpenAI; sets up investment firm to expand semiconductor strategy",
       "sources": [
         {
-          "title": "White House nominates Palantir's LoSapio to lead Homeland Security's cyber agency",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1lESnFEMDFzczJfZ1RlWGhlUmhjX3RlSFR6b2VGbjRQOWhNMHN4WWs2ZlpSTm05NGFUVXYyU3VkcnZzY29jZDVWZWhmMzR2NWZzMWwzN0FzSVA2UnpOa2xzYUlnSFJrSGRvNWRmeEUtbGF1YWo3SnNIRlJOX0drNXNuaHczVXVNYU56d0tTMkdBeUZ5TGdtTmtkQzM4SE9YMWNyWllZZ3ZnWDZWdXdjSnpIRTFvOUFLTmc?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Tesla",
-      "note": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-      "sources": [
-        {
-          "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "TSMC plans investments in Anthropic, OpenAI; sets up investment firm to expand semiconductor strategy",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnhKZVRwNmpEbklRcG03cEdQUi1yZmFEYURJRW02UFFRZThhUVpZVVp2c0hxYnFQZmdmVHVjV01Ob3l3MlEySkpZcUJhdWhfVUdBVnRXbUlueDR2NENyNTBUZ24zOXdyQkdTVzhOSmFkSXVUU291U19GalBNTGhGQ0lYLUVta1hWNWNZZmltekctSlVn?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -478,67 +478,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7549.94,
-      "change": 175.09,
-      "change_pct": 2.37
+      "price": 7520.93,
+      "change": -28.08,
+      "change_pct": -0.37
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 25253.14,
-      "change": 679.92,
-      "change_pct": 2.77
+      "price": 25065.88,
+      "change": -185.52,
+      "change_pct": -0.73
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52389.75,
-      "change": 1118.17,
-      "change_pct": 2.18
+      "price": 52231.89,
+      "change": -156.68,
+      "change_pct": -0.3
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2840.81,
-      "change": 87.16,
-      "change_pct": 3.17
+      "price": 2821.38,
+      "change": -19.53,
+      "change_pct": -0.69
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 60003.79,
-      "change": 1253.34,
-      "change_pct": 2.13
+      "price": 60942.11,
+      "change": 517.89,
+      "change_pct": 0.86
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 24492.28,
-      "change": 43.33,
-      "change_pct": 0.18
+      "price": 24354.19,
+      "change": -94.76,
+      "change_pct": -0.39
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5215.71,
-      "change": 187.23,
-      "change_pct": 3.72
+      "price": 5276.1,
+      "change": 25.66,
+      "change_pct": 0.49
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 42142.17,
-      "change": 462.06,
-      "change_pct": 1.11
+      "price": 42903.56,
+      "change": 314.18,
+      "change_pct": 0.74
     }
   ],
-  "story_count": 65,
+  "story_count": 63,
   "bucket_count": 12
 }
