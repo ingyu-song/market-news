@@ -1,39 +1,22 @@
 {
-  "generated_at": "2026-11-12T02:40:01+00:00",
+  "generated_at": "2026-11-13T02:20:09+00:00",
   "mode": "daily",
-  "for_date": "2026-11-12",
+  "for_date": "2026-11-13",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 59 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 60 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "\"앨리스 황, 현재 베이징 체류 중…중국 보안당국 인지\".",
+          "lead": "China’s access to Nvidia chips in doubt as curbs gain traction in US Congress.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "\"앨리스 황, 현재 베이징 체류 중…중국 보안당국 인지\"",
-                  "link": "https://n.news.naver.com/mnews/article/057/0001977869?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight",
-                  "link": "https://www.investing.com/news/stock-market-news/trumps-ties-to-nvidia-ceo-jensen-huang-in-the-spotlight-5020179",
+                  "title": "China’s access to Nvidia chips in doubt as curbs gain traction in US Congress",
+                  "link": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -43,16 +26,33 @@
           ]
         },
         {
-          "lead": "Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps.",
+          "lead": "Oil Holds Gain as Trump Says US Doesn’t Need a Deal With Iran.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Taiwan mobilizes academic R&D to address post-Moore semiconductor equipment gaps",
-                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTV1VkpMaHg3bHNSUWx6VHF4MDdKam5nQU5GZHd6cGJoM052RS1TQlZpcy1BMTNzczVhOUN3dVpmeHNVU3UyZTBGeDFYMFBjaFU0S1diY19XVUczNlNCbzhEYlhmRDVkOWgtOVZTcElmMlpjSDV6eGN4RHl4eUlOLUtBdmhTRHp2aFBwajhtdGVkbzNhcDZqVmNDWXhLQjlBdUE?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Oil Holds Gain as Trump Says US Doesn’t Need a Deal With Iran",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUZPalZVeXJPblBWRk9oeUJmUlpLanVvemFJWlJaWm16RGxYSWE3UE44czR3N09QaXVLTFFkOTdQMjJrd2NDVTYxZld3Y2MwLW14d2ZmTFhHNHZTVDhCMU9GMlN1aXZITEllYkplLUFTZDJWbGNBSk9IY1kwSFN6cUY4aEVab2lNYUEtOEZpWXlkaHR4V2Q0OE9UbmEwUQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump Bets Shaky Iran Status Quo Will Hold After Midterm Loss.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump Bets Shaky Iran Status Quo Will Hold After Midterm Loss",
+                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVE8zbG1nOS1wbW9jblRMemdVSHZsbkFteVloZWxhZWJJS3pSTWc0VjlFTXd5YVRsSFJmV1JBTW8zRUVReWdzWlBjMzdyRTdvWkNmd2RWcWY5SFVMbFhKeUNpM1pOUlNUR25lZzNQX3EzWVUtZF9rajBuV0dxYkdsQS00N2xLaFJWTE5SY0dNdDV5V0dZRldUZ1NrM3JiRkYwalZFcnVraWgzU2hCWHc5NkpB?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike.",
+          "lead": "Bank of Canada Raised Rates to Mitigate Inflation Risk, Minutes Say.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Gold Holds Below $4,000 as Market Looks Ahead to Fed Rate Hike",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Bank of Canada Raised Rates to Mitigate Inflation Risk, Minutes Say",
+                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWkRteENhbmpUU1lDbFBRdzZ3dDhhM2FUd2JqTFk2S2l6S0x6MFU5VVFWWndIS19LV3QwSDVUamxDYkYtdW5rRmNjeENKMFNRRm9TdnVoLXlxQVJjeWVZVWxDR3VrOTk3andWOWZNNy1aSXNGazNQUWdQWlpSTmREVGVVQjlVemVnVldvLWdpYjdQSnd4NVdBNnVYbHNrdVVZOWlGZG15THN5bUZWRlFyRElMYkFFOEtKNXJJ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "ANZ CEO Matos Warns of Global Jobs Crisis Without AI Rules.",
+          "lead": "China Producer Inflation Accelerates to Over Four-Year High.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "ANZ CEO Matos Warns of Global Jobs Crisis Without AI Rules",
-                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFU3TEpfMFRpVW54RktMUnZsQXFEbS0zRUt6bG44VjhXSTg1c2NPbG1vSWdaUmh0c1lxN3NnMU9mUGNzbVF2ZWRsSjVXMHNodWhSRmtJSnh5MjhFNDdTampBVjQ1RmJWRV83bTk1UU50bm9GQ3FUS2xEXy1yV19ZWVRGYXUwYk1wUmxQNW5oN19RbFhHSGFKWi1zWERzb1Q4cGdZaE9FdVJUY2dIZ1E?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "China Producer Inflation Accelerates to Over Four-Year High",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcm1tR2Voci0zUnpsNlVhbzdXQ19DNDB3anhvdU9HZGRtYjE0akY0b0VHZi0xUndnYTkxOExkOHUyTmxHNnJMZzFldjRDRXFxNDE1S2ZZX014aWhxdFFqR1ExbGFEV0FDNHBuMElPOVNwZjYwY20ydlJna2hoN3N5OTJEbGRJbmxwOXZFZWdzMjd6UklTZTRabVBiNkE?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,16 +99,16 @@
           ]
         },
         {
-          "lead": "Indonesia Bonds Lure Global Funds as Yields Hit Six-Year High.",
+          "lead": "Gold Falls to More Than 1-Year Low As U.S. Dollar, Yields Rise.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Indonesia Bonds Lure Global Funds as Yields Hit Six-Year High",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2cweldlZGJtYlJGTUhmbEVNUnJuYXlFcGdMb2pmQWc2bllITjBMdTFJNzRvcGlLMGhBRXdqMThrWjY1MkNwVGRIbFJPVmlXbUJVam55WlZveGN4WW9aUWgtRFJUNDFwM0YwM3luemN5SzhQYUlVNkN1N25NN3ZMTmI1SUNlakZ1bmhJSGxZa0duV05MVWozRjZOa2V1UkQtUmhWOS1xT1l5MDZTQk9VMHB3?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Gold Falls to More Than 1-Year Low As U.S. Dollar, Yields Rise",
+                  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFRSMC1GZ0NrUl9iRUdXSnFXX0xRTXNTb0dkTTluUE9HMGp3d3N4OG51U0s0WUs2aEVTTEJrYVRyVExXYjJYUzAwWEtHcUx1ZXVFNVkzZV9YWUN3TWE3R2RvdHNPUzJSektyTWpvV1RpSEp4QXVQZ0puLUFNRUZnU2xWYlhaVzIyYVJzN2Z5aWE3UU02Q2tGekp2eXZwa1oyRGpDbGl1NXE?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -121,14 +121,31 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight.",
+          "lead": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight",
-                  "link": "https://www.investing.com/news/stock-market-news/trumps-ties-to-nvidia-ceo-jensen-huang-in-the-spotlight-5020179",
+                  "title": "Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew",
+                  "link": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "US Senate Banking Committee chair calls on Jensen Huang, Lutnick to testify",
+                  "link": "https://www.investing.com/news/stock-market-news/us-senate-banking-committee-chair-calls-on-jensen-huang-lutnick-to-testify-5023793",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
@@ -138,33 +155,16 @@
           ]
         },
         {
-          "lead": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown.",
+          "lead": "Oil Holds Gain as Trump Says US Doesn’t Need a Deal With Iran.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
-                  "link": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-                  "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Oil Holds Gain as Trump Says US Doesn’t Need a Deal With Iran",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUZPalZVeXJPblBWRk9oeUJmUlpLanVvemFJWlJaWm16RGxYSWE3UE44czR3N09QaXVLTFFkOTdQMjJrd2NDVTYxZld3Y2MwLW14d2ZmTFhHNHZTVDhCMU9GMlN1aXZITEllYkplLUFTZDJWbGNBSk9IY1kwSFN6cUY4aEVab2lNYUEtOEZpWXlkaHR4V2Q0OE9UbmEwUQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,14 +177,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "엔비디아 이사회, 젠슨 황 ‘해임 논의’ 착수.",
+          "lead": "젠슨 황 떠난 엔비디아, 게이머들 '공포' 퍼진 이유.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "엔비디아 이사회, 젠슨 황 ‘해임 논의’ 착수",
-                  "link": "https://n.news.naver.com/mnews/article/016/0002722610?sid=104",
+                  "title": "젠슨 황 떠난 엔비디아, 게이머들 '공포' 퍼진 이유",
+                  "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216961",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -194,14 +194,14 @@
           ]
         },
         {
-          "lead": "젠슨 황, 사내 추가 불륜설에 엔비디아 이사회 해임 준비설.",
+          "lead": "젠슨 황 없는 엔비디아 괜찮을까…월가 \"향후 3년은 끄떡없다\".",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "젠슨 황, 사내 추가 불륜설에 엔비디아 이사회 해임 준비설",
-                  "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=95084",
+                  "title": "젠슨 황 없는 엔비디아 괜찮을까…월가 \"향후 3년은 끄떡없다\"",
+                  "link": "https://n.news.naver.com/mnews/article/003/0014320461?sid=104",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -211,16 +211,16 @@
           ]
         },
         {
-          "lead": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future.",
+          "lead": "AMD, '버설 TR' 디바이스 발표 ··· 반도체 후면에 물리적 공격 방어 기...",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
-                  "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "AMD, '버설 TR' 디바이스 발표 ··· 반도체 후면에 물리적 공격 방어 기...",
+                  "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300136",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,16 +233,16 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "[특징주] 심텍홀딩스, 3분기 영업이익 4000% 폭증·반도체 기판 훈풍에...",
+          "lead": "Cisco lifts annual revenue forecast on strong AI networking demand.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "[특징주] 심텍홀딩스, 3분기 영업이익 4000% 폭증·반도체 기판 훈풍에 ...",
-                  "link": "https://www.widedaily.com/news/articleView.html?idxno=303499",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Cisco lifts annual revenue forecast on strong AI networking demand",
+                  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDgteG5IeXZjU1k1UDdhbFkyZlVCaHI1d0pPdGp2elFReVRRclN6dWhTM2NuSUk3cGdUSnRRU2c4aWpCcS14blFsN3hLTTNCSktQbXpTUVgxRjVJV1R1YldHdEVYMXJvVHg3TzJiOXhEM0owM08ySlI1bmNkMG5GQXhnQl9iVExNWlN1Z0ZweFk3YldGWDltNFpnekdDZWpVcTJ3QTFlUUxNWXlLX0NjLUhvTjRtNzlrYnlXdXJiTmc?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -250,16 +250,16 @@
           ]
         },
         {
-          "lead": "PCB giant Zhen Ding targets 2028 for 50% AI business revenue share.",
+          "lead": "Cisco Raises Sales Guidance in Sign of AI-Fueled Momentum.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "PCB giant Zhen Ding targets 2028 for 50% AI business revenue share",
-                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnhwZlZZWmlZT3ZkRUpFY1RiVTJMVnRCS2tvZVo3dHpzMzVSXzhBZkFhQ19fek5MN0FVTjNuOFNHUFFfLWR5Q0pETGJLYjVCQ1VObGNEXzdYMUluWU5wMVpSMWMzTWRERjRNZFV5MmpXNmp1UTJwQ1ZlUTVxNXl5ZGdyT3hjRm1OQjFkX2huMndxMzIwaXc?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Cisco Raises Sales Guidance in Sign of AI-Fueled Momentum",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTI3SjM0X2d3dFJKVGJ1bi1HWjhXSmZEcEw1TkUycUJiOTNwUnByMDJwT0EwbE5kNzBWWWlhVWpfaktPd0VIWW83b0hONWVvaGtSdU40cF9xeW4wb0FvdkZYdFNHUEcwOFRDRlVmajJyTzdCYTdxcE9NNDc2Zk5vXzNPcWEwbjFheE85MFRlWS1nNW1lcE1Md2duYXhIRlZocGpVdVN2eXVNbkhT?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -267,16 +267,16 @@
           ]
         },
         {
-          "lead": "Ennoconn posts record third-quarter revenue, targets 20% ROE by 2030.",
+          "lead": "Applied Materials forecasts quarterly revenue above estimates on strong AI chip demand.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Ennoconn posts record third-quarter revenue, targets 20% ROE by 2030",
-                  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjFKVzNLTnNoa3U1eXNqS1dnblNaaFNBblRhUVZtS1VfcHc2VHJTN2RUYnk3czdKNWNFZFZteEtKQXk5QkxuMUhHcUp6ZG13QWU4U1JOZHAxVzFwY2U4NzVUU0gySnRBaVlMSC1sTFNENEtTRWk3d1BPS3R5dTdvdUxjSnBPR19lNnlvYURuM19yRlZsc1V1ag?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Applied Materials forecasts quarterly revenue above estimates on strong AI chip demand",
+                  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVJYSC1hal9odmptblkwc25YV0pZQXBaaTd0SGFyMW5tT1ZtNzZaTlN0OGFnY2I0dnI3ZmZRaXpwUThvZW5kay1tMElieklOVVZLTDFBTmtQbkpiSWpUZzlLNnZPRmlJSkxoWVZhZGlveTdzNjVsN0ZtZUVMMnk2REQtYmRHRzQwMDhNMVBYQXVQbjBpcHNNYnFWWldTbUItYV9pT1hMYkwwZi1jS0pvZXp4eHJhbHE4OEp6RW13?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -289,50 +289,50 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny.",
+          "lead": "Microsoft Labors to Fix Long Outage of Office, Outlook, Copilot.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny",
-                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZ5Z0pKYS0wTHBjSE5aYVVqTDgzdzZTQkRaY2ZpNDJWalNEU1hicGEzX3FJd2pjUGNjalZ3dzVyM1Z5RTJSaVNyTGtxR0VCQ3JlU3lZOXg0eXUyWTFsaVQ3Y1ZhOXhMM19OLTN2bGJ4Q094OFM4V1VmVi16eFpFcVhkTkVNbkNZeDd5UnpEZU1CbVRJZHY1SF9yOG4zSVpPbVRVYnhwSkROWVNLX2Iw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Microsoft Vows to Pay Its Own Way to Power Data Centers.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Microsoft Vows to Pay Its Own Way to Power Data Centers",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdoX2lkTENMZU93QnRMcXZwM0hnNTMtRHdyV0M1YVpWTDljbFkwOUpiNWxCbm04bnlUa1djMHYtWUZNWnc1dVdrQk9vWjJrQnBvZDBLRE9TTGtuUWw0UlNreE1OUDRhc2djdi1lSWhkUWt2dTVyLTkwUVNucVZrLTZYVHVKdGNWS19DSnVlSWxCdnlES2d6NWt5OERrcGpfaFdWVTJXZFJ2UQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Meta’s Infrastructure Chief Is Leaving Amid Massive AI Buildout.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Meta’s Infrastructure Chief Is Leaving Amid Massive AI Buildout",
-                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUY2MXRoNXBrQTBISnYtdkxELU5WM3lVMmpEbjhZQ2J0V0pLQUNoMEhzbkhKSFVnSDV2OEtOQmRxSVBLeXBvc3FyR0dDNW9FWHVFRWlxZi1JSlhRbF90TWdTaldzUjB0ZjdUWGd2blMtOFNybVpPaGt1NjVuZFBEcmVOMWo4dEd0ZzJWU2ZHQnBHU3ZFT2thME1vUzZHSFJ2c0E?oc=5",
+                  "title": "Microsoft Labors to Fix Long Outage of Office, Outlook, Copilot",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3B1QV9NM0haRUQwR2dRbFdhZmVxZEcxaFNpb1JSZ01SSWtHUDNSenpQSmw1QmtLZ2V5bmFaNkF1MlFYVkQ3QTR4UllieGYwZXdNM2lvZFFkS08tTXhsc0NJZnNnZWpzVFhja0pOTXBxR0czQVlHaG5aR21KQjZfcFFpTWdJS0xrX3VwSVlqYlZvbUFZZEotUlp4OVg?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Microsoft struggling to restore service as global outage affects Outlook and Teams.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+                  "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Outlook, Teams and More Microsoft Programs Disrupted by Outage.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+                  "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -344,66 +344,66 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight",
-      "sources": [
-        {
-          "title": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight",
-          "link": "https://www.investing.com/news/stock-market-news/trumps-ties-to-nvidia-ceo-jensen-huang-in-the-spotlight-5020179",
-          "source": "Investing.com",
-          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "TRUMP",
-      "note": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight",
+      "note": "Oil Holds Gain as Trump Says US Doesn’t Need a Deal With Iran",
       "sources": [
         {
-          "title": "Trump’s ties to Nvidia CEO Jensen Huang in the spotlight",
-          "link": "https://www.investing.com/news/stock-market-news/trumps-ties-to-nvidia-ceo-jensen-huang-in-the-spotlight-5020179",
+          "title": "Oil Holds Gain as Trump Says US Doesn’t Need a Deal With Iran",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUZPalZVeXJPblBWRk9oeUJmUlpLanVvemFJWlJaWm16RGxYSWE3UE44czR3N09QaXVLTFFkOTdQMjJrd2NDVTYxZld3Y2MwLW14d2ZmTFhHNHZTVDhCMU9GMlN1aXZITEllYkplLUFTZDJWbGNBSk9IY1kwSFN6cUY4aEVab2lNYUEtOEZpWXlkaHR4V2Q0OE9UbmEwUQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Nvidia",
+      "note": "China’s access to Nvidia chips in doubt as curbs gain traction in US Congress",
+      "sources": [
+        {
+          "title": "China’s access to Nvidia chips in doubt as curbs gain traction in US Congress",
+          "link": "https://www.investing.com/news/stock-market-news/speaker-johnson-says-congress-developing-consensus-on-limiting-chip-exports-to-china-5022288",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "AMD",
-      "note": "AMD targets lower DRAM use with AI-predictive memory management",
-      "sources": [
-        {
-          "title": "AMD targets lower DRAM use with AI-predictive memory management",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0NfQm8zLWRuWGdhRGZ4MU9kdnl5Q0lVT09VN0o1UUhqV0NoNzVYS0tZUmVVV0xlZnNmMUJRWXhpVmVVTzkwNThzWDI0Z1c3LXBDc3BBcDhnckc5NlQwMmJ3MWFJZXl4T0tzT3JTZUNpQlZjcEE2aVI4d28yQlMwX0JKMUlzWHlYWGVaa0Rtcw?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Amazon",
-      "note": "Dylanex Announces Q4 Inventory Preparation Guidance for Amazon Sellers Ahead of Holiday Shopping Season",
-      "sources": [
-        {
-          "title": "Dylanex Announces Q4 Inventory Preparation Guidance for Amazon Sellers Ahead of Holiday Shopping Season",
-          "link": "https://markets.businessinsider.com/news/stocks/dylanex-announces-q4-inventory-preparation-guidance-for-amazon-sellers-ahead-of-holiday-shopping-season-1036749718",
-          "source": "Business Insider Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Microsoft",
-      "note": "Microsoft Vows to Pay Its Own Way to Power Data Centers",
+      "note": "Microsoft Labors to Fix Long Outage of Office, Outlook, Copilot",
       "sources": [
         {
-          "title": "Microsoft Vows to Pay Its Own Way to Power Data Centers",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGdoX2lkTENMZU93QnRMcXZwM0hnNTMtRHdyV0M1YVpWTDljbFkwOUpiNWxCbm04bnlUa1djMHYtWUZNWnc1dVdrQk9vWjJrQnBvZDBLRE9TTGtuUWw0UlNreE1OUDRhc2djdi1lSWhkUWt2dTVyLTkwUVNucVZrLTZYVHVKdGNWS19DSnVlSWxCdnlES2d6NWt5OERrcGpfaFdWVTJXZFJ2UQ?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "Microsoft Labors to Fix Long Outage of Office, Outlook, Copilot",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3B1QV9NM0haRUQwR2dRbFdhZmVxZEcxaFNpb1JSZ01SSWtHUDNSenpQSmw1QmtLZ2V5bmFaNkF1MlFYVkQ3QTR4UllieGYwZXdNM2lvZFFkS08tTXhsc0NJZnNnZWpzVFhja0pOTXBxR0czQVlHaG5aR21KQjZfcFFpTWdJS0xrX3VwSVlqYlZvbUFZZEotUlp4OVg?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Tesla",
+      "note": "SpaceX and Tesla Could Announce Merger as Soon as December",
+      "sources": [
+        {
+          "title": "SpaceX and Tesla Could Announce Merger as Soon as December",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVGZXSi1LT2FaS0JXMFJuOVJfOTVFdy1LSzUzLUFsNXRtdDROTndoTDFZWFRaRWhXTUNLTXFLWVNZa29LZGhQbHcyWk5SQjdZWTRUcm1kV1pDY294OHMyamVNdG5pcVNtSE9rQnJ1c25zaUFzVkY0MXdDN2hYcGxYanl1ZUVPb09CQndZ?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "AMD",
+      "note": "AMD, '버설 TR' 디바이스 발표 ··· 반도체 후면에 물리적 공격 방어 기...",
+      "sources": [
+        {
+          "title": "AMD, '버설 TR' 디바이스 발표 ··· 반도체 후면에 물리적 공격 방어 기...",
+          "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300136",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -478,67 +478,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7619.38,
-      "change": 97.11,
-      "change_pct": 1.29
+      "price": 7592.4,
+      "change": -25.44,
+      "change_pct": -0.33
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 25466.19,
-      "change": 396.4,
-      "change_pct": 1.58
+      "price": 25366.09,
+      "change": -98.48,
+      "change_pct": -0.39
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 52486.49,
-      "change": 252.76,
-      "change_pct": 0.48
+      "price": 52297.09,
+      "change": -179.83,
+      "change_pct": -0.34
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2846.26,
-      "change": 24.93,
-      "change_pct": 0.88
+      "price": 2799.06,
+      "change": -46.9,
+      "change_pct": -1.65
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 61752.54,
-      "change": 467.07,
-      "change_pct": 0.76
+      "price": 61839.27,
+      "change": 1040.43,
+      "change_pct": 1.71
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 24059.52,
-      "change": -256.4,
-      "change_pct": -1.05
+      "price": 23868.4,
+      "change": -140.15,
+      "change_pct": -0.58
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5436.25,
-      "change": 63.82,
-      "change_pct": 1.19
+      "price": 5452.35,
+      "change": 131.1,
+      "change_pct": 2.46
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 44448.37,
-      "change": 406.71,
-      "change_pct": 0.92
+      "price": 44356.66,
+      "change": 1334.04,
+      "change_pct": 3.1
     }
   ],
-  "story_count": 59,
-  "bucket_count": 13
+  "story_count": 60,
+  "bucket_count": 11
 }
