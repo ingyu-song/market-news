@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-11-14T01:57:12+00:00",
+  "mode": "weekly",
+  "for_week_start": "2026-11-08",
+  "for_week_ending": "2026-11-14",
+  "days_covered": 7,
+  "headline": "Weekly tape, by editorial weight",
+  "summary": "Compiled from 7 daily recap(s). Themes ordered by coverage volume across the week.",
+  "themes": [
+    {
+      "label": "China / Tariffs / Geopolitics",
+      "narrative": "China / Tariffs / Geopolitics accounted for 21 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "Fed / Rates / Macro",
+      "narrative": "Fed / Rates / Macro accounted for 21 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "narrative": "Trump 2.0 / US Policy accounted for 21 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "US Semis / AI Chips",
+      "narrative": "US Semis / AI Chips accounted for 21 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "Software / Internet / Platforms",
+      "narrative": "Software / Internet / Platforms accounted for 19 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    }
+  ],
+  "watchlist": [],
+  "x_themes": [
+    {
+      "topic": "Semiconductor equipment suppliers securing 2028-2029 POs",
+      "category": "sectors",
+      "subcategory": "semicap",
+      "summary": "Leading semiconductor equipment suppliers (AMAT, ASML, LRCX, TEL, KLA) are finalizing equipment supply contracts for 2028 and discussing 2029 POs, driven by chipmakers' concerns over AI dominance and extended lead times. This trend of early ordering is expected to continue through at least 2030.",
+      "mentions": [
+        {
+          "handle": "@jukan05",
+          "url": "https://x.com/jukan05/status/2117796874392609013"
+        }
+      ]
+    },
+    {
+      "topic": "AAOI InP supply agreement with Yunnan Germanium",
+      "category": "sectors",
+      "subcategory": "optical",
+      "summary": "AAOI secured a significant Indium Phosphide (InP) supply agreement with Yunnan Germanium for $194M, covering 180k 4-inch wafers at a cost of $1077 per wafer.",
+      "mentions": [
+        {
+          "handle": "@zephyr_z9",
+          "url": "https://x.com/zephyr_z9/status/2117681468738777552"
+        }
+      ]
+    },
+    {
+      "topic": "Market reaction to Abbott's potential loss",
+      "category": "out_of_ai",
+      "subcategory": "macro",
+      "summary": "Citrini questions why market futures are not down more given the expectation of Abbott losing by 4-5 points.",
+      "mentions": [
+        {
+          "handle": "@citrini",
+          "url": "https://x.com/citrini/status/2117812815239262664"
+        }
+      ]
+    },
+    {
+      "topic": "Upcoming article on chip substrates",
+      "category": "sectors",
+      "subcategory": "abf_substrate",
+      "summary": "@damnang2 is preparing to publish an article on chip substrates this week, indicating recent significant news flow in the area.",
+      "mentions": [
+        {
+          "handle": "@damnang2",
+          "url": "https://x.com/damnang2/status/2117674282818195509"
+        }
+      ]
+    },
+    {
+      "topic": "Elon Musk promotes Grok for making calls",
+      "category": "sectors",
+      "subcategory": "software",
+      "summary": "Elon Musk suggests using Grok, an AI bot, for making calls, highlighting its potential application.",
+      "mentions": [
+        {
+          "handle": "@elonmusk",
+          "url": "https://x.com/elonmusk/status/2117722703738310713"
+        }
+      ]
+    }
+  ]
+}
