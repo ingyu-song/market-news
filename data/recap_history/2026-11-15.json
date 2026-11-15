@@ -1,41 +1,24 @@
 {
-  "generated_at": "2026-11-15T01:29:15+00:00",
+  "generated_at": "2026-11-15T02:19:39+00:00",
   "mode": "daily",
   "for_date": "2026-11-15",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 48 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 43 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia.",
+          "lead": "젠슨 황 “중국 시장서 실수”…후계자는 스스로 증명해야.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
-                  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "CHINA SECURITIES INDEX 300 HEALTH CARE INDEX (.CSI300HC) | Stock Price & Latest News.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "CHINA SECURITIES INDEX 300 HEALTH CARE INDEX (.CSI300HC) | Stock Price & Latest News",
-                  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xc2JvOEVaeWdjdjR4OGU1c3ZfczFJdVBmVlNpbjhBM3lOeEVsa2M5OGlfNnV5MW8xUERHSmczSDJGTmtuRFBGcmRKR1EyV2tnS1doaEpxbnNsc2w4MktabDJ3YTRaZGtOVU5vMTI3Szk?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "젠슨 황 “중국 시장서 실수”…후계자는 스스로 증명해야",
+                  "link": "https://www.tokenpost.kr/news/ai/438532",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -58,29 +41,29 @@
               "x_mentions": []
             }
           ]
+        },
+        {
+          "lead": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+                  "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
         }
       ]
     },
     {
       "label": "Fed / Rates / Macro",
       "bullets": [
-        {
-          "lead": "\"닷컴버블 닮아간다\"···美 연준, 'AI 투자 과열'에 경고.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "\"닷컴버블 닮아간다\"···美 연준, 'AI 투자 과열'에 경고",
-                  "link": "https://www.seoulfn.com/news/articleView.html?idxno=642853",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
         {
           "lead": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar.",
           "segments": [
@@ -114,12 +97,46 @@
               "x_mentions": []
             }
           ]
+        },
+        {
+          "lead": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
+                  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzVYbEh2b3Y2SkVCTlRkZXpFWGhVTVNRdUFhWk9XMW1QbEl6X0NyMkdIVFJFQjNlUXd5QjNqeE14eUh0MW41bzYwUmpDemZSZ1BnOHJHRk8taUFtaE5hR0ROc2otbjBaTDJwUE5EbXNrQjlxcjZfSWdrZnNPOV96TWJMQlRNNXdUZUVvcFBVbzl1MlNtUHBCLS1kRWZKSERYOENCbGFCUFhnUUtNMUNF?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
         }
       ]
     },
     {
       "label": "Trump 2.0 / US Policy",
       "bullets": [
+        {
+          "lead": "“젠슨황 복귀시켜라” 청원 10만명 돌파…머스크도 서명했다.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "“젠슨황 복귀시켜라” 청원 10만명 돌파…머스크도 서명했다",
+                  "link": "https://n.news.naver.com/mnews/article/016/0002723573?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
         {
           "lead": "The Doge Pound NFT Latest Floor Price, Charts, and Market Cap Data.",
           "segments": [
@@ -153,29 +170,29 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
     {
       "label": "US Semis / AI Chips",
       "bullets": [
+        {
+          "lead": "엔비디아, 기업 소송 보험 없어…황 퇴진 후 법적 부담 커지나.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "엔비디아, 기업 소송 보험 없어…황 퇴진 후 법적 부담 커지나",
+                  "link": "https://n.news.naver.com/mnews/article/018/0006409966?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
         {
           "lead": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang.",
           "segments": [
@@ -187,23 +204,6 @@
                   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSS1DbHZUV0pYXzM2LVB6cnlqR1hSWjNUQU5BUnhvVHJibEtGWEp0dTk4dG1YY1IycF8zWnpmc1JHNEtPTEdUV2FBYVBoVzc2Rk9sVnBENkxQY21Qbmh6d3NmekxEWmNFVmw1WkF5dl9vbEQ3MFJQb3FKelB0WHlkenhpYVg2LTFqZ0RTY3VLYXlOclp6c1MwUmpn?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
-                  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,14 +233,14 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Generali Signals Confidence in Beating Targets After Earnings Rise.",
+          "lead": "MTN Group Posts Revenue Growth, Higher Profitability.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Generali Signals Confidence in Beating Targets After Earnings Rise",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjZRcmNaN0wxLUFFY29sM2tUMlFBcVpKdmowbXVpQUgtdWlDdXlkdzJkYzU3cFBXcVNzWTBsVTdEVHZZcFhab01IY2Nrd0taMkx0RFdFeHM2d2Fjc2o1WTJkLWR4c0JGZm81U1NqdTVCZGJtdFBWa1Q1eTd2V2QwcU1DNEIxZDEtQ01JRXA1cjFCNDFTc0VWNHpHeHpfcUhXbVZoaE1TNnRxdkFpSzhiSWM5dw?oc=5",
+                  "title": "MTN Group Posts Revenue Growth, Higher Profitability",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREhSampHWFNmc2hORzFQRVJVLTd3MzNUcktGeFlyNmRCVEQ3cWVGeC1MM1haMm4xQWhMRTFnV2FkLVZJSDV2d0JtSGlNczEzc1RVSmlVekxXZW9oOWYzTDlydWp0VVVQQjJkNl9qLVZuUjA3VkhPdzBRaWVMMTBuYTFPSlVJNGJZbGd1Vkt0WmJhR1VHejF4dUUyX3NRNEE?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -311,26 +311,13 @@
   "watchlist": [
     {
       "name": "Nvidia",
-      "note": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "note": "Jensen Huang's Nvidia era may be over. But Taiwan isn't ready to say goodbye.",
       "sources": [
         {
-          "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "TRUMP",
-      "note": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
-      "sources": [
-        {
-          "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
-          "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+          "title": "Jensen Huang's Nvidia era may be over. But Taiwan isn't ready to say goodbye.",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVlwV1VtLWZhZVgzZFY1b3JYYkNWT0VlT2FZZS1sTHVuZ01pVzN6T0ZEZ2JfaUw3bzd3eXZMeWx5NXp3ZEhmNDRMc2dNaV82NTVnNnkxX2kxLU9qZk43a2hlNmhKaVlUMmd0Ty04dFk5U2JHYy1XckFIU3dLdmtvb3RUNERmYzVzMEdzSDhKT1JtZ0E?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -349,14 +336,14 @@
       "x_mentions": []
     },
     {
-      "name": "Tesla",
-      "note": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+      "name": "TRUMP",
+      "note": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
       "sources": [
         {
-          "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+          "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -370,6 +357,19 @@
           "link": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Netflix",
+      "note": "What To Watch This Weekend (Nov. 13-15): New Movies And Shows On Netflix, Prime Video, Hulu And More",
+      "sources": [
+        {
+          "title": "What To Watch This Weekend (Nov. 13-15): New Movies And Shows On Netflix, Prime Video, Hulu And More",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXphek1jRjZrYkVFeXdRYzlIR2NZenFxT0llTFNVcGtmU0lnYTNyMGpXblFrWnBLUFRtYlZXd0x1NVFzODFjUGhYMV9lbjQxY082ZGlkTVdJd081cWl5RkpaZEk5Q1NBdDE2dW1zQ01Yb3V4N05LenE4TFFkMmlyejVhUlFRV0hZRUkyYS1relZDZWxNRUl3anB2RE1od1g5MjI0a2pVbHo0YTdQMEFlcWkwODY3ZGZIdDB3bA?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -505,6 +505,6 @@
       "change_pct": 1.52
     }
   ],
-  "story_count": 48,
+  "story_count": 43,
   "bucket_count": 10
 }
