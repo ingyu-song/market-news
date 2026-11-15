@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-14T01:57:12+00:00",
+  "generated_at": "2026-11-15T01:29:15+00:00",
   "mode": "daily",
-  "for_date": "2026-11-14",
+  "for_date": "2026-11-15",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 64 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 48 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "한국, 중국 수입시장 6개월 연속 1위…미국선 6위로.",
+          "lead": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "한국, 중국 수입시장 6개월 연속 1위…미국선 6위로",
-                  "link": "https://www.newsway.co.kr/news/view?ud=2026111410534324542",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+                  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,16 +26,16 @@
           ]
         },
         {
-          "lead": "엔비디아 중국 스파이 의혹에 美 재무·상무장관 충돌…\"수출통제 지연...",
+          "lead": "CHINA SECURITIES INDEX 300 HEALTH CARE INDEX (.CSI300HC) | Stock Price & Latest News.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "엔비디아 중국 스파이 의혹에 美 재무·상무장관 충돌…\"수출통제 지연...",
-                  "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398279",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "CHINA SECURITIES INDEX 300 HEALTH CARE INDEX (.CSI300HC) | Stock Price & Latest News",
+                  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xc2JvOEVaeWdjdjR4OGU1c3ZfczFJdVBmVlNpbjhBM3lOeEVsa2M5OGlfNnV5MW8xUERHSmczSDJGTmtuRFBGcmRKR1EyV2tnS1doaEpxbnNsc2w4MktabDJ3YTRaZGtOVU5vMTI3Szk?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -43,16 +43,16 @@
           ]
         },
         {
-          "lead": "로이터 “‘엔비디아칩 의존’ 중국 AI프로젝트 규모 4조6천억 이상”.",
+          "lead": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "로이터 “‘엔비디아칩 의존’ 중국 AI프로젝트 규모 4조6천억 이상”",
-                  "link": "https://n.news.naver.com/mnews/article/056/0012293909?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+                  "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,14 +65,14 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "국제유가 상승에 달러 강세…달러인덱스 19개월 만에 최고.",
+          "lead": "\"닷컴버블 닮아간다\"···美 연준, 'AI 투자 과열'에 경고.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "국제유가 상승에 달러 강세…달러인덱스 19개월 만에 최고",
-                  "link": "https://n.news.naver.com/mnews/article/011/0004682148?sid=101",
+                  "title": "\"닷컴버블 닮아간다\"···美 연준, 'AI 투자 과열'에 경고",
+                  "link": "https://www.seoulfn.com/news/articleView.html?idxno=642853",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "AI成美國金融體系最大風險？Fed調查：87％受訪者示警股市、資安與融資都是隱憂- 國際.",
+          "lead": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "AI成美國金融體系最大風險？Fed調查：87％受訪者示警股市、資安與融資都是隱憂- 國際",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWU3E0Q1psaER6VDVUZGhzOEIzeWdEd0U0MEpldW5BSWc5UzFEMU1PX2I3MlBrTUgwVmI4WGFHOHpCWGYxMm1MMFBNZml5dU5obHp4dUpiVFgyeGFiZWRv?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
+                  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3EzbUZLMzVNX1JTTVVjTVYwOVhoR0JQMXlRWjh3WjA3OGlfRkhvek43Qk90UW1jeWVDOWZMa2djT0JlSnhoRUh3SXBtbWpRQ1Q5SkNJbnVhZHR5X2NsWTFLT0w4TG4tOEdXQlBVdG91RGp1aWFtNkxJN3NZYktEN1dRWWU3LWQ3MTJ3SjNKejBkc1Zsb3JTV3Myd2t5SnZEeHRaZQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,14 +99,14 @@
           ]
         },
         {
-          "lead": "Fed's Jefferson says he is taking his policy cues from inflation.",
+          "lead": "American Century Select High Yield ETF (AHYB.N) | Stock Price & Latest News.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Fed's Jefferson says he is taking his policy cues from inflation",
-                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+                  "title": "American Century Select High Yield ETF (AHYB.N) | Stock Price & Latest News",
+                  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9USW9PUWVWd3NiOGdmdWo5MGZhSkFJQ2RPQ243OVZUcDZJNVBJMnZDYmFqbXlIaElJay1nM2plaU5tS3Q2NTA4RUV0Mzljc250cTRxdDdhVnY?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump will not raise Nvidia spy issue with Xi at summit, officials say.",
+          "lead": "The Doge Pound NFT Latest Floor Price, Charts, and Market Cap Data.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-                  "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "The Doge Pound NFT Latest Floor Price, Charts, and Market Cap Data",
+                  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yLWdoXzhqRFRRSV9ZMVpxRXJSajNzOWhCN1dUM1Y2ZFFNRk9TUU1EUWJ2eTE0Zm8zcFlCVVV2TkUwZDVDMGFTR1pxU1kyeHFIYWllU0VkYV9KWE5YNFpmWldPQWJYSTlkT3o3WG40WUd6UQ?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,16 +138,16 @@
           ]
         },
         {
-          "lead": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker.",
+          "lead": "Musk says Nvidia will lose ’critical’ deals without Jensen Huang.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-                  "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "Musk says Nvidia will lose ’critical’ deals without Jensen Huang",
+                  "link": "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -155,14 +155,14 @@
           ]
         },
         {
-          "lead": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits.",
+          "lead": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
+                  "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -177,16 +177,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "엔비디아 중국 스파이 의혹에 美 재무·상무장관 충돌…\"수출통제 지연...",
+          "lead": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "엔비디아 중국 스파이 의혹에 美 재무·상무장관 충돌…\"수출통제 지연...",
-                  "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=398279",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Thousands of Nvidia Staff Sign Petition to Bring Back Huang",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSS1DbHZUV0pYXzM2LVB6cnlqR1hSWjNUQU5BUnhvVHJibEtGWEp0dTk4dG1YY1IycF8zWnpmc1JHNEtPTEdUV2FBYVBoVzc2Rk9sVnBENkxQY21Qbmh6d3NmekxEWmNFVmw1WkF5dl9vbEQ3MFJQb3FKelB0WHlkenhpYVg2LTFqZ0RTY3VLYXlOclp6c1MwUmpn?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,16 +194,16 @@
           ]
         },
         {
-          "lead": "로이터 “‘엔비디아칩 의존’ 중국 AI프로젝트 규모 4조6천억 이상”.",
+          "lead": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "로이터 “‘엔비디아칩 의존’ 중국 AI프로젝트 규모 4조6천억 이상”",
-                  "link": "https://n.news.naver.com/mnews/article/056/0012293909?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+                  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +211,16 @@
           ]
         },
         {
-          "lead": "젠슨황, 엔비디아 속였나…앨리스황 관계 묻자 \"그냥 고객\".",
+          "lead": "Investing Expert On Nvidia: ‘People Will Wish They Bought’.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "젠슨황, 엔비디아 속였나…앨리스황 관계 묻자 \"그냥 고객\"",
-                  "link": "https://n.news.naver.com/mnews/article/008/0005441058?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Investing Expert On Nvidia: ‘People Will Wish They Bought’",
+                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREp0aU9iLTBlWkNHNW00VEc2dnNuSWstV3lwWjhSQS1IRzlrRFdXZ0luZjVUVUhwSjNNMWNhbm1aUzlnMEVMcWUyUzBqSENKVVVHZkcza2NXSk5UX29tMHV0akJvNk90NFlKYXE1Y25ma2ptd09PcVgxMWhfcGlMcHJBWXNwVUFraEJzUHA2R08wSFMyTHRJZjBEQUllWXdjZGpDSnpLRk11Ri1OQWc?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,50 +233,16 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "텔레칩스 4분기 연속 흑자…차량용 반도체 매출 확대 통했다.",
+          "lead": "Generali Signals Confidence in Beating Targets After Earnings Rise.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "텔레칩스 4분기 연속 흑자…차량용 반도체 매출 확대 통했다",
-                  "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504052",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Spotify And Universal Music Group’s Earnings Reveal A More Complicated Story Of Booming Music Industry.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Spotify And Universal Music Group’s Earnings Reveal A More Complicated Story Of Booming Music Industry",
-                  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdmNJcTZ6eEJQMjYzWWI1R2xISDF4ZkFoSVlWOEtNYWtncWQ0YUlleG5obkpnM09fVm1QWXRwdUNESUozM0l0dHVtQmlENzEwV05aeFdQZjQ0c2FNOXk5QXhvMUlTajFQZ2hpYi1NZ21tWmFQcUNFVUFUNkk0aDhXN0lnZ2pRbVdOWDZpdERXdUhMMzBvRENxRFFkWDNqNHNwX3lSeTV5Nm5vcGg5dTNyWDd6Q2ZEVkZjbGpsMXhmYlVuUVZidUJKRlpYN3JzMm5YMEtYMVN3MXl1dUYtY3Q2ZnpSX1pCUWxfbm5qQjg0N2pTeUE?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "E Ink targets 2027 revenue from PTFE materials for AI data centers.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "E Ink targets 2027 revenue from PTFE materials for AI data centers",
-                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHNpbFlNUWV2amZHSHcyWm04MjJLMzc1YW5WMHdYUmd2bDRXSkYzODRORWx6SEpJX2NSWi0zTkl1MTJRR2I3U0ppU0ZfTU1mX1AyUk9PcVE0OURDaFpLWG9WNVBuUVdINHJWTGhSOGt4X2lmVzVFT19tdkt4cko0bEdSN2JLdTkzdHN3bF9ROHJNWXBWOEE?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Generali Signals Confidence in Beating Targets After Earnings Rise",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjZRcmNaN0wxLUFFY29sM2tUMlFBcVpKdmowbXVpQUgtdWlDdXlkdzJkYzU3cFBXcVNzWTBsVTdEVHZZcFhab01IY2Nrd0taMkx0RFdFeHM2d2Fjc2o1WTJkLWR4c0JGZm81U1NqdTVCZGJtdFBWa1Q1eTd2V2QwcU1DNEIxZDEtQ01JRXA1cjFCNDFTc0VWNHpHeHpfcUhXbVZoaE1TNnRxdkFpSzhiSWM5dw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -289,16 +255,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Microsoft’s Global Outage and Fixes: What We Know.",
+          "lead": "AI資料中心踢到鐵板！美國38地通過禁令喊卡擴建 微軟、Google被迫另尋出路？.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Microsoft’s Global Outage and Fixes: What We Know",
-                  "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "AI資料中心踢到鐵板！美國38地通過禁令喊卡擴建 微軟、Google被迫另尋出路？",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nTlVCc3d0SGVFcWdzLUNTeGRscHJNTmxudU5ESjRuQ004T3YzZGd3TFVkcmVYWVVDS2dQWHJpQ1ZLMUU5X21RNWFWUHRjREExSnhGbzhzU1EzdjBEbzFv?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
               ],
               "x_mentions": []
@@ -306,16 +272,16 @@
           ]
         },
         {
-          "lead": "US Futures Gain With Microsoft Outage, Producer Prices in Focus.",
+          "lead": "What To Watch This Weekend (Nov. 13-15): New Movies And Shows On Netflix, Prime Video, Hulu And More.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "US Futures Gain With Microsoft Outage, Producer Prices in Focus",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGFnaDF1dHVTeVV2SlEyQ0w4SHlwMTVSb1RxMlc3SFByR1l1WnM1YXRVRy11RjAyZ0xnMVdldU1PY1lhMVRHeldxQ0pUTGp1eC13eEZSLUpiejF0ZlpqRlQ4QTBhN0xEMmxaNktiRldvbG5tbk9OZy1Pbkw0ck5MRXZnblRsRnVsbHY3TlBkRGxUVEVmX1B0dDJuNDlnR1h4cld4UWdsUUI5OWhEQnRBNTJZdw?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "What To Watch This Weekend (Nov. 13-15): New Movies And Shows On Netflix, Prime Video, Hulu And More",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXphek1jRjZrYkVFeXdRYzlIR2NZenFxT0llTFNVcGtmU0lnYTNyMGpXblFrWnBLUFRtYlZXd0x1NVFzODFjUGhYMV9lbjQxY082ZGlkTVdJd081cWl5RkpaZEk5Q1NBdDE2dW1zQ01Yb3V4N05LenE4TFFkMmlyejVhUlFRV0hZRUkyYS1relZDZWxNRUl3anB2RE1od1g5MjI0a2pVbHo0YTdQMEFlcWkwODY3ZGZIdDB3bA?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -323,16 +289,16 @@
           ]
         },
         {
-          "lead": "Widespread Microsoft Outage Roils Businesses, Governments.",
+          "lead": "Italy fines Meta $887 million over Android users’ data access.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Widespread Microsoft Outage Roils Businesses, Governments",
-                  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmhaT0diNlVIZzI4Mm1nSUpIV0RSeDJrM0RYYVIydVRzUzNHM2ZmcW40UjE2eW5xeEc4ZVROeGlBaTlUbl9hUXN5N0VrVHlHRnpvQ09odWw4RVNCZFBXTUxhWHNvWm1MSG1nV0doS191NHIyeXFMT09wbDY2YldsTDB3?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Italy fines Meta $887 million over Android users’ data access",
+                  "link": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -345,24 +311,24 @@
   "watchlist": [
     {
       "name": "Nvidia",
-      "note": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+      "note": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
       "sources": [
         {
-          "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-          "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
-          "source": "Financial Times",
-          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+          "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "TRUMP",
-      "note": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+      "note": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
       "sources": [
         {
-          "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-          "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
+          "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+          "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
           "source": "Financial Times",
           "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         }
@@ -370,40 +336,40 @@
       "x_mentions": []
     },
     {
-      "name": "Microsoft",
-      "note": "Microsoft’s Global Outage and Fixes: What We Know",
+      "name": "Bitcoin",
+      "note": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
       "sources": [
         {
-          "title": "Microsoft’s Global Outage and Fixes: What We Know",
-          "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Samsung",
-      "note": "Samsung weighs separating memory and mobile leadership",
-      "sources": [
-        {
-          "title": "Samsung weighs separating memory and mobile leadership",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmRnVTBoaEQxc1BuUTV4ZURJYzlHMEVkbjZyREVJVGpMYjV6LWJyVGQ3TVlpa0pCZE05T0kyM1NZdU5BU3RKMk82ejNubWJoLWFadWI1X0ZxMDVaZlNBbVI3RXNpUlFxVkI3MVZESHFfeEdIXzVHbGN0c2ZCc2dQSVJKdmZtZFEtMW5UV2w3cUZNcExaQzQtMXpR?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+          "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+          "link": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
       "name": "Tesla",
-      "note": "Tesla Announces Cybercab for Personal Use",
+      "note": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
       "sources": [
         {
-          "title": "Tesla Announces Cybercab for Personal Use",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0VOSWhhVlBPbWJCbDlfMlZNRHB1c1hORFhHb3lKX1JEaURzT0hlT1pEanVwZ2lwVmtSOER2SU9vMTRCYjVoeGduTElRRDNtTGh5bWE5SUtFeHVxX1RQeEQyNTJ3ZHBwX2QtaHNBeldwZEJGbE15OEJMODhKdTFzUGVvcUo?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+          "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Meta",
+      "note": "Italy fines Meta $887 million over Android users’ data access",
+      "sources": [
+        {
+          "title": "Italy fines Meta $887 million over Android users’ data access",
+          "link": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -539,6 +505,6 @@
       "change_pct": 1.52
     }
   ],
-  "story_count": 64,
-  "bucket_count": 12
+  "story_count": 48,
+  "bucket_count": 10
 }
