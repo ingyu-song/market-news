@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-17T04:17:31+00:00",
+  "generated_at": "2026-11-18T03:16:47+00:00",
   "mode": "daily",
-  "for_date": "2026-11-17",
+  "for_date": "2026-11-18",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 63 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 57 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "젠슨 황 복귀, 트럼프는 찬성·이사회는 반대.",
+          "lead": "Nike aims to design half of its China sportswear products locally.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "젠슨 황 복귀, 트럼프는 찬성·이사회는 반대",
-                  "link": "https://www.naeil.com/news/read/609059?ref=naver",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Nike aims to design half of its China sportswear products locally",
+                  "link": "https://www.investing.com/news/stock-market-news/nike-aims-to-design-half-of-its-china-sportswear-products-locally-5034602",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,16 +26,16 @@
           ]
         },
         {
-          "lead": "중국산 전기차 ‘아시아 최대 수출시장’ 된 한국.",
+          "lead": "Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "중국산 전기차 ‘아시아 최대 수출시장’ 된 한국",
-                  "link": "https://n.news.naver.com/mnews/article/243/0000105788?sid=103",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism",
+                  "link": "https://www.investing.com/news/stock-market-news/asia-tech-shares-turn-mixed-after-nvidia-beat-as-china-chip-curbs-cloud-optimism-5034585",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -43,16 +43,16 @@
           ]
         },
         {
-          "lead": "파운드리 10~20% 이상 인상 통보…일부 대만 팹리스 \"저가 시장 포기 가...",
+          "lead": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "파운드리 10~20% 이상 인상 통보…일부 대만 팹리스 \"저가 시장 포기 가...",
-                  "link": "https://www.tokenpost.kr/news/tech/439583",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means.",
+          "lead": "Treasury Rates Today: November 17, 2026.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-                  "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "Treasury Rates Today: November 17, 2026",
+                  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists.",
+          "lead": "AI泡沫？ Fed提3大情境- 日報.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Gold Steadies Near 14-Month Low as Inflation Pressure Persists",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDI4MEt3a3M4XzFhaC01R3pmSzdkOXZ2ZWhUWjhPb1lOZWZPbjdXTWFydWVFcmZNS21rZGZLUmZ6S21OcXFDUUkyN0NLc3BiZnlCWUJ1QmMxbHh0aWtZUjEzZFBuQng0bkRiVFZxN0pOUUJBQXRqQ0NGTUFZcEtLRUx6NkVWZklRTjhxOTNJMzdVUldYX21ieEFQcDlnTks2NFAxMDBrY1ktNmtlVzZYR2FxRQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "AI泡沫？ Fed提3大情境- 日報",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwclRZYXZjOFpUUWVsZzdWaC1MR1cxNThqcXNkak95Szg2MVNFeVpDcFhPUXpaZWtQdUlaajJNWXZqRUtHczhtYzNzQk1MY0ZRcTMzbG9VV2w3QnJ0QV80?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,16 +99,16 @@
           ]
         },
         {
-          "lead": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom.",
+          "lead": "Tech leaders tell Fed chairman Warsh how AI could transform the economy.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-                  "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+                  "link": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "젠슨 황 복귀, 트럼프는 찬성·이사회는 반대.",
+          "lead": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "젠슨 황 복귀, 트럼프는 찬성·이사회는 반대",
-                  "link": "https://www.naeil.com/news/read/609059?ref=naver",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,16 +138,16 @@
           ]
         },
         {
-          "lead": "How Trump and Xi went from tariff war to trade truce.",
+          "lead": "Bessent Urges Nvidia to Pick Outsider as Next CEO.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "How Trump and Xi went from tariff war to trade truce",
-                  "link": "https://www.investing.com/news/stock-market-news/how-trump-and-xi-went-from-tariff-war-to-trade-truce-5031569",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
+                  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelVNRDFXQmNHV3JpOFRyaWl2N3h1WnNXNXNXS2FOOHg4dklQNVZfNktCNUdyZ3pNSGtENWRIbE1sYThZZk1QODBNTndERElkRmQ0MHlReHJQU2ZlRDdaYTFqdzA5anBUTXJjVmwwV0hvcW1hS1pPc01zSF9lTXFrTC15RnFzdlJfN2VuYzVuUQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -155,16 +155,16 @@
           ]
         },
         {
-          "lead": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO.",
+          "lead": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-                  "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                  "title": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
+                  "link": "https://www.axios.com/2026/11/17/donald-trump-jr-data-centers",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,14 +177,14 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "미국의 반도체 수출 통제 확대에 AMD 주가 급락…해외 공급망 전략 시험...",
+          "lead": "젠슨 황 떠난 엔비디아, AI 수요는 여전…경영 공백 우려 잠재울까.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "미국의 반도체 수출 통제 확대에 AMD 주가 급락…해외 공급망 전략 시험...",
-                  "link": "https://www.jemin.com/news/articleView.html?idxno=847457",
+                  "title": "젠슨 황 떠난 엔비디아, AI 수요는 여전…경영 공백 우려 잠재울까",
+                  "link": "https://www.kukinews.com/article/view/kuk202611180114",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -194,14 +194,14 @@
           ]
         },
         {
-          "lead": "[食전食후]코스피, 5000피 사수 공방전…엔비디아 리스크에 변동성 확대.",
+          "lead": "'AI 은행' 엔비디아, 젠슨황 떠나자 투자 선별…메모리 공급망 신경.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "[食전食후]코스피, 5000피 사수 공방전…엔비디아 리스크에 변동성 확대",
-                  "link": "https://www.ajunews.com/view/20261117125750926",
+                  "title": "'AI 은행' 엔비디아, 젠슨황 떠나자 투자 선별…메모리 공급망 신경",
+                  "link": "https://n.news.naver.com/mnews/article/421/0009296026?sid=104",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -211,16 +211,16 @@
           ]
         },
         {
-          "lead": "Asia stocks slide as U.S. tightens AI chip curbs ahead of Nvidia results.",
+          "lead": "엔비디아 3분기 매출 두 배 뛰었다...삼성·SK하이닉스에 쏠리는 기대.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Asia stocks slide as U.S. tightens AI chip curbs ahead of Nvidia results",
-                  "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-us-tightens-ai-chip-curbs-ahead-of-nvidia-results-5031571",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "엔비디아 3분기 매출 두 배 뛰었다...삼성·SK하이닉스에 쏠리는 기대",
+                  "link": "https://dealsite.co.kr/articles/173043",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,16 +233,16 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "A 450% revenue beat, a 20%+ gain: the biotech our AI models picked first.",
+          "lead": "엔비디아 3분기 매출 두 배 뛰었다...삼성·SK하이닉스에 쏠리는 기대.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "A 450% revenue beat, a 20%+ gain: the biotech our AI models picked first",
-                  "link": "https://www.investing.com/news/stock-market-news/a-450-revenue-beat-a-20-gain-the-biotech-our-ai-models-picked-first-5031514",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "엔비디아 3분기 매출 두 배 뛰었다...삼성·SK하이닉스에 쏠리는 기대",
+                  "link": "https://dealsite.co.kr/articles/173043",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -250,16 +250,16 @@
           ]
         },
         {
-          "lead": "JD.com Q3 earnings preview: e-commerce weakness, AI growth in focus.",
+          "lead": "코스피 상장사, 3분기 매출 ‘1000조’·영업익 ‘250조’ 첫 돌파..‘삼...",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "JD.com Q3 earnings preview: e-commerce weakness, AI growth in focus",
-                  "link": "https://www.investing.com/news/stock-market-news/jdcom-q3-earnings-preview-ecommerce-weakness-ai-growth-in-focus-93CH-5031505",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "코스피 상장사, 3분기 매출 ‘1000조’·영업익 ‘250조’ 첫 돌파..‘삼...",
+                  "link": "https://n.news.naver.com/mnews/article/018/0006411773?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -267,16 +267,16 @@
           ]
         },
         {
-          "lead": "PwC on where AI can help drive revenue.",
+          "lead": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "PwC on where AI can help drive revenue",
-                  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80cS1wSEhSdHM2RVg0dDN5dVV0ZWE3cko4RFhVSk1wN0o0djlkSXMtb3NWSE9HUTNHcUFNSGNydDdUby1UTzJ1MlpJcFQ3SXBfUjV4eGR1RTlsNkp4SVg1akxqSnhQWjZCZlNuR3BuamNTUFFWd2pCUQ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1BiamNlNHlQNm1aVi1iQzJuVF9rS190WGU4QWRPOF8zLVN0aDhhc2JWVVBvNXRFTGRuOTZGVW0wUFhjZWVyMHBXYXhwSm02OGJNNlVZbnpvcWtuSzAwMHVIV0E1Q2kxTG15VU1tNUxRRlhXU0UzVWRLUnYzVHlpTUdLbzdRaE5hUzVQLWJsNVNLTjJkcmItbTZSLWlfWTdQd2tXNHBSRllfM2owU2hyMw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -289,16 +289,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic.",
+          "lead": "Amazon’s Bezos says he helped pick Pattinson as Bond.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVRLZVlmZ25lVzlRVjJvNDdGLVdYNmhxTDR5aUEyampVejh5TWtXZW41TUNjeWNpUWNBNVRyZU9jdmJBamJQS1pmQURCVDdYb2hKdXBtMlNhWlo0X2k1U3Y4UHZrM2hFbWN4Z1RqcHhXNlFtOXg0LUpTZWdUc3ZUdjh0RFNOWFQ3amZ6VHM5Ml84LXpiSUZuMnJ1M0s0Nkp2c1hoUkZxZw?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Amazon’s Bezos says he helped pick Pattinson as Bond",
+                  "link": "https://www.investing.com/news/stock-market-news/amazons-bezos-says-he-helped-pick-pattinson-as-bond-5034420",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -306,33 +306,33 @@
           ]
         },
         {
-          "lead": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence.",
+          "lead": "US cyber security agency warns over vulnerability in Oracle’s Java.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-                  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjVNWm1heHIxeU1IRGtudWhZbVNPVVZZSjZfUV9nVnZuanNhVmVIQkQwMVlKd0wzWHFvT1lBTUZjTUoxV2doaVJzV1NQQkpsNnRKNTNQdEFzM09HYlJrd0ZtY3lhVkN2Wl9yU0hiVW5BclVMc3NGWEE4a1IzYllxM2d0YzlfTk5nWWZtUTh5RFhMUkRSMU9uak1jekt5bEJnRE1ycGk1NHRIWXRBWTQwQS1URkJuUkptUERCRVBrZWhIQjJ2MG1iLQ?oc=5",
+                  "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
+                  "link": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "US bankruptcy judge approves Spirit Airlines data sale to Google.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "US bankruptcy judge approves Spirit Airlines data sale to Google",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0NfLTdnMktRek1KYml0RlYtSmhsVE1RRXRIaXBCZDQ0SXppVF9WcnZwak1qSFRIbDVRck5iZ2FEcVVNZU9tVVY0LUlLQnItelVvZE81YUZSNW03clhtazNMTEd2SnNHQzhWQWlDVDIwVFgtSkFYVkVNYnQ4alE5S1dUX0lKcG9RUDFBWDh3eThQRWhBV2NtN3NJQ0tlVE5MZXVZVmVuc1gtQQ?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Microsoft identifies months-old bug as a root cause of global outage.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Microsoft identifies months-old bug as a root cause of global outage",
-                  "link": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -345,24 +345,11 @@
   "watchlist": [
     {
       "name": "Nvidia",
-      "note": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "note": "Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism",
       "sources": [
         {
-          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "TRUMP",
-      "note": "How Trump and Xi went from tariff war to trade truce",
-      "sources": [
-        {
-          "title": "How Trump and Xi went from tariff war to trade truce",
-          "link": "https://www.investing.com/news/stock-market-news/how-trump-and-xi-went-from-tariff-war-to-trade-truce-5031569",
+          "title": "Asia tech shares turn mixed after Nvidia beat as China chip curbs cloud optimism",
+          "link": "https://www.investing.com/news/stock-market-news/asia-tech-shares-turn-mixed-after-nvidia-beat-as-china-chip-curbs-cloud-optimism-5034585",
           "source": "Investing.com",
           "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
         }
@@ -370,40 +357,53 @@
       "x_mentions": []
     },
     {
-      "name": "Tesla",
-      "note": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
+      "name": "TRUMP",
+      "note": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
       "sources": [
         {
-          "title": "Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.",
-          "link": "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Palantir",
-      "note": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "name": "AMD",
+      "note": "[Biz&Law] 韓 ETRI 특허, 엔비디아·AMD 정조준…AI칩 특허침해 소송 제기",
       "sources": [
         {
-          "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjVNWm1heHIxeU1IRGtudWhZbVNPVVZZSjZfUV9nVnZuanNhVmVIQkQwMVlKd0wzWHFvT1lBTUZjTUoxV2doaVJzV1NQQkpsNnRKNTNQdEFzM09HYlJrd0ZtY3lhVkN2Wl9yU0hiVW5BclVMc3NGWEE4a1IzYllxM2d0YzlfTk5nWWZtUTh5RFhMUkRSMU9uak1jekt5bEJnRE1ycGk1NHRIWXRBWTQwQS1URkJuUkptUERCRVBrZWhIQjJ2MG1iLQ?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+          "title": "[Biz&Law] 韓 ETRI 특허, 엔비디아·AMD 정조준…AI칩 특허침해 소송 제기",
+          "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731602",
+          "source": "Naver 뉴스 · 반도체",
+          "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Anthropic",
-      "note": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap",
+      "name": "Amazon",
+      "note": "Amazon’s Bezos says he helped pick Pattinson as Bond",
       "sources": [
         {
-          "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5",
-          "source": "Bloomberg (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+          "title": "Amazon’s Bezos says he helped pick Pattinson as Bond",
+          "link": "https://www.investing.com/news/stock-market-news/amazons-bezos-says-he-helped-pick-pattinson-as-bond-5034420",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Oracle",
+      "note": "US cyber security agency warns over vulnerability in Oracle’s Java",
+      "sources": [
+        {
+          "title": "US cyber security agency warns over vulnerability in Oracle’s Java",
+          "link": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+          "source": "Financial Times",
+          "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -478,67 +478,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7416.59,
-      "change": -144.28,
-      "change_pct": -1.91
+      "price": 7340.53,
+      "change": -79.66,
+      "change_pct": -1.07
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 24509.76,
-      "change": -620.5,
-      "change_pct": -2.47
+      "price": 24328.38,
+      "change": -188.47,
+      "change_pct": -0.77
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 51608.2,
-      "change": -733.83,
-      "change_pct": -1.4
+      "price": 50759.42,
+      "change": -869.85,
+      "change_pct": -1.68
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2742.94,
-      "change": -47.25,
-      "change_pct": -1.69
+      "price": 2701.87,
+      "change": -41.52,
+      "change_pct": -1.51
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 58797.07,
-      "change": -903.7,
-      "change_pct": -1.51
+      "price": 58696.54,
+      "change": -268.94,
+      "change_pct": -0.46
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 23571.61,
-      "change": -182.23,
-      "change_pct": -0.77
+      "price": 23278.71,
+      "change": -229.46,
+      "change_pct": -0.98
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 5018.47,
-      "change": -59.23,
-      "change_pct": -1.17
+      "price": 4964.27,
+      "change": -1.04,
+      "change_pct": -0.02
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 40525.85,
-      "change": -641.91,
-      "change_pct": -1.56
+      "price": 39804.65,
+      "change": -341.69,
+      "change_pct": -0.85
     }
   ],
-  "story_count": 63,
-  "bucket_count": 12
+  "story_count": 57,
+  "bucket_count": 11
 }
