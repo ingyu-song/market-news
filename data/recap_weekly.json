@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T01:57:12+00:00",
+  "generated_at": "2026-11-21T02:57:46+00:00",
   "mode": "weekly",
-  "for_week_start": "2026-11-08",
-  "for_week_ending": "2026-11-14",
+  "for_week_start": "2026-11-15",
+  "for_week_ending": "2026-11-21",
   "days_covered": 7,
   "headline": "Weekly tape, by editorial weight",
   "summary": "Compiled from 7 daily recap(s). Themes ordered by coverage volume across the week.",
@@ -33,7 +33,7 @@
     },
     {
       "label": "Software / Internet / Platforms",
-      "narrative": "Software / Internet / Platforms accounted for 19 bullets across the week's daily recaps.",
+      "narrative": "Software / Internet / Platforms accounted for 21 bullets across the week's daily recaps.",
       "movers": [],
       "sources": []
     }
