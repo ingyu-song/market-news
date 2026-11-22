@@ -1,13 +1,30 @@
 {
-  "generated_at": "2026-11-22T01:52:06+00:00",
+  "generated_at": "2026-11-22T02:47:15+00:00",
   "mode": "daily",
   "for_date": "2026-11-22",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 49 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 48 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
+        {
+          "lead": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+                  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
         {
           "lead": "China’s AI stocks lose $1.7 trillion as tech selloff deepens.",
           "segments": [
@@ -41,23 +58,6 @@
               "x_mentions": []
             }
           ]
-        },
-        {
-          "lead": "Trump to work with Dems to cap credit card interest rates.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Trump to work with Dems to cap credit card interest rates",
-                  "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
         }
       ]
     },
@@ -65,14 +65,14 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다.",
+          "lead": "수출 1조 달러 돌파한 韓, 세계 4위 눈앞…반도체 제외 시 8위.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다",
-                  "link": "https://www.jemin.com/news/articleView.html?idxno=848021",
+                  "title": "수출 1조 달러 돌파한 韓, 세계 4위 눈앞…반도체 제외 시 8위",
+                  "link": "https://www.joongangenews.com/news/articleView.html?idxno=565635",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -82,14 +82,14 @@
           ]
         },
         {
-          "lead": "'수출 1조달러' 한국 세계 4위 전망···반도체 빼면 세계 8위.",
+          "lead": "‘SK하이닉스 1조달러 인수’ 손정의의 빅베팅, 왜 멈췄나.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "'수출 1조달러' 한국 세계 4위 전망···반도체 빼면 세계 8위",
-                  "link": "https://www.seoulfn.com/news/articleView.html?idxno=643552",
+                  "title": "‘SK하이닉스 1조달러 인수’ 손정의의 빅베팅, 왜 멈췄나",
+                  "link": "https://n.news.naver.com/mnews/article/366/0001206467?sid=105",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -99,16 +99,16 @@
           ]
         },
         {
-          "lead": "美國PCE通膨升溫？分析師預估10月年增3.8％ 能源與AI需求成推手- 要聞.",
+          "lead": "Week Ahead for FX, Bonds: Fed Minutes, U.K. Data in Focus.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "美國PCE通膨升溫？分析師預估10月年增3.8％ 能源與AI需求成推手- 要聞",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jSlpydnpDTW92TU5uQ1JiZ1VfTXFDci01NUMzaFU3Y1JDMWVBVmN6MGttWUR0bHVpTlR3bW9tM2ZweDA5amIwZl85S3RpN2dLNUUxaG84TDZQa1pTRlA0?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "Week Ahead for FX, Bonds: Fed Minutes, U.K. Data in Focus",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEJHdUxfSTJ2V0R4aVFfa3JEbjI4UHpfdmt1d3FWQmdoQk9lbTgtTG5HZUdWTHZFcHlnNWk1MzNSaG5pQVg3eGNvRVhZZjV3cGJwTkROcURLU05LUXpQSHpDd1dpcnBOU2lLVzVSS1pSMDJuZ1R2U1ltQWI5N0NaZzU3SzVtQWFqYW00TDlla0I4MG4z?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +177,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices.",
+          "lead": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-                  "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
+                  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,16 +194,16 @@
           ]
         },
         {
-          "lead": "Toshiya Hari, Nvidia Corporation: Profile and Biography.",
+          "lead": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Toshiya Hari, Nvidia Corporation: Profile and Biography",
-                  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mbG5IVWFOemgwVV9IeUlwVGZIU0pyYkJPeHlFcXRCcVRtT29Qb2VWS3R0OURlOHRzcTdLYURuRFpwYndoMzJTVE9oaHNQMGhqbkotckZfX29TU2U4?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+                  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +211,16 @@
           ]
         },
         {
-          "lead": "California Nvidia Probe Covers Potential Criminal Law Violations.",
+          "lead": "Direxion Daily AMD Bear 1X ETF (AMDD.O) | Stock Price & Latest News.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZKSUpVM0xWNVRuM3B0RjhyOTM0NUNoRmNYVnVKYm50andhaTFJVHZLenZrckE1aFZuMGhiSW42Mlh5c2lZcGc5eTg1NDQwWVRFQWxSOGtzWHk2S2pGLVpvM3N2enh4Mms5OTF0MHFXc0JnN3ZoYlB3ODJqX3FoSjJCTWlPOHQ2SjNOQ1Q3cjVNR0NWRVYxWVFEanpwZC1mSW5SeGpXSDRqX1d0TUVwdE1vYVJWUQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Direxion Daily AMD Bear 1X ETF (AMDD.O) | Stock Price & Latest News",
+                  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRTktX1ktaFhvRXlDcDRLaWZGekZ2c1gzc241NUR3YUlxZG9SeHlDUUxELUJISzB4dmM1OC0tMGVPVTFka3JpUTZDa2d4Q3BvWi1BVWtsWGI?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -232,23 +232,6 @@
     {
       "label": "Earnings / Guidance",
       "bullets": [
-        {
-          "lead": "Perez announces record revenue for Real, UEFA to trial free viewing in India.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Perez announces record revenue for Real, UEFA to trial free viewing in India",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakRLWUQ3Y19HSVBpZWUxSjdCVklSaUllcFh2M013UGJ4ZnhKaE52X25xX0ZaV1RnUlNSbkI3U3p3NmdneUY1ME9XaGNnQ29ZSmNmcTNHMVl5OHlTQng3ODVTM1J6bkFEeDNNSE5GX3VXTWkxTnNDbE5GQzlMRW5xUzhfZWN6emNfTXhOZHpIZjBoeDRBRW9LbF9JckozMV81ZU0ya1F4dUFMREFUVk1CWXVPNWRnUQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
         {
           "lead": "Nextlink launches AI transformation project as revenue reaches record high.",
           "segments": [
@@ -271,23 +254,6 @@
     {
       "label": "Software / Internet / Platforms",
       "bullets": [
-        {
-          "lead": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다",
-                  "link": "https://www.jemin.com/news/articleView.html?idxno=848021",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
         {
           "lead": "Amazon Nearing $7.5 Billion Purchase of Decart.",
           "segments": [
@@ -321,11 +287,41 @@
               "x_mentions": []
             }
           ]
+        },
+        {
+          "lead": "Amazon closes in on $7.5bn deal to buy AI start-up Decart.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+                  "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
         }
       ]
     }
   ],
   "watchlist": [
+    {
+      "name": "Nvidia",
+      "note": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+      "sources": [
+        {
+          "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
     {
       "name": "TRUMP",
       "note": "Trump to work with Dems to cap credit card interest rates",
@@ -335,19 +331,6 @@
           "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
           "source": "Business Insider Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Nvidia",
-      "note": "Trump says Jensen Huang should apologize and return to Nvidia",
-      "sources": [
-        {
-          "title": "Trump says Jensen Huang should apologize and return to Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNfdDZ5RG0tVnJ1UnliNnBoWWdoM0JoS3VGWjY1elNaVTRyaldQZ1FIQjhVSzZraWZSZExMX1dDMTZIdG5YTWpyczFubDQ1OTJoMnBLM0Y1a0EwYzZjMVRCbzJ6eXhKMnJSWXhBSjVqa25MbEVPTlBqY2wza0VMVno5SHJoVVBnRkw5dzR2WF8wMkVxcXNLZjZsaGctUQ?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -522,6 +505,6 @@
       "change_pct": -6.04
     }
   ],
-  "story_count": 49,
-  "bucket_count": 12
+  "story_count": 48,
+  "bucket_count": 11
 }
