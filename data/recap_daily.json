@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-21T02:57:41+00:00",
+  "generated_at": "2026-11-22T01:52:06+00:00",
   "mode": "daily",
-  "for_date": "2026-11-21",
+  "for_date": "2026-11-22",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 46 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 49 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "트럼프, 젠슨 황 복귀 공개 지지…엔비디아 이사회와 온도차.",
+          "lead": "China’s AI stocks lose $1.7 trillion as tech selloff deepens.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프, 젠슨 황 복귀 공개 지지…엔비디아 이사회와 온도차",
-                  "link": "http://www.newstomato.com/ReadNews.aspx?no=1321312&inflow=N",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "China’s AI stocks lose $1.7 trillion as tech selloff deepens",
+                  "link": "https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,16 +26,16 @@
           ]
         },
         {
-          "lead": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인.",
+          "lead": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인",
-                  "link": "https://n.news.naver.com/mnews/article/047/0002536707?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -43,16 +43,16 @@
           ]
         },
         {
-          "lead": "트럼프 \"푸틴·시진핑과 친해\"…이란전·AI·의회 현안 해법은 모호.",
+          "lead": "Trump to work with Dems to cap credit card interest rates.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프 \"푸틴·시진핑과 친해\"…이란전·AI·의회 현안 해법은 모호",
-                  "link": "https://n.news.naver.com/mnews/article/003/0014337195?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump to work with Dems to cap credit card interest rates",
+                  "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,14 +65,14 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "비트코인 5만 7,655달러 추락·나스닥 5% 폭락…2022년 약세장 재현되나...",
+          "lead": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "비트코인 5만 7,655달러 추락·나스닥 5% 폭락…2022년 약세장 재현되나...",
-                  "link": "http://coinreaders.com/272201",
+                  "title": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다",
+                  "link": "https://www.jemin.com/news/articleView.html?idxno=848021",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -82,14 +82,14 @@
           ]
         },
         {
-          "lead": "비트코인 6만달러 붕괴…한국 증시까지 덮친 '위험자산 투매'.",
+          "lead": "'수출 1조달러' 한국 세계 4위 전망···반도체 빼면 세계 8위.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "비트코인 6만달러 붕괴…한국 증시까지 덮친 '위험자산 투매'",
-                  "link": "https://www.the-today.com/news/articleView.html?idxno=93899",
+                  "title": "'수출 1조달러' 한국 세계 4위 전망···반도체 빼면 세계 8위",
+                  "link": "https://www.seoulfn.com/news/articleView.html?idxno=643552",
                   "source": "Naver 뉴스 · 반도체",
                   "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
@@ -99,14 +99,14 @@
           ]
         },
         {
-          "lead": "Fed升息就得清光AI股？法人揭4大條件台積電到中華電5檔出列- 證券.",
+          "lead": "美國PCE通膨升溫？分析師預估10月年增3.8％ 能源與AI需求成推手- 要聞.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Fed升息就得清光AI股？法人揭4大條件台積電到中華電5檔出列- 證券",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tNUJ6UlBTUGJSVkh4VFBQaEFmVVpIeFJueEFsRUZGb1FoY3gyY2J0blVoWlczbW9TTUlDcE9ZOVgtdDBYVThlQkdJMlBjbDlnbU02VHowM1JReW9WeE5n?oc=5",
+                  "title": "美國PCE通膨升溫？分析師預估10月年增3.8％ 能源與AI需求成推手- 要聞",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jSlpydnpDTW92TU5uQ1JiZ1VfTXFDci01NUMzaFU3Y1JDMWVBVmN6MGttWUR0bHVpTlR3bW9tM2ZweDA5amIwZl85S3RpN2dLNUUxaG84TDZQa1pTRlA0?oc=5",
                   "source": "Commercial Times 工商時報",
                   "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "트럼프, 젠슨 황 복귀 공개 지지…엔비디아 이사회와 온도차.",
+          "lead": "Trump to work with Dems to cap credit card interest rates.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프, 젠슨 황 복귀 공개 지지…엔비디아 이사회와 온도차",
-                  "link": "http://www.newstomato.com/ReadNews.aspx?no=1321312&inflow=N",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump to work with Dems to cap credit card interest rates",
+                  "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,16 +138,16 @@
           ]
         },
         {
-          "lead": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인.",
+          "lead": "Trump says he will consider championing Barry Bonds' Hall of Fame candidacy.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인",
-                  "link": "https://n.news.naver.com/mnews/article/047/0002536707?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump says he will consider championing Barry Bonds' Hall of Fame candidacy",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkdsdXlwb0VqWGxpRW1RTlA5MnlRRDZMVDBGcUJJZDV3Y2U1bDh5U0ZreVl0YVBHWjUzY2RRNTlNQkhyTlp1RlNTRHVfSWN6TDEybG9zWFFCYkdNNFNIQVBMNVJCd1V3S1g3ai1GRVdRX3pVdjRSdzFMV1AyNlBDRnd1a3dKNFJPekZJLWJNNmlDeVRQSDFxcUxkVk1oeHhGeTNiaktaQVNlcDdDY3lmalVReXM?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -155,16 +155,16 @@
           ]
         },
         {
-          "lead": "트럼프 \"푸틴·시진핑과 친해\"…이란전·AI·의회 현안 해법은 모호.",
+          "lead": "Trump says he'd work with Dems to cap credit card interest, fees.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프 \"푸틴·시진핑과 친해\"…이란전·AI·의회 현안 해법은 모호",
-                  "link": "https://n.news.naver.com/mnews/article/003/0014337195?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump says he'd work with Dems to cap credit card interest, fees",
+                  "link": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+                  "source": "Axios",
+                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +177,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "트럼프, 젠슨 황 복귀 공개 지지…엔비디아 이사회와 온도차.",
+          "lead": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프, 젠슨 황 복귀 공개 지지…엔비디아 이사회와 온도차",
-                  "link": "http://www.newstomato.com/ReadNews.aspx?no=1321312&inflow=N",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+                  "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,16 +194,16 @@
           ]
         },
         {
-          "lead": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인.",
+          "lead": "Toshiya Hari, Nvidia Corporation: Profile and Biography.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프 행정부, '중국 군사 기업'에 AI 칩 27만 개 수출 승인",
-                  "link": "https://n.news.naver.com/mnews/article/047/0002536707?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Toshiya Hari, Nvidia Corporation: Profile and Biography",
+                  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mbG5IVWFOemgwVV9IeUlwVGZIU0pyYkJPeHlFcXRCcVRtT29Qb2VWS3R0OURlOHRzcTdLYURuRFpwYndoMzJTVE9oaHNQMGhqbkotckZfX29TU2U4?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +211,16 @@
           ]
         },
         {
-          "lead": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy.",
+          "lead": "California Nvidia Probe Covers Potential Criminal Law Violations.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
-                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjM3c3k5Q2otRklJTDllbEJZR1N1VUMwQ3NoajUtV1k0bWkyZmg1eDJZbkxZRmlWdzBCSko1d0laWnVQaFhYN2RYNFAyUjN1R0VxaU1GbjcteC0tQ252bkRZWFhSb3ZjWEhNd2JMdVRwR0hXVmM5SzliNmtiWU5IN3Y2Y3ZHSmdURWZnY1doTzA2cmdVLXExYUNrMXU3VGw5WXNUblBR?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3ZKSUpVM0xWNVRuM3B0RjhyOTM0NUNoRmNYVnVKYm50andhaTFJVHZLenZrckE1aFZuMGhiSW42Mlh5c2lZcGc5eTg1NDQwWVRFQWxSOGtzWHk2S2pGLVpvM3N2enh4Mms5OTF0MHFXc0JnN3ZoYlB3ODJqX3FoSjJCTWlPOHQ2SjNOQ1Q3cjVNR0NWRVYxWVFEanpwZC1mSW5SeGpXSDRqX1d0TUVwdE1vYVJWUQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,16 +233,33 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy.",
+          "lead": "Perez announces record revenue for Real, UEFA to trial free viewing in India.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy",
-                  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbjM3c3k5Q2otRklJTDllbEJZR1N1VUMwQ3NoajUtV1k0bWkyZmg1eDJZbkxZRmlWdzBCSko1d0laWnVQaFhYN2RYNFAyUjN1R0VxaU1GbjcteC0tQ252bkRZWFhSb3ZjWEhNd2JMdVRwR0hXVmM5SzliNmtiWU5IN3Y2Y3ZHSmdURWZnY1doTzA2cmdVLXExYUNrMXU3VGw5WXNUblBR?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Perez announces record revenue for Real, UEFA to trial free viewing in India",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakRLWUQ3Y19HSVBpZWUxSjdCVklSaUllcFh2M013UGJ4ZnhKaE52X25xX0ZaV1RnUlNSbkI3U3p3NmdneUY1ME9XaGNnQ29ZSmNmcTNHMVl5OHlTQng3ODVTM1J6bkFEeDNNSE5GX3VXTWkxTnNDbE5GQzlMRW5xUzhfZWN6emNfTXhOZHpIZjBoeDRBRW9LbF9JckozMV81ZU0ya1F4dUFMREFUVk1CWXVPNWRnUQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nextlink launches AI transformation project as revenue reaches record high.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Nextlink launches AI transformation project as revenue reaches record high",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3pfSW93THZaSkJVcGFtYlhXd0tpQ0hHVzQ5VF9hWTVwUEEtUE81V2JKWWVWNnRlVF83T2FaZnB1Mm1TWTBHbDJYMDZpc0wxVFRqLVVXcVlXZlYtM0hPVHpvRFBJZnRPd1lDd0luLTc4S3ZROWl6d05wdVBMX1QtTHdVUDhkY0s5cGFWVUpOX2s1Szla?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -255,16 +272,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise.",
+          "lead": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-                  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "구글 알파벳, 5년 뒤 기업가치 9조 달러 전망…AI 투자 성과에 달렸다",
+                  "link": "https://www.jemin.com/news/articleView.html?idxno=848021",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -272,16 +289,16 @@
           ]
         },
         {
-          "lead": "Jensen Huang Loses Over A Quarter Of His Wealth After Scandal—As Google Passes Nvidia In Market Cap.",
+          "lead": "Amazon Nearing $7.5 Billion Purchase of Decart.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Jensen Huang Loses Over A Quarter Of His Wealth After Scandal—As Google Passes Nvidia In Market Cap",
-                  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVpSOS13U1I5OGlualgzVU9GeUxxUWhGSzFJODZhUW96YXBHRUlqN3ZDN3pwY0xNZDh2RklGdmZqSmJJQi0xMXRxU0VvaHRfemtJdHlVUGgxbkljQzZmelh6WWUydmZnRlhIZzdWSVF5bHB6NnZQbVYwOW9XM2FwVENaRFJadEZFcnpWTndtM3NCYW9wLXhzZ1pDQUVfMTl5X2VILVlFd05Yd0hQNDJQRHY0alZMNmQ5TVE?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "Amazon Nearing $7.5 Billion Purchase of Decart",
+                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUF3cVBtMnpldjFwZWxCVHJqUXBQd3NtNkNlS085d2RaaHNVWEtTZGlnZmY3REdOMUljYW85UjFuakFUUjR1RTViRU9fcXVoTTZNTy13RjNJRlJHUE9WaHd3YTFoUEFKRUF0dXl3ZFlhUjlNSmRFR0ctVkhMQzN0d0hoZUxOajdYb2Rn?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -289,16 +306,16 @@
           ]
         },
         {
-          "lead": "Larry Ellison No Longer Among World’s 10 Richest Billionaires As Oracle Stock Plummets.",
+          "lead": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Larry Ellison No Longer Among World’s 10 Richest Billionaires As Oracle Stock Plummets",
-                  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZFJwOExqMy1rTS1SWW1fUXFWZ3JKR1FuTjYwZnZYRGNKZU5SaU10WW42dnF0U3djVENwcHpKa1FRVEQtQXlpOUZOcDNzRVhkeFNRM1l0YkNObzVBZnIyRHl0NGNwVDZkM1dhcEFjbXFRQkJHMzctZEtYRHRKV3V2MjNZd2MxWUdONHkwaFJkTmZwdk1DT0N3c092UkZjNV9HVUJBZ1lxR1hjenlFRTJfQlVqWmMtekQ1bHpLWHUwYnZuT2lfTnIyMUJ6Vm1xbTJaaXlDUXMxZ3JOdlVIV3c?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+                  "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+                  "source": "Business Insider Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -310,64 +327,64 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-      "sources": [
-        {
-          "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-          "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Anthropic",
-      "note": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
-      "sources": [
-        {
-          "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "TRUMP",
-      "note": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
+      "note": "Trump to work with Dems to cap credit card interest rates",
       "sources": [
         {
-          "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+          "title": "Trump to work with Dems to cap credit card interest rates",
+          "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
+          "source": "Business Insider Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "OpenAI",
-      "note": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+      "name": "Nvidia",
+      "note": "Trump says Jensen Huang should apologize and return to Nvidia",
       "sources": [
         {
-          "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+          "title": "Trump says Jensen Huang should apologize and return to Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFNfdDZ5RG0tVnJ1UnliNnBoWWdoM0JoS3VGWjY1elNaVTRyaldQZ1FIQjhVSzZraWZSZExMX1dDMTZIdG5YTWpyczFubDQ1OTJoMnBLM0Y1a0EwYzZjMVRCbzJ6eXhKMnJSWXhBSjVqa25MbEVPTlBqY2wza0VMVno5SHJoVVBnRkw5dzR2WF8wMkVxcXNLZjZsaGctUQ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Oracle",
-      "note": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
+      "name": "Amazon",
+      "note": "Amazon Nearing $7.5 Billion Purchase of Decart",
       "sources": [
         {
-          "title": "Oracle says OpenAI infrastructure deal is fully funded after final capital raise",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmpQQVdqRTFyNlZSVVFsZG8yNGJ5WWRaOU1ZRXJXQkJJM05GaXY5ZUpQTndMVVljNXNpYUJDUmF1T3hQcWkzNi1udWc4c3pMV3F6RFk1dUctcG5jOFlRcUJDMV9IM2hBdV9KbUJqSmJVa1lXS19LTUVJcUg3alFNWl9RREgwRUVrRU9LSkFoRGZJUWpxLVB1bzlldWE4VDRHRmczZVBMbXFiYlRVSHQ2S293M1JnZUNMSTdZdEVKTVpMXzA?oc=5",
+          "title": "Amazon Nearing $7.5 Billion Purchase of Decart",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUF3cVBtMnpldjFwZWxCVHJqUXBQd3NtNkNlS085d2RaaHNVWEtTZGlnZmY3REdOMUljYW85UjFuakFUUjR1RTViRU9fcXVoTTZNTy13RjNJRlJHUE9WaHd3YTFoUEFKRUF0dXl3ZFlhUjlNSmRFR0ctVkhMQzN0d0hoZUxOajdYb2Rn?oc=5",
+          "source": "The Information",
+          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Tesla",
+      "note": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
+      "sources": [
+        {
+          "title": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZElpVVloWlkyaGUtTGVyZ0FveFpqVEZ3V0F2YlNUMDNNMk93WHdKMFA0VnNXdk1BWHFobXhHaVc4NFdVMlAxdnByU2t3ajRGNXYtbUtvSUlWRndnOEMzWEp3V2UtMnhNcWpwRzBRSU5zUmhkN2RIZzBxZmZkZzV0NHdFemtKQ1QyM3h6LXpPNG1kU0c5NVBPRg?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Bitcoin",
+      "note": "Bitcoin rises over 2% to more than $60,000",
+      "sources": [
+        {
+          "title": "Bitcoin rises over 2% to more than $60,000",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5",
           "source": "Reuters Business (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
@@ -453,7 +470,7 @@
       "symbol": "^IXIC",
       "group": "US",
       "price": 22617.73,
-      "change": -1264.36,
+      "change": -1264.37,
       "change_pct": -5.29
     },
     {
@@ -505,6 +522,6 @@
       "change_pct": -6.04
     }
   ],
-  "story_count": 46,
+  "story_count": 49,
   "bucket_count": 12
 }
