@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-11-22T02:47:15+00:00",
+  "generated_at": "2026-11-23T02:08:24+00:00",
   "mode": "daily",
-  "for_date": "2026-11-22",
+  "for_date": "2026-11-23",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 48 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 46 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China.",
+          "lead": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
-                  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "China’s AI stocks lose $1.7 trillion as tech selloff deepens.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "China’s AI stocks lose $1.7 trillion as tech selloff deepens",
-                  "link": "https://www.investing.com/news/stock-market-news/chinas-ai-stocks-lose-17-trillion-as-tech-selloff-deepens-5043672",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+                  "title": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0RIWVhzZU01ZDVXVjhKcmpRSF9Fckh4WXh1WGppV1VJUWkwRlBnNjZ3dFhiWVhWWlh1YTN5YjNxcFk4S1FrZjF3LThUSjhZdVFkNnZZdHU2a09JWWZ4NjBYbWtkYlNRQUlrQTBmWTNyZjdyQnRzU29zOEJyajhpcUpvS2VIVFU3S1ZlUGhiMFBhVUh5U1ZDYmYzYzdvYTdmYnZyTG1mVG1TSzhVOU8xRkthMA?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Taiwan electronics, ICT export orders surge in October as US remains top buyer.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Taiwan electronics, ICT export orders surge in October as US remains top buyer",
+                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RuRW1rUENQUlhfYnZlNVh1UG1CTHFvNkdwdHpuM0FpVElhM1BkZWRZS3JHbE1RZjF4cDhFZjBGVUxfUDV3MGhNRmxIdDBzbDNJNjhjUHk2cUZtS0ZNNVZ1cEJUeXpWSWxkU2ZWREMwSVRSQUxIM05fSnpwaS14ZG9TeFM3YUtLWnUza1AzVlk0c3VBTXlUWlZB?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say",
+                  "link": "https://www.investing.com/news/stock-market-news/beijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5044173",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "수출 1조 달러 돌파한 韓, 세계 4위 눈앞…반도체 제외 시 8위.",
+          "lead": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "수출 1조 달러 돌파한 韓, 세계 4위 눈앞…반도체 제외 시 8위",
-                  "link": "https://www.joongangenews.com/news/articleView.html?idxno=565635",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWFrdkpmX09xYngwSVpaUmExVERIWm5VT21VU0dYdmNEQmN5MzhuNFctV1Z1N1VDRFlmM2R3eEVKelM2c013SVYyakQzYWNObG1Od3VFczBONHI1WTJiZE5tX01EWjNORURWcUlTWnlIQVRUNHNFay1FeEpzNUxDQk1PZXJaRlNhOThoTUpiTFVfenM?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "‘SK하이닉스 1조달러 인수’ 손정의의 빅베팅, 왜 멈췄나.",
+          "lead": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "‘SK하이닉스 1조달러 인수’ 손정의의 빅베팅, 왜 멈췄나",
-                  "link": "https://n.news.naver.com/mnews/article/366/0001206467?sid=105",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand",
+                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2FnY19ZVXo4MGlTUlpSamM4Z0Fwd2J0aGxxMWlDYXNXMkFYc2ZtSkpfRS1aQ2VLdFdKSEVPaHdmanA0NzBONHd2dFhUbXlKWE1JRGhZaXVOcG5PdlZqLU9xMGd3UWFid0NuMmpYYnByMmxad2FpZXgza2U1NHRVbDZnV2szanN3aUxROW5JSmFUQnZKbFpnbWZMdmhzQTZKanlsV0pxZWI2TTh1MzdmZGQyTmk?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,14 +99,14 @@
           ]
         },
         {
-          "lead": "Week Ahead for FX, Bonds: Fed Minutes, U.K. Data in Focus.",
+          "lead": "Treasury Yields Fall, German Bunds’ Tick Higher.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Week Ahead for FX, Bonds: Fed Minutes, U.K. Data in Focus",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEJHdUxfSTJ2V0R4aVFfa3JEbjI4UHpfdmt1d3FWQmdoQk9lbTgtTG5HZUdWTHZFcHlnNWk1MzNSaG5pQVg3eGNvRVhZZjV3cGJwTkROcURLU05LUXpQSHpDd1dpcnBOU2lLVzVSS1pSMDJuZ1R2U1ltQWI5N0NaZzU3SzVtQWFqYW00TDlla0I4MG4z?oc=5",
+                  "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
+                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump to work with Dems to cap credit card interest rates.",
+          "lead": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump to work with Dems to cap credit card interest rates",
-                  "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWFrdkpmX09xYngwSVpaUmExVERIWm5VT21VU0dYdmNEQmN5MzhuNFctV1Z1N1VDRFlmM2R3eEVKelM2c013SVYyakQzYWNObG1Od3VFczBONHI1WTJiZE5tX01EWjNORURWcUlTWnlIQVRUNHNFay1FeEpzNUxDQk1PZXJaRlNhOThoTUpiTFVfenM?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,14 +138,14 @@
           ]
         },
         {
-          "lead": "Trump says he will consider championing Barry Bonds' Hall of Fame candidacy.",
+          "lead": "Trump to welcome investors at gala for his plunging meme coin.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump says he will consider championing Barry Bonds' Hall of Fame candidacy",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkdsdXlwb0VqWGxpRW1RTlA5MnlRRDZMVDBGcUJJZDV3Y2U1bDh5U0ZreVl0YVBHWjUzY2RRNTlNQkhyTlp1RlNTRHVfSWN6TDEybG9zWFFCYkdNNFNIQVBMNVJCd1V3S1g3ai1GRVdRX3pVdjRSdzFMV1AyNlBDRnd1a3dKNFJPekZJLWJNNmlDeVRQSDFxcUxkVk1oeHhGeTNiaktaQVNlcDdDY3lmalVReXM?oc=5",
+                  "title": "Trump to welcome investors at gala for his plunging meme coin",
+                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
@@ -155,16 +155,16 @@
           ]
         },
         {
-          "lead": "Trump says he'd work with Dems to cap credit card interest, fees.",
+          "lead": "Bessent refuses to rule out Huang’s return to Nvidia.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump says he'd work with Dems to cap credit card interest, fees",
-                  "link": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
-                  "source": "Axios",
-                  "favicon": "https://www.google.com/s2/favicons?domain=axios.com&sz=64"
+                  "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+                  "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +177,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO.",
+          "lead": "AI基建需求升溫 華碩Q4加速出貨Vera Rubin NVL72.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Jensen Huang Breaks Silence, Signals Willingness to Return as Nvidia CEO",
-                  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QczVTbUQzdjZ0WHN0QjYwRXJidGl2YmJzeFVVOGhEV0FoZHp3QkJ1dng1REtUS21Qa2lYSGdUejlhbGtfNzlQT1V6Zm45NDltc2hKeEowZ3NtcHdsaUNvN2ttTTJXWUgzNkF3SGZUUjdFX1FiRHc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "AI基建需求升溫 華碩Q4加速出貨Vera Rubin NVL72",
+                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMUWVSQnd2R0ZhbkFXWDB5aFBCOHNzSlRIZDlXbVh2Z1JqR29xRkw2OTlLdEc5RkZMcUdCSGxwY0VFWkV2NEJHdHlRbVVqQnBqNEE1eTBJNEpuMFdBeDVF?oc=5",
+                  "source": "Commercial Times 工商時報",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,55 +194,33 @@
           ]
         },
         {
-          "lead": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China.",
+          "lead": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
-                  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Direxion Daily AMD Bear 1X ETF (AMDD.O) | Stock Price & Latest News.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Direxion Daily AMD Bear 1X ETF (AMDD.O) | Stock Price & Latest News",
-                  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRTktX1ktaFhvRXlDcDRLaWZGekZ2c1gzc241NUR3YUlxZG9SeHlDUUxELUJISzB4dmM1OC0tMGVPVTFka3JpUTZDa2d4Q3BvWi1BVWtsWGI?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Earnings / Guidance",
-      "bullets": [
-        {
-          "lead": "Nextlink launches AI transformation project as revenue reaches record high.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Nextlink launches AI transformation project as revenue reaches record high",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3pfSW93THZaSkJVcGFtYlhXd0tpQ0hHVzQ5VF9hWTVwUEEtUE81V2JKWWVWNnRlVF83T2FaZnB1Mm1TWTBHbDJYMDZpc0wxVFRqLVVXcVlXZlYtM0hPVHpvRFBJZnRPd1lDd0luLTc4S3ZROWl6d05wdVBMX1QtTHdVUDhkY0s5cGFWVUpOX2s1Szla?oc=5",
+                  "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
+                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWFrdkpmX09xYngwSVpaUmExVERIWm5VT21VU0dYdmNEQmN5MzhuNFctV1Z1N1VDRFlmM2R3eEVKelM2c013SVYyakQzYWNObG1Od3VFczBONHI1WTJiZE5tX01EWjNORURWcUlTWnlIQVRUNHNFay1FeEpzNUxDQk1PZXJaRlNhOThoTUpiTFVfenM?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+                  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -255,14 +233,31 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Amazon Nearing $7.5 Billion Purchase of Decart.",
+          "lead": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Amazon Nearing $7.5 Billion Purchase of Decart",
-                  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUF3cVBtMnpldjFwZWxCVHJqUXBQd3NtNkNlS085d2RaaHNVWEtTZGlnZmY3REdOMUljYW85UjFuakFUUjR1RTViRU9fcXVoTTZNTy13RjNJRlJHUE9WaHd3YTFoUEFKRUF0dXl3ZFlhUjlNSmRFR0ctVkhMQzN0d0hoZUxOajdYb2Rn?oc=5",
+                  "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkt3LUxXYjZSOEgweWR3SHowTnJQd19PNVE3NnRVaHhhcDBQNC1vaXVibjRKRDBUVF84dEhJcDN1MTlsX1A4Q0hZelo3RmtMelhhM3lhbmtOZUNSc3VfWGRNdDNfRVQ5LXRwN01nc1lsVVNxdk9GQXYxUTNJY2EtSUFrTnpuekItcEowd0Jod3lkODNQS04wQWgwVUszd1ppem8yelZydTdKSFozamdVaGY2V0FhQQ?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
@@ -272,33 +267,38 @@
           ]
         },
         {
-          "lead": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT.",
+          "lead": "Google's Antitrust Trial News & Analysis.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
-                  "link": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-                  "source": "Business Insider Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
+                  "title": "Google's Antitrust Trial News & Analysis",
+                  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tNElRNDgyT09Xd0JhQ09MblhGUWIxWTRyNmpJQXJlVlRsaFBrVVhJMTE1Q3lEQ29ZeHVldEQ5ZS0tQkFaZTJYaXJfYnNPTVU3SVdnVy1vTFN5VHh0V1ZiOEZxYUxnSlk4SWdSQ3V6a2xuVThf?oc=5",
+                  "source": "The Information",
+                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
                 }
               ],
               "x_mentions": []
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "label": "Memory (DRAM/HBM/NAND)",
+      "bullets": [
         {
-          "lead": "Amazon closes in on $7.5bn deal to buy AI start-up Decart.",
+          "lead": "Winbond secures major automotive, industrial memory orders from Europe, Japan, US for 2027.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
-                  "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "Winbond secures major automotive, industrial memory orders from Europe, Japan, US for 2027",
+                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdU5GTU9aQmhLemxiQXprak1sOXpabm84TnZPY21PX3ljNEN5ZWZpMHBiUUpUZ3JwaXNNU0UxUW4ydTlHUUhxUGFvWDdCWVZ1SWpVSU9zY3ZXaEhXU1JFd0FTUWtRQ2JHZXRTU09rNHRlNkVDd3pSZU5uajJJcVFJZm5HOHp5MjNtV3pOLW5VTDUycnZCc09j?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -311,11 +311,37 @@
   "watchlist": [
     {
       "name": "Nvidia",
-      "note": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+      "note": "Nvidia leadership shake-up tests AI rack cadence, while Taiwan suppliers eye dual GPU-ASIC opportunities",
       "sources": [
         {
-          "title": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
+          "title": "Nvidia leadership shake-up tests AI rack cadence, while Taiwan suppliers eye dual GPU-ASIC opportunities",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWplLWFUWkJOZTZOMmpKMk9lMEE2MXJmcTlGQi1YYTJfZ1UzSEpSdnIyQ054bS1Oa0hPVjFfblEwMm8tRTVBZ0lPMGtFdUZsdk1SOUgtYkctX2NEZFh5WEVQUXpTZEk0dFNYV2EtXzVOdDBtVGo2d0o1amZCWnNudDhXQ2l4R1JUdTJaRWhnRVNicUtuTl9nNk5HZVlDUQ?oc=5",
+          "source": "DigiTimes",
+          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "TRUMP",
+      "note": "Trump to welcome investors at gala for his plunging meme coin",
+      "sources": [
+        {
+          "title": "Trump to welcome investors at gala for his plunging meme coin",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Amazon",
+      "note": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+      "sources": [
+        {
+          "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
           "source": "WSJ Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
@@ -323,25 +349,12 @@
       "x_mentions": []
     },
     {
-      "name": "TRUMP",
-      "note": "Trump to work with Dems to cap credit card interest rates",
+      "name": "Apple",
+      "note": "How Apple Got Caught Up in Google Search Ads Slowdown",
       "sources": [
         {
-          "title": "Trump to work with Dems to cap credit card interest rates",
-          "link": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=businessinsider&utm_medium=referral&feed_item_type=news",
-          "source": "Business Insider Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=businessinsider.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Amazon",
-      "note": "Amazon Nearing $7.5 Billion Purchase of Decart",
-      "sources": [
-        {
-          "title": "Amazon Nearing $7.5 Billion Purchase of Decart",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUF3cVBtMnpldjFwZWxCVHJqUXBQd3NtNkNlS085d2RaaHNVWEtTZGlnZmY3REdOMUljYW85UjFuakFUUjR1RTViRU9fcXVoTTZNTy13RjNJRlJHUE9WaHd3YTFoUEFKRUF0dXl3ZFlhUjlNSmRFR0ctVkhMQzN0d0hoZUxOajdYb2Rn?oc=5",
+          "title": "How Apple Got Caught Up in Google Search Ads Slowdown",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXZZU0Q2Q1VwTFg3TWJ5TDd6Rkl3RnYzQjk4aVF6RHFMUDFZSGw4QVdDNnpFbXF5RXNrdF84blBsVnRuMGZfTi0xdkF3RUg5dXVEemtjdGhDRXQwbkhpWFNLTTJpRlBrNkJuWE1lUHZVZzBMNHlxakoyeUFXTXlZb2VRYm9jUHVranJ3?oc=5",
           "source": "The Information",
           "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
         }
@@ -350,26 +363,13 @@
     },
     {
       "name": "Tesla",
-      "note": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
+      "note": "Tesla FSD V15 Offers Stunning Visualizations That Distract From “25x”",
       "sources": [
         {
-          "title": "Elon Musk revisits Tesla Shanghai factory after 3 years, praises China manufacturing",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZElpVVloWlkyaGUtTGVyZ0FveFpqVEZ3V0F2YlNUMDNNMk93WHdKMFA0VnNXdk1BWHFobXhHaVc4NFdVMlAxdnByU2t3ajRGNXYtbUtvSUlWRndnOEMzWEp3V2UtMnhNcWpwRzBRSU5zUmhkN2RIZzBxZmZkZzV0NHdFemtKQ1QyM3h6LXpPNG1kU0c5NVBPRg?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Bitcoin",
-      "note": "Bitcoin rises over 2% to more than $60,000",
-      "sources": [
-        {
-          "title": "Bitcoin rises over 2% to more than $60,000",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWZDYjFjYnlkNnBXa2lSQ2loSllxdV9rb2JNdjlZRXRBdmZvUFpaUzJrenVyMWRMWVdKMDR3cTJUVUVjX3hfUmJYaklMUXA2aXlRUTlHTzhpTVR4QVZiQlhlZTMyZ0RGNzhZWFlPT0VFNXdVUTJIRENXd0ZmYXIwR3ZMT3ZKWVJk?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+          "title": "Tesla FSD V15 Offers Stunning Visualizations That Distract From “25x”",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkMtS0s3WUk4czhUQTFkUFpfSEdTVDItRndTYXR5QW80eUxmck9EZTBIWlJmUXYxNlhKdm4zaFhlQy1Sa1k2Mk1FbDdFQUVfQ3ZsRnpDY0RiZUUyWHZHeDZRQk9WOTV6UWhVaTVsbWt4Y0ZyV3V1dVZBQTBqd1ZkWUNrMVpyOFZrYjFseU5PVXlqQWNGQ2xVbVY1MUpuYnlfLTJLT2tKZ2Z4R0l5YTl6MmUxdTNVR1dKcldfOUdfNA?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -484,27 +484,27 @@
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 22410.8,
-      "change": -430.82,
-      "change_pct": -1.89
+      "price": 22100.69,
+      "change": -310.11,
+      "change_pct": -1.38
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 4869.96,
-      "change": -215.03,
-      "change_pct": -4.23
+      "price": 4701.84,
+      "change": -152.01,
+      "change_pct": -3.13
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 36033.29,
-      "change": -2314.38,
-      "change_pct": -6.04
+      "price": 36466.29,
+      "change": 588.66,
+      "change_pct": 1.64
     }
   ],
-  "story_count": 48,
-  "bucket_count": 11
+  "story_count": 46,
+  "bucket_count": 10
 }
