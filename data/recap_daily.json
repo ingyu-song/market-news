@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-23T02:08:24+00:00",
+  "generated_at": "2026-11-24T05:43:00+00:00",
   "mode": "daily",
-  "for_date": "2026-11-23",
+  "for_date": "2026-11-24",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 46 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 47 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens.",
+          "lead": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "China State Funds Ramp Up ETF Buying to Record as Rout Deepens",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ0RIWVhzZU01ZDVXVjhKcmpRSF9Fckh4WXh1WGppV1VJUWkwRlBnNjZ3dFhiWVhWWlh1YTN5YjNxcFk4S1FrZjF3LThUSjhZdVFkNnZZdHU2a09JWWZ4NjBYbWtkYlNRQUlrQTBmWTNyZjdyQnRzU29zOEJyajhpcUpvS2VIVFU3S1ZlUGhiMFBhVUh5U1ZDYmYzYzdvYTdmYnZyTG1mVG1TSzhVOU8xRkthMA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+                  "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,33 +26,33 @@
           ]
         },
         {
-          "lead": "Taiwan electronics, ICT export orders surge in October as US remains top buyer.",
+          "lead": "Trump’s Nvidia holdings may have gained up to $15 mln in Monday rally: FT.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Taiwan electronics, ICT export orders surge in October as US remains top buyer",
-                  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RuRW1rUENQUlhfYnZlNVh1UG1CTHFvNkdwdHpuM0FpVElhM1BkZWRZS3JHbE1RZjF4cDhFZjBGVUxfUDV3MGhNRmxIdDBzbDNJNjhjUHk2cUZtS0ZNNVZ1cEJUeXpWSWxkU2ZWREMwSVRSQUxIM05fSnpwaS14ZG9TeFM3YUtLWnUza1AzVlk0c3VBTXlUWlZB?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Beijing to bar young ’red-chip’ firms from listing outside mainland China, sources say",
-                  "link": "https://www.investing.com/news/stock-market-news/beijing-to-bar-young-redchip-firms-from-listing-outside-mainland-china-sources-say-5044173",
+                  "title": "Trump’s Nvidia holdings may have gained up to $15 mln in Monday rally: FT",
+                  "link": "https://www.investing.com/news/stock-market-news/trumps-nvidia-holdings-may-have-gained-up-to-15-mln-in-monday-rally-ft-5047041",
                   "source": "Investing.com",
                   "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+                  "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers.",
+          "lead": "Dollar climbs as renewed AI euphoria fuels Fed hike bets.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWFrdkpmX09xYngwSVpaUmExVERIWm5VT21VU0dYdmNEQmN5MzhuNFctV1Z1N1VDRFlmM2R3eEVKelM2c013SVYyakQzYWNObG1Od3VFczBONHI1WTJiZE5tX01EWjNORURWcUlTWnlIQVRUNHNFay1FeEpzNUxDQk1PZXJaRlNhOThoTUpiTFVfenM?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
+                  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWk01SnRnY1hzWHBOdlQ5eGdldmlIQkd5QUM4SFJ5S3Z5YWtVQnlYWVp3LXlqajM1QTA5UTBBSFNrOFdjVGdWME54WUJYdFRGUXJDYlVmUDFETjlITTZtYkFiWW9IcU9sVTM0R0otbjlmMXNCdC1HSEVNOXJMaDlIMC1YUnFBUDZNMXh6RlRwMVM5MDFRTy1YQXc3U21zYU0?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,16 +82,16 @@
           ]
         },
         {
-          "lead": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand.",
+          "lead": "Fed's Williams says inflation still too high, signals more rate hikes possible.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Treasury Futures Fall as Rising Stock Futures Damp Haven Demand",
-                  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2FnY19ZVXo4MGlTUlpSamM4Z0Fwd2J0aGxxMWlDYXNXMkFYc2ZtSkpfRS1aQ2VLdFdKSEVPaHdmanA0NzBONHd2dFhUbXlKWE1JRGhZaXVOcG5PdlZqLU9xMGd3UWFid0NuMmpYYnByMmxad2FpZXgza2U1NHRVbDZnV2szanN3aUxROW5JSmFUQnZKbFpnbWZMdmhzQTZKanlsV0pxZWI2TTh1MzdmZGQyTmk?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa3lvbHFTMGFKUm9paUJYVzFoQzd1QnQtSzAtTlZmSlFyRW5Sc1hic3p2MVV0VWVrYjFkNDdQZlFTUWMzZGFueG5yMTVMcGhLWUxwQi16Ujk5b2ppMVRWTGowaHlMZDQ4Z19xbWpCQTRFVzFHSHhxeW9kbG80OTVtSEZsb3REX29FRFFPR0xzTnFjYXh6?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -99,14 +99,14 @@
           ]
         },
         {
-          "lead": "Treasury Yields Fall, German Bunds’ Tick Higher.",
+          "lead": "Fed Cuts Pay Raises for Regional-Bank Staff.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Treasury Yields Fall, German Bunds’ Tick Higher",
-                  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+                  "title": "Fed Cuts Pay Raises for Regional-Bank Staff",
+                  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSE9oYmJPLTJKZ3p5QzM1RWZ6WHZTc0g0M1dsdkl4czJFenpyWnRFdWJwX2dIR2F1a00xTFNIRUFFcFlYSUZRUlBENGVGV1VvYUtOWmVJNWlzcjBCVDd0aGRwR0x3WVdvQVVqU2xHTnFtU3hqZ21sV01ZcVlUdGtJUzg2VmlEc2d3c1pqdGRzTjJBaVhFRGdWWi1zVzM?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers.",
+          "lead": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWFrdkpmX09xYngwSVpaUmExVERIWm5VT21VU0dYdmNEQmN5MzhuNFctV1Z1N1VDRFlmM2R3eEVKelM2c013SVYyakQzYWNObG1Od3VFczBONHI1WTJiZE5tX01EWjNORURWcUlTWnlIQVRUNHNFay1FeEpzNUxDQk1PZXJaRlNhOThoTUpiTFVfenM?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+                  "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,16 +138,16 @@
           ]
         },
         {
-          "lead": "Trump to welcome investors at gala for his plunging meme coin.",
+          "lead": "Trump’s Nvidia holdings may have gained up to $15 mln in Monday rally: FT.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump to welcome investors at gala for his plunging meme coin",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "Trump’s Nvidia holdings may have gained up to $15 mln in Monday rally: FT",
+                  "link": "https://www.investing.com/news/stock-market-news/trumps-nvidia-holdings-may-have-gained-up-to-15-mln-in-monday-rally-ft-5047041",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -155,16 +155,16 @@
           ]
         },
         {
-          "lead": "Bessent refuses to rule out Huang’s return to Nvidia.",
+          "lead": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Bessent refuses to rule out Huang’s return to Nvidia",
-                  "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-                  "source": "Financial Times",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
+                  "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+                  "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +177,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "AI基建需求升溫 華碩Q4加速出貨Vera Rubin NVL72.",
+          "lead": "[칼럼] 돌아온 젠슨 황, 축포 뒤 가려진 오너 리스크와 진짜 엔비디아의...",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "AI基建需求升溫 華碩Q4加速出貨Vera Rubin NVL72",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMUWVSQnd2R0ZhbkFXWDB5aFBCOHNzSlRIZDlXbVh2Z1JqR29xRkw2OTlLdEc5RkZMcUdCSGxwY0VFWkV2NEJHdHlRbVVqQnBqNEE1eTBJNEpuMFdBeDVF?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "[칼럼] 돌아온 젠슨 황, 축포 뒤 가려진 오너 리스크와 진짜 엔비디아의...",
+                  "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62541",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,16 +194,16 @@
           ]
         },
         {
-          "lead": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers.",
+          "lead": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Treasury Secretary Bessent leaves door open to Huang's return, says Nvidia still owes answers",
-                  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWFrdkpmX09xYngwSVpaUmExVERIWm5VT21VU0dYdmNEQmN5MzhuNFctV1Z1N1VDRFlmM2R3eEVKelM2c013SVYyakQzYWNObG1Od3VFczBONHI1WTJiZE5tX01EWjNORURWcUlTWnlIQVRUNHNFay1FeEpzNUxDQk1PZXJaRlNhOThoTUpiTFVfenM?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+                  "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +211,38 @@
           ]
         },
         {
-          "lead": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO.",
+          "lead": "Singapore to continue probe of Nvidia-linked chip firm Megaspeed.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
-                  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOERUMkVEZEttRVd6TG92RVVFUzc4RU10anVtbFoxeV9RN1VneDJiUkc5NXpVWWNhM09PUWhGMHNHcmJNeTU0WTltdjA1TE5BbUtvOWx1QU4ySmJJc2lPWmoydVJld09sOER4Rk4xRE9QbXpKSVMzNE9ldENzQWZWVGZGRlY?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Singapore to continue probe of Nvidia-linked chip firm Megaspeed",
+                  "link": "https://www.investing.com/news/stock-market-news/singapore-to-continue-probe-of-nvidialinked-chip-firm-megaspeed-93CH-5047053",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Earnings / Guidance",
+      "bullets": [
+        {
+          "lead": "‘HBM4 양산·역대급실적’ 힘 실었다…삼성전자,반도체임원 70명 승진.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "‘HBM4 양산·역대급실적’ 힘 실었다…삼성전자,반도체임원 70명 승진",
+                  "link": "https://www.newstopkorea.com/ko-kr/articles/49270",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,16 +255,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill.",
+          "lead": "아마존의 디카트 기술 인수, AI 반도체 경쟁력은 소프트웨어가 좌우한다.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-                  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "아마존의 디카트 기술 인수, AI 반도체 경쟁력은 소프트웨어가 좌우한다",
+                  "link": "https://www.koreaittimes.com/news/articleView.html?idxno=159418",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -250,16 +272,16 @@
           ]
         },
         {
-          "lead": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t.",
+          "lead": "Melania Trump’s New Docuseries Already Falls Off Amazon Prime Charts.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkt3LUxXYjZSOEgweWR3SHowTnJQd19PNVE3NnRVaHhhcDBQNC1vaXVibjRKRDBUVF84dEhJcDN1MTlsX1A4Q0hZelo3RmtMelhhM3lhbmtOZUNSc3VfWGRNdDNfRVQ5LXRwN01nc1lsVVNxdk9GQXYxUTNJY2EtSUFrTnpuekItcEowd0Jod3lkODNQS04wQWgwVUszd1ppem8yelZydTdKSFozamdVaGY2V0FhQQ?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Melania Trump’s New Docuseries Already Falls Off Amazon Prime Charts",
+                  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOVJvRjlZZXpCMU9ObkZlNUpxcUJnaVNfTkluTGFwckQ1czVtMU5MX3c2X2pwMEI1MFIzdTROU1dET3JQeFhMUTFqU04yTmZlTmhGQkhpa1psMmh1Z2JNYkpBeVlLYndSUEtWSXd0X1FrZ3V2ZEpEZE4xWHBSZTZocFVHQ09UR2paOVZ0dGQ5SFJYOVY2amFXaTQ3b243Tkxoby1LMGVIYzBSdU9tUWdGcmNtM0RydWw5SWlJckZPcGhFelVlQUpQaXpLWTdubFJ5?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -267,38 +289,16 @@
           ]
         },
         {
-          "lead": "Google's Antitrust Trial News & Analysis.",
+          "lead": "Amazon Acquires Chip Software Business from AI Startup Decart.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Google's Antitrust Trial News & Analysis",
-                  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tNElRNDgyT09Xd0JhQ09MblhGUWIxWTRyNmpJQXJlVlRsaFBrVVhJMTE1Q3lEQ29ZeHVldEQ5ZS0tQkFaZTJYaXJfYnNPTVU3SVdnVy1vTFN5VHh0V1ZiOEZxYUxnSlk4SWdSQ3V6a2xuVThf?oc=5",
+                  "title": "Amazon Acquires Chip Software Business from AI Startup Decart",
+                  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGxwb0piQjRYaXFvbEpVRE1CaDFMZWE0SVBGS1FLcXZJMlEtMnEwQnZoV0l1VGdEbS1NdXlUeW14VHlIT1JTc192czlZMTdXclhLOG11X3dKbzhKbEU2S1lURzd5b2lpblJuSUZvaTFveTVOQmFxYkNCV3Y0Zk9vd1I1b3drU0JCX3Rqb004SkRSVDVRVTRCczB6ZkU5UQ?oc=5",
                   "source": "The Information",
                   "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "label": "Memory (DRAM/HBM/NAND)",
-      "bullets": [
-        {
-          "lead": "Winbond secures major automotive, industrial memory orders from Europe, Japan, US for 2027.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Winbond secures major automotive, industrial memory orders from Europe, Japan, US for 2027",
-                  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdU5GTU9aQmhLemxiQXprak1sOXpabm84TnZPY21PX3ljNEN5ZWZpMHBiUUpUZ3JwaXNNU0UxUW4ydTlHUUhxUGFvWDdCWVZ1SWpVSU9zY3ZXaEhXU1JFd0FTUWtRQ2JHZXRTU09rNHRlNkVDd3pSZU5uajJJcVFJZm5HOHp5MjNtV3pOLW5VTDUycnZCc09j?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -311,11 +311,50 @@
   "watchlist": [
     {
       "name": "Nvidia",
-      "note": "Nvidia leadership shake-up tests AI rack cadence, while Taiwan suppliers eye dual GPU-ASIC opportunities",
+      "note": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
       "sources": [
         {
-          "title": "Nvidia leadership shake-up tests AI rack cadence, while Taiwan suppliers eye dual GPU-ASIC opportunities",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZWplLWFUWkJOZTZOMmpKMk9lMEE2MXJmcTlGQi1YYTJfZ1UzSEpSdnIyQ054bS1Oa0hPVjFfblEwMm8tRTVBZ0lPMGtFdUZsdk1SOUgtYkctX2NEZFh5WEVQUXpTZEk0dFNYV2EtXzVOdDBtVGo2d0o1amZCWnNudDhXQ2l4R1JUdTJaRWhnRVNicUtuTl9nNk5HZVlDUQ?oc=5",
+          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+          "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "TRUMP",
+      "note": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "sources": [
+        {
+          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+          "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Amazon",
+      "note": "Melania Trump’s New Docuseries Already Falls Off Amazon Prime Charts",
+      "sources": [
+        {
+          "title": "Melania Trump’s New Docuseries Already Falls Off Amazon Prime Charts",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOVJvRjlZZXpCMU9ObkZlNUpxcUJnaVNfTkluTGFwckQ1czVtMU5MX3c2X2pwMEI1MFIzdTROU1dET3JQeFhMUTFqU04yTmZlTmhGQkhpa1psMmh1Z2JNYkpBeVlLYndSUEtWSXd0X1FrZ3V2ZEpEZE4xWHBSZTZocFVHQ09UR2paOVZ0dGQ5SFJYOVY2amFXaTQ3b243Tkxoby1LMGVIYzBSdU9tUWdGcmNtM0RydWw5SWlJckZPcGhFelVlQUpQaXpLWTdubFJ5?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Micron",
+      "note": "Micron steps up HBM investment in Taiwan, Singapore",
+      "sources": [
+        {
+          "title": "Micron steps up HBM investment in Taiwan, Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVJMZWJISVRRUktleHZUdm40VzNBS2t3XzFkQXdlTTlkWkxKUktYMzY2enJEWXI4WkpCcVlKUmVJNXhpaUNOSnVEUTVyY3oxaUQ0QUZSbmE2aTZHanE3R0h5WkJEUTJkeXNHaEk5YVQzclU1NTdsemxqX2xBN2c1UUxsU0pUa0hVSlJfMnJ3bGVQVGNO?oc=5",
           "source": "DigiTimes",
           "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
         }
@@ -323,51 +362,12 @@
       "x_mentions": []
     },
     {
-      "name": "TRUMP",
-      "note": "Trump to welcome investors at gala for his plunging meme coin",
+      "name": "Meta",
+      "note": "Meta’s AI Chief Warns Against ‘Handover Of Society To AI’—Frustrating Social Media Users Who Want Solutions",
       "sources": [
         {
-          "title": "Trump to welcome investors at gala for his plunging meme coin",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjJxV2tNOWN0U2lzczlZWVgtQ0xIblpuY05HTUlTOEhsU1lXVTNUN2dfbFFhUUNFaVZveEdVTTBvLUl3cC1oaXRSZHNyZEpfNFhEb3R4SU1fRHVZbnFPNUhZaklEUmtmQ0xvVnlJbkRmcmVJLUdLM0RjUlZ5R3k5Z29uUWpPeHUwVFhWcko3YWE0VFdJWXhSN1dTMmZQVU9RdDNrSDdOMA?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Amazon",
-      "note": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-      "sources": [
-        {
-          "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUlhuRl9IVHpKbEE1aE5EQ3RBb1lScFkyaktKUHpueW1KSi1EWGFYMEx4TU9oRm5RbzVkSkZ2aWhtZ0hxSkFlcjNFNjJjNHhHME9FNkp2ckNuS1FMMkNBYUZSemt1UTFpYmd6MEtLOTdXdDJwellWMGxFd0lnLXVsMHdiU2tvOWw1Qk9FV1d3c21IejNyT3ZRX1NPdmFyekV0enlHNkszSWVIQVM0dGFRUnh2dw?oc=5",
-          "source": "WSJ Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Apple",
-      "note": "How Apple Got Caught Up in Google Search Ads Slowdown",
-      "sources": [
-        {
-          "title": "How Apple Got Caught Up in Google Search Ads Slowdown",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXZZU0Q2Q1VwTFg3TWJ5TDd6Rkl3RnYzQjk4aVF6RHFMUDFZSGw4QVdDNnpFbXF5RXNrdF84blBsVnRuMGZfTi0xdkF3RUg5dXVEemtjdGhDRXQwbkhpWFNLTTJpRlBrNkJuWE1lUHZVZzBMNHlxakoyeUFXTXlZb2VRYm9jUHVranJ3?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Tesla",
-      "note": "Tesla FSD V15 Offers Stunning Visualizations That Distract From “25x”",
-      "sources": [
-        {
-          "title": "Tesla FSD V15 Offers Stunning Visualizations That Distract From “25x”",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkMtS0s3WUk4czhUQTFkUFpfSEdTVDItRndTYXR5QW80eUxmck9EZTBIWlJmUXYxNlhKdm4zaFhlQy1Sa1k2Mk1FbDdFQUVfQ3ZsRnpDY0RiZUUyWHZHeDZRQk9WOTV6UWhVaTVsbWt4Y0ZyV3V1dVZBQTBqd1ZkWUNrMVpyOFZrYjFseU5PVXlqQWNGQ2xVbVY1MUpuYnlfLTJLT2tKZ2Z4R0l5YTl6MmUxdTNVR1dKcldfOUdfNA?oc=5",
+          "title": "Meta’s AI Chief Warns Against ‘Handover Of Society To AI’—Frustrating Social Media Users Who Want Solutions",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVg2N1RwM0I1eXctaFNvNE1QRUpnVHlTUVVfSW5DYXlSMzRqcHN5eUhkZXBhN0Z0WDZvMWNRbF9NTkU3UGd2MEd6SnpnbHM2VDcyN3VfZEpEWEZnNy1sdFlXanZKbTFhc3puUUhURS1SdFp1Q2lrMkU2X3ZJUFJLSXk0SW1rV3Z0MGluTko3REM1U2ZqaWpyTDIwRkt4TmphVEEtRDZ3Qk5YeHJOVTFDUkJMbkNQd1VmQ2NNMTZDaXQwX3J1anZaYkdoMDhDVkx1VUZ3blRyUjNRYVVfd3RkV0NsZllwYUNfRDltUXhn?oc=5",
           "source": "Forbes Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
@@ -444,67 +444,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 6910.39,
-      "change": -267.17,
-      "change_pct": -3.72
+      "price": 7237.17,
+      "change": 318.72,
+      "change_pct": 4.61
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 22617.73,
-      "change": -1264.37,
-      "change_pct": -5.29
+      "price": 24089.56,
+      "change": 1438.04,
+      "change_pct": 6.35
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 48147.33,
-      "change": -965.3,
-      "change_pct": -1.97
+      "price": 49595.31,
+      "change": 1410.62,
+      "change_pct": 2.93
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2581.79,
-      "change": -74.45,
-      "change_pct": -2.8
+      "price": 2669.66,
+      "change": 87.24,
+      "change_pct": 3.38
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 56436.65,
-      "change": -3105.76,
-      "change_pct": -5.22
+      "price": 58719.77,
+      "change": 2143.36,
+      "change_pct": 3.79
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 22100.69,
-      "change": -310.11,
-      "change_pct": -1.38
+      "price": 22288.87,
+      "change": -94.87,
+      "change_pct": -0.42
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 4701.84,
-      "change": -152.01,
-      "change_pct": -3.13
+      "price": 5037.68,
+      "change": 296.71,
+      "change_pct": 6.26
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 36466.29,
-      "change": 588.66,
-      "change_pct": 1.64
+      "price": 40124.54,
+      "change": 3245.14,
+      "change_pct": 8.8
     }
   ],
-  "story_count": 46,
-  "bucket_count": 10
+  "story_count": 47,
+  "bucket_count": 9
 }
