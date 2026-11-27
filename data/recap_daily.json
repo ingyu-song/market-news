@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-26T03:55:36+00:00",
+  "generated_at": "2026-11-27T03:55:21+00:00",
   "mode": "daily",
-  "for_date": "2026-11-26",
+  "for_date": "2026-11-27",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 56 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 53 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "트럼프 관세 재건… 중국 압박·법적 기반 강화.",
+          "lead": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프 관세 재건… 중국 압박·법적 기반 강화",
-                  "link": "https://www.newscj.com/news/articleView.html?idxno=3452299",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+                  "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,16 +26,16 @@
           ]
         },
         {
-          "lead": "일본 정부, 15% 미국 관세에 “유감”…“구조적 과잉생산 없어”.",
+          "lead": "China industrial profits growth surges to a 5-month high of 20.1% in October.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "일본 정부, 15% 미국 관세에 “유감”…“구조적 과잉생산 없어”",
-                  "link": "https://n.news.naver.com/mnews/article/056/0012301675?sid=104",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+                  "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+                  "source": "CNBC Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -43,16 +43,16 @@
           ]
         },
         {
-          "lead": "China Braces for Tariff Hike After US Announcement.",
+          "lead": "Taiwan seeks to lock in 15% US tariff to shield AI server and chip exports.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "China Braces for Tariff Hike After US Announcement",
-                  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS3NyOFFZY3BES2RUSW1SemdaTWUwNGplTjBWQ2drSjc0cy1RV0pIdEMzbmdadV8wbUViUXI1eEFDQlNjN3pCT2M1LWVYYU42OEtYTU1meEZKT2ZqeFVrUlU5cUdia1pJMHlFNDVYZGRGWmE1WDZmQWcxQTl6UkstWElHbmlKSXpHNHdna2x5OXlsTlg0eWRuZ1B6ejhwdF9nM1o2ZGNIMA?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Taiwan seeks to lock in 15% US tariff to shield AI server and chip exports",
+                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObkFmdkRIMFRQUVVGc0dBTE5WSGxodHBRcnAzc2lBUWdGMVdIdjlOaGFVMW9LcEw5OFZiVWFhNmtZNFhiUi10UzJSMFUtMmRCRW91cWwxZ3ZTNWg1NXNiN20tcE13X1V4b0M3VGIyMXRoSmh6RjhkeVBMR3NCS1VLN2ZfTGNKa1FkZjRSNnJMaHpKcFhRaHc?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,31 +65,14 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip.",
+          "lead": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Treasury Yields Rise After Huang Returns as Nvidia CEO; European Bond Yields Slip",
-                  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ01XVnNSdmRPYmYxOWNxejJQZ3Zsa3Ywa21rWWNDSi0ydnk5N0RjZ1BNQS1BRnNuSlZDcXpkUkZ4QkQ0V25rLUQ1MjRMa2hsRWlOQy1HOVRadlBZcG5TT3NIZ0duRDJvb0JGVHc4ZFE4dlVQSDBQcDhuMTFsdkRuRGQ4djl3bDE4c3lpMjEzU0dZWHo1dlNRTWo5LThIMHZtVk9iVjhoWGR1azJKUEE?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Bank of Korea Hikes Rate as AI Boom Powers Growth, Inflation",
-                  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTTAzSnF0UXZLcGIzQnV0VXoxU2x5UF9Vb1JqNGtuVENiTGg0Z1FMNno4dTZRcVNFR1BHUE81QTg4QWpZOXdxbnhUb2RDT0VWbTBBM1dVVUUwTUh5M20zNHp0SmNkS0hMYUZBazZ2c09pNWdvMTdQa0NCRWNpZDdZRGFXME8zcnU1akZOWmNxcVZhOS1LS0pkdnpiaHdBa20yWVVtcWJfNlBwU0VGeGtXNHV3?oc=5",
+                  "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
                   "source": "Bloomberg (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
@@ -99,16 +82,33 @@
           ]
         },
         {
-          "lead": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds.",
+          "lead": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-                  "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-                  "source": "CNBC Finance",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy1aZXhiVjBaS2RzMmxBdmx2Nk9zekJRT1dpWDlvOVZ1M05QNllocHRpSDZ4OXZIM1dEMWdyekpjMHgzVk9zOWd0b3dsU3J6b0lyaURkSElnV1p3bTBkZ1hQT2d1TnlYRHNXTk1tQ0FCcGp3eXlMSU9IZGxCamhGZE5mRHVfOXJOZW5wUTVDa2ptOU80OE93ODMyQmFyQ3JMTnJKN2FmWk12QQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Cautious consumers gear up for Black Friday as inflation woes bite.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Cautious consumers gear up for Black Friday as inflation woes bite",
+                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzUyQUp1enhRcjVIdWlBejd2XzFsdXVwaFF1SUswaVBuTzBKMkE2cU5GdnVSX2tiMjVIYnQzLXFKN3E2UWZ0bVZkX3dvdjEzaHRQRUdsM1pBOF9vaG0wYWVKZ2JNam5zWXZmT25QcVhPcWIwcDQ5cEx2U3QyQW1LcE43UEpGQVhpMF94bjVid21hYm9YbEZ0UnhBTnhPdlBJRFpzbFhsbWxBNndmeGNjcHptNXhJMnlQNk94TQ?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "트럼프 관세 재건… 중국 압박·법적 기반 강화.",
+          "lead": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "트럼프 관세 재건… 중국 압박·법적 기반 강화",
-                  "link": "https://www.newscj.com/news/articleView.html?idxno=3452299",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXUzbTJkNUdvMWM1MEw5blpJRlpMLXI0TXhfMlV4T1B4a2NoVWQ1ajVZa1BXTnp3cXpScldieVc3NHpSZXUyUGNFS1VoOVJQQ0pKWWxXdTJ5TjlUUzZKUTNGSzdRa3dYTTVOMG9rUXpKX0dSMDRJeTJTbVo4NFNqdGVSUmlLYW9IM1hMbXFKajE3XzQ5TDFMVkpmUQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,16 +138,16 @@
           ]
         },
         {
-          "lead": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia.",
+          "lead": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXB6LThaYmMyNmhPaXFHbWZuVGtBQW1FRjJMR016N01PMjR5b2xiXzNVUm4teHdGOU5lOGZUZWFrMF9xanhUclNySnplWWlLQzQ3U0FkS0t4blM0TXNjcE43bUpTR1BkbXF3RkZvY0pLZlFjOEtrdVBCS0lUMldrSG9SSkdJLV9fQ1BkaG5KcWtZZXVtWGxLbF8tdlozaFpuTjRkR3pVQWxfZE9WT1pzUmNEbmpiZw?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
+                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
+                  "source": "Reuters Business (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -155,16 +155,16 @@
           ]
         },
         {
-          "lead": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports.",
+          "lead": "Faisal Islam: Why Trump's new tariffs are less of a threat.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump admin weighed using Cold War law to reinstate Nvidia CEO Huang, WaPo reports",
-                  "link": "https://www.investing.com/news/stock-market-news/trump-admin-weighed-using-cold-war-law-to-reinstate-nvidia-ceo-huang-wapo-reports-5051938",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+                  "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+                  "source": "BBC Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +177,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands.",
+          "lead": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
-                  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDJMQ1FPT2tXd2gyeHozS0hzVVFDUXVlbmwwYm82X1MxbUtzdnoxc09jUmpBalp1RUNlY0ZXRWFIYmJ1U3M2MTgxVWFrRkFZLWtfRFdJSWpmZDRka3pHMkt0QUJkenc3OEdJYTNpUmdyb3k4c1B6OUk5eW9NSTdxZ3VmNHMtOXJFU0w0WWtOdjdHNzRjeTlZMWJaYzE3OVl5dGc?oc=5",
-                  "source": "WSJ Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                  "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+                  "link": "https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,16 +194,16 @@
           ]
         },
         {
-          "lead": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia.",
+          "lead": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXB6LThaYmMyNmhPaXFHbWZuVGtBQW1FRjJMR016N01PMjR5b2xiXzNVUm4teHdGOU5lOGZUZWFrMF9xanhUclNySnplWWlLQzQ3U0FkS0t4blM0TXNjcE43bUpTR1BkbXF3RkZvY0pLZlFjOEtrdVBCS0lUMldrSG9SSkdJLV9fQ1BkaG5KcWtZZXVtWGxLbF8tdlozaFpuTjRkR3pVQWxfZE9WT1pzUmNEbmpiZw?oc=5",
-                  "source": "The Information",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+                  "title": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등",
+                  "link": "https://n.news.naver.com/mnews/article/001/0016467590?sid=101",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +211,16 @@
           ]
         },
         {
-          "lead": "AI算力利空再來？SpaceX傳砍Blackwell租金最多35％ Anthropic續租5萬顆H200添變數- 國際.",
+          "lead": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "AI算力利空再來？SpaceX傳砍Blackwell租金最多35％ Anthropic續租5萬顆H200添變數- 國際",
-                  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50SVhDbld1UmQzRm5Dc25RRHN6UnkxT3dPSUphdXZUbzhuemNtYjBRWW9Jcmh2T3FVbUxvd05IaXdpdlVkbnJjOXlhNVhjNFRFYVdZR2NlTGYwcFRKSklZ?oc=5",
-                  "source": "Commercial Times 工商時報",
-                  "favicon": "https://www.google.com/s2/favicons?domain=ctee.com.tw&sz=64"
+                  "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+                  "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+                  "source": "NYT Business",
+                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,14 +233,48 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "Brightek's automotive revenue set to top 50% in 2026 as Japan, South Korea, robotics deals gain traction.",
+          "lead": "EmBestor's earnings soar 15-fold on the memory rally, but its real bet is industrial AI.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Brightek's automotive revenue set to top 50% in 2026 as Japan, South Korea, robotics deals gain traction",
-                  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHNPZ3JqZnZfajM3ckhRZVFvZmRPMnZacGVlVXdEdGJ0MWRGeVlPLVRONU1tZXgyNW5NZElEMjR4UVdlZVVzWE1SbmdhMVYtQjdhMDRSdkg5eVo4STVTclB1eDRuajNfNDBGN2VNY2lCSjFGRS1fV2xiX3R4dXVydjdEWjljZm1TMjBUYUNjQVZzOVk2?oc=5",
+                  "title": "EmBestor's earnings soar 15-fold on the memory rally, but its real bet is industrial AI",
+                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV002akxjeEZYUHdJbGZJdXpTVE9LSFFvdWtHcV9HQjUydkJvV09QbmFlSTZuQnJZS3k3blhxUGdTZ0dDclVuR2tndllYMzZzTGt4bUZaSFItZUN3TmFac2lkSGxESE54cWtycnhjM3FPQ2lxeElxUTV5bFgtTFFjTktILWN2N2g0aFZfYWc1d004djBXaWh5VUdTaw?oc=5",
+                  "source": "DigiTimes",
+                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "MSCI India Gets Rare Earnings Upgrade.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "MSCI India Gets Rare Earnings Upgrade",
+                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS01RbEFRTmRIc2tuZU1Fa2dSV25aSzJrVGV6bV9ZN3llWVdmaTZNNDdxRzBuZDEwZjlieHllbmVJWGxJQkZMMkZjMWVfUHltaG1oSGFJYkJQSjZvOFVvdm16aUNUaldESDh4amt6bWZ2UlkwQ2N1WUhBczFuT2QyUEkwN2VPTEtPMXA1NzBkUkJ2QQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
+                }
+              ],
+              "x_mentions": []
+            }
+          ]
+        },
+        {
+          "lead": "Kaimei expects fourth-quarter revenue to slip from third-quarter peak as AI project delays weigh.",
+          "segments": [
+            {
+              "text": "",
+              "sources": [
+                {
+                  "title": "Kaimei expects fourth-quarter revenue to slip from third-quarter peak as AI project delays weigh",
+                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaHV1X0wwdDBoc0YyOFVmWUxwRlhZTmRpZUg1bVVieEJpdUdjMXh1bEpVakN1RTVUUEdZQjRQTjBGOHlSOGRpZ0FzOFp6VjN2MnFlSmVNd0VmSmtTbnNKQ3R4SWZRQ29NQXM0T2lzWTlXSFg5VGxRcFg5SkY5a05wMWtuTzRsQ0IyX2c?oc=5",
                   "source": "DigiTimes",
                   "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
@@ -255,16 +289,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "Malaysia regulator seeks $146 million damages from Google over ’harmful’ content.",
+          "lead": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Malaysia regulator seeks $146 million damages from Google over ’harmful’ content",
-                  "link": "https://www.investing.com/news/stock-market-news/malaysia-regulator-files-lawsuits-against-google-seeking-146-million-over-harmful-content-5049766",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+                  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTFhzS01DT19pajZySGRKZWt3TTc4UGpaMTlYNlJxUWpqVzdmQjgwRW9WemlrZnlzRElZZF96N0VrMUdMWHJIRVd5dWxraWFyWG96SUQwcEtEbVlGM2VPOUNxVGtuVklTWU50cGdSU29jc2hVczdqTW0xdC1OeEtTa0E1bzFZYnZXdWlCaEJqT1U2eTVJOGlTZlFDblBEOVVld3ZuZ09zQUstd1dfbFZWOThWOEhHSHdYWVRtTVdRSEtxZUxXNXRzdGlwMTRydnkyOWdNME1sd1lpZzdsYWFaSnNkaVRHS21r?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -272,14 +306,14 @@
           ]
         },
         {
-          "lead": "Elderly Alzheimer's patient found after 11 days lost in Amazon.",
+          "lead": "India asks Netflix not to air Pakistani show, local media report.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Elderly Alzheimer's patient found after 11 days lost in Amazon",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWZXYXo3YUdHVW0zbThtc2lWS3pSWUpKYnUyZkk3eGlPYzNFSW85RnUyV0FDbUJyaXZuQk1iX25lYUtjVS1UaC0xc0lHdllLMGdKczdlZzZMOFJ4UXBmdWpTTHlGUmd2MlBLZVhwQzdvcktDMjlUQ1k2ZkN0X0I5bWJwY1NVZHhYRUtqTnhHbldHekpsbzlfY0VtdnY4ODc3WVpYcS1NdFpWd1JnM0xmSEVaTl9aZw?oc=5",
+                  "title": "India asks Netflix not to air Pakistani show, local media report",
+                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0x4N1FHbVMzTk9UZ2tfR0FDeTdUT1N6UTc0cXNIWTIwckdUQ0swRXZTWUkzZFlJQ3hoejg4ZlNaci1zX0pUbWdmR3FQOFNUMHhxM1kwN1hHUjFtVFNGcmZDT2xnb1dHT3ZZRTNKbTJuZ3RZbjZYVkZYSW1FZ0RSbXhnRFhZbVhzV2V4V3hVNDVCWlJxSFAwNXhfV2t0NXBmVnE4d3k3V1B5ekFlTm5IbURGcUxoZmFxeG9j?oc=5",
                   "source": "Reuters Business (via Google News)",
                   "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
                 }
@@ -289,16 +323,16 @@
           ]
         },
         {
-          "lead": "Amazon to start selling cars in the UK next year.",
+          "lead": "November 10 Microsoft Windows Update Can Cause Authentication To Fail.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Amazon to start selling cars in the UK next year",
-                  "link": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
-                  "source": "The Guardian Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=theguardian.com&sz=64"
+                  "title": "November 10 Microsoft Windows Update Can Cause Authentication To Fail",
+                  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHQyZ0dJMllLNVllTHZoUFJUdi1ldkpDYm1DZEk4dlJzUUZYSUVQMGk0eDZxY3BOY3c2UUQ3LVdPcXYwSjl6b1pyZ2NqbVk0Z3Rza1psQXI4WTA4Y1Y3Vzd4dUVfcVFRbDJCR3FOazdxblZ3X3pfNGxvaEg0QkJJY0lfV2RCV2hwdlBNd1JJRHB1c0t0YUZGaDV2eHpLVll5OVgwenJoY0xQY29JZnJTRWgzTV92djlRN0lsMU93Yw?oc=5",
+                  "source": "Forbes Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -310,66 +344,66 @@
   ],
   "watchlist": [
     {
-      "name": "Nvidia",
-      "note": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
-      "sources": [
-        {
-          "title": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXB6LThaYmMyNmhPaXFHbWZuVGtBQW1FRjJMR016N01PMjR5b2xiXzNVUm4teHdGOU5lOGZUZWFrMF9xanhUclNySnplWWlLQzQ3U0FkS0t4blM0TXNjcE43bUpTR1BkbXF3RkZvY0pLZlFjOEtrdVBCS0lUMldrSG9SSkdJLV9fQ1BkaG5KcWtZZXVtWGxLbF8tdlozaFpuTjRkR3pVQWxfZE9WT1pzUmNEbmpiZw?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
       "name": "TRUMP",
-      "note": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
+      "note": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
       "sources": [
         {
-          "title": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXB6LThaYmMyNmhPaXFHbWZuVGtBQW1FRjJMR016N01PMjR5b2xiXzNVUm4teHdGOU5lOGZUZWFrMF9xanhUclNySnplWWlLQzQ3U0FkS0t4blM0TXNjcE43bUpTR1BkbXF3RkZvY0pLZlFjOEtrdVBCS0lUMldrSG9SSkdJLV9fQ1BkaG5KcWtZZXVtWGxLbF8tdlozaFpuTjRkR3pVQWxfZE9WT1pzUmNEbmpiZw?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+          "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXUzbTJkNUdvMWM1MEw5blpJRlpMLXI0TXhfMlV4T1B4a2NoVWQ1ajVZa1BXTnp3cXpScldieVc3NHpSZXUyUGNFS1VoOVJQQ0pKWWxXdTJ5TjlUUzZKUTNGSzdRa3dYTTVOMG9rUXpKX0dSMDRJeTJTbVo4NFNqdGVSUmlLYW9IM1hMbXFKajE3XzQ5TDFMVkpmUQ?oc=5",
+          "source": "Bloomberg (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Amazon",
-      "note": "Elderly Alzheimer's patient found after 11 days lost in Amazon",
+      "name": "Nvidia",
+      "note": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
       "sources": [
         {
-          "title": "Elderly Alzheimer's patient found after 11 days lost in Amazon",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWZXYXo3YUdHVW0zbThtc2lWS3pSWUpKYnUyZkk3eGlPYzNFSW85RnUyV0FDbUJyaXZuQk1iX25lYUtjVS1UaC0xc0lHdllLMGdKczdlZzZMOFJ4UXBmdWpTTHlGUmd2MlBLZVhwQzdvcktDMjlUQ1k2ZkN0X0I5bWJwY1NVZHhYRUtqTnhHbldHekpsbzlfY0VtdnY4ODc3WVpYcS1NdFpWd1JnM0xmSEVaTl9aZw?oc=5",
-          "source": "Reuters Business (via Google News)",
-          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+          "source": "NYT Business",
+          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "TSMC",
-      "note": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
+      "name": "Netflix",
+      "note": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
       "sources": [
         {
-          "title": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOXB6LThaYmMyNmhPaXFHbWZuVGtBQW1FRjJMR016N01PMjR5b2xiXzNVUm4teHdGOU5lOGZUZWFrMF9xanhUclNySnplWWlLQzQ3U0FkS0t4blM0TXNjcE43bUpTR1BkbXF3RkZvY0pLZlFjOEtrdVBCS0lUMldrSG9SSkdJLV9fQ1BkaG5KcWtZZXVtWGxLbF8tdlozaFpuTjRkR3pVQWxfZE9WT1pzUmNEbmpiZw?oc=5",
-          "source": "The Information",
-          "favicon": "https://www.google.com/s2/favicons?domain=theinformation.com&sz=64"
+          "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTFhzS01DT19pajZySGRKZWt3TTc4UGpaMTlYNlJxUWpqVzdmQjgwRW9WemlrZnlzRElZZF96N0VrMUdMWHJIRVd5dWxraWFyWG96SUQwcEtEbVlGM2VPOUNxVGtuVklTWU50cGdSU29jc2hVczdqTW0xdC1OeEtTa0E1bzFZYnZXdWlCaEJqT1U2eTVJOGlTZlFDblBEOVVld3ZuZ09zQUstd1dfbFZWOThWOEhHSHdYWVRtTVdRSEtxZUxXNXRzdGlwMTRydnkyOWdNME1sd1lpZzdsYWFaSnNkaVRHS21r?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Tesla",
-      "note": "Tesla's AI4.5 downgrade exposes the memory bottleneck behind physical AI",
+      "name": "Apple",
+      "note": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
       "sources": [
         {
-          "title": "Tesla's AI4.5 downgrade exposes the memory bottleneck behind physical AI",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV0oyZ3UtTE5rVjdQN2lXak1wcnNOSTJoMm9jdzA0dWYzUVhxWGdwYXRLYkc0amZlcHZNNHV4VmRDM2dURm5QVUFPQTRlUXZZMjNFZjF2NkxRWGs0VndQMHVQVG41SXVrTnNzVmozUVJsMWVxSlk3VW94V2lMZHRYZHZoWkFkWmg0akVmMXRrdENRLTQ?oc=5",
-          "source": "DigiTimes",
-          "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+          "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTFhzS01DT19pajZySGRKZWt3TTc4UGpaMTlYNlJxUWpqVzdmQjgwRW9WemlrZnlzRElZZF96N0VrMUdMWHJIRVd5dWxraWFyWG96SUQwcEtEbVlGM2VPOUNxVGtuVklTWU50cGdSU29jc2hVczdqTW0xdC1OeEtTa0E1bzFZYnZXdWlCaEJqT1U2eTVJOGlTZlFDblBEOVVld3ZuZ09zQUstd1dfbFZWOThWOEhHSHdYWVRtTVdRSEtxZUxXNXRzdGlwMTRydnkyOWdNME1sd1lpZzdsYWFaSnNkaVRHS21r?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Microsoft",
+      "note": "November 10 Microsoft Windows Update Can Cause Authentication To Fail",
+      "sources": [
+        {
+          "title": "November 10 Microsoft Windows Update Can Cause Authentication To Fail",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHQyZ0dJMllLNVllTHZoUFJUdi1ldkpDYm1DZEk4dlJzUUZYSUVQMGk0eDZxY3BOY3c2UUQ3LVdPcXYwSjl6b1pyZ2NqbVk0Z3Rza1psQXI4WTA4Y1Y3Vzd4dUVfcVFRbDJCR3FOazdxblZ3X3pfNGxvaEg0QkJJY0lfV2RCV2hwdlBNd1JJRHB1c0t0YUZGaDV2eHpLVll5OVgwenJoY0xQY29JZnJTRWgzTV92djlRN0lsMU93Yw?oc=5",
+          "source": "Forbes Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -476,35 +510,35 @@
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 57779.82,
-      "change": 662.71,
-      "change_pct": 1.16
+      "price": 58434.22,
+      "change": 993.86,
+      "change_pct": 1.73
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 22384.66,
-      "change": 418.65,
-      "change_pct": 1.91
+      "price": 22401.82,
+      "change": 174.94,
+      "change_pct": 0.79
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 4743.54,
-      "change": 41.64,
-      "change_pct": 0.89
+      "price": 4871.74,
+      "change": 131.54,
+      "change_pct": 2.77
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 38974.63,
-      "change": 833.1,
-      "change_pct": 2.18
+      "price": 39272.28,
+      "change": 9.89,
+      "change_pct": 0.03
     }
   ],
-  "story_count": 56,
+  "story_count": 53,
   "bucket_count": 12
 }
