@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T02:57:46+00:00",
+  "generated_at": "2026-11-28T03:41:39+00:00",
   "mode": "weekly",
-  "for_week_start": "2026-11-15",
-  "for_week_ending": "2026-11-21",
+  "for_week_start": "2026-11-22",
+  "for_week_ending": "2026-11-28",
   "days_covered": 7,
   "headline": "Weekly tape, by editorial weight",
   "summary": "Compiled from 7 daily recap(s). Themes ordered by coverage volume across the week.",
@@ -20,12 +20,6 @@
       "sources": []
     },
     {
-      "label": "Trump 2.0 / US Policy",
-      "narrative": "Trump 2.0 / US Policy accounted for 21 bullets across the week's daily recaps.",
-      "movers": [],
-      "sources": []
-    },
-    {
       "label": "US Semis / AI Chips",
       "narrative": "US Semis / AI Chips accounted for 21 bullets across the week's daily recaps.",
       "movers": [],
@@ -34,6 +28,12 @@
     {
       "label": "Software / Internet / Platforms",
       "narrative": "Software / Internet / Platforms accounted for 21 bullets across the week's daily recaps.",
+      "movers": [],
+      "sources": []
+    },
+    {
+      "label": "Trump 2.0 / US Policy",
+      "narrative": "Trump 2.0 / US Policy accounted for 20 bullets across the week's daily recaps.",
       "movers": [],
       "sources": []
     }

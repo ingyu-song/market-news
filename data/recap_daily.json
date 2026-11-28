@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-27T03:55:21+00:00",
+  "generated_at": "2026-11-28T03:41:24+00:00",
   "mode": "daily",
-  "for_date": "2026-11-27",
+  "for_date": "2026-11-28",
   "headline": "China / Tariffs / Geopolitics leads today's tape",
-  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 53 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
+  "summary": "Top topic by coverage: China / Tariffs / Geopolitics. 43 headlines bucketed into 6 editorial themes. X chatter highlights Semiconductor equipment suppliers securing 2028-2029 POs.",
   "sections": [
     {
       "label": "China / Tariffs / Geopolitics",
       "bullets": [
         {
-          "lead": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions.",
+          "lead": "Opinion | Brace for the Trump-Warren Credit Card.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-                  "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Opinion | Brace for the Trump-Warren Credit Card",
+                  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFgwV0g0d1ZYMkRHX05sZGo1d2pxOUNFeVNidkcwbmEtQ2J5VkhoMm9HR0hYRXVUX1BCUEYzMDhUVjJhZ3l5SDBQU3F1ZVNrUEV0clVDWkxQWlNWOXNMY2h1YzJjQkVqeUh5bTRvSk1GU3A5QWhBZ3JodzllVWxTU2NIc0tkQQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -26,16 +26,16 @@
           ]
         },
         {
-          "lead": "China industrial profits growth surges to a 5-month high of 20.1% in October.",
+          "lead": "China’s Cabinet Stresses Market Support in Rare Midday Statement.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-                  "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-                  "source": "CNBC Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
+                  "title": "China’s Cabinet Stresses Market Support in Rare Midday Statement",
+                  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQak5CQ2hzYk9WT0pEN2JpTjdqdU81V2pWSkxEVmdVcy11NDhqX0RfRngwU3ZXczl6dXFkZXg3aEpPakM2ZTY4QXNJVlpiVEJ2MUs0bUF0MzVJUXd3dWtvWFJna2U2aVhYbTNmM3o1UmZBaGxZRzVCS0JwS1FMYVlUSmltWE1GTkkwdmhxMG5xYi1sNDBDLURIVExoODFYVVhHZkdaa1VyUnFTLTNw?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -43,16 +43,16 @@
           ]
         },
         {
-          "lead": "Taiwan seeks to lock in 15% US tariff to shield AI server and chip exports.",
+          "lead": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Taiwan seeks to lock in 15% US tariff to shield AI server and chip exports",
-                  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObkFmdkRIMFRQUVVGc0dBTE5WSGxodHBRcnAzc2lBUWdGMVdIdjlOaGFVMW9LcEw5OFZiVWFhNmtZNFhiUi10UzJSMFUtMmRCRW91cWwxZ3ZTNWg1NXNiN20tcE13X1V4b0M3VGIyMXRoSmh6RjhkeVBMR3NCS1VLN2ZfTGNKa1FkZjRSNnJMaHpKcFhRaHc?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
+                  "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -65,16 +65,16 @@
       "label": "Fed / Rates / Macro",
       "bullets": [
         {
-          "lead": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week.",
+          "lead": "//靑 \"미래기금 104조는 금융자산\" vs 학계 \"적자국채 찍어 마련\".",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Gold Steadies as Fed Rate Path and AI Stocks Frame Volatile Week",
-                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjBId0RKMFpkWFQ3R3VMeVV3T0VOMEI5dzRuWWZaMGNLVFBtRXZoWjJlWHhsdXVqdGNYT2NNc3ctSU9zdXpCR3ZaSXFENDhwQ1BQa1RqV01palJ3LWcxOWFnRXZFRm40NGRTaU9XYU9yOGF2WXAtV0lxOEdDcWZmSUxfYlZfZENjV3JUX0k5YmstSkk3V1ZWVWpkR1VjdDNzdkF6ZGxSNXpOZ1AxZmlGNThJTE0zUQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "//靑 \"미래기금 104조는 금융자산\" vs 학계 \"적자국채 찍어 마련\"",
+                  "link": "https://n.news.naver.com/mnews/article/015/0005359316?sid=100",
+                  "source": "Naver 뉴스 · 반도체",
+                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -82,14 +82,14 @@
           ]
         },
         {
-          "lead": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data.",
+          "lead": "BOE’s Bailey Sees Lower Peak for Inflation if Energy Prices Stay Where They Are.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
-                  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy1aZXhiVjBaS2RzMmxBdmx2Nk9zekJRT1dpWDlvOVZ1M05QNllocHRpSDZ4OXZIM1dEMWdyekpjMHgzVk9zOWd0b3dsU3J6b0lyaURkSElnV1p3bTBkZ1hQT2d1TnlYRHNXTk1tQ0FCcGp3eXlMSU9IZGxCamhGZE5mRHVfOXJOZW5wUTVDa2ptOU80OE93ODMyQmFyQ3JMTnJKN2FmWk12QQ?oc=5",
+                  "title": "BOE’s Bailey Sees Lower Peak for Inflation if Energy Prices Stay Where They Are",
+                  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc2pwMGFrdlZwVnNHTFdvQldXRlRYeUF2bEJLTlJIdGxmOWdHTmN5eEk1MUZsdEFac0I5MFlCaUpUR3BqejZyVXc5WmlWd0N1YUNFZkpWTWRzaF9idVY2YWNnLWhYZ2VJX1kyOGd0TlgwcjNsVWFSME1ZM3U5ZG9UWWNFRHNkaWZVYnZJcGRCTkxEeEhQVnJpdXl5RVZUMGM5UkQ0SGd6RTVaSzBrMmF3azhTalBmVFdqMDJiTUFtY0pHOXRlM2c?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
@@ -99,16 +99,16 @@
           ]
         },
         {
-          "lead": "Cautious consumers gear up for Black Friday as inflation woes bite.",
+          "lead": "ECB officials signal further rate hikes as inflation remains elevated.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Cautious consumers gear up for Black Friday as inflation woes bite",
-                  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNXzUyQUp1enhRcjVIdWlBejd2XzFsdXVwaFF1SUswaVBuTzBKMkE2cU5GdnVSX2tiMjVIYnQzLXFKN3E2UWZ0bVZkX3dvdjEzaHRQRUdsM1pBOF9vaG0wYWVKZ2JNam5zWXZmT25QcVhPcWIwcDQ5cEx2U3QyQW1LcE43UEpGQVhpMF94bjVid21hYm9YbEZ0UnhBTnhPdlBJRFpzbFhsbWxBNndmeGNjcHptNXhJMnlQNk94TQ?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "ECB officials signal further rate hikes as inflation remains elevated",
+                  "link": "https://www.investing.com/news/stock-market-news/ecb-officials-signal-further-rate-hikes-as-inflation-remains-elevated-5054086",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -121,16 +121,16 @@
       "label": "Trump 2.0 / US Policy",
       "bullets": [
         {
-          "lead": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia.",
+          "lead": "Opinion | Brace for the Trump-Warren Credit Card.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXUzbTJkNUdvMWM1MEw5blpJRlpMLXI0TXhfMlV4T1B4a2NoVWQ1ajVZa1BXTnp3cXpScldieVc3NHpSZXUyUGNFS1VoOVJQQ0pKWWxXdTJ5TjlUUzZKUTNGSzdRa3dYTTVOMG9rUXpKX0dSMDRJeTJTbVo4NFNqdGVSUmlLYW9IM1hMbXFKajE3XzQ5TDFMVkpmUQ?oc=5",
-                  "source": "Bloomberg (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
+                  "title": "Opinion | Brace for the Trump-Warren Credit Card",
+                  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFgwV0g0d1ZYMkRHX05sZGo1d2pxOUNFeVNidkcwbmEtQ2J5VkhoMm9HR0hYRXVUX1BCUEYzMDhUVjJhZ3l5SDBQU3F1ZVNrUEV0clVDWkxQWlNWOXNMY2h1YzJjQkVqeUh5bTRvSk1GU3A5QWhBZ3JodzllVWxTU2NIc0tkQQ?oc=5",
+                  "source": "WSJ Markets",
+                  "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -138,33 +138,16 @@
           ]
         },
         {
-          "lead": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered.",
+          "lead": "Trump’s Nvidia intervention has a cost for US stocks.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
-                  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHRXZnN1TmZVRDJ6VUJtNjhuRm85eGlQVmdGNGQ0SC0yeHlPVUlKSksyLVNZa0VqRGdqUWVtaW1oNHhjQldDdHlKYnZ0TVgtbkpEcmJfVEcyTUxnNkNYeEdaYXlWUmQwcnhyLUtrUERoYnhIdnVxV3lFeUhza21Wc3U2WW9yd2loWmpxeXE4SG9OT2Rlai1reWtSemRkYnlBZndLaFVNOHJHeDF4ZkVmckpqSzZSbElNZHpfdUFLTTBsOW9C?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Faisal Islam: Why Trump's new tariffs are less of a threat.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-                  "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
-                  "source": "BBC Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=bbc.com&sz=64"
+                  "title": "Trump’s Nvidia intervention has a cost for US stocks",
+                  "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -177,16 +160,16 @@
       "label": "US Semis / AI Chips",
       "bullets": [
         {
-          "lead": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM.",
+          "lead": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
-                  "link": "https://www.investing.com/news/stock-market-news/singapore-yet-to-confirm-if-nvidia-has-halted-advanced-chip-shipments-deputy-pm-5052834",
-                  "source": "Investing.com",
-                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+                  "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+                  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+                  "source": "Bloomberg (via Google News)",
+                  "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -194,16 +177,16 @@
           ]
         },
         {
-          "lead": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등.",
+          "lead": "Trump’s Nvidia intervention has a cost for US stocks.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "엔비디아발 'AI 조정' 잦아드나…코스피·코스닥 일제히 급등",
-                  "link": "https://n.news.naver.com/mnews/article/001/0016467590?sid=101",
-                  "source": "Naver 뉴스 · 반도체",
-                  "favicon": "https://www.google.com/s2/favicons?domain=naver.com&sz=64"
+                  "title": "Trump’s Nvidia intervention has a cost for US stocks",
+                  "link": "https://www.ft.com/content/3318a827-bf20-4826-947d-9327381c3c10?syn-25a6b1a6=1",
+                  "source": "Financial Times",
+                  "favicon": "https://www.google.com/s2/favicons?domain=ft.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -211,16 +194,16 @@
           ]
         },
         {
-          "lead": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions.",
+          "lead": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-                  "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-                  "source": "NYT Business",
-                  "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+                  "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+                  "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+                  "source": "CNBC Finance",
+                  "favicon": "https://www.google.com/s2/favicons?domain=cnbc.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -233,50 +216,16 @@
       "label": "Earnings / Guidance",
       "bullets": [
         {
-          "lead": "EmBestor's earnings soar 15-fold on the memory rally, but its real bet is industrial AI.",
+          "lead": "Shein Profit Rises Despite Lower Revenue as It Adapts to Trade Challenges.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "EmBestor's earnings soar 15-fold on the memory rally, but its real bet is industrial AI",
-                  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV002akxjeEZYUHdJbGZJdXpTVE9LSFFvdWtHcV9HQjUydkJvV09QbmFlSTZuQnJZS3k3blhxUGdTZ0dDclVuR2tndllYMzZzTGt4bUZaSFItZUN3TmFac2lkSGxESE54cWtycnhjM3FPQ2lxeElxUTV5bFgtTFFjTktILWN2N2g0aFZfYWc1d004djBXaWh5VUdTaw?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "MSCI India Gets Rare Earnings Upgrade.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "MSCI India Gets Rare Earnings Upgrade",
-                  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS01RbEFRTmRIc2tuZU1Fa2dSV25aSzJrVGV6bV9ZN3llWVdmaTZNNDdxRzBuZDEwZjlieHllbmVJWGxJQkZMMkZjMWVfUHltaG1oSGFJYkJQSjZvOFVvdm16aUNUaldESDh4amt6bWZ2UlkwQ2N1WUhBczFuT2QyUEkwN2VPTEtPMXA1NzBkUkJ2QQ?oc=5",
+                  "title": "Shein Profit Rises Despite Lower Revenue as It Adapts to Trade Challenges",
+                  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkJPeGRJc1h0T2dFNG9RdkJOS3JGcnp6Sk53aG9hazRuMEJYbU90OHBMTGlpQ01TYzh0S3lMTkpTdXdzU0tHTlFpc3NtZEdGWkhXU0E1MGdMVHl5YWt5WS1MRjNoaG5EMG1JYlQyMjR0aVBwZ0xSTUhkWmdWRXNBZFFWb0k2VmszZ2g5blFUUUtxOVBZWFBBRHYtSlRWQUphX1AxWk5hVGotN3hFSWNwOHNvNldBYXM?oc=5",
                   "source": "WSJ Markets",
                   "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
-                }
-              ],
-              "x_mentions": []
-            }
-          ]
-        },
-        {
-          "lead": "Kaimei expects fourth-quarter revenue to slip from third-quarter peak as AI project delays weigh.",
-          "segments": [
-            {
-              "text": "",
-              "sources": [
-                {
-                  "title": "Kaimei expects fourth-quarter revenue to slip from third-quarter peak as AI project delays weigh",
-                  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaHV1X0wwdDBoc0YyOFVmWUxwRlhZTmRpZUg1bVVieEJpdUdjMXh1bEpVakN1RTVUUEdZQjRQTjBGOHlSOGRpZ0FzOFp6VjN2MnFlSmVNd0VmSmtTbnNKQ3R4SWZRQ29NQXM0T2lzWTlXSFg5VGxRcFg5SkY5a05wMWtuTzRsQ0IyX2c?oc=5",
-                  "source": "DigiTimes",
-                  "favicon": "https://www.google.com/s2/favicons?domain=digitimes.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -289,16 +238,16 @@
       "label": "Software / Internet / Platforms",
       "bullets": [
         {
-          "lead": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More.",
+          "lead": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-                  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTFhzS01DT19pajZySGRKZWt3TTc4UGpaMTlYNlJxUWpqVzdmQjgwRW9WemlrZnlzRElZZF96N0VrMUdMWHJIRVd5dWxraWFyWG96SUQwcEtEbVlGM2VPOUNxVGtuVklTWU50cGdSU29jc2hVczdqTW0xdC1OeEtTa0E1bzFZYnZXdWlCaEJqT1U2eTVJOGlTZlFDblBEOVVld3ZuZ09zQUstd1dfbFZWOThWOEhHSHdYWVRtTVdRSEtxZUxXNXRzdGlwMTRydnkyOWdNME1sd1lpZzdsYWFaSnNkaVRHS21r?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+                  "link": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -306,16 +255,16 @@
           ]
         },
         {
-          "lead": "India asks Netflix not to air Pakistani show, local media report.",
+          "lead": "US Black Friday online sales to cross $13 billion, Adobe says.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "India asks Netflix not to air Pakistani show, local media report",
-                  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM0x4N1FHbVMzTk9UZ2tfR0FDeTdUT1N6UTc0cXNIWTIwckdUQ0swRXZTWUkzZFlJQ3hoejg4ZlNaci1zX0pUbWdmR3FQOFNUMHhxM1kwN1hHUjFtVFNGcmZDT2xnb1dHT3ZZRTNKbTJuZ3RZbjZYVkZYSW1FZ0RSbXhnRFhZbVhzV2V4V3hVNDVCWlJxSFAwNXhfV2t0NXBmVnE4d3k3V1B5ekFlTm5IbURGcUxoZmFxeG9j?oc=5",
-                  "source": "Reuters Business (via Google News)",
-                  "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
+                  "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+                  "link": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -323,16 +272,16 @@
           ]
         },
         {
-          "lead": "November 10 Microsoft Windows Update Can Cause Authentication To Fail.",
+          "lead": "US Black Friday online sales to cross $13 billion, Adobe says.",
           "segments": [
             {
               "text": "",
               "sources": [
                 {
-                  "title": "November 10 Microsoft Windows Update Can Cause Authentication To Fail",
-                  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHQyZ0dJMllLNVllTHZoUFJUdi1ldkpDYm1DZEk4dlJzUUZYSUVQMGk0eDZxY3BOY3c2UUQ3LVdPcXYwSjl6b1pyZ2NqbVk0Z3Rza1psQXI4WTA4Y1Y3Vzd4dUVfcVFRbDJCR3FOazdxblZ3X3pfNGxvaEg0QkJJY0lfV2RCV2hwdlBNd1JJRHB1c0t0YUZGaDV2eHpLVll5OVgwenJoY0xQY29JZnJTRWgzTV92djlRN0lsMU93Yw?oc=5",
-                  "source": "Forbes Markets",
-                  "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+                  "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+                  "link": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-to-cross-13-billion-adobe-says-5054031",
+                  "source": "Investing.com",
+                  "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
                 }
               ],
               "x_mentions": []
@@ -344,12 +293,12 @@
   ],
   "watchlist": [
     {
-      "name": "TRUMP",
-      "note": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
+      "name": "Nvidia",
+      "note": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
       "sources": [
         {
-          "title": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXUzbTJkNUdvMWM1MEw5blpJRlpMLXI0TXhfMlV4T1B4a2NoVWQ1ajVZa1BXTnp3cXpScldieVc3NHpSZXUyUGNFS1VoOVJQQ0pKWWxXdTJ5TjlUUzZKUTNGSzdRa3dYTTVOMG9rUXpKX0dSMDRJeTJTbVo4NFNqdGVSUmlLYW9IM1hMbXFKajE3XzQ5TDFMVkpmUQ?oc=5",
+          "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
           "source": "Bloomberg (via Google News)",
           "favicon": "https://www.google.com/s2/favicons?domain=bloomberg.com&sz=64"
         }
@@ -357,25 +306,38 @@
       "x_mentions": []
     },
     {
-      "name": "Nvidia",
-      "note": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+      "name": "TRUMP",
+      "note": "Opinion | Brace for the Trump-Warren Credit Card",
       "sources": [
         {
-          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-          "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-          "source": "NYT Business",
-          "favicon": "https://www.google.com/s2/favicons?domain=nytimes.com&sz=64"
+          "title": "Opinion | Brace for the Trump-Warren Credit Card",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFgwV0g0d1ZYMkRHX05sZGo1d2pxOUNFeVNidkcwbmEtQ2J5VkhoMm9HR0hYRXVUX1BCUEYzMDhUVjJhZ3l5SDBQU3F1ZVNrUEV0clVDWkxQWlNWOXNMY2h1YzJjQkVqeUh5bTRvSk1GU3A5QWhBZ3JodzllVWxTU2NIc0tkQQ?oc=5",
+          "source": "WSJ Markets",
+          "favicon": "https://www.google.com/s2/favicons?domain=wsj.com&sz=64"
         }
       ],
       "x_mentions": []
     },
     {
-      "name": "Netflix",
-      "note": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+      "name": "Adobe",
+      "note": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
       "sources": [
         {
-          "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTFhzS01DT19pajZySGRKZWt3TTc4UGpaMTlYNlJxUWpqVzdmQjgwRW9WemlrZnlzRElZZF96N0VrMUdMWHJIRVd5dWxraWFyWG96SUQwcEtEbVlGM2VPOUNxVGtuVklTWU50cGdSU29jc2hVczdqTW0xdC1OeEtTa0E1bzFZYnZXdWlCaEJqT1U2eTVJOGlTZlFDblBEOVVld3ZuZ09zQUstd1dfbFZWOThWOEhHSHdYWVRtTVdRSEtxZUxXNXRzdGlwMTRydnkyOWdNME1sd1lpZzdsYWFaSnNkaVRHS21r?oc=5",
+          "title": "U.S. Black Friday online sales set to exceed $13 billion, Adobe predicts",
+          "link": "https://www.investing.com/news/stock-market-news/us-black-friday-online-sales-set-to-exceed-13-billion-adobe-predicts-5054063",
+          "source": "Investing.com",
+          "favicon": "https://www.google.com/s2/favicons?domain=investing.com&sz=64"
+        }
+      ],
+      "x_mentions": []
+    },
+    {
+      "name": "Anthropic",
+      "note": "U.S. Stock Futures Surge As Nvidia, Anthropic And Other AI Shares Rally In Premarket Trading",
+      "sources": [
+        {
+          "title": "U.S. Stock Futures Surge As Nvidia, Anthropic And Other AI Shares Rally In Premarket Trading",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNXhhekVTYTY0MENIaVV0S2xLOWZpWE1MZFFDanR2VmZMSXN3Q0hnTzB4U1lsOC1KSFlWZDhVS2lIUlFfRG9yYnk1UTRMOXU2dTQzQzVuejJ3aVp5RDhTVm9hbDc4RV9UMlpWaWVBeWU2bXJkeTFwTFhfNmFVTXF3ai03Y25WbU5weTh3RDA3dmJkdmlvWk9iVk9ER0RxSHZjMXNyZC1JeXlTYlRXMVk0NGgyVmhaeDlRQWRZN0ZPdUZjdGFNYzhUOUpNd3lfQzhDb3FrcA?oc=5",
           "source": "Forbes Markets",
           "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
         }
@@ -383,27 +345,14 @@
       "x_mentions": []
     },
     {
-      "name": "Apple",
-      "note": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+      "name": "Palantir",
+      "note": "Poland signs contract with Palantir worth $300 mln over 5 years",
       "sources": [
         {
-          "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTFhzS01DT19pajZySGRKZWt3TTc4UGpaMTlYNlJxUWpqVzdmQjgwRW9WemlrZnlzRElZZF96N0VrMUdMWHJIRVd5dWxraWFyWG96SUQwcEtEbVlGM2VPOUNxVGtuVklTWU50cGdSU29jc2hVczdqTW0xdC1OeEtTa0E1bzFZYnZXdWlCaEJqT1U2eTVJOGlTZlFDblBEOVVld3ZuZ09zQUstd1dfbFZWOThWOEhHSHdYWVRtTVdRSEtxZUxXNXRzdGlwMTRydnkyOWdNME1sd1lpZzdsYWFaSnNkaVRHS21r?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
-        }
-      ],
-      "x_mentions": []
-    },
-    {
-      "name": "Microsoft",
-      "note": "November 10 Microsoft Windows Update Can Cause Authentication To Fail",
-      "sources": [
-        {
-          "title": "November 10 Microsoft Windows Update Can Cause Authentication To Fail",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHQyZ0dJMllLNVllTHZoUFJUdi1ldkpDYm1DZEk4dlJzUUZYSUVQMGk0eDZxY3BOY3c2UUQ3LVdPcXYwSjl6b1pyZ2NqbVk0Z3Rza1psQXI4WTA4Y1Y3Vzd4dUVfcVFRbDJCR3FOazdxblZ3X3pfNGxvaEg0QkJJY0lfV2RCV2hwdlBNd1JJRHB1c0t0YUZGaDV2eHpLVll5OVgwenJoY0xQY29JZnJTRWgzTV92djlRN0lsMU93Yw?oc=5",
-          "source": "Forbes Markets",
-          "favicon": "https://www.google.com/s2/favicons?domain=forbes.com&sz=64"
+          "title": "Poland signs contract with Palantir worth $300 mln over 5 years",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcE9acGJ4ZnNpRGhDSXVvN1lpUWNyQTlJalVfQ25acTN3Q0JuTW9ydHFPb3paNUx4MEQxQUhpSnVfV0xwaEVvblo3NG8xOGtMZHlLdEs0Qi1iSGVhM1RYcVg4ZlhjU0VfYW9ReFk2cU1DdXVWMzVweElzQjkyN0ZZUFZjTDNaZmk4TF9jTnhGZDVDRnRuVWxaaUhxckxQTEJQYVJmTERxRFlGaFpNSGc?oc=5",
+          "source": "Reuters Business (via Google News)",
+          "favicon": "https://www.google.com/s2/favicons?domain=reuters.com&sz=64"
         }
       ],
       "x_mentions": []
@@ -478,67 +427,67 @@
       "name": "S&P 500",
       "symbol": "^GSPC",
       "group": "US",
-      "price": 7182.78,
-      "change": -19.67,
-      "change_pct": -0.27
+      "price": 7297.49,
+      "change": 114.76,
+      "change_pct": 1.6
     },
     {
       "name": "Nasdaq",
       "symbol": "^IXIC",
       "group": "US",
-      "price": 23585.8,
-      "change": -149.88,
-      "change_pct": -0.63
+      "price": 24129.5,
+      "change": 548.88,
+      "change_pct": 2.33
     },
     {
       "name": "Dow Jones",
       "symbol": "^DJI",
       "group": "US",
-      "price": 50182.95,
-      "change": 156.49,
-      "change_pct": 0.31
+      "price": 50774.94,
+      "change": 594.6,
+      "change_pct": 1.18
     },
     {
       "name": "Russell 2000",
       "symbol": "^RUT",
       "group": "US",
-      "price": 2704.06,
-      "change": 19.55,
-      "change_pct": 0.73
+      "price": 2750.3,
+      "change": 46.78,
+      "change_pct": 1.73
     },
     {
       "name": "Nikkei 225",
       "symbol": "^N225",
       "group": "Asia",
-      "price": 58434.22,
-      "change": 993.86,
-      "change_pct": 1.73
+      "price": 58711.11,
+      "change": 1270.75,
+      "change_pct": 2.21
     },
     {
       "name": "Hang Seng",
       "symbol": "^HSI",
       "group": "Asia",
-      "price": 22401.82,
-      "change": 174.94,
-      "change_pct": 0.79
+      "price": 22694.77,
+      "change": 467.89,
+      "change_pct": 2.11
     },
     {
       "name": "KOSPI",
       "symbol": "^KS11",
       "group": "Asia",
-      "price": 4871.74,
-      "change": 131.54,
-      "change_pct": 2.77
+      "price": 4915.68,
+      "change": 175.48,
+      "change_pct": 3.7
     },
     {
       "name": "TAIEX",
       "symbol": "^TWII",
       "group": "Asia",
-      "price": 39272.28,
-      "change": 9.89,
-      "change_pct": 0.03
+      "price": 39308.08,
+      "change": 45.69,
+      "change_pct": 0.12
     }
   ],
-  "story_count": 53,
-  "bucket_count": 12
+  "story_count": 43,
+  "bucket_count": 11
 }
